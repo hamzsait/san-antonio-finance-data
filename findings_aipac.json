@@ -1,0 +1,19 @@
+{
+  "category": "aipac",
+  "rules": [
+    {
+      "name": "fec_committee_id_match",
+      "description": "Donor's fec_contributions_raw.committee_id is one of the curated AIPAC FEC committees (C00797670 = AIPAC PAC, C00799031 = United Democracy Project). Confidence: high."
+    },
+    {
+      "name": "civic_affiliations_match",
+      "description": "Austin civic_affiliations row with category='aipac_direct' whose canonical_name matches the SA donor's canonical_name (case-insensitive 'Last, First' form). Confidence: medium."
+    },
+    {
+      "name": "employer_match",
+      "description": "donor_identities.canonical_employer or fec_contributions_raw.fec_employer contains the literal token 'AIPAC' (case-insensitive, word-boundaried). Confidence: low alone, medium combined with another rule."
+    }
+  ],
+  "findings": [],
+  "notes": "Zero matches across all three rules against 634 SA donor identities and 8,952 FEC contributions. Neither AIPAC PAC (C00797670) nor United Democracy Project (C00799031) appear in fec_committee_cache or fec_contributions_raw. No SA donor canonical_name matches the two unique aipac_direct names in austin.civic_affiliations ('Lieberman, Nora'; 'Lubetzky, Daniel'). No canonical_employer, fec_employer, fec_occupation, or campaign_finance.donor_reported_employer contains 'AIPAC'. Empty result is the correct answer; the SA donor pool (Galvan D6 + Shaikh D8) does not intersect AIPAC's contributor network at the evidence levels available."
+}

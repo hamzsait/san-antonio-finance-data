@@ -1,0 +1,1325 @@
+{
+  "category": "mic",
+  "rules": [
+    {
+      "name": "fec_committee_id_match",
+      "description": "Donor's fec_contributions_raw.committee_id is one of the curated defense-contractor PACs (verified via fec.gov, listed below). Confidence: high in principle, but in this run the only rule-1 hits arrive via a fuzzy-name-matched donor whose contributions are tagged with a different city, so the single rule-1 finding is downgraded to low + sensitive."
+    },
+    {
+      "name": "employer_match",
+      "description": "donor_identities.canonical_employer or fec_contributions_raw.fec_employer matches a defense-contractor token: lockheed, boeing, northrop, raytheon, rtx, general dynamics, l3harris, bae systems, booz allen, leidos, saic, mitre, palantir, anduril, honeywell aerospace (NOT bare 'honeywell'), caci. Special-case: 'southwest research' / 'swri' is a 501(c)(3) research institute with substantial DoD-funded dual-use research; any match is flagged sensitive=true. Confidence: medium with corroborating signal, low alone."
+    },
+    {
+      "name": "occupation_match",
+      "description": "fec_occupation contains 'AEROSPACE ENGINEER', 'DEFENSE CONTRACTOR', 'MILITARY OFFICER (RETIRED)' etc. Used as low-confidence corroboration only; never alone. (No findings rest solely on this rule in this run.)"
+    }
+  ],
+  "verified_committee_ids": [
+    {
+      "id": "C00303024",
+      "name": "Lockheed Martin Corporation Employees' PAC",
+      "url": "https://www.fec.gov/data/committee/C00303024/"
+    },
+    {
+      "id": "C00142711",
+      "name": "The Boeing Company PAC",
+      "url": "https://www.fec.gov/data/committee/C00142711/"
+    },
+    {
+      "id": "C00088591",
+      "name": "Employees of Northrop Grumman Corporation PAC (ENGPAC)",
+      "url": "https://www.fec.gov/data/committee/C00088591/"
+    },
+    {
+      "id": "C00250209",
+      "name": "Northrop Grumman Innovation Systems Inc PAC (OAPAC)",
+      "url": "https://www.fec.gov/data/committee/C00250209/"
+    },
+    {
+      "id": "C00097568",
+      "name": "Employees of RTX Corporation PAC",
+      "url": "https://www.fec.gov/data/committee/C00097568/"
+    },
+    {
+      "id": "C00035683",
+      "name": "Raytheon Technologies Corporation PAC (formerly UTC PAC, terminated)",
+      "url": "https://www.fec.gov/data/committee/C00035683/"
+    },
+    {
+      "id": "C00078451",
+      "name": "General Dynamics Corporation PAC",
+      "url": "https://www.fec.gov/data/committee/C00078451/"
+    },
+    {
+      "id": "C00100321",
+      "name": "L3Harris Technologies, Inc. PAC",
+      "url": "https://www.fec.gov/data/committee/C00100321/"
+    },
+    {
+      "id": "C00129122",
+      "name": "Aerojet Rocketdyne (an L3Harris Technologies Company) PAC",
+      "url": "https://www.fec.gov/data/committee/C00129122/"
+    },
+    {
+      "id": "C00281212",
+      "name": "BAE Systems Inc. PAC (BAE Systems USA PAC)",
+      "url": "https://www.fec.gov/data/committee/C00281212/"
+    },
+    {
+      "id": "C00330076",
+      "name": "BAE Systems United Defense Employees PAC",
+      "url": "https://www.fec.gov/data/committee/C00330076/"
+    },
+    {
+      "id": "C00709816",
+      "name": "Booz Allen Hamilton Inc. PAC",
+      "url": "https://www.fec.gov/data/committee/C00709816/"
+    },
+    {
+      "id": "C00546234",
+      "name": "Leidos Inc. PAC",
+      "url": "https://www.fec.gov/data/committee/C00546234/"
+    },
+    {
+      "id": "C00300418",
+      "name": "Science Applications International Corporation (SAIC) Voluntary PAC",
+      "url": "https://www.fec.gov/data/committee/C00300418/"
+    },
+    {
+      "id": "C00096156",
+      "name": "Honeywell International PAC (mixed commercial/defense; included for completeness)",
+      "url": "https://www.fec.gov/data/committee/C00096156/"
+    },
+    {
+      "id": "C00464453",
+      "name": "Aerospace Industries Association of America Inc PAC (AIAPAC, terminated)",
+      "url": "https://www.fec.gov/data/committee/C00464453/"
+    }
+  ],
+  "rejected_seeds": [
+    {
+      "name": "National Defense Industrial Association (NDIA)",
+      "reason": "501(c)(3) educational trade association; no FEC-registered PAC. Excluded."
+    },
+    {
+      "name": "C00026153 ('Gen Dynamics Effect Citizen Prog' string in fec_contributions_raw)",
+      "reason": "Could not verify via fec.gov as a current/canonical defense PAC ID; not used as a rule-1 trigger."
+    }
+  ],
+  "findings": [
+    {
+      "donor_id": "0ac321b1-b88f-477f-a5fa-ba2025e0d1f8",
+      "label": "Defense Industry Donor (Lockheed Martin employee 2019-2021)",
+      "total_amount": null,
+      "confidence": "medium",
+      "first_seen": "2019-01-07",
+      "last_seen": "2021-12-14",
+      "notes": "Skyler Korgel (Austin TX 78653, $12 to D6 Galvan) self-reported as a Lockheed Martin Manufacturing Engineer in 34 FEC ActBlue (C00401224) earmark records spanning 2019-01-07 to 2021-12-14. Subsequently moved to non-defense roles (Every Texan policy analyst 2022; Texas House Legislative Director 2023-present). No contributions to any verified defense PAC. Affiliation rests on the employer_match rule alone; confidence medium because the Lockheed employer string is consistent across 34 records over 3 years with no ambiguity. total_amount left null because the rule-1 (defense-PAC contribution) total is $0 and the SA donation is unrelated to defense.",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-01-07 (amount $10.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7226",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 10.0,
+          "date": "2019-01-07",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-01-16 (amount $10.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7225",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 10.0,
+          "date": "2019-01-16",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-04-16 (amount $5.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7222",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 5.0,
+          "date": "2019-04-16",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-04-16 (amount $6.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7223",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 6.0,
+          "date": "2019-04-16",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-04-16 (amount $8.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7224",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 8.0,
+          "date": "2019-04-16",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-04-19 (amount $5.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7221",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 5.0,
+          "date": "2019-04-19",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-04-22 (amount $2.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7216",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.0,
+          "date": "2019-04-22",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-04-22 (amount $3.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7217",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 3.0,
+          "date": "2019-04-22",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-04-22 (amount $1.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7218",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 1.0,
+          "date": "2019-04-22",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-04-22 (amount $3.5, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7219",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 3.5,
+          "date": "2019-04-22",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-04-22 (amount $2.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7220",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.0,
+          "date": "2019-04-22",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-05-30 (amount $1.1, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7215",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 1.1,
+          "date": "2019-05-30",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-06-30 (amount $7.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7213",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 7.0,
+          "date": "2019-06-30",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-06-30 (amount $4.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7214",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 4.0,
+          "date": "2019-06-30",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-07-22 (amount $10.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7211",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 10.0,
+          "date": "2019-07-22",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-07-22 (amount $5.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7212",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 5.0,
+          "date": "2019-07-22",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-07-23 (amount $2.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7209",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.0,
+          "date": "2019-07-23",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-07-23 (amount $2.5, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7210",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.5,
+          "date": "2019-07-23",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2019-08-04 (amount $1.5, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7208",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 1.5,
+          "date": "2019-08-04",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2020-01-09 (amount $10.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7207",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 10.0,
+          "date": "2020-01-09",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2020-01-27 (amount $7.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7203",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 7.0,
+          "date": "2020-01-27",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2020-01-27 (amount $5.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7204",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 5.0,
+          "date": "2020-01-27",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2020-01-27 (amount $5.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7205",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 5.0,
+          "date": "2020-01-27",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2020-01-27 (amount $7.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7206",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 7.0,
+          "date": "2020-01-27",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2020-06-11 (amount $15.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7202",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2020-06-11",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2020-10-08 (amount $10.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7201",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 10.0,
+          "date": "2020-10-08",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2020-10-21 (amount $7.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7200",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 7.0,
+          "date": "2020-10-21",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2020-10-26 (amount $2.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7199",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.0,
+          "date": "2020-10-26",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2021-01-16 (amount $10.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7198",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 10.0,
+          "date": "2021-01-16",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2021-05-10 (amount $10.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7197",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 10.0,
+          "date": "2021-05-10",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2021-08-05 (amount $12.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7195",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 12.0,
+          "date": "2021-08-05",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2021-08-05 (amount $15.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7196",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2021-08-05",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2021-11-24 (amount $20.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7194",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 20.0,
+          "date": "2021-11-24",
+          "rule": "employer_match: lockheed"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=KORGEL%2C+SKYLER",
+          "evidence_text": "FEC contribution by Korgel, Skyler with self-reported employer 'LOCKHEED MARTIN' and occupation 'MANUFACTURING ENGINEER' on 2021-12-14 (amount $35.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=7193",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 35.0,
+          "date": "2021-12-14",
+          "rule": "employer_match: lockheed"
+        }
+      ]
+    },
+    {
+      "donor_id": "16916722-afce-47ec-9962-1fe863fe5c24",
+      "label": "Defense-Adjacent Researcher (Southwest Research Institute, dual-use 501(c)(3))",
+      "total_amount": null,
+      "confidence": "medium",
+      "first_seen": "2008-06-03",
+      "last_seen": "2016-11-06",
+      "notes": "Bernie Villasenor (San Antonio TX 78226, $100 to D6 Galvan) self-reported as a Southwest Research Institute (SwRI) Research Technologist / Research Assistant across 71 FEC records spanning 2008-06-03 to 2016-11-06. SwRI is a San Antonio-based 501(c)(3) independent research organization that performs substantial DoD-funded dual-use R&D (propulsion, automated/intelligent systems, etc.) but is NOT a for-profit defense contractor. Per category instructions, SwRI matches are flagged sensitive=true so a human can decide whether the 'MIC' label is fair before publication. No contributions to any verified for-profit defense PAC. Affiliation rests on employer_match alone; confidence medium given the consistency and volume of the evidence.",
+      "sensitive": true,
+      "evidence": [
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INST.' and occupation 'RESEARCH ASSISTANT' on 2008-06-03 (amount $25.0, recipient committee C00431445).",
+          "contribution_id": "fec_contributions_raw.id=8459",
+          "committee_id": "C00431445",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2008-06-03",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INST.' and occupation 'RESEARCH ASSISTANT' on 2008-06-04 (amount $74.8, recipient committee C00431445).",
+          "contribution_id": "fec_contributions_raw.id=8458",
+          "committee_id": "C00431445",
+          "committee_name": null,
+          "amount": 74.8,
+          "date": "2008-06-04",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH ASSISTANT' on 2008-07-18 (amount $50.0, recipient committee C00431445).",
+          "contribution_id": "fec_contributions_raw.id=8457",
+          "committee_id": "C00431445",
+          "committee_name": null,
+          "amount": 50.0,
+          "date": "2008-07-18",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH ASSISTANT' on 2008-10-16 (amount $100.0, recipient committee C00431445).",
+          "contribution_id": "fec_contributions_raw.id=8456",
+          "committee_id": "C00431445",
+          "committee_name": null,
+          "amount": 100.0,
+          "date": "2008-10-16",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-04-08 (amount $2.5, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8454",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.5,
+          "date": "2012-04-08",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-04-08 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8455",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2012-04-08",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH' and occupation 'RESEARCH TECHNOLOGIST' on 2012-09-06 (amount $19.0, recipient committee C00431445).",
+          "contribution_id": "fec_contributions_raw.id=8452",
+          "committee_id": "C00431445",
+          "committee_name": null,
+          "amount": 19.0,
+          "date": "2012-09-06",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-09-06 (amount $20.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8453",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 20.0,
+          "date": "2012-09-06",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH' and occupation 'RESEARCH TECHNOLOGIST' on 2012-09-19 (amount $19.0, recipient committee C00431445).",
+          "contribution_id": "fec_contributions_raw.id=8450",
+          "committee_id": "C00431445",
+          "committee_name": null,
+          "amount": 19.0,
+          "date": "2012-09-19",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-09-19 (amount $10.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8451",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 10.0,
+          "date": "2012-09-19",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH' and occupation 'RESEARCH TECHNOLOGIST' on 2012-09-30 (amount $50.0, recipient committee C00431445).",
+          "contribution_id": "fec_contributions_raw.id=8449",
+          "committee_id": "C00431445",
+          "committee_name": null,
+          "amount": 50.0,
+          "date": "2012-09-30",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-10-04 (amount $5.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8448",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 5.0,
+          "date": "2012-10-04",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH' and occupation 'RESEARCH TECHNOLOGIST' on 2012-10-12 (amount $50.0, recipient committee C00431445).",
+          "contribution_id": "fec_contributions_raw.id=8447",
+          "committee_id": "C00431445",
+          "committee_name": null,
+          "amount": 50.0,
+          "date": "2012-10-12",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH' and occupation 'RESEARCH TECHNOLOGIST' on 2012-10-16 (amount $50.0, recipient committee C00431445).",
+          "contribution_id": "fec_contributions_raw.id=8446",
+          "committee_id": "C00431445",
+          "committee_name": null,
+          "amount": 50.0,
+          "date": "2012-10-16",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH' and occupation 'RESEARCH TECHNOLOGIST' on 2012-10-21 (amount $50.0, recipient committee C00431445).",
+          "contribution_id": "fec_contributions_raw.id=8445",
+          "committee_id": "C00431445",
+          "committee_name": null,
+          "amount": 50.0,
+          "date": "2012-10-21",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-10-28 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8444",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2012-10-28",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-11-01 (amount $2.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8439",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.0,
+          "date": "2012-11-01",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-11-01 (amount $2.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8440",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.0,
+          "date": "2012-11-01",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-11-01 (amount $2.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8441",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.0,
+          "date": "2012-11-01",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-11-01 (amount $2.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8442",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.0,
+          "date": "2012-11-01",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-11-01 (amount $2.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8443",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.0,
+          "date": "2012-11-01",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH' and occupation 'RESEARCH TECHNOLOGIST' on 2012-11-03 (amount $50.0, recipient committee C00431445).",
+          "contribution_id": "fec_contributions_raw.id=8438",
+          "committee_id": "C00431445",
+          "committee_name": null,
+          "amount": 50.0,
+          "date": "2012-11-03",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-11-04 (amount $15.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8437",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2012-11-04",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-11-08 (amount $15.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8436",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2012-11-08",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-11-14 (amount $5.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8435",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 5.0,
+          "date": "2012-11-14",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2012-12-21 (amount $3.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8434",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 3.0,
+          "date": "2012-12-21",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2013-04-26 (amount $5.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8433",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 5.0,
+          "date": "2013-04-26",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2013-04-30 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8432",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2013-04-30",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2013-07-05 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8431",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2013-07-05",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2013-08-05 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8430",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2013-08-05",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH ASSISTANT' on 2016-01-14 (amount $25.0, recipient committee C00341396).",
+          "contribution_id": "fec_contributions_raw.id=8428",
+          "committee_id": "C00341396",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2016-01-14",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-01-14 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8429",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2016-01-14",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-01-16 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8427",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2016-01-16",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-01-19 (amount $2.5, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8424",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 2.5,
+          "date": "2016-01-19",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-01-19 (amount $15.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8425",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2016-01-19",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-01-19 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8426",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2016-01-19",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-01-21 (amount $10.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8423",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 10.0,
+          "date": "2016-01-21",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-01-26 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8422",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2016-01-26",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-02-08 (amount $15.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8421",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2016-02-08",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-02-12 (amount $1.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8419",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 1.0,
+          "date": "2016-02-12",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-02-12 (amount $27.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8420",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 27.0,
+          "date": "2016-02-12",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-02-23 (amount $27.0, recipient committee C00577130).",
+          "contribution_id": "fec_contributions_raw.id=8416",
+          "committee_id": "C00577130",
+          "committee_name": null,
+          "amount": 27.0,
+          "date": "2016-02-23",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-02-23 (amount $1.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8417",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 1.0,
+          "date": "2016-02-23",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-02-23 (amount $27.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8418",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 27.0,
+          "date": "2016-02-23",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-02-27 (amount $15.0, recipient committee C00577130).",
+          "contribution_id": "fec_contributions_raw.id=8411",
+          "committee_id": "C00577130",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2016-02-27",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-02-27 (amount $25.0, recipient committee C00577130).",
+          "contribution_id": "fec_contributions_raw.id=8412",
+          "committee_id": "C00577130",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2016-02-27",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-02-27 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8413",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2016-02-27",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-02-27 (amount $1.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8414",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 1.0,
+          "date": "2016-02-27",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-02-27 (amount $15.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8415",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2016-02-27",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-03-11 (amount $27.0, recipient committee C00577130).",
+          "contribution_id": "fec_contributions_raw.id=8408",
+          "committee_id": "C00577130",
+          "committee_name": null,
+          "amount": 27.0,
+          "date": "2016-03-11",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-03-11 (amount $27.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8409",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 27.0,
+          "date": "2016-03-11",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-03-11 (amount $1.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8410",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 1.0,
+          "date": "2016-03-11",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-03-31 (amount $27.0, recipient committee C00577130).",
+          "contribution_id": "fec_contributions_raw.id=8405",
+          "committee_id": "C00577130",
+          "committee_name": null,
+          "amount": 27.0,
+          "date": "2016-03-31",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-03-31 (amount $1.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8406",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 1.0,
+          "date": "2016-03-31",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-03-31 (amount $27.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8407",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 27.0,
+          "date": "2016-03-31",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-04-06 (amount $15.0, recipient committee C00577130).",
+          "contribution_id": "fec_contributions_raw.id=8401",
+          "committee_id": "C00577130",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2016-04-06",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-04-06 (amount $25.0, recipient committee C00577130).",
+          "contribution_id": "fec_contributions_raw.id=8402",
+          "committee_id": "C00577130",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2016-04-06",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-04-06 (amount $15.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8403",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2016-04-06",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-04-06 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8404",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2016-04-06",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-04-12 (amount $15.0, recipient committee C00577130).",
+          "contribution_id": "fec_contributions_raw.id=8395",
+          "committee_id": "C00577130",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2016-04-12",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-04-12 (amount $27.0, recipient committee C00577130).",
+          "contribution_id": "fec_contributions_raw.id=8396",
+          "committee_id": "C00577130",
+          "committee_name": null,
+          "amount": 27.0,
+          "date": "2016-04-12",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-04-12 (amount $1.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8397",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 1.0,
+          "date": "2016-04-12",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-04-12 (amount $27.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8398",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 27.0,
+          "date": "2016-04-12",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-04-12 (amount $15.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8399",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 15.0,
+          "date": "2016-04-12",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-04-12 (amount $1.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8400",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 1.0,
+          "date": "2016-04-12",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH TECHNOLOGIST' on 2016-10-20 (amount $25.0, recipient committee C00401224).",
+          "contribution_id": "fec_contributions_raw.id=8393",
+          "committee_id": "C00401224",
+          "committee_name": null,
+          "amount": 25.0,
+          "date": "2016-10-20",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH ASSISTANT' on 2016-10-20 (amount $50.0, recipient committee C00575795).",
+          "contribution_id": "fec_contributions_raw.id=8394",
+          "committee_id": "C00575795",
+          "committee_name": null,
+          "amount": 50.0,
+          "date": "2016-10-20",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH ASSISTANT' on 2016-10-28 (amount $50.0, recipient committee C00575795).",
+          "contribution_id": "fec_contributions_raw.id=8392",
+          "committee_id": "C00575795",
+          "committee_name": null,
+          "amount": 50.0,
+          "date": "2016-10-28",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH ASSISTANT' on 2016-10-31 (amount $50.0, recipient committee C00575795).",
+          "contribution_id": "fec_contributions_raw.id=8391",
+          "committee_id": "C00575795",
+          "committee_name": null,
+          "amount": 50.0,
+          "date": "2016-10-31",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH ASSISTANT' on 2016-11-03 (amount $50.0, recipient committee C00575795).",
+          "contribution_id": "fec_contributions_raw.id=8390",
+          "committee_id": "C00575795",
+          "committee_name": null,
+          "amount": 50.0,
+          "date": "2016-11-03",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        },
+        {
+          "source": "employer_match",
+          "source_url": "https://www.fec.gov/data/receipts/?contributor_name=VILLASENOR%2C+BERNIE",
+          "evidence_text": "FEC contribution by Villasenor, Bernie with self-reported employer 'SOUTHWEST RESEARCH INSTITUTE' and occupation 'RESEARCH ASSISTANT' on 2016-11-06 (amount $50.0, recipient committee C00575795).",
+          "contribution_id": "fec_contributions_raw.id=8389",
+          "committee_id": "C00575795",
+          "committee_name": null,
+          "amount": 50.0,
+          "date": "2016-11-06",
+          "rule": "employer_match: southwest research institute (dual-use 501c3)"
+        }
+      ]
+    },
+    {
+      "donor_id": "1113b44e-aeb3-47e8-b4c4-766c16c50fb0",
+      "label": "Possible Defense Industry Donor (General Dynamics PAC) - UNVERIFIED, identity collision",
+      "total_amount": 60.0,
+      "confidence": "low",
+      "first_seen": null,
+      "last_seen": null,
+      "notes": "Donor 'Dean, Thomas' (San Antonio 78207, $200 to D6 Galvan) was matched by the FEC enrichment pipeline to multiple Thomas Dean / Deane / Deans contributors nationwide. The two contributions to General Dynamics PAC (C00078451), totalling $60, are tagged 'FT WORTH DIV GENERAL DYNAMICS' as employer with city Fort Worth, TX - almost certainly a different person at the GD Fort Worth Division (sold to Lockheed in 1993). Other matched contributions span 'American Materials & Lumber Sales', 'ARMY', 'RETIRED Engineer', 'Real Estate', etc., showing clear national fuzzy-match noise. The SA Thomas Dean has no self-reported employer in the SA campaign-finance row. Flagged sensitive=true so a human can decide whether to publish the GD-PAC association at all and whether to re-run the FEC match with stricter zip / city filters. total_amount reflects the rule-1 PAC-contribution sum but should NOT be presented as proof the SA donor gave to GD.",
+      "sensitive": true,
+      "evidence": [
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00078451/",
+          "evidence_text": "Contribution to General Dynamics Corporation PAC (C00078451) by 'DEAN, THOMAS D' with employer 'FT WORTH DIV', occupation 'None', from city 'FT WORTH' zip '76133'. Amount $10.0, date unknown. NOTE: SA donor lives in San Antonio 78207 but this contribution is tagged Fort Worth, TX \u2014 strongly suggests a different Thomas Dean at the GD Fort Worth Division (which became Lockheed Martin Aeronautics in 1993). The donor record also matched contributions tagged American Materials & Lumber (Sales), ARMY, RETIRED Engineer, and Real Estate \u2014 consistent with national-level fuzzy name collision.",
+          "contribution_id": "fec_contributions_raw.id=4528",
+          "committee_id": "C00078451",
+          "committee_name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+          "amount": 10.0,
+          "date": null,
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00078451/",
+          "evidence_text": "Contribution to General Dynamics Corporation PAC (C00078451) by 'DEAN, THOMAS D.' with employer 'FT. WORTH DIV GENERAL DYNAMICS', occupation 'None', from city 'FORT WORTH' zip '76133'. Amount $50.0, date unknown. NOTE: SA donor lives in San Antonio 78207 but this contribution is tagged Fort Worth, TX \u2014 strongly suggests a different Thomas Dean at the GD Fort Worth Division (which became Lockheed Martin Aeronautics in 1993). The donor record also matched contributions tagged American Materials & Lumber (Sales), ARMY, RETIRED Engineer, and Real Estate \u2014 consistent with national-level fuzzy name collision.",
+          "contribution_id": "fec_contributions_raw.id=4529",
+          "committee_id": "C00078451",
+          "committee_name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+          "amount": 50.0,
+          "date": null,
+          "rule": "fec_committee_id_match"
+        }
+      ]
+    }
+  ],
+  "summary_notes": "3 SA donors flagged in mic category. Of 16 verified defense-PAC committee IDs cross-checked against fec_committee_cache (228 entries) and fec_contributions_raw (8,952 rows), only General Dynamics PAC (C00078451) appears, and only via 2 contributions on a name-conflated Thomas Dean record (low confidence, sensitive). The other two findings are employer_match: Korgel (Lockheed Martin Manufacturing Engineer 2019-2021, medium, not sensitive) and Villasenor (SwRI Research Technologist 2008-2016, medium, sensitive because SwRI is a 501(c)(3) dual-use research org, not a for-profit defense contractor). Per category instructions, active-duty military donors who give to non-defense candidates were excluded - they are simply citizens. Result is consistent with the realistic-expectation note (0-10 SA donors); SA's military-economy footprint is dominated by uniformed JBSA personnel (correctly excluded) and SwRI researchers rather than for-profit defense-contractor PAC givers."
+}

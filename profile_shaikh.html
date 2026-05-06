@@ -338,6 +338,118 @@
   .amount-cell { font-weight: 700; text-align: right; }
   .count-cell { text-align: right; color: var(--muted); font-size: 12px; }
 
+  /* ── Donor affiliations ── */
+  .affil-cat {
+    border-top: 1px solid var(--border);
+    padding: 14px 0 6px;
+  }
+  .affil-cat:first-child { border-top: none; padding-top: 4px; }
+  .affil-head {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 8px;
+  }
+  .affil-title { font-size: 14px; font-weight: 700; }
+  .affil-meta { font-size: 12px; color: var(--muted); }
+  .affil-conf { display: inline-flex; gap: 4px; }
+  .confbar {
+    font-size: 10px; font-weight: 700;
+    padding: 1px 6px; border-radius: 3px;
+    color: #0f1117;
+  }
+  .confbar.conf-high { background: #4ade80; }
+  .confbar.conf-med  { background: #fbbf24; }
+  .confbar.conf-low  { background: #94a3b8; }
+  .affil-sens {
+    background: rgba(239,68,68,0.18);
+    color: #fca5a5;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 3px;
+    border: 1px solid rgba(239,68,68,0.35);
+  }
+  details.affil-donor {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px 12px;
+    margin-bottom: 6px;
+    cursor: pointer;
+  }
+  details.affil-donor[open] {
+    border-color: var(--accent);
+  }
+  details.affil-donor summary {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    user-select: none;
+  }
+  details.affil-donor summary::-webkit-details-marker { display: none; }
+  details.affil-donor summary::before {
+    content: "▸";
+    color: var(--muted);
+    font-size: 11px;
+    margin-right: 2px;
+    transition: transform 0.15s;
+  }
+  details.affil-donor[open] summary::before { transform: rotate(90deg); }
+  .ad-name  { font-weight: 600; font-size: 13px; flex-grow: 1; min-width: 160px; }
+  .ad-label { color: var(--muted); font-size: 12px; }
+  .ad-conf  {
+    font-size: 10px; font-weight: 700;
+    padding: 1px 6px; border-radius: 3px;
+    color: #0f1117;
+  }
+  .ad-conf.conf-high { background: #4ade80; }
+  .ad-conf.conf-medium { background: #fbbf24; }
+  .ad-conf.conf-low { background: #94a3b8; }
+  .ad-amt   { font-weight: 700; font-size: 13px; }
+  .ad-sens  {
+    font-size: 10px; font-weight: 700;
+    background: rgba(239,68,68,0.2); color: #fca5a5;
+    padding: 1px 6px; border-radius: 3px;
+    border: 1px solid rgba(239,68,68,0.35);
+  }
+  ul.ev-list {
+    list-style: none;
+    margin: 10px 0 4px 18px;
+    padding: 0;
+    border-left: 2px solid var(--border);
+  }
+  ul.ev-list li.ev {
+    padding: 6px 0 6px 12px;
+    font-size: 12px;
+    line-height: 1.5;
+  }
+  .ev-source {
+    font-weight: 600;
+    color: var(--accent);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .ev-link {
+    color: var(--accent);
+    text-decoration: none;
+    margin-left: 4px;
+  }
+  .ev-link:hover { text-decoration: underline; }
+  .ev-amount { font-weight: 700; margin-left: 8px; }
+  .ev-date { color: var(--muted); margin-left: 8px; }
+  .ev-text { color: var(--text); margin-top: 2px; }
+  .ev-rule {
+    color: var(--muted);
+    font-size: 10px;
+    font-family: ui-monospace, Consolas, monospace;
+    margin-top: 2px;
+  }
+
   /* ── Year chart ── */
   .year-bars {
     display: flex;
@@ -846,17 +958,36 @@
 
     </div>
 
+    <!-- ── Donor Affiliations (with receipts) ── -->
+    <div class="card" id="affiliationsCard" style="display:none">
+      <div class="card-title">
+        Donor Affiliations
+        <span class="hint">click any donor to see receipts</span>
+      </div>
+      <p style="color:var(--muted);font-size:12px;line-height:1.6;margin-bottom:16px;max-width:720px">
+        Each affiliation below is backed by an auditable evidence row &mdash; the FEC contribution
+        record, the Texas Ethics Commission filer, the employer/occupation string, or the
+        hand-curated civic-affiliations source &mdash; with a link back to the underlying record
+        wherever one is published. Partisan-lean rows show the breakdown of a donor's federal or
+        state-level partisan giving; ideological/industry rows show direct PAC contributions or
+        employer ties.
+      </p>
+      <div id="affiliationsList"></div>
+    </div>
+
     <!-- ── Methodology note ── -->
     <div class="card" style="background:transparent;border-color:var(--border)">
       <div class="card-title">About This Data</div>
       <p style="color:var(--muted);font-size:13px;line-height:1.7;max-width:720px">
-        Campaign finance records are sourced from Austin City Clerk filings. Each donor is resolved to a person-level identity
-        &mdash; their full giving history across all campaigns determines their primary industry, so a freelance data engineer
-        who listed &ldquo;Not Employed&rdquo; is still attributed to Technology based on occupation signals.
-        <strong style="color:var(--text)">99.7% of contribution dollars are classified</strong>.
-        The industry donut shows employer-affiliated money. "Firms with 3+ donors" highlights
-        organizations that may have coordinated giving, though individual donations are legally independent.
-        Federal partisan lean scores (FEC data) for top donors coming soon.
+        Campaign finance records are sourced from the City of San Antonio campaign-finance system
+        (webapp1.sanantonio.gov/campfinsearch). Donors are resolved to person-level identities by
+        name + ZIP + employer signals across the unified pool, so the same person giving to
+        multiple candidates counts once. Federal partisan lean is computed from FEC
+        schedule&nbsp;A contributions; Texas state-level lean comes from Texas Ethics Commission
+        bulk filings. Affiliation flags &mdash; AIPAC, ADL, Israel-aligned giving, oil &amp; gas,
+        real estate, military industrial complex &mdash; require at least one evidence row per
+        finding. Findings marked &ldquo;sensitive&rdquo; are flagged for human review before
+        publication.
       </p>
     </div>
 
@@ -1514,6 +1645,7 @@ function renderAll(data, allDonations) {
   renderBars('total');
   renderFirms();
   renderTopDonors();
+  renderAffiliations(data);
 
   // Cycles
   renderCycleNav(CYCLES);
@@ -1522,6 +1654,86 @@ function renderAll(data, allDonations) {
   // Show content, hide loading
   document.getElementById('loadingOverlay').style.display = 'none';
   document.getElementById('profileContent').style.display = '';
+}
+
+// ── Affiliations renderer ────────────────────────────────────────────────────
+function _esc(s) {
+  if (s == null) return '';
+  return String(s).replace(/[&<>"']/g, c => (
+    {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]
+  ));
+}
+function _money(n) {
+  if (n == null || n === '') return '';
+  return '$' + Number(n).toLocaleString(undefined, {maximumFractionDigits: 0});
+}
+function renderAffiliations(data) {
+  const summary = data.affiliations_summary || {categories: []};
+  const donor_affs = data.donor_affiliations || {};
+  const cats = summary.categories || [];
+
+  const card = document.getElementById('affiliationsCard');
+  const list = document.getElementById('affiliationsList');
+  if (!cats.length) {
+    if (card) card.style.display = 'none';
+    return;
+  }
+  if (card) card.style.display = '';
+
+  list.innerHTML = cats.map(c => {
+    const conf = c.confidence_breakdown || {};
+    const confChips = ['high','medium','low']
+      .filter(k => (conf[k] || 0) > 0)
+      .map(k => `<span class="confbar conf-${k === 'medium' ? 'med' : k}" title="${conf[k]} ${k}-confidence">${conf[k]}</span>`)
+      .join('');
+    const sensitiveBadge = (c.sensitive_count > 0)
+      ? `<span class="affil-sens">⚠ ${c.sensitive_count} sensitive — pending review</span>` : '';
+    const totalLine = (c.total_amount && c.total_amount > 0)
+      ? ` · ${_money(c.total_amount)}` : '';
+    const donorCards = (c.top_donors || []).map(d => {
+      const did = d.donor_id;
+      const allAffs = (donor_affs[did] || []).filter(a => a.category === c.category);
+      const evRows = allAffs.flatMap(a => a.evidence || []);
+      const evHtml = evRows.length ? evRows.map(e => `
+        <li class="ev">
+          <span class="ev-source">${_esc(e.source || '')}</span>${
+            e.source_url ? ` <a class="ev-link" href="${_esc(e.source_url)}" target="_blank" rel="noopener">↗ source</a>` : ''
+          }${
+            e.amount ? `<span class="ev-amount">${_money(e.amount)}</span>` : ''
+          }${
+            e.date ? `<span class="ev-date">${_esc(e.date)}</span>` : ''
+          }
+          <div class="ev-text">${_esc(e.evidence_text || '')}</div>${
+            e.rule ? `<div class="ev-rule">rule: ${_esc(e.rule)}</div>` : ''
+          }
+        </li>
+      `).join('') : '<li class="ev"><em style="color:var(--muted)">(no evidence rows)</em></li>';
+      const sensFlag = allAffs.some(a => a.sensitive) ? '<span class="ad-sens">⚠ sensitive</span>' : '';
+      return `
+        <details class="affil-donor">
+          <summary>
+            <span class="ad-name">${_esc(d.name || '')}</span>
+            <span class="ad-label">${_esc(d.label || '')}</span>
+            <span class="ad-conf conf-${_esc(d.confidence || 'medium')}">${_esc(d.confidence || 'medium')}</span>
+            ${d.total_amount ? `<span class="ad-amt">${_money(d.total_amount)}</span>` : ''}
+            ${sensFlag}
+          </summary>
+          <ul class="ev-list">${evHtml}</ul>
+        </details>
+      `;
+    }).join('');
+    return `
+      <div class="affil-cat">
+        <div class="affil-head">
+          <span class="affil-title">${_esc(c.category_label || c.category)}</span>
+          <span class="affil-meta">${c.donor_count} donor${c.donor_count === 1 ? '' : 's'}${totalLine}</span>
+          <span class="affil-conf">${confChips}</span>
+          ${sensitiveBadge}
+        </div>
+        ${donorCards}
+      </div>
+    `;
+  }).join('');
 }
 
 // ── Bootstrap: fetch data then render ────────────────────────────────────────

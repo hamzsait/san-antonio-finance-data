@@ -1,0 +1,3839 @@
+{
+  "category": "real_estate",
+  "rules": [
+    {
+      "name": "fec_committee_id_match",
+      "description": "Donor has fec_contributions_raw.committee_id in the verified real-estate industry PAC list. Confidence: high. PAC IDs verified via FEC API https://api.open.fec.gov/v1/committees/. List: C00030718=NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE (NAR PAC / RPAC), C00004812=MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC), C00012914=AMERICAN LAND TITLE ASSOCIATION TITLE INDUSTRY PAC (TIPAC), C00033779=THE REAL ESTATE ROUNDTABLE POLITICAL ACTION COMMITTEE (REALPAC), C00000901=BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC), C00130773=NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)"
+    },
+    {
+      "name": "occupation_match",
+      "description": "fec_occupation is one of ['BUILDER', 'LEASING AGENT', 'MORTGAGE LOAN OFFICER', 'MORTGAGE SERVICER', 'PROPERTY MANAGEMENT', 'REAL ESTATE', 'REAL ESTATE BANKER', 'REAL ESTATE BROKER', 'REAL ESTATE BROKER/DEVELOPER', 'REALESTATE MANAGEMENT', 'REALTOR']. Confidence: medium (low if only \"BUILDER\" with very few rows). Excluded ambiguous occupations like SOFTWARE DEVELOPER, DEVELOPMENT COORDINATOR, LEARNING AND DEVELOPMENT SPECIALIST, plain DEVELOPER."
+    },
+    {
+      "name": "employer_match",
+      "description": "fec_employer or donor_identities.canonical_employer contains one of ['REALTY', 'REALTOR', 'REAL ESTATE', 'KELLER WILLIAMS', 'KW REALTY', 'COLDWELL BANKER', 'RE/MAX', 'REMAX', 'CENTURY 21', 'JLL', 'CBRE', 'CUSHMAN', 'MARCUS & MILLICHAP', 'MARCUS AND MILLICHAP', 'WEICHERT', 'HOMEBUILDER', 'HFF', 'MORTGAGE BANKER', 'LYND COMPANY', 'APARTMENT MANAGEMENT', 'ITHACA INVESTMENTS']. \"BROKER\" alone excluded to avoid stock brokers. Confidence: low alone, medium with corroborating occupation_match."
+    }
+  ],
+  "pacs_used": [
+    {
+      "committee_id": "C00030718",
+      "committee_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE (NAR PAC / RPAC)",
+      "verified_via": "FEC API api.open.fec.gov/v1/committees/"
+    },
+    {
+      "committee_id": "C00004812",
+      "committee_name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+      "verified_via": "FEC API api.open.fec.gov/v1/committees/"
+    },
+    {
+      "committee_id": "C00012914",
+      "committee_name": "AMERICAN LAND TITLE ASSOCIATION TITLE INDUSTRY PAC (TIPAC)",
+      "verified_via": "FEC API api.open.fec.gov/v1/committees/"
+    },
+    {
+      "committee_id": "C00033779",
+      "committee_name": "THE REAL ESTATE ROUNDTABLE POLITICAL ACTION COMMITTEE (REALPAC)",
+      "verified_via": "FEC API api.open.fec.gov/v1/committees/"
+    },
+    {
+      "committee_id": "C00000901",
+      "committee_name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+      "verified_via": "FEC API api.open.fec.gov/v1/committees/"
+    },
+    {
+      "committee_id": "C00130773",
+      "committee_name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+      "verified_via": "FEC API api.open.fec.gov/v1/committees/"
+    }
+  ],
+  "findings": [
+    {
+      "donor_id": "1b6966b3-da20-4082-9fa0-0a16486c932b",
+      "label": "Real Estate Industry Donor",
+      "total_amount": null,
+      "confidence": "medium",
+      "first_seen": "2012-08-01",
+      "last_seen": "2024-10-21",
+      "notes": "Canonical name: Baldwin, Kevin Ryan. PAC contribs=0, employer matches=92, occupation matches=94. Campaigns: Ric Galvan.",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2024-10-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1714",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2024-10-21",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $12.5 on 2024-10-06 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1716",
+          "committee_id": "C00401224",
+          "amount": 12.5,
+          "date": "2024-10-06",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $12.5 on 2024-10-06 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1717",
+          "committee_id": "C00401224",
+          "amount": 12.5,
+          "date": "2024-10-06",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2024-09-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1719",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2024-09-21",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2024-08-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1722",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2024-08-21",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $64.95 on 2024-08-07 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1724",
+          "committee_id": "C00401224",
+          "amount": 64.95,
+          "date": "2024-08-07",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2024-07-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1726",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2024-07-21",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2022-10-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1761",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2022-10-21",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $2.5 on 2020-10-22 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1798",
+          "committee_id": "C00401224",
+          "amount": 2.5,
+          "date": "2020-10-22",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $50.0 on 2020-10-22 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1799",
+          "committee_id": "C00401224",
+          "amount": 50.0,
+          "date": "2020-10-22",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $2.5 on 2020-10-08 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1801",
+          "committee_id": "C00401224",
+          "amount": 2.5,
+          "date": "2020-10-08",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2020-10-08 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1802",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2020-10-08",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $15.0 on 2020-10-01 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1804",
+          "committee_id": "C00401224",
+          "amount": 15.0,
+          "date": "2020-10-01",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $1.5 on 2020-10-01 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1805",
+          "committee_id": "C00401224",
+          "amount": 1.5,
+          "date": "2020-10-01",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-10-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1823",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-10-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-10-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1824",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-10-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-09-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1825",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-09-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-09-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1826",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-09-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-08-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1827",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-08-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-08-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1828",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-08-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-07-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1829",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-07-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-07-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1830",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-07-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-06-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1831",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-06-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-06-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1832",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-06-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-05-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1833",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-05-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-05-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1834",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-05-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2019-04-19 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1835",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2019-04-19",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-04-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1836",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-04-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-04-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1837",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-04-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2019-04-07 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1838",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2019-04-07",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT, LTD.\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $2.0 on 2019-03-31 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1839",
+          "committee_id": "C00401224",
+          "amount": 2.0,
+          "date": "2019-03-31",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT, LTD.\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $5.0 on 2019-03-31 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1840",
+          "committee_id": "C00401224",
+          "amount": 5.0,
+          "date": "2019-03-31",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2019-03-29 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1841",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2019-03-29",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2019-03-19 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1842",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2019-03-19",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-03-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1843",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-03-15",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-10-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1844",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-10-11",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-10-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1845",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-10-11",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-10-11 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1846",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-10-11",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-09-30 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1847",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-09-30",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-09-30 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1848",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-09-30",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-09-30 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1849",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-09-30",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-09-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1850",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-09-21",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-09-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1851",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-09-21",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-09-21 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1852",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-09-21",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-09-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1853",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-09-11",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-09-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1854",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-09-11",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-09-11 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1855",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-09-11",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-08-31 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1856",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-08-31",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-08-31 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1857",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-08-31",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-08-31 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1858",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-08-31",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-08-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1859",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-08-11",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-08-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1860",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-08-11",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-08-11 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1861",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-08-11",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $2.0 on 2018-07-29 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1862",
+          "committee_id": "C00401224",
+          "amount": 2.0,
+          "date": "2018-07-29",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $5.0 on 2018-07-29 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1863",
+          "committee_id": "C00401224",
+          "amount": 5.0,
+          "date": "2018-07-29",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $5.0 on 2018-07-29 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1864",
+          "committee_id": "C00501197",
+          "amount": 5.0,
+          "date": "2018-07-29",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2018-07-14 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1865",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2018-07-14",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2018-07-14 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1866",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2018-07-14",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2018-07-14 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1867",
+          "committee_id": "C00501197",
+          "amount": 25.0,
+          "date": "2018-07-14",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2018-07-14 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1868",
+          "committee_id": "C00501197",
+          "amount": 25.0,
+          "date": "2018-07-14",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-07-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1869",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-07-11",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-07-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1870",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-07-11",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-07-11 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1871",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-07-11",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2018-07-06 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1872",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2018-07-06",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $2.5 on 2018-07-06 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1873",
+          "committee_id": "C00401224",
+          "amount": 2.5,
+          "date": "2018-07-06",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2018-07-06 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1874",
+          "committee_id": "C00501197",
+          "amount": 25.0,
+          "date": "2018-07-06",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN RYAN\"; $67.54 on 2018-06-29 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1875",
+          "committee_id": "C00501197",
+          "amount": 67.54,
+          "date": "2018-06-29",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $7.0 on 2018-05-23 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1876",
+          "committee_id": "C00401224",
+          "amount": 7.0,
+          "date": "2018-05-23",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $0.7 on 2018-05-23 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1877",
+          "committee_id": "C00401224",
+          "amount": 0.7,
+          "date": "2018-05-23",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $100.0 on 2018-02-28 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1878",
+          "committee_id": "C00401224",
+          "amount": 100.0,
+          "date": "2018-02-28",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $2.5 on 2018-01-07 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1879",
+          "committee_id": "C00401224",
+          "amount": 2.5,
+          "date": "2018-01-07",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\" contains real-estate token \"APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2018-01-07 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1880",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2018-01-07",
+          "rule": "employer_match: apartment management"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-10-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1881",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-10-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-09-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1882",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-09-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-08-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1883",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-08-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-07-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1884",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-07-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-06-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1885",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-06-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $101.0 on 2016-06-13 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1886",
+          "committee_id": "C00575795",
+          "amount": 101.0,
+          "date": "2016-06-13",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-05-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1887",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-05-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-04-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1888",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-04-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-03-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1889",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-03-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-03-01 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1890",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-03-01",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-02-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1891",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-02-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $50.0 on 2016-01-27 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1892",
+          "committee_id": "C00575795",
+          "amount": 50.0,
+          "date": "2016-01-27",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-01-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1893",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-01-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2015-12-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1894",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2015-12-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2015-11-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1895",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2015-11-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2015-10-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1896",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2015-10-16",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $15.0 on 2014-11-02 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1897",
+          "committee_id": "C00401224",
+          "amount": 15.0,
+          "date": "2014-11-02",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $15.0 on 2014-10-26 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1898",
+          "committee_id": "C00401224",
+          "amount": 15.0,
+          "date": "2014-10-26",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $15.0 on 2014-10-19 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1899",
+          "committee_id": "C00401224",
+          "amount": 15.0,
+          "date": "2014-10-19",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"THE LYND COMPANY\" contains real-estate token \"LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $15.0 on 2014-10-12 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1900",
+          "committee_id": "C00401224",
+          "amount": 15.0,
+          "date": "2014-10-12",
+          "rule": "employer_match: lynd company"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2024-10-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1714",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2024-10-21",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $12.5 on 2024-10-06 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1716",
+          "committee_id": "C00401224",
+          "amount": 12.5,
+          "date": "2024-10-06",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $12.5 on 2024-10-06 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1717",
+          "committee_id": "C00401224",
+          "amount": 12.5,
+          "date": "2024-10-06",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2024-09-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1719",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2024-09-21",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2024-08-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1722",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2024-08-21",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $64.95 on 2024-08-07 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1724",
+          "committee_id": "C00401224",
+          "amount": 64.95,
+          "date": "2024-08-07",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2024-07-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1726",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2024-07-21",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2022-10-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1761",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2022-10-21",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $2.5 on 2020-10-22 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1798",
+          "committee_id": "C00401224",
+          "amount": 2.5,
+          "date": "2020-10-22",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $50.0 on 2020-10-22 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1799",
+          "committee_id": "C00401224",
+          "amount": 50.0,
+          "date": "2020-10-22",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $2.5 on 2020-10-08 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1801",
+          "committee_id": "C00401224",
+          "amount": 2.5,
+          "date": "2020-10-08",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2020-10-08 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1802",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2020-10-08",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $15.0 on 2020-10-01 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1804",
+          "committee_id": "C00401224",
+          "amount": 15.0,
+          "date": "2020-10-01",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $1.5 on 2020-10-01 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1805",
+          "committee_id": "C00401224",
+          "amount": 1.5,
+          "date": "2020-10-01",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-10-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1823",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-10-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-10-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1824",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-10-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-09-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1825",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-09-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-09-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1826",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-09-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-08-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1827",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-08-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-08-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1828",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-08-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-07-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1829",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-07-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-07-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1830",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-07-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-06-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1831",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-06-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-06-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1832",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-06-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-05-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1833",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-05-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-05-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1834",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-05-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2019-04-19 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1835",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2019-04-19",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-04-15 to committee C00699090",
+          "contribution_id": "fec_contributions_raw.id=1836",
+          "committee_id": "C00699090",
+          "amount": 20.0,
+          "date": "2019-04-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-04-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1837",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-04-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2019-04-07 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1838",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2019-04-07",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT, LTD.\"; contributor=\"BALDWIN, KEVIN\"; $2.0 on 2019-03-31 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1839",
+          "committee_id": "C00401224",
+          "amount": 2.0,
+          "date": "2019-03-31",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT, LTD.\"; contributor=\"BALDWIN, KEVIN\"; $5.0 on 2019-03-31 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1840",
+          "committee_id": "C00401224",
+          "amount": 5.0,
+          "date": "2019-03-31",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2019-03-29 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1841",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2019-03-29",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2019-03-19 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1842",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2019-03-19",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $20.0 on 2019-03-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1843",
+          "committee_id": "C00401224",
+          "amount": 20.0,
+          "date": "2019-03-15",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-10-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1844",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-10-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-10-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1845",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-10-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-10-11 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1846",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-10-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-09-30 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1847",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-09-30",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-09-30 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1848",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-09-30",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-09-30 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1849",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-09-30",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-09-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1850",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-09-21",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-09-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1851",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-09-21",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-09-21 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1852",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-09-21",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-09-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1853",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-09-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-09-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1854",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-09-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-09-11 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1855",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-09-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-08-31 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1856",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-08-31",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-08-31 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1857",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-08-31",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-08-31 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1858",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-08-31",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-08-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1859",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-08-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-08-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1860",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-08-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-08-11 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1861",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-08-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $2.0 on 2018-07-29 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1862",
+          "committee_id": "C00401224",
+          "amount": 2.0,
+          "date": "2018-07-29",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $5.0 on 2018-07-29 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1863",
+          "committee_id": "C00401224",
+          "amount": 5.0,
+          "date": "2018-07-29",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $5.0 on 2018-07-29 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1864",
+          "committee_id": "C00501197",
+          "amount": 5.0,
+          "date": "2018-07-29",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2018-07-14 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1865",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2018-07-14",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2018-07-14 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1866",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2018-07-14",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2018-07-14 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1867",
+          "committee_id": "C00501197",
+          "amount": 25.0,
+          "date": "2018-07-14",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2018-07-14 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1868",
+          "committee_id": "C00501197",
+          "amount": 25.0,
+          "date": "2018-07-14",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $1.0 on 2018-07-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1869",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-07-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $10.0 on 2018-07-11 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1870",
+          "committee_id": "C00401224",
+          "amount": 10.0,
+          "date": "2018-07-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $10.0 on 2018-07-11 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1871",
+          "committee_id": "C00501197",
+          "amount": 10.0,
+          "date": "2018-07-11",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2018-07-06 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1872",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2018-07-06",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $2.5 on 2018-07-06 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1873",
+          "committee_id": "C00401224",
+          "amount": 2.5,
+          "date": "2018-07-06",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $25.0 on 2018-07-06 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1874",
+          "committee_id": "C00501197",
+          "amount": 25.0,
+          "date": "2018-07-06",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN RYAN\"; $67.54 on 2018-06-29 to committee C00501197",
+          "contribution_id": "fec_contributions_raw.id=1875",
+          "committee_id": "C00501197",
+          "amount": 67.54,
+          "date": "2018-06-29",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $7.0 on 2018-05-23 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1876",
+          "committee_id": "C00401224",
+          "amount": 7.0,
+          "date": "2018-05-23",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $0.7 on 2018-05-23 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1877",
+          "committee_id": "C00401224",
+          "amount": 0.7,
+          "date": "2018-05-23",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $100.0 on 2018-02-28 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1878",
+          "committee_id": "C00401224",
+          "amount": 100.0,
+          "date": "2018-02-28",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $2.5 on 2018-01-07 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1879",
+          "committee_id": "C00401224",
+          "amount": 2.5,
+          "date": "2018-01-07",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"FRANKLIN APARTMENT MANAGEMENT\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2018-01-07 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1880",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2018-01-07",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-10-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1881",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-10-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-09-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1882",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-09-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-08-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1883",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-08-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-07-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1884",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-07-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-06-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1885",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-06-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $101.0 on 2016-06-13 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1886",
+          "committee_id": "C00575795",
+          "amount": 101.0,
+          "date": "2016-06-13",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-05-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1887",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-05-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-04-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1888",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-04-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-03-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1889",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-03-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-03-01 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1890",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-03-01",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-02-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1891",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-02-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $50.0 on 2016-01-27 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1892",
+          "committee_id": "C00575795",
+          "amount": 50.0,
+          "date": "2016-01-27",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2016-01-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1893",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2016-01-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2015-12-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1894",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2015-12-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2015-11-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1895",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2015-11-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN\"; $25.0 on 2015-10-16 to committee C00575795",
+          "contribution_id": "fec_contributions_raw.id=1896",
+          "committee_id": "C00575795",
+          "amount": 25.0,
+          "date": "2015-10-16",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $15.0 on 2014-11-02 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1897",
+          "committee_id": "C00401224",
+          "amount": 15.0,
+          "date": "2014-11-02",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $15.0 on 2014-10-26 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1898",
+          "committee_id": "C00401224",
+          "amount": 15.0,
+          "date": "2014-10-26",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $15.0 on 2014-10-19 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1899",
+          "committee_id": "C00401224",
+          "amount": 15.0,
+          "date": "2014-10-19",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"THE LYND COMPANY\"; contributor=\"BALDWIN, KEVIN RYAN\"; $15.0 on 2014-10-12 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=1900",
+          "committee_id": "C00401224",
+          "amount": 15.0,
+          "date": "2014-10-12",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"WERELDHAVE MANAGEMENT USA\"; contributor=\"BALDWIN, KEVIN\"; $250.0 on 2012-08-01 to committee C00431445",
+          "contribution_id": "fec_contributions_raw.id=1901",
+          "committee_id": "C00431445",
+          "amount": 250.0,
+          "date": "2012-08-01",
+          "rule": "occupation_match: property management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"PROPERTY MANAGEMENT\"; fec_employer=\"WERELDHAVE MANAGEMENT USA\"; contributor=\"BALDWIN, KEVIN\"; $250.0 on 2012-08-01 to committee C00494740",
+          "contribution_id": "fec_contributions_raw.id=1902",
+          "committee_id": "C00494740",
+          "amount": 250.0,
+          "date": "2012-08-01",
+          "rule": "occupation_match: property management"
+        }
+      ]
+    },
+    {
+      "donor_id": "32b5d1eb-07a9-4bd1-a815-ac204059e180",
+      "label": "Real Estate Industry Donor",
+      "total_amount": null,
+      "confidence": "low",
+      "first_seen": "2019-06-28",
+      "last_seen": "2019-06-28",
+      "notes": "Canonical name: Castillo, Joe. PAC contribs=0, employer matches=0, occupation matches=1. Campaigns: Ric Galvan. Donor identity appears polluted (multiple distinct contributors merged under this donor_id); RE evidence is real but identity assignment needs human review.",
+      "sensitive": true,
+      "evidence": [
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"BUILDER\"; fec_employer=\"SELF\"; contributor=\"CASTILLO, JOSEPH\"; $25.0 on 2019-06-28 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=3394",
+          "committee_id": "C00401224",
+          "amount": 25.0,
+          "date": "2019-06-28",
+          "rule": "occupation_match: builder"
+        }
+      ]
+    },
+    {
+      "donor_id": "7df7cc75-cd8b-4d6f-8a25-c622aef4bb67",
+      "label": "Real Estate Industry Donor",
+      "total_amount": null,
+      "confidence": "medium",
+      "first_seen": "2006-10-14",
+      "last_seen": "2022-11-04",
+      "notes": "Canonical name: covey, paul. PAC contribs=0, employer matches=32, occupation matches=85. Campaigns: Ric Galvan.",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00787853",
+          "contribution_id": "fec_contributions_raw.id=3963",
+          "committee_id": "C00787853",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00795930",
+          "contribution_id": "fec_contributions_raw.id=3964",
+          "committee_id": "C00795930",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-30 to committee C00795930",
+          "contribution_id": "fec_contributions_raw.id=3994",
+          "committee_id": "C00795930",
+          "amount": 100.0,
+          "date": "2022-10-30",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-29 to committee C00787853",
+          "contribution_id": "fec_contributions_raw.id=3995",
+          "committee_id": "C00787853",
+          "amount": 100.0,
+          "date": "2022-10-29",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2022-10-29 to committee C00027466",
+          "contribution_id": "fec_contributions_raw.id=3996",
+          "committee_id": "C00027466",
+          "amount": 1000.0,
+          "date": "2022-10-29",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-23 to committee C00787853",
+          "contribution_id": "fec_contributions_raw.id=4006",
+          "committee_id": "C00787853",
+          "amount": 100.0,
+          "date": "2022-10-23",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-10-23 to committee C00787853",
+          "contribution_id": "fec_contributions_raw.id=4007",
+          "committee_id": "C00787853",
+          "amount": 50.0,
+          "date": "2022-10-23",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-10-23 to committee C00795930",
+          "contribution_id": "fec_contributions_raw.id=4008",
+          "committee_id": "C00795930",
+          "amount": 50.0,
+          "date": "2022-10-23",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-23 to committee C00027466",
+          "contribution_id": "fec_contributions_raw.id=4009",
+          "committee_id": "C00027466",
+          "amount": 100.0,
+          "date": "2022-10-23",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $500.0 on 2019-08-30 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=4048",
+          "committee_id": "C00401224",
+          "amount": 500.0,
+          "date": "2019-08-30",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $500.0 on 2019-08-30 to committee C00693044",
+          "contribution_id": "fec_contributions_raw.id=4049",
+          "committee_id": "C00693044",
+          "amount": 500.0,
+          "date": "2019-08-30",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $250.0 on 2019-06-30 to committee C00497933",
+          "contribution_id": "fec_contributions_raw.id=4050",
+          "committee_id": "C00497933",
+          "amount": 250.0,
+          "date": "2019-06-30",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $250.0 on 2019-06-30 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=4051",
+          "committee_id": "C00401224",
+          "amount": 250.0,
+          "date": "2019-06-30",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2018-12-31 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=4052",
+          "committee_id": "C00401224",
+          "amount": 100.0,
+          "date": "2018-12-31",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $250.0 on 2018-02-22 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=4058",
+          "committee_id": "C00401224",
+          "amount": 250.0,
+          "date": "2018-02-22",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2017-09-29 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=4060",
+          "committee_id": "C00401224",
+          "amount": 1000.0,
+          "date": "2017-09-29",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $250.0 on 2012-10-05 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4070",
+          "committee_id": "C00431171",
+          "amount": 250.0,
+          "date": "2012-10-05",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $2250.0 on 2012-10-05 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4071",
+          "committee_id": "C00431171",
+          "amount": 2250.0,
+          "date": "2012-10-05",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $2500.0 on 2012-10-05 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4072",
+          "committee_id": "C00431171",
+          "amount": 2500.0,
+          "date": "2012-10-05",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $250.0 on 2012-10-05 to committee C00494930",
+          "contribution_id": "fec_contributions_raw.id=4073",
+          "committee_id": "C00494930",
+          "amount": 250.0,
+          "date": "2012-10-05",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $500.0 on 2012-09-11 to committee C00494930",
+          "contribution_id": "fec_contributions_raw.id=4075",
+          "committee_id": "C00494930",
+          "amount": 500.0,
+          "date": "2012-09-11",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2012-09-06 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4076",
+          "committee_id": "C00431171",
+          "amount": 1000.0,
+          "date": "2012-09-06",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"REAL ESTATE\" contains real-estate token \"REAL ESTATE\"; contributor=\"COVEY, PAUL\"; $500.0 on 2012-09-06 to committee C00467233",
+          "contribution_id": "fec_contributions_raw.id=4077",
+          "committee_id": "C00467233",
+          "amount": 500.0,
+          "date": "2012-09-06",
+          "rule": "employer_match: real estate"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2012-08-21 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4078",
+          "committee_id": "C00431171",
+          "amount": 1000.0,
+          "date": "2012-08-21",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2012-08-21 to committee C00518282",
+          "contribution_id": "fec_contributions_raw.id=4079",
+          "committee_id": "C00518282",
+          "amount": 1000.0,
+          "date": "2012-08-21",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $250.0 on 2010-01-18 to committee C00467233",
+          "contribution_id": "fec_contributions_raw.id=4081",
+          "committee_id": "C00467233",
+          "amount": 250.0,
+          "date": "2010-01-18",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS LTD\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $250.0 on 2010-01-11 to committee C00467233",
+          "contribution_id": "fec_contributions_raw.id=4082",
+          "committee_id": "C00467233",
+          "amount": 250.0,
+          "date": "2010-01-11",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS, LTD.\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $375.0 on 2008-06-30 to committee C00436659",
+          "contribution_id": "fec_contributions_raw.id=4083",
+          "committee_id": "C00436659",
+          "amount": 375.0,
+          "date": "2008-06-30",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS, LTD.\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $375.0 on 2008-05-30 to committee C00436659",
+          "contribution_id": "fec_contributions_raw.id=4084",
+          "committee_id": "C00436659",
+          "amount": 375.0,
+          "date": "2008-05-30",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS, LTD.\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $375.0 on 2008-04-30 to committee C00436659",
+          "contribution_id": "fec_contributions_raw.id=4085",
+          "committee_id": "C00436659",
+          "amount": 375.0,
+          "date": "2008-04-30",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS, LTD.\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $750.0 on 2008-04-01 to committee C00436659",
+          "contribution_id": "fec_contributions_raw.id=4086",
+          "committee_id": "C00436659",
+          "amount": 750.0,
+          "date": "2008-04-01",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"ITHACA INVESTMENTS, LTD.\" contains real-estate token \"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $375.0 on 2008-01-23 to committee C00436659",
+          "contribution_id": "fec_contributions_raw.id=4087",
+          "committee_id": "C00436659",
+          "amount": 375.0,
+          "date": "2008-01-23",
+          "rule": "employer_match: ithaca investments"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00787853",
+          "contribution_id": "fec_contributions_raw.id=3963",
+          "committee_id": "C00787853",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00795930",
+          "contribution_id": "fec_contributions_raw.id=3964",
+          "committee_id": "C00795930",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3968",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3969",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3970",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3971",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3972",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3973",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3974",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3975",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3976",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3977",
+          "committee_id": "C00694323",
+          "amount": 1000.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3978",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3979",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3980",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3981",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3982",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3983",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3984",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3985",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3986",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3987",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2022-11-04 to committee C00075820",
+          "contribution_id": "fec_contributions_raw.id=3988",
+          "committee_id": "C00075820",
+          "amount": 1000.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-03 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3990",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-03",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-01 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3991",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-01",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-01 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3992",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-01",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-11-01 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3993",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-01",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-30 to committee C00795930",
+          "contribution_id": "fec_contributions_raw.id=3994",
+          "committee_id": "C00795930",
+          "amount": 100.0,
+          "date": "2022-10-30",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-29 to committee C00787853",
+          "contribution_id": "fec_contributions_raw.id=3995",
+          "committee_id": "C00787853",
+          "amount": 100.0,
+          "date": "2022-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2022-10-29 to committee C00027466",
+          "contribution_id": "fec_contributions_raw.id=3996",
+          "committee_id": "C00027466",
+          "amount": 1000.0,
+          "date": "2022-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2022-10-29 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3997",
+          "committee_id": "C00694323",
+          "amount": 1000.0,
+          "date": "2022-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-29 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3998",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $125.0 on 2022-10-29 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=3999",
+          "committee_id": "C00694323",
+          "amount": 125.0,
+          "date": "2022-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2022-10-29 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4000",
+          "committee_id": "C00694323",
+          "amount": 1000.0,
+          "date": "2022-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-29 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4001",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-29 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4002",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-29 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4003",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2022-10-29 to committee C00075820",
+          "contribution_id": "fec_contributions_raw.id=4004",
+          "committee_id": "C00075820",
+          "amount": 1000.0,
+          "date": "2022-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-24 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4005",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-10-24",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-23 to committee C00787853",
+          "contribution_id": "fec_contributions_raw.id=4006",
+          "committee_id": "C00787853",
+          "amount": 100.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-10-23 to committee C00787853",
+          "contribution_id": "fec_contributions_raw.id=4007",
+          "committee_id": "C00787853",
+          "amount": 50.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-10-23 to committee C00795930",
+          "contribution_id": "fec_contributions_raw.id=4008",
+          "committee_id": "C00795930",
+          "amount": 50.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-23 to committee C00027466",
+          "contribution_id": "fec_contributions_raw.id=4009",
+          "committee_id": "C00027466",
+          "amount": 100.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4010",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4011",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4012",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4013",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4014",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4015",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $150.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4016",
+          "committee_id": "C00694323",
+          "amount": 150.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4017",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4018",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4019",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $50.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4020",
+          "committee_id": "C00694323",
+          "amount": 50.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"RETIRED\"; contributor=\"COVEY, PAUL\"; $100.0 on 2022-10-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=4021",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-10-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF-EMPLOYED\"; contributor=\"COVEY, PAUL\"; $500.0 on 2020-11-10 to committee C00027466",
+          "contribution_id": "fec_contributions_raw.id=4030",
+          "committee_id": "C00027466",
+          "amount": 500.0,
+          "date": "2020-11-10",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $500.0 on 2019-08-30 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=4048",
+          "committee_id": "C00401224",
+          "amount": 500.0,
+          "date": "2019-08-30",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS LTD\"; contributor=\"COVEY, PAUL\"; $500.0 on 2019-08-30 to committee C00693044",
+          "contribution_id": "fec_contributions_raw.id=4049",
+          "committee_id": "C00693044",
+          "amount": 500.0,
+          "date": "2019-08-30",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $250.0 on 2019-06-30 to committee C00497933",
+          "contribution_id": "fec_contributions_raw.id=4050",
+          "committee_id": "C00497933",
+          "amount": 250.0,
+          "date": "2019-06-30",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $250.0 on 2019-06-30 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=4051",
+          "committee_id": "C00401224",
+          "amount": 250.0,
+          "date": "2019-06-30",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS LTD\"; contributor=\"COVEY, PAUL\"; $100.0 on 2018-12-31 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=4052",
+          "committee_id": "C00401224",
+          "amount": 100.0,
+          "date": "2018-12-31",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF-EMPLOYED\"; contributor=\"COVEY, PAUL\"; $500.0 on 2018-10-29 to committee C00651208",
+          "contribution_id": "fec_contributions_raw.id=4053",
+          "committee_id": "C00651208",
+          "amount": 500.0,
+          "date": "2018-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF-EMPLOYED\"; contributor=\"COVEY, PAUL\"; $500.0 on 2018-10-29 to committee C00651208",
+          "contribution_id": "fec_contributions_raw.id=4054",
+          "committee_id": "C00651208",
+          "amount": 500.0,
+          "date": "2018-10-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2018-09-23 to committee C00027466",
+          "contribution_id": "fec_contributions_raw.id=4055",
+          "committee_id": "C00027466",
+          "amount": 1000.0,
+          "date": "2018-09-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2018-09-23 to committee C00075820",
+          "contribution_id": "fec_contributions_raw.id=4056",
+          "committee_id": "C00075820",
+          "amount": 1000.0,
+          "date": "2018-09-23",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF EMPLOYED\"; contributor=\"COVEY, PAUL\"; $250.0 on 2018-02-22 to committee C00654277",
+          "contribution_id": "fec_contributions_raw.id=4057",
+          "committee_id": "C00654277",
+          "amount": 250.0,
+          "date": "2018-02-22",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS\"; contributor=\"COVEY, PAUL\"; $250.0 on 2018-02-22 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=4058",
+          "committee_id": "C00401224",
+          "amount": 250.0,
+          "date": "2018-02-22",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF\"; contributor=\"COVEY, PAUL MR.\"; $1000.0 on 2017-12-27 to committee C00661223",
+          "contribution_id": "fec_contributions_raw.id=4059",
+          "committee_id": "C00661223",
+          "amount": 1000.0,
+          "date": "2017-12-27",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS LTD\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2017-09-29 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=4060",
+          "committee_id": "C00401224",
+          "amount": 1000.0,
+          "date": "2017-09-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF EMPLOYED\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2017-09-29 to committee C00654277",
+          "contribution_id": "fec_contributions_raw.id=4061",
+          "committee_id": "C00654277",
+          "amount": 1000.0,
+          "date": "2017-09-29",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF EMPLOYED\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2016-09-16 to committee C00497933",
+          "contribution_id": "fec_contributions_raw.id=4062",
+          "committee_id": "C00497933",
+          "amount": 1000.0,
+          "date": "2016-09-16",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF-EMPLOYED\"; contributor=\"COVEY, PAUL\"; $500.0 on 2016-02-22 to committee C00497933",
+          "contribution_id": "fec_contributions_raw.id=4064",
+          "committee_id": "C00497933",
+          "amount": 500.0,
+          "date": "2016-02-22",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF-EMPLOYED\"; contributor=\"COVEY, PAUL\"; $500.0 on 2015-09-24 to committee C00458844",
+          "contribution_id": "fec_contributions_raw.id=4066",
+          "committee_id": "C00458844",
+          "amount": 500.0,
+          "date": "2015-09-24",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF\"; contributor=\"COVEY, PAUL\"; $250.0 on 2015-03-30 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=4067",
+          "committee_id": "C00401224",
+          "amount": 250.0,
+          "date": "2015-03-30",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF-EMPLOYED\"; contributor=\"COVEY, PAUL\"; $250.0 on 2015-03-30 to committee C00497933",
+          "contribution_id": "fec_contributions_raw.id=4068",
+          "committee_id": "C00497933",
+          "amount": 250.0,
+          "date": "2015-03-30",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS LTD\"; contributor=\"COVEY, PAUL\"; $250.0 on 2012-10-05 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4070",
+          "committee_id": "C00431171",
+          "amount": 250.0,
+          "date": "2012-10-05",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS LTD\"; contributor=\"COVEY, PAUL\"; $2250.0 on 2012-10-05 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4071",
+          "committee_id": "C00431171",
+          "amount": 2250.0,
+          "date": "2012-10-05",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS LTD\"; contributor=\"COVEY, PAUL\"; $2500.0 on 2012-10-05 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4072",
+          "committee_id": "C00431171",
+          "amount": 2500.0,
+          "date": "2012-10-05",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS LTD\"; contributor=\"COVEY, PAUL\"; $250.0 on 2012-10-05 to committee C00494930",
+          "contribution_id": "fec_contributions_raw.id=4073",
+          "committee_id": "C00494930",
+          "amount": 250.0,
+          "date": "2012-10-05",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF-EMPLOYED\"; contributor=\"COVEY, PAUL\"; $850.0 on 2012-09-30 to committee C00099267",
+          "contribution_id": "fec_contributions_raw.id=4074",
+          "committee_id": "C00099267",
+          "amount": 850.0,
+          "date": "2012-09-30",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS LTD\"; contributor=\"COVEY, PAUL\"; $500.0 on 2012-09-11 to committee C00494930",
+          "contribution_id": "fec_contributions_raw.id=4075",
+          "committee_id": "C00494930",
+          "amount": 500.0,
+          "date": "2012-09-11",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS LTD\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2012-09-06 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4076",
+          "committee_id": "C00431171",
+          "amount": 1000.0,
+          "date": "2012-09-06",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS LTD\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2012-08-21 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4078",
+          "committee_id": "C00431171",
+          "amount": 1000.0,
+          "date": "2012-08-21",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INVESTMENTS LTD\"; contributor=\"COVEY, PAUL\"; $1000.0 on 2012-08-21 to committee C00518282",
+          "contribution_id": "fec_contributions_raw.id=4079",
+          "committee_id": "C00518282",
+          "amount": 1000.0,
+          "date": "2012-08-21",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"ITHACA INV. LTD.\"; contributor=\"COVEY, PAUL\"; $2000.0 on 2006-10-14 to committee C00429167",
+          "contribution_id": "fec_contributions_raw.id=4088",
+          "committee_id": "C00429167",
+          "amount": 2000.0,
+          "date": "2006-10-14",
+          "rule": "occupation_match: real estate"
+        }
+      ]
+    },
+    {
+      "donor_id": "f3c26d00-be5e-400c-a23e-74de8dd15848",
+      "label": "Real Estate PAC Donor",
+      "total_amount": 1000.0,
+      "confidence": "high",
+      "first_seen": "2003-10-31",
+      "last_seen": "2013-12-20",
+      "notes": "Canonical name: Cross, Edward. PAC contribs=1, employer matches=2, occupation matches=6. Campaigns: Ric Galvan.",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00130773/",
+          "evidence_text": "Contributed $1000.0 to NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC) on 2013-12-20 (employer='CUSHMAN & WAKEFIELD', occupation='REAL ESTATE')",
+          "contribution_id": "fec_contributions_raw.id=4270",
+          "committee_id": "C00130773",
+          "committee_name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+          "amount": 1000.0,
+          "date": "2013-12-20",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"CUSHMAN & WAKEFIELD\" contains real-estate token \"CUSHMAN\"; contributor=\"CROSS, EDWARD\"; $1000.0 on 2013-12-20 to committee C00130773",
+          "contribution_id": "fec_contributions_raw.id=4270",
+          "committee_id": "C00130773",
+          "amount": 1000.0,
+          "date": "2013-12-20",
+          "rule": "employer_match: cushman"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"SAN ANTONIO COMMECIAL REALTY ADVISORS\" contains real-estate token \"REALTY\"; contributor=\"CROSS, EDWARD MR. II\"; $2500.0 on 2012-10-31 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4271",
+          "committee_id": "C00431171",
+          "amount": 2500.0,
+          "date": "2012-10-31",
+          "rule": "employer_match: realty"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"CUSHMAN & WAKEFIELD\"; contributor=\"CROSS, EDWARD\"; $1000.0 on 2013-12-20 to committee C00130773",
+          "contribution_id": "fec_contributions_raw.id=4270",
+          "committee_id": "C00130773",
+          "amount": 1000.0,
+          "date": "2013-12-20",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE BROKER/DEVELOPER\"; fec_employer=\"SAN ANTONIO COMMECIAL REALTY ADVISORS\"; contributor=\"CROSS, EDWARD MR. II\"; $2500.0 on 2012-10-31 to committee C00431171",
+          "contribution_id": "fec_contributions_raw.id=4271",
+          "committee_id": "C00431171",
+          "amount": 2500.0,
+          "date": "2012-10-31",
+          "rule": "occupation_match: real estate broker/developer"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALESTATE MANAGEMENT\"; fec_employer=\"CROSS & COMPANY\"; contributor=\"CROSS, EDWARD A. II\"; $2500.0 on 2011-09-30 to committee C00497933",
+          "contribution_id": "fec_contributions_raw.id=4273",
+          "committee_id": "C00497933",
+          "amount": 2500.0,
+          "date": "2011-09-30",
+          "rule": "occupation_match: realestate management"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"CROSS & COMPANY\"; contributor=\"CROSS, EDWARD\"; $500.0 on 2010-04-02 to committee C00470351",
+          "contribution_id": "fec_contributions_raw.id=4274",
+          "committee_id": "C00470351",
+          "amount": 500.0,
+          "date": "2010-04-02",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"CROSS & CO.\"; contributor=\"CROSS, EDWARD A II\"; $500.0 on 2008-08-28 to committee C00369033",
+          "contribution_id": "fec_contributions_raw.id=4275",
+          "committee_id": "C00369033",
+          "amount": 500.0,
+          "date": "2008-08-28",
+          "rule": "occupation_match: real estate"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"CROSS & COMPANY\"; contributor=\"CROSS, EDWARD A MR. II\"; $2000.0 on 2003-10-31 to committee C00386987",
+          "contribution_id": "fec_contributions_raw.id=4280",
+          "committee_id": "C00386987",
+          "amount": 2000.0,
+          "date": "2003-10-31",
+          "rule": "occupation_match: real estate"
+        }
+      ]
+    },
+    {
+      "donor_id": "1113b44e-aeb3-47e8-b4c4-766c16c50fb0",
+      "label": "Real Estate Industry Donor",
+      "total_amount": null,
+      "confidence": "medium",
+      "first_seen": "2023-05-18",
+      "last_seen": "2023-05-18",
+      "notes": "Canonical name: Dean, Thomas. PAC contribs=0, employer matches=0, occupation matches=1. Campaigns: Ric Galvan.",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE\"; fec_employer=\"SELF\"; contributor=\"DEAN, THOMAS\"; $1000.0 on 2023-05-18 to committee C00833392",
+          "contribution_id": "fec_contributions_raw.id=4540",
+          "committee_id": "C00833392",
+          "amount": 1000.0,
+          "date": "2023-05-18",
+          "rule": "occupation_match: real estate"
+        }
+      ]
+    },
+    {
+      "donor_id": "e4f20b80-0399-45cc-ba84-391aea9a5789",
+      "label": "Real Estate PAC Donor",
+      "total_amount": 1000.0,
+      "confidence": "high",
+      "first_seen": "2012-10-09",
+      "last_seen": "2023-05-04",
+      "notes": "Canonical name: Galloway, H. Drew. PAC contribs=1, employer matches=15, occupation matches=7. Campaigns: Ric Galvan|Sakib Shaikh.",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00130773/",
+          "evidence_text": "Contributed $1000.0 to NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC) on 2015-08-19 (employer='HFF', occupation='EXECUTIVE MANAGING DIRECTOR')",
+          "contribution_id": "fec_contributions_raw.id=5240",
+          "committee_id": "C00130773",
+          "committee_name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+          "amount": 1000.0,
+          "date": "2015-08-19",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"JLL\" contains real-estate token \"JLL\"; contributor=\"GALLOWAY, H. SCOTT\"; $3300.0 on 2023-05-04 to committee C00420935",
+          "contribution_id": "fec_contributions_raw.id=5220",
+          "committee_id": "C00420935",
+          "amount": 3300.0,
+          "date": "2023-05-04",
+          "rule": "employer_match: jll"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"JLL\" contains real-estate token \"JLL\"; contributor=\"GALLOWAY, H. SCOTT\"; $3300.0 on 2023-05-04 to committee C00420935",
+          "contribution_id": "fec_contributions_raw.id=5221",
+          "committee_id": "C00420935",
+          "amount": 3300.0,
+          "date": "2023-05-04",
+          "rule": "employer_match: jll"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"JLL\" contains real-estate token \"JLL\"; contributor=\"GALLOWAY, H. SCOTT\"; $12500.0 on 2023-05-04 to committee C00831925",
+          "contribution_id": "fec_contributions_raw.id=5222",
+          "committee_id": "C00831925",
+          "amount": 12500.0,
+          "date": "2023-05-04",
+          "rule": "employer_match: jll"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"JLL\" contains real-estate token \"JLL\"; contributor=\"GALLOWAY, H. SCOTT\"; $900.0 on 2023-05-04 to committee C00075820",
+          "contribution_id": "fec_contributions_raw.id=5223",
+          "committee_id": "C00075820",
+          "amount": 900.0,
+          "date": "2023-05-04",
+          "rule": "employer_match: jll"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"JLL\" contains real-estate token \"JLL\"; contributor=\"GALLOWAY, H. SCOTT\"; $5000.0 on 2023-05-04 to committee C00428052",
+          "contribution_id": "fec_contributions_raw.id=5224",
+          "committee_id": "C00428052",
+          "amount": 5000.0,
+          "date": "2023-05-04",
+          "rule": "employer_match: jll"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"HFF\" contains real-estate token \"HFF\"; contributor=\"GALLOWAY, H. SCOTT MR.\"; $2000.0 on 2022-09-23 to committee C00701003",
+          "contribution_id": "fec_contributions_raw.id=5225",
+          "committee_id": "C00701003",
+          "amount": 2000.0,
+          "date": "2022-09-23",
+          "rule": "employer_match: hff"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"HFF\" contains real-estate token \"HFF\"; contributor=\"GALLOWAY, H. SCOTT MR.\"; $2000.0 on 2022-09-23 to committee C00748673",
+          "contribution_id": "fec_contributions_raw.id=5226",
+          "committee_id": "C00748673",
+          "amount": 2000.0,
+          "date": "2022-09-23",
+          "rule": "employer_match: hff"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"JLL REAL ESTATE\" contains real-estate token \"REAL ESTATE\"; contributor=\"GALLOWAY, H. SCOTT\"; $2900.0 on 2022-03-02 to committee C00486563",
+          "contribution_id": "fec_contributions_raw.id=5227",
+          "committee_id": "C00486563",
+          "amount": 2900.0,
+          "date": "2022-03-02",
+          "rule": "employer_match: real estate"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"JLL REAL ESTATE\" contains real-estate token \"REAL ESTATE\"; contributor=\"GALLOWAY, H. SCOTT\"; $2900.0 on 2022-03-02 to committee C00486563",
+          "contribution_id": "fec_contributions_raw.id=5228",
+          "committee_id": "C00486563",
+          "amount": 2900.0,
+          "date": "2022-03-02",
+          "rule": "employer_match: real estate"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"HFF\" contains real-estate token \"HFF\"; contributor=\"GALLOWAY, H. SCOTT MR.\"; $1000.0 on 2022-02-28 to committee C00701003",
+          "contribution_id": "fec_contributions_raw.id=5229",
+          "committee_id": "C00701003",
+          "amount": 1000.0,
+          "date": "2022-02-28",
+          "rule": "employer_match: hff"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"HFF\" contains real-estate token \"HFF\"; contributor=\"GALLOWAY, H. SCOTT MR.\"; $1000.0 on 2019-08-23 to committee C00701003",
+          "contribution_id": "fec_contributions_raw.id=5233",
+          "committee_id": "C00701003",
+          "amount": 1000.0,
+          "date": "2019-08-23",
+          "rule": "employer_match: hff"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"HFF, INC.\" contains real-estate token \"HFF\"; contributor=\"GALLOWAY, H. SCOTT MR.\"; $2800.0 on 2019-06-25 to committee C00660795",
+          "contribution_id": "fec_contributions_raw.id=5237",
+          "committee_id": "C00660795",
+          "amount": 2800.0,
+          "date": "2019-06-25",
+          "rule": "employer_match: hff"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"HFF, INC.\" contains real-estate token \"HFF\"; contributor=\"GALLOWAY, H. SCOTT MR.\"; $2800.0 on 2019-06-25 to committee C00660795",
+          "contribution_id": "fec_contributions_raw.id=5238",
+          "committee_id": "C00660795",
+          "amount": 2800.0,
+          "date": "2019-06-25",
+          "rule": "employer_match: hff"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"HFF\" contains real-estate token \"HFF\"; contributor=\"GALLOWAY, H. SCOTT\"; $1000.0 on 2015-08-19 to committee C00130773",
+          "contribution_id": "fec_contributions_raw.id=5240",
+          "committee_id": "C00130773",
+          "amount": 1000.0,
+          "date": "2015-08-19",
+          "rule": "employer_match: hff"
+        },
+        {
+          "source": "employer_match",
+          "evidence_text": "fec_employer=\"HFF\" contains real-estate token \"HFF\"; contributor=\"GALLOWAY, H. SCOTT MR.\"; $2500.0 on 2012-10-09 to committee C00473736",
+          "contribution_id": "fec_contributions_raw.id=5243",
+          "committee_id": "C00473736",
+          "amount": 2500.0,
+          "date": "2012-10-09",
+          "rule": "employer_match: hff"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE BANKER\"; fec_employer=\"JLL\"; contributor=\"GALLOWAY, H. SCOTT\"; $3300.0 on 2023-05-04 to committee C00420935",
+          "contribution_id": "fec_contributions_raw.id=5220",
+          "committee_id": "C00420935",
+          "amount": 3300.0,
+          "date": "2023-05-04",
+          "rule": "occupation_match: real estate banker"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE BANKER\"; fec_employer=\"JLL\"; contributor=\"GALLOWAY, H. SCOTT\"; $3300.0 on 2023-05-04 to committee C00420935",
+          "contribution_id": "fec_contributions_raw.id=5221",
+          "committee_id": "C00420935",
+          "amount": 3300.0,
+          "date": "2023-05-04",
+          "rule": "occupation_match: real estate banker"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE BANKER\"; fec_employer=\"JLL\"; contributor=\"GALLOWAY, H. SCOTT\"; $12500.0 on 2023-05-04 to committee C00831925",
+          "contribution_id": "fec_contributions_raw.id=5222",
+          "committee_id": "C00831925",
+          "amount": 12500.0,
+          "date": "2023-05-04",
+          "rule": "occupation_match: real estate banker"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE BANKER\"; fec_employer=\"JLL\"; contributor=\"GALLOWAY, H. SCOTT\"; $900.0 on 2023-05-04 to committee C00075820",
+          "contribution_id": "fec_contributions_raw.id=5223",
+          "committee_id": "C00075820",
+          "amount": 900.0,
+          "date": "2023-05-04",
+          "rule": "occupation_match: real estate banker"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE BANKER\"; fec_employer=\"JLL\"; contributor=\"GALLOWAY, H. SCOTT\"; $5000.0 on 2023-05-04 to committee C00428052",
+          "contribution_id": "fec_contributions_raw.id=5224",
+          "committee_id": "C00428052",
+          "amount": 5000.0,
+          "date": "2023-05-04",
+          "rule": "occupation_match: real estate banker"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE BROKER\"; fec_employer=\"HFF, INC.\"; contributor=\"GALLOWAY, H. SCOTT MR.\"; $2800.0 on 2019-06-25 to committee C00660795",
+          "contribution_id": "fec_contributions_raw.id=5237",
+          "committee_id": "C00660795",
+          "amount": 2800.0,
+          "date": "2019-06-25",
+          "rule": "occupation_match: real estate broker"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REAL ESTATE BROKER\"; fec_employer=\"HFF, INC.\"; contributor=\"GALLOWAY, H. SCOTT MR.\"; $2800.0 on 2019-06-25 to committee C00660795",
+          "contribution_id": "fec_contributions_raw.id=5238",
+          "committee_id": "C00660795",
+          "amount": 2800.0,
+          "date": "2019-06-25",
+          "rule": "occupation_match: real estate broker"
+        }
+      ]
+    },
+    {
+      "donor_id": "74300426-13ca-4cd2-b962-40d49504bbda",
+      "label": "Real Estate Industry Donor",
+      "total_amount": null,
+      "confidence": "low",
+      "first_seen": "2018-09-12",
+      "last_seen": "2019-08-08",
+      "notes": "Canonical name: Galvan, Mic. PAC contribs=0, employer matches=0, occupation matches=7. Campaigns: Ric Galvan. Donor identity appears polluted (multiple distinct contributors merged under this donor_id); RE evidence is real but identity assignment needs human review.",
+      "sensitive": true,
+      "evidence": [
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"MORTGAGE LOAN OFFICER\"; fec_employer=\"ALIGNED MORTGAGE\"; contributor=\"GALVAN, MICHAEL\"; $5.0 on 2019-08-08 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=5306",
+          "committee_id": "C00401224",
+          "amount": 5.0,
+          "date": "2019-08-08",
+          "rule": "occupation_match: mortgage loan officer"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"MORTGAGE LOAN OFFICER\"; fec_employer=\"ALIGNED MORTGAGE\"; contributor=\"GALVAN, MICHAEL\"; $5.0 on 2019-04-18 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=5309",
+          "committee_id": "C00401224",
+          "amount": 5.0,
+          "date": "2019-04-18",
+          "rule": "occupation_match: mortgage loan officer"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"MORTGAGE LOAN OFFICER\"; fec_employer=\"ALIGNED MORTGAGE\"; contributor=\"GALVAN, MICHAEL\"; $5.0 on 2019-03-21 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=5311",
+          "committee_id": "C00401224",
+          "amount": 5.0,
+          "date": "2019-03-21",
+          "rule": "occupation_match: mortgage loan officer"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"MORTGAGE LOAN OFFICER\"; fec_employer=\"OVM FINANCIAL\"; contributor=\"GALVAN, MICHAEL\"; $5.0 on 2018-10-27 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=5315",
+          "committee_id": "C00401224",
+          "amount": 5.0,
+          "date": "2018-10-27",
+          "rule": "occupation_match: mortgage loan officer"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"MORTGAGE LOAN OFFICER\"; fec_employer=\"OVM FINANCIAL\"; contributor=\"GALVAN, MICHAEL\"; $1.0 on 2018-10-27 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=5316",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2018-10-27",
+          "rule": "occupation_match: mortgage loan officer"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"MORTGAGE LOAN OFFICER\"; fec_employer=\"OVM FINANCIAL\"; contributor=\"GALVAN, MICHAEL\"; $5.0 on 2018-09-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=5322",
+          "committee_id": "C00401224",
+          "amount": 5.0,
+          "date": "2018-09-15",
+          "rule": "occupation_match: mortgage loan officer"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"MORTGAGE LOAN OFFICER\"; fec_employer=\"OVM FINANCIAL\"; contributor=\"GALVAN, MICHAEL\"; $5.0 on 2018-09-12 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=5324",
+          "committee_id": "C00401224",
+          "amount": 5.0,
+          "date": "2018-09-12",
+          "rule": "occupation_match: mortgage loan officer"
+        }
+      ]
+    },
+    {
+      "donor_id": "988c02cf-ca0f-42e8-bf32-444fa193023e",
+      "label": "Real Estate Industry Donor",
+      "total_amount": null,
+      "confidence": "medium",
+      "first_seen": "2019-03-15",
+      "last_seen": "2019-06-10",
+      "notes": "Canonical name: Gomez, Stephanie. PAC contribs=0, employer matches=0, occupation matches=3. Campaigns: Ric Galvan.",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"LEASING AGENT\"; fec_employer=\"HEATHERWOOD APARTMENTS\"; contributor=\"GOMEZ, STEPHANIE\"; $1.0 on 2019-06-10 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=6762",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2019-06-10",
+          "rule": "occupation_match: leasing agent"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"LEASING AGENT\"; fec_employer=\"HEATHERWOOD APARTMENTS\"; contributor=\"GOMEZ, STEPHANIE\"; $1.0 on 2019-06-10 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=6763",
+          "committee_id": "C00401224",
+          "amount": 1.0,
+          "date": "2019-06-10",
+          "rule": "occupation_match: leasing agent"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"LEASING AGENT\"; fec_employer=\"HEATHERWOOD APARTMENTS\"; contributor=\"GOMEZ, STEPHANIE\"; $5.0 on 2019-03-15 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=6765",
+          "committee_id": "C00401224",
+          "amount": 5.0,
+          "date": "2019-03-15",
+          "rule": "occupation_match: leasing agent"
+        }
+      ]
+    },
+    {
+      "donor_id": "5f15f041-5311-4244-bfbb-7bb2fb2e1de9",
+      "label": "Real Estate Industry Donor",
+      "total_amount": null,
+      "confidence": "medium",
+      "first_seen": "2022-05-18",
+      "last_seen": "2022-05-18",
+      "notes": "Canonical name: Gonzalez, Matthew. PAC contribs=0, employer matches=0, occupation matches=1. Campaigns: Ric Galvan.",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"MORTGAGE SERVICER\"; fec_employer=\"FIRST AMERICAN\"; contributor=\"GONZALEZ, MATTHEW\"; $2.0 on 2022-05-18 to committee C00401224",
+          "contribution_id": "fec_contributions_raw.id=6812",
+          "committee_id": "C00401224",
+          "amount": 2.0,
+          "date": "2022-05-18",
+          "rule": "occupation_match: mortgage servicer"
+        }
+      ]
+    },
+    {
+      "donor_id": "d4357049-41bd-4c61-83a1-fb76cae60ef7",
+      "label": "Real Estate Industry Donor",
+      "total_amount": null,
+      "confidence": "medium",
+      "first_seen": "2020-01-09",
+      "last_seen": "2023-06-23",
+      "notes": "Canonical name: Kennedy, Maria. PAC contribs=0, employer matches=0, occupation matches=59. Campaigns: Ric Galvan.",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2023-06-23 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6920",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2023-06-23",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2023-06-14 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6921",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2023-06-14",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $35.0 on 2023-06-14 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6922",
+          "committee_id": "C00694323",
+          "amount": 35.0,
+          "date": "2023-06-14",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2023-05-26 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6923",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2023-05-26",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2023-05-19 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6924",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2023-05-19",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2023-05-16 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6925",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2023-05-16",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2023-05-07 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6926",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2023-05-07",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2023-03-09 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6927",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2023-03-09",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $100.0 on 2022-11-15 to committee C00003418",
+          "contribution_id": "fec_contributions_raw.id=6928",
+          "committee_id": "C00003418",
+          "amount": 100.0,
+          "date": "2022-11-15",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $0.1 on 2022-11-14 to committee C00003418",
+          "contribution_id": "fec_contributions_raw.id=6929",
+          "committee_id": "C00003418",
+          "amount": 0.1,
+          "date": "2022-11-14",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $100.0 on 2022-11-09 to committee C00003418",
+          "contribution_id": "fec_contributions_raw.id=6930",
+          "committee_id": "C00003418",
+          "amount": 100.0,
+          "date": "2022-11-09",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $100.0 on 2022-11-08 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6931",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-08",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $9.9 on 2022-11-08 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6932",
+          "committee_id": "C00694323",
+          "amount": 9.9,
+          "date": "2022-11-08",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $0.1 on 2022-11-08 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6933",
+          "committee_id": "C00694323",
+          "amount": 0.1,
+          "date": "2022-11-08",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2022-11-05 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6934",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2022-11-05",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6935",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6936",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $100.0 on 2022-11-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6937",
+          "committee_id": "C00694323",
+          "amount": 100.0,
+          "date": "2022-11-04",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2022-10-29 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6938",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2022-10-29",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2022-10-05 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6939",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2022-10-05",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2022-10-03 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6940",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2022-10-03",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $3.75 on 2022-10-03 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6941",
+          "committee_id": "C00694323",
+          "amount": 3.75,
+          "date": "2022-10-03",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $5.0 on 2022-10-03 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6942",
+          "committee_id": "C00694323",
+          "amount": 5.0,
+          "date": "2022-10-03",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $20.22 on 2022-09-30 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6943",
+          "committee_id": "C00694323",
+          "amount": 20.22,
+          "date": "2022-09-30",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $6.0 on 2021-11-12 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6944",
+          "committee_id": "C00694323",
+          "amount": 6.0,
+          "date": "2021-11-12",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2021-11-12 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6945",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2021-11-12",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $12.5 on 2021-10-30 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6946",
+          "committee_id": "C00694323",
+          "amount": 12.5,
+          "date": "2021-10-30",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $12.5 on 2021-10-30 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6947",
+          "committee_id": "C00694323",
+          "amount": 12.5,
+          "date": "2021-10-30",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2021-10-26 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6948",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2021-10-26",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $1.0 on 2021-09-15 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6949",
+          "committee_id": "C00694323",
+          "amount": 1.0,
+          "date": "2021-09-15",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $20.0 on 2021-09-15 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6950",
+          "committee_id": "C00694323",
+          "amount": 20.0,
+          "date": "2021-09-15",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2021-09-02 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6951",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2021-09-02",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $20.0 on 2021-09-01 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6952",
+          "committee_id": "C00694323",
+          "amount": 20.0,
+          "date": "2021-09-01",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2021-08-14 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6953",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2021-08-14",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $20.0 on 2021-08-06 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6954",
+          "committee_id": "C00694323",
+          "amount": 20.0,
+          "date": "2021-08-06",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $20.0 on 2021-07-20 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6955",
+          "committee_id": "C00694323",
+          "amount": 20.0,
+          "date": "2021-07-20",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2021-06-12 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6956",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2021-06-12",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $20.0 on 2021-06-12 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6957",
+          "committee_id": "C00694323",
+          "amount": 20.0,
+          "date": "2021-06-12",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2021-01-11 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6958",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2021-01-11",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2021-01-04 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6959",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2021-01-04",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2021-01-03 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6960",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2021-01-03",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $3.34 on 2020-12-28 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6961",
+          "committee_id": "C00694323",
+          "amount": 3.34,
+          "date": "2020-12-28",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $3.33 on 2020-12-28 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6962",
+          "committee_id": "C00694323",
+          "amount": 3.33,
+          "date": "2020-12-28",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $3.33 on 2020-12-28 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6963",
+          "committee_id": "C00694323",
+          "amount": 3.33,
+          "date": "2020-12-28",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $35.0 on 2020-12-09 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6964",
+          "committee_id": "C00694323",
+          "amount": 35.0,
+          "date": "2020-12-09",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $8.34 on 2020-11-22 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6965",
+          "committee_id": "C00694323",
+          "amount": 8.34,
+          "date": "2020-11-22",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $8.33 on 2020-11-22 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6966",
+          "committee_id": "C00694323",
+          "amount": 8.33,
+          "date": "2020-11-22",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $8.33 on 2020-11-22 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6967",
+          "committee_id": "C00694323",
+          "amount": 8.33,
+          "date": "2020-11-22",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $20.0 on 2020-11-01 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6969",
+          "committee_id": "C00694323",
+          "amount": 20.0,
+          "date": "2020-11-01",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2020-10-21 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6970",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2020-10-21",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $20.0 on 2020-10-20 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6971",
+          "committee_id": "C00694323",
+          "amount": 20.0,
+          "date": "2020-10-20",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2020-09-10 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6976",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2020-09-10",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2020-08-26 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6977",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2020-08-26",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2020-08-15 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6978",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2020-08-15",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2020-08-12 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6979",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2020-08-12",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"SELF-EMPLOYED\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2020-05-02 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6982",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2020-05-02",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"SELF-EMPLOYED\"; contributor=\"KENNEDY, MARIA\"; $25.0 on 2020-04-06 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6983",
+          "committee_id": "C00694323",
+          "amount": 25.0,
+          "date": "2020-04-06",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $10.0 on 2020-02-09 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6984",
+          "committee_id": "C00694323",
+          "amount": 10.0,
+          "date": "2020-02-09",
+          "rule": "occupation_match: realtor"
+        },
+        {
+          "source": "occupation_match",
+          "evidence_text": "fec_occupation=\"REALTOR\"; fec_employer=\"LAURA KENNEDY\"; contributor=\"KENNEDY, MARIA\"; $35.0 on 2020-01-09 to committee C00694323",
+          "contribution_id": "fec_contributions_raw.id=6985",
+          "committee_id": "C00694323",
+          "amount": 35.0,
+          "date": "2020-01-09",
+          "rule": "occupation_match: realtor"
+        }
+      ]
+    }
+  ],
+  "notes": "Searched 634 SA donor_identities and 8,952 fec_contributions_raw rows. Verified 6 real-estate FEC PAC IDs via FEC API. Of those, only NMHC PAC (C00130773) appears in the SA pool (2 contributions, $2,000 total). Other RE PACs (NAR/RPAC, MORPAC, TIPAC, REALPAC, BUILDPAC) had zero hits in fec_contributions_raw, consistent with the SA donor pool being mostly small-dollar ActBlue/WinRed donors who do not give to industry PACs. Excluded SA-candidate donor_ids: Shaikh, Sakib (himself a realtor + landlord) and 5 Galvan, Ric variants. Excluded \"DEVELOPER\" / \"SOFTWARE DEVELOPER\" / \"DEVELOPMENT COORDINATOR\" / \"LEARNING AND DEVELOPMENT SPECIALIST\" matches. Castillo, Joseph (mostly physician/oil-gas) and Galvan, Mic (mixed Michael / Michele Galvans) flagged sensitive=true for human identity review. Austin civic_affiliations RE names (Rudy, Land, Berkowitz, Gottesman, Newberg, Kahn, Kunik, Pastor, Cody) had zero overlap with SA canonical_names."
+}

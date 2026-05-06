@@ -1,0 +1,19 @@
+{
+  "category": "adl",
+  "rules": [
+    {
+      "name": "civic_affiliations_match",
+      "description": "Austin civic_affiliations row whose organization word-boundary-contains 'Anti-Defamation League' or 'ADL', or whose notes reference ADL, joined to SA donor by canonical_name. Confidence medium."
+    },
+    {
+      "name": "employer_match",
+      "description": "SA donor canonical_employer or any fec_contributions_raw.fec_employer for that donor contains 'ADL' (word-boundary) or 'Anti-Defamation League'. Confidence low alone."
+    },
+    {
+      "name": "name_match_research",
+      "description": "Donor name + zip clearly matches a published ADL board roster (Austin or national) for the relevant period. Source must be a public, citable URL. Always sensitive=true."
+    }
+  ],
+  "findings": [],
+  "notes": "No SA donor matched any rule. Cross-referenced 634 SA donor_identities against 44 unique ADL-affiliated canonical_names in Austin civic_affiliations (55 ADL rows total, organizations matching 'Anti-Defamation League'/'ADL' or notes referencing same). No canonical_name match (case-insensitive), no last-name + first-initial fuzzy match, no canonical_employer or fec_employer contains 'ADL'/'Anti-Defamation'. ADL has no FEC PAC, so no FEC-based rule applies. Consistent with expected baseline: SA is not a major ADL hub; ADL Austin board rosters do not overlap with SA donor identities for Galvan/Shaikh."
+}

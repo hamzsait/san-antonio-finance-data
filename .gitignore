@@ -14,9 +14,12 @@ __pycache__/
 node_modules/
 package-lock.json
 
-# Local debug helpers (SA-specific; created during scraper development)
+# Local debug helpers (SA-specific; created during pipeline development)
 _check_*.py
 _debug_*
+_inspect_*.py
+_summarize_*.py
+build_findings_*.py
 *.log
 
 # Intermediate analysis files (parity with austin-finance-data)

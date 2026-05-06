@@ -1,0 +1,34 @@
+{
+  "category": "zionist_general",
+  "rules": [
+    {
+      "name": "fec_committee_id_match",
+      "description": "Donor has a contribution in fec_contributions_raw to one of the curated non-AIPAC, non-ADL Israel-aligned committees: hawkish (C00699470 Pro-Israel America PAC, C00710848 DMFI PAC, C00247403 NORPAC, C00345132 Republican Jewish Coalition PAC, C00528554 RJC Victory Fund, C00687657 American Pro-Israel PAC, C00753459 Jewish Unity PAC, C00520320 Allies of Israel PAC) or liberal-Zionist (C00441949 JStreetPAC, C00573253 Bend the Arc Jewish Action PAC, C00306670 National Jewish Democratic Council PAC). Confidence: high. Excludes AIPAC PAC (C00797670) and UDP (C00799031), which are owned by the aipac agent."
+    },
+    {
+      "name": "civic_affiliations_match",
+      "description": "Donor's canonical_name matches an Austin civic_affiliations row with category IN ('pro_israel','liberal_zionist','jewish_political'), excluding rows whose organization is specifically AIPAC (those belong to the aipac agent). 'jewish_civic' is excluded as too broad. Confidence: medium."
+    }
+  ],
+  "findings": [],
+  "_diagnostics": {
+    "fec_committee_id_match": {
+      "curated_committees_searched": 11,
+      "matches_found": 0,
+      "explanation": "Zero of the 11 curated non-AIPAC Israel-aligned PACs (Pro-Israel America, DMFI, NORPAC, RJC, RJC Victory Fund, American Pro-Israel PAC, Jewish Unity PAC, Allies of Israel PAC, JStreetPAC, Bend the Arc, NJDC PAC) appear in fec_contributions_raw. The 228 distinct committees in the SA dataset are predominantly Texas-Democratic candidate committees (Beto, Castro, Cisneros, Lira) plus ActBlue/WinRed conduits. SA donors in this dataset have not given to dedicated pro-Israel federal PACs."
+    },
+    "civic_affiliations_match": {
+      "austin_target_rows": 10,
+      "non_aipac_target_rows": 6,
+      "name_matches_in_sa_donor_pool": 0,
+      "candidates_searched": ["Soifer (J Street NAC)", "Winkelman (NJDC)", "Lubetzky (OneVoice/PeaceWorks)", "Talarico (jewish_political, AIPAC-disavowed)"],
+      "explanation": "Austin civic_affiliations target rows are all Austin-area individuals; none appear in San Antonio donor_identities or in fec_contributions_raw contributor names. AIPAC-specific rows (Rudy x2, Loewy x2) intentionally excluded — those belong to the aipac agent."
+    },
+    "employer_occupation_scan": {
+      "keywords_tried": ["ISRAEL", "AIPAC", "JEWISH", "HILLEL", "JFNA", "NORPAC", "J STREET"],
+      "matches_in_donor_identities": 0,
+      "matches_in_fec_contributions_raw": 0
+    },
+    "summary": "No San Antonio donors flagged for zionist_general. Across 634 donor identities, 8,952 FEC contributions, and the Austin civic_affiliations cross-reference, there is zero signal for the broader (non-AIPAC, non-ADL) Israel-aligned political-money network in this dataset."
+  }
+}

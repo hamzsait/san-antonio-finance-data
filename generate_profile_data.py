@@ -248,6 +248,130 @@ def main() -> int:
         "top_donors": top_donors,
     }]
 
+    # ── Affiliations + receipts ───────────────────────────────────────────────
+    # For each donor who gave to THIS candidate, pull every affiliation row
+    # (and its evidence). We build two structures:
+    #   donor_affiliations: { donor_id: [ {category, label, ...}, ... ] }
+    #   affiliations_summary: per-category roll-up across this candidate's donors
+    candidate_donor_ids = {
+        r[0] for r in cur.execute(
+            "SELECT DISTINCT donor_id FROM campaign_finance "
+            "WHERE filer_slug=? AND donor_id IS NOT NULL", (slug,)
+        ).fetchall()
+    }
+
+    has_affil = cur.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='donor_affiliations'"
+    ).fetchone() is not None
+
+    donor_affiliations: dict[str, list] = {}
+    affiliations_summary: dict = {"categories": []}
+
+    if has_affil and candidate_donor_ids:
+        ph = ",".join("?" for _ in candidate_donor_ids)
+        aff_rows = cur.execute(f"""
+            SELECT a.affiliation_id, a.donor_id, a.category, a.label,
+                   a.total_amount, a.confidence, a.first_seen, a.last_seen,
+                   a.notes, a.sensitive,
+                   di.canonical_name
+            FROM donor_affiliations a
+            JOIN donor_identities di ON di.donor_id = a.donor_id
+            WHERE a.donor_id IN ({ph})
+        """, list(candidate_donor_ids)).fetchall()
+
+        if aff_rows:
+            aff_ids = [r["affiliation_id"] for r in aff_rows]
+            evp = ",".join("?" for _ in aff_ids)
+            ev_rows = cur.execute(f"""
+                SELECT affiliation_id, source, source_url, evidence_text,
+                       contribution_id, committee_id, committee_name,
+                       amount, date, raw_data, rule
+                FROM donor_affiliation_evidence
+                WHERE affiliation_id IN ({evp})
+                ORDER BY date DESC, amount DESC
+            """, aff_ids).fetchall()
+            ev_by_aff: dict[int, list] = {}
+            for er in ev_rows:
+                ev_by_aff.setdefault(er["affiliation_id"], []).append({
+                    "source":          er["source"],
+                    "source_url":      er["source_url"],
+                    "evidence_text":   er["evidence_text"],
+                    "contribution_id": er["contribution_id"],
+                    "committee_id":    er["committee_id"],
+                    "committee_name":  er["committee_name"],
+                    "amount":          er["amount"],
+                    "date":            er["date"],
+                    "rule":            er["rule"],
+                })
+
+            CAT_LABELS = {
+                "aipac":            "AIPAC",
+                "adl":              "ADL",
+                "zionist_general":  "Israel-aligned giving (non-AIPAC)",
+                "oil_gas":          "Oil & Gas",
+                "real_estate":      "Real Estate",
+                "mic":              "Military Industrial Complex",
+                "fec_partisan":     "Federal partisan giving (FEC)",
+                "tec_partisan":     "Texas state partisan giving (TEC)",
+            }
+            cat_buckets: dict[str, dict] = {}
+
+            for ar in aff_rows:
+                cat = ar["category"]
+                entry = {
+                    "category":     cat,
+                    "category_label": CAT_LABELS.get(cat, cat),
+                    "label":        ar["label"],
+                    "total_amount": ar["total_amount"],
+                    "confidence":   ar["confidence"],
+                    "first_seen":   ar["first_seen"],
+                    "last_seen":    ar["last_seen"],
+                    "notes":        ar["notes"],
+                    "sensitive":    bool(ar["sensitive"]),
+                    "evidence":     ev_by_aff.get(ar["affiliation_id"], []),
+                }
+                donor_affiliations.setdefault(ar["donor_id"], []).append(entry)
+
+                b = cat_buckets.setdefault(cat, {
+                    "category":      cat,
+                    "category_label": CAT_LABELS.get(cat, cat),
+                    "donor_count":   0,
+                    "total_amount":  0.0,
+                    "confidence_breakdown": {"high": 0, "medium": 0, "low": 0},
+                    "sensitive_count": 0,
+                    "top_donors":    [],
+                })
+                b["donor_count"] += 1
+                if ar["total_amount"]:
+                    b["total_amount"] += float(ar["total_amount"])
+                conf = (ar["confidence"] or "medium").lower()
+                if conf in b["confidence_breakdown"]:
+                    b["confidence_breakdown"][conf] += 1
+                if ar["sensitive"]:
+                    b["sensitive_count"] += 1
+                b["top_donors"].append({
+                    "donor_id":     ar["donor_id"],
+                    "name":         ar["canonical_name"],
+                    "label":        ar["label"],
+                    "total_amount": ar["total_amount"],
+                    "confidence":   ar["confidence"],
+                })
+
+            for cat, b in cat_buckets.items():
+                b["top_donors"].sort(
+                    key=lambda d: (-(d["total_amount"] or 0), d["name"] or "")
+                )
+                b["top_donors"] = b["top_donors"][:10]
+                b["total_amount"] = round(b["total_amount"], 2)
+            # Sort categories by donor_count desc; partisan categories come first
+            CAT_ORDER = ["fec_partisan", "tec_partisan", "aipac", "adl",
+                         "zionist_general", "oil_gas", "real_estate", "mic"]
+            ordered = sorted(
+                cat_buckets.values(),
+                key=lambda b: (CAT_ORDER.index(b["category"]) if b["category"] in CAT_ORDER else 99,)
+            )
+            affiliations_summary["categories"] = ordered
+
     # ── All donations (one row per gift, for the table view) ──────────────────
     donations_rows = cur.execute(
         """
@@ -294,6 +418,12 @@ def main() -> int:
         "partisan_lean": partisan_lean,
         "ip_spectrum": None,
         "civic_affiliations": None,
+        # Per-donor affiliations + per-candidate roll-up. The new affiliations
+        # pipeline (donor_affiliations table) populates these. If the table
+        # doesn't exist yet, both fields are empty and the frontend hides the
+        # corresponding sections.
+        "affiliations_summary": affiliations_summary,
+        "donor_affiliations": donor_affiliations,
     }
 
     out_dir = Path(args.output_dir)

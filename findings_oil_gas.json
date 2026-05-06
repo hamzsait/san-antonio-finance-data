@@ -1,0 +1,571 @@
+{
+  "category": "oil_gas",
+  "rules": [
+    {
+      "name": "fec_committee_id_match",
+      "description": "Donor contributed to one of the curated FOSSIL_COMMITTEES (oil_gas_major / independent / midstream / coal / oil_lobbying). Confidence: high."
+    },
+    {
+      "name": "civic_affiliations_match",
+      "description": "Donor's canonical_name matches an Austin civic_affiliations row where category LIKE 'oil_gas_%'. Confidence: medium-high."
+    },
+    {
+      "name": "employer_match",
+      "description": "canonical_employer, fec_employer, or donor_reported_employer matches a curated word-boundaried regex of oil-and-gas company and trade-association substrings. Confidence: medium (low if employer-only with no other signal)."
+    }
+  ],
+  "findings": [
+    {
+      "donor_id": "caf1a120-7383-40cd-b535-6f54a980b43a",
+      "label": "Oil & Gas Executive",
+      "total_amount": 1114.36,
+      "confidence": "high",
+      "first_seen": "2003-05-27",
+      "last_seen": "2009-12-31",
+      "notes": "Rules matched: FEC PAC giving to fossil-fuel committee. Sub-categories: oil_gas_major. FEC occupations seen: JOINT INTERES MGR, PICEANCE PROJECT EXECUTIVE. FEC employers: EXXONMOBIL PROD COMP, EXXONMOBIL PRODUCTION CO.",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $305.00 to ExxonMobil PAC on 2003-05-27 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2459",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 305.0,
+          "date": "2003-05-27",
+          "raw_data": "{\"fec_sub_id\": \"4061920031032712209\", \"fec_contributor_name\": \"JAMES F BRANCH\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2003-06-26 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2458",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2003-06-26",
+          "raw_data": "{\"fec_sub_id\": \"4092920031035405302\", \"fec_contributor_name\": \"JAMES F BRANCH\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $12.50 to ExxonMobil PAC on 2003-07-08 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2457",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 12.5,
+          "date": "2003-07-08",
+          "raw_data": "{\"fec_sub_id\": \"4082520031034781870\", \"fec_contributor_name\": \"JAMES F BRANCH\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $50.00 to ExxonMobil PAC on 2003-08-29 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2456",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 50.0,
+          "date": "2003-08-29",
+          "raw_data": "{\"fec_sub_id\": \"4092320031035267686\", \"fec_contributor_name\": \"JAMES F BRANCH\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2003-09-30 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2455",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2003-09-30",
+          "raw_data": "{\"fec_sub_id\": \"4102020031035849824\", \"fec_contributor_name\": \"JAMES F BRANCH\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2003-10-24 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2454",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2003-10-24",
+          "raw_data": "{\"fec_sub_id\": \"4112020031036424907\", \"fec_contributor_name\": \"JAMES F BRANCH\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $12.50 to ExxonMobil PAC on 2003-11-21 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2453",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 12.5,
+          "date": "2003-11-21",
+          "raw_data": "{\"fec_sub_id\": \"4122320031034254565\", \"fec_contributor_name\": \"JAMES F BRANCH\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $37.50 to ExxonMobil PAC on 2003-12-31 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2452",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 37.5,
+          "date": "2003-12-31",
+          "raw_data": "{\"fec_sub_id\": \"4020220041035255213\", \"fec_contributor_name\": \"JAMES F BRANCH\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2004-09-15 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2451",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2004-09-15",
+          "raw_data": "{\"fec_sub_id\": \"4102720041044274003\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $37.50 to ExxonMobil PAC on 2004-10-15 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2450",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 37.5,
+          "date": "2004-10-15",
+          "raw_data": "{\"fec_sub_id\": \"4121420041046686884\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $37.50 to ExxonMobil PAC on 2004-11-30 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2449",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 37.5,
+          "date": "2004-11-30",
+          "raw_data": "{\"fec_sub_id\": \"4020120051053516908\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2005-09-15 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2448",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2005-09-15",
+          "raw_data": "{\"fec_sub_id\": \"4102020051061482493\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2005-10-15 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2447",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2005-10-15",
+          "raw_data": "{\"fec_sub_id\": \"4112820051062373973\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2005-11-15 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2446",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2005-11-15",
+          "raw_data": "{\"fec_sub_id\": \"4121420051062546614\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2005-12-15 (employer=EXXONMOBIL PROD COMP, occupation=JOINT INTERES MGR)",
+          "contribution_id": "fec_contributions_raw.id=2445",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2005-12-15",
+          "raw_data": "{\"fec_sub_id\": \"4020620061063801775\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PROD COMP\", \"fec_occupation\": \"JOINT INTERES MGR\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2006-09-15 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2444",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2006-09-15",
+          "raw_data": "{\"fec_sub_id\": \"4103020061071199561\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $12.50 to ExxonMobil PAC on 2006-10-15 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2443",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 12.5,
+          "date": "2006-10-15",
+          "raw_data": "{\"fec_sub_id\": \"4110920061071916486\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2006-10-31 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2442",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2006-10-31",
+          "raw_data": "{\"fec_sub_id\": \"4010420071073996159\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $37.50 to ExxonMobil PAC on 2006-11-30 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2441",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 37.5,
+          "date": "2006-11-30",
+          "raw_data": "{\"fec_sub_id\": \"4011920071074470786\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2007-09-15 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2440",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2007-09-15",
+          "raw_data": "{\"fec_sub_id\": \"4110120071082069328\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2007-10-15 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2439",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2007-10-15",
+          "raw_data": "{\"fec_sub_id\": \"4020320091106828064\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2007-11-15 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2438",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2007-11-15",
+          "raw_data": "{\"fec_sub_id\": \"4122720071083200622\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2007-12-15 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2437",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2007-12-15",
+          "raw_data": "{\"fec_sub_id\": \"4030520081085754094\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2008-09-15 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2436",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2008-09-15",
+          "raw_data": "{\"fec_sub_id\": \"4101620081097524938\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $12.50 to ExxonMobil PAC on 2008-10-15 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2435",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 12.5,
+          "date": "2008-10-15",
+          "raw_data": "{\"fec_sub_id\": \"4120320081101741355\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $25.00 to ExxonMobil PAC on 2008-10-31 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2434",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 25.0,
+          "date": "2008-10-31",
+          "raw_data": "{\"fec_sub_id\": \"4020320091106829098\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $37.50 to ExxonMobil PAC on 2008-11-30 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2433",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 37.5,
+          "date": "2008-11-30",
+          "raw_data": "{\"fec_sub_id\": \"4021220091107474541\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $13.54 to ExxonMobil PAC on 2009-08-31 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2432",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 13.54,
+          "date": "2009-08-31",
+          "raw_data": "{\"fec_sub_id\": \"4092820091118474177\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $27.08 to ExxonMobil PAC on 2009-09-30 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2431",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 27.08,
+          "date": "2009-09-30",
+          "raw_data": "{\"fec_sub_id\": \"4101620091119372008\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $27.08 to ExxonMobil PAC on 2009-10-30 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2430",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 27.08,
+          "date": "2009-10-30",
+          "raw_data": "{\"fec_sub_id\": \"4111620091121308482\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $27.08 to ExxonMobil PAC on 2009-11-30 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2429",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 27.08,
+          "date": "2009-11-30",
+          "raw_data": "{\"fec_sub_id\": \"4122820091122258768\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00121368/",
+          "evidence_text": "Contributed $27.08 to ExxonMobil PAC on 2009-12-31 (employer=EXXONMOBIL PRODUCTION CO, occupation=PICEANCE PROJECT EXECUTIVE)",
+          "contribution_id": "fec_contributions_raw.id=2428",
+          "committee_id": "C00121368",
+          "committee_name": "ExxonMobil PAC",
+          "amount": 27.08,
+          "date": "2009-12-31",
+          "raw_data": "{\"fec_sub_id\": \"4011120101122430867\", \"fec_contributor_name\": \"BRANCH, JAMES\", \"fec_employer\": \"EXXONMOBIL PRODUCTION CO\", \"fec_occupation\": \"PICEANCE PROJECT EXECUTIVE\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        }
+      ]
+    },
+    {
+      "donor_id": "445a3f3c-e4d9-4f08-a056-93cc8eaa5418",
+      "label": "Oil & Gas Industry Donor",
+      "total_amount": 15.0,
+      "confidence": "high",
+      "first_seen": "2018-10-15",
+      "last_seen": "2018-11-15",
+      "notes": "Rules matched: employer name matches oil-and-gas company list; FEC PAC giving to fossil-fuel committee. Sub-categories: oil_gas_major. FEC occupations seen: BUSINESS ANALYST. FEC employers: VALERO SERVICES, INC..",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00109546/",
+          "evidence_text": "Contributed $5.00 to Valero Energy PAC on 2018-10-15 (employer=VALERO SERVICES, INC., occupation=BUSINESS ANALYST)",
+          "contribution_id": "fec_contributions_raw.id=5042",
+          "committee_id": "C00109546",
+          "committee_name": "Valero Energy PAC",
+          "amount": 5.0,
+          "date": "2018-10-15",
+          "raw_data": "{\"fec_sub_id\": \"4112820181620122988\", \"fec_contributor_name\": \"FIERROS, CASSONDRA S\", \"fec_employer\": \"VALERO SERVICES, INC.\", \"fec_occupation\": \"BUSINESS ANALYST\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00109546/",
+          "evidence_text": "Contributed $5.00 to Valero Energy PAC on 2018-10-31 (employer=VALERO SERVICES, INC., occupation=BUSINESS ANALYST)",
+          "contribution_id": "fec_contributions_raw.id=5041",
+          "committee_id": "C00109546",
+          "committee_name": "Valero Energy PAC",
+          "amount": 5.0,
+          "date": "2018-10-31",
+          "raw_data": "{\"fec_sub_id\": \"4013120191636963444\", \"fec_contributor_name\": \"FIERROS, CASSONDRA S\", \"fec_employer\": \"VALERO SERVICES, INC.\", \"fec_occupation\": \"BUSINESS ANALYST\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "FEC schedule_a",
+          "source_url": "https://www.fec.gov/data/committee/C00109546/",
+          "evidence_text": "Contributed $5.00 to Valero Energy PAC on 2018-11-15 (employer=VALERO SERVICES, INC., occupation=BUSINESS ANALYST)",
+          "contribution_id": "fec_contributions_raw.id=5040",
+          "committee_id": "C00109546",
+          "committee_name": "Valero Energy PAC",
+          "amount": 5.0,
+          "date": "2018-11-15",
+          "raw_data": "{\"fec_sub_id\": \"4013120191636966094\", \"fec_contributor_name\": \"FIERROS, CASSONDRA S\", \"fec_employer\": \"VALERO SERVICES, INC.\", \"fec_occupation\": \"BUSINESS ANALYST\", \"fossil_category\": \"oil_gas_major\"}",
+          "rule": "fec_committee_id_match"
+        },
+        {
+          "source": "employer_match",
+          "source_url": null,
+          "evidence_text": "fec_employer='VALERO SERVICES, INC.' matched pattern 'VALERO' across 3 FEC contributions (2018-10-15 to 2018-11-15, occupation=BUSINESS ANALYST)",
+          "contribution_id": null,
+          "committee_id": null,
+          "committee_name": null,
+          "amount": null,
+          "date": null,
+          "raw_data": "{\"field\": \"fec_employer\", \"value\": \"VALERO SERVICES, INC.\", \"match\": \"VALERO\", \"occupation\": \"BUSINESS ANALYST\", \"n_contributions\": 3, \"total_to_any_committee\": 15.0, \"first_date\": \"2018-10-15\", \"last_date\": \"2018-11-15\"}",
+          "rule": "employer_match"
+        }
+      ]
+    },
+    {
+      "donor_id": "268c01bf-62d4-4e30-9f80-e199ba21d0a5",
+      "label": "Oil & Gas Industry Donor",
+      "total_amount": null,
+      "confidence": "medium",
+      "first_seen": null,
+      "last_seen": null,
+      "notes": "Rules matched: Austin civic_affiliations oil_gas record. Sub-categories: oil_gas_major.",
+      "sensitive": false,
+      "evidence": [
+        {
+          "source": "civic_affiliations",
+          "source_url": "https://execservicecorphouston.org/a-j-durrani",
+          "evidence_text": "Austin civic_affiliations: Shell Oil (Shell-USA) (role=Regional Resource Volumes Manager, Shell-USA Unconventional Resources (retired 2011), category=oil_gas_major) — 34-year Shell career. Retired 2011. Houston-based donor.",
+          "contribution_id": null,
+          "committee_id": null,
+          "committee_name": null,
+          "amount": null,
+          "date": null,
+          "raw_data": "{\"organization\": \"Shell Oil (Shell-USA)\", \"role\": \"Regional Resource Volumes Manager, Shell-USA Unconventional Resources (retired 2011)\", \"category\": \"oil_gas_major\", \"notes\": \"34-year Shell career. Retired 2011. Houston-based donor.\"}",
+          "rule": "civic_affiliations_match"
+        }
+      ]
+    },
+    {
+      "donor_id": "6c06217b-2bfd-4436-a8cd-0a13633c0692",
+      "label": "Oil & Gas Industry Donor",
+      "total_amount": null,
+      "confidence": "low",
+      "first_seen": null,
+      "last_seen": null,
+      "notes": "Rules matched: employer name matches oil-and-gas company list. FEC occupations seen: QUALITY MANAGER. FEC employers: BAKER HUGHES.",
+      "sensitive": true,
+      "evidence": [
+        {
+          "source": "employer_match",
+          "source_url": null,
+          "evidence_text": "fec_employer='BAKER HUGHES' matched pattern 'BAKER HUGHES' across 2 FEC contributions (2024-08-20 to 2024-08-20, occupation=QUALITY MANAGER)",
+          "contribution_id": null,
+          "committee_id": null,
+          "committee_name": null,
+          "amount": null,
+          "date": null,
+          "raw_data": "{\"field\": \"fec_employer\", \"value\": \"BAKER HUGHES\", \"match\": \"BAKER HUGHES\", \"occupation\": \"QUALITY MANAGER\", \"n_contributions\": 2, \"total_to_any_committee\": 55.0, \"first_date\": \"2024-08-20\", \"last_date\": \"2024-08-20\"}",
+          "rule": "employer_match"
+        }
+      ]
+    },
+    {
+      "donor_id": "937695e4-e656-4f29-9f3e-589343b5f0a9",
+      "label": "Oil & Gas Industry Donor",
+      "total_amount": null,
+      "confidence": "low",
+      "first_seen": null,
+      "last_seen": null,
+      "notes": "Rules matched: employer name matches oil-and-gas company list. FEC occupations seen: MACHINE MECHANIC. FEC employers: BAKER HUGHES.",
+      "sensitive": true,
+      "evidence": [
+        {
+          "source": "employer_match",
+          "source_url": null,
+          "evidence_text": "fec_employer='BAKER HUGHES' matched pattern 'BAKER HUGHES' across 4 FEC contributions (2020-09-16 to 2020-11-02, occupation=MACHINE MECHANIC)",
+          "contribution_id": null,
+          "committee_id": null,
+          "committee_name": null,
+          "amount": null,
+          "date": null,
+          "raw_data": "{\"field\": \"fec_employer\", \"value\": \"BAKER HUGHES\", \"match\": \"BAKER HUGHES\", \"occupation\": \"MACHINE MECHANIC\", \"n_contributions\": 4, \"total_to_any_committee\": 50.0, \"first_date\": \"2020-09-16\", \"last_date\": \"2020-11-02\"}",
+          "rule": "employer_match"
+        }
+      ]
+    },
+    {
+      "donor_id": "f3c26d00-be5e-400c-a23e-74de8dd15848",
+      "label": "Oil & Gas Industry Donor",
+      "total_amount": null,
+      "confidence": "low",
+      "first_seen": null,
+      "last_seen": null,
+      "notes": "Rules matched: employer name matches oil-and-gas company list. FEC occupations seen: GEOLOGIST. FEC employers: CONOCOPHILLIPS.",
+      "sensitive": true,
+      "evidence": [
+        {
+          "source": "employer_match",
+          "source_url": null,
+          "evidence_text": "fec_employer='CONOCOPHILLIPS' matched pattern 'CONOCOPHILLIPS' across 1 FEC contributions (2019-03-24 to 2019-03-24, occupation=GEOLOGIST)",
+          "contribution_id": null,
+          "committee_id": null,
+          "committee_name": null,
+          "amount": null,
+          "date": null,
+          "raw_data": "{\"field\": \"fec_employer\", \"value\": \"CONOCOPHILLIPS\", \"match\": \"CONOCOPHILLIPS\", \"occupation\": \"GEOLOGIST\", \"n_contributions\": 1, \"total_to_any_committee\": 25.0, \"first_date\": \"2019-03-24\", \"last_date\": \"2019-03-24\"}",
+          "rule": "employer_match"
+        }
+      ]
+    }
+  ]
+}
