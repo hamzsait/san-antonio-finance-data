@@ -24,6 +24,10 @@ employer_review_needed.json
 llm_batch_*.json
 llm_classify_*.json
 fec_run_log.txt
+fec_run_log_*.txt
+fec_retry_log.txt
+fec_priority_log.txt
+*_fec_log.txt
 score_distribution.png
 
 # Bulk TEC ingest data — also too large; not used in SA pipeline yet but
