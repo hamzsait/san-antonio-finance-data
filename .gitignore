@@ -1,0 +1,35 @@
+# Database — too large for git
+*.db
+*.db-shm
+*.db-wal
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Node (parity with austin-finance-data)
+node_modules/
+package-lock.json
+
+# Local debug helpers (SA-specific; created during scraper development)
+_check_*.py
+_debug_*
+*.log
+
+# Intermediate analysis files (parity with austin-finance-data)
+employer_review_needed.json
+llm_batch_*.json
+llm_classify_*.json
+fec_run_log.txt
+score_distribution.png
+
+# Bulk TEC ingest data — also too large; not used in SA pipeline yet but
+# excluded preemptively in case it gets dropped here.
+tec_data/
+
+# OS
+.DS_Store
+Thumbs.db

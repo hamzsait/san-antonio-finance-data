@@ -1,0 +1,594 @@
+"""
+fetch_data.py
+San Antonio campaign finance scraper, single-filer mode.
+
+The City of San Antonio publishes campaign finance via an ASP.NET search UI at
+    https://webapp1.sanantonio.gov/campfinsearch/search.aspx
+There is no bulk export and no public API. Each search-results page is, however,
+a full structured grid: every contribution and every expenditure is one <tr>
+with stable column ordering. So we drive the form via standard ASP.NET POSTs
+(carrying __VIEWSTATE / __EVENTVALIDATION through paged postbacks), and parse
+each result row directly. No PDF parsing required.
+
+Usage:
+    python fetch_data.py --slug galvan
+    python fetch_data.py --filer-first Ric --filer-last Galvan
+    python fetch_data.py --slug galvan --start-year 2018 --end-year 2026
+    python fetch_data.py --slug galvan --dry-run        # parse, print summary, no DB writes
+    python fetch_data.py --slug galvan --max-pages 1    # only first page (debugging)
+
+Idempotency:
+    The campaign_finance table has a UNIQUE row_hash column. Re-running the
+    scraper for the same filer produces no duplicate rows.
+
+Schema:
+    The campaign_finance table mirrors Austin's, with the columns SA actually
+    fills and the rest left for downstream enrichment scripts (build_identities,
+    fec_enrich, etc.). A `source = 'sa_campfinsearch'` column tags the origin.
+"""
+
+from __future__ import annotations
+
+import argparse
+import hashlib
+import html as html_lib
+import re
+import sqlite3
+import sys
+import time
+from dataclasses import dataclass
+from datetime import datetime, timezone
+from pathlib import Path
+
+import requests
+from bs4 import BeautifulSoup
+
+ROOT     = Path(__file__).resolve().parent
+DB_PATH  = ROOT / "san_antonio_finance.db"
+SEARCH_URL  = "https://webapp1.sanantonio.gov/campfinsearch/search.aspx"
+RESULTS_URL = "https://webapp1.sanantonio.gov/campfinsearch/SearchResults2.aspx"
+
+UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+)
+
+# Office dropdown values supported by the form.
+OFFICES = {
+    "any": " ",
+    "na": "NA",
+    "mayor": "CD00",
+    **{f"d{i}": f"CD{i:02d}" for i in range(1, 11)},
+}
+
+
+# ── DB schema ──────────────────────────────────────────────────────────────
+# Mirrors Austin's campaign_finance table where possible. Columns SA actually
+# populates: donor, recipient, contribution_amount, contribution_date,
+# donor_type, city_state_zip, contribution_year, contribution_type,
+# date_reported, report_filed, view_report. The rest are placeholders for
+# downstream enrichment.
+CAMPAIGN_FINANCE_SCHEMA = """
+CREATE TABLE IF NOT EXISTS campaign_finance (
+    row_hash                  TEXT PRIMARY KEY,        -- stable natural key
+    source                    TEXT NOT NULL,           -- 'sa_campfinsearch'
+    donor                     TEXT,                    -- "Last, First" or org name
+    recipient                 TEXT,                    -- candidate name (filer)
+    contribution_amount       TEXT,                    -- raw, e.g. "$500.00"
+    contribution_date         TEXT,                    -- raw mm/dd/yyyy or with time
+    donor_type                TEXT,                    -- INDIVIDUAL / ENTITY (heuristic)
+    city_state_zip            TEXT,                    -- as displayed on the row
+    contribution_year         TEXT,                    -- yyyy parsed from contribution_date
+    contribution_type         TEXT,                    -- 'Monetary Political Contributions' etc.
+    date_reported             TEXT,
+    report_filed              TEXT,                    -- e.g. 'July 15: Semi-Annual 2025'
+    view_report               TEXT,                    -- PDF URL on webapp5.sanantonio.gov
+    transaction_id            TEXT,                    -- DataGrid postback id (e.g. _ctl3)
+    donor_reported_occupation TEXT,
+    donor_reported_employer   TEXT,
+    in_kind_description       TEXT,
+    out_of_state_pac          TEXT,
+    correction                TEXT,
+    -- enrichment columns (populated later)
+    donor_id                  TEXT,
+    match_confidence          TEXT,
+    is_joint                  INTEGER DEFAULT 0,
+    donor_id_2                TEXT,
+    balanced_amount           REAL,
+    employer_id               TEXT,
+    employer_match_confidence TEXT,
+    employer_id_2             TEXT,
+    -- provenance
+    scraped_at                TEXT NOT NULL,
+    filer_slug                TEXT                     -- council_members.slug if known
+);
+CREATE INDEX IF NOT EXISTS idx_cf_recipient   ON campaign_finance(recipient);
+CREATE INDEX IF NOT EXISTS idx_cf_filer_slug  ON campaign_finance(filer_slug);
+CREATE INDEX IF NOT EXISTS idx_cf_donor       ON campaign_finance(donor);
+CREATE INDEX IF NOT EXISTS idx_cf_year        ON campaign_finance(contribution_year);
+"""
+
+
+def ensure_schema(conn: sqlite3.Connection) -> None:
+    conn.executescript(CAMPAIGN_FINANCE_SCHEMA)
+
+
+# ── HTTP session ───────────────────────────────────────────────────────────
+def make_session() -> requests.Session:
+    s = requests.Session()
+    s.headers.update({
+        "User-Agent": UA,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Upgrade-Insecure-Requests": "1",
+    })
+    return s
+
+
+# ── ASP.NET state extraction ───────────────────────────────────────────────
+HIDDEN_RE = re.compile(
+    r'<input type="hidden"[^>]*\bname="(__VIEWSTATE|__VIEWSTATEGENERATOR|__EVENTVALIDATION)"[^>]*\bvalue="([^"]*)"',
+    re.IGNORECASE,
+)
+
+
+def extract_aspnet_state(html: str) -> dict[str, str]:
+    out: dict[str, str] = {}
+    for m in HIDDEN_RE.finditer(html):
+        out[m.group(1)] = m.group(2)
+    missing = {"__VIEWSTATE", "__VIEWSTATEGENERATOR", "__EVENTVALIDATION"} - set(out)
+    if missing:
+        raise RuntimeError(f"missing ASP.NET hidden fields: {missing}")
+    return out
+
+
+# ── Result row parsing ─────────────────────────────────────────────────────
+# Each data row is:
+#   <tr style="color:#000066;">
+#     <td><a target=_blank href="PDF_URL">View Report</a></td>      [0]
+#     <td>NAME<br><font size=1>STREET<br>CITY, ST  ZIP</font></td>   [1]
+#     <td>TYPE</td>                                                  [2] Contributor / Expenditure
+#     <td>REPORT_PERIOD</td>                                         [3]
+#     <td align="center">$AMOUNT</td>                                [4]
+#     <td><a href="javascript:__doPostBack('DataGrid1$_ctlN$_ctl0','')">KIND</a></td>  [5]
+#     <td>FILER</td>                                                 [6]
+#     <td>DATE_REPORTED</td>                                         [7]
+#     <td>CONTRIB_DATE</td>                                          [8]
+#   </tr>
+DATA_ROW_RE = re.compile(
+    r'<tr style="color:#000066;">\s*'
+    r'<td>(?P<view>(?:<a[^>]*>View Report</a>|&nbsp;|))</td>\s*'
+    r'<td>(?P<contributor>.*?)</td>\s*'
+    r'<td>(?P<txntype>[^<]*)</td>\s*'
+    r'<td>(?P<report>[^<]*)</td>\s*'
+    r'<td align="center">(?P<amount>[^<]*)</td>\s*'
+    r'<td>(?:<a[^>]*?DataGrid1\$(?P<ctl>_ctl\d+)\$_ctl0[^>]*>)?(?P<kind>[^<]*)(?:</a>)?</td>\s*'
+    r'<td>(?P<filer>[^<]*)</td>\s*'
+    r'<td>(?P<reported>[^<]*)</td>\s*'
+    r'<td>(?P<received>[^<]*)</td>\s*</tr>',
+    re.DOTALL,
+)
+PDF_HREF_RE = re.compile(r'href="([^"]+\.pdf)"', re.IGNORECASE)
+GRAND_TOTAL_RE = re.compile(r'Grand Total:</td>\s*<td[^>]*>([^<]+)</td>', re.IGNORECASE)
+# The pager is a single <tr align="left" ...> at the bottom of DataGrid1
+# containing <span>NUMBER</span> for the current page and <a>NUMBER</a>
+# tags for the other pages. The postback target's inner ctl number is NOT
+# stable across pages (page 1's pager and page 3's pager render different
+# ctlN values), so we must track display page numbers, not raw targets.
+#
+# Per-row transaction-detail links share the same __doPostBack syntax as the
+# pager links, so we scope the match to the pager row alone.
+PAGER_BLOCK_RE = re.compile(
+    r'<tr align="left"[^>]*>(.*?)</tr>', re.IGNORECASE | re.DOTALL,
+)
+PAGER_LINK_RE = re.compile(
+    r"<a [^>]*?href=(?:\"|')javascript:__doPostBack\((?:'|&#39;)"
+    r"(?P<target>DataGrid1\$_ctl\d+\$_ctl\d+)(?:'|&#39;)[^>]*>"
+    r"\s*(?P<num>\d+)\s*</a>",
+    re.IGNORECASE,
+)
+PAGER_CURRENT_RE = re.compile(r"<span>\s*(\d+)\s*</span>", re.IGNORECASE)
+
+
+@dataclass
+class Row:
+    view_report: str          # PDF URL or ""
+    contributor_name: str     # "Last, First" or org
+    contributor_addr: str     # one-line "STREET, CITY, ST ZIP"
+    txn_type: str             # "Contributor" / "Expenditure"
+    report_period: str
+    amount_raw: str           # "$500.00"
+    transaction_kind: str     # "Monetary Political Contributions" etc.
+    filer: str                # "Ric Galvan"
+    date_reported: str
+    contribution_date: str    # "9/1/2024 12:00:00 AM"
+    transaction_id: str       # "_ctlN" postback id (per-page; unstable)
+
+
+def _strip_html(s: str) -> str:
+    s = re.sub(r"<[^>]+>", " ", s)
+    s = html_lib.unescape(s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def parse_contributor_cell(cell_html: str) -> tuple[str, str]:
+    """The contributor cell is 'NAME<br><font size=1>STREET<br>CITY, ST  ZIP</font>'.
+    We split on <br> and join address parts on a single line."""
+    parts = re.split(r"<br\s*/?>", cell_html, flags=re.IGNORECASE)
+    parts = [_strip_html(p) for p in parts]
+    parts = [p for p in parts if p]
+    if not parts:
+        return "", ""
+    name = parts[0]
+    addr = ", ".join(parts[1:]) if len(parts) > 1 else ""
+    return name, addr
+
+
+def parse_rows(html: str) -> tuple[list[Row], str | None]:
+    """Returns (rows, grand_total_str)."""
+    rows: list[Row] = []
+    for m in DATA_ROW_RE.finditer(html):
+        d = m.groupdict()
+        pdf_m = PDF_HREF_RE.search(d["view"])
+        view_url = pdf_m.group(1) if pdf_m else ""
+        name, addr = parse_contributor_cell(d["contributor"])
+        rows.append(Row(
+            view_report=view_url,
+            contributor_name=name,
+            contributor_addr=addr,
+            txn_type=_strip_html(d["txntype"]),
+            report_period=_strip_html(d["report"]),
+            amount_raw=_strip_html(d["amount"]),
+            transaction_kind=_strip_html(d["kind"]),
+            filer=_strip_html(d["filer"]),
+            date_reported=_strip_html(d["reported"]),
+            contribution_date=_strip_html(d["received"]),
+            transaction_id=d["ctl"] or "",
+        ))
+    gt_m = GRAND_TOTAL_RE.search(html)
+    grand_total = _strip_html(gt_m.group(1)) if gt_m else None
+    return rows, grand_total
+
+
+def find_pager(html: str) -> tuple[int | None, dict[int, str]]:
+    """Returns (current_page_number, {page_number: postback_target}) for the
+    pager at the bottom of DataGrid1. (None, {}) if no pager."""
+    for block in PAGER_BLOCK_RE.finditer(html):
+        body = block.group(1)
+        if "<span>" not in body or "doPostBack" not in body:
+            continue
+        cur_m = PAGER_CURRENT_RE.search(body)
+        if not cur_m:
+            continue
+        current = int(cur_m.group(1))
+        targets: dict[int, str] = {}
+        for m in PAGER_LINK_RE.finditer(body):
+            num = int(m.group("num"))
+            targets[num] = m.group("target")
+        return current, targets
+    return None, {}
+
+
+# ── Search request ─────────────────────────────────────────────────────────
+def initial_search(
+    sess: requests.Session,
+    state: dict[str, str],
+    first_name: str,
+    last_name: str,
+    start_year: int,
+    end_year: int,
+    office: str = " ",
+    filer_type: str = "C",
+) -> requests.Response:
+    """Submit the search form and return the first results page response."""
+    body = {
+        "__EVENTTARGET":        "",
+        "__EVENTARGUMENT":      "",
+        "__VIEWSTATE":          state["__VIEWSTATE"],
+        "__VIEWSTATEGENERATOR": state["__VIEWSTATEGENERATOR"],
+        "__EVENTVALIDATION":    state["__EVENTVALIDATION"],
+        "rdoSearchType":        "1",   # 1=Exact / 2=StartsWith / 3=Contains
+        "txtLName":             last_name,
+        "txtFName":             first_name,
+        "txtAmount":            "",
+        "TranType":             "",
+        "ddlReportType":        " ",
+        "ddlOfficeSought":      office,
+        "FilerType":            filer_type,
+        "SDateYYYY":            str(start_year),
+        "EDateYYYY":            str(end_year),
+        "btnSearch":            "Search",
+    }
+    r = sess.post(
+        SEARCH_URL, data=body, timeout=60,
+        headers={"Content-Type": "application/x-www-form-urlencoded",
+                 "Referer": SEARCH_URL,
+                 "Origin": "https://webapp1.sanantonio.gov"},
+    )
+    r.raise_for_status()
+    return r
+
+
+def harvest_form_fields(html: str) -> dict[str, str]:
+    """Extract every <input>, <select selected option>, <textarea> on the
+    page so we can faithfully replay the form for a pager postback. Browsers
+    submit the rendered form values; ASP.NET event validation rejects
+    anything that wasn't rendered on the same page, so we MUST round-trip
+    the values that came back to us."""
+    soup = BeautifulSoup(html, "html.parser")
+    out: dict[str, str] = {}
+    for inp in soup.find_all("input"):
+        name = inp.get("name")
+        if not name:
+            continue
+        itype = (inp.get("type") or "text").lower()
+        # Skip submit buttons unless explicitly clicked; we never want btnSearch
+        # in a pager postback (it would re-execute the search).
+        if itype in ("submit", "button", "image", "reset"):
+            continue
+        if itype in ("checkbox", "radio"):
+            if not inp.has_attr("checked"):
+                continue
+            out[name] = inp.get("value", "on")
+            continue
+        out[name] = inp.get("value", "")
+    for sel in soup.find_all("select"):
+        name = sel.get("name")
+        if not name:
+            continue
+        chosen = sel.find("option", selected=True)
+        if chosen is not None:
+            out[name] = chosen.get("value", chosen.text or "")
+        else:
+            first = sel.find("option")
+            out[name] = first.get("value", "") if first else ""
+    for ta in soup.find_all("textarea"):
+        name = ta.get("name")
+        if name:
+            out[name] = ta.text or ""
+    return out
+
+
+def page_postback(
+    sess: requests.Session,
+    target: str,
+    prior_html: str,
+) -> requests.Response:
+    """Postback to navigate to a specific pager target. The results page form
+    action is SearchResults2.aspx (NOT search.aspx) and the form contains
+    only the 5 ASP.NET hidden fields — no visible search inputs. We mirror
+    that exactly: round-trip the harvested fields, override __EVENTTARGET,
+    and POST to the results URL."""
+    body = harvest_form_fields(prior_html)
+    body["__EVENTTARGET"]   = target
+    body["__EVENTARGUMENT"] = ""
+    r = sess.post(
+        RESULTS_URL, data=body, timeout=60,
+        headers={"Content-Type": "application/x-www-form-urlencoded",
+                 "Referer": RESULTS_URL,
+                 "Origin": "https://webapp1.sanantonio.gov"},
+    )
+    r.raise_for_status()
+    return r
+
+
+# ── Row → DB record ────────────────────────────────────────────────────────
+def row_hash(row: Row, filer_slug: str) -> str:
+    """Stable natural key. Excludes transaction_id (per-page postback id is
+    unstable across re-runs); excludes view_report URL because the same
+    transaction can appear under multiple report PDFs as filings are amended.
+    """
+    payload = "|".join([
+        filer_slug or "",
+        row.contributor_name.lower(),
+        row.contributor_addr.lower(),
+        row.amount_raw,
+        row.transaction_kind.lower(),
+        row.contribution_date,
+        row.report_period.lower(),
+        row.txn_type.lower(),
+    ])
+    return hashlib.sha1(payload.encode("utf-8")).hexdigest()
+
+
+def parse_amount_to_year(date_str: str) -> str:
+    """Pull the year out of mm/dd/yyyy [hh:mm:ss [AM/PM]]."""
+    m = re.match(r"\s*\d{1,2}/\d{1,2}/(\d{4})", date_str)
+    return m.group(1) if m else ""
+
+
+def heuristic_donor_type(name: str) -> str:
+    """SA doesn't tag donor type. Heuristic: if the contributor name has a
+    comma in it (Last, First) it's an INDIVIDUAL; otherwise ENTITY."""
+    return "INDIVIDUAL" if "," in name else "ENTITY"
+
+
+def insert_rows(
+    conn: sqlite3.Connection,
+    rows: list[Row],
+    filer_slug: str | None,
+) -> tuple[int, int]:
+    """Returns (inserted, skipped_existing)."""
+    cur = conn.cursor()
+    inserted = 0
+    skipped = 0
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    for r in rows:
+        rh = row_hash(r, filer_slug or "")
+        existing = cur.execute(
+            "SELECT 1 FROM campaign_finance WHERE row_hash=?", (rh,)
+        ).fetchone()
+        if existing:
+            skipped += 1
+            continue
+        cur.execute(
+            """
+            INSERT INTO campaign_finance (
+                row_hash, source, donor, recipient,
+                contribution_amount, contribution_date, donor_type, city_state_zip,
+                contribution_year, contribution_type, date_reported, report_filed,
+                view_report, transaction_id, scraped_at, filer_slug
+            ) VALUES (?, 'sa_campfinsearch', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            """,
+            (
+                rh,
+                r.contributor_name,
+                r.filer,
+                r.amount_raw,
+                r.contribution_date,
+                heuristic_donor_type(r.contributor_name),
+                r.contributor_addr,
+                parse_amount_to_year(r.contribution_date),
+                r.transaction_kind,
+                r.date_reported,
+                r.report_period,
+                r.view_report,
+                r.transaction_id,
+                now,
+                filer_slug,
+            ),
+        )
+        inserted += 1
+    conn.commit()
+    return inserted, skipped
+
+
+# ── Main ───────────────────────────────────────────────────────────────────
+def resolve_filer(conn: sqlite3.Connection, slug: str) -> tuple[str, str]:
+    row = conn.execute(
+        "SELECT filer_first_name, filer_last_name FROM council_members WHERE slug=?",
+        (slug,),
+    ).fetchone()
+    if not row:
+        raise SystemExit(
+            f"No council_members row for slug={slug!r}. "
+            f"Run fetch_roster.py first, or pass --filer-first / --filer-last."
+        )
+    return row[0], row[1]
+
+
+def main() -> int:
+    p = argparse.ArgumentParser(description="Scrape SA campfinsearch for one filer.")
+    p.add_argument("--db", default=str(DB_PATH))
+    p.add_argument("--slug", help="council_members.slug (e.g. 'galvan')")
+    p.add_argument("--filer-first", help="first name as registered with SA")
+    p.add_argument("--filer-last",  help="last name as registered with SA")
+    p.add_argument("--start-year", type=int, default=2018)
+    p.add_argument("--end-year",   type=int, default=2026)
+    p.add_argument("--office", default="any",
+                   help="any | na | mayor | d1..d10 (leave 'any' to catch expenditures too)")
+    p.add_argument("--filer-type", default="C", choices=["C", "S", "U", "All Types"])
+    p.add_argument("--max-pages", type=int, default=50, help="safety cap")
+    p.add_argument("--dry-run", action="store_true")
+    p.add_argument("--save-html", action="store_true",
+                   help="Save each page's raw HTML to ./_debug_pageN.html")
+    args = p.parse_args()
+
+    # Resolve filer name
+    conn = sqlite3.connect(args.db)
+    ensure_schema(conn)
+    if args.slug:
+        first, last = resolve_filer(conn, args.slug)
+        slug = args.slug
+    else:
+        if not (args.filer_first and args.filer_last):
+            print("ERROR: pass --slug or both --filer-first and --filer-last", file=sys.stderr)
+            return 2
+        first, last = args.filer_first, args.filer_last
+        slug = re.sub(r"[^a-z0-9]", "", last.lower())
+
+    if args.office not in OFFICES:
+        print(f"ERROR: unknown --office {args.office!r}; use one of {sorted(OFFICES)}", file=sys.stderr)
+        return 2
+    office = OFFICES[args.office]
+
+    print(f"[scrape] filer = {first!r} {last!r}  slug={slug}")
+    print(f"[scrape] years = {args.start_year}..{args.end_year}  office={args.office} ({office!r})  filer_type={args.filer_type}")
+
+    sess = make_session()
+
+    # 1. GET the search form to seed __VIEWSTATE et al
+    print(f"[scrape] GET {SEARCH_URL}")
+    r0 = sess.get(SEARCH_URL, timeout=30,
+                  headers={"Sec-Fetch-Dest": "document",
+                           "Sec-Fetch-Mode": "navigate",
+                           "Sec-Fetch-Site": "none"})
+    r0.raise_for_status()
+    state = extract_aspnet_state(r0.text)
+    print(f"[scrape] viewstate={len(state['__VIEWSTATE'])}b eventvalidation={len(state['__EVENTVALIDATION'])}b")
+
+    # 2. Initial search POST
+    print(f"[scrape] POST search ...")
+    r1 = initial_search(sess, state, first, last, args.start_year, args.end_year, office, args.filer_type)
+
+    if args.save_html:
+        Path("_debug_page1.html").write_text(r1.text, encoding="utf-8")
+
+    rows1, grand_total = parse_rows(r1.text)
+    print(f"[scrape] page 1: {len(rows1)} rows, grand_total={grand_total!r}")
+    all_rows: list[Row] = list(rows1)
+
+    # 3. Pagination — walk forward through display page numbers
+    last_html = r1.text
+    current_page, targets = find_pager(last_html)
+    visited_pages = {current_page} if current_page else set()
+    print(f"[scrape] pager: current={current_page}  links={sorted(targets)}")
+
+    while True:
+        if not targets:
+            break
+        next_page = min((p for p in targets if p not in visited_pages), default=None)
+        if next_page is None:
+            break
+        if len(visited_pages) >= args.max_pages:
+            print(f"[scrape] hit --max-pages={args.max_pages}; stopping")
+            break
+        target = targets[next_page]
+        print(f"[scrape] POST page {next_page} target={target}")
+        rN = page_postback(sess, target, last_html)
+        if args.save_html:
+            Path(f"_debug_page{next_page}.html").write_text(rN.text, encoding="utf-8")
+        rows_n, _ = parse_rows(rN.text)
+        print(f"[scrape] page {next_page}: {len(rows_n)} rows")
+        all_rows.extend(rows_n)
+        last_html = rN.text
+        visited_pages.add(next_page)
+        current_page, targets = find_pager(last_html)
+        time.sleep(0.6)   # polite pacing
+
+    print(f"[scrape] total rows scraped: {len(all_rows):,}")
+
+    # 4. Quick sanity summary
+    types = {}
+    for r in all_rows:
+        types[r.txn_type] = types.get(r.txn_type, 0) + 1
+    print(f"[scrape] txn type breakdown: {types}")
+    contrib_amount_sum = 0.0
+    for r in all_rows:
+        if r.txn_type.lower() == "contributor":
+            try:
+                contrib_amount_sum += float(re.sub(r"[^0-9.\-]", "", r.amount_raw) or 0)
+            except ValueError:
+                pass
+    print(f"[scrape] sum of contributor amounts: ${contrib_amount_sum:,.2f}")
+
+    if args.dry_run:
+        print("[scrape] --dry-run: no DB writes")
+        if all_rows:
+            print("\n[scrape] sample rows (first 3):")
+            for r in all_rows[:3]:
+                print(f"  {r.contribution_date}  {r.amount_raw:>10}  {r.contributor_name:30}  {r.txn_type:11}  {r.report_period}")
+        return 0
+
+    inserted, skipped = insert_rows(conn, all_rows, slug)
+    print(f"[scrape] DB: inserted={inserted}  skipped_existing={skipped}")
+    total_in_db = conn.execute(
+        "SELECT COUNT(*) FROM campaign_finance WHERE filer_slug=?", (slug,)
+    ).fetchone()[0]
+    print(f"[scrape] total rows in DB for filer_slug={slug!r}: {total_in_db:,}")
+
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

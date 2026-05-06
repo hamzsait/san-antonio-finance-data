@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>San Antonio Campaign Finance</title>
+  <style>
+    :root {
+      --bg: #0f1117; --surface: #1a1d27; --surface2: #22263a;
+      --border: #2d3148; --text: #e2e8f0; --muted: #94a3b8;
+      --accent: #4f8ef7;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--bg); color: var(--text); font-family: system-ui, sans-serif; min-height: 100vh; }
+
+    header {
+      padding: 48px 24px 32px;
+      max-width: 900px;
+      margin: 0 auto;
+      border-bottom: 1px solid var(--border);
+    }
+    header h1 { font-size: 28px; font-weight: 700; letter-spacing: -0.5px; }
+    header h1 span { color: var(--accent); }
+    header p { margin-top: 10px; color: var(--muted); font-size: 15px; max-width: 560px; line-height: 1.6; }
+
+    main { max-width: 900px; margin: 0 auto; padding: 40px 24px 80px; }
+
+    h2 { font-size: 13px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+         color: var(--muted); margin-bottom: 16px; }
+
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin-bottom: 48px; }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 20px;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color 0.15s, background 0.15s;
+      display: block;
+    }
+    .card:hover { border-color: var(--accent); background: var(--surface2); }
+    .card.disabled { opacity: 0.45; cursor: not-allowed; pointer-events: none; }
+
+    .card-name { font-size: 16px; font-weight: 600; margin-bottom: 4px; }
+    .card-meta { font-size: 12px; color: var(--muted); margin-bottom: 12px; }
+    .card-stats { display: flex; gap: 16px; }
+    .stat-val { font-size: 18px; font-weight: 700; color: var(--accent); }
+    .stat-lbl { font-size: 11px; color: var(--muted); margin-top: 1px; }
+
+    .badge {
+      display: inline-block; font-size: 10px; font-weight: 600;
+      letter-spacing: 0.05em; text-transform: uppercase;
+      padding: 2px 7px; border-radius: 4px; margin-left: 8px;
+      vertical-align: middle;
+    }
+    .badge-live { background: #14532d; color: #4ade80; }
+    .badge-soon { background: #1e293b; color: #64748b; }
+
+    footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px;
+             border-top: 1px solid var(--border); }
+    footer a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>San Antonio <span>Campaign Finance</span></h1>
+  <p>Who funds San Antonio's mayor and city council? Donation histories cross-referenced with FEC federal filings, derived from the City Clerk's electronic campaign-finance system.</p>
+</header>
+
+<main>
+  <h2>Mayor &amp; City Council</h2>
+  <div class="grid">
+
+    <a class="card" href="profile_galvan.html">
+      <div class="card-name">Ric Galvan <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 6 · 2025 Race</div>
+      <div class="card-stats" id="galvan-stats">
+        <div><div class="stat-val">—</div><div class="stat-lbl">Loading</div></div>
+      </div>
+    </a>
+
+    <a class="card" href="profile_shaikh.html">
+      <div class="card-name">Sakib Shaikh <span class="badge badge-live">Live</span></div>
+      <div class="card-meta">District 8 · 2025 Race (lost)</div>
+      <div class="card-stats" id="shaikh-stats">
+        <div><div class="stat-val">—</div><div class="stat-lbl">Loading</div></div>
+      </div>
+    </a>
+
+    <a class="card disabled" href="#">
+      <div class="card-name">Gina Ortiz Jones <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">Mayor · 2025 Race</div>
+    </a>
+    <a class="card disabled" href="#">
+      <div class="card-name">Sukh Kaur <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 1 · 2023 Race</div>
+    </a>
+    <a class="card disabled" href="#">
+      <div class="card-name">Jalen McKee-Rodriguez <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 2 · 2021 → 2025</div>
+    </a>
+    <a class="card disabled" href="#">
+      <div class="card-name">Phyllis Viagran <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 3 · 2021 → 2025</div>
+    </a>
+    <a class="card disabled" href="#">
+      <div class="card-name">Edward Mungia <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 4 · 2025 Race</div>
+    </a>
+    <a class="card disabled" href="#">
+      <div class="card-name">Teri Castillo <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 5 · 2021 → 2025</div>
+    </a>
+    <a class="card disabled" href="#">
+      <div class="card-name">Marina Alderete Gavito <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 7 · 2023 Race</div>
+    </a>
+    <a class="card disabled" href="#">
+      <div class="card-name">Ivalis Meza Gonzalez <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 8 · 2025 Race</div>
+    </a>
+    <a class="card disabled" href="#">
+      <div class="card-name">Misty Spears <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 9 · 2025 Race</div>
+    </a>
+    <a class="card disabled" href="#">
+      <div class="card-name">Marc Whyte <span class="badge badge-soon">Coming soon</span></div>
+      <div class="card-meta">District 10 · 2023 Race</div>
+    </a>
+
+  </div>
+
+  <h2>About This Project</h2>
+  <p style="color:var(--muted);font-size:14px;line-height:1.7;max-width:620px">
+    Data sourced from the City of San Antonio campaign finance system
+    (webapp1.sanantonio.gov/campfinsearch) and cross-referenced with FEC
+    federal filings for partisan lean. All source data is public record.
+  </p>
+</main>
+
+<footer>
+  Data from
+  <a href="https://webapp1.sanantonio.gov/campfinsearch/search.aspx" target="_blank">San Antonio City Clerk</a>
+  &amp;
+  <a href="https://www.fec.gov" target="_blank">FEC</a> ·
+  Updated May 2026
+</footer>
+
+<script>
+// Pull each live candidate's stats from their data file so the cards reflect
+// current numbers without us having to bake totals into HTML.
+const fmt = n => n >= 1000 ? '$' + Math.round(n/1000) + 'K' : '$' + n.toLocaleString();
+
+['galvan', 'shaikh'].forEach(slug => {
+  fetch(`${slug}_data.json`)
+    .then(r => r.ok ? r.json() : null)
+    .then(data => {
+      if (!data) return;
+      const stats = document.getElementById(`${slug}-stats`);
+      if (!stats) return;
+      stats.innerHTML = `
+        <div><div class="stat-val">${fmt(data.hero.total_raised)}</div><div class="stat-lbl">Raised</div></div>
+        <div><div class="stat-val">${data.hero.unique_donors.toLocaleString()}</div><div class="stat-lbl">Donors</div></div>
+        <div><div class="stat-val">${data.hero.total_contributions.toLocaleString()}</div><div class="stat-lbl">Gifts</div></div>
+      `;
+    })
+    .catch(() => {});
+});
+</script>
+
+</body>
+</html>
