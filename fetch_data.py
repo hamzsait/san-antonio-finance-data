@@ -43,6 +43,8 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
+from sa_normalize import classify_kind, ensure_columns, parse_amount, parse_date_iso
+
 ROOT     = Path(__file__).resolve().parent
 DB_PATH  = ROOT / "san_antonio_finance.db"
 SEARCH_URL  = "https://webapp1.sanantonio.gov/campfinsearch/search.aspx"
@@ -111,6 +113,8 @@ CREATE INDEX IF NOT EXISTS idx_cf_year        ON campaign_finance(contribution_y
 
 def ensure_schema(conn: sqlite3.Connection) -> None:
     conn.executescript(CAMPAIGN_FINANCE_SCHEMA)
+    # Normalized columns (amount_real, date_iso, txn_type) — see sa_normalize.py.
+    ensure_columns(conn)
 
 
 # ── HTTP session ───────────────────────────────────────────────────────────
@@ -184,7 +188,7 @@ PAGER_BLOCK_RE = re.compile(
 PAGER_LINK_RE = re.compile(
     r"<a [^>]*?href=(?:\"|')javascript:__doPostBack\((?:'|&#39;)"
     r"(?P<target>DataGrid1\$_ctl\d+\$_ctl\d+)(?:'|&#39;)[^>]*>"
-    r"\s*(?P<num>\d+)\s*</a>",
+    r"\s*(?P<num>\d+|\.\.\.)\s*</a>",
     re.IGNORECASE,
 )
 PAGER_CURRENT_RE = re.compile(r"<span>\s*(\d+)\s*</span>", re.IGNORECASE)
@@ -250,9 +254,17 @@ def parse_rows(html: str) -> tuple[list[Row], str | None]:
     return rows, grand_total
 
 
-def find_pager(html: str) -> tuple[int | None, dict[int, str]]:
-    """Returns (current_page_number, {page_number: postback_target}) for the
-    pager at the bottom of DataGrid1. (None, {}) if no pager."""
+def find_pager(html: str) -> tuple[int | None, dict[int, str], str | None]:
+    """Returns (current_page_number, {page_number: postback_target},
+    next_window_target) for the pager at the bottom of DataGrid1.
+
+    The DataGrid pager renders at most 10 numbered links per window plus
+    '...' links for the adjacent windows. The trailing '...' (the one after
+    the current page's <span>) advances to the next window — without
+    following it, any result set past 10 pages / 5,000 rows silently
+    truncates (proven on the Jones 2016-2026 query, 2026-07-20). A leading
+    '...' points at the previous window and is ignored.
+    (None, {}, None) if no pager."""
     for block in PAGER_BLOCK_RE.finditer(html):
         body = block.group(1)
         if "<span>" not in body or "doPostBack" not in body:
@@ -262,11 +274,15 @@ def find_pager(html: str) -> tuple[int | None, dict[int, str]]:
             continue
         current = int(cur_m.group(1))
         targets: dict[int, str] = {}
+        next_window: str | None = None
         for m in PAGER_LINK_RE.finditer(body):
-            num = int(m.group("num"))
-            targets[num] = m.group("target")
-        return current, targets
-    return None, {}
+            if m.group("num") == "...":
+                if m.start() > cur_m.start():
+                    next_window = m.group("target")
+            else:
+                targets[int(m.group("num"))] = m.group("target")
+        return current, targets, next_window
+    return None, {}, None
 
 
 # ── Search request ─────────────────────────────────────────────────────────
@@ -427,8 +443,9 @@ def insert_rows(
                 row_hash, source, donor, recipient,
                 contribution_amount, contribution_date, donor_type, city_state_zip,
                 contribution_year, contribution_type, date_reported, report_filed,
-                view_report, transaction_id, scraped_at, filer_slug
-            ) VALUES (?, 'sa_campfinsearch', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                view_report, transaction_id, scraped_at, filer_slug,
+                amount_real, date_iso, txn_type
+            ) VALUES (?, 'sa_campfinsearch', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 rh,
@@ -446,6 +463,9 @@ def insert_rows(
                 r.transaction_id,
                 now,
                 filer_slug,
+                parse_amount(r.amount_raw),
+                parse_date_iso(r.contribution_date),
+                classify_kind(r.transaction_kind),
             ),
         )
         inserted += 1
@@ -528,22 +548,29 @@ def main() -> int:
     print(f"[scrape] page 1: {len(rows1)} rows, grand_total={grand_total!r}")
     all_rows: list[Row] = list(rows1)
 
-    # 3. Pagination — walk forward through display page numbers
+    # 3. Pagination — walk forward through display page numbers, following
+    #    the trailing '...' link into the next 10-page window when needed
     last_html = r1.text
-    current_page, targets = find_pager(last_html)
+    current_page, targets, next_window = find_pager(last_html)
     visited_pages = {current_page} if current_page else set()
-    print(f"[scrape] pager: current={current_page}  links={sorted(targets)}")
+    print(f"[scrape] pager: current={current_page}  links={sorted(targets)}"
+          + ("  +next-window" if next_window else ""))
 
     while True:
-        if not targets:
-            break
-        next_page = min((p for p in targets if p not in visited_pages), default=None)
-        if next_page is None:
+        next_page = min(
+            (p for p in targets if p not in visited_pages and p > (current_page or 0)),
+            default=None,
+        )
+        if next_page is not None:
+            target = targets[next_page]
+        elif next_window:
+            next_page = (current_page or 0) + 1
+            target = next_window
+        else:
             break
         if len(visited_pages) >= args.max_pages:
             print(f"[scrape] hit --max-pages={args.max_pages}; stopping")
             break
-        target = targets[next_page]
         print(f"[scrape] POST page {next_page} target={target}")
         rN = page_postback(sess, target, last_html)
         if args.save_html:
@@ -553,7 +580,7 @@ def main() -> int:
         all_rows.extend(rows_n)
         last_html = rN.text
         visited_pages.add(next_page)
-        current_page, targets = find_pager(last_html)
+        current_page, targets, next_window = find_pager(last_html)
         time.sleep(0.6)   # polite pacing
 
     print(f"[scrape] total rows scraped: {len(all_rows):,}")
