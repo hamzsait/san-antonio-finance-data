@@ -98,20 +98,26 @@ def main() -> int:
 
     rows = conn.execute(
         """SELECT row_hash, contribution_amount, contribution_date,
-                  contribution_type, amount_real, date_iso, txn_type
+                  contribution_type, amount_real, date_iso, txn_type,
+                  contribution_year
            FROM campaign_finance"""
     ).fetchall()
 
     updates = []
     unknown_kinds: dict[str, int] = {}
-    for rh, amt_raw, date_raw, kind_raw, amt_cur, date_cur, txn_cur in rows:
+    for rh, amt_raw, date_raw, kind_raw, amt_cur, date_cur, txn_cur, yr_cur in rows:
         amt_new = parse_amount(amt_raw)
         date_new = parse_date_iso(date_raw)
         txn_new = classify_kind(kind_raw)
+        # Rederived from date_iso for consistency. NOTE the column keeps TEXT
+        # affinity (SQLite coerces these ints back to text on storage), so any
+        # numeric comparison against it must CAST(contribution_year AS INTEGER).
+        yr_new = int(date_new[:4]) if date_new else None
+        yr_cur_int = int(yr_cur) if yr_cur not in (None, "") else None
         if txn_new is None and kind_raw:
             unknown_kinds[kind_raw] = unknown_kinds.get(kind_raw, 0) + 1
-        if (amt_new, date_new, txn_new) != (amt_cur, date_cur, txn_cur):
-            updates.append((amt_new, date_new, txn_new, rh))
+        if (amt_new, date_new, txn_new, yr_new) != (amt_cur, date_cur, txn_cur, yr_cur_int):
+            updates.append((amt_new, date_new, txn_new, yr_new, rh))
 
     print(f"[normalize] {len(rows):,} rows scanned, {len(updates):,} need (re)derivation")
     for kind, n in sorted(unknown_kinds.items()):
@@ -122,7 +128,7 @@ def main() -> int:
         return 0
 
     conn.executemany(
-        "UPDATE campaign_finance SET amount_real=?, date_iso=?, txn_type=? WHERE row_hash=?",
+        "UPDATE campaign_finance SET amount_real=?, date_iso=?, txn_type=?, contribution_year=? WHERE row_hash=?",
         updates,
     )
     conn.commit()

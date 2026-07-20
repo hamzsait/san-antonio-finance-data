@@ -1,105 +1,481 @@
 """
-generate_profile_data.py — San Antonio version
-Generate {slug}_data.json and {slug}_all_donations.json for one council member.
-
-This is the SA-stripped equivalent of Austin's generate_profile_data.py.
-PoC scope: hero stats, by-year, top donors, partisan lean (FEC-only),
-raw donations. Sections that need enrichment we haven't built for SA yet
-(employer_identities → industry breakdown, TEC, IP/civic affiliations) are
-emitted as empty arrays / null so the existing Austin profile_template.html
-renders gracefully.
+generate_profile_data.py
+Generate {slug}_data.json and {slug}_all_donations.json for any tracked filer
+in the San Antonio campaign finance database. Ported from the Austin repo
+2026-07-20 (see MAYOR_PLAN.md §E); reads only the normalized columns
+(amount_real / date_iso / txn_type) and selects filers by council_members
+slug rather than recipient-name fragment.
 
 Usage:
-    python generate_profile_data.py --slug galvan
+    python generate_profile_data.py --candidate jones
 """
-
-from __future__ import annotations
 
 import argparse
 import json
 import re
 import sqlite3
 import sys
+import io
+import os
 from datetime import datetime, timezone
-from pathlib import Path
 
-ROOT     = Path(__file__).resolve().parent
-DEFAULT_DB = ROOT / "san_antonio_finance.db"
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
+# Repo-relative so builds work from any checkout/worktree of the repo.
+_REPO_ROOT = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(_REPO_ROOT, "san_antonio_finance.db")
+
+INDUSTRY_COLORS = {
+    "Real Estate":              "#f59e0b",
+    "Technology":               "#4f8ef7",
+    "Legal":                    "#a78bfa",
+    "Nonprofit / Advocacy":     "#34d399",
+    "Healthcare":               "#f472b6",
+    "Consulting / PR":          "#94a3b8",
+    "Government":               "#818cf8",
+    "Finance":                  "#fbbf24",
+    "Education":                "#22d3ee",
+    "Engineering":              "#6b7280",
+    "Hospitality / Events":     "#fb923c",
+    "Construction":             "#d97706",
+    "Energy / Environment":     "#ef4444",
+    "Media":                    "#60a5fa",
+    "Retail":                   "#a3e635",
+    "Architecture":             "#e879f9",
+    "Transportation":           "#34d399",
+    "Entertainment":            "#f97316",
+    "Labor":                    "#14b8a6",
+    "Venture Capital":          "#8b5cf6",
+    "Retail / Media / Other":   "#374151",
+    "Not Employed":             "#6b7280",
+    "Self-Employed":            "#78716c",
+    "Student":                  "#38bdf8",
+    "Family":                   "#f43f5e",
+    "Unknown / Unclassified":   "#1f2937",
+    "Unknown":                  "#1f2937",
+}
+
+NOISE_INDUSTRIES = {"Not Employed", "Self-Employed", "Student", "Unknown", "Unknown / Unclassified", "Family"}
+NO_DONUT = {"Not Employed", "Self-Employed", "Student", "Unknown / Unclassified", "Family"}
+
+# Industries that roll up into "Retail / Media / Other" in the profile.
+# 2026-07-16: rollup disabled (user request) — Retail, Media, Architecture,
+# Transportation, Entertainment, Labor, and Venture Capital now display as
+# their own categories. Only the literal legacy label still maps to itself.
+OTHER_INDS = {"Retail / Media / Other"}
+
+# Election cycle definitions per filer slug.
+# Each cycle: label, start_year (None = beginning of time), end_year (None = present).
+# SA context: 2-year terms through the May/June 2025 election (charter Prop F,
+# Nov 2024, moved the city to 4-year terms after that). The profile's default
+# view is ALL-TIME (user decision 2026-07-20); these windows drive the
+# historical cycle tabs. Verify each member's actual election history against
+# Ballotpedia before adding them here (council-batch phases).
+CANDIDATE_CYCLES = {
+    # Gina Ortiz Jones: first SA city campaign; won the June 7, 2025 runoff.
+    # Her 2018/2020 TX-23 congressional runs are federal (FEC) and stay out of
+    # city charts by design.
+    'jones':  [{'label': '2025 Mayoral Run', 'election_year': 2025, 'start_year': None, 'end_year': None}],
+    # Sakib Shaikh: lost the 2025 D8 general; unlisted profile ships later.
+    'shaikh': [{'label': '2025 Run', 'election_year': 2025, 'start_year': None, 'end_year': None}],
+}
+
+# Earliest contribution_year included in a profile (default 2018 = start of
+# clean city data). County officials have clean county filings back to 2016.
+# Patterns for the political-card dedup rule; see is_donation_restatement().
+_GIVING_LEAD = re.compile(
+    r'^\s*(major|recurring|consistent|significant|large|small|individual|federal|political|repeat|frequent|long-?time)?\s*'
+    r'(individual|federal|political)?\s*'
+    r'(donor|contributor|contribution|donation|giving|gave|donated|contributed)\b', re.I)
+_POLITICAL_ROLE = re.compile(
+    r'\b(chair|co-?chair|co-?founder|founder|president of|vice[- ]president of|director|board member|board of|'
+    r'trustee|treasurer|business manager|precinct|delegate|staff|senior advisor|advisor|adviser|judge|mayor|'
+    r'council ?member|commissioner|commission|candidate|organizer|lobbyist|lobby client|lobby registration|'
+    r'endorsed|endorsement|campaign manager|finance committee|leadership council|elected|appointed|incumbent|'
+    r'member;|spousal)\b', re.I)
+
+# ── Affiliation buckets ──────────────────────────────────────────────────────
+# One entry per rendered bucket. `categories` is an exact-match list; `prefix`
+# matches any category starting with that string (used for the oil_gas_* family,
+# which has six legacy variants predating the v3 taxonomy).
+#
+# `spectrum` pairs opposing policy positions so the template can render them
+# side by side. A bucket with zero findings still emits an empty list and its
+# total, so the template can show an explicit zero rather than omitting the
+# column -- a blank pro-Palestine slot next to a populated pro-Israel one would
+# otherwise read as selective reporting. The v3 mandatory checklist ran the FEC
+# PAC search on 606/606 D1 donors, so these zeros are absences in the data, not
+# categories that went unsearched.
+#
+# `card` groups buckets into profile-page cards. Phase order per
+# AFFILIATION_TEMPLATE_EXPANSION_PLAN.md: policy first, then business,
+# political, civic.
+AFFILIATION_BUCKETS = [
+    # ── Policy & Advocacy ────────────────────────────────────────────────────
+    {"key": "pro_israel_advocacy", "label": "Pro-Israel advocacy",
+     "categories": ["aipac_direct", "pro_israel"], "card": "policy",
+     "spectrum": "israel_palestine"},
+    {"key": "palestine_advocacy", "label": "Palestinian-rights advocacy",
+     "categories": ["palestine_solidarity", "pro_palestine_advocacy"], "card": "policy",
+     "spectrum": "israel_palestine"},
+    {"key": "liberal_zionist", "label": "Liberal Zionist organizations",
+     "categories": ["liberal_zionist"], "card": "policy"},
+    {"key": "jewish_civic", "label": "Jewish communal organizations",
+     "categories": ["jewish_civic", "jewish_political"], "card": "policy"},
+    {"key": "gun_control", "label": "Gun-violence prevention",
+     "categories": ["gun_control"], "card": "policy", "spectrum": "guns"},
+    {"key": "gun_rights", "label": "Gun rights & firearms industry",
+     "categories": ["gun_rights"], "card": "policy", "spectrum": "guns"},
+    {"key": "oil_gas", "label": "Oil, gas & energy",
+     "categories": [], "prefix": "oil_gas", "card": "policy"},
+    {"key": "military_defense", "label": "Defense contracting",
+     "categories": ["military_defense"], "card": "policy"},
+    {"key": "healthcare", "label": "Healthcare institutions",
+     "categories": ["healthcare"], "card": "policy"},
+    # ── Later phases: emitted now, rendered when their card ships ────────────
+    {"key": "business", "label": "Business ownership & leadership",
+     "categories": ["business", "industry"], "card": "business"},
+    {"key": "political", "label": "Political & campaign roles",
+     "categories": ["political"], "card": "political",
+     "drop_donation_restatements": True},
+    # Alphabetical, not dollar-sorted: ranking community volunteering by
+    # donation size would imply "biggest donor is most connected", which the
+    # data does not support. Every other bucket sorts by dollar because there
+    # the money is the point.
+    {"key": "civic", "label": "Community & civic roles",
+     "categories": ["civic"], "card": "civic", "sort": "alpha"},
+]
+
+# Hero badge text per slug. The profile template reads meta.office at runtime and
+# overwrites whatever is in the HTML, so candidate framing has to be set here --
+# a string substitution in build_candidate.py gets clobbered by renderHero().
+OFFICE_OVERRIDE = {
+    'jones':  'Mayor of San Antonio',
+    'shaikh': 'San Antonio City Council · 2025 District 8 Candidate',
+}
+
+CANDIDATE_MIN_YEAR = {}
 
 
-def parse_amount(raw: str | None) -> float:
-    if not raw:
-        return 0.0
-    try:
-        return float(re.sub(r"[^0-9.\-]", "", raw))
-    except ValueError:
-        return 0.0
+def slugify(name: str) -> str:
+    """Simple slug: lowercase, alphanumeric only."""
+    return "".join(c.lower() for c in name if c.isalnum() or c == "_")
 
 
-def parse_date_for_sort(raw: str | None) -> str:
-    """mm/dd/yyyy [hh:mm:ss [AM/PM]] -> yyyy-mm-dd for sorting."""
-    if not raw:
-        return ""
-    m = re.match(r"\s*(\d{1,2})/(\d{1,2})/(\d{4})", raw)
-    if not m:
-        return ""
-    return f"{int(m.group(3)):04d}-{int(m.group(1)):02d}-{int(m.group(2)):02d}"
-
-
-def main() -> int:
-    p = argparse.ArgumentParser()
-    p.add_argument("--db", default=str(DEFAULT_DB))
-    p.add_argument("--slug", required=True, help="council_members.slug")
-    p.add_argument("--output-dir", default=str(ROOT))
-    args = p.parse_args()
-
-    conn = sqlite3.connect(args.db)
-    conn.row_factory = sqlite3.Row
-    cur = conn.cursor()
-
-    # Resolve member
-    member = cur.execute(
-        "SELECT slug, district, full_name FROM council_members WHERE slug=?",
-        (args.slug,),
+def find_filer(cur, slug: str):
+    """Resolve a council_members slug to (display_name, row_count)."""
+    row = cur.execute(
+        "SELECT full_name FROM council_members WHERE slug=?", (slug,)
     ).fetchone()
-    if not member:
-        print(f"ERROR: no council_members row for slug={args.slug!r}", file=sys.stderr)
-        return 2
-
-    slug = member["slug"]
-    candidate_name = member["full_name"]
-    district = member["district"]
-
-    # Pull all rows for this filer (contributions only — exclude expenditures and report-type rows)
-    rows = cur.execute(
-        """
-        SELECT donor, donor_id, contribution_amount, contribution_date,
-               contribution_year, donor_type, city_state_zip,
-               contribution_type, report_filed, view_report
-        FROM campaign_finance
-        WHERE filer_slug = ?
-          AND contribution_type = 'Monetary Political Contributions'
-        """,
+    if not row:
+        return None, 0
+    n = cur.execute(
+        "SELECT COUNT(*) FROM campaign_finance WHERE filer_slug=? AND txn_type='contribution'",
         (slug,),
-    ).fetchall()
+    ).fetchone()[0]
+    return row[0], n
 
-    if not rows:
-        print(f"ERROR: no contribution rows in DB for slug={slug!r}", file=sys.stderr)
-        return 2
 
-    print(f"[generate] {candidate_name} ({district}): {len(rows)} contribution rows")
+def build_year_clause(cycle):
+    """Return (extra_sql, extra_params) for filtering by cycle start/end year."""
+    clauses = []
+    params = []
+    # CAST is load-bearing: contribution_year has TEXT affinity, and SQLite
+    # ranks any TEXT above every number, so an uncast comparison silently
+    # passes/fails whole cycles.
+    if cycle['start_year'] is not None:
+        clauses.append("CAST(cf.contribution_year AS INTEGER) >= ?")
+        params.append(cycle['start_year'])
+    if cycle['end_year'] is not None:
+        clauses.append("CAST(cf.contribution_year AS INTEGER) <= ?")
+        params.append(cycle['end_year'])
+    return clauses, params
+
+
+def build_cycle_data(cur, candidate_fragment, cycle, by_year_data):
+    """Run the same queries as the main profile but filtered to a cycle's year range.
+    Returns dict with hero, interest_groups, notable_firms, top_donors."""
+
+    year_clauses, year_params = build_year_clause(cycle)
+
+    # Build WHERE clause
+    where_parts = [
+        "cf.filer_slug = ?",
+        "cf.txn_type = 'contribution'",
+        "COALESCE(cf.balanced_amount, cf.amount_real) > 0",
+    ]
+    base_params = [candidate_fragment]
+
+    if year_clauses:
+        where_parts.extend(year_clauses)
+        base_params.extend(year_params)
+
+    WHERE = " AND ".join(where_parts)
+    params = tuple(base_params)
 
     # ── Hero stats ────────────────────────────────────────────────────────────
-    total_raised = sum(parse_amount(r["contribution_amount"]) for r in rows)
-    unique_donors = len({r["donor_id"] for r in rows if r["donor_id"]})
-    total_contributions = len(rows)
+    hero_row = cur.execute(f"""
+        SELECT
+            ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as total_raised,
+            COUNT(DISTINCT cf.donor_id) as unique_donors,
+            COUNT(*) as total_contributions
+        FROM campaign_finance cf
+        WHERE {WHERE}
+    """, params).fetchone()
 
-    # SA has no employer-industry classification yet; treat these as 0 for now.
-    employer_affiliated_pct = 0.0
-    top_industry = "Unknown"
+    total_raised = int(hero_row[0] or 0)
+    unique_donors = int(hero_row[1] or 0)
+    total_contributions = int(hero_row[2] or 0)
+
+    # Employer-affiliated %
+    noise_total = cur.execute(f"""
+        SELECT ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0)
+        FROM campaign_finance cf
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+        WHERE {WHERE}
+          AND COALESCE(di.resolved_industry, ei.industry, 'Unknown') IN
+              ('Not Employed','Self-Employed','Student','Unknown','Unknown / Unclassified')
+    """, params).fetchone()[0] or 0
+
+    employer_affiliated_pct = round((total_raised - noise_total) / total_raised * 100, 1) if total_raised else 0.0
+
+    # Top industry
+    top_industry_row = cur.execute(f"""
+        SELECT COALESCE(di.resolved_industry, ei.industry, 'Unknown') as ind,
+               ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as tot
+        FROM campaign_finance cf
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+        WHERE {WHERE}
+          AND COALESCE(di.resolved_industry, ei.industry, 'Unknown') NOT IN
+              ('Not Employed','Self-Employed','Student','Unknown','Unknown / Unclassified')
+        GROUP BY 1 ORDER BY 2 DESC LIMIT 1
+    """, params).fetchone()
+    top_industry = top_industry_row[0] if top_industry_row else "Unknown"
 
     hero = {
-        "total_raised": int(round(total_raised)),
+        "total_raised": total_raised,
+        "unique_donors": unique_donors,
+        "total_contributions": total_contributions,
+        "employer_affiliated_pct": employer_affiliated_pct,
+        "top_industry": top_industry,
+    }
+
+    # ── Interest groups ───────────────────────────────────────────────────────
+    ig_rows = cur.execute(f"""
+        SELECT
+            COALESCE(di.resolved_industry, ei.industry, 'Unknown') as industry,
+            ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as total,
+            COUNT(DISTINCT cf.donor_id) as donors
+        FROM campaign_finance cf
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+        WHERE {WHERE}
+        GROUP BY 1 ORDER BY 2 DESC
+    """, params).fetchall()
+
+    other_total = 0
+    main_groups = []
+    for ind, total, donors in ig_rows:
+        if ind in OTHER_INDS and ind != "Retail / Media / Other":
+            other_total += int(total)
+        elif ind == "Retail / Media / Other":
+            other_total += int(total)
+        else:
+            main_groups.append((ind, int(total), int(donors)))
+
+    if other_total > 0:
+        other_donors_count = cur.execute(f"""
+            SELECT COUNT(DISTINCT cf.donor_id)
+            FROM campaign_finance cf
+            LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+            LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+            WHERE {WHERE}
+              AND COALESCE(di.resolved_industry, ei.industry, 'Unknown') IN
+                  ('Retail','Media','Architecture','Transportation','Entertainment',
+                   'Labor','Venture Capital','Retail / Media / Other')
+        """, params).fetchone()[0] or 0
+        main_groups.append(("Retail / Media / Other", other_total, other_donors_count))
+
+    main_groups.sort(key=lambda x: -x[1])
+
+    interest_groups = []
+    for ind, total, donors in main_groups:
+        entry = {
+            "label": ind,
+            "donors": donors,
+            "total": total,
+            "color": INDUSTRY_COLORS.get(ind, "#94a3b8"),
+        }
+        if ind in NO_DONUT:
+            entry["noDonut"] = True
+        interest_groups.append(entry)
+
+    # ── Notable firms ─────────────────────────────────────────────────────────
+    notable_rows = cur.execute(f"""
+        SELECT
+            COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '') as firm,
+            COALESCE(di.resolved_industry, ei.industry, 'Unknown') as industry,
+            COALESCE(ei.interest_tags, '') as tags,
+            COUNT(DISTINCT cf.donor_id) as donors,
+            ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as total
+        FROM campaign_finance cf
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+        WHERE {WHERE}
+          AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '') != ''
+          AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '')
+              NOT IN ('Not Employed', 'Self-Employed', 'Student', 'Unknown', 'Retired', 'Homemaker', 'N/A')
+        GROUP BY firm
+        HAVING COUNT(DISTINCT cf.donor_id) >= 3
+        ORDER BY total DESC
+        LIMIT 20
+    """, params).fetchall()
+
+    notable_firms = []
+    for firm, industry, tags, donors, total in notable_rows:
+        notable_firms.append({
+            "firm": firm,
+            "industry": industry,
+            "tags": tags or "",
+            "donors": int(donors),
+            "total": int(total),
+            "color": INDUSTRY_COLORS.get(industry, "#94a3b8"),
+        })
+
+    # ── Top donors ────────────────────────────────────────────────────────────
+    top_donor_rows = cur.execute(f"""
+        SELECT
+            di.canonical_name as name,
+            COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '') as employer,
+            COALESCE(di.resolved_industry, ei.industry, 'Unknown') as industry,
+            COALESCE(ei.interest_tags, '') as tags,
+            COUNT(*) as cnt,
+            ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as total
+        FROM campaign_finance cf
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+        WHERE {WHERE}
+          AND cf.donor_type = 'INDIVIDUAL'
+          AND di.canonical_name IS NOT NULL
+          AND di.canonical_name != ''
+        GROUP BY cf.donor_id
+        ORDER BY total DESC
+        LIMIT 10
+    """, params).fetchall()
+
+    top_donors = []
+    for name, employer, industry, tags, cnt, total in top_donor_rows:
+        top_donors.append({
+            "name": name or "",
+            "employer": employer or "",
+            "industry": industry or "",
+            "tags": tags or "",
+            "total": int(total),
+            "count": int(cnt),
+        })
+
+    # ── Build year_range string ───────────────────────────────────────────────
+    if cycle['start_year'] is None:
+        # Use earliest year from by_year data
+        years = [int(y['year']) for y in by_year_data if y['total'] > 0]
+        start_str = str(min(years)) if years else "?"
+    else:
+        start_str = str(cycle['start_year'])
+
+    if cycle['end_year'] is None:
+        end_str = "present"
+    else:
+        end_str = str(cycle['end_year'])
+
+    year_range = f"{start_str}\u2013{end_str}"
+
+    return {
+        "label": cycle['label'],
+        "election_year": cycle['election_year'],
+        "year_range": year_range,
+        "hero": hero,
+        "interest_groups": interest_groups,
+        "notable_firms": notable_firms,
+        "top_donors": top_donors,
+    }
+
+
+def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str = None):
+    conn = sqlite3.connect(DB_PATH, timeout=120)
+    conn.execute("PRAGMA journal_mode=WAL")
+    cur = conn.cursor()
+
+    # ── Identify filer ────────────────────────────────────────────────────────
+    # SA rows carry a clean filer_slug from ingest, so the candidate argument
+    # IS the slug — no recipient-fragment matching needed.
+    slug = slug_override if slug_override else slugify(candidate_fragment)
+    candidate_name, count = find_filer(cur, slug)
+    if not candidate_name:
+        print(f"ERROR: no council_members row for slug '{slug}' (run fetch_roster.py)")
+        conn.close()
+        return
+    if not count:
+        print(f"ERROR: no contribution rows for filer_slug '{slug}' (run fetch_data.py --slug {slug})")
+        conn.close()
+        return
+    print(f"Found filer: '{candidate_name}' ({count:,} contribution records)")
+
+    # ── Base filter ───────────────────────────────────────────────────────────
+    # All queries use this same WHERE clause. Portal year floor is 2016.
+    min_year = CANDIDATE_MIN_YEAR.get(slug, 2016)
+    BASE_WHERE = f"""
+        cf.filer_slug = ?
+        AND cf.txn_type = 'contribution'
+        AND CAST(cf.contribution_year AS INTEGER) >= {min_year}
+        AND COALESCE(cf.balanced_amount, cf.amount_real) > 0
+    """
+    base_params = (slug,)
+
+    # ── Hero stats ────────────────────────────────────────────────────────────
+    hero_row = cur.execute(f"""
+        SELECT
+            ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as total_raised,
+            COUNT(DISTINCT cf.donor_id) as unique_donors,
+            COUNT(*) as total_contributions
+        FROM campaign_finance cf
+        WHERE {BASE_WHERE}
+    """, base_params).fetchone()
+
+    total_raised = int(hero_row[0] or 0)
+    unique_donors = int(hero_row[1] or 0)
+    total_contributions = int(hero_row[2] or 0)
+
+    # Employer-affiliated % (exclude noise industries)
+    noise_total = cur.execute(f"""
+        SELECT ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0)
+        FROM campaign_finance cf
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+        WHERE {BASE_WHERE}
+          AND COALESCE(di.resolved_industry, ei.industry, 'Unknown') IN
+              ('Not Employed','Self-Employed','Student','Unknown','Unknown / Unclassified')
+    """, base_params).fetchone()[0] or 0
+
+    employer_affiliated_pct = round((total_raised - noise_total) / total_raised * 100, 1) if total_raised else 0.0
+
+    # Top industry (by total, excluding noise)
+    top_industry_row = cur.execute(f"""
+        SELECT COALESCE(di.resolved_industry, ei.industry, 'Unknown') as ind,
+               ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as tot
+        FROM campaign_finance cf
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+        WHERE {BASE_WHERE}
+          AND COALESCE(di.resolved_industry, ei.industry, 'Unknown') NOT IN
+              ('Not Employed','Self-Employed','Student','Unknown','Unknown / Unclassified')
+        GROUP BY 1 ORDER BY 2 DESC LIMIT 1
+    """, base_params).fetchone()
+    top_industry = top_industry_row[0] if top_industry_row else "Unknown"
+
+    hero = {
+        "total_raised": total_raised,
         "unique_donors": unique_donors,
         "total_contributions": total_contributions,
         "employer_affiliated_pct": employer_affiliated_pct,
@@ -107,347 +483,829 @@ def main() -> int:
     }
 
     # ── By year ───────────────────────────────────────────────────────────────
-    year_buckets: dict[str, list[float]] = {}
-    for r in rows:
-        y = (r["contribution_year"] or "").strip()
-        if not y:
-            continue
-        year_buckets.setdefault(y, []).append(parse_amount(r["contribution_amount"]))
-    by_year = [
-        {
-            "year": y,
-            "count": len(amounts),
-            "total": int(round(sum(amounts))),
-        }
-        for y, amounts in sorted(year_buckets.items())
-    ]
-
-    # ── Top donors ────────────────────────────────────────────────────────────
-    # Aggregate per donor_identity
-    donor_rows = cur.execute(
-        """
+    by_year_rows = cur.execute(f"""
         SELECT
-            di.donor_id,
-            di.canonical_name,
-            di.canonical_zip,
-            di.canonical_employer,
-            di.fec_partisan_lean,
-            di.fec_total_dem,
-            di.fec_total_rep,
-            di.fec_total_other,
-            di.fec_total_donations,
-            di.fec_matched,
-            COUNT(cf.row_hash) AS gift_count,
-            SUM(CAST(REPLACE(REPLACE(cf.contribution_amount,'$',''),',','') AS REAL))
-                AS local_total
-        FROM donor_identities di
-        JOIN campaign_finance cf ON cf.donor_id = di.donor_id
-        WHERE cf.filer_slug = ?
-          AND cf.contribution_type = 'Monetary Political Contributions'
-          AND cf.donor_type = 'INDIVIDUAL'
-        GROUP BY di.donor_id
-        ORDER BY local_total DESC
-        """,
-        (slug,),
-    ).fetchall()
+            CAST(cf.contribution_year AS TEXT) as yr,
+            COUNT(*) as cnt,
+            ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as tot
+        FROM campaign_finance cf
+        WHERE {BASE_WHERE}
+        GROUP BY cf.contribution_year ORDER BY cf.contribution_year
+    """, base_params).fetchall()
 
-    top_donors = []
-    for d in donor_rows[:10]:
-        top_donors.append({
-            "name": d["canonical_name"] or "",
-            "employer": (d["canonical_employer"] or "").title() if d["canonical_employer"] else "",
-            "industry": "Unknown",
-            "tags": "",
-            "total": int(round(d["local_total"] or 0)),
-            "count": d["gift_count"] or 0,
+    by_year = [{"year": r[0], "count": int(r[1]), "total": int(r[2])} for r in by_year_rows]
+
+    # ── Interest groups ───────────────────────────────────────────────────────
+    ig_rows = cur.execute(f"""
+        SELECT
+            COALESCE(di.resolved_industry, ei.industry, 'Unknown') as industry,
+            ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as total,
+            COUNT(DISTINCT cf.donor_id) as donors
+        FROM campaign_finance cf
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+        WHERE {BASE_WHERE}
+        GROUP BY 1 ORDER BY 2 DESC
+    """, base_params).fetchall()
+
+    # Collapse "Other" industries into Retail / Media / Other
+    other_total = 0
+    other_donors = set()
+    main_groups = []
+    for ind, total, donors in ig_rows:
+        if ind in OTHER_INDS and ind != "Retail / Media / Other":
+            other_total += int(total)
+            # donors here is COUNT(DISTINCT donor_id) per industry — we can't sum these
+            # so we'll re-query for combined donors below
+        elif ind == "Retail / Media / Other":
+            other_total += int(total)
+        else:
+            main_groups.append((ind, int(total), int(donors)))
+
+    # Re-query combined donor count for Other bucket
+    if other_total > 0:
+        other_donors_count = cur.execute(f"""
+            SELECT COUNT(DISTINCT cf.donor_id)
+            FROM campaign_finance cf
+            LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+            LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+            WHERE {BASE_WHERE}
+              AND COALESCE(di.resolved_industry, ei.industry, 'Unknown') IN
+                  ('Retail','Media','Architecture','Transportation','Entertainment',
+                   'Labor','Venture Capital','Retail / Media / Other')
+        """, base_params).fetchone()[0] or 0
+        main_groups.append(("Retail / Media / Other", other_total, other_donors_count))
+
+    # Sort by total descending, build final list
+    main_groups.sort(key=lambda x: -x[1])
+
+    interest_groups = []
+    for ind, total, donors in main_groups:
+        entry = {
+            "label": ind,
+            "donors": donors,
+            "total": total,
+            "color": INDUSTRY_COLORS.get(ind, "#94a3b8"),
+        }
+        if ind in NO_DONUT:
+            entry["noDonut"] = True
+        interest_groups.append(entry)
+
+    # ── Notable firms (employers with 3+ distinct donors, excluding noise labels) ──
+    notable_rows = cur.execute(f"""
+        SELECT
+            COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '') as firm,
+            COALESCE(di.resolved_industry, ei.industry, 'Unknown') as industry,
+            COALESCE(ei.interest_tags, '') as tags,
+            COUNT(DISTINCT cf.donor_id) as donors,
+            ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as total
+        FROM campaign_finance cf
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+        WHERE {BASE_WHERE}
+          AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '') != ''
+          AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '')
+              NOT IN ('Not Employed', 'Self-Employed', 'Student', 'Unknown', 'Retired', 'Homemaker', 'N/A')
+        GROUP BY firm
+        HAVING COUNT(DISTINCT cf.donor_id) >= 3
+        ORDER BY total DESC
+        LIMIT 20
+    """, base_params).fetchall()
+
+    notable_firms = []
+    for firm, industry, tags, donors, total in notable_rows:
+        notable_firms.append({
+            "firm": firm,
+            "industry": industry,
+            "tags": tags or "",
+            "donors": int(donors),
+            "total": int(total),
+            "color": INDUSTRY_COLORS.get(industry, "#94a3b8"),
         })
 
-    # ── Partisan lean (FEC only — SA has no TEC ingest yet) ───────────────────
+    # ── Top donors ────────────────────────────────────────────────────────────
+    # Only INDIVIDUAL donors with a resolved canonical name
+    top_donor_rows = cur.execute(f"""
+        SELECT
+            di.canonical_name as name,
+            COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '') as employer,
+            COALESCE(di.resolved_industry, ei.industry, 'Unknown') as industry,
+            COALESCE(ei.interest_tags, '') as tags,
+            COUNT(*) as cnt,
+            ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as total
+        FROM campaign_finance cf
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+        WHERE {BASE_WHERE}
+          AND cf.donor_type = 'INDIVIDUAL'
+          AND di.canonical_name IS NOT NULL
+          AND di.canonical_name != ''
+        GROUP BY cf.donor_id
+        ORDER BY total DESC
+        LIMIT 10
+    """, base_params).fetchall()
+
+    top_donors = []
+    for name, employer, industry, tags, cnt, total in top_donor_rows:
+        top_donors.append({
+            "name": name or "",
+            "employer": employer or "",
+            "industry": industry or "",
+            "tags": tags or "",
+            "total": int(total),
+            "count": int(cnt),
+        })
+
+    # ── All donations ──────────────────────────────────────────────────────────
+    all_donation_rows = cur.execute(f"""
+        SELECT
+            di.canonical_name,
+            cf.date_iso,
+            ROUND(COALESCE(cf.balanced_amount, cf.amount_real), 2),
+            COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, ''),
+            COALESCE(di.resolved_industry, ei.industry, 'Unknown'),
+            TRIM(COALESCE(cf.city_state_zip, ''))
+        FROM campaign_finance cf
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
+        WHERE {BASE_WHERE}
+        ORDER BY cf.date_iso DESC
+    """, base_params).fetchall()
+
+    all_donations = [list(r) for r in all_donation_rows]
+
+    # ── Partisan lean (FEC + TEC combined) ───────────────────────────────────
+    # Pulls per-donor dem/rep/other totals from both the FEC donor history and
+    # the Texas Ethics Commission tracked-PAC giving. Combined lean =
+    # (fec_dem + tec_dem) / (fec_dem + fec_rep + tec_dem + tec_rep).
+    donor_rows = cur.execute(f"""
+        SELECT di.donor_id, di.canonical_name,
+               COALESCE(di.fec_total_dem, 0)   AS fec_dem,
+               COALESCE(di.fec_total_rep, 0)   AS fec_rep,
+               COALESCE(di.fec_total_other, 0) AS fec_other,
+               COALESCE(di.fec_total_donations, 0) AS fec_n,
+               COALESCE(di.tec_total_dem, 0)   AS tec_dem,
+               COALESCE(di.tec_total_rep, 0)   AS tec_rep,
+               COALESCE(di.tec_total_other, 0) AS tec_other,
+               COALESCE(di.tec_total_donations, 0) AS tec_n,
+               SUM(cf.amount_real) as local_total
+        FROM donor_identities di
+        JOIN campaign_finance cf ON cf.donor_id = di.donor_id
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        WHERE {BASE_WHERE}
+          AND (di.fec_partisan_lean IS NOT NULL OR COALESCE(di.tec_matched, 0) = 1)
+        GROUP BY di.donor_id
+    """, base_params).fetchall()
+
     partisan_lean = None
-    matched = [d for d in donor_rows if (d["fec_total_dem"] or 0) + (d["fec_total_rep"] or 0) > 0]
-    if matched:
+    if donor_rows:
         buckets = [
-            {"label": "Strong D", "min": 0.9,   "max": 1.01,  "donors": 0, "total": 0},
-            {"label": "Lean D",   "min": 0.6,   "max": 0.9,   "donors": 0, "total": 0},
-            {"label": "Mixed",    "min": 0.4,   "max": 0.6,   "donors": 0, "total": 0},
-            {"label": "Lean R",   "min": 0.1,   "max": 0.4,   "donors": 0, "total": 0},
-            {"label": "Strong R", "min": -0.01, "max": 0.1,   "donors": 0, "total": 0},
+            {"label": "Strong D",  "min": 0.9, "max": 1.01, "donors": 0, "total": 0},
+            {"label": "Lean D",    "min": 0.6, "max": 0.9,  "donors": 0, "total": 0},
+            {"label": "Mixed",     "min": 0.4, "max": 0.6,  "donors": 0, "total": 0},
+            {"label": "Lean R",    "min": 0.1, "max": 0.4,  "donors": 0, "total": 0},
+            {"label": "Strong R",  "min": -0.01, "max": 0.1, "donors": 0, "total": 0},
         ]
+        total_dem_donors = 0
+        total_rep_donors = 0
+        total_mixed_donors = 0
+        total_lean_amount = 0
+        weighted_lean_sum = 0
+
         donors_list = []
-        weighted_lean_sum = 0.0
-        weighted_amt = 0.0
-        dem_donors = rep_donors = mixed_donors = 0
-        for d in matched:
-            dem = d["fec_total_dem"] or 0
-            rep = d["fec_total_rep"] or 0
-            other = d["fec_total_other"] or 0
-            local = d["local_total"] or 0
-            partisan_amount = dem + rep
+        donor_ids_matched = []
+        fec_only_count = 0
+        tec_only_count = 0
+        both_count = 0
+
+        for r in donor_rows:
+            did, name, fec_dem, fec_rep, fec_other, fec_n, \
+                tec_dem, tec_rep, tec_other, tec_n, local = r
+            combined_dem   = (fec_dem or 0)   + (tec_dem or 0)
+            combined_rep   = (fec_rep or 0)   + (tec_rep or 0)
+            combined_other = (fec_other or 0) + (tec_other or 0)
+            partisan_amount = combined_dem + combined_rep
             if partisan_amount <= 0:
+                # Donor only gave to non-partisan (Other) PACs — skip from lean.
                 continue
-            lean = dem / partisan_amount
+            lean = combined_dem / partisan_amount
+
+            if fec_n and tec_n:
+                both_count += 1
+            elif fec_n:
+                fec_only_count += 1
+            else:
+                tec_only_count += 1
+
+            amt = local or 0
             for b in buckets:
                 if b["min"] <= lean < b["max"]:
                     b["donors"] += 1
-                    b["total"] += round(local, 2)
+                    b["total"] += round(amt, 2)
                     break
             if lean >= 0.6:
-                dem_donors += 1
+                total_dem_donors += 1
             elif lean <= 0.4:
-                rep_donors += 1
+                total_rep_donors += 1
             else:
-                mixed_donors += 1
-            if local > 0:
-                weighted_lean_sum += lean * local
-                weighted_amt += local
+                total_mixed_donors += 1
+            if amt > 0:
+                weighted_lean_sum += lean * amt
+                total_lean_amount += amt
+
             donors_list.append({
-                "id": d["donor_id"],
-                "name": d["canonical_name"],
-                "lean": round(lean, 3),
-                "dem": round(dem, 0),
-                "rep": round(rep, 0),
-                "other": round(other, 0),
-                "fec_n": d["fec_total_donations"] or 0,
-                "tec_n": 0,
-                "fec_dem": round(dem, 0),
-                "fec_rep": round(rep, 0),
-                "tec_dem": 0,
-                "tec_rep": 0,
-                "local": round(local, 0),
+                "id": did, "name": name, "lean": round(lean, 3),
+                "dem": round(combined_dem, 0),
+                "rep": round(combined_rep, 0),
+                "other": round(combined_other, 0),
+                "fec_n": fec_n or 0,
+                "tec_n": tec_n or 0,
+                "fec_dem": round(fec_dem or 0, 0),
+                "fec_rep": round(fec_rep or 0, 0),
+                "tec_dem": round(tec_dem or 0, 0),
+                "tec_rep": round(tec_rep or 0, 0),
+                "local": round(amt, 0),
             })
-        donors_list.sort(key=lambda x: -(x["dem"] + x["rep"]))
-        weighted_avg = round(weighted_lean_sum / weighted_amt, 3) if weighted_amt > 0 else None
+            donor_ids_matched.append(did)
+
+        donors_list.sort(key=lambda d: -(d["dem"] + d["rep"]))
+        weighted_avg = round(weighted_lean_sum / total_lean_amount, 3) if total_lean_amount > 0 else None
+
+        # Committee-level aggregates per donor (FEC + TEC)
+        donor_committees = {}
+        if donor_ids_matched:
+            placeholders = ",".join("?" * len(donor_ids_matched))
+            # FEC side
+            fec_comm_rows = cur.execute(f"""
+                SELECT fcr.donor_id, fcc.committee_name, fcc.classification,
+                       SUM(fcr.contribution_amount) as total, COUNT(*) as n,
+                       fcr.committee_id,
+                       MIN(fcr.contribution_date), MAX(fcr.contribution_date)
+                FROM fec_contributions_raw fcr
+                LEFT JOIN fec_committee_cache fcc ON fcc.committee_id = fcr.committee_id
+                WHERE fcr.donor_id IN ({placeholders})
+                  AND fcr.contribution_amount > 0
+                GROUP BY fcr.donor_id, fcr.committee_id
+                ORDER BY total DESC
+            """, donor_ids_matched).fetchall()
+            for row in fec_comm_rows:
+                did = row[0]
+                donor_committees.setdefault(did, []).append({
+                    "name": row[1] or "Unknown Committee",
+                    "party": row[2] or "Other",
+                    "total": round(row[3], 0),
+                    "n": row[4],
+                    "source": "FEC",
+                    "committee_id": row[5],
+                    "first": row[6],
+                    "last": row[7],
+                })
+            # TEC side (state PACs)
+            TEC_LEAN = {
+                "00028135": "Rep", "00015555": "Rep", "00089881": "Rep",
+                "00061927": "Rep", "00015666": "Dem",
+                "00070864": "Other", "00015487": "Other", "00017303": "Other",
+                "00015700": "Other", "00035370": "Other",
+            }
+            has_tec = cur.execute(
+                "SELECT name FROM sqlite_master WHERE type='table' AND name='texas_contributions_raw'"
+            ).fetchone()
+            tec_comm_rows = [] if not has_tec else cur.execute(f"""
+                SELECT austin_donor_id, filer_name, filer_ident,
+                       SUM(CAST(contribution_amount AS REAL)) as total, COUNT(*) as n
+                FROM texas_contributions_raw
+                WHERE austin_donor_id IN ({placeholders})
+                  AND contribution_amount > 0
+                GROUP BY austin_donor_id, filer_ident
+                ORDER BY total DESC
+            """, donor_ids_matched).fetchall()
+            for row in tec_comm_rows:
+                did = row[0]
+                donor_committees.setdefault(did, []).append({
+                    "name": row[1] or "Unknown TX Committee",
+                    "party": TEC_LEAN.get(row[2], "Other"),
+                    "total": round(row[3], 0),
+                    "n": row[4],
+                    "source": "TEC",
+                })
+
+        # Most-common FEC spelling of each matched donor's name (for deep links to
+        # the FEC receipts search)
+        donor_fec_names = {}
+        if donor_ids_matched:
+            placeholders = ",".join("?" * len(donor_ids_matched))
+            for did, fname, _cnt in cur.execute(f"""
+                SELECT donor_id, fec_contributor_name, COUNT(*) as c
+                FROM fec_contributions_raw
+                WHERE donor_id IN ({placeholders}) AND fec_contributor_name IS NOT NULL
+                GROUP BY donor_id, fec_contributor_name
+                ORDER BY c ASC
+            """, donor_ids_matched).fetchall():
+                donor_fec_names[did] = fname  # last row per donor = most common
+
         partisan_lean = {
             "matched_donors": len(donors_list),
             "total_donors": unique_donors,
-            "dem_donors": dem_donors,
-            "rep_donors": rep_donors,
-            "mixed_donors": mixed_donors,
-            "fec_only": len(donors_list),
-            "tec_only": 0,
-            "both_sources": 0,
+            "dem_donors": total_dem_donors,
+            "rep_donors": total_rep_donors,
+            "mixed_donors": total_mixed_donors,
+            "fec_only": fec_only_count,
+            "tec_only": tec_only_count,
+            "both_sources": both_count,
             "weighted_lean": weighted_avg,
             "buckets": buckets,
             "donors": donors_list,
-            "donor_committees": {},
+            "donor_committees": donor_committees,
+            "donor_fec_names": donor_fec_names,
         }
-        print(f"[generate] partisan lean: {len(donors_list)} donors matched, "
-              f"D={dem_donors} R={rep_donors} M={mixed_donors}, weighted={weighted_avg}")
+        print(f"  Partisan lean (FEC+TEC): {len(donors_list)} donors, "
+              f"D={total_dem_donors} R={total_rep_donors} M={total_mixed_donors}, "
+              f"FEC-only={fec_only_count} TEC-only={tec_only_count} both={both_count}, "
+              f"weighted={weighted_avg}")
 
-    # ── Election cycles (for Galvan: just one — the 2025 race) ────────────────
-    # If the candidate has multi-cycle history this will need to grow per-slug.
-    cycles = [{
-        "label": "This Cycle",
-        "election_year": 2025,
-        "year_range": (
-            f"{by_year[0]['year']}-present" if by_year else "?"
-        ),
-        "hero": hero,
-        "interest_groups": [],
-        "notable_firms": [],
-        "top_donors": top_donors,
-    }]
+    # ── Israel/Palestine donor spectrum ──────────────────────────────────────
+    ip_spectrum = None
+    ip_rows = cur.execute(f"""
+        SELECT di.donor_id, di.canonical_name, di.ip_spectrum, di.ip_tier,
+               di.ip_total, di.ip_committees,
+               SUM(cf.amount_real) as local_total,
+               di.fec_partisan_lean
+        FROM donor_identities di
+        JOIN campaign_finance cf ON cf.donor_id = di.donor_id
+        LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
+        WHERE {BASE_WHERE} AND di.ip_spectrum IS NOT NULL
+        GROUP BY di.donor_id
+        ORDER BY di.ip_total DESC
+    """, base_params).fetchall()
 
-    # ── Affiliations + receipts ───────────────────────────────────────────────
-    # For each donor who gave to THIS candidate, pull every affiliation row
-    # (and its evidence). We build two structures:
-    #   donor_affiliations: { donor_id: [ {category, label, ...}, ... ] }
-    #   affiliations_summary: per-category roll-up across this candidate's donors
-    candidate_donor_ids = {
-        r[0] for r in cur.execute(
-            "SELECT DISTINCT donor_id FROM campaign_finance "
-            "WHERE filer_slug=? AND donor_id IS NOT NULL", (slug,)
-        ).fetchall()
-    }
+    if ip_rows:
+        # Build committee name lookup
+        comm_names = {}
+        for cid, cname in cur.execute("SELECT committee_id, committee_name FROM fec_committee_cache WHERE ip_category IS NOT NULL").fetchall():
+            comm_names[cid] = cname
 
-    has_affil = cur.execute(
-        "SELECT name FROM sqlite_master WHERE type='table' AND name='donor_affiliations'"
+        # Itemized FEC receipts to IP-flagged committees, per donor (dates + amounts
+        # for the profile page's drill-down panel)
+        ip_donor_ids = [row[0] for row in ip_rows]
+        ip_tx_by_donor = {}
+        ip_fec_names = {}
+        if ip_donor_ids:
+            ph = ",".join("?" * len(ip_donor_ids))
+            tx_rows = cur.execute(f"""
+                SELECT fcr.donor_id, fcc.committee_name, fcc.ip_category,
+                       fcr.contribution_date, fcr.contribution_amount,
+                       fcr.committee_id
+                FROM fec_contributions_raw fcr
+                JOIN fec_committee_cache fcc ON fcc.committee_id = fcr.committee_id
+                WHERE fcr.donor_id IN ({ph}) AND fcc.ip_category IS NOT NULL
+                ORDER BY fcr.contribution_date DESC
+            """, ip_donor_ids).fetchall()
+            for r in tx_rows:
+                ip_tx_by_donor.setdefault(r[0], []).append({
+                    "committee": r[1] or "Unknown Committee",
+                    "category": r[2],
+                    "date": r[3],
+                    "amount": round(r[4] or 0, 0),
+                    "committee_id": r[5],
+                })
+            # Most-common FEC spelling of each IP donor's name (for FEC deep links)
+            ip_fec_names = {}
+            for did, fname, _cnt in cur.execute(f"""
+                SELECT donor_id, fec_contributor_name, COUNT(*) as c
+                FROM fec_contributions_raw
+                WHERE donor_id IN ({ph}) AND fec_contributor_name IS NOT NULL
+                GROUP BY donor_id, fec_contributor_name
+                ORDER BY c ASC
+            """, ip_donor_ids).fetchall():
+                ip_fec_names[did] = fname
+
+        categories = {}
+        donors_by_cat = {}
+        for row in ip_rows:
+            cat = row[2]
+            if cat not in categories:
+                categories[cat] = {"donors": 0, "ip_total": 0, "local_total": 0}
+                donors_by_cat[cat] = []
+            categories[cat]["donors"] += 1
+            categories[cat]["ip_total"] += row[4] or 0
+            categories[cat]["local_total"] += row[6] or 0
+            comm_list = []
+            if row[5]:
+                for cid in row[5].split(","):
+                    comm_list.append({"id": cid.strip(), "name": comm_names.get(cid.strip(), cid.strip())})
+            donors_by_cat[cat].append({
+                "name": row[1], "tier": row[3],
+                "ip_total": round(row[4] or 0, 0),
+                "local_total": round(row[6] or 0, 0),
+                "partisan_lean": round(row[7], 3) if row[7] is not None else None,
+                "committees": comm_list,
+                "transactions": ip_tx_by_donor.get(row[0], []),
+                "fec_name": ip_fec_names.get(row[0]),
+            })
+
+        # Order: hawkish first, then liberal zionist, then pro-palestine
+        cat_order = ["hawkish_proisrael", "liberal_zionist", "pro_palestine"]
+        cat_labels = {
+            "hawkish_proisrael": "Pro-Israel (AIPAC-aligned)",
+            "liberal_zionist": "Liberal Zionist",
+            "pro_palestine": "Pro-Palestine",
+        }
+
+        spectrum_list = []
+        for cat in cat_order:
+            if cat in categories:
+                spectrum_list.append({
+                    "key": cat,
+                    "label": cat_labels.get(cat, cat),
+                    "donors": categories[cat]["donors"],
+                    "ip_total": round(categories[cat]["ip_total"], 0),
+                    "local_total": round(categories[cat]["local_total"], 0),
+                    "donor_list": donors_by_cat[cat],
+                })
+
+        ip_spectrum = {
+            "total_flagged": len(ip_rows),
+            "categories": spectrum_list,
+        }
+        for s in spectrum_list:
+            print(f"  IP spectrum: {s['label']}: {s['donors']} donors, "
+                  f"${s['ip_total']:,.0f} federal, ${s['local_total']:,.0f} local")
+
+    # ── Verified civic affiliations ──────────────────────────────────────────
+    # Pulls organizational roles (board memberships, honors, employer ties)
+    # from the civic_affiliations table for donors to THIS candidate.
+    # Matches on last-name + first-name (with common nickname aliases).
+    civic_affiliations_payload = None
+    # Only proceed if the civic_affiliations table exists
+    has_civic_table = cur.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='civic_affiliations'"
     ).fetchone() is not None
 
-    donor_affiliations: dict[str, list] = {}
-    affiliations_summary: dict = {"categories": []}
+    if has_civic_table:
+        # Common nicknames → canonical first names for matching
+        NICKNAME_ALIASES = {
+            "jeff": "jeffrey", "jeffrey": "jeff",
+            "rick": "richard", "richard": "rick", "ricky": "richard",
+            "dave": "david", "david": "dave",
+            "mike": "michael", "michael": "mike",
+            "bob": "robert", "robert": "bob", "rob": "robert",
+            "bill": "william", "william": "bill",
+            "chris": "christopher", "christopher": "chris",
+            "steve": "steven", "steven": "steve", "stephen": "steve",
+            "dan": "daniel", "daniel": "dan",
+            "tom": "thomas", "thomas": "tom",
+            "ed": "edward", "edward": "ed", "eddie": "edward",
+            "andy": "andrew", "andrew": "andy",
+            "val": "valerie", "valerie": "val",
+            "lil": "lily", "lily": "lillian",
+            "kim": "kimberly", "kimberly": "kim",
+            "laurie": "laura", "laura": "laurie",
+            "lauren": "laurence",
+        }
 
-    if has_affil and candidate_donor_ids:
-        ph = ",".join("?" for _ in candidate_donor_ids)
-        aff_rows = cur.execute(f"""
-            SELECT a.affiliation_id, a.donor_id, a.category, a.label,
-                   a.total_amount, a.confidence, a.first_seen, a.last_seen,
-                   a.notes, a.sensitive,
-                   di.canonical_name
-            FROM donor_affiliations a
-            JOIN donor_identities di ON di.donor_id = a.donor_id
-            WHERE a.donor_id IN ({ph})
-        """, list(candidate_donor_ids)).fetchall()
+        def name_key(canon_name):
+            """Return a comparable (last, first_normalized) tuple."""
+            if not canon_name or "," not in canon_name:
+                return None
+            last, first = canon_name.split(",", 1)
+            last = last.strip().lower()
+            first = first.strip().lower()
+            # Strip middle initial/name
+            first = first.split()[0] if first else ""
+            # Remove trailing period
+            first = first.rstrip(".")
+            return (last, first)
 
-        if aff_rows:
-            aff_ids = [r["affiliation_id"] for r in aff_rows]
-            evp = ",".join("?" for _ in aff_ids)
-            ev_rows = cur.execute(f"""
-                SELECT affiliation_id, source, source_url, evidence_text,
-                       contribution_id, committee_id, committee_name,
-                       amount, date, raw_data, rule
-                FROM donor_affiliation_evidence
-                WHERE affiliation_id IN ({evp})
-                ORDER BY date DESC, amount DESC
-            """, aff_ids).fetchall()
-            ev_by_aff: dict[int, list] = {}
-            for er in ev_rows:
-                ev_by_aff.setdefault(er["affiliation_id"], []).append({
-                    "source":          er["source"],
-                    "source_url":      er["source_url"],
-                    "evidence_text":   er["evidence_text"],
-                    "contribution_id": er["contribution_id"],
-                    "committee_id":    er["committee_id"],
-                    "committee_name":  er["committee_name"],
-                    "amount":          er["amount"],
-                    "date":            er["date"],
-                    "rule":            er["rule"],
-                })
+        # Pull all Qadri donors with local totals
+        donor_rows = cur.execute(f"""
+            SELECT di.canonical_name,
+                   ROUND(SUM(COALESCE(cf.balanced_amount, cf.amount_real)), 0) as local_total,
+                   COUNT(*) as gift_count
+            FROM campaign_finance cf
+            JOIN donor_identities di ON cf.donor_id = di.donor_id
+            WHERE {BASE_WHERE}
+              AND di.canonical_name IS NOT NULL
+              AND di.canonical_name != ''
+            GROUP BY di.canonical_name
+        """, base_params).fetchall()
 
-            CAT_LABELS = {
-                "aipac":            "AIPAC",
-                "adl":              "ADL",
-                "zionist_general":  "Israel-aligned giving (non-AIPAC)",
-                "oil_gas":          "Oil & Gas",
-                "real_estate":      "Real Estate",
-                "mic":              "Military Industrial Complex",
-                "fec_partisan":     "Federal partisan giving (FEC)",
-                "tec_partisan":     "Texas state partisan giving (TEC)",
-            }
-            cat_buckets: dict[str, dict] = {}
+        # Aggregate local totals per name_key
+        donor_totals = {}  # {(last, first): {name, total, gifts}}
+        for cname, total, gifts in donor_rows:
+            key = name_key(cname)
+            if not key:
+                continue
+            if key not in donor_totals or (total or 0) > donor_totals[key]["total"]:
+                donor_totals[key] = {"name": cname, "total": int(total or 0), "gifts": int(gifts or 0)}
 
-            for ar in aff_rows:
-                cat = ar["category"]
-                entry = {
-                    "category":     cat,
-                    "category_label": CAT_LABELS.get(cat, cat),
-                    "label":        ar["label"],
-                    "total_amount": ar["total_amount"],
-                    "confidence":   ar["confidence"],
-                    "first_seen":   ar["first_seen"],
-                    "last_seen":    ar["last_seen"],
-                    "notes":        ar["notes"],
-                    "sensitive":    bool(ar["sensitive"]),
-                    "evidence":     ev_by_aff.get(ar["affiliation_id"], []),
+        # Also index by last-name + nickname-normalized-first for alias matching
+        donor_alias_index = {}  # {(last, alias_first): donor_key}
+        for key in donor_totals.keys():
+            last, first = key
+            donor_alias_index[(last, first)] = key
+            if first in NICKNAME_ALIASES:
+                donor_alias_index[(last, NICKNAME_ALIASES[first])] = key
+            # First initial fallback (only if first name has 2+ chars)
+            if len(first) >= 1:
+                donor_alias_index.setdefault((last, first[0]), key)
+
+        # Pull all civic_affiliations rows
+        ca_rows = cur.execute("""
+            SELECT canonical_name, organization, role, category, source_url, notes
+            FROM civic_affiliations
+            ORDER BY canonical_name
+        """).fetchall()
+
+        # Group by matched donor_key
+        donor_affils = {}  # {donor_key: {name, total, gifts, rows: [...]}}
+        for ca_name, org, role, category, source_url, notes in ca_rows:
+            ca_key = name_key(ca_name)
+            if not ca_key:
+                continue
+            # Try exact match first
+            matched = None
+            if ca_key in donor_totals:
+                matched = ca_key
+            else:
+                # Alias match
+                if ca_key in donor_alias_index:
+                    matched = donor_alias_index[ca_key]
+                else:
+                    last, first = ca_key
+                    # Nickname alias reverse lookup
+                    if first in NICKNAME_ALIASES:
+                        alt_first = NICKNAME_ALIASES[first]
+                        if (last, alt_first) in donor_totals:
+                            matched = (last, alt_first)
+                        elif (last, alt_first) in donor_alias_index:
+                            matched = donor_alias_index[(last, alt_first)]
+
+            if not matched:
+                continue
+
+            if matched not in donor_affils:
+                donor_affils[matched] = {
+                    "donor_name": donor_totals[matched]["name"],
+                    "local_total": donor_totals[matched]["total"],
+                    "gifts": donor_totals[matched]["gifts"],
+                    "categories": set(),
+                    "rows": [],
+                    "has_aipac_direct": False,
+                    "has_jewish_civic": False,
+                    "has_oil_gas": False,
+                    "has_pro_israel": False,
+                    "has_liberal_zionist": False,
+                    "has_adl": False,
                 }
-                donor_affiliations.setdefault(ar["donor_id"], []).append(entry)
+            cat = category or ""
+            donor_affils[matched]["categories"].add(cat)
+            donor_affils[matched]["rows"].append({
+                "org": org,
+                "role": role or "",
+                "category": cat,
+                "source": source_url or "",
+                "notes": notes or "",
+            })
+            if cat == "aipac_direct":
+                donor_affils[matched]["has_aipac_direct"] = True
+            if cat == "jewish_civic":
+                donor_affils[matched]["has_jewish_civic"] = True
+            if cat == "pro_israel":
+                donor_affils[matched]["has_pro_israel"] = True
+            if cat == "liberal_zionist":
+                donor_affils[matched]["has_liberal_zionist"] = True
+            if cat.startswith("oil_gas"):
+                donor_affils[matched]["has_oil_gas"] = True
+            # ADL detection via organization name (no dedicated ADL category)
+            if org and ("anti-defamation league" in org.lower() or "adl" in org.lower()):
+                donor_affils[matched]["has_adl"] = True
 
-                b = cat_buckets.setdefault(cat, {
-                    "category":      cat,
-                    "category_label": CAT_LABELS.get(cat, cat),
-                    "donor_count":   0,
-                    "total_amount":  0.0,
-                    "confidence_breakdown": {"high": 0, "medium": 0, "low": 0},
-                    "sensitive_count": 0,
-                    "top_donors":    [],
-                })
-                b["donor_count"] += 1
-                if ar["total_amount"]:
-                    b["total_amount"] += float(ar["total_amount"])
-                conf = (ar["confidence"] or "medium").lower()
-                if conf in b["confidence_breakdown"]:
-                    b["confidence_breakdown"][conf] += 1
-                if ar["sensitive"]:
-                    b["sensitive_count"] += 1
-                b["top_donors"].append({
-                    "donor_id":     ar["donor_id"],
-                    "name":         ar["canonical_name"],
-                    "label":        ar["label"],
-                    "total_amount": ar["total_amount"],
-                    "confidence":   ar["confidence"],
-                })
+        # Build bucket lists. A donor can appear in multiple buckets if they
+        # have roles in multiple categories — but each row only attaches to
+        # its own category inside that bucket.
+        def bucket_entry(d, row_filter):
+            """Build a donor entry with only rows matching row_filter()."""
+            rows = [r for r in d["rows"] if row_filter(r)]
+            if not rows:
+                return None
+            # Sort: primary/direct roles first (board member, chair, founder), then alphabetical
+            PRIORITY_KEYWORDS = ["chair", "founder", "president", "board", "director",
+                                 "trustee", "national", "namesake", "honoree"]
+            def row_priority(r):
+                role_lower = (r["role"] or "").lower()
+                for i, kw in enumerate(PRIORITY_KEYWORDS):
+                    if kw in role_lower:
+                        return (0, i, r["org"])
+                return (1, 99, r["org"])
+            rows.sort(key=row_priority)
+            return {
+                "donor_name": d["donor_name"],
+                "local_total": d["local_total"],
+                "gifts": d["gifts"],
+                "organizations": rows,
+            }
 
-            for cat, b in cat_buckets.items():
-                b["top_donors"].sort(
-                    key=lambda d: (-(d["total_amount"] or 0), d["name"] or "")
-                )
-                b["top_donors"] = b["top_donors"][:10]
-                b["total_amount"] = round(b["total_amount"], 2)
-            # Sort categories by donor_count desc; partisan categories come first
-            CAT_ORDER = ["fec_partisan", "tec_partisan", "aipac", "adl",
-                         "zionist_general", "oil_gas", "real_estate", "mic"]
-            ordered = sorted(
-                cat_buckets.values(),
-                key=lambda b: (CAT_ORDER.index(b["category"]) if b["category"] in CAT_ORDER else 99,)
-            )
-            affiliations_summary["categories"] = ordered
+        def sort_donors(entries):
+            """Sort donors by local_total desc, then name."""
+            return sorted(entries, key=lambda e: (-e["local_total"], e["donor_name"]))
 
-    # ── All donations (one row per gift, for the table view) ──────────────────
-    donations_rows = cur.execute(
-        """
-        SELECT di.canonical_name, cf.contribution_date, cf.contribution_amount,
-               COALESCE(di.canonical_employer, '') AS employer,
-               'Unknown' AS industry,
-               cf.city_state_zip
-        FROM campaign_finance cf
-        LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
-        WHERE cf.filer_slug = ?
-          AND cf.contribution_type = 'Monetary Political Contributions'
-        ORDER BY cf.contribution_date DESC
-        """,
-        (slug,),
-    ).fetchall()
-    all_donations = [
-        [
-            r["canonical_name"] or "",
-            r["contribution_date"] or "",
-            round(parse_amount(r["contribution_amount"]), 2),
-            r["employer"] or "",
-            r["industry"] or "Unknown",
-            (r["city_state_zip"] or "").strip(),
-        ]
-        for r in donations_rows
-    ]
+        # ── Bucket assembly (config-driven) ──────────────────────────────────
+        # Previously this filtered to four hard-coded buckets and dropped every
+        # other category BEFORE serializing, so civic/political/business/
+        # gun_control/military_defense/gun_rights/healthcare/industry rows never
+        # reached any *_data.json at all -- 95-100% of D1 findings and 70% of
+        # Watson's were invisible. Buckets are now declared in AFFILIATION_BUCKETS
+        # and every category is emitted; the template decides what to display.
+        def matches(bucket, row_category):
+            if bucket.get("prefix"):
+                return row_category.startswith(bucket["prefix"])
+            return row_category in bucket["categories"]
 
-    # ── Assemble payload (mirroring Austin's shape; empty buckets where SA
-    #    enrichment hasn't been built) ─────────────────────────────────────────
+        def is_donation_restatement(row):
+            """True when a `political` row only restates that someone gave money.
+
+            Dedup rule for the Political & Campaign Roles card. The Federal
+            Partisan Lean section already renders every donor's giving history
+            from structured FEC + Texas PAC data, dollar-weighted and
+            classified. A prose row reading "Donor ($2,500, 2012)" duplicates
+            that less rigorously and adds nothing a reader can act on.
+
+            KEEP anything describing a ROLE the chart cannot show -- party
+            chair, campaign treasurer, finance-committee member, endorsement,
+            lobby registration, elected or appointed office, union political
+            director. DROP anything whose role text leads with giving and names
+            no such role.
+
+            Judgment call: donations to state and city PACs (Save Austin Now,
+            Aqui Estamos) are dropped too, even though the partisan chart is
+            FEC/TEC-based and may not cover every local committee. They are
+            still donations rather than roles, which is the line this card
+            draws. Roughly 23 of 372 political rows drop under this rule.
+            """
+            role = row.get("role") or ""
+            return bool(_GIVING_LEAD.match(role)) and not _POLITICAL_ROLE.search(role)
+
+        by_category = {}
+        totals = {}
+        dropped_restatements = 0
+        for bucket in AFFILIATION_BUCKETS:
+            key = bucket["key"]
+            drop_dupes = bucket.get("drop_donation_restatements")
+
+            def row_ok(r, b=bucket, dd=drop_dupes):
+                if not matches(b, r["category"]):
+                    return False
+                if dd and is_donation_restatement(r):
+                    return False
+                return True
+
+            if drop_dupes:
+                for d in donor_affils.values():
+                    for r in d["rows"]:
+                        if matches(bucket, r["category"]) and is_donation_restatement(r):
+                            dropped_restatements += 1
+
+            entries = []
+            for d in donor_affils.values():
+                entry = bucket_entry(d, row_ok)
+                if entry:
+                    entries.append(entry)
+            if bucket.get("sort") == "alpha":
+                entries.sort(key=lambda e: e["donor_name"].lower())
+            else:
+                entries = sort_donors(entries)
+            by_category[key] = entries
+            totals[key] = len(entries)
+
+        civic_affiliations_payload = {
+            "total_donors_with_affiliations": len(donor_affils),
+            "totals": totals,
+            # Legacy keys kept so older cached payloads / any external consumer
+            # keep working. jewish_civic replaces the old ADL org-name string
+            # match, which surfaced only orgs literally named "ADL" and dropped
+            # the other ~85 jewish_civic names while every other community's
+            # civic ties were dropped entirely -- see Phase 2 of
+            # AFFILIATION_TEMPLATE_EXPANSION_PLAN.md.
+            "total_adl": totals.get("jewish_civic", 0),
+            "total_aipac_direct": totals.get("pro_israel_advocacy", 0),
+            "total_liberal_zionist": totals.get("liberal_zionist", 0),
+            "total_oil_gas": totals.get("oil_gas", 0),
+            "by_category": by_category,
+        }
+        print(f"  Civic affiliations: {len(donor_affils)} donors matched")
+        for bucket in AFFILIATION_BUCKETS:
+            n = totals.get(bucket["key"], 0)
+            if n:
+                print(f"    {bucket['label']:34} {n}")
+        if dropped_restatements:
+            print(f"    (dropped {dropped_restatements} donation-restatement rows "
+                  f"already covered by the partisan-lean chart)")
+
+    # ── Election cycles ───────────────────────────────────────────────────────
+    cycles = []
+    if slug in CANDIDATE_CYCLES:
+        for cycle_def in CANDIDATE_CYCLES[slug]:
+            cycle_data = build_cycle_data(cur, slug, cycle_def, by_year)
+            cycles.append(cycle_data)
+        print(f"  Built {len(cycles)} election cycles for '{slug}'")
+    else:
+        print(f"  No cycle definitions found for slug '{slug}' — cycles will be empty")
+
+    conn.close()
+
+    # ── Assemble meta ─────────────────────────────────────────────────────────
+    generated_at = datetime.now(timezone.utc).isoformat()
     meta = {
         "candidate_name": candidate_name,
         "candidate_slug": slug,
-        "office": f"San Antonio City Council, {district}",
-        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "office": OFFICE_OVERRIDE.get(slug, "San Antonio City Council"),
+        "generated_at": generated_at,
     }
-    payload = {
+
+    # ── Write {slug}_data.json (everything except all_donations) ──────────────
+    data_payload = {
         "meta": meta,
         "hero": hero,
         "by_year": by_year,
-        "interest_groups": [],
-        "notable_firms": [],
+        "interest_groups": interest_groups,
+        "notable_firms": notable_firms,
         "top_donors": top_donors,
         "cycles": cycles,
         "partisan_lean": partisan_lean,
-        "ip_spectrum": None,
-        "civic_affiliations": None,
-        # Per-donor affiliations + per-candidate roll-up. The new affiliations
-        # pipeline (donor_affiliations table) populates these. If the table
-        # doesn't exist yet, both fields are empty and the frontend hides the
-        # corresponding sections.
-        "affiliations_summary": affiliations_summary,
-        "donor_affiliations": donor_affiliations,
+        "ip_spectrum": ip_spectrum,
+        "civic_affiliations": civic_affiliations_payload,
     }
+    os.makedirs(output_dir, exist_ok=True)
+    data_path = os.path.join(output_dir, f"{slug}_data.json")
+    with open(data_path, "w", encoding="utf-8") as f:
+        json.dump(data_payload, f, separators=(",", ":"), ensure_ascii=False)
+    print(f"Written: {data_path}  ({os.path.getsize(data_path):,} bytes)")
 
-    out_dir = Path(args.output_dir)
-    data_path = out_dir / f"{slug}_data.json"
-    don_path = out_dir / f"{slug}_all_donations.json"
+    # ── Write {slug}_all_donations.json ───────────────────────────────────────
+    donations_path = os.path.join(output_dir, f"{slug}_all_donations.json")
+    donations_json = json.dumps(all_donations, separators=(",", ":"), ensure_ascii=False)
+    with open(donations_path, "w", encoding="utf-8") as f:
+        f.write(donations_json)
+    print(f"Written: {donations_path}  ({os.path.getsize(donations_path):,} bytes, {len(all_donations):,} records)")
 
-    data_path.write_text(json.dumps(payload, separators=(",", ":"), ensure_ascii=False), encoding="utf-8")
-    don_path.write_text(json.dumps(all_donations, separators=(",", ":"), ensure_ascii=False), encoding="utf-8")
-
-    print(f"[generate] wrote {data_path.name}  ({data_path.stat().st_size:,} bytes)")
-    print(f"[generate] wrote {don_path.name}  ({don_path.stat().st_size:,} bytes, {len(all_donations):,} records)")
-    print()
-    print(f"=== Verification ===")
-    print(f"  Total raised:        ${hero['total_raised']:,}")
-    print(f"  Unique donors:       {hero['unique_donors']:,}")
-    print(f"  Total contributions: {hero['total_contributions']:,}")
-    print(f"  By year:")
+    # ── Verification summary ───────────────────────────────────────────────────
+    print(f"\n=== Verification: {candidate_name} ===")
+    print(f"  Total raised:          ${total_raised:,}")
+    print(f"  Unique donors:         {unique_donors:,}")
+    print(f"  Total contributions:   {total_contributions:,}")
+    print(f"  Employer-affiliated:   {employer_affiliated_pct}%")
+    print(f"  Top industry:          {top_industry}")
+    print(f"  Interest groups:       {len(interest_groups)}")
+    print(f"  Notable firms (3+):    {len(notable_firms)}")
+    print(f"  Top donors (10):       {len(top_donors)}")
+    print(f"  All donations rows:    {len(all_donations):,}")
+    print(f"\n  By year:")
     for y in by_year:
         print(f"    {y['year']}: {y['count']:,} gifts, ${y['total']:,}")
-    print(f"  Top 3 donors:")
+    print(f"\n  Interest groups (top 5):")
+    for g in interest_groups[:5]:
+        print(f"    {g['label']}: ${g['total']:,} ({g['donors']} donors)")
+    print(f"\n  Top donors (3):")
     for d in top_donors[:3]:
-        print(f"    {d['name']}: ${d['total']:,} ({d['count']} gifts)")
-    return 0
+        print(f"    {d['name']}: ${d['total']:,} ({d['count']} gifts) @ {d['employer']}")
+
+    # ── Cycle verification ────────────────────────────────────────────────────
+    if cycles:
+        print(f"\n  Election cycles ({len(cycles)}):")
+        for c in cycles:
+            h = c['hero']
+            print(f"\n    [{c['label']}] {c['year_range']} (election {c['election_year']})")
+            print(f"      Total raised:        ${h['total_raised']:,}")
+            print(f"      Unique donors:       {h['unique_donors']:,}")
+            print(f"      Employer-affiliated: {h['employer_affiliated_pct']}%")
+            print(f"      Top industry:        {h['top_industry']}")
+            print(f"      Top 3 industries:")
+            for ig in c['interest_groups'][:3]:
+                pct = round(ig['total'] / h['total_raised'] * 100, 1) if h['total_raised'] else 0
+                print(f"        {ig['label']}: ${ig['total']:,} ({pct}%)")
+
+        if len(cycles) >= 2:
+            c0 = cycles[0]
+            c1 = cycles[1]
+            delta = round(c1['hero']['employer_affiliated_pct'] - c0['hero']['employer_affiliated_pct'], 1)
+            sign = "+" if delta >= 0 else ""
+            print(f"\n  Employer-affiliated delta ({c0['label']} → {c1['label']}): {sign}{delta} pts")
+
+    return data_payload, all_donations
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Generate profile JSON for a campaign finance candidate")
+    parser.add_argument("--candidate", required=True, help="Candidate name fragment (e.g. 'Qadri'). "
+                        "Pass an exact recipient string to disambiguate (e.g. 'Alter, Ryan').")
+    parser.add_argument("--slug", default=None, help="Override the output slug (e.g. 'alter'). "
+                        "Defaults to a slugified candidate fragment.")
+    parser.add_argument("--output-dir", default=_REPO_ROOT,
+                        help="Output directory for JSON files")
+    args = parser.parse_args()
+
+    generate(args.candidate, args.output_dir, slug_override=args.slug)
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
