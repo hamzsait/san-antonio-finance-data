@@ -207,6 +207,7 @@ def main():
         SELECT rowid, donor, city_state_zip, donor_reported_employer, donor_reported_occupation
         FROM campaign_finance
         WHERE donor_type IN ('INDIVIDUAL','Individual') AND donor LIKE '%,%'
+          AND txn_type = 'contribution'
     """)
     raw_rows = cur.fetchall()
     print(f"  {len(raw_rows):,} individual records")
@@ -297,12 +298,46 @@ def main():
     print(f"  Review queue pairs:  {review_count:,}")
 
     # ── 4. Assign donor_ids via Union-Find clusters ───────────────────────────
+    # donor_ids must survive rebuilds: donor_affiliations, FEC caches, and the
+    # scrub pipeline all key on them. Each cluster reclaims the donor_id its
+    # member rows carried after the previous run (largest overlap wins; ties
+    # break on id for determinism); only genuinely new clusters mint a uuid.
     print("Clustering...")
-    root_to_id = {}
+    try:
+        prior = dict(cur.execute(
+            "SELECT rowid, donor_id FROM campaign_finance WHERE donor_id IS NOT NULL"
+        ).fetchall())
+    except sqlite3.OperationalError:   # first run: column doesn't exist yet
+        prior = {}
+
+    clusters = defaultdict(list)       # root -> [record indices]
     for i in range(len(records)):
-        root = uf.find(i)
+        clusters[uf.find(i)].append(i)
+
+    claims = []                        # (overlap_count, root, prior_donor_id)
+    for root, members in clusters.items():
+        counts = defaultdict(int)
+        for i in members:
+            pid = prior.get(records[i]["rowid"])
+            if pid:
+                counts[pid] += 1
+        for pid, n in counts.items():
+            claims.append((n, root, pid))
+    claims.sort(key=lambda t: (-t[0], t[2], str(t[1])))
+
+    root_to_id = {}
+    used_ids = set()
+    for n, root, pid in claims:
+        if root in root_to_id or pid in used_ids:
+            continue
+        root_to_id[root] = pid
+        used_ids.add(pid)
+    minted = 0
+    for root in clusters:
         if root not in root_to_id:
             root_to_id[root] = str(uuid.uuid4())
+            minted += 1
+    print(f"  Clusters: {len(clusters):,}  reused ids: {len(clusters)-minted:,}  new ids: {minted:,}")
 
     for i, r in enumerate(records):
         r["donor_id"] = root_to_id[uf.find(i)]
@@ -316,11 +351,14 @@ def main():
         "rowids": []
     })
 
-    # Pull contribution amounts and dates per rowid
+    # Pull contribution amounts and dates per rowid — normalized columns
+    # (sa_normalize.py): amount_real is a REAL, date_iso sorts lexically.
+    # The raw columns ("$500.00", "6/30/2025 12:00:00 AM") do neither.
     cur.execute("""
-        SELECT rowid, contribution_amount, contribution_date, recipient
+        SELECT rowid, amount_real, date_iso, recipient
         FROM campaign_finance
         WHERE donor_type IN ('INDIVIDUAL','Individual') AND donor LIKE '%,%'
+          AND txn_type = 'contribution'
     """)
     financial = {row[0]: row[1:] for row in cur.fetchall()}
 
