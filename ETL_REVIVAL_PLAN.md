@@ -73,7 +73,13 @@ dry-run on a big filer (Nirenberg 2016–2026, two mayoral terms) and record the
 answer here. Until proven safe, all ingest queries stay narrowed (per-filer, and
 per-report-period if a filer ever approaches 5,000 rows).
 
-**Finding (filled in during the branch):** see §H.
+**Finding (filled in during the branch):** RESOLVED — results do NOT truncate.
+The DataGrid pager renders 10 numbered links per window plus a trailing `...`
+link that advances to the next window; the May scraper's pager regex only
+matched numeric link text, so any query past 10 pages silently stopped at
+5,000 rows. `fetch_data.py` now follows the trailing `...`. Proven on Jones
+2016–2026: 11 pages, 5,003 rows (4,910 contributions, $697,369.75; the portal
+grand total $1,386,125.74 = contributions + expenditures).
 
 ## G. Judgment calls
 
@@ -87,9 +93,37 @@ per-report-period if a filer ever approaches 5,000 rows).
 4. **Shaikh keeps flowing through ETL** — his profile ships later as a live-but-
    unlisted page (user decision; he is excluded from the landing/nav only).
 
-## H. Results log
+## H. Results log (2026-07-20)
 
-(filled in as the branch progresses)
+- **Scraper verified live, no Playwright needed.** The July scoping session's
+  raw-curl failures were a form-replay problem, not a WAF block.
+- **Pagination bug found and fixed** (§F): >10-page result sets were silently
+  truncated at 5,000 rows; now walked in full via the `...` next-window link.
+- **Refresh complete through July 15 Semi-Annual 2026**: galvan 850→917 rows
+  (+67; contributions $81,108.39 spanning 2020-12-28 → 2026-06-28), shaikh
+  570→572 (+2; his 2026 filings are wind-down). `sa_append.py --only
+  galvan,shaikh` re-run confirmed idempotent (0 new rows).
+- **Normalization**: 1,489 rows derived, 0 unmapped transaction kinds.
+- **`build_identities.py` fixed three latent defects**: (1) donor_ids were
+  regenerated (uuid4) every run, orphaning every donor_id-keyed table — now
+  each cluster reclaims its prior id by member-row overlap (177 legacy
+  affiliation rows orphaned → 4); (2) `total_donated` was computed by
+  `float("$500.00")`, which always throws → every identity total was silently
+  0.0 — now uses `amount_real`, all 616 identities have real totals;
+  (3) identity scope now `txn_type='contribution'` only — expenditure payees
+  (vendors) no longer become "donors". The 4 remaining orphaned affiliation
+  rows are principled exclusions (3 vendor payees + Galvan's own legacy
+  self-row cluster); they are May-vintage findings-era rows slated for
+  retirement in the scrub-pipeline phase, and nothing rendered consumes them.
+- **Jones sized for the mayor phase**: 5,003 rows / 4,910 contributions /
+  $697K, 11 pages — one clean fetch away.
+- **Nirenberg caveat for later phases**: an exact-name filer search returns
+  only $258K / 439 rows (~2022+) — his mayoral-era fundraising likely lives
+  under a committee filer name. Resolve the correct filer string before any
+  Nirenberg/Bexar work; do not trust exact-name queries to be complete for
+  veteran filers generally.
+- Pre-2016 reachability (the year-dropdown floor) remains untested — none of
+  the current 12 tracked filers predate 2016.
 
 ## Post-merge DB sync
 
