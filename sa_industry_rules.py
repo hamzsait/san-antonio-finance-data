@@ -112,7 +112,7 @@ def main() -> int:
     """).fetchall()
 
     updates = []   # (industry, display, confidence, donor_id)
-    counts = {"sa-employer-rules": 0, "fec-occupation-rules": 0}
+    counts = {"sa-employer-rules": 0, "fec-occupation-rules": 0, "fec-occupation-rules-noemp": 0}
 
     for donor_id, emp, occ in rows:
         emp_u, occ_u = emp.upper().strip(), occ.upper().strip()
@@ -127,10 +127,15 @@ def main() -> int:
             for pat, industry in OCCUPATION_RULES:
                 if re.search(pat, occ_u):
                     # A noise employer string ("Self Employed") is a worse
-                    # display than the occupation that actually matched.
+                    # display than the occupation that actually matched. When
+                    # the display is just the occupation title (no real
+                    # employer), tag it '-noemp' so the profile's "firms"
+                    # aggregation can exclude it — "Attorney" is not a firm.
                     emp_is_noise = any(emp_u.startswith(nz) for nz in NOISE_EMP)
-                    display = emp.title() if emp_u and not emp_is_noise else occ.title()
-                    hit = (industry, display, "fec-occupation-rules")
+                    if emp_u and not emp_is_noise:
+                        hit = (industry, emp.title(), "fec-occupation-rules")
+                    else:
+                        hit = (industry, occ.title(), "fec-occupation-rules-noemp")
                     break
         if hit:
             updates.append((*hit, donor_id))

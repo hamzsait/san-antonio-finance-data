@@ -327,6 +327,7 @@ def build_cycle_data(cur, candidate_fragment, cycle, by_year_data):
           AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '') != ''
           AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '')
               NOT IN ('Not Employed', 'Self-Employed', 'Student', 'Unknown', 'Retired', 'Homemaker', 'N/A')
+          AND COALESCE(di.resolved_confidence, '') != 'fec-occupation-rules-noemp'
         GROUP BY firm
         HAVING COUNT(DISTINCT cf.donor_id) >= 3
         ORDER BY total DESC
@@ -566,6 +567,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
           AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '') != ''
           AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '')
               NOT IN ('Not Employed', 'Self-Employed', 'Student', 'Unknown', 'Retired', 'Homemaker', 'N/A')
+          AND COALESCE(di.resolved_confidence, '') != 'fec-occupation-rules-noemp'
         GROUP BY firm
         HAVING COUNT(DISTINCT cf.donor_id) >= 3
         ORDER BY total DESC

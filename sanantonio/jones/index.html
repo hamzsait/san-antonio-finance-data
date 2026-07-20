@@ -1113,7 +1113,7 @@
     <div id="igSection" class="card" style="margin-bottom:20px">
       <div class="card-title">
         <span>Funding by Category <span class="pop-hint">⤢ click a category</span></span>
-        <span class="hint" id="igHint">2022 – present</span>
+        <span class="hint" id="igHint"></span>
       </div>
       <div class="sort-bar">
         <span style="font-size:11px;color:var(--muted);align-self:center;margin-right:4px">Sort:</span>
@@ -1636,10 +1636,12 @@ function renderHero(data) {
   document.getElementById('donutHint').textContent =
     `employer-affiliated donors · ${hero.employer_affiliated_pct}% of total raised`;
 
-  // IG hint
+  // IG hint — year range comes from the data, not a hardcoded epoch
   const totalFmt = fmt(hero.total_raised);
+  const igYears = (data.by_year || []).filter(y => y.total > 0).map(y => y.year);
+  const igFrom = igYears.length ? igYears[0] : '';
   document.getElementById('igHint').textContent =
-    `2022 – present · ${totalFmt} total · person-level industry`;
+    `${igFrom} – present · ${totalFmt} total · person-level industry`;
 
   // Updated date from generated_at
   if (meta.generated_at) {
