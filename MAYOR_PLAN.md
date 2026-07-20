@@ -94,4 +94,42 @@ is a different regime from city money; no federal dollars in her charts.
 
 ## H. Results log
 
-(filled in as the branch progresses)
+- **Jones ingested** (2026-07-20): 4,577 unique rows → 4,485 contributions,
+  $632,319, 3,038 donors, spanning 2024-11 → 2026-06. The scrape's 5,003
+  display rows collapse by row_hash design (amended-report re-listings).
+  Top-donor totals of $2,000–3,000 are consistent with the $1,000/election
+  limit (general + runoff are separate elections).
+- **Identity stability held**: 616 prior ids reused, 3,005 minted; 3,621 total.
+- **Employer layer created**: `employer_identities` seeded with Austin's 4,703
+  classified employers (`employer_seed.json`, taxonomy-identical), donor-level
+  `resolved_*` columns added, plus Austin-parity tec_*/ip_* columns so the
+  ported generator runs unmodified.
+- **fec_enrich parallelized** (`--workers`, default 8): 8x throughput measured;
+  effective ceiling is the FEC API key quota, ~6–11 donors/min with 2 keys.
+  Top-1,600 run covers ~95% of Jones dollars.
+- **PDF check (§C.2) — better than hoped**: Jones's April 2025 30-day report
+  (179 pages, TEC C/OH form) is a fully digital PDF whose Schedule A1 entries
+  include **filled Principal occupation + Employer for every itemized
+  contribution**, cleanly text-extractable (verified with pypdf: "Executive /
+  Keysight", "Not Employed / Not Employed"...). A Schedule A1 PDF extractor
+  would close the employer gap for ALL donors, not just FEC-matched ones —
+  strong candidate for its own branch after the frontend hub; the FEC
+  crosswalk + rules built here remain the partisan-lean engine either way.
+- **Template port**: the Austin template's default view is already all-time
+  (`ACTIVE_CYCLE = -1`) with cycle tabs — matches the user decision verbatim.
+  SA methodology block now carries the contribution limits and the
+  employer-data-source difference.
+- Unlisted pages (`shaikh`, later): rendered with `noindex,nofollow` and
+  excluded from any landing JSON.
+
+## Post-merge DB sync
+
+In the main checkout after merge: `python sa_normalize.py` → `python
+sa_employer_seed.py` → `python fetch_data.py --slug jones --start-year 2016`
+→ `python build_identities.py` → `python fec_enrich.py --limit 1600` (long;
+FEC-quota-bound; safe to interrupt/resume) → `python sa_industry_rules.py` →
+`python build_candidate.py --slug jones`. All idempotent. Verify
+sanantonio/jones_data.json matches the worktree build (ignoring
+generated_at) — FEC-dependent fields will match only if enrichment ran to the
+same coverage; the PR notes the authoritative option of copying the worktree
+DB over the canonical one instead (worktree is a strict superset here).
