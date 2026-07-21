@@ -160,6 +160,7 @@ AFFILIATION_BUCKETS = [
 # a string substitution in build_candidate.py gets clobbered by renderHero().
 OFFICE_OVERRIDE = {
     'jones':  'Mayor of San Antonio',
+    'galvan': 'San Antonio City Council · District 6',
     'shaikh': 'San Antonio City Council · 2025 District 8 Candidate',
 }
 
