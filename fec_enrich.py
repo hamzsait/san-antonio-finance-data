@@ -12,7 +12,8 @@ Usage:
     python fec_enrich.py --reset      # clear fec_matched=1 flags (re-process all)
 """
 
-import os, sqlite3, re, sys, io, time, argparse, unicodedata
+import os, sqlite3, re, sys, io, time, argparse, unicodedata, threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import deque
 from datetime import datetime, timezone
 import requests
@@ -96,20 +97,25 @@ REP_PATTERNS = re.compile(
 
 # ── Rate limiter ───────────────────────────────────────────────────────────────
 class RateLimiter:
+    """Thread-safe: shared by all --workers threads."""
     def __init__(self, max_calls=1000, window_seconds=600):
         self.max_calls = max_calls
         self.window = window_seconds
         self.timestamps = deque()
+        self._lock = threading.Lock()
 
     def wait(self):
-        now = time.time()
-        while self.timestamps and now - self.timestamps[0] > self.window:
-            self.timestamps.popleft()
-        if len(self.timestamps) >= self.max_calls:
-            sleep_for = self.window - (now - self.timestamps[0]) + 0.5
+        while True:
+            with self._lock:
+                now = time.time()
+                while self.timestamps and now - self.timestamps[0] > self.window:
+                    self.timestamps.popleft()
+                if len(self.timestamps) < self.max_calls:
+                    self.timestamps.append(now)
+                    return
+                sleep_for = self.window - (now - self.timestamps[0]) + 0.5
             print(f"  [rate limit] sleeping {sleep_for:.1f}s ...", flush=True)
             time.sleep(sleep_for)
-        self.timestamps.append(time.time())
 
 
 # ── DB setup ───────────────────────────────────────────────────────────────────
@@ -506,6 +512,8 @@ def main():
     parser.add_argument("--dry-run",  action="store_true")
     parser.add_argument("--limit",    type=int, default=TOP_N)
     parser.add_argument("--reset",    action="store_true", help="Re-process already-matched donors")
+    parser.add_argument("--workers",  type=int, default=8,
+                        help="Concurrent FEC query threads (HTTP only; DB writes stay single-threaded)")
     args = parser.parse_args()
 
     conn = sqlite3.connect(DB, timeout=120)  # wait up to 2 min for locks to clear
@@ -538,122 +546,127 @@ def main():
 
     stats = {"matched": 0, "no_history": 0, "ambiguous": 0, "api_errors": 0}
 
-    for i, donor in enumerate(donors, 1):
-        donor_id  = donor["donor_id"]
-        cname     = donor["canonical_name"]
-        local_zip = (donor["canonical_zip"] or "")[:5]
+    # ── HTTP in worker threads, DB writes in this thread ──────────────────────
+    # Each worker owns a requests.Session (thread-local); the rate limiter is
+    # shared and thread-safe. Committee classification (cache + occasional
+    # fetch) and every sqlite write stay in the main thread, consuming results
+    # in as_completed order — sqlite connections are not shared across threads.
+    _tls = threading.local()
 
+    def _sess():
+        if not hasattr(_tls, "session"):
+            ts = requests.Session()
+            ts.headers.update({"User-Agent": "decodepolitics.org research / info@decodepolitics.org"})
+            _tls.session = ts
+        return _tls.session
+
+    def fetch_donor(donor):
+        """HTTP-only worker: returns (donor, status, payload)."""
+        cname = donor["canonical_name"]
+        local_zip = (donor["canonical_zip"] or "")[:5]
         fec_query, local_last, local_first = normalize_name_for_fec(cname)
         if not local_last:
-            # Can't query — mark as processed with no data
-            if not args.dry_run:
-                conn.execute("""
-                    UPDATE donor_identities SET fec_matched=1, fec_matched_at=?
-                    WHERE donor_id=?
-                """, (datetime.now(timezone.utc).isoformat(), donor_id))
-                conn.commit()
-            continue
-
-        if i % 50 == 0:
-            print(f"  [{i}/{len(donors)}] Processing: {cname} ...", flush=True)
-
+            return donor, "no_name", None
         try:
-            raw_rows = query_fec_schedule_a(session, fec_query, local_zip, rate_limiter)
+            raw_rows = query_fec_schedule_a(_sess(), fec_query, local_zip, rate_limiter)
         except Exception as e:
-            print(f"  [ERROR] {cname}: {e}", flush=True)
-            stats["api_errors"] += 1
-            continue
-
-        if not raw_rows:
-            stats["no_history"] += 1
-            if not args.dry_run:
-                conn.execute("""
-                    UPDATE donor_identities SET fec_matched=1, fec_total_donations=0,
-                    fec_matched_at=? WHERE donor_id=?
-                """, (datetime.now(timezone.utc).isoformat(), donor_id))
-                conn.commit()
-            continue
-
-        # Confirm matches
+            return donor, "error", e
         confirmed = []
-        for row in raw_rows:
+        for row in raw_rows or []:
             ok, score = confirm_match(local_last, local_first, local_zip, row)
             if ok:
                 confirmed.append((row, score))
+        return donor, "ok", confirmed
 
-        if not confirmed:
-            stats["no_history"] += 1
-            if not args.dry_run:
-                conn.execute("""
-                    UPDATE donor_identities SET fec_matched=1, fec_total_donations=0,
-                    fec_matched_at=? WHERE donor_id=?
-                """, (datetime.now(timezone.utc).isoformat(), donor_id))
-                conn.commit()
-            continue
-
-        # Classify committees and aggregate
-        dem_total = rep_total = other_total = 0.0
-        raw_inserts = []
-
-        for row, score in confirmed:
-            committee_id = row.get("committee_id", "")
-            amount       = row.get("contribution_receipt_amount") or 0.0
-            if amount <= 0:
-                continue   # skip refunds for now
-
-            if committee_id:
-                classification = committee_cache.get(committee_id)
-            else:
-                classification = "Other"
-
-            if classification == "Dem":
-                dem_total += amount
-            elif classification == "Rep":
-                rep_total += amount
-            else:
-                other_total += amount
-
-            raw_inserts.append((
-                donor_id, committee_id, amount,
-                row.get("contribution_receipt_date"),
-                row.get("contributor_name"),
-                row.get("contributor_city"),
-                row.get("contributor_zip"),
-                (row.get("contributor_employer") or "").strip() or None,
-                (row.get("contributor_occupation") or "").strip() or None,
-                row.get("sub_id"),
-                score
-            ))
-
-        total_count = len(raw_inserts)
-        if dem_total + rep_total > 0:
-            lean = dem_total / (dem_total + rep_total)
-        else:
-            lean = None
-
-        if args.dry_run:
-            lean_str = f"{lean:.2f}" if lean is not None else "None (no D/R donations)"
-            print(f"  {cname}: D=${dem_total:,.0f}  R=${rep_total:,.0f}  "
-                  f"O=${other_total:,.0f}  lean={lean_str}")
-        else:
-            conn.executemany("""
-                INSERT OR REPLACE INTO fec_contributions_raw
-                (donor_id, committee_id, contribution_amount, contribution_date,
-                 fec_contributor_name, fec_contributor_city, fec_contributor_zip,
-                 fec_employer, fec_occupation, fec_sub_id, confirm_score)
-                VALUES (?,?,?,?,?,?,?,?,?,?,?)
-            """, raw_inserts)
+    def mark_no_data(donor_id):
+        if not args.dry_run:
             conn.execute("""
-                UPDATE donor_identities
-                SET fec_partisan_lean=?, fec_total_dem=?, fec_total_rep=?,
-                    fec_total_other=?, fec_total_donations=?,
-                    fec_matched=1, fec_matched_at=?
-                WHERE donor_id=?
-            """, (lean, dem_total, rep_total, other_total, total_count,
-                  datetime.now(timezone.utc).isoformat(), donor_id))
+                UPDATE donor_identities SET fec_matched=1, fec_total_donations=0,
+                fec_matched_at=? WHERE donor_id=?
+            """, (datetime.now(timezone.utc).isoformat(), donor_id))
             conn.commit()
 
-        stats["matched"] += 1
+    done = 0
+    with ThreadPoolExecutor(max_workers=args.workers) as pool:
+        futures = [pool.submit(fetch_donor, d) for d in donors]
+        for fut in as_completed(futures):
+            donor, status, payload = fut.result()
+            donor_id = donor["donor_id"]
+            cname = donor["canonical_name"]
+            done += 1
+            if done % 50 == 0:
+                print(f"  [{done}/{len(donors)}] matched={stats['matched']} "
+                      f"no_history={stats['no_history']} errors={stats['api_errors']}", flush=True)
+
+            if status == "no_name":
+                mark_no_data(donor_id)
+                continue
+            if status == "error":
+                print(f"  [ERROR] {cname}: {payload}", flush=True)
+                stats["api_errors"] += 1
+                continue
+            confirmed = payload
+            if not confirmed:
+                stats["no_history"] += 1
+                mark_no_data(donor_id)
+                continue
+
+            # Classify committees and aggregate
+            dem_total = rep_total = other_total = 0.0
+            raw_inserts = []
+            for row, score in confirmed:
+                committee_id = row.get("committee_id", "")
+                amount       = row.get("contribution_receipt_amount") or 0.0
+                if amount <= 0:
+                    continue   # skip refunds for now
+                classification = committee_cache.get(committee_id) if committee_id else "Other"
+                if classification == "Dem":
+                    dem_total += amount
+                elif classification == "Rep":
+                    rep_total += amount
+                else:
+                    other_total += amount
+                raw_inserts.append((
+                    donor_id, committee_id, amount,
+                    row.get("contribution_receipt_date"),
+                    row.get("contributor_name"),
+                    row.get("contributor_city"),
+                    row.get("contributor_zip"),
+                    (row.get("contributor_employer") or "").strip() or None,
+                    (row.get("contributor_occupation") or "").strip() or None,
+                    row.get("sub_id"),
+                    score
+                ))
+
+            total_count = len(raw_inserts)
+            if dem_total + rep_total > 0:
+                lean = dem_total / (dem_total + rep_total)
+            else:
+                lean = None
+
+            if args.dry_run:
+                lean_str = f"{lean:.2f}" if lean is not None else "None (no D/R donations)"
+                print(f"  {cname}: D=${dem_total:,.0f}  R=${rep_total:,.0f}  "
+                      f"O=${other_total:,.0f}  lean={lean_str}")
+            else:
+                conn.executemany("""
+                    INSERT OR REPLACE INTO fec_contributions_raw
+                    (donor_id, committee_id, contribution_amount, contribution_date,
+                     fec_contributor_name, fec_contributor_city, fec_contributor_zip,
+                     fec_employer, fec_occupation, fec_sub_id, confirm_score)
+                    VALUES (?,?,?,?,?,?,?,?,?,?,?)
+                """, raw_inserts)
+                conn.execute("""
+                    UPDATE donor_identities
+                    SET fec_partisan_lean=?, fec_total_dem=?, fec_total_rep=?,
+                        fec_total_other=?, fec_total_donations=?,
+                        fec_matched=1, fec_matched_at=?
+                    WHERE donor_id=?
+                """, (lean, dem_total, rep_total, other_total, total_count,
+                      datetime.now(timezone.utc).isoformat(), donor_id))
+                conn.commit()
+
+            stats["matched"] += 1
 
     print(f"\nDone. matched={stats['matched']}  no_history={stats['no_history']}  "
           f"errors={stats['api_errors']}")

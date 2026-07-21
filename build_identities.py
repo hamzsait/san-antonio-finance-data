@@ -392,6 +392,31 @@ def main():
     # ── 6. Write to DB ────────────────────────────────────────────────────────
     print("Writing to database...")
 
+    # Preserve enrichment columns across the rebuild. donor_ids are stable
+    # (reclaimed above), but DROP TABLE would destroy every column other
+    # scripts added (resolved_* industry data, fec_* aggregates, tec_*/ip_*)
+    # — that cost hours of FEC API quota once. Snapshot any non-base column
+    # and restore it for surviving donor_ids after the rebuild.
+    BASE_COLS = {"donor_id", "canonical_name", "canonical_zip", "canonical_employer",
+                 "total_donated", "campaign_count", "campaigns", "record_count",
+                 "first_seen", "last_seen"}
+    extra_cols = []
+    enrich_snapshot = {}
+    try:
+        existing_cols = [r[1] for r in cur.execute("PRAGMA table_info(donor_identities)")]
+        extra_cols = [(c, t or "TEXT") for _, c, t, *_ in
+                      ((r[0], r[1], r[2]) for r in cur.execute("PRAGMA table_info(donor_identities)"))
+                      if c not in BASE_COLS]
+        if extra_cols:
+            col_list = ", ".join(c for c, _ in extra_cols)
+            for row in cur.execute(f"SELECT donor_id, {col_list} FROM donor_identities"):
+                if any(v is not None for v in row[1:]):
+                    enrich_snapshot[row[0]] = row[1:]
+            print(f"  Preserving {len(extra_cols)} enrichment columns "
+                  f"({len(enrich_snapshot):,} donors carry data)")
+    except sqlite3.OperationalError:
+        pass  # first run: no table yet
+
     cur.execute("DROP TABLE IF EXISTS donor_identities")
     cur.execute("""
         CREATE TABLE donor_identities (
@@ -430,6 +455,20 @@ def main():
     cur.executemany("""
         INSERT INTO donor_identities VALUES (?,?,?,?,?,?,?,?,?,?)
     """, identity_rows)
+
+    # Restore preserved enrichment columns for donor_ids that survived
+    if extra_cols:
+        for col, typ in extra_cols:
+            cur.execute(f"ALTER TABLE donor_identities ADD COLUMN {col} {typ}")
+        col_set = ", ".join(f"{c}=?" for c, _ in extra_cols)
+        restored = 0
+        surviving = {did for (did, *_rest) in identity_rows}
+        for did, values in enrich_snapshot.items():
+            if did in surviving:
+                cur.execute(f"UPDATE donor_identities SET {col_set} WHERE donor_id=?",
+                            (*values, did))
+                restored += 1
+        print(f"  Restored enrichment data for {restored:,} donors")
 
     # Add donor_id + match_confidence to campaign_finance (drop first if re-running)
     try:
