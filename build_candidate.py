@@ -39,6 +39,7 @@ SITE_DIR = os.path.join(ROOT, "sanantonio")   # deploy-shaped output folder
 # Council members join this list phase by phase (see issue #1).
 ROSTER = [
     {"slug": "jones", "display": "Gina Ortiz Jones", "district": "Mayor", "race": "Elected June 2025"},
+    {"slug": "galvan", "display": "Ric Galvan", "district": "District 6", "race": "Elected June 2025"},
 ]
 
 # Non-officeholders rendered with candidate framing instead of incumbent
