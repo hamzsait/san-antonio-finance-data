@@ -21,27 +21,33 @@ pipeline ported (not the May-vintage template), and her profile built at
    existing 616 identities).
 3. `fec_enrich.py` for Jones's donors — see §C.
 
-## C. The employer/industry gap (structural, SA-wide)
+## C. Employer/occupation data (CORRECTED 2026-07-21)
 
-The portal grid publishes **no donor employer/occupation** (0 of 1,262 existing
-contribution rows have either; Austin gets both natively from Socrata). Austin's
-cards/profiles lean on industry data, so SA needs substitutes, in order:
+**The original premise of this section was wrong.** The portal DOES publish
+per-transaction donor employer and occupation — not in the result grid, but on
+the schedule-detail page behind each grid row's transaction-kind link (a
+`DataGrid1$_ctlN$_ctl0` postback the May scraper recorded and never followed).
+The user caught this; an independent agent probe confirmed it live (exact
+mechanics in its report: same `SearchResults2.aspx` postback as the pager,
+grid page state stays valid across sequential detail fetches, one POST per
+row, ~32 KB each). `fetch_data.py` now fetches details during ingest
+(`--no-details` to skip; `details_fetched_at` marks harvested rows so appends
+only pay for new rows) and fills `donor_reported_employer` /
+`donor_reported_occupation` (+ out-of-state-PAC flag, and category/description
+for expenditures) — the columns the May schema created and left NULL.
 
-1. **FEC crosswalk** (`fec_enrich.py`, May pipeline, keys in `.env`): match SA
-   donors to federal contribution records, which do carry employer/occupation.
-   Jones is the best-case filer — two congressional runs (TX-23 2018/2020) mean
-   her donor base is unusually FEC-visible.
-2. **Report PDFs**: the grid links digitally-generated (text-layer) report PDFs;
-   Texas C/OH Schedule A includes employer/occupation fields above disclosure
-   thresholds. **In-branch check:** sample 2–3 Jones PDFs to establish whether a
-   PDF-side extractor is worth a later branch; record the answer in §H. Not
-   built in this branch.
-3. **Scrub pipeline** (phase 5): per-donor LLM research fills the rest, as it
-   did for Austin.
+Resolution order becomes **local-first** (`sa_industry_rules.py` is the
+driver): portal-reported employer/occupation → FEC-derived → scrub pipeline
+(phase 5) for the tail. The FEC crosswalk keeps its real job — federal
+partisan lean — and gap-fills donors whose filings omit employer.
 
-Profile/card consequence: industry charts render from whatever enrichment
-coverage exists, and the SA methodology note must state the source difference
-(FEC-matched + researched vs. filer-reported in Austin).
+Obsoleted by this correction: the planned Schedule A1 **PDF extractor branch**
+(the detail pages carry the same fields, cheaper), and the methodology note's
+"SA doesn't publish employers" framing (fixed). Bonus probe finding: the
+results page has an **Export To Excel** POST returning the full result set in
+one shot (no pagination, extra `Id`/`ReportId` columns, but no
+employer/occupation) — useful later as a fast count cross-check for append
+runs; not adopted in this branch since details require the paged grid anyway.
 
 ## D. Cycles (user-decided)
 
@@ -122,9 +128,29 @@ is a different regime from city money; no federal dollars in her charts.
 - Unlisted pages (`shaikh`, later): rendered with `noindex,nofollow` and
   excluded from any landing JSON.
 
+### Detail re-pull results (2026-07-21, after the §C correction)
+
+- All three filers re-pulled with schedule details: **98.5% of Jones's
+  contribution rows now carry filer-reported employer/occupation** (4,418 of
+  4,485; galvan 838/859, shaikh 401/572 — his gap is entity donors reporting
+  Union/PAC). ~5,900 detail postbacks, ~1s each, per-page commits (kill-safe;
+  `details_fetched_at` makes reruns skip completed rows).
+- Local-first re-resolution: **2,962 of 3,621 donors industry-resolved** (was
+  761). Jones headline: employer-affiliated 23.6% → **43.7%**;
+  industry-Unknown dollars 62% → **25%**; top industry Legal ($64K/146
+  donors); firms panel now real institutions only (occupation-title and
+  self-flag displays excluded via `-noemp` confidence tags + FIRM_NOISE list).
+- `build_identities.py` gained enrichment-column preservation across rebuilds
+  (its DROP TABLE was silently destroying resolved_*/fec_* data — caught when
+  a rebuild wiped the FEC aggregates; they were recomputed offline from
+  `fec_contributions_raw`, no API quota spent).
+- Partisan-lean panel unchanged (that's FEC's job): 755 Jones donors matched,
+  84.8% Dem dollar-weighted.
+
 ## Post-merge DB sync
 
-In the main checkout after merge: `python sa_normalize.py` → `python
+**Copy the worktree DB over canonical** (recommended — it embodies ~5,900
+detail postbacks and hours of FEC quota). The full replay alternative: `python sa_normalize.py` → `python
 sa_employer_seed.py` → `python fetch_data.py --slug jones --start-year 2016`
 → `python build_identities.py` → `python fec_enrich.py --limit 1600` (long;
 FEC-quota-bound; safe to interrupt/resume) → `python sa_industry_rules.py` →

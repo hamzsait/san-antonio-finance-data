@@ -64,6 +64,15 @@ NO_DONUT = {"Not Employed", "Self-Employed", "Student", "Unknown / Unclassified"
 # their own categories. Only the literal legacy label still maps to itself.
 OTHER_INDS = {"Retail / Media / Other"}
 
+# Employer-display strings that are not firms (occupation titles, self-flags,
+# disclosure boilerplate). Compared UPPERCASE in the two "firms with 3+
+# donors" queries; anything resolved via an occupation-only rule
+# (confidence LIKE '%-noemp') is excluded there as well.
+FIRM_NOISE_SQL = """('NOT EMPLOYED','SELF-EMPLOYED','SELF EMPLOYED','SELFEMPLOYED',
+    'SELF','STUDENT','UNKNOWN','RETIRED','HOMEMAKER','HOUSEWIFE','N/A','NA','NONE',
+    'UNEMPLOYED','INFORMATION REQUESTED','BEST EFFORTS','REALTOR','REAL ESTATE',
+    'ATTORNEY','LAWYER','CONSULTANT','PHYSICIAN','UNION','PAC')"""
+
 # Election cycle definitions per filer slug.
 # Each cycle: label, start_year (None = beginning of time), end_year (None = present).
 # SA context: 2-year terms through the May/June 2025 election (charter Prop F,
@@ -325,9 +334,9 @@ def build_cycle_data(cur, candidate_fragment, cycle, by_year_data):
         LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
         WHERE {WHERE}
           AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '') != ''
-          AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '')
-              NOT IN ('Not Employed', 'Self-Employed', 'Student', 'Unknown', 'Retired', 'Homemaker', 'N/A')
-          AND COALESCE(di.resolved_confidence, '') != 'fec-occupation-rules-noemp'
+          AND UPPER(COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, ''))
+              NOT IN {FIRM_NOISE_SQL}
+          AND COALESCE(di.resolved_confidence, '') NOT LIKE '%-noemp'
         GROUP BY firm
         HAVING COUNT(DISTINCT cf.donor_id) >= 3
         ORDER BY total DESC
@@ -565,9 +574,9 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
         LEFT JOIN donor_identities di ON cf.donor_id = di.donor_id
         WHERE {BASE_WHERE}
           AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '') != ''
-          AND COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, '')
-              NOT IN ('Not Employed', 'Self-Employed', 'Student', 'Unknown', 'Retired', 'Homemaker', 'N/A')
-          AND COALESCE(di.resolved_confidence, '') != 'fec-occupation-rules-noemp'
+          AND UPPER(COALESCE(di.resolved_employer_display, ei.canonical_name, cf.donor_reported_employer, ''))
+              NOT IN {FIRM_NOISE_SQL}
+          AND COALESCE(di.resolved_confidence, '') NOT LIKE '%-noemp'
         GROUP BY firm
         HAVING COUNT(DISTINCT cf.donor_id) >= 3
         ORDER BY total DESC

@@ -111,10 +111,22 @@ CREATE INDEX IF NOT EXISTS idx_cf_year        ON campaign_finance(contribution_y
 """
 
 
+DETAIL_COLS = [
+    "expense_category TEXT",      # Schedule F: txtPoECategory
+    "expense_description TEXT",   # Schedule F: txtPoEDescription
+    "details_fetched_at TEXT",    # when the schedule-detail postback was harvested
+]
+
+
 def ensure_schema(conn: sqlite3.Connection) -> None:
     conn.executescript(CAMPAIGN_FINANCE_SCHEMA)
     # Normalized columns (amount_real, date_iso, txn_type) — see sa_normalize.py.
     ensure_columns(conn)
+    for col_def in DETAIL_COLS:
+        try:
+            conn.execute(f"ALTER TABLE campaign_finance ADD COLUMN {col_def}")
+        except sqlite3.OperationalError:
+            pass  # already exists
 
 
 # ── HTTP session ───────────────────────────────────────────────────────────
@@ -207,6 +219,14 @@ class Row:
     date_reported: str
     contribution_date: str    # "9/1/2024 12:00:00 AM"
     transaction_id: str       # "_ctlN" postback id (per-page; unstable)
+    # Schedule-detail fields (fetched via the per-row __doPostBack; see
+    # fetch_row_detail). Empty until a detail pass runs.
+    occupation: str = ""
+    employer: str = ""
+    oos_pac: str = ""
+    expense_category: str = ""
+    expense_description: str = ""
+    detail_fetched: bool = False
 
 
 def _strip_html(s: str) -> str:
@@ -388,6 +408,41 @@ def page_postback(
     return r
 
 
+# ── Schedule-detail fetch ──────────────────────────────────────────────────
+# Each grid row's transaction-kind cell links a __doPostBack to the row's full
+# TEC schedule entry (A1 for contributions, F for expenditures). The detail
+# page carries fields the grid omits — donor occupation + employer above all
+# (the May scraper never followed these links, which is why those DB columns
+# sat NULL). The grid page's harvested state stays valid across sequential
+# detail postbacks, so one grid page funds all of its rows' detail fetches.
+DETAIL_INPUT_RE = re.compile(
+    r'<input[^>]*name="(?P<name>[^"]*(?:txtOccupation|txtEmployer|txtIDNo|'
+    r'txtPoECategory|txtPoEDescription))"[^>]*value="(?P<value>[^"]*)"',
+    re.IGNORECASE,
+)
+OOS_CHECKED_RE = re.compile(r'name="[^"]*chkOutOfStatePAC"[^>]*checked', re.IGNORECASE)
+
+
+def fetch_row_detail(sess: requests.Session, row: Row, grid_html: str) -> None:
+    """POST the row's schedule-detail postback and fill the Row's detail
+    fields in place. Reuses the grid page's harvested state (not invalidated
+    by prior detail fetches — verified live 2026-07-20)."""
+    target = f"DataGrid1${row.transaction_id}$_ctl0"
+    r = page_postback(sess, target, grid_html)
+    fields = {}
+    for m in DETAIL_INPUT_RE.finditer(r.text):
+        # names may be container-prefixed ("ContactCtrl11:txtOccupation")
+        short = m.group("name").split(":")[-1].split("$")[-1]
+        fields[short] = html_lib.unescape(m.group("value")).strip()
+    row.occupation = fields.get("txtOccupation", "")
+    row.employer = fields.get("txtEmployer", "")
+    if OOS_CHECKED_RE.search(r.text):
+        row.oos_pac = "Y" + (f" ({fields['txtIDNo']})" if fields.get("txtIDNo") else "")
+    row.expense_category = fields.get("txtPoECategory", "")
+    row.expense_description = fields.get("txtPoEDescription", "")
+    row.detail_fetched = True
+
+
 # ── Row → DB record ────────────────────────────────────────────────────────
 def row_hash(row: Row, filer_slug: str) -> str:
     """Stable natural key. Excludes transaction_id (per-page postback id is
@@ -435,6 +490,19 @@ def insert_rows(
             "SELECT 1 FROM campaign_finance WHERE row_hash=?", (rh,)
         ).fetchone()
         if existing:
+            if r.detail_fetched:
+                # Detail refresh on a known row — update in place, never
+                # touching row_hash / donor_id / downstream enrichment.
+                cur.execute(
+                    """UPDATE campaign_finance SET
+                           donor_reported_occupation=?, donor_reported_employer=?,
+                           out_of_state_pac=?, expense_category=?,
+                           expense_description=?, details_fetched_at=?
+                       WHERE row_hash=?""",
+                    (r.occupation or None, r.employer or None,
+                     r.oos_pac or None, r.expense_category or None,
+                     r.expense_description or None, now, rh),
+                )
             skipped += 1
             continue
         cur.execute(
@@ -444,8 +512,11 @@ def insert_rows(
                 contribution_amount, contribution_date, donor_type, city_state_zip,
                 contribution_year, contribution_type, date_reported, report_filed,
                 view_report, transaction_id, scraped_at, filer_slug,
-                amount_real, date_iso, txn_type
-            ) VALUES (?, 'sa_campfinsearch', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                amount_real, date_iso, txn_type,
+                donor_reported_occupation, donor_reported_employer,
+                out_of_state_pac, expense_category, expense_description,
+                details_fetched_at
+            ) VALUES (?, 'sa_campfinsearch', ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 rh,
@@ -466,6 +537,12 @@ def insert_rows(
                 parse_amount(r.amount_raw),
                 parse_date_iso(r.contribution_date),
                 classify_kind(r.transaction_kind),
+                r.occupation or None,
+                r.employer or None,
+                r.oos_pac or None,
+                r.expense_category or None,
+                r.expense_description or None,
+                now if r.detail_fetched else None,
             ),
         )
         inserted += 1
@@ -499,6 +576,12 @@ def main() -> int:
                    help="any | na | mayor | d1..d10 (leave 'any' to catch expenditures too)")
     p.add_argument("--filer-type", default="C", choices=["C", "S", "U", "All Types"])
     p.add_argument("--max-pages", type=int, default=50, help="safety cap")
+    p.add_argument("--no-details", action="store_true",
+                   help="Skip the per-row schedule-detail fetch (occupation/employer)")
+    p.add_argument("--detail-pace", type=float, default=0.4,
+                   help="Seconds between detail postbacks")
+    p.add_argument("--max-details", type=int, default=0,
+                   help="Debug cap on detail fetches (0 = no cap)")
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("--save-html", action="store_true",
                    help="Save each page's raw HTML to ./_debug_pageN.html")
@@ -527,6 +610,35 @@ def main() -> int:
 
     sess = make_session()
 
+    # Detail-fetch bookkeeping: rows whose schedule detail we already hold
+    # keep their data (appends stay cheap — only new rows cost a postback).
+    details_done: set[str] = set()
+    if not args.no_details and not args.dry_run:
+        details_done = {r0_[0] for r0_ in conn.execute(
+            "SELECT row_hash FROM campaign_finance WHERE details_fetched_at IS NOT NULL")}
+    detail_count = [0]
+
+    def run_details(page_rows: list[Row], grid_html: str) -> None:
+        if args.no_details:
+            return
+        todo = [r_ for r_ in page_rows
+                if r_.transaction_id
+                and r_.txn_type.lower() in ("contributor", "expenditure")
+                and row_hash(r_, slug) not in details_done]
+        for r_ in todo:
+            if args.max_details and detail_count[0] >= args.max_details:
+                return
+            try:
+                fetch_row_detail(sess, r_, grid_html)
+            except Exception as e:
+                print(f"[scrape]   detail {r_.transaction_id} FAILED: {e}")
+                continue
+            details_done.add(row_hash(r_, slug))
+            detail_count[0] += 1
+            if detail_count[0] % 100 == 0:
+                print(f"[scrape]   details fetched: {detail_count[0]:,}", flush=True)
+            time.sleep(args.detail_pace)
+
     # 1. GET the search form to seed __VIEWSTATE et al
     print(f"[scrape] GET {SEARCH_URL}")
     r0 = sess.get(SEARCH_URL, timeout=30,
@@ -546,7 +658,12 @@ def main() -> int:
 
     rows1, grand_total = parse_rows(r1.text)
     print(f"[scrape] page 1: {len(rows1)} rows, grand_total={grand_total!r}")
+    run_details(rows1, r1.text)
     all_rows: list[Row] = list(rows1)
+    ins_total = skip_total = 0
+    if not args.dry_run:
+        ins, skp = insert_rows(conn, rows1, slug)   # per-page commit: kill-safe
+        ins_total += ins; skip_total += skp
 
     # 3. Pagination — walk forward through display page numbers, following
     #    the trailing '...' link into the next 10-page window when needed
@@ -577,13 +694,17 @@ def main() -> int:
             Path(f"_debug_page{next_page}.html").write_text(rN.text, encoding="utf-8")
         rows_n, _ = parse_rows(rN.text)
         print(f"[scrape] page {next_page}: {len(rows_n)} rows")
+        run_details(rows_n, rN.text)
         all_rows.extend(rows_n)
+        if not args.dry_run:
+            ins, skp = insert_rows(conn, rows_n, slug)
+            ins_total += ins; skip_total += skp
         last_html = rN.text
         visited_pages.add(next_page)
         current_page, targets, next_window = find_pager(last_html)
         time.sleep(0.6)   # polite pacing
 
-    print(f"[scrape] total rows scraped: {len(all_rows):,}")
+    print(f"[scrape] total rows scraped: {len(all_rows):,}  (details fetched: {detail_count[0]:,})")
 
     # 4. Quick sanity summary
     types = {}
@@ -607,8 +728,7 @@ def main() -> int:
                 print(f"  {r.contribution_date}  {r.amount_raw:>10}  {r.contributor_name:30}  {r.txn_type:11}  {r.report_period}")
         return 0
 
-    inserted, skipped = insert_rows(conn, all_rows, slug)
-    print(f"[scrape] DB: inserted={inserted}  skipped_existing={skipped}")
+    print(f"[scrape] DB: inserted={ins_total}  skipped_existing={skip_total}")
     total_in_db = conn.execute(
         "SELECT COUNT(*) FROM campaign_finance WHERE filer_slug=?", (slug,)
     ).fetchone()[0]
