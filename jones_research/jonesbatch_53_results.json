@@ -1,0 +1,234 @@
+[
+  {
+    "donor_id": "5ce5976f-3c1f-4f4e-9f2b-7309512c6bb5",
+    "name": "Aiken, Alice",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor listed as 'Not Employed' at a 78230 San Antonio address, with a heavy small-dollar Democratic FEC giving pattern (55 contributions, lean 1.0). No public profile, news mention, bio, or lobbyist registration ties a specific 'Alice Aiken' to this address beyond the generic donor record, so identity cannot be corroborated further.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5cc3f8f3-bacd-4946-8a12-48911e8aacb1",
+    "name": "Walch, Elizabeth",
+    "resolved_employer": "Nurse, San Antonio Independent School District (SAISD)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Donor record lists a nurse employed by SAISD at a 78212 (Beacon Hill/Thorain Blvd) San Antonio address, with a Democratic-leaning FEC pattern (11 contributions, lean 0.94). Occupation and employer are consistent (SAISD staffs school nurses), but no distinct public bio, news profile, or ideological-PAC/lobbyist record was found to further corroborate the specific individual.",
+    "source_url": "https://schools.saisd.net/page/Nurse",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5c86c3f5-a40b-4702-9bcc-e2d640992196",
+    "name": "Brunelli, Susan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor listed as 'Not Employed' at 314 Maryanne Ave, Hudson, NY 12534, with zero FEC contribution history. No public records, bio, news mention, or lobbyist registration could be found to identify this specific individual. Person cannot be identified beyond the raw donor record.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5badef54-bba1-4627-b57b-9ef196474a4d",
+    "name": "Sibley, William",
+    "resolved_employer": "William Jack Sibley — self-employed author/novelist, playwright, screenwriter and rancher (San Antonio); died Aug 31, 2025",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "William Jack Sibley of San Antonio (Monte Vista / E Craig Pl, 78212) was a well-documented novelist, playwright and TV/screen writer (contributing editor at Interview, dialogue for Guiding Light and Murphy Brown), rancher, and San Antonio Report contributor; inducted into the Texas Institute of Letters in 2015; died Aug. 31, 2025. Self-employed 'author' occupation and 78212 location match. Prolific Democratic-leaning individual donor (185 FEC contributions, lean 1.0); no AIPAC/J Street/oil-gas/gun/defense PAC ties or lobbyist registration found.",
+    "source_url": "https://sanantonioreport.org/author/william-sibley/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Greater Edwards Aquifer Association", "role": "Board member", "category": "civic", "source_url": "https://www.legacy.com/us/obituaries/sanantonio/name/william-sibley-obituary?id=59365543", "snippet": "Obituary lists him as a board member of the Texas Historical Foundation, the San Antonio Public Library Foundation, and the Greater Edwards Aquifer Association (regional water/environmental stewardship group)."},
+      {"org": "Texas Historical Foundation", "role": "Board member", "category": "civic", "source_url": "https://www.legacy.com/us/obituaries/sanantonio/name/william-sibley-obituary?id=59365543", "snippet": "Named as a board member of the Texas Historical Foundation and San Antonio Public Library Foundation; inducted into the Texas Institute of Letters in 2015."}
+    ]
+  },
+  {
+    "donor_id": "5aebec2b-ffd8-4ba1-88c7-2450267796b3",
+    "name": "Lazarre, Jennifer",
+    "resolved_employer": "Jennifer Ames Lazarre — luxury residential real estate broker leading the Ames Group / Engel & Völkers Chicago office",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Jennifer A. (Ames) Lazarre resides at 2355 N Commonwealth Ave, Chicago 60614 — the exact donor address — and is a top-volume Chicago luxury realtor (25+ years, ~$1.8B career sales) who opened and heads Engel & Völkers' first Chicago office (2019), matching the 'Realtor / Engel & Voelkers Chicago' donor record. Her husband Paul Lazarre is also a broker there. Democratic donor history; no ideological PAC (AIPAC/J Street/oil-gas/gun/defense) or lobbyist registration found.",
+    "source_url": "https://chicagoagentmagazine.com/2019/01/07/ames-group-launch-first-ever-engel-volkers-shop-chicagoland-market/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "58eac2cb-cb51-4cda-b12d-ef048e2736ea",
+    "name": "Gless, Sharon",
+    "resolved_employer": "Actress (Glessworks, Inc.) — Cagney & Lacey, Queer as Folk",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Confirmed as the well-known actress Sharon Gless: the donation address 5900 Wilshire Blvd Ste 2300, LA 90036 is the registered address of her production company 'Glessworks, Inc.' Listed 'Not Employed' on the filing but is a career actress. No documented policy-advocacy board seat surfaced, so no affiliation forced.",
+    "source_url": "https://clustrmaps.com/person/Gless-7ep6bt",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "58dd6382-120b-497b-bc10-d2b87931a939",
+    "name": "Patten, Laura",
+    "resolved_employer": "President & CEO, Planned Parenthood South Texas",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Laura Terrill Patten leads Planned Parenthood South Texas (professional name 'Laura Terrill'); appointed president/CEO in 2022, prior VP of external affairs at Planned Parenthood of Montana and ED of Planned Parenthood Advocates of Oregon. San Antonio 78209, occupation 'CEO / Planned Parenthood South Texas' matches. FEC lean Democratic.",
+    "source_url": "https://sanantonioreport.org/planned-parenthood-south-texas-president/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Planned Parenthood South Texas", "role": "President & CEO", "category": "civic", "source_url": "https://sanantonioreport.org/planned-parenthood-south-texas-president/", "snippet": "After a nearly year-long search for a new president and CEO, the Planned Parenthood South Texas board of directors announced that Laura Terrill will lead the health care agency in the post-Roe era."}
+    ]
+  },
+  {
+    "donor_id": "58c042b3-a285-4554-98cb-ff1d1b242326",
+    "name": "Turis, Susan R",
+    "resolved_employer": "Self-employed Certified Iyengar Yoga teacher (Yoga With Susan Turis), Brooklyn",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Susan Turis is a Certified (Level 2) Iyengar Yoga teacher and faculty member at the Iyengar Yoga Institute of New York since 2013, operating her own practice in Brooklyn (matches 4713 Avenue N, Brooklyn 11234). Occupation 'Yoga / Self' matches. No policy-advocacy affiliations found.",
+    "source_url": "https://www.iyengarnyc.org/faculty/susan-turis",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "576c637e-4274-4513-b779-05929c11c8f4",
+    "name": "Shimko, Vernon",
+    "resolved_employer": "Retired; per a prior FEC contribution filing, formerly Executive Director, San Antonio PREP (Prefreshman Engineering Program)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Vernon M Shimko, homeowner at 14323 Parksite Woods, San Antonio (78249) with wife Jean M Shimko per Bexar County property records. Listed 'Not Employed' (retired) on this filing; a prolific Democratic donor (86 FEC contributions). A prior FEC filing recorded his occupation as Executive Director of San Antonio PREP, a STEM education program; not independently corroborated by a second stable source, hence medium.",
+    "source_url": "https://www.city-data.com/bexar-county/P/Parksite-Woods-3.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "56cadd51-edc6-4023-abc5-4ddb047370c3",
+    "name": "Hickerson, Carlos",
+    "resolved_employer": "Self-employed CPA / accountant, El Paso, TX",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Listed as a self-employed CPA at 4800 N Stanton St, El Paso 79902; a very active donor (189 FEC contributions, Democratic lean). No dedicated public professional profile surfaced beyond the CPA occupation. Classified by supported occupation; no policy-advocacy affiliations found.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "55994f66-a855-4beb-ae4a-c9b1427f1ff3",
+    "name": "Greene, Jehmu",
+    "resolved_employer": "Self-employed political/media strategist and commentator; president of the Women's Media Center; former Fox News/Fox Business contributor; former Rock the Vote president",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Well-documented Austin, TX political commentator and Democratic strategist (grew up in Austin, splits time NYC/Austin), first African-American president of Rock the Vote (2000-2005), 2017 DNC chair candidate. Matches Austin 78737 self-employed consultant.",
+    "source_url": "https://en.wikipedia.org/wiki/Jehmu_Greene",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Women's Media Center", "role": "President", "category": "civic", "source_url": "https://womensmediacenter.com/shesource/expert/jehmu-greene", "snippet": "Jehmu Greene is president of the Women's Media Center (WMC), an organization that amplifies women's voices in the media."},
+      {"org": "Democratic National Committee", "role": "Former Director of Women's Outreach & Southern Political Director; 2017 DNC chair candidate", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Jehmu_Greene", "snippet": "From 1998-2000 served as Director of Women's Outreach and Southern Political Director at the DNC; candidate for DNC Chair in 2017."}
+    ]
+  },
+  {
+    "donor_id": "540b10a6-f440-411f-bbb4-2197def9a182",
+    "name": "Cavazos, Perla",
+    "resolved_employer": "Central Health (Travis County hospital district), Chief Governance & Government Affairs Officer / Deputy Administrator",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Austin health-care government-affairs executive with 25+ yrs in public policy; former Texas Senate Legislative Director, Stanford BA, LBJ School MPA, 2018 Austin City Council candidate. Matches Austin 78702 'Deputy Administrator, Central Health.'",
+    "source_url": "https://www.centralhealth.net/biographies/deputy-administrator-perla-cavazos/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Ethics Commission (registered lobbyist)", "role": "Registered lobbyist (registered 2012; Central Health government-affairs officer)", "category": "political", "source_url": "https://www.ethics.state.tx.us/search/lobby/LobbySimpleSearch.php", "snippet": "Perla Cavazos registered as a lobbyist with the Texas Ethics Commission (filed 2012); currently Chief Governance & Government Affairs Officer at Central Health."}
+    ]
+  },
+  {
+    "donor_id": "539b5938-bfd0-430c-8715-44f7145ff7fd",
+    "name": "Riley, Darby",
+    "resolved_employer": "Riley & Riley, Attorneys at Law (San Antonio) — Board-Certified civil trial attorney, self-employed",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "San Antonio native attorney practicing since 1977 (Charles Darby Riley), Board Certified in Civil Trial Law, of the well-known Riley family SA firm; longtime environmental activist. Matches SA 78240 self-employed attorney.",
+    "source_url": "https://rileylawfirm.com/darby-riley/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Sierra Club, Alamo Group", "role": "Political Chair; longtime environmental volunteer (former Leon Valley City Council 1982-1990; chaired TX Democratic Party Environmental Caucus)", "category": "civic", "source_url": "https://www.sierraclub.org/texas/alamo/committees", "snippet": "Darby Riley serves as the Alamo Group Political Chair for the Sierra Club in San Antonio; chaired the State Democratic Party's Environmental Caucus for eight years."}
+    ]
+  },
+  {
+    "donor_id": "532673f1-1dc6-42ab-89c0-f5558c1908b3",
+    "name": "Schones, Joyce",
+    "resolved_employer": "Retired (former career not identifiable in public records)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired individual in San Antonio 78232 with a prolific Democratic-leaning FEC giving pattern (121 contributions). No matching public profile, bio, professional record, ideological PAC contribution, or lobbyist registration found; cannot be identified beyond self-reported 'retired.'",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4fe4976e-6ee0-44c3-9a6e-a2047a60f1a5",
+    "name": "Childers, Clark",
+    "resolved_employer": "Self-employed; owner/developer of The Lincoln lodging community in Marfa, TX (also a screenwriter)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Fifth-generation Texan, screenwriter and co-owner (with Adam Walton) of The Lincoln, a long/short-term lodging community at 105 W Lincoln St, Marfa. Matches Marfa 79843 PO Box, self-employed 'Real Estate.'",
+    "source_url": "https://www.spectrumsouth.com/marfa-lincoln/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4eef1572-640b-465c-a252-f112896b6368",
+    "name": "Vernal, David",
+    "resolved_employer": "Self-employed consultant (retired U.S. Air Force Colonel; Stanford GSB MSx 2023)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Best identity match for a self-employed consultant named David Vernal in Palo Alto/Bay Area is the David Vernal profiled by Stanford Graduate School of Business: a retired USAF Colonel (~27 yrs; intelligence/cyber; former Obama NSC staff), MSx Class of 2023, SF Bay Area, pivoting to the private sector. Name + Palo Alto location + 'consultant/self-employed' occupation align, but the exact 94303 address could not be independently pinned. His career was government/military service (not a defense-contractor principal), so no military_defense affiliation is warranted.",
+    "source_url": "https://www.gsb.stanford.edu/programs/msx/life/students/voices/david-vernal",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4d8e6026-c54c-47bb-b458-a5acb6d47bfe",
+    "name": "Fite, Christin",
+    "resolved_employer": "Causal IQ (Senior Sales Director, Political & Causes)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Matches Christy Fite, Senior Sales Director / Political & Causes at Causal IQ, a programmatic digital-advertising agency serving campaigns, brands and advocacy groups. Employer 'Causal' and title 'Senior Sales Director' align exactly; based in the DC/Gaithersburg MD metro (donor zip 20879). Her political/advocacy ad work is her employer's line of business, not personal policy advocacy. No ideological-PAC records and no TX/City lobbyist registration found.",
+    "source_url": "https://theorg.com/org/causal-iq/org-chart/christy-fite",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4bbd2070-0be1-4432-8998-04f8e6f07fa9",
+    "name": "Hernandez Escobedo, Mary Esther",
+    "resolved_employer": "Retired (former career not documented)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor listed as 'Retired' at 631 Mission St, San Antonio 78210. 'Mary Esther Hernandez / Escobedo' is a common name in San Antonio with multiple non-matching public records, none corroborated to this specific retiree by address/occupation. No FEC ideological-PAC contributions and no TX/City lobbyist registration found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4a35871a-00e5-4944-bdce-54536c3a33c6",
+    "name": "Hedrick, Sarah",
+    "resolved_employer": "Booz Allen Hamilton (communications); previously a San Antonio Report writer",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Donor gives occupation 'Comms' / employer 'Booz Allen Hamilton' at a San Antonio 78257 address. Consistent with a Sarah Hedrick who wrote for the San Antonio Report (2013-2016) and moved into corporate communications; SA journalism-to-comms path plus location supports the match, not definitively pinned, hence medium. Per instructions, a rank-and-file communications employee at a defense/government contractor is an employer classification only: industry Consulting / PR, employer noted, but NO military_defense affiliation recorded (she is not an exec/board/owner/lobbyist). No ideological-issue PAC contributions surfaced; no TX/City lobbyist registration found.",
+    "source_url": "https://sanantonioreport.org/tag/sarah-hedrick/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4a2acf7f-ff53-4e9a-816b-fa661e92cfb9",
+    "name": "Grosz, Anne",
+    "resolved_employer": "Vacations To Go (cruise/travel agent), Houston",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Donor occupation 'Cruise Agent' / employer 'Vacations To Go' at a Houston 77080 address. Vacations To Go is a large Houston-based discount cruise/travel agency, so industry is Hospitality / Events (travel services). The specific individual Anne Grosz could not be independently profiled beyond the generic occupation/employer, so no affiliation is forced. No FEC ideological-PAC contributions and no TX/City lobbyist registration found.",
+    "source_url": "https://www.vacationstogo.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

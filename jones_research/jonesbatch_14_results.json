@@ -1,0 +1,258 @@
+[
+  {
+    "donor_id": "08919a3a-59ce-4dbd-920a-5c0c0e6b72cb",
+    "name": "Joe Benson, Jerry",
+    "resolved_employer": "University of Texas at Austin",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Name, employer (University of Texas) and Austin location match a LinkedIn profile for 'Jerry Joe Benson - The University of Texas at Austin.' Reported occupation 'Analyst'; no public bio detail beyond employment. Categorized by employer.",
+    "source_url": "https://www.linkedin.com/in/jerry-joe-benson/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "086c9b2b-6f7e-4a1c-a602-7cc6d42c3a92",
+    "name": "Song, Steven",
+    "resolved_employer": "Diald AI",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Founder & CEO of Diald AI, an AI-powered real estate/proptech platform; architect (Carnegie Mellon, UPenn) with a San Antonio project (historic Gunter Hotel) and a Pearl-district SA residence. Employer and title match donor record exactly.",
+    "source_url": "https://www.citybiz.co/article/731621/qa-with-steven-song-founder-ceo-of-diald-ai/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Clinton Foundation (Clinton Health Access Initiative)", "role": "Executive Council member", "category": "political", "source_url": "https://www.crunchbase.com/person/steven-song-faea", "snippet": "Public profile lists Song on 'the Executive Council of the Clinton Foundation Health Access Initiative,' a Democratic-aligned civic organization."},
+      {"org": "SCI-Arc (Southern California Institute of Architecture)", "role": "Board of Trustees", "category": "civic", "source_url": "https://www.crunchbase.com/person/steven-song-faea", "snippet": "Listed on the Board of Trustees of SCI-Arc."},
+      {"org": "Hammer Museum", "role": "Board of Directors", "category": "civic", "source_url": "https://www.crunchbase.com/person/steven-song-faea", "snippet": "Listed on the board of directors of the Hammer Museum (Los Angeles)."}
+    ]
+  },
+  {
+    "donor_id": "0852a144-a7ee-4592-bf45-1dcca0e5f733",
+    "name": "Quillin, Patty",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Confirmed philanthropist/film producer and wife of Netflix co-founder Reed Hastings; Santa Cruz, CA resident at the exact 849 Almar Ave address on record. Reports occupation 'Not Employed'; a prolific Democratic megadonor.",
+    "source_url": "https://www.hollywoodreporter.com/news/politics-news/netflix-chief-reed-hastings-wife-patricia-quillin-was-a-quiet-force-in-the-2020-election-in-california-4093672/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "ActBlue / Democratic candidates and committees", "role": "Major individual donor", "category": "political", "source_url": "https://projects.propublica.org/527-explorer/contributions/62638777", "snippet": "ProPublica 527 Explorer records a $5,000 Quillin contribution to ActBlue Non-Federal; OpenSecrets and reporting show she gave over $5M to federal Democrats in 2020 (incl. $1.4M for Biden) and $1M to CA Prop 16 (affirmative action)."}
+    ]
+  },
+  {
+    "donor_id": "079b29dc-4080-497e-859a-5de4e5de026b",
+    "name": "Ramcharan, Bede",
+    "resolved_employer": "Indatatech",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Retired Army officer (LTC/Col) and founder/president/CEO of Indatatech, a San Antonio management/supply-chain consulting firm and SDVOSB; named 2015 Minority Vetrepreneur of the Year. Address matches SA 78216.",
+    "source_url": "https://vetrepreneur.com/experiences/bede-ramcharan-bridging-military-leadership-and-business-acumen/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Chamber of Commerce", "role": "Board member", "category": "business", "source_url": "https://vetrepreneur.com/experiences/bede-ramcharan-bridging-military-leadership-and-business-acumen/", "snippet": "Bio: sits on the boards of the San Antonio and Houston Chambers of Commerce."},
+      {"org": "Alamo City Chamber of Commerce", "role": "Executive Director", "category": "business", "source_url": "https://vetrepreneur.com/experiences/bede-ramcharan-bridging-military-leadership-and-business-acumen/", "snippet": "Bio: serves as executive director of the Alamo City Chamber of Commerce."},
+      {"org": "National Veteran-Owned Business Association (NaVOBA)", "role": "Board member", "category": "business", "source_url": "https://vetrepreneur.com/experiences/bede-ramcharan-bridging-military-leadership-and-business-acumen/", "snippet": "Bio: on the board of the National Veterans' Business Association; named its 2015 Minority Vetrepreneur of the Year."},
+      {"org": "San Antonio Veteran's Institute (SAVI)", "role": "Founder", "category": "civic", "source_url": "https://vetrepreneur.com/experiences/bede-ramcharan-bridging-military-leadership-and-business-acumen/", "snippet": "Bio: established SAVI, a nonprofit supporting minority veterans."}
+    ]
+  },
+  {
+    "donor_id": "05329ebb-1405-4be0-88ec-376f77103865",
+    "name": "Zintgraff, Cliff",
+    "resolved_employer": "San Antonio Museum of Science and Technology (SAMSAT)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Ph.D. (Learning Technologies, UNT); Chief Learning Officer and former Executive Director of SAMSAT, a San Antonio STEM-education nonprofit museum; led SASTEMIC's merger into SAMSAT. Matches SA 78256 record.",
+    "source_url": "https://www.zoominfo.com/p/Clifford-Zintgraff/9167042704",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0427a81d-1c4e-4ec9-a9fd-783d57490372",
+    "name": "Heckler, Alexander",
+    "resolved_employer": "LSN Partners, LLC / LSN Law, P.A.",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Alexander P. Heckler, Miami Beach attorney and founder/Managing Partner of LSN Partners, a bipartisan government-affairs/lobbying firm. Prominent Democratic fundraiser (DNC Deputy National Finance Chair 2020, Harris-Walz National Finance Committee). Matches name, employer, Miami Beach 33140.",
+    "source_url": "https://lsnpartners.com/staff/heckler-alexander-p/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic National Committee", "role": "Deputy National Finance Chair (2020); 2024-25 Harris-Walz National Finance Committee", "category": "political", "source_url": "https://lsnpartners.com/staff/heckler-alexander-p/", "snippet": "Bio lists 2020 DNC Deputy National Finance Chair and 2024-2025 Harris-Walz National Finance Committee; described as one of the Democratic Party's most prolific fundraisers/bundlers."},
+      {"org": "Sandy Hook Promise", "role": "Board Member", "category": "gun_control", "source_url": "https://lsnpartners.com/staff/heckler-alexander-p/", "snippet": "Firm bio lists Heckler as a Board Member of Sandy Hook Promise, a national gun-violence-prevention organization."},
+      {"org": "Democratic Governors Association", "role": "Board of Directors; Past Treasurer (2010)", "category": "political", "source_url": "https://lsnpartners.com/staff/heckler-alexander-p/", "snippet": "Bio lists DGA Board of Directors and past Treasurer role."},
+      {"org": "United States Holocaust Memorial Council", "role": "Member (appointed by President Biden)", "category": "civic", "source_url": "https://lsnpartners.com/staff/heckler-alexander-p/", "snippet": "Bio notes Biden appointment to the U.S. Holocaust Memorial Council, the federal governing body of the U.S. Holocaust Memorial Museum."}
+    ]
+  },
+  {
+    "donor_id": "03a543c3-b259-4747-bb37-4c6626f4801e",
+    "name": "Delmont, Jacqueline",
+    "resolved_employer": "Delmont Medical Care",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Jacqueline Delmont, MD/MBA/FACP, board-certified internist and founder (2000) of Delmont Medical Care, a multi-site primary-care practice serving underserved/Medicaid patients in Freeport/Franklin Square/Far Rockaway NY. Matches physician occupation and employer; NYC 10036 residence consistent.",
+    "source_url": "https://delmontmedicalcare.com/our-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "033ebc3f-ee3a-4b13-973a-007d5569af21",
+    "name": "Kothman, Jeffery",
+    "resolved_employer": "Texas Towing",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Jeff/Jeffrey Kothman, manager/officer with Texas Towing (San Antonio-area towing company; also listed as VP at Texas Towing South and a former director of Alanis Towing Corp). Adkins, TX 78101 is in eastern Bexar County, consistent with a San Antonio-area towing operator. No public political/advocacy profile found.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/jeff-kothman/38016572.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "02625536-be91-49c3-adf4-f0c6b2b7b1b4",
+    "name": "Johnson, Ann",
+    "resolved_employer": "Texas House of Representatives (District 134) / Johnson Law Firm PC",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Ann Johnson, Democratic Texas State Representative for HD-134 (Houston) since 2021; attorney (Johnson Law Firm PC), former Harris County chief human-trafficking prosecutor, and a House manager in the 2023 Paxton impeachment. Occupation 'Attorney/State Representative' and Houston mailing address confirm identity.",
+    "source_url": "https://en.wikipedia.org/wiki/Ann_Johnson_(politician)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House of Representatives (District 134)", "role": "State Representative (Democrat), 2021-present", "category": "political", "source_url": "https://house.texas.gov/members/3985/biography", "snippet": "Represents Texas House District 134 (Houston) as a Democrat; served as an impeachment manager in the 2023 Paxton trial."}
+    ]
+  },
+  {
+    "donor_id": "010d25ee-ad73-4733-92d2-cbd84b8799b1",
+    "name": "Coxe, Simone",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Simone Otus Coxe, philanthropist and prolific Democratic mega-donor; wife of venture capitalist/Nvidia board member Tench Coxe (30 years at Sutter Hill Ventures). Co-founder of CalMatters. West Lake Hills TX 78746 residence and 271 FEC donations match the known Austin-based megadonor couple.",
+    "source_url": "https://www.influencewatch.org/person/simone-otus-coxe/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic Party candidates and PACs", "role": "Major individual donor", "category": "political", "source_url": "https://www.influencewatch.org/person/simone-otus-coxe/", "snippet": "In 2023-2024 contributed exclusively to Democratic politicians/PACs including Biden, Tester, Allred, plus $100,000 to Beto O'Rourke's Powered by People super PAC, VoteVets, and Mind the Gap."},
+      {"org": "CalMatters", "role": "Co-founder", "category": "civic", "source_url": "https://www.influencewatch.org/person/simone-otus-coxe/", "snippet": "Co-founder of the nonprofit news outlet CalMatters."}
+    ]
+  },
+  {
+    "donor_id": "0b1d7af4-ca7e-4c59-8e71-1d3d07bbb930",
+    "name": "Grasseschi, Barbara",
+    "resolved_employer": "Puma Springs Vineyards (owner)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Barbara Grasseschi, Healdsburg CA (95448) organic-vineyard owner (Puma Springs, purchased 2000 with husband Tony Crabb), former sales/marketing exec, prominent Sonoma County Democratic philanthropist and bundler. Zip, employer, and 'Farmer' occupation all match.",
+    "source_url": "https://www.linkedin.com/in/barbara-grasseschi-1890691b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Harris Victory Fund / Democratic presidential campaigns", "role": "Major donor & host/bundler", "category": "political", "source_url": "https://www.pressdemocrat.com/2024/11/03/who-are-the-top-north-bay-donors-in-the-presidential-race-and-how-much-did-they-give/", "snippet": "Grasseschi and husband Tony Crabb donated $217,724 to the Harris Victory Fund; she has hosted fundraisers for Jill Biden, Kamala Harris, Elizabeth Warren and Kirsten Gillibrand at her Healdsburg home."},
+      {"org": "Healthcare Foundation Northern Sonoma County", "role": "Board member 2016-2021, Board Chair 2017-2019", "category": "civic", "source_url": "https://healthcarefoundation.net/local-perspectives-on-improving-health-and-wellbeing-for-farmworker-families-in-northern-sonoma-county-barbara-grasseschi/", "snippet": "Served on the Healthcare Foundation board 2016-2021 and as Board Chair 2017-2019; she and Crabb are major donors to the foundation."}
+    ]
+  },
+  {
+    "donor_id": "a871b023-0dfa-4567-ad52-3f1d8b930966",
+    "name": "Castro, Charita",
+    "resolved_employer": "U.S. Government (Office of the U.S. Trade Representative / formerly U.S. Dept. of Labor ILAB)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Charita Libao Castro, PhD, MSW — Director of Labor Affairs at USTR, formerly inaugural Chief of Research & Policy at DOL's Office of Child Labor, Forced Labor & Human Trafficking. Washington DC resident; 'Policy Analyst'/'USG' occupation and DC 20017 zip match a federal labor-policy official.",
+    "source_url": "https://ustr.gov/about-us/policy-offices/press-office/blog-and-op-eds/2021/may/employee-highlight-charita-castro",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8490b532-75a6-45e7-9f97-b474639fc4eb",
+    "name": "Ayala, Cristina",
+    "resolved_employer": "Cristina Ayala Consulting, Strategies & Management (CACSM) (self)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Cristina Ayala, Austin TX-based progressive political/nonprofit fundraising consultant and founder of CACSM (says she has raised $355M+ for progressive causes). Clients include Rochelle Garza, Sakib Shaikh (SA City Council), Vanessa Fuentes, Texas Democratic Party. Austin location, 'Consultant/Self' match.",
+    "source_url": "https://ayalacsm.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "YWCA USA", "role": "Board Vice-Chair (2023-present)", "category": "civic", "source_url": "https://www.ywca.org/who-we-are/board-of-directors/cristina-ayala-gomez", "snippet": "Serves as Vice-Chair of the YWCA USA Board of Directors."},
+      {"org": "New Leaders Council (South Texas Frontera)", "role": "Founder / founding director / national trainer", "category": "political", "source_url": "https://ayalacsm.com/about/", "snippet": "Founded NLC South Texas Frontera, the only chapter on the Border, and served as a LEAD trainer for the national progressive-leadership organization."},
+      {"org": "Progressive political/nonprofit fundraising", "role": "Consultant/fundraiser", "category": "political", "source_url": "https://ayalacsm.com/about/", "snippet": "Works exclusively on progressive political and nonprofit campaigns focused on women, LGBTQIA+, and communities of color; not found in Texas Ethics Commission lobbyist registry (works as fundraiser/consultant, not registered lobbyist)."}
+    ]
+  },
+  {
+    "donor_id": "089631b2-aab6-4163-a0db-68c3b0529195",
+    "name": "Schor, Robert",
+    "resolved_employer": "Kelly (Kelly Services) — data scientist/contractor",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "FEC records for Kensington MD zip 20895 show 'ROBERT SCHOR (KELLY/DATA SCIENTIST)' giving to Cindy Axne for Congress, and a separate 'ROBERT H. SCHOR (Univ. of Rochester faculty, neuroscience emeritus)' at the same zip. Source occupation/employer strings are mixed ('Contractor,Cardiologist,Scientist' / 'Kelly,Virginia Health'); the 'Kelly/data scientist' record matches employer+occupation, but the 'Cardiologist/Virginia Health' element appears to be conflation with Dr. Robert Shor of Virginia Heart (a Reston/Arlington VA cardiologist, different state). Specific person not conclusively resolved.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-KENSINGTON-MD-20-part11.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "EMILY's List / Democratic candidate committees", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-KENSINGTON-MD-20-part11.html", "snippet": "Kensington MD 20895 'Robert Schor' records show contributions to EMILY's List and Cindy Axne for Congress (Democratic). No single-issue pro-Israel/pro-Palestine, oil/gas, or gun PAC ties found."}
+    ]
+  },
+  {
+    "donor_id": "728326b3-d346-48c9-b261-063de2d57944",
+    "name": "Graves, Sherrie",
+    "resolved_employer": "Mission Park Funeral Chapels & Cemeteries (preneed counselor; also listed retired)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Sherrie Graves, San Antonio TX 78260 — preneed (funeral pre-arrangement) counselor at Mission Park Funeral Chapels & Cemeteries; appears in the Gina Jones campaign-finance filings. High FEC count (375) is consistent with a prolific small-dollar recurring Democratic (ActBlue) donor. Employer and occupation match; industry inferred from funeral pre-need sales role.",
+    "source_url": "https://www.missionparks.com/about-us/about-mission-park",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Democratic small-dollar donor network (ActBlue)", "role": "Recurring individual donor", "category": "political", "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003363_20250425_165042.pdf", "snippet": "Very high individual-contribution count (375) consistent with a recurring small-dollar Democratic donor; donated to the Gina Ortiz Jones mayoral campaign. No ideological single-issue PAC ties documented."}
+    ]
+  },
+  {
+    "donor_id": "27ea9dd2-0296-4b5a-ad7c-f2fb5e71c0de",
+    "name": "Valdez, Lupe",
+    "resolved_employer": "Former Dallas County Sheriff / 2018 TX Democratic gubernatorial nominee (retired)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Lupe Valdez, former Dallas County Sheriff (2005-2017) and 2018 Democratic nominee for Texas Governor. Donor address 707 N Edgefield Ave, Dallas 75208 matches public listing 'VALDEZ LUPE - 707 N Edgefield Ave, Dallas' and 222 FEC donations fits a prolific Democratic figure. Occupation 'Not Employed' consistent with retired officeholder.",
+    "source_url": "https://en.wikipedia.org/wiki/Lupe_Valdez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic Party of Texas", "role": "2018 gubernatorial nominee; former Dallas County Sheriff", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Lupe_Valdez", "snippet": "Valdez served as Dallas County Sheriff 2005-2017 and was the 2018 Democratic nominee for Governor of Texas."}
+    ]
+  },
+  {
+    "donor_id": "050f4062-b69d-4d54-afbd-4669f23d1524",
+    "name": "Martinez, Suzanne",
+    "resolved_employer": "San Antonio College (Alamo Colleges)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Suzanne Martinez, professor in the Government/Political Science department at San Antonio College (Alamo Colleges District) since 1999; MA Political Science, UT San Antonio. Occupation 'professor' and employer 'Alamo Colleges' match. No advocacy or lobbyist records found.",
+    "source_url": "https://www.ratemyprofessors.com/professor/1941321",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d3ed4fb1-47bc-49d4-b193-8140f4db8431",
+    "name": "Eckmann, Kaitlen",
+    "resolved_employer": "Rosenberg Library (Galveston & Texas History Center)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Kaitlen Eckmann, archivist at the Galveston & Texas History Center, part of the Rosenberg Library in Galveston, TX. Named directly in Rosenberg Library/GTHC materials and a genealogy podcast. Occupation, employer, and Galveston 77550 location all match. No PAC or lobbyist records found.",
+    "source_url": "https://www.galvestonhistorycenter.org/contact-the-galveston-and-texas-history-center",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "86a13f5b-5bc2-4c7f-a841-4d4b2022bf74",
+    "name": "Curtin, Peter",
+    "resolved_employer": "City of Hope (hematologist-oncologist)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Peter T. Curtin, MD, hematologist-oncologist (leukemia) at City of Hope; previously 13 years as clinical director of the Blood & Marrow Transplantation Division at UC San Diego, consistent with the La Jolla 92037 home address. Occupation 'Physician' and employer 'City of Hope' match exactly. No PAC/political records found (fec_donation_count 0).",
+    "source_url": "https://www.cityofhope.org/curtin-peter",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "85a140e5-fc0e-4720-a9ed-bcd532675b94",
+    "name": "Stokes, Kathryn",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Likely Katy (Kathryn) Stokes, self-described 'Community Activist' and member of the Board of Directors of BRC (Bowery Residents' Committee), a NYC homeless-services nonprofit. Chelsea/10011 NYC location and 'Not employed' occupation are consistent with an unpaid activist/board volunteer. Identity match on name + NYC + activist profile, not independently confirmed to the exact address.",
+    "source_url": "https://www.brc.org/leadership/katy-stokes",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bowery Residents' Committee (BRC)", "role": "Board of Directors member / community activist", "category": "civic", "source_url": "https://www.brc.org/leadership/katy-stokes", "snippet": "Listed as 'Community Activist' on BRC's board; joined 'to contribute to and support the mission of this profoundly impactful organization' serving homeless New Yorkers."}
+    ]
+  }
+]

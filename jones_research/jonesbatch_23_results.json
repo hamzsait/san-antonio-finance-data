@@ -1,0 +1,231 @@
+[
+  {
+    "donor_id": "09b4b65c-3ec1-4939-a638-b48aeb17457b",
+    "name": "Rice, Katherine",
+    "resolved_employer": "Partner, GingerBread Capital (women-focused venture fund); CEO of Rice Capital Partners",
+    "industry": "Venture Capital",
+    "confidence": "high",
+    "evidence": "Mill Valley, CA venture investor; 30-yr exec (Altamont, Williams-Sonoma, Bain, Clorox). Firm bio and Victory Fund page confirm same person; occupation 'Partner' at GingerBread Capital matches donor record.",
+    "source_url": "https://gingerbreadcap.com/people/katherine-rice/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LGBTQ+ Victory Fund", "role": "Partner/team member; senior LGBTQ+ policy advisor to Biden 2020 campaign; CA DNC delegate", "category": "political", "source_url": "https://victoryfund.org/team/katherine-rice/", "snippet": "Bio lists her as Partner, GingerBread Capital; senior policy advisor for LGBTQ+ issues on the Biden presidential campaign; co-chair of Women for Biden and LGBTQ+ Finance Councils; California at-large DNC delegate."}
+    ]
+  },
+  {
+    "donor_id": "099f2dd4-3f32-4eec-9f6d-c36b67939f85",
+    "name": "Vasquez Ruiz, Margaret",
+    "resolved_employer": "Retired educator (former teacher) - San Antonio",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Donor record lists 'Educator / Retired,' San Antonio 78216. No public bio, FEC PAC record, or TEC lobbyist entry discoverable for this specific person; several same-named San Antonio residents prevent confirmation. Classified by stated occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "070b54ec-ed73-47a0-b027-c0552c1fa619",
+    "name": "Boyer, Pattie",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Identity corroborated: public records tie 'Pattie R McDaniel Boyer' to 6090 W Fort Valley Ranch Rd, Flagstaff, AZ (exact donor address), household of Ronald C Boyer. No public occupation, FEC PAC, or lobbyist record found.",
+    "source_url": "https://clustrmaps.com/person/Boyer-86r2al",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0456cf47-8a94-4d0d-a4f8-a05dedc3b087",
+    "name": "Evbagharu, Odus",
+    "resolved_employer": "Communications Director / former Chair, Harris County Democratic Party",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Well-documented Houston Democratic operative: Harris County Democratic Party communications director, later youngest and first African American HCDP Chair; former chief of staff to state Rep. Jon Rosenthal. Appears in TEC campaign-finance records as a political contributor.",
+    "source_url": "https://defendernetwork.com/news/local-state/harris-county-democrats-elect-new-party-chair-odus-evbagharu/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Harris County Democratic Party", "role": "Communications Director; later Party Chair", "category": "political", "source_url": "https://defendernetwork.com/news/local-state/harris-county-democrats-elect-new-party-chair-odus-evbagharu/", "snippet": "Harris County Democrats elected Odus Evbagharu as new party chair; he had served as the party's communications director and coordinated campaign staff."}
+    ]
+  },
+  {
+    "donor_id": "043791d9-42e4-426c-ad84-ab4c2ee116b6",
+    "name": "Kollars, Josh",
+    "resolved_employer": "Cardiothoracic anesthesiologist, Joshua P. Kollars M.D., PLLC (Methodist Hospital, San Antonio)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Donor record (Physician, Joshua P Kollars MD PLLC, SA 78209/Alamo Heights) matches Dr. Joshua P. Kollars, MD, San Antonio anesthesiologist, Mayo Clinic-trained, ~22 yrs practice, affiliated with Methodist Hospital. No FEC PAC or TEC lobbyist record found.",
+    "source_url": "https://health.usnews.com/doctors/joshua-kollars-3834746",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "036f0a92-2bd8-47ee-aa79-728ac296f1f1",
+    "name": "Waller, Clifford",
+    "resolved_employer": "Retired; formerly principal of C.S. Waller Investments, LLC and officer/director of DC Family Enterprises, Inc.",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Clifford S. Waller, age ~88, PO Box 12349 / 180 W Mandalay Dr, San Antonio 78212 (exact PO Box match to donor). Corporation records list him as President/Treasurer/Director of DC Family Enterprises Inc. and principal of C.S. Waller Investments LLC. Prolific individual Democratic small-dollar donor (261 FEC gifts), listed 'Not Employed' now, consistent with a retired investor.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/clifford-s-waller/29874016.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0058b559-ba0e-4edc-9b2c-d8e4bb5f4539",
+    "name": "Torrence, Travis",
+    "resolved_employer": "Shell USA - U.S. Head of Legal / VP & Associate General Counsel (Global Litigation, Bankruptcy & Credit)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Travis Alexander Torrence, Houston attorney (Yale Law 2005; State Bar of Texas), is Shell's U.S. Head of Legal - the first Black person in that role. Occupation 'Attorney' + employer 'Shell Oil' and Houston 77018 location match the donor exactly. Formerly a senior associate at Fulbright & Jaworski.",
+    "source_url": "https://texaslawbook.net/travis-torrence-shell-usa/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National LGBTQ+ Bar Association / Foundation", "role": "Long-standing board member; President of the National LGBTQ+ Bar Foundation", "category": "civic", "source_url": "https://lgbtqbar.org/bar-news/pride-month-spotlight-travis-torrence/", "snippet": "Torrence is a long-standing board member of the National LGBTQ+ Bar and was recently appointed President of the National LGBTQ+ Bar Foundation."}
+    ]
+  },
+  {
+    "donor_id": "4bd34979-9d9b-4879-b3cc-af97df602464",
+    "name": "Nicholson, Arthur",
+    "resolved_employer": "Law Office of Arthur Nicholson - owner/attorney (labor & employment law); possibly semi-retired",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Arthur C. Nicholson III, solo labor-employment attorney, listed at 230 Dwyer Ave Unit 503, San Antonio 78204 - an exact match to the donor address. Licensed in Texas since 1982 (UT Law, Georgetown undergrad), clerked for Chief Judge William Sessions, ex-partner at Cox & Smith. Donor is marked 'Not Employed' (165 FEC gifts), suggesting he may now be retired/semi-retired, but the unique address match strongly ties him to the attorney.",
+    "source_url": "https://nicholaw.com/about-art-nicholson/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2513dc3c-b810-42b9-8855-cf1e4d795122",
+    "name": "Hinojosa, Cynthia",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor at 5506 Statice Hunt, San Antonio 78253, listed 'Not Employed' (93 FEC gifts). Multiple distinct people named Cynthia Hinojosa exist in the San Antonio area (nurse, recruiter, etc.); none could be tied to this specific address/zip, so identity and any former career remain unconfirmed. No lobbyist registration or ideological-PAC contribution found.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003428_20250530_171100.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5aa4f212-fb36-4922-8f7e-dfa0839f26a4",
+    "name": "Lopez, Theresa F",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor at 407 Ken Dr, San Antonio 78258, listed 'Not Employed' (80 FEC gifts). 'Theresa/Teresa Lopez' is an extremely common name in San Antonio (thousands of records); no public profile, obituary, or LinkedIn could be tied to this specific address/zip, so identity and former occupation are unconfirmed. No lobbyist registration or ideological-PAC contribution found.",
+    "source_url": "https://www.spokeo.com/Theresa-Lopez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "af3b08ff-b182-48b4-a8dd-03f33bda7f74",
+    "name": "Dickson, Cassandra",
+    "resolved_employer": "Self-employed writer",
+    "industry": "Media",
+    "confidence": "low",
+    "evidence": "Self-described writer at 638 NW Skyline Crest Rd, Portland OR 97229. No public author profile could be confirmed for this specific person; multiple same-named individuals exist. Industry classified by generic occupation (writer).",
+    "source_url": "https://www.travelportland.com/about-us/meet-our-writers/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e3c7d801-4e7c-4ef3-98bf-2f4fbc64fbf3",
+    "name": "Platt, Jeremy",
+    "resolved_employer": "Not employed (retired)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Public-records lookup confirms a Jeremy B Platt at 2265 Bowdoin St, Palo Alto CA 94306, born 1949 (age 76), consistent with the 'Not Employed'/retired occupation. No profession, PAC records, or advocacy roles documented; an earlier 'housing advocate' hit was a different person (Palo Alto Forward staff is Jeremy Levine).",
+    "source_url": "https://clustrmaps.com/person/Platt-8mtbaf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "732f2c6f-dc97-43bd-b1f8-c9c8295d2adf",
+    "name": "Lipman, Barton",
+    "resolved_employer": "Boston University, Professor of Economics (microeconomic theory)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Barton (Bart) Lipman is a Professor of Economics at Boston University (Brookline resident, matching zip 02446), a micro theorist in decision theory/game theory/mechanism design; former co-editor of Econometrica and founding editor of Theoretical Economics. Faculty bio read in full - only academic-society fellowships (Econometric Society, Game Theory Society, SAET), no public-policy advocacy, PAC, or lobbyist ties.",
+    "source_url": "https://www.bu.edu/econ/profile/barton-lipman/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6d4182da-b984-4a79-86be-1057273f2e90",
+    "name": "Kirk, Peter",
+    "resolved_employer": "Retired (former U.S. Air Force)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Retired USAF service member at 9726 Quiet Lk, San Antonio TX 78254; FEC records list employer 'USAF' / occupation 'RETIRED' at that exact address. Prolific small Democratic donor (Harris, Ossoff, Mark Kelly). (retired USAF)",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=peter+kirk&contributor_city=SAN+ANTONIO&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2bce61c7-721c-42f5-9bd5-38b2ec65bd2b",
+    "name": "Banas, ED",
+    "resolved_employer": "VIA Metropolitan Transit (bus driver)",
+    "industry": "Transportation",
+    "confidence": "high",
+    "evidence": "Bus driver for VIA Metropolitan Transit; FEC records confirm ED BANAS at 1330 Temple Square, San Antonio TX 78245, employer VIA Metropolitan Transit, occupation Bus Driver. Recurring small Democratic donor (Talarico, Fetterman, DNC).",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=banas&contributor_city=SAN+ANTONIO&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cb3704b4-7f44-4cf3-9b31-cf343c7a7c94",
+    "name": "King, William D",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Not-employed individual in Austin TX 78756; FEC records confirm William D. King, Austin 78756, occupation 'NOT EMPLOYED', small recurring ActBlue-earmarked donor to mostly Democratic candidates. No discoverable public bio; identity corroborated by name/zip/occupation match only.",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=william+king&contributor_city=AUSTIN&contributor_state=TX&contributor_zip=78756",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "abfeb3fd-5807-4f8c-b4f6-34fa2f48355a",
+    "name": "Gonzalez, Charles",
+    "resolved_employer": "Ogletree, Deakins, Nash, Smoak & Stewart P.C. (Of Counsel, Government Affairs)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "This is former U.S. Rep. Charlie Gonzalez (D-TX20, 1999-2013), son of Rep. Henry B. Gonzalez, who joined Ogletree Deakins' San Antonio office in 2015 as Of Counsel handling Government Affairs/ADR. FEC records confirm Charles Gonzalez, attorney, Ogletree Deakins, San Antonio 78212, donating to Bexar County Democratic Party and TX Democratic candidates.",
+    "source_url": "https://www.jdjournal.com/2015/06/22/charlie-gonzalez-former-congressman-and-judge-joins-ogletree-deakins",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "U.S. House of Representatives (Texas 20th District)", "role": "Former U.S. Representative (D), 1999-2013", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Charlie_Gonzalez", "snippet": "Charlie Gonzalez represented Texas's 20th congressional district as a Democrat from 1999 to 2013, succeeding his father Henry B. Gonzalez."},
+      {"org": "Ogletree Deakins", "role": "Of Counsel, Government Affairs", "category": "business", "source_url": "https://www.jdjournal.com/2015/06/22/charlie-gonzalez-former-congressman-and-judge-joins-ogletree-deakins", "snippet": "Charlie Gonzalez, a seven-term congressman and former judge, joined Ogletree Deakins in its San Antonio office (Government Affairs)."}
+    ]
+  },
+  {
+    "donor_id": "9e2f7c3e-7d7d-4fe7-8815-3322d0d68fa9",
+    "name": "Fowler, Sharon P",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as Not Employed at 205 Kiras Ct, Austin/Dripping Springs TX 78737 (Hays County) with 377 FEC donations, consistent with a retiree/high-frequency small donor. A prominent Sharon P Fowler is a diet-soda/aspartame epidemiology researcher at UT Health Science Center San Antonio, but that person is San Antonio-based (~70 mi away), so identity could not be confirmed; 95+ Sharon Fowlers exist in Texas.",
+    "source_url": "https://www.spokeo.com/Sharon-Fowler/Texas",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9807a16e-82ac-4777-9b14-77b290f8c8c7",
+    "name": "Guevara, Ramiro",
+    "resolved_employer": "Self-employed (specific business unconfirmed)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-employed resident at 2902 Lantana Dr, Laredo TX 78045 (confirmed via ClustrMaps public records). A now-closed 'Guevara Construction' general contractor existed at 301 International Blvd, Laredo, but ownership could not be tied to this Ramiro Guevara; the Guevara Construction with a public 'About' page (guevaragc.com) is a separate Bay Area firm founded by Jose Guevara. Other same-named people (Chesmar Homes construction manager in Houston; a Mexico City law-firm partner) are different individuals.",
+    "source_url": "https://clustrmaps.com/person/Guevara-8c35ag",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "58cacf81-4f00-4936-8507-8193042de926",
+    "name": "Spurr, Charles",
+    "resolved_employer": "Retired software engineer (formerly KAYAK.com)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Retired software engineer at 139 Broadway St, Wakefield MA 01880; FEC records list him as software engineer at KAYAK.com in 2020 and as 'retired software engineer' in later filings. Consistent, recurring $100 ActBlue donations to Democratic candidates (Warnock, Theresa Greenfield, John Lewis, Rashida Tlaib). (retired)",
+    "source_url": "https://www.city-data.com/elec2/20/elec-WAKEFIELD-MA-20-part5.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

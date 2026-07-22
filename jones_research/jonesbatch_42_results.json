@@ -1,0 +1,236 @@
+[
+  {
+    "donor_id": "7d75f73c-d5ab-4857-aa8e-a04f55a670f0",
+    "name": "Ayee, Norma",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "FEC individual records confirm Norma Ayee at 703 N Lakeside Dr, Lake Worth Beach FL 33460; small ActBlue Democratic gifts (e.g. $35 to Tammy Duckworth). Self-reported Not Employed. Address, zip and small-dollar Democratic pattern match.",
+    "source_url": "https://chicagocitywire.com/norma-ayee-donates-35-to-tammy-l-duckworths-campaign-committee-in-march/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7ae58a05-9f98-4659-a52f-fd68d72bf53b",
+    "name": "Martinez, Ramiro",
+    "resolved_employer": "Professor of Criminology & Criminal Justice / Sociology, Northeastern University (donor record 'NEU / college teacher')",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Ramiro Martinez Jr., criminology/sociology professor at Northeastern (NEU), San Antonio native; Chestnut Hill MA 02467 is adjacent to campus. Matches 'college teacher / NEU'. 93 FEC gifts, Democratic-leaning; no ideological PAC or TX lobbyist ties found.",
+    "source_url": "https://cssh.northeastern.edu/faculty/ramiro-martinez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "73d44f66-9be8-4129-8b4d-2dae4fb53fb5",
+    "name": "Lockhart, Mary B",
+    "resolved_employer": "Co-Manager, Lockhart Hacienda, LLC (short-term rentals), Alpine TX; LBJ School graduate",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Mary Bell Lockhart, 107 E Lockhart Ave, Alpine TX 79830; Co-Manager of Lockhart Hacienda LLC and Brewster County Democratic Party Chair. Address and heavy Democratic pattern (506 FEC gifts, lean 1.0) corroborate. No TX lobbyist registration found.",
+    "source_url": "https://www.linkedin.com/in/mary-bell-lockhart-1a13615/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Brewster County Democratic Party", "role": "County Chair", "category": "political", "source_url": "https://bigbendsentinel.com/2024/02/20/early-voting-for-march-5-primary-election-runs-now-through-friday-march-1/", "snippet": "Mary Bell Lockhart is running to continue her role as Brewster County Democratic Party Chair; resides at 107 East Lockhart Avenue, Alpine."}
+    ]
+  },
+  {
+    "donor_id": "6a771c27-382d-459f-857e-d436933b967d",
+    "name": "Goldman, Ira",
+    "resolved_employer": "Government/industry-affairs consultant, Bartlett Hill Enterprises (nuclear-medicine/radiopharmaceutical industry), Concord MA",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Ira Goldman, 61 Bartlett Hill Rd, Concord MA 01742; government/industry affairs consultant (Bartlett Hill Enterprises) for the nuclear-medicine industry, former trade-association officer. Matches Consultant / Bartlett Hill Enterprises. No ideological PAC or TX lobbyist ties.",
+    "source_url": "https://www.linkedin.com/in/irangoldman/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Massport Community Advisory Committee (MCAC)", "role": "Treasurer, Executive Committee (Concord representative)", "category": "civic", "source_url": "https://massportcac.org/committees/ira-goldman/", "snippet": "He serves as Treasurer of the MCAC Executive Committee and represents Concord on the Advisory Committee, Finance Subcommittee, and Executive Committee."}
+    ]
+  },
+  {
+    "donor_id": "3ad56560-a204-4edd-94ff-67b035b7cb30",
+    "name": "Bayley, Jacquie",
+    "resolved_employer": "Philanthropist / independent PR professional (donor record 'Not Employed'); Bellevue WA",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Jacquie R. Bayley, 13436 NE 36th St, Bellevue WA 98005 (the '13436' in the record is the street number). Philanthropist and past Pacific Northwest Region President of Hadassah, The Women's Zionist Organization of America, and Hadassah Foundation board member 2017-2022. Occupation reported Not Employed. No TX lobbyist registration.",
+    "source_url": "https://hadassahfoundation.org/news/philanthropist-jacquie-bayley-creates-fund-for-girls-leadership-with-500000-gift-to-the-hadassah-foundation/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hadassah, The Women's Zionist Organization of America", "role": "Past Region President, Pacific Northwest", "category": "pro_israel", "source_url": "https://hadassahfoundation.org/news/philanthropist-jacquie-bayley-creates-fund-for-girls-leadership-with-500000-gift-to-the-hadassah-foundation/", "snippet": "She is described as a 'past region president of the Pacific Northwest region' of Hadassah, The Women's Zionist Organization of America."},
+      {"org": "Hadassah Foundation", "role": "Board member 2017-2022", "category": "pro_israel", "source_url": "https://hadassahfoundation.org/news/philanthropist-jacquie-bayley-creates-fund-for-girls-leadership-with-500000-gift-to-the-hadassah-foundation/", "snippet": "She 'served as a board member from 2017-2022' and made a $500,000 gift to the Hadassah Foundation for girls' leadership in Israel and the American Jewish community."}
+    ]
+  },
+  {
+    "donor_id": "1d04e71b-27f2-4bcd-a3fe-d9bdef1631f3",
+    "name": "Boxerman, Samuel",
+    "resolved_employer": "Partner, Environmental practice group, Sidley Austin LLP (Washington, D.C.)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Samuel B. Boxerman is a partner in Sidley Austin's D.C. environmental practice (ex-DOJ Environmental Enforcement trial attorney; GW Law adjunct). Corroborated by attorney occupation, Sidley employer, Bethesda MD 20817 zip. FEC shows a $250 Biden Victory Fund gift (2020) — a general Democratic committee, not a tracked ideological PAC. No TX lobbyist registration. His energy-sector work is client representation, not a personal policy-advocacy affiliation.",
+    "source_url": "https://www.sidley.com/en/people/b/boxerman-samuel-b",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ffc20fa4-c8a0-44d1-8130-29cb83208b5d",
+    "name": "Hoelting, Anna",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed occupation 'Not Employed', San Antonio (Alamo Heights) 78209. No public bio, LinkedIn, news, or leadership page found for this specific individual. Prior FEC matching indicates a prolific small-dollar Democratic pattern (255 gifts, lean 1.0), but no specific tracked ideological PAC (AIPAC/J Street/oil-gas/gun/defense) could be documented. No TX Ethics Commission lobbyist registration. Quiet outcome — no affiliation forced.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c5016812-46b3-46e7-8e6f-ddff735a7ab0",
+    "name": "Pilar Trevino, Mary",
+    "resolved_employer": "City of San Antonio (Safety / Traffic Enforcement)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Occupation 'Safety Traffic Enforcement' for the City of San Antonio, resident 78228; employer places her in Government. Common name; no distinguishing public bio or advocacy profile located beyond the given occupation/employer. FEC PAC search found no ideological-PAC contributions; no TX Ethics Commission lobbyist registration. Quiet outcome — no affiliation forced.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "20eb633f-881d-4d6c-b32f-1058db37f39b",
+    "name": "Hernandez, Irene",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed occupation 'Not Employed', San Antonio 78260. Extremely common name; searches returned no confirmable living individual's public profile, LinkedIn, or leadership page. Prior FEC matching indicates a prolific small-dollar Democratic pattern (224 gifts, lean 1.0), but no specific tracked ideological PAC could be documented. No TX Ethics Commission lobbyist registration. Quiet outcome — no affiliation forced.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ed2f153d-dff5-4f0f-89cf-a6b867e114d3",
+    "name": "Buckwalter-Poza, Rebecca",
+    "resolved_employer": "Senior Fellow / Senior Aron Justice Counsel, Alliance for Justice (progressive judicial-advocacy nonprofit), Washington DC",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Rebecca Pilar Buckwalter-Poza is Senior Fellow at Alliance for Justice since 2023; attorney/writer, first named plaintiff in the First Amendment suit barring Trump from blocking users on Twitter, co-founder of Prism, ex-DNC deputy national press secretary. Strongly corroborated (DC 20009, lawyer, AFJ employer). No AIPAC/J Street/oil-gas/gun/defense contributions; no TX lobbyist registration.",
+    "source_url": "https://afj.org/team/rebecca-buckwalter-poza/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LPAC (Team LPAC)", "role": "Board Member", "category": "political", "source_url": "https://www.teamlpac.com/the-latest/new-board-members", "snippet": "LPAC, 'the only political organization dedicated to building political strength and representation for and with LGBTQ women,' announced Rebecca Buckwalter-Poza as a new board member, describing her as an attorney, writer, and advocate."}
+    ]
+  },
+  {
+    "donor_id": "e6464685-c72d-43b9-b240-011c6807c294",
+    "name": "Teneyuca, Sharyll",
+    "resolved_employer": "Solo attorney, The Law Office of Sharyll S. Teneyuca, San Antonio (family/criminal law); donor record 'Self'",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Sharyll J. Teneyuca is a San Antonio solo-practice attorney (NYU Law), niece of labor organizer Emma Tenayuca and co-author of the bilingual children's book 'That's Not Fair! / No Es Justo!'. ZIP 78201, attorney/'Self' occupation, and heavily Democratic pattern (376 gifts, lean 1.0) match. No ideological-PAC activity or lobbyist registration found.",
+    "source_url": "https://www.amazon.com/Thats-Not-Fair-%C2%A1No-Justo/dp/0916727335",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dcee4a68-95a0-4252-b821-35fa425fc639",
+    "name": "Mize, Sharon",
+    "resolved_employer": "Retired / not employed (donor record 'Not Employed')",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Sharon Mize, retired, San Antonio 78216, matches an FEC record (Sharon Mize, retired, 78216) showing a $250 EMILY's List donation in 2014. ZIP, retired status and prolific Democratic pattern (1048 gifts) corroborate. No public bio beyond donor-record occupation. No lobbyist registration; no pro-Israel/Palestine/oil-gas/gun/defense PAC activity.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sharon+Mize&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "EMILY's List", "role": "Individual donor ($250, 2014)", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sharon+Mize&contributor_state=TX", "snippet": "FEC data lists a Sharon Mize (retired, San Antonio 78216) with a $250 contribution to EMILY's List, a pro-choice Democratic PAC, on April 15, 2014 — consistent with the donor's ZIP and heavy Democratic pattern."}
+    ]
+  },
+  {
+    "donor_id": "db0fc83f-7ac8-4a66-ad9e-88360f4f8b44",
+    "name": "Figueroa, Andrea",
+    "resolved_employer": "Director of Youth Success, San Antonio Area Foundation (donor 'SAAFdn'); former Executive Director, Empower House SA / Martinez Street Women's Center",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Andrea Figueroa (MPA; UTSA Mexican American Studies) is Director of Youth Success at the San Antonio Area Foundation — matching donor employer 'SAAFdn' and 'Philanthropy' occupation, ZIP 78229. Full bio reads (MediaJustice board, Asset Funders Network, Empower House) confirm identity and multiple civic/advocacy roles. No lobbyist registration; no pro-Israel/Palestine/oil-gas/gun/defense PAC activity.",
+    "source_url": "https://mediajustice.org/board/andrea-figueroa/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Planned Parenthood South Texas (San Antonio)", "role": "Board member", "category": "civic", "source_url": "https://assetfunders.org/person/andrea-figueroa/", "snippet": "Published bio material lists Andrea Figueroa as a board member of Planned Parenthood San Antonio, a reproductive-rights advocacy affiliation, alongside her nonprofit leadership at the San Antonio Area Foundation."},
+      {"org": "MediaJustice", "role": "Board member (Board Development Chair)", "category": "civic", "source_url": "https://mediajustice.org/board/andrea-figueroa/", "snippet": "MediaJustice board profile lists Andrea Figueroa as a board member and details advocacy roles: C.A.U.S.A. volunteer chair, Digital Inclusion Alliance steering committee, San Antonio Women's March volunteer, and the Pride Center 2019 Icon Award for LGBT leadership."}
+    ]
+  },
+  {
+    "donor_id": "66090224-1dde-4f99-b9ac-6863c81467bb",
+    "name": "Hansen, Katrinka",
+    "resolved_employer": "Appraisal Review Board member (2025-2026 tax years), Bexar Appraisal District (donor 'Bexar appraisal')",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Bexar Appraisal District board documents (December 2024/January 2025 packet) record Katrinka Hansen appointed to the Appraisal Review Board for tax years 2025-2026 — matching 'Board member / Bexar appraisal'. Uncommon name plus role confirmation supports identity; no further public bio. No lobbyist registration; no ideological-PAC activity found.",
+    "source_url": "https://bcad.org/wp-content/uploads/2025/10/BOD-Digital-Packet-January-2025.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2fcd74fc-501e-4d17-87e3-e9ab8aa403d8",
+    "name": "Carlson, Allen",
+    "resolved_employer": "Not employed / retired (donor record 'Not Employed'); San Antonio 78230",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "'Allen Carlson' is a common name and no public profile could be tied specifically to this donor beyond the donor-record occupation and the 78230 address (Old Hickory Trl). A San Antonio engineering firm 'Carlson, Brigance & Doering' exists but nothing links it to this individual, so it is not attributed. FEC PAC and TX lobbyist searches returned no confirmable ideological-PAC activity or registration for this specific person.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1ae487d1-d3bf-4479-9a13-cf44772681ff",
+    "name": "Surratt, Cynthia",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "FEC individual-contribution records (via City-Data) show a Cynthia Surratt in San Antonio 78220, listed as not employed, with a $25 ActBlue contribution (2020). Matches name, zip, occupation, and very high donation count (826), consistent with a prolific ActBlue small-dollar Democratic donor. No ideological-PAC contributions; no TX Ethics Commission lobbyist registration; no personal bio page.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part206.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d64b3671-debf-4460-8d22-6787697187cf",
+    "name": "Stephenson, Cheri",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "People-record aggregators place a Cheri A. Stephenson in Monkey Island / Afton, OK, consistent with the donor's Monkey Island, OK address, but no occupation, employer, or public profile could be confirmed. fec_donation_count 0 and no FEC ideological-PAC contributions found. No TX Ethics Commission lobbyist registration; no bio/LinkedIn page. Filing lists occupation Not Employed.",
+    "source_url": "https://radaris.com/p/Cheri/Stephenson/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "03d34f29-3ce3-40b1-90a8-0f342086abd6",
+    "name": "McCue, Jebron",
+    "resolved_employer": "Not Employed (donor record); Austin TX 78730",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Travis County property records confirm 'JEBRON I MCCUE & MCCUE T EUGENE' own 5500 River Place Blvd, Austin TX 78730 — an exact address match. Occupation Not Employed; no employer, license, or personal bio found (uncommon name). fec_donation_count 606, consistent with a prolific small-dollar Democratic donor, but no specific ideological-PAC contributions found. No TX Ethics Commission lobbyist registration.",
+    "source_url": "http://www.city-data.com/austin-properties/R/River-Place-Boulevard-11.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8f2726db-6c3e-4bcd-b627-5f02547362b5",
+    "name": "Barnum, Sue",
+    "resolved_employer": "Self-employed psychotherapist (donor record 'self / psychotherapist'); San Antonio (Alamo Heights) 78209",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Filing lists occupation psychotherapist, self-employed, at 301 Parland Pl, San Antonio 78209 (Alamo Heights); classified under Healthcare by occupation. Therapist-directory/licensing searches did not return a definitive dedicated profile, so identity beyond the self-reported occupation is not fully corroborated. No FEC ideological-PAC contributions; no TX Ethics Commission lobbyist registration.",
+    "source_url": "https://www.psychologytoday.com/us/therapists/tx/san-antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "631f15b5-3514-443c-8323-d99b09240bf7",
+    "name": "Loeb, Robert",
+    "resolved_employer": "President, Robert Loeb and Company LLC / SurePoint Self Storage (self-storage development & management), Houston",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Donor is a Houston 'real estate'/'Businessman' self-employed principal at 4521 Banning Dr, Houston 77027. SurePoint Self Storage team page and public records confirm Robert Loeb, President of Robert Loeb and Company LLC (business address 4265 San Felipe St Ste 1100, Houston 77027), owner/co-developer of self-storage facilities across San Antonio, Houston and Kansas City. Full bio read shows no board seats, policy-advocacy, or ideological-org affiliations. No FEC ideological-PAC contributions; no TX Ethics Commission lobbyist registration.",
+    "source_url": "https://www.surepointselfstorage.com/meet-our-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

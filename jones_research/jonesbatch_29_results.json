@@ -1,0 +1,244 @@
+[
+  {
+    "donor_id": "bf970697-6b52-4e09-9623-730f8729c1bd",
+    "name": "Andonie, Gabriel",
+    "resolved_employer": "BlueSite Engineering LLC (founding principal)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Gabriel Andonie is founding principal of BlueSite Engineering, a San Antonio civil engineering firm; prior roles at KFW Engineers, Stantec, MSG Management; MBA from SMU. LinkedIn/OpenCorporates confirm; San Antonio 78209 matches.",
+    "source_url": "https://www.linkedin.com/in/gandonie/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bc7faf4e-835b-4b83-913d-947091c1e2c9",
+    "name": "Miller, Deborah",
+    "resolved_employer": "The TESH Project LLC (owner/founder)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Deborah Miller owns/founded The TESH Project LLC, a San Antonio consultancy providing owner's-representation/project management for custom home builds and renovations; former attorney and mediator with a design background. CorporationWiki and firm site confirm; 78248 matches.",
+    "source_url": "https://www.theteshproject.com/consulting/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bbcf6054-6e68-4dbd-83e8-d12a3a947dab",
+    "name": "Land, Diane",
+    "resolved_employer": "DT Land Group, Inc. (commercial real estate broker/CPA, owner)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Diane (Tipton) Land is an Austin commercial real estate broker/CPA who owns DT Land Group, a commercial property-management firm, and is the wife of former Austin Mayor Steve Adler. Prolific Democratic donor (117 FEC gifts); Austin 78701 matches. Not related to any Land Commissioner.",
+    "source_url": "https://littlesis.org/person/362087-Diane_Land",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic Party / Pete Buttigieg 2020 campaign", "role": "Donor and campaign bundler", "category": "political", "source_url": "https://therevolvingdoorproject.org/person-of-interest/diane-land/", "snippet": "She is a bundler for Pete Buttigieg's 2020 presidential campaign and has made substantial Democratic contributions, including to the DNC ($59,300) and the Obama Victory Fund 2012 ($36,300)."}
+    ]
+  },
+  {
+    "donor_id": "b97901ce-6e9a-47aa-a7bc-253a66432b38",
+    "name": "Lee, Karen",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor lists 'Not Employed' at a PO Box in Ross, CA (affluent Marin County town). No public profile could be corroborated to this specific individual across web, FEC, or OpenSecrets searches; identity unresolved.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b7def0aa-1aa5-4944-92ac-780b5058f6af",
+    "name": "Smyle, Jim",
+    "resolved_employer": "Self-employed (independent environmental/natural-resources consultant)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Jim Smyle is a San Antonio-based independent consultant in environment, natural resources and rural development; 18 years (1988-2006) at the World Bank as Senior Natural Resources Management Specialist; President/Board Chairman of The Vetiver Network International. San Antonio 78212 matches.",
+    "source_url": "https://aquiferalliance.org/geaa-board-members/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Greater Edwards Aquifer Alliance", "role": "Board member", "category": "civic", "source_url": "https://aquiferalliance.org/geaa-board-members/", "snippet": "Jim serves as an independent consultant specializing in environment, natural resources and rural development... currently President/Board Chairman of The Vetiver Network International and member of San Antonio's Watershed Improvement Advisory Committee."}
+    ]
+  },
+  {
+    "donor_id": "b7cf5f4a-0b3e-4fd5-b49a-d4abe6dc44bf",
+    "name": "Hartley, Diane",
+    "resolved_employer": "McKissock (general manager, unconfirmed entity)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor lists occupation 'GM' at 'McKissock' in Dallas 75209. No independent bio/LinkedIn/leadership page could be tied to this specific Diane Hartley; the only web hit echoing the employer is the campaign-finance filing itself. Multiple unrelated 'Diane Hartley' profiles exist and the McKissock entity could not be confirmed, so industry left null.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b7c1d645-acd9-4503-9519-dca9188dca36",
+    "name": "Lau, Roger",
+    "resolved_employer": "Democratic National Committee (Executive Director)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Roger Lau is a national Democratic operative: Executive Director of the DNC (previously Deputy Executive Director) and former campaign manager of Elizabeth Warren's 2020 presidential campaign. Silver Spring, MD 20910 residence matches a DC-area party staffer. Confirmed via Wikipedia, The Hill, Ballotpedia.",
+    "source_url": "https://en.wikipedia.org/wiki/Roger_Lau",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Democratic National Committee", "role": "Executive Director (former Deputy Executive Director; former Warren 2020 campaign manager)", "category": "political", "source_url": "https://thehill.com/homenews/campaign/5172931-democratic-national-committee-names-new-executive/", "snippet": "DNC Chair Ken Martin named Roger Lau as the group's new executive director, after he previously managed Sen. Elizabeth Warren's 2020 presidential campaign."}
+    ]
+  },
+  {
+    "donor_id": "b7bf5e28-51bf-48da-99c4-9f908ff63e4a",
+    "name": "Chen, Christine",
+    "resolved_employer": "Strategic Alliances USA (President/CEO); APIAVote (co-founder & Executive Director)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Christine Chen is co-founder/Executive Director of APIAVote (nonpartisan AAPI civic-engagement nonprofit) and President/CEO of her consulting firm Strategic Alliances USA (matches donor employer). Longtime AAPI organizer, former ED of the Organization of Chinese Americans; Arlington VA 22205 consistent with her DC-area base.",
+    "source_url": "https://apiavote.org/about/team/christine-chen/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "APIAVote", "role": "Co-founder & Executive Director", "category": "civic", "source_url": "https://apiavote.org/about/team/christine-chen/", "snippet": "Christine Chen serves as co-founder and Executive Director of APIAVote, the nation's leading national, nonpartisan organization to engage, educate, and empower Asian Americans and Pacific Islanders."},
+      {"org": "Leadership Conference on Civil and Human Rights", "role": "Executive committee member", "category": "civic", "source_url": "https://apiavote.org/about/team/christine-chen/", "snippet": "Chen has held positions including executive committee member, Leadership Conference on Civil and Human Rights."}
+    ]
+  },
+  {
+    "donor_id": "b612f78f-0192-47aa-b9db-b9050513807e",
+    "name": "Valdez, Michele",
+    "resolved_employer": "Not Employed (former attorney and airline executive)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Matches Michele Valdez of Steamboat Springs, CO (location 80487; the '30445' zip appears to be a data error): a former attorney and airline executive who moved from Dallas in 2019, works as a humor columnist, with ~20 years of nonprofit board service. Currently 'Not Employed'; industry reflects her former legal career. Common name, so medium confidence.",
+    "source_url": "https://myemail.constantcontact.com/Welcome-New-CS4L-Board-Member-Michele-Valdez.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b4f93576-d518-4a4a-891e-d0c2a4d00b31",
+    "name": "Richter, Denise & Blair",
+    "resolved_employer": "Not Employed (Denise: professor emerita, journalism/mass communication, Palo Alto College, retired)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Joint couple at 148 Brightwood Pl, San Antonio 78209. Denise Barkis Richter is a retired professor emerita of Journalism/Mass Communication (Palo Alto College, 1998-2020), now a certified tour guide and travel author. Spouse Blair Richter shares the address; his occupation is undocumented. Both listed 'Not Employed'; industry reflects Denise's retired academic career.",
+    "source_url": "https://sanantoniotourist.net/about-denise-barkis-richter-ph-d/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b4bfadeb-d032-46e3-86a7-207e81241b38",
+    "name": "Walker, Philip",
+    "resolved_employer": "Keller Williams Realty (Dallas Midtown)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Philip Walker is a licensed senior real estate consultant/broker with Keller Williams Realty in Dallas, active in the 75220 area; occupation, employer, and Dallas location match the donor record. Common name, so identity is probable but not certain.",
+    "source_url": "https://www.har.com/philip-walker/agent_ntreis-0339357",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b2d75c23-e856-4c60-8220-3cb90814ade2",
+    "name": "Shen, Albert",
+    "resolved_employer": "Shen Consulting, Inc. (owner/CEO)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Albert Shen owns Shen Consulting, Inc. at 3405 Ballard Dr, Southlake, TX 76092 (exact address match) — a minority-owned civil/transportation engineering and management consulting firm. Same Albert K. Shen who served as National Deputy Director of the U.S. Minority Business Development Agency under the Obama administration.",
+    "source_url": "https://cage.report/DUNS/166590765",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "U.S. Minority Business Development Agency (Dept. of Commerce)", "role": "National Deputy Director (Obama administration)", "category": "political", "source_url": "https://archive.mbda.gov/news/blog/2015/06/myaapistory-albert-k-shen.html", "snippet": "Albert K. Shen, National Deputy Director of the Minority Business Development Agency; prior to MBDA he was CEO of Shen Consulting, Inc., a transportation and civil engineering firm."}
+    ]
+  },
+  {
+    "donor_id": "b0b9d57b-1052-4a13-9877-aecf76e86100",
+    "name": "Carter, James",
+    "resolved_employer": "JW Carter Law, PLLC (partner)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "James W. (Jimmy) Carter IV is a partner at JW Carter Law, PLLC in San Antonio (78209), a board-certified civil trial/probate litigator; firm and San Antonio location match the donor record.",
+    "source_url": "https://jwcarterlaw.com/jimmy-carter/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "David's Legacy Foundation / DBM Project", "role": "Director; Co-Founder & Chair of DBM Project (anti-bullying advocacy)", "category": "civic", "source_url": "https://jwcarterlaw.com/jimmy-carter/", "snippet": "David's Legacy Foundation: Director (2016-present); DBM Project Co-Founder/Chair — anti-bullying / anti-cyberbullying legislative advocacy."},
+      {"org": "TransPecos Banks / TransPecos Financial Corporation", "role": "Director (2015-present)", "category": "business", "source_url": "https://jwcarterlaw.com/jimmy-carter/", "snippet": "TransPecos Banks/TransPecos Financial Corporation: Director (2015-present)."}
+    ]
+  },
+  {
+    "donor_id": "aa2a56f5-9c8b-48a2-9b48-62042f4d197a",
+    "name": "Fitzgerald, Melissa",
+    "resolved_employer": "All Rise (formerly National Association of Drug Court Professionals / Justice for Vets), Senior Director",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Melissa Fitzgerald, actress (Carol on 'The West Wing'), is Senior Director at All Rise / NADCP and Justice for Vets, leading justice-system reform advocacy; nonprofit role, NADCP employer, and Washington DC address (1755 P St NW is All Rise HQ) match the donor record.",
+    "source_url": "https://en.wikipedia.org/wiki/Melissa_Fitzgerald",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "All Rise / National Association of Drug Court Professionals (Justice for Vets)", "role": "Senior Director, justice-system reform advocacy", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Melissa_Fitzgerald", "snippet": "Fitzgerald directs strategic engagement for the nonprofit All Rise, advocating for justice system reform; senior director of Justice for Vets, part of NADCP."}
+    ]
+  },
+  {
+    "donor_id": "a91a2e17-e1ca-4162-9478-d24793b8167f",
+    "name": "Harrison, Janice",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor self-reported as 'Not Employed', residing at 426 Chapel Harbor Dr, Pittsburgh (Fox Chapel area), PA 15238. Only people-search aggregator listings for a 'Janice M Harrison' in this ZIP; no distinguishing public profile, employer, or advocacy record found to confirm the specific individual.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a8dd9fdc-51bc-4eac-8a64-e3ac39d8f1f1",
+    "name": "Bayan, Josephine",
+    "resolved_employer": "Rock Project Management Services, LLC (Senior Project Manager)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Senior Project Manager (MAURP, PMP) at Rock Project Management Services, a family-owned MWBE/DBE construction project-management firm in Renton, WA. Also serves as chair of the City of Renton Planning Commission. (Donor zip 11045 appears garbled; WA 98055 location matches.)",
+    "source_url": "https://www.rockpmservices.com/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of Renton Planning Commission", "role": "Chair (former vice chair)", "category": "civic", "source_url": "https://edocs.rentonwa.gov/Documents/DocView.aspx?id=11450656&dbid=0&repo=CityofRenton", "snippet": "Josephine Bayan is listed as Planning Commission Chair in the City of Renton 2024 Comprehensive Plan acknowledgments."}
+    ]
+  },
+  {
+    "donor_id": "a8a33611-457f-49eb-b00b-185b94d91ad1",
+    "name": "Lu, Christopher",
+    "resolved_employer": "Self-employed (former U.S. Deputy Secretary of Labor; senior fellow, UVA Miller Center)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Christopher P. Lu of Arlington, VA: White House Cabinet Secretary and Assistant to the President 2009-2013, U.S. Deputy Secretary of Labor 2014-2017 under Obama, later U.S. Ambassador for UN Management/Reform. Princeton and Harvard Law. Zip 22207/Arlington match.",
+    "source_url": "https://millercenter.org/experts/chris-lu",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Obama/Biden administrations", "role": "White House Cabinet Secretary, Deputy Secretary of Labor, UN Ambassador", "category": "political", "source_url": "https://millercenter.org/experts/chris-lu", "snippet": "Chris Lu served as White House Cabinet Secretary (2009-2013), Deputy Secretary of Labor (2014-2017), and U.S. Ambassador during the Obama and Biden administrations."}
+    ]
+  },
+  {
+    "donor_id": "a7781d68-19eb-4c05-9820-cde253e46461",
+    "name": "Castillo, James",
+    "resolved_employer": "Long-Term Stock Exchange (LTSE), Head of Public Client & Exchange Marketing",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Head of Public Client & Exchange Marketing at LTSE (Long-Term Stock Exchange), a U.S. securities exchange, since Sept 2022; prior senior marketing roles at TIAA, MetLife, Chase, Fidelity. Based Miami Beach, FL 33139 (matches).",
+    "source_url": "https://theorg.com/org/ltse/org-chart/james-castillo",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a3dcb914-8ba2-43a4-8ca1-ad11f05e4af7",
+    "name": "chandler, kirby",
+    "resolved_employer": "Texas Civil Rights Project (Chief of Staff)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Chief of Staff at the Texas Civil Rights Project, a civil-rights legal advocacy nonprofit in Austin. Nearly a decade in electoral campaigns; prior roles at Michelle Vallejo for Congress, MJ for Texas, and Kim Janey for Mayor. Austin 78724 matches.",
+    "source_url": "https://www.txcivilrights.org/staff-1",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Civil Rights Project", "role": "Chief of Staff", "category": "civic", "source_url": "https://www.linkedin.com/in/kirby-chandler-37b5a094/", "snippet": "Kirby Chandler, Chief of Staff at Texas Civil Rights Project, with prior work on Democratic campaigns including Michelle Vallejo for Congress and MJ for Texas."}
+    ]
+  },
+  {
+    "donor_id": "a377d0c7-46ec-485f-b9a0-734bad0083ff",
+    "name": "Matas, Raquel",
+    "resolved_employer": "Miami-Dade County (Real Estate & Development Special Advisor)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Raquel Mercedes Matas, Esq. (FL Bar 1983): Real Estate & Development Special Advisor for Miami-Dade County; formerly Associate Dean for Administration and Director of the Real Property Development LL.M. at University of Miami School of Law. Coral Gables, FL 33134 matches.",
+    "source_url": "https://theorg.com/org/miami-dade-county/org-chart/raquel-matas",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

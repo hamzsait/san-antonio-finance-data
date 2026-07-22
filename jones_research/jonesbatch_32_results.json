@@ -1,0 +1,242 @@
+[
+  {
+    "donor_id": "6257bf26-6b8b-4855-bbfb-4f05b1832db6",
+    "name": "Miller, Calvin",
+    "resolved_employer": "Retired (former career not documented) (retired)",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Calvin Miller and Molly Miller are a retired couple at 6744 Pennywell Dr, Nashville TN 37205 (a ~3,600 sq ft 1987 home in the affluent Belle Meade area); a public campaign-finance report lists 'Calvin Miller' at that address as retired, matching the donor's 'Not Employed' status. Prolific small-dollar donor (67 FEC contributions). No former employer, ideological PAC (AIPAC/J Street/oil-gas/gun/defense), or advocacy-org membership documented. Not found in Texas Ethics Commission lobbyist registry (a TN resident); no bio/About page exists (a quiet outcome).",
+    "source_url": "https://www.neighborwho.com/Pennywell-Dr-Nashville-TN-addresses/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "625379e6-cc9b-434a-8657-198d7b4dad0c",
+    "name": "Steven Lopez, Steven",
+    "resolved_employer": "Self-employed attorney, San Antonio (specific individual not confirmed)",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Donor is a self-employed attorney at 1222 Stetson Grn, San Antonio 78258 (a residential rental in Oaks at Sonterra). The most prominent match, Steven A. Lopez (owner of Lopez Law Firm, a SA personal-injury trial lawyer; Baylor Law cum laude; community involvement with MOVE Texas, YMCA of Greater San Antonio, and St. Mary's Law), fits the 'attorney, self' occupation, but his bio lists no 78258 residence tie and 'Steven Lopez' is a common SA name, so identity remains unconfirmed. Industry classified as Legal from occupation only. Only 5 FEC donations; no ideological PAC or lobbyist registration found.",
+    "source_url": "https://lopezlawtx.com/steven-a-lopez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "61a8e97e-c01f-457b-8ed8-a2b54ebb3bf9",
+    "name": "Krispin, Wendy",
+    "resolved_employer": "Wendy Krispin Caterer, Inc. (Owner/President) — Dallas catering & event company",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Wendy Krispin is the owner/president of Wendy Krispin Caterer, Inc., a Dallas gourmet catering and event company operating since 1992 at 528 S Hall St, Dallas 75226 — matching the donor's name, occupation, and address exactly. Prolific Democratic small-dollar donor (146 FEC contributions). Bio-page read attempted (the About URL 404s; homepage/LinkedIn describe her only as the founding owner-caterer — no board seats or advocacy roles). Not found in the Texas Ethics Commission lobbyist registry; no ideological PAC contributions documented.",
+    "source_url": "https://wendykrispincaterer.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "60c9a036-2cb9-4a5b-acce-e90d144d5bf8",
+    "name": "Carter, Margaret",
+    "resolved_employer": "Not employed / likely retiree (former career not documented)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Margaret (Maggie) K. Carter is confirmed via public-records databases at 213 Newbury Ter, San Antonio 78209 (Alamo Heights area), matching the donor address; donor record lists her as 'Not Employed.' Prolific Democratic small-dollar donor (114 FEC contributions). Bio-page read attempted: no LinkedIn/bio page for the SA 78209 person exists; data-broker fragments give conflicting, unverifiable occupations and are not relied upon. Not found in the Texas Ethics Commission lobbyist registry; no ideological PAC or advocacy affiliation documented.",
+    "source_url": "https://veripages.com/name/Margaret/Carter/TX/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "60919c35-9c1c-41f0-ba51-6873705ae0bb",
+    "name": "Y, Ellen",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor listed only as 'Ellen Y' (single-letter surname), Not Employed, at 1349 Lexington Ave, New York NY 10128 — 'The Paulding,' a 1921 pre-war cooperative in Carnegie Hill (Upper East Side). With a truncated/ambiguous surname, 0 FEC donations, and no occupation, the specific individual cannot be identified. Bio-page read attempted (no identifiable profile); not found in the Texas Ethics Commission lobbyist registry. No employer, ideological PAC, or advocacy affiliation could be documented.",
+    "source_url": "https://www.homes.com/building/1349-lexington-ave-new-york-ny/b-v4998w4wl2cdl/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5e61e987-30b5-469e-9adf-77592a1eef39",
+    "name": "Feeney, Paul",
+    "resolved_employer": "Account Executive, Databricks (data/AI company)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Paul Feeney is an Account Executive at Databricks living in Palm Springs, CA with husband Dr. Chad Braun; identity corroborated by LinkedIn (in/pfeeney) and LGBTQ+ Victory Fund bio, both matching zip 92262 and Databricks sales role.",
+    "source_url": "https://victoryfund.org/team/paul-feeney/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LGBTQ+ Victory Fund", "role": "Vice Chair & Development Committee Co-Chair", "category": "civic", "source_url": "https://victoryfund.org/team/paul-feeney/", "snippet": "Paul serves as Vice Chair and Development Committee Co-Chair of the LGBTQ+ Victory Fund, an organization dedicated to increasing representation of LGBTQ+ individuals in elected and appointed office."}
+    ]
+  },
+  {
+    "donor_id": "59cd6941-fab1-4a88-99ae-60ad4562196d",
+    "name": "Abdrakhmanova, Raksana",
+    "resolved_employer": "Not employed (per self-reported occupation)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "No verifiable public profile found for a Raksana Abdrakhmanova in Boston, MA (45 Stuart St, 02116); only unrelated social-media accounts with similar names surfaced. Self-reported as Not Employed; 0 FEC donations. Identity not corroborated.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "57f09f1f-f04a-44f8-8809-e9295ac6b212",
+    "name": "Houston, Elizabeth",
+    "resolved_employer": "Vice President & co-owner, Los Leones (owner of Casa Rio, Schilo's, Broadway News)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Elizabeth Lyons Houston is VP and co-owner of Los Leones, the fourth-generation Lyons-family San Antonio hospitality/real estate company that owns Casa Rio, Schilo's and Broadway News; matches the listed occupation 'Owner, Casa Rio SchiloS Broadway News' exactly. Corroborated by San Antonio Woman profile and LinkedIn.",
+    "source_url": "https://sawoman.com/2025/05/women-on-the-move-3/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "57d7fedd-8234-41e3-a248-3087f4b665b4",
+    "name": "Zepeda, Rebekkah",
+    "resolved_employer": "Retired (former career not documented in public records)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "A Rebekkah Zepeda is associated with the 231 Millwood Ln, San Antonio 78216 area in public address records, but no former-employer or career details are documented; self-reported Retired with 1 FEC donation. No basis to assign an industry.",
+    "source_url": "https://clustrmaps.com/a/5775v/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "55a7504c-c783-4a04-bab3-ef5a11a03320",
+    "name": "Skinner, Stephen",
+    "resolved_employer": "Attorney/Partner, Skinner Law Firm (Skinner Accident & Injury Lawyers), Shepherdstown WV",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Stephen G. Skinner is a personal-injury/wrongful-death attorney and partner at Skinner Law Firm, based in Shepherdstown/Charles Town WV (matches PO Box 366, Shepherdstown 25443); he is also a former Democratic member of the WV House of Delegates (District 67, 2012-2016) and founder of Fairness West Virginia.",
+    "source_url": "https://skinnerfirm.com/about-us/stephen-skinner/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "West Virginia House of Delegates (District 67)", "role": "Former Delegate (Democrat), 2012-2016", "category": "political", "source_url": "https://ballotpedia.org/Stephen_Skinner", "snippet": "Former Democratic member of the West Virginia House of Delegates representing District 67 from 2012 to 2016; first openly gay person elected to the WV legislature."},
+      {"org": "Fairness West Virginia", "role": "Founder", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Stephen_Skinner_(American_politician)", "snippet": "Prior to his election, Skinner was a founder of the LGBT advocacy group Fairness West Virginia."}
+    ]
+  },
+  {
+    "donor_id": "4e19bd55-bcfa-4cb0-9fdb-f02f525df097",
+    "name": "Syed, Raiyan",
+    "resolved_employer": "Unresolved — donor record lists 'VP, Ern' (likely a truncated employer). Bio-read found a strong public candidate: a 'Raiyan Syed' who is National Political Director at New Politics (SF Bay Area/NYC), formerly National Communications Director at 314 Action, working in Democratic candidate recruitment/strategy — but this cannot be corroborated to the Walnut Creek address or the 'Ern' employer.",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Multiple same-named people exist (Bay Area political strategist; a NYC paid-media manager at New Chapter Inc.; others). The strongest lead — New Politics National Political Director / ex-314 Action — fits a Bay Area Democratic operative and New Politics recruits military veterans (Jones is an Air Force veteran), but the donor's 'VP, Ern' employer and Walnut Creek CA (94596) address are not confirmable to this or any specific person. Identity unconfirmed.",
+    "source_url": "https://www.newpolitics.org/news/2020/2/3/announcement-our-growth-continues-promotions-on-our-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4c05b562-d78a-480e-b1b9-4967fdf08dbe",
+    "name": "Bono, Marisa",
+    "resolved_employer": "Civil-rights attorney and nonprofit executive; CEO of Every Texan (Austin) 2021–; donor record lists 'Not Employed' (likely outdated). Former Southwest Regional Counsel at MALDEF and Chief of Policy for SA Mayor Ron Nirenberg.",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Marisa Bono, San Antonio (78201) resident, U. Michigan JD/MPA, licensed TX attorney. Career: MALDEF civil-rights litigator, Nirenberg policy chief, VIA Metropolitan Transit Chief Strategic Officer, Every Texan CEO. ZIP + attorney/nonprofit-leader profile strongly match; 17 FEC donations consistent with a civically active progressive.",
+    "source_url": "https://everytexan.org/meet-marisa-bono/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Mexican American Legal Defense and Educational Fund (MALDEF)", "role": "Former Southwest Regional Counsel", "category": "civic", "source_url": "https://everytexan.org/meet-marisa-bono/", "snippet": "Directed civil-rights litigation on immigration, education funding, voting rights and political access as MALDEF Southwest Regional Counsel."},
+      {"org": "San Antonio Ethics Review Board", "role": "Former Chair", "category": "civic", "source_url": "https://everytexan.org/meet-marisa-bono/", "snippet": "Served as Chair of the San Antonio Ethics Review Board and as a mayoral appointee to the Mayor's Commission on the Status of Women."},
+      {"org": "IDRA / Mexican American Civil Rights Institute (MACRI) / SA2020 / BexarFacts", "role": "Board member", "category": "civic", "source_url": "https://everytexan.org/meet-marisa-bono/", "snippet": "Board memberships listed on Every Texan bio spanning education-equity and civil-rights nonprofits and local civic data organizations."}
+    ]
+  },
+  {
+    "donor_id": "4bbcf8f2-968e-4622-aa59-6d0ac4d507b4",
+    "name": "Colmenar, Raymond",
+    "resolved_employer": "President, Akonadi Foundation (Oakland-based racial-justice grantmaker); joined late 2022. Prior: 16 years at The California Endowment (Managing Director) and 7 years at PolicyLink.",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Raymond 'Ray' Colmenar, Albany CA (94706), Akonadi Foundation's first AAPI president; ~30-year career in Bay Area/California racial-justice philanthropy and equity policy (California Endowment, PolicyLink). Name, title, and location match the donor record exactly.",
+    "source_url": "https://akonadi.org/our-team/raymond-colmenar/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Akonadi Foundation", "role": "President", "category": "civic", "source_url": "https://akonadi.org/our-team/raymond-colmenar/", "snippet": "Leads Oakland grantmaker focused on racial-justice power-building; managed ~$20M/yr in grantmaking at The California Endowment prior. Advocacy is racial/economic-equity philanthropy."}
+    ]
+  },
+  {
+    "donor_id": "49f3abbd-03ef-4335-ad7c-e631551a5261",
+    "name": "Garza-Cox, Sanjie",
+    "resolved_employer": "Neonatologist (Sanjuanita 'Sanjie' Garza-Cox, MD), MEDNAX/Pediatrix Medical Group at The Children's Hospital of San Antonio; chief of staff there. Founder/president of nonprofit Baby Education for South Texas (B.E.S.T.).",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Board-certified neonatologist in San Antonio (78257), UT San Antonio / UTHSCSA / UTMB Galveston-trained, MEDNAX-affiliated — matches donor's 'physician, Mednax' occupation. Founded B.E.S.T. infant-safety nonprofit and served on Bexar County Child Fatality Review Team. 15 FEC donations consistent with a civically engaged physician.",
+    "source_url": "https://www.pediatrix.com/find-care/doctors/garza-cox-sanjie-1922056704",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Baby Education for South Texas (B.E.S.T.)", "role": "Founder / President", "category": "civic", "source_url": "https://www.best4baby.org/board-members/dr-sanjie-garza-cox/", "snippet": "Founded and leads a nonprofit reducing infant mortality through safe-sleep education; also served on the Bexar County Child Fatality Review Team."}
+    ]
+  },
+  {
+    "donor_id": "49824e8e-29c3-46dc-a6c9-19e706c7c74b",
+    "name": "Jennings, Debbie",
+    "resolved_employer": "Deborah 'Debbie' Jennings, DNP, MSN, RN, CENP — Clinical Assistant Professor, UT Health San Antonio (UTHSCSA) School of Nursing (nurse educator / executive-nursing academic).",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "UTHSCSA faculty directory confirms Deborah Jennings, Clinical Assistant Professor in the School of Nursing (Texas Tech DNP 2021), San Antonio 78231 — matches donor's 'Clinical Assistant Professor, UT Health' occupation (donor 'zip' field 14146 is the street number of 14146 George Rd; actual ZIP 78231). 2026 San Antonio Women's Hall of Fame inductee. Nurse educator; clinical/academic nursing career.",
+    "source_url": "https://directory.uthscsa.edu/academics/profile/jenningsd",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "492a6a0c-df4a-480e-977a-98e14b58ee85",
+    "name": "Rafter, Dan",
+    "resolved_employer": "Communications/public-affairs professional; formerly Vice President at M+R Strategic Services (Jan 2019-Nov 2023); donor record lists 'Public Relations, Self-Employed'",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "LegiStorm and LinkedIn document a Daniel W. 'Dan' Rafter who was Vice President at M+R Strategic Services (a communications/public-affairs consultancy serving nonprofits/advocacy clients) from Jan 2019 to Nov 2023; public-records residency (Washington DC, Falls Church/Arlington VA, now Wilmington DE) matches the donor's Wilmington DE 19803 address and 'Public Relations, Self-Employed' occupation (consistent with independent consulting after leaving M+R). Identity is probable but not certain (common name), so medium confidence. 0 FEC donations; no ideological PAC or lobbyist registration found. M+R is his employer, not an advocacy affiliation.",
+    "source_url": "https://www.legistorm.com/person/bio/220697/Daniel_W_Rafter.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "46f0e10e-15de-4f7f-bd90-787b614bb02e",
+    "name": "Herrera, Emilie",
+    "resolved_employer": "Co-founder/owner, Folklores Coffee House (and CheeseMe), San Antonio Southside",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Emilie Herrera co-founded and owns Folklores Coffee House on San Antonio's Southside (opened 2018) and CheeseMe; the shop doubles as a community hub (workshops, food drives, financial-literacy/housing seminars). Occupation 'Business owner, Folklores Coffee House' and 78202/78208 Southside location match exactly. No FEC PAC or Texas lobbyist activity found.",
+    "source_url": "https://www.livevida.com/news/community/southside-makers-shakers-emilie-herrera/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Poderosa Rising", "role": "Director of Fundraising", "category": "civic", "source_url": "https://www.livevida.com/news/community/southside-makers-shakers-emilie-herrera/", "snippet": "Board & leadership roles include Director of Fundraising for Poderosa Rising (nonprofit focused on empowerment), plus membership in Hispanic Network Women Texas and the Latina Leadership Institute."}
+    ]
+  },
+  {
+    "donor_id": "44bf14c7-6200-4622-9c9f-08449fd2b609",
+    "name": "Grater, Teryn",
+    "resolved_employer": "Partner & Chief Financial Officer, ATKG Advisors LLC (CPA firm), San Antonio (donor record lists 'Not Employed')",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Teryn Grater is a well-documented San Antonio CPA — Partner (since 2003) and CFO at ATKG Advisors LLC, ~30 years in tax/M&A/advisory. The distinctive name, San Antonio location (78216/Inwood Park) and heavy individual-donor pattern (34 FEC donations) match. Note: the Jones-campaign record lists occupation 'Not Employed,' which conflicts with her active partnership; classification uses her documented CPA/finance career. No ideological PAC or Texas lobbyist registration found.",
+    "source_url": "https://atkg.com/team/teryn-grater/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Women's Global Connection", "role": "Board member (current)", "category": "civic", "source_url": "https://atkg.com/team/teryn-grater/", "snippet": "Current board member of Women's Global Connection; past board member of Entrepreneurs Organization San Antonio and NAWBO — business/civic, not policy-advocacy PACs."}
+    ]
+  },
+  {
+    "donor_id": "42a59349-65f1-4c00-86dd-2592784d80e6",
+    "name": "Brimhall, Pegy",
+    "resolved_employer": "Founder, Figurd (design-integrated urban-infill multifamily real estate development firm), San Antonio; formerly CEO/co-founder of Rising Barn",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Pegy Brimhall (UT Austin architecture, Cornell MBA) founded Figurd, a San Antonio design-driven urban-infill/multifamily real estate development company (est. 2017), and previously co-founded modular-construction startup Rising Barn and fashion platform Currentsy. Distinctive name, San Antonio 78210 location, and 'Figurd' employer all match; donor record's 'Consultant' occupation reflects her development/real-estate strategy work. No FEC PAC or Texas lobbyist activity found.",
+    "source_url": "https://moderninsanantonio.com/pegy-brimhall-entrepreneur-creative-real-estate-professional",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "40f10815-e7b3-4673-b5cf-4873b5736c7f",
+    "name": "Maloney, Brian",
+    "resolved_employer": "Senior Director, External Affairs, Genentech (leads Strategic Alliances / trade-association engagement)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Brian Maloney is Senior Director of External Affairs at Genentech in San Francisco (previously 10 years at AstraZeneca, plus HHS, Deloitte, Partners Healthcare; Stonehill College BA, Suffolk Law JD). Occupation 'Public Affairs, Genentech' and San Francisco 94114 location match exactly. He is an LGBTQ-focused Democratic donor; no oil/gas, gun, defense, or pro-Israel/pro-Palestine PAC activity surfaced (4 FEC donations).",
+    "source_url": "https://victoryfund.org/team/brian-maloney/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LGBTQ+ Victory Fund", "role": "Campaign Board member", "category": "political", "source_url": "https://victoryfund.org/team/brian-maloney/", "snippet": "Serves on the Victory Fund Campaign Board as a national community leader focused on helping elect more openly LGBTQ voices to public office."},
+      {"org": "OUTbio – Bay Area", "role": "Founding board member", "category": "civic", "source_url": "https://victoryfund.org/team/brian-maloney/", "snippet": "Founding board member of OUTbio – Bay Area, described as the biotech sector's largest LGBTQ professional organization."}
+    ]
+  }
+]

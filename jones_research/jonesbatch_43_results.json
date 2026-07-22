@@ -1,0 +1,226 @@
+[
+  {
+    "donor_id": "49c6a292-d797-4d34-aa38-6aaca52204f4",
+    "name": "Katz, Ronald",
+    "resolved_employer": "Self-employed (real estate investor)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Self-described real estate investor, PO Box in Saint Helena, CA (Napa Valley). Common name; could not uniquely resolve to a single public profile, but occupation is self-reported. No PAC/lobbyist/advocacy records found.",
+    "source_url": "https://www.opensecrets.org/donor-lookup",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c706f892-2960-4c34-9684-4f1388a427a9",
+    "name": "Edwards, Barbara",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Not employed, Richardson, TX. Prolific small-dollar ActBlue donor (1,290 FEC contributions, fully Democratic-leaning) but no PAC-advocacy, lobbyist, or org-leadership records tie her to any flagged issue category.",
+    "source_url": "https://www.city-data.com/elec2/08/elec-RICHARDSON-TX-08.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "feb67ca1-925b-43dd-b8ef-e337cc2c2be1",
+    "name": "Apodaca, Aliana",
+    "resolved_employer": "Positive Directions Co",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Founder/President of Positive Directions Co, El Paso; motivational speaker, executive coach and organizational consultant. Numerous civic/business board seats (El Paso chambers, Boys & Girls Clubs, Loretto Academy) but none in flagged policy-advocacy categories; no PAC or lobbyist records.",
+    "source_url": "https://positivedirectionsco.com/about-us.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fe241ffc-aabf-4608-a9c1-f908573d5914",
+    "name": "Lewis, Bernadette",
+    "resolved_employer": "Strategic Education Inc (Sophia Learning)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "San Antonio marketing manager at Sophia Learning, a brand of Strategic Education Inc (matches employer string). LinkedIn confirms San Antonio location and education-sector marketing role; no advocacy, PAC, or lobbyist records.",
+    "source_url": "https://www.linkedin.com/in/bernadette-lewis614/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fdbc8eb1-534e-4144-a83d-2a3350e67b56",
+    "name": "Bravo, Katherine",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Not employed, San Antonio 78201; address (1554 W Mulberry Ave) corroborated in public records. Private individual with no discoverable public profile, PAC, lobbyist, or advocacy affiliation. Quiet result.",
+    "source_url": "https://radaris.com/p/Katherine/Bravo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fc4fd33f-505e-42ce-a786-a33eed198eef",
+    "name": "Price, Joshua",
+    "resolved_employer": "Self-employed (consultant)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-described consultant in Jacksonville, FL 32206; common name with many FL matches, no distinguishing public profile found to confirm identity beyond generic occupation.",
+    "source_url": "https://www.spokeo.com/Joshua-Price/Florida/3",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fad9db04-6485-4567-bf6f-9ba67c1c02ca",
+    "name": "Krawitz, Noah",
+    "resolved_employer": "Pinpoint Campaigns",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Founding Principal of Pinpoint Campaigns, a progressive direct-mail political consulting firm; prior Finance Director for Rep. Cindy Axne. Brookline, MA matches donor address.",
+    "source_url": "https://www.pinpointcampaigns.us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fa142ced-d1da-45a0-b6dd-8547870c98a5",
+    "name": "Vela, Gene",
+    "resolved_employer": "U.S. Government",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Listed as a federal Disaster Recovery Specialist in Glen Allen, VA; occupation/employer supportable but no distinguishing individual public profile located.",
+    "source_url": "https://www.indeed.com/q-Disaster-Recovery-Specialist-l-Virginia-jobs.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f86ff447-8001-460b-bbb7-0046e070e886",
+    "name": "CONYNGHAM, Jim",
+    "resolved_employer": "Retired (formerly NVIDIA, KNUPATH software engineer)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Retired senior software engineer (NVIDIA GPU tools, KNUPATH) in Austin; LinkedIn and property records confirm 7403 Newhall Ln, Austin 78746 matches donor address. (retired)",
+    "source_url": "https://www.linkedin.com/in/jim-conyngham-812b353/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f684d8fd-dcc3-4139-b672-fa469412ded1",
+    "name": "Chatillon, Alice",
+    "resolved_employer": "Alice Chatillon, PhD (private practice)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Alice Chatillon, PhD, clinical psychologist in private practice in San Antonio; provider directories confirm 3308 Broadway address matching donor record.",
+    "source_url": "https://www.healthgrades.com/providers/alice-chatillon-3x898",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f662980c-b244-4289-9e84-d3f63ed3b7d0",
+    "name": "Sanders, Deborah",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Provincetown, MA donor listed as Not Employed; $100 gift, 0 FEC records. No matching public profile (multiple people share the name); cannot corroborate identity or any affiliation.",
+    "source_url": "https://www.spokeo.com/Deborah-Sanders/Massachusetts",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f4defa6d-f8d0-4096-9290-2001880c8f70",
+    "name": "Keyser, Sandra",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "San Antonio 78257 donor, Not Employed; prolific small-dollar Democratic donor (323 FEC records, e.g. $100 to ActBlue 2020, partisan lean 1.0). No lobbyist registration or bio beyond donation pattern; no policy-advocacy org affiliation found.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part184.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f4bfe876-0179-453d-b3eb-2d1029f4cfa0",
+    "name": "Murphy, Kareem",
+    "resolved_employer": "Hennepin County",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Kareem Murphy is Deputy County Administrator of Hennepin County, MN (confirmed Aug 2025), overseeing health/human services and disparity elimination; Howard University grad, prior Intergovernmental Relations Director. Address matches N. Minneapolis. No PAC/advocacy affiliations in the checked categories.",
+    "source_url": "https://spokesman-recorder.com/2026/02/28/kareem-murphy-hennepin-county/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f4447361-a442-4a3c-a90d-25c456dfa01f",
+    "name": "Esquivel Sr., ROBERTO",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "San Antonio 78212 donor, Not Employed; prolific small-dollar Democratic donor (351 FEC records, partisan lean 1.0). Only public-records address match found (628 E Mistletoe Ave); no bio, board seat, or lobbyist registration; no advocacy affiliation supportable.",
+    "source_url": "https://www.spokeo.com/Roberto-Esquivel",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f05110ca-404a-4406-b3a6-784b8d52b670",
+    "name": "Borja, Robert",
+    "resolved_employer": "Central Health (Travis County Healthcare District)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Rob Borja is Director of Government Affairs & Public Policy at Central Health, the Travis County public hospital/healthcare taxing district (Austin, TX 78704). Role is govt-affairs for the health district; no registration or affiliation in the pro-Israel/pro-Palestine/oil-gas/gun/defense categories found.",
+    "source_url": "https://www.zoominfo.com/p/Rob-Borja/10700841857",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "efc3e41b-bd7c-4738-a2aa-500e623862cf",
+    "name": "Moulder, Matt",
+    "resolved_employer": "Valero Energy",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "Matt L. Moulder is an IS Specialist / Information Security Engineer (CISSP) at Valero in San Antonio; Navy veteran, UTSA computer science grad. Rank-and-file IT staffer, not leadership - per instructions no oil_gas flag for a non-leadership employee.",
+    "source_url": "https://www.spokeo.com/Matt-Moulder",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ef0c2dfb-acdc-49ac-92e1-a58139b1ced7",
+    "name": "Gardner, Patricia",
+    "resolved_employer": "PAG Leadership Consulting",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Patricia Gardner, San Jose CA; senior consultant/owner of PAG Leadership Consulting focused on nonprofit policy, advocacy and executive coaching; led Silicon Valley Council of Nonprofits 2001-2019. No pro-Israel/Palestine, energy, gun, or defense advocacy found.",
+    "source_url": "https://www.pagleadershipconsulting.org/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eeb9b9dd-f77c-40a4-9c0e-c3ad49b1ea9c",
+    "name": "Chu, Alexandria",
+    "resolved_employer": "Google",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Alexandria Chu, San Carlos/Bay Area; Strategy & Operations Program Manager for Google Maps, prior investment-banking compliance in NYC; founder of Filipino STEAM nonprofit FASTER and Filipino Googler Network COO. No political-advocacy affiliations in the balanced category set.",
+    "source_url": "https://www.linkedin.com/in/alexandria-chu-4a851a17/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ede06b2d-621e-4a8a-b844-f0105439e787",
+    "name": "Campa, Mark",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Record lists occupation Not Employed, San Antonio 78216, 67 FEC donations (Dem-leaning). Multiple Mark Campas in San Antonio; could not corroborate a single individual or any documented advocacy affiliation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eca4dfc9-a0d3-47cf-ba6f-6a35c0ce95b6",
+    "name": "Moyer Defelice, Rebecca",
+    "resolved_employer": "Emerge Texas (Executive Director)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Becca Moyer DeFelice, San Antonio 78209; Executive Director of Emerge Texas (Democratic women candidate-training org), former Moms Demand Action gun-violence-prevention organizer, 2022 Democratic candidate for TX House District 121; has a Giffords advocate profile.",
+    "source_url": "https://emergeamerica.org/emerge-texas-hires-becca-defelice-as-new-executive-director/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Moms Demand Action", "role": "Volunteer organizer / gun-violence-prevention advocate", "category": "gun_control", "source_url": "https://emergeamerica.org/emerge-texas-hires-becca-defelice-as-new-executive-director/", "snippet": "Gun violence prevention advocate and organizer, former staff member at Moms Demand Action; 'proven she can deliver for Texas families through her years of advocacy with Moms Demand Action.'"},
+      {"org": "Giffords", "role": "Featured gun-safety advocate", "category": "gun_control", "source_url": "https://giffords.org/people/becca-defelice/", "snippet": "Becca DeFelice is profiled on Giffords.org, a national gun-violence-prevention organization, as a gun-safety advocate."},
+      {"org": "Emerge Texas", "role": "Executive Director", "category": "political", "source_url": "https://emergeamerica.org/emerge-texas-hires-becca-defelice-as-new-executive-director/", "snippet": "Executive Director of Emerge Texas, the state's premier organization recruiting and training Democratic women to run for office."}
+    ]
+  }
+]

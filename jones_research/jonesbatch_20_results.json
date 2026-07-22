@@ -1,0 +1,245 @@
+[
+  {
+    "donor_id": "8a121ebd-7292-48b6-9b96-441728c8a5d8",
+    "name": "Guerra Leal, Richard",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired individual at 18430 Gran Mesa, San Antonio, TX 78259; no public bio, FEC PAC record, or TX lobbyist registration found to confirm former career. (retired)",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "89f5f533-51eb-47e6-a32b-5337c8d26f8a",
+    "name": "Escareno, Louis",
+    "resolved_employer": "Escareño & Associates (Louis R. Escareno, P.C.)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Louis R. Escareno, San Antonio attorney at 2717 W Martin St, 78207 (matches record); 30+ yr public-policy/government-relations lawyer, ex-White House Hispanic Affairs, ex-TX AG deputy chief of staff. Democratic donor (e.g. $500 to Lloyd Doggett 2014). No TX lobbyist registration found.",
+    "source_url": "https://sdchamber.org/bios/louis-escareno/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "83cc92fc-9a6d-45a3-bdf8-7052ac617aa9",
+    "name": "Huddleston, Anita",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Anita J. Huddleston, resident of 8510 Skye Hts, San Antonio, TX 78254 (matches record via public-records listing); no public bio, FEC PAC record, board seat, or TX lobbyist registration found.",
+    "source_url": "https://clustrmaps.com/person/Huddleston-8d5pgf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8290cc1b-d3d7-4b7a-a621-46ba8ae5b322",
+    "name": "Perry, Lynne W",
+    "resolved_employer": "Merrill Lynch (retired 2022; FINRA arbitrator)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Lynne W. Perry, San Antonio 78217 (matches record), retired VP of wealth management / financial advisor at Merrill Lynch (35+ yrs, retired 2022), now FINRA arbitrator; FEC record lists her as Merrill Lynch financial consultant, 78217, giving to ActBlue. (retired)",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part32.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8127c431-fe57-4830-a4f8-3f5de6780135",
+    "name": "Foster, Renee",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Renee Foster, ~56, at 4537 N Hermitage Ave, Chicago, IL 60640 (Ravenswood) matches record address; common name, no FEC PAC record confirmed for this individual and no TX lobbyist ties (IL resident). A same-name Chicago LinkedIn (advisor/board member) could not be identity-confirmed to this address.",
+    "source_url": "https://illinois.ourstates.org/renee-foster",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "810dbac4-4eda-42cf-bf40-beb589080263",
+    "name": "Cohen, Benson",
+    "resolved_employer": "Sidley Austin LLP",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Benson R. Cohen is a partner in Sidley Austin's New York office (matches donor NYC 10019 zip and 'Attorney'/'Sidley Austin' record). He represents investment advisers, broker-dealers and financial institutions on securities/regulatory (Volcker Rule, ERISA, FINRA, CFTC) matters; J.D. UC Berkeley 2004. No federal PAC contributions surfaced; no Texas lobbyist registration found; no policy-advocacy board/membership documented.",
+    "source_url": "https://www.sidley.com/en/people/c/cohen-benson-r",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7f0748a9-60c1-4223-a9b0-0583a1221e54",
+    "name": "Dholakia, Gloria",
+    "resolved_employer": "Jeremiah Program (VP of Alumni & Public Policy; formerly Executive Director, Leander Educational Excellence Foundation)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Gloria Gonzales-Dholakia, Ph.D. (Austin, TX 78730 matches). ~20+ years in nonprofit/education/civic-engagement. Currently VP of Alumni & Public Policy at Jeremiah Program; the donor record's employer (Leander Educational Excellence Foundation) is a prior role. Elected Leander ISD Board of Trustees (Place 2) in Nov 2018. Former Executive Director of Jolt Action/Jolt Initiative (Texas Latino civic-engagement org). Democratic-leaning donor. No Texas lobbyist registration found.",
+    "source_url": "https://jeremiahprogram.org/people/gloria-gonzales-dholakia/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Leander ISD Board of Trustees", "role": "Elected Trustee (Place 2), since 2018", "category": "political", "source_url": "https://www.leanderisd.org/place2_gloriagonzalesdholakia/", "snippet": "Elected to the Leander ISD Board of Trustees in November 2018; serves as Place 2 trustee."},
+      {"org": "Jolt Action / Jolt Initiative", "role": "Former Executive Director (2021)", "category": "civic", "source_url": "https://jolttx.org/jolt-announces-new-executive-director/", "snippet": "Named Executive Director of Jolt Action and Jolt Initiative, a Texas Latino civic-engagement advocacy organization, in 2021."},
+      {"org": "Jeremiah Program", "role": "VP of Alumni & Public Policy", "category": "civic", "source_url": "https://jeremiahprogram.org/people/gloria-gonzales-dholakia/", "snippet": "Jeremiah Program's VP of Alumni & Public Policy overseeing alumni and public policy engagement strategy."}
+    ]
+  },
+  {
+    "donor_id": "7e5f22ff-5576-4540-b112-5702dc59a121",
+    "name": "Mondejar, Maria Marily",
+    "resolved_employer": "Foundation for Filipina Women's Network (FWN)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Marily Mondejar (San Francisco, CA 94119 matches) is founding president/CEO of the Foundation for Filipina Women's Network, a nonpartisan advocacy nonprofit advancing Filipina women as leaders/policymakers. Longtime Democratic activist: candidate for SF Democratic County Central Committee (AD-17); appointed to SF Redistricting Task Force by Mayor Ed Lee (2011). Documented FEC gift of $250 to Hillary Clinton (2007). No Texas lobbyist registration (California resident).",
+    "source_url": "https://filipinawomensnetwork.org/about-the-founder",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Foundation for Filipina Women's Network (FWN)", "role": "Founding President & CEO", "category": "civic", "source_url": "https://filipinawomensnetwork.org/about-the-founder", "snippet": "Founding president and CEO of the Foundation for Filipina Women's Network, a nonpartisan advocacy organization for Filipina women leaders."},
+      {"org": "San Francisco Democratic County Central Committee (DCCC)", "role": "Candidate (Assembly District 17)", "category": "political", "source_url": "https://www.marilymondejar.org/about", "snippet": "Candidate for the Democratic Party County Central Committee in San Francisco, State Assembly District 17."}
+    ]
+  },
+  {
+    "donor_id": "7aad9f44-96d7-45c1-954b-e0b16fdfbebc",
+    "name": "Twitchell, Karen",
+    "resolved_employer": "Self-employed (independent corporate board director; former energy/chemicals CFO)",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Karen A. Twitchell (Houston, TX 77006 / 9 Courtlandt Place matches). Career energy/petrochemicals finance executive and corporate director: Lead Independent Director of Calumet, Inc. (specialty petroleum products) since 2024 / director since 2022; director of Kraton since 2009; former Chairman of Trecora Resources; former Treasurer & VP of Lyondell Chemical/LyondellBasell. Democratic-leaning donor. No Texas lobbyist registration; no issue-PAC contributions surfaced.",
+    "source_url": "https://www.marketscreener.com/insider/KAREN-TWITCHELL-A0E2A1/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Calumet, Inc. / Calumet Specialty Products Partners", "role": "Lead Independent Director (since 2024; director since 2022)", "category": "oil_gas", "source_url": "https://www.marketscreener.com/insider/KAREN-TWITCHELL-A0E2A1/", "snippet": "Independent director of Calumet, a specialty petroleum products company, since 2022; lead independent director since 2024."},
+      {"org": "Kraton (Polymers)", "role": "Director since 2009", "category": "business", "source_url": "https://www.marketscreener.com/insider/KAREN-TWITCHELL-A0E2A1/", "snippet": "Director of Kraton, a specialty chemicals/polymers company, since 2009."},
+      {"org": "LyondellBasell / Lyondell Chemical / Equistar Chemicals", "role": "Former Treasurer & Vice President (2001-2009)", "category": "business", "source_url": "https://www.marketscreener.com/insider/KAREN-TWITCHELL-A0E2A1/", "snippet": "Former Treasurer & VP at Lyondell Chemical and LyondellBasell Industries and Equistar Chemicals."}
+    ]
+  },
+  {
+    "donor_id": "792f6330-58e6-4cf3-b8ec-a667f4f0707e",
+    "name": "Avellar, Michael",
+    "resolved_employer": "Performance Management, Ltd. (San Antonio)",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Michael Avellar (San Antonio, TX 78209) is listed as COO/Executive of Performance Management, Ltd., a Texas domestic limited partnership (formed 1993) at 153 Treeline Park Ste 300 — matches donor record. Business-directory classifications are inconsistent (variously 'Management & Consulting' and 'Natural Gas & Petroleum'); firm's exact line of business could not be confirmed. Democratic-leaning donor, but no specific federal PAC ties surfaced; no Texas lobbyist registration found.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/performance-management-ltd/29888038.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7914dc4e-cfbd-4280-91a9-8e8bcc29ef9d",
+    "name": "Miller, Nicholas",
+    "resolved_employer": "Self-Employed",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Listed as a self-employed Web Developer at 448 E Ferry St, Detroit MI 48202 (Ferry Street Historic District). Occupation/employer are self-consistent. FEC record shows 63 small-dollar contributions and a modestly Democratic-leaning pattern, but no specific individual profile could be positively confirmed among the many 'Nicholas Miller' web developers, and no single-issue or industry PAC affiliation was documentable. Classified by stated occupation.",
+    "source_url": "https://en.wikipedia.org/wiki/Ferry_Street_Historic_District",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "75dc1397-8738-4679-8143-1e2d3085062e",
+    "name": "Weeks, Marian",
+    "resolved_employer": "Self-Employed",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Listed as a self-employed 'manager' at 901 Maine St, Lawrence KS 66044. A 'Marian J Weeks' of Lawrence, KS appears in public-records aggregators, corroborating the location, but no bio, firm, board seat, or industry could be documented. No FEC contributions on record and no Texas lobbyist registration. Generic 'manager / self-employed' with no verifiable employer or sector.",
+    "source_url": "https://nuwber.com/person/563a32dfcf00835c7fbde83c",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "756525de-6ba8-463e-908e-8e691665d832",
+    "name": "Bailis, Lawrence",
+    "resolved_employer": "Brandeis University (Heller School)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Confirmed as Lawrence N. Bailis, PhD — associate professor at the Heller School and senior research associate at the Center for Youth and Communities, Brandeis University; PhD from Harvard. Cambridge MA 02138 / professor / Brandeis all match. Also Director Emeritus of Silent Spring Institute. FEC shows individual federal giving (e.g., $250 to Becky Grossman for Congress, 2020, Cambridge). No Texas lobbyist registration.",
+    "source_url": "https://silentspring.org/staff/lawrence-n-bailis-phd",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Brandeis University, Heller School", "role": "Associate Professor / Senior Research Associate, Center for Youth and Communities", "category": "civic", "source_url": "https://silentspring.org/staff/lawrence-n-bailis-phd", "snippet": "Senior research associate at the Center for Youth and Communities and associate professor at the Heller School of Brandeis University."},
+      {"org": "Silent Spring Institute", "role": "Director Emeritus", "category": "civic", "source_url": "https://silentspring.org/staff/lawrence-n-bailis-phd", "snippet": "Current Position: Director Emeritus at Silent Spring Institute."},
+      {"org": "Massachusetts Service Alliance", "role": "Chair of the Board of Directors", "category": "civic", "source_url": "https://silentspring.org/staff/lawrence-n-bailis-phd", "snippet": "Chair of the Board of Directors, Massachusetts Service Alliance."},
+      {"org": "Bend the Arc (formerly Jewish Funds for Justice)", "role": "Board member", "category": "jewish_civic", "source_url": "https://silentspring.org/staff/lawrence-n-bailis-phd", "snippet": "Board member, Bend the Arc (formerly Jewish Funds for Justice) — a progressive Jewish social-justice advocacy organization with a legislative/advocacy arm."},
+      {"org": "JOIN for Justice", "role": "Board member", "category": "civic", "source_url": "https://silentspring.org/staff/lawrence-n-bailis-phd", "snippet": "Board member, JOIN for Justice (Jewish organizing/community-organizing training)."}
+    ]
+  },
+  {
+    "donor_id": "74762091-de7b-41da-9f45-024dc1817961",
+    "name": "Joeris, Gary",
+    "resolved_employer": "Joeris General Contractors (CEO / Chairman)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Confirmed as Gary Joeris, CEO and Chairman of the Board of Joeris General Contractors, a large San Antonio commercial general contractor founded by his father Leo Joeris in 1967; inducted into the San Antonio Business Hall of Fame (2019). Serves on the SA Chamber of Commerce Executive Board and UIW Board of Trustees. SA CEO/construction occupation match. No lobbyist registry entry; personal FEC giving modest and roughly balanced.",
+    "source_url": "https://theorg.com/org/joeris-general-contractors-ltd/org-chart/gary-joeris",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Joeris General Contractors, Ltd.", "role": "CEO / Chairman of the Board", "category": "business", "source_url": "https://theorg.com/org/joeris-general-contractors-ltd/org-chart/gary-joeris", "snippet": "Gary Joeris is the CEO of Joeris General Contractors and serves as Chairman of the Board; 30+ year career in commercial construction."},
+      {"org": "San Antonio Chamber of Commerce", "role": "Executive Board member", "category": "business", "source_url": "https://www.sachamber.org/staff/executive-board/", "snippet": "Gary Joeris, of Joeris General Contractors, serves on the San Antonio Chamber of Commerce Executive Board."},
+      {"org": "University of the Incarnate Word (UIW)", "role": "Board of Trustees member / major donor", "category": "civic", "source_url": "https://www.uiw.edu/news/2025/01/uiw-announces-500,000-gift-for-renovation-of-founders-hall.html", "snippet": "Joeris is a UIW Board of Trustees member and philanthropist who has made major gifts to the university."}
+    ]
+  },
+  {
+    "donor_id": "71327cfb-711b-45ac-9973-99fc4349ff07",
+    "name": "Aschbacher, Carolyn",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor record lists occupation and employer as 'Not Employed'; San Antonio, TX location (78232). Public records associate a Carolyn Aschbacher with the San Antonio Aschbacher family, corroborating the location, but no employer, profession, board seat, or advocacy role is documented. No FEC contributions on record and no Texas lobbyist registration.",
+    "source_url": "https://clustrmaps.com/person/Aschbacher-2a12s7",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6c3178e4-c70c-4c2b-b69d-a1ae28ad0d6b",
+    "name": "Garza, Steve",
+    "resolved_employer": "Partners Real Estate (formerly Providence Commercial Real Estate), San Antonio",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Commercial real estate broker/partner in San Antonio with 36+ years' experience specializing in office/industrial tenant representation; office at 100 NE Loop 410 Ste 510, San Antonio, TX 78216, matching donor's 78216 zip and self-reported 'Commercial Real Estate' occupation. CCIM designee, member of the Real Estate Council of San Antonio. No TX lobbyist registration and no notable federal PAC affiliations found.",
+    "source_url": "https://partnersrealestate.com/our-people/steve-garza/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6b3f862e-1bf4-4a5d-bc37-a64ca79ce7fc",
+    "name": "Stettler, John",
+    "resolved_employer": "J & M Plastics, Inc. (Royse City, TX) - owner/president",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Corporate records identify John Stettler as president/director of J & M Plastics, Inc., a plastics injection-molding manufacturer at 1121 Industrial Dr, Royse City, TX 75189, incorporated 1989 (Helen Stettler VP). Matches donor's Royse City 75189 address, 'Owner' occupation, and 'J & M Plastics Inc' employer. Taxonomy has no manufacturing category; classified Self-Employed as owner-operator. No individual issue-PAC affiliations found; no TX lobbyist registration.",
+    "source_url": "https://www.corporationwiki.com/Texas/Dallas/john-stettler/33477043.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "685c89f2-52cd-42d7-ab86-701f24c8b0cc",
+    "name": "Loegering, Weston",
+    "resolved_employer": "Retired; formerly partner at Jones Day (Dallas)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Weston C. Loegering is a prominent Dallas attorney (securities litigation / SEC enforcement / white-collar defense), longtime Jones Day partner, Harvard AB 1978, Georgetown JD 1981; Dallas location (75218 Lakewood) is consistent. Donor record lists 'Not Employed,' consistent with the attorney being retired. Uncommon name + Dallas + legal profile give a strong but not address-corroborated match. No issue-PAC ties beyond ordinary contributions; no TX lobbyist registration. (retired)",
+    "source_url": "https://www.martindale.com/attorney/mr-weston-clark-loegering-15103750/?pa=68",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "664b499d-001c-4a1a-9cc2-9c3de330a562",
+    "name": "Muller, Tiffany",
+    "resolved_employer": "End Citizens United / Let America Vote (President)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Tiffany Muller is the well-documented President of End Citizens United, Let America Vote, and the ECU/Let America Vote Action Fund — a campaign-finance-reform and voting-rights advocacy organization/PAC. Former Topeka (KS) City Council member (first openly gay elected official in Kansas), former DSCC Deputy Political Director. DC address (20020) consistent with ECU's Washington base.",
+    "source_url": "https://www.endcitizensunited.org/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "End Citizens United / Let America Vote", "role": "President", "category": "political", "source_url": "https://www.endcitizensunited.org/about", "snippet": "Tiffany Muller serves as President of End Citizens United, Let America Vote, and the ECU/Let America Vote Action Fund, a campaign-finance-reform and anti-corruption advocacy group and PAC."}
+    ]
+  },
+  {
+    "donor_id": "663c14b6-73c8-4b48-9c1e-e69fffc53fa4",
+    "name": "Sanchez, Juan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor filing lists occupation and employer as 'Information Requested' (undisclosed). 'Juan Sanchez' is an extremely common name and no public record could be reliably tied to this specific individual at 8455 Sierra Hermosa, San Antonio, TX 78255. FEC and TX lobbyist name searches were run and returned nothing confirmable for this person. No confident identity resolution.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  }
+]

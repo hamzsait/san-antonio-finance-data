@@ -1,0 +1,228 @@
+[
+  {
+    "donor_id": "068e3e1f-4fdc-4e44-95bc-39c9a0029b96",
+    "name": "Cauthorn, Kim",
+    "resolved_employer": "Kimberly Klein Cauthorn, JD (St. Mary's Univ. School of Law) — Intellectual Property Leader (Risk & Broking, North America) at Willis Towers Watson (WTW), San Antonio; attorney formerly at Baker Botts, Marsh, Duff & Phelps, Kroll",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Donor occupation 'Attorney' + employer 'Willis Towers Watson' + San Antonio 78212 exactly match Kimberly K. Cauthorn, WTW's IP-insurance practice leader and a licensed Texas attorney. She holds a JD from St. Mary's University; her career (Baker Botts, insurance/IP risk consulting) is well documented. FEC/city-data show a Kimberly Cauthorn, San Antonio, giving small Democratic (ActBlue) contributions — consistent with high fec_donation_count driven by recurring small donations. No AIPAC/J Street/DMFI, oil & gas, gun, or defense-contractor PAC activity found.",
+    "source_url": "https://www.wtwco.com/en-us/news/2021/12/willis-towers-watson-appoints-kim-cauthorn-to-lead-its-intellectual-property-practice",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ea3b244b-835f-4ad1-bb2c-f3cce87db181",
+    "name": "Acebo, Kevin",
+    "resolved_employer": "President/Owner, Acebo & Associates, LLC (business/government-affairs consulting), Long Beach, CA; formerly City of Los Angeles / Mayor Villaraigosa's office",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Donor 'Consultant / Self Employed' at 3446 Gundry Ave, Long Beach 90807 matches the registered address of Acebo & Associates, LLC, a single-owner consulting firm led by Kevin Acebo (USC public affairs; prior LA Mayor's office). Address + occupation + self-employed status align. FEC/city-data individual-contribution records surfaced no AIPAC/J Street, oil & gas, gun, or defense PAC activity.",
+    "source_url": "https://www.linkedin.com/in/kevin-acebo-13370413/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cb7ce28c-d61d-4247-a43f-ddc17ca9c864",
+    "name": "Sibley, William",
+    "resolved_employer": "Self-employed writer (retired) — William Jack Sibley, San Antonio novelist, playwright, screenwriter and rancher (River Road, 78212); contributing editor at Interview Magazine; TV dialogue for Guiding Light and Murphy Brown",
+    "industry": "Media",
+    "confidence": "medium",
+    "evidence": "Donor is 'Not Employed', PO Box in San Antonio 78212. Best public match is William Jack Sibley (1952-2025), a well-known San Antonio novelist/playwright/screenwriter who lived in a River Road home (78212). 'Not Employed' is consistent with a self-employed/retired author-rancher. Common name and PO-Box mailing address prevent full corroboration, hence medium confidence. fec_donation_count is 0; no PAC or ideological-org activity found.",
+    "source_url": "https://www.legacy.com/us/obituaries/sanantonio/name/william-sibley-obituary?id=59365543",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "adfd369d-58ac-4d43-bff4-292a1396a088",
+    "name": "Ho, Wendy",
+    "resolved_employer": "Wendy L. Ho, MPA — Chief of Staff, Office of Santa Clara County Supervisor Otto Lee; former San Jose-Evergreen Community College District Trustee (2012-2024); former Chief Strategy & Policy Officer, Silicon Valley Council of Nonprofits",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Donor 'Chief of Staff / County of Santa Clara' + San Jose 95123 match Wendy Ho, Chief of Staff to Supervisor Otto Lee (District 3), a documented civic leader (MPA Indiana Univ.; UCSD BA), former community-college trustee and nonprofit policy officer, Emerge California alumna. Identity, employer, and location corroborated. fec_donation_count 65 is consistent with recurring small Democratic giving; no AIPAC/J Street, oil & gas, gun, or defense-contractor PAC affiliations documented.",
+    "source_url": "https://www.linkedin.com/in/wendylho/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ade16d2f-a3cf-4cc1-8f06-40e8f5c895d1",
+    "name": "Anrew Casias, Thomas",
+    "resolved_employer": "Self-employed real estate investor, San Antonio, TX 78213 (no distinct public profile located)",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Donor lists occupation 'Real Estate Investor' and employer 'Self' at 101 Briarcliff Dr, San Antonio 78213. No public bio, LinkedIn, firm page, FEC record, or lobbyist registration could be tied specifically to a Thomas (Andrew) Casias in San Antonio real estate. Categorized by stated occupation only (Real Estate) with low confidence given no identity corroboration. No PAC or advocacy affiliations found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a0ff0f57-403f-4308-b8b2-c5916e0e0538",
+    "name": "Finch, Calvin",
+    "resolved_employer": "Self-employed horticulturist / gardening columnist (San Antonio Express-News, radio) — formerly Director of Water Conservation & Technology Center (Texas A&M AgriLife/TEES) and Director of Conservation for San Antonio Water System (SAWS)",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Dr. Calvin R. Finch is a well-documented San Antonio horticulturist and gardening columnist for the San Antonio Express-News (also a longtime garden radio personality). He spent 22 years in Texas water conservation, most recently directing the Texas A&M Water Conservation and Technology Center after serving as SAWS director of water conservation. San Antonio 78229 location and 'Horticulturist / Self' occupation match. Classified Media for his current primary public activity as a freelance gardening columnist/broadcaster (former career: SAWS water conservation, academia/Texas A&M). No ideological PAC contributions or Texas/city lobbyist registration found.",
+    "source_url": "https://www.plantanswers.com/calvin_finch.htm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a04b818f-9fcc-4f49-b0bd-be0f880f710c",
+    "name": "Lazarus, Andrew",
+    "resolved_employer": "Retired mathematician and software engineer (formerly NetScout; number-theory/game-theory background) (retired)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Andrew Lazarus of Berkeley, CA 94705 is a self-described 'retired mathematician and software engineer' (Substack @drlaz; academia.edu CV in number theory/game theory). Campaign-finance records tie an Andrew Lazarus, software engineer (NetScout), Berkeley 94705, to a modest Democratic donation, corroborating name, location, and career; the record's 'Not Employed' is consistent with retirement. Classified Technology (retired software engineer). No ideological PAC ties or lobbyist registration found.",
+    "source_url": "https://substack.com/@drlaz",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "77807a3f-93e2-44d0-ae31-00874a5b0b17",
+    "name": "Nelson, Piper",
+    "resolved_employer": "I Live Here I Give Here (Executive Director), Austin nonprofit for local philanthropy",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Piper Stege Nelson is Executive Director of I Live Here I Give Here, an Austin nonprofit promoting local giving (Amplify Austin). Austin 78705 location and occupation match exactly. She is a documented Austin nonprofit/advocacy leader: former Chief Public Strategies Officer at The SAFE Alliance, former Deputy Executive Director of Annie's List, former Publisher of The Texas Observer; ran for Austin ISD District 5 in 2020. No ideological PAC contributions or lobbyist registration found.",
+    "source_url": "https://en.wikipedia.org/wiki/Piper_Stege_Nelson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Annie's List", "role": "Former Deputy Executive Director", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Piper_Stege_Nelson", "snippet": "Nelson previously worked with Annie's List, a political action committee which recruits, trains, and supports progressive women running for office in Texas."},
+      {"org": "AIDS Services of Austin", "role": "Former Board Chair", "category": "civic", "source_url": "https://theorg.com/org/i-live-here-i-give-here/org-chart/piper-stege-nelson", "snippet": "She has served as Board Chair of AIDS Services of Austin and on the Austin Commission for Immigrant Affairs."}
+    ]
+  },
+  {
+    "donor_id": "72437828-b743-4fef-a157-45262e61bf93",
+    "name": "Peeler, John",
+    "resolved_employer": "Coveler & Peeler, P.C. (Principal, Government Law practice), Houston",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "John W. Peeler is a Principal at Coveler & Peeler, P.C. in Houston, overseeing the firm's Government Law practice and representing dozens of Emergency Services Districts across Texas; he joined the firm in 2004 after serving at the Texas Commission on Environmental Quality, the Office of the Attorney General, and the University of Houston System. Houston 77061 location and 'Attorney / Coveler & Peeler' occupation match. FEC records show a John Peeler, attorney at Coveler & Peeler, making an ActBlue contribution, consistent with a Democratic-leaning small-dollar donor. No ideological PAC ties and no Texas/city lobbyist registration found (government-law attorney, not a registered lobbyist).",
+    "source_url": "https://www.coveler.com/john-w-peeler",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6fb51b2c-d7df-47ad-92fa-31f2b0644429",
+    "name": "Page, Martin",
+    "resolved_employer": "MDW Communications (Partner & Chief Operating Officer), Democratic political advertising/digital-strategy agency, Miami",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Martin Page is Partner and Chief Operating Officer at MDW Communications, a Democratic political advertising/digital-strategy firm; Miami 33130 location and 'Partner/COO / MDW Communications' occupation match (firm team page and Florida Politics promotion announcement). A digital strategist/speechwriter, he led email fundraising for Miami-Dade Mayor Daniella Levine Cava and Nikki Fried's gubernatorial campaign. Classified Consulting / PR (political consulting). No ideological PAC contributions or lobbyist registration documented; his work is professional Democratic-campaign consulting rather than a personal advocacy affiliation.",
+    "source_url": "https://mdwcommunications.com/team/martin-page/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "61183136-ccf6-4afa-9d4b-70c95e2f8d80",
+    "name": "Nulud, Philip",
+    "resolved_employer": "Buchalter (law firm), Los Angeles — Shareholder/Partner, Intellectual Property",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Firm and directory profiles confirm Philip Angelo Lim Nulud (CA Bar #245147), IP attorney and Shareholder/Partner at Buchalter's LA office; Chair of Luxury Brand Practice, Co-Chair Internet Law/E-Commerce Practice, Adjunct Professor of Fashion Law at Loyola. Playa Vista address matches Buchalter's LA office location. Bio shows only Asian-American/Filipino bar-association leadership (NAPABA, NFALA, PABA) and INTA committee — no pro-Israel/Palestine, gun, oil/gas, or defense-PAC affiliations. FEC count 0.",
+    "source_url": "https://www.buchalter.com/lawyer/philip-nulud/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "58f78708-94ff-4df7-9c61-7cc8fe298036",
+    "name": "Duterroil, Jerry",
+    "resolved_employer": "Jerry G. Duterroil, Attorney at Law (solo private practice), San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "State Bar of Texas (member id 166162) and Avvo/legaldirectories confirm Jerry Gail Duterroil, solo-practice attorney in San Antonio; Avvo lists his address as 702 Lost Cyn, 78258, an exact match to the donor record. Donor record lists 'Not employed' (likely semi-retired/inactive practice). Historical contribution to Charles Gonzalez congressional campaign via city-data; no ideological PAC activity. Not found in Texas Ethics Commission or City of San Antonio lobbyist registries.",
+    "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=166162",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "570651c3-d024-4141-9c4c-baac81e6add5",
+    "name": "Barnett, Claire",
+    "resolved_employer": "Blue Horizon Texas (political nonprofit) — Co-Founder & Executive Director",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "LinkedIn, RocketReach, and BlueHorizonTexas.org confirm Claire Barnett (M.Ed.), San Antonio, is Co-Founder and Executive Director of Blue Horizon Texas, a Democratic/progressive political nonprofit she co-founded in 2021; she is also a two-time Democratic nominee for Texas House District 122 (2018, 2020). FEC count 52 reflects frequent small Democratic donations; no pro-Israel/Palestine, gun, oil/gas, or defense-PAC affiliations documented. Not found in Texas Ethics Commission or City of San Antonio lobbyist registries. Her partisan/candidate activity is not one of the tracked balanced affiliation categories.",
+    "source_url": "https://www.bluehorizontexas.org/our-story",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "555a2364-fb0a-47e5-8c51-14fdc7513f40",
+    "name": "Marke, Joanne",
+    "resolved_employer": "State of Nevada, Dept. of Personnel (retired public employee)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Transparent Nevada NVPERS pension record shows Joanne Marke retired from the Nevada Dept. of Personnel with 29.24 years of service, consistent with the Reno 89509 'Retired' donor record. City-data shows a Reno donor Joanne B. Marke gave to EMILY's List, a Democratic women's PAC — not one of the tracked balanced categories (Israel/Palestine, gun, oil/gas, defense). FEC count 0. No lobbyist registration. Retiree classified by former career: Government (retired).",
+    "source_url": "https://transparentnevada.com/pensions/2015/nvpers/joanne-marke/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5043c868-7215-4456-a680-07319b1d07e4",
+    "name": "Rothen, Robert",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor record lists 'Not Employed' at 9926 Cominsky Park, San Antonio 78250, with FEC count 35 (frequent donor). Public web yields only a 'Kathy & Robert Rothen' listed as supporters/patrons of Camerata San Antonio (a chamber-music nonprofit) and an unrelated 2004 obituary for a different Robert Rothen — neither confirms a current employer or career for this donor. No ideological/PAC affiliations found. Not found in Texas Ethics Commission or City of San Antonio lobbyist registries. Cannot confirm industry beyond the 'Not Employed' self-designation.",
+    "source_url": "https://cameratasa.org/support/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3cf47909-8f7a-4521-a751-b38ba814496b",
+    "name": "Fine, Thomas",
+    "resolved_employer": "None (Not Employed / retiree); specific individual not confirmed",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor listed as Not Employed at 701 Quail Hill Ct, Auburn CA 95603 with 61 FEC contributions, suggesting a prolific small-dollar retiree donor. 'Thomas Fine' is a common name and no public profile ties this specific Auburn/Placer County resident to an identifiable individual or former career. Address confirmed as a single-family home in Auburn, but the person cannot be resolved beyond the stated Not-Employed status, so industry left null. FEC individual-contributor and TX/city lobbyist searches surfaced no ideological-PAC activity or registrations attributable to this specific person.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=FINE+THOMAS&contributor_state=CA&contributor_city=AUBURN",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "397b4521-571a-4d8a-bad1-dc020d4bcfc0",
+    "name": "WARDLAW, ANDREA",
+    "resolved_employer": "HH Oil Tools Inc. (Houston-area oil-field equipment/services company) — Shipping Coordinator",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "Donor is a Shipping Coordinator at HH Oil Tools Inc., a Houston-area oil and gas field-services/equipment company (per Dun & Bradstreet and Manta business profiles), residing at 13118 Jenny Wood Ct, Cypress TX 77429. Classified by employer (oil-field services) as Energy / Environment. She is a logistics/shipping employee, not an executive or owner, so no oil_gas policy-advocacy affiliation is warranted. fec_count 0 (no FEC PAC activity); no Texas Ethics Commission or City of San Antonio lobbyist registration found. No individual public profile beyond the employer, so identity confirmed only to the categorize-by-employer level.",
+    "source_url": "https://www.dnb.com/business-directory/company-profiles.hh_oil_tools_inc.74c52522ec5e0d2db0fb559811438fa3.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2de3a705-5dd0-455a-93c2-3c6f4c1d1878",
+    "name": "Baylan, Faye",
+    "resolved_employer": "Baylan MD PA (medical practice of Dr. Salvador P. Baylan, physical medicine & rehabilitation, San Antonio) — Registered Nurse",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Donor is an RN whose employer 'Baylan MDPA' is the professional-association medical practice of Dr. Salvador P. Baylan, a longtime San Antonio physiatrist (physical medicine & rehabilitation). PACC-Greater San Antonio material identifies Faye Baylan as Dr. Salvador Baylan's wife, corroborating identity via spouse, RN occupation, and San Antonio 78258 location (144 Stone Hill Dr). Employer is a healthcare/medical practice. fec_count 1; no ideological PAC contributions and no Texas Ethics Commission or City of San Antonio lobbyist registration found.",
+    "source_url": "https://www.paccgsa.org/2022-tofsa-salvador",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2ce77f60-61f1-4474-9de8-5cac185fb7cf",
+    "name": "Matthews, Daniel",
+    "resolved_employer": "Daniel P. Matthews (self-employed) — Consultant & Business Advisor / Attorney, Needham Heights, MA",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Identity confirmed by exact address match: Daniel P. Matthews is listed at 280 Hillside Avenue, Needham Heights MA 02494 in the Charles River Regional Chamber directory, categorized as 'Consultant & Business Advisor' with a secondary 'Attorney' listing (also on Martindale/Avvo as a Needham lawyer). Matches donor occupation 'Consultant' and self-employer designation; classified Consulting / PR. Documented Democratic small-dollar giving consistent with a prolific donor (fec_count 149). No ideological PAC (AIPAC/J Street/oil-gas/gun/defense) activity and no Texas lobbyist registration found (out-of-state MA resident).",
+    "source_url": "https://crrc.charlesriverchamber.com/list/Details/daniel-p-matthews-2827592",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "274a2f35-937b-4edc-bb5c-808e0ebb8400",
+    "name": "Silberman, Claire",
+    "resolved_employer": "Former attorney (corporate litigation/banking until 1997); now full-time philanthropist and nonprofit board member (Not Employed)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Identity confirmed by exact address match (360 Furman St, Brooklyn NY 11201). Claire Silberman (Stanford BA, JD) practiced corporate litigation and banking law until 1997 and is now a Brooklyn Heights philanthropist and nonprofit-board member; her giving focuses on at-risk populations, progressive organizations, and environmental groups. Current activity is full-time board/philanthropy work, so classified Nonprofit / Advocacy. fec_count 0; no ideological PAC (AIPAC/J Street/oil-gas/gun/defense) activity and no Texas lobbyist registration found (NY resident). Board seats are civic/philanthropic, not tracked policy-advocacy categories.",
+    "source_url": "https://philanthropynewyork.org/news/brooklyn-community-foundation-introduces-new-board-trustees-and-staff",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Brooklyn Community Foundation (Brooklyn Org)", "role": "Board of Trustees member", "category": "civic", "source_url": "https://philanthropynewyork.org/news/brooklyn-community-foundation-introduces-new-board-trustees-and-staff", "snippet": "Claire Silberman, a philanthropist and former lawyer, was elected to the Board of Trustees of the Brooklyn Community Foundation; she has also held positions at Independence Community Foundation, Voter Participation Center, and StreetWise Partners."},
+      {"org": "The Tank (NYC nonprofit arts presenter)", "role": "Board Emeritus", "category": "civic", "source_url": "https://www.zoominfo.com/p/Claire-Silberman/1370022796", "snippet": "Listed as Board Emeritus at The Tank, a nonprofit arts presenter and producer in New York City."}
+    ]
+  }
+]

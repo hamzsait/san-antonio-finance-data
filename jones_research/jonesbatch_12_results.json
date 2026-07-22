@@ -1,0 +1,257 @@
+[
+  {
+    "donor_id": "36bcbdd5-7c38-4e46-bf23-e9b3f742faf7",
+    "name": "Gutirrez, Elsa",
+    "resolved_employer": "Southern California Edison (electric utility) - Project Manager / Senior Advisor",
+    "industry": "Energy / Environment",
+    "confidence": "low",
+    "evidence": "Occupation and title (Project Manager/Senior Advisor at Southern California Edison) match a LinkedIn/RocketReach profile for an Elsa Gutierrez who is a Portfolio Manager & Senior Advisor, Grid Computing at SCE; however that profile is based in Rosemead, CA while the donor address is a downtown San Antonio high-rise (106 S Saint Marys St, 78205), so identity is not fully confirmed. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://rocketreach.co/elsa-gutierrez-email_10540106",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "366d027e-902b-4c37-80e4-e0bb00a527af",
+    "name": "Heard, John",
+    "resolved_employer": "Heard & Smith, L.L.P. - founding attorney (Social Security disability / probate law), San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "John R. Heard, UT Austin Law 1975, began San Antonio practice 1976; longtime Social Security disability attorney and named partner at Heard & Smith L.L.P. (3737 Broadway matches donor address). Past President of the National Organization of Social Security Claimants' Representatives. Prolific Democratic donor (FEC lean 0.916, 191 donations); no single-issue ideological PAC or TX lobbyist records surfaced.",
+    "source_url": "https://www.heardandsmith.com/john-heard.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National Organization of Social Security Claimants' Representatives (NOSSCR)", "role": "Past President", "category": "business", "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/john-r-heard/89e6a5d4-397d-4889-bab2-eb8cd9de621c.html", "snippet": "Past President of the National Organization of Social Security Claimants' Representatives; has represented Social Security claimants for over 30 years."}
+    ]
+  },
+  {
+    "donor_id": "341ffcc3-10d3-40fc-8f97-62233006fa27",
+    "name": "Eicher, Douglas",
+    "resolved_employer": "Not currently employed per filing; former tech executive (Apple, Microsoft, startups), now contract consultant/mentor and arts-nonprofit board member in Austin",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Doug Eicher of Austin, TX (matches Monte Vista Dr / 78731) had 20+ yr career at Apple and Microsoft and in tech startups; now does contract consulting/mentoring (Mass Challenge, Techstars) and serves on arts-nonprofit boards (Interlochen, KMFA, Austin Soundwaves) plus Out Youth as Treasurer. Filing lists 'Not Employed'; former career is Technology. FEC lean 1.0, 37 donations; no ideological PAC or lobbyist records.",
+    "source_url": "https://www.dougeicher.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Out Youth (Austin LGBTQ youth nonprofit)", "role": "Finance Chair and Treasurer", "category": "civic", "source_url": "https://about.me/dougeicher", "snippet": "Serves on the board of Out Youth as Finance Chair and Treasurer, the KMFA Campaign Steering Committee."}
+    ]
+  },
+  {
+    "donor_id": "33f1f08a-8f73-49d4-b820-a29e112c8e26",
+    "name": "Kastl, Krisi",
+    "resolved_employer": "Kastl Law, P.C. - founder and personal-injury trial attorney, Dallas",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Kristina 'Krisi' N. Kastl, Texas Tech Law, admitted 2000; founder of Kastl Law P.C. (4144 N Central Expy, Dallas 75204 matches donor address), 20+ yr personal injury practice. Served as 10th female President of the Dallas Bar Association. FEC lean 1.0, 257 donations; no single-issue ideological PAC or TX lobbyist records found.",
+    "source_url": "https://www.kastllaw.com/attorney/kastl-kristina-n-j-d/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Dallas Bar Association", "role": "Past President (10th female president)", "category": "civic", "source_url": "https://www.dmagazine.com/publications/d-magazine/2023/august/leaders-in-law-krisi-kastl/", "snippet": "She was the 10th female president of the Dallas Bar Association."}
+    ]
+  },
+  {
+    "donor_id": "2ff4dfcf-7fda-41fd-84e2-4184d08e6dfb",
+    "name": "Shaw, James",
+    "resolved_employer": "Carabin Shaw, P.C. - founding/managing partner, personal-injury trial attorney, San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "James Michael Shaw, born Refugio, TX 1966, co-founded Carabin & Shaw P.C. in 1992 and has been managing attorney since; personal-injury/auto-accident/wrongful-death practice in San Antonio (matches 78209 residence). Fellowship member of Texas Trial Lawyers Association; member AAJ. FEC lean 1.0, 41 donations; no ideological single-issue PAC or TX lobbyist records found.",
+    "source_url": "https://www.carabinshaw.com/james-michael-shaw.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Trial Lawyers Association", "role": "Fellowship Member", "category": "business", "source_url": "https://www.carabinshaw.com/james-michael-shaw.html", "snippet": "Shaw is considered a Fellowship Member of the Texas Trial Lawyers Association; member of the American Association for Justice and National Trial Lawyers Association."}
+    ]
+  },
+  {
+    "donor_id": "2ec625f4-f9d7-4d2f-90ba-7fd2271e3129",
+    "name": "Martinez, Mike",
+    "resolved_employer": "MWM Professional Services (self-employed)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Listed as self-employed, owner of 'MWM Professional Services' at a Manor, TX (78653) residential address. No public business profile, website, or news coverage confirms the nature of the business (it is distinct from the unrelated Austin engineering firm 'MWM DesignGroup,' founded by Roberto Martinez/Michael Wright). No FEC federal PAC contributions and no Texas Ethics Commission lobbyist registration found under this name/location. Categorize-by-employer fallback: generic self-employed 'professional services' with no confirmable public profile.",
+    "source_url": "https://www.mwmdesigngroup.com/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2e002d12-3715-4302-908d-4eef361de58f",
+    "name": "Shields, Joseph",
+    "resolved_employer": "McCombs Enterprises",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Joseph 'Joe' Shields is Executive Vice President of McCombs Enterprises, the San Antonio-based diversified family holding/investment company founded by the late Red McCombs; he is a grandson of Red and Charline McCombs (son of CEO Marsha Shields) and serves as the family's point person for its San Antonio Spurs ownership stake. McCombs Enterprises' core operations span real estate development, ranching, energy and investments. Industry classified as Real Estate as the enterprise's principal ongoing business, though it is a diversified family holding company (Finance/VC also arguable). FEC partisan lean 0.397 across 97 donations; individual FEC contribution detail not retrievable in this session, no ideological/pro-Israel/oil-gas/defense PAC confirmed. No Texas lobbyist registration found for the individual.",
+    "source_url": "https://theorg.com/org/mccombs-enterprises/org-chart/joseph-shields",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Spurs (McCombs family ownership group)", "role": "Family point person / minority-owner representative", "category": "business", "source_url": "https://www.sportico.com/leagues/basketball/2023/san-antonio-spurs-mccombs-family-minority-owner-1234760542/", "snippet": "The McCombs family rejoined the NBA's Spurs as a minority owner, with Joe Shields serving as the point person for the family's stake."}
+    ]
+  },
+  {
+    "donor_id": "2d90ba08-f172-4e0d-9c3f-23af8fb5324b",
+    "name": "Arechiga, Jaime",
+    "resolved_employer": "Retired (formerly Hillstar Investments / Hillstar, Ltd.)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Retired San Antonio resident (78260); property records confirm Jaime & Elizabeth G. Arechiga own the home at 2310 Winding View. CorporationWiki lists Jaime Arechiga as General Partner of Hillstar, Ltd., associated with ~26 companies over ~38 years; Hillstar Investments was a single-family residential development firm operating in South and Central Texas for over a decade. Classified Real Estate based on his prior real-estate development career (now retired). (Note: distinct from Jason Arechiga, SVP of Development at The NRP Group.) No FEC ideological PAC contributions and no Texas lobbyist registration found; FEC partisan lean 0.0 across 24 donations.",
+    "source_url": "https://www.corporationwiki.com/Texas/Laredo/jaime-arechiga/30163530.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2cff01c3-13f2-4943-bea9-c10ccd302aff",
+    "name": "Linebarger Goggan Blair & Sampson, LLP",
+    "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP (entity)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Entity, not an individual. Austin-headquartered law firm founded 1991, the largest U.S. government-receivables/property-tax and municipal-debt collection law firm, holding lucrative collection contracts with state and local governments nationwide. The firm is a registered Texas Ethics Commission lobbyist entity employing many lobbyists (2026 clients include Powering Texans, Rush Street Gaming, Stewart Title, Texans for Ammo, VIP Insurance). Per OpenSecrets (org id D000035407), the firm/its partners are major, predominantly Democratic-leaning political donors (~$26,141 reported in the 2020 cycle). The firm has a documented history of political controversy (a partner pled guilty in 2004 to bribing San Antonio councilmembers over a contract). Industry = Legal.",
+    "source_url": "https://www.opensecrets.org/orgs/linebarger-goggan-et-al/summary?id=D000035407",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Ethics Commission (registered lobbyist firm)", "role": "Registered lobby firm employing multiple lobbyists on municipal/tax-collection and other client matters", "category": "political", "source_url": "https://www.ethics.state.tx.us/search/lobby/", "snippet": "Linebarger Goggan Blair & Sampson, LLP is registered with the Texas Ethics Commission as a lobby firm representing multiple clients."}
+    ]
+  },
+  {
+    "donor_id": "2b673bd4-3cc3-445f-bc5f-6bc17747cce6",
+    "name": "Cohen, Peter",
+    "resolved_employer": "Partnership Fund for New York City",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Peter Cohen is General Counsel of the Partnership Fund for New York City, a nonprofit social-impact/economic-development investment fund (its charitable investment arm affiliated with the Partnership for NYC). He is a transactional attorney (JD, NYU Law) formerly at Paul, Weiss and Weil Gotshal; in his GC role he oversees investment controls, regulatory reporting and compliance and helped establish the FinTech Innovation Lab, NY Digital Health Accelerator and NYC Seed. Occupation is Attorney/General Counsel, so classified Legal (the employing fund is a civic/impact-investment nonprofit). FEC partisan lean 1.0 (fully Democratic) across 37 donations; no ideological/pro-Israel/oil-gas/defense PAC or lobbyist registration surfaced beyond routine partisan giving.",
+    "source_url": "https://www.linkedin.com/in/peter-cohen-57210bb/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2a84f818-0d71-459a-b925-de7b8d87b6c0",
+    "name": "Bartley, Edith",
+    "resolved_employer": "Thurgood Marshall College Fund (former VP of Government Affairs); independent advocate",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Edith L. Bartley (Washington, D.C./Bowie, MD area) is a well-documented advocate. She served as Vice President of Government Affairs for the Thurgood Marshall College Fund (TMCF) and previously as Director of Government Affairs for UNCF, advocating on HBCU/higher-education policy. For 25+ years she has been the chief advocate/spokesperson for American families of embassy personnel killed by terrorism, following the 1998 Al-Qaeda bombing of the U.S. Embassy in Nairobi that killed her father (Consul General Julian Bartley) and brother; she helped enact bipartisan diplomatic-family benefits legislation (Foreign Service Victims of Terrorism Act) and advocated the U.S.-Sudan bilateral settlement. Industry = Nonprofit / Advocacy.",
+    "source_url": "https://edithbartley.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Thurgood Marshall College Fund (TMCF)", "role": "Former Vice President of Government Affairs (HBCU/higher-education policy advocacy)", "category": "civic", "source_url": "https://edithbartley.com/about/", "snippet": "Former Vice President of Government Affairs for the Thurgood Marshall College Fund and former Director of Government Affairs for UNCF."},
+      {"org": "American Families of the 1998 U.S. Embassy (Nairobi) bombing victims", "role": "Chief advocate/spokesperson; drove diplomatic-family terrorism benefits legislation and U.S.-Sudan settlement advocacy", "category": "civic", "source_url": "https://www.cnn.com/2020/08/07/politics/us-embassy-bombings-sudan-settlement", "snippet": "East African U.S. embassy bombing survivors and families, led by advocates like Edith Bartley, urged Congress to approve the Sudan settlement."}
+    ]
+  },
+  {
+    "donor_id": "28cd6323-0652-4cae-9c9a-34c9f56c1f10",
+    "name": "Crockett, Jasmine",
+    "resolved_employer": "U.S. House of Representatives (campaign committee: Jasmine For US)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Sitting U.S. Rep. Jasmine Crockett (D-TX-30); donation routed through her campaign/leadership committee 'Jasmine For US' at her Dallas 75219 (Cedar Springs) address. Serves on House Judiciary Committee and House Oversight & Government Reform Committee (appointed Jan 2025). Publicly documented position on Israel/Gaza: states she does not take AIPAC money and has never been endorsed by AIPAC; critical of PM Netanyahu; says her 'yes' votes came on omnibus bills bundling Israel aid with humanitarian aid for Gaza/Ukraine/Taiwan/Haiti and that she voted against standalone Israel-only GOP packages. Running for U.S. Senate.",
+    "source_url": "https://crockett.house.gov/media/press-releases/rep-crockett-appointed-house-judiciary-committee-retains-position-house",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": [
+      {"org": "U.S. House of Representatives (TX-30)", "role": "Member of Congress; House Judiciary Committee and House Oversight & Government Reform Committee", "category": "political", "source_url": "https://clerk.house.gov/members/C001130", "snippet": "Rep. Jasmine Crockett [D-TX30, 2023-2026], Representative for Texas's 30th Congressional District."},
+      {"org": "Israel/Gaza policy (documented public position)", "role": "Member of Congress on record", "category": "civic", "source_url": "https://thegrio.com/2025/12/15/jasmine-crockett-explains-stance-on-israel-gaza/", "snippet": "Crockett clarified she is not endorsed by AIPAC and does not take AIPAC money; critical of Netanyahu's military campaign in Gaza; her Israel-aid 'yes' votes came on omnibus bills bundling humanitarian aid."}
+    ]
+  },
+  {
+    "donor_id": "27f7c29e-b924-4d90-a4c0-c8ed3f2e70aa",
+    "name": "Blount, Susan",
+    "resolved_employer": "Retired EVP & General Counsel, Prudential Financial; corporate board director (Cavco Industries) and UT Law adjunct professor",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Susan L. Blount, Austin TX; retired as EVP and General Counsel of Prudential Financial Inc. in 2015 (GC since 2005; joined Prudential 1985; prior associate at Kirkland & Ellis). Occupation 'Director' matches her current role as an independent corporate board director — joined the board of Cavco Industries Inc. in 2019. Since 2016 an adjunct professor at UT School of Law; serves on the University of Texas Law School Foundation board, executive committee of the Center for Women in Law, and the Nantucket Historical Association. Austin 78703 residence consistent with UT Law affiliation. Prolific Democratic donor (FEC lean 1.0).",
+    "source_url": "https://www.directorsandboards.com/roster_individual/susan-l-blount/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Cavco Industries, Inc.", "role": "Independent Board Director", "category": "business", "source_url": "https://www.directorsandboards.com/roster_individual/susan-l-blount/", "snippet": "Joined Cavco Industries Inc. (Phoenix, AZ) board in Q2 2019; manufacturer of residential homes with ~$1 billion in revenues."},
+      {"org": "Prudential Financial, Inc.", "role": "Former EVP & General Counsel (2005-2015)", "category": "business", "source_url": "https://law.utexas.edu/faculty/susan-l-blount/", "snippet": "Served as General Counsel of Prudential Financial from 2005 to 2015, leading a 700-person Law, Compliance, Business Ethics and External Affairs organization."},
+      {"org": "University of Texas Law School Foundation / Center for Women in Law", "role": "Trustee / Executive Committee", "category": "civic", "source_url": "https://utlsf.org/trustee/susan-blount/", "snippet": "Serves on the UT Law School Foundation and the executive committee of the Center for Women in Law."}
+    ]
+  },
+  {
+    "donor_id": "269e1f4f-eb16-4547-ab94-454c2d39aa8e",
+    "name": "Llorente, Michael",
+    "resolved_employer": "LSN Partners, LLC / LSN Law, P.A. (Miami government-relations & law firm)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Michael Llorente, Partner at LSN Partners, LLC (Miami-based government-relations/lobbying firm) and LSN Law, P.A. Practice centers on government affairs, government contracting/procurement, permitting/land use, and public affairs advocacy; counsels real estate developers, infrastructure/engineering firms on government contracting. Georgetown BA (2001), Northwestern Law JD (2007). Former chief-of-staff to then-Miami Commissioner (later Mayor) Francis Suarez; six years as general counsel to a special district; sat on City of Miami Charter Review Committee. Registered as a lobbyist (e.g., City of North Miami Beach 2019 registered-lobbyist list, representing Solemia re: '14585 Biscayne Blvd Site'). Note: donor-record zip 10905 is erroneous; actual address is Miami FL 33156.",
+    "source_url": "https://lsnpartners.com/staff/michael-llorente/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LSN Partners, LLC", "role": "Partner / registered lobbyist (government affairs & procurement)", "category": "business", "source_url": "https://lsnpartners.com/staff/michael-llorente/", "snippet": "Counsels real estate developers, infrastructure companies, contractors and engineering firms in government contracting and procurement; handled procurement matters valued at several billion dollars across state and local jurisdictions."},
+      {"org": "City of North Miami Beach (lobbyist registry)", "role": "Registered lobbyist", "category": "business", "source_url": "https://www.citynmb.com/DocumentCenter/View/5628/2019-Registered-Lobbyist-List-", "snippet": "Registered as a lobbyist with LSN Partners representing Solemia regarding the '14585 Biscayne Blvd Site' (registered March 26, 2019)."}
+    ]
+  },
+  {
+    "donor_id": "269d69bf-29cf-4fff-b26b-887d5e2597d3",
+    "name": "Burney, Frank",
+    "resolved_employer": "Martin & Drought, P.C. (San Antonio)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Frank B. Burney, Managing Partner at Martin & Drought, P.C., San Antonio (112 E. Pecan St, 78205 matches firm address). Practice focuses on governmental affairs, international business, benefit plans, financial institutions, real estate, and corporate/transactional matters. Registered lobbyist with the City of San Antonio; advisor to elected officials on public initiatives and bond referendums. Extensive civic leadership: former Chair/President of the City of San Antonio Zoning Commission, Rotary Club of San Antonio, San Antonio Bar Foundation, Southwest School of Art, Texas Lyceum, Jalisco-Texas Bilateral Commission, and Nature Conservancy Advisory Board; officer/trustee of San Antonio Chamber of Commerce, Free Trade Alliance, Texas Association of Bank Counsel, and Red Cross. St. Mary's Law JD (1979), Duke BA (1976). No AIPAC/ideological-PAC or state TEC lobbyist registration surfaced (registered at the City of San Antonio level).",
+    "source_url": "https://mdtlaw.com/attorney/frank-b-burney/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio (lobbyist registry)", "role": "Registered lobbyist; advisor on bond referendums and public initiatives", "category": "political", "source_url": "https://www.mdtlaw.com/areas-of-practice/governmental-affairs/", "snippet": "Registered lobbyist with the City of San Antonio; serves as an advisor to elected officials and for public initiatives and bond referendums."},
+      {"org": "City of San Antonio Zoning Commission", "role": "Former Chair", "category": "civic", "source_url": "https://mdtlaw.com/attorney/frank-b-burney/", "snippet": "Former Chair/President of the Zoning Commission (City of San Antonio), Rotary Club of San Antonio, San Antonio Bar Foundation, Southwest School of Art, Texas Lyceum."},
+      {"org": "San Antonio Chamber of Commerce / Free Trade Alliance", "role": "Officer / Trustee", "category": "business", "source_url": "https://mdtlaw.com/attorney/frank-b-burney/", "snippet": "Officer or trustee of the San Antonio Chamber of Commerce, the Free Trade Alliance, Texas Association of Bank Counsel and the Red Cross."}
+    ]
+  },
+  {
+    "donor_id": "238b50df-db6b-4204-8966-a6e453ddb563",
+    "name": "Poenisch, Gary",
+    "resolved_employer": "Gary M. Poenisch, P.L.L.C. (solo law practice, San Antonio) - self-employed",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Gary Maurice Poenisch, solo attorney, Gary M. Poenisch, P.L.L.C., San Antonio; office at 223 Laurel Heights Pl, San Antonio, TX 78212 matches donor record exactly ('Self' employer consistent with solo practice). ~38 years' experience in commercial real estate, employee rights, consumer rights, consumer bankruptcy, and general practice; State Bar of Texas licensed. Trinity University BA, Hunter College MA, Rutgers JD (1986). Prolific Democratic donor (FEC lean 1.0, 442 donations). No AIPAC/ideological-PAC ties, board seats, or lobbyist registrations surfaced beyond solo legal practice.",
+    "source_url": "https://www.martindale.com/attorney/mr-gary-maurice-gary-poenisch-1704825/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2305e1ad-1db5-44e9-8c54-1f589b952c2f",
+    "name": "Ybarra, Elias",
+    "resolved_employer": "It'SUGAR (candy retail chain, San Antonio)",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Donor lists occupation 'Front office' and employer 'It's Sugar' at a San Antonio address (78245). It'SUGAR is a candy/confection retail chain with San Antonio locations (Rivercenter, San Pedro Ave), placing the employer in Retail. Multiple people named Elias Ybarra exist in San Antonio (a hospitality/F&B director at IHG/InterContinental Riverwalk appears on LinkedIn, but that is a different employer), so the specific individual could not be uniquely confirmed. No lobbyist registration, PAC, or ideological-advocacy record was found. Quiet outcome.",
+    "source_url": "https://www.yelp.com/biz/itsugar-san-antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "209d6141-d056-493a-b5c7-ec93eb13267d",
+    "name": "Gonzalez, Roberto",
+    "resolved_employer": "GGC Engineers, Inc. (President & CEO / co-founder)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Donor's employer 'GGC Engineer, Inc.' and occupation 'Engineer' match Roberto P. Gonzalez, native San Antonian who co-founded GGC Engineers, Inc. in 1987 and serves as President/CEO. The firm's About page details his civil-engineering career (University Health System CIP, Alamodome, Bexar County Flood Control, SAISD bond programs) and civic board service. No Texas Ethics Commission lobbyist registration and no FEC PAC or ideological-advocacy affiliation were found; involvement is civic/business, not policy-advocacy of the balanced categories.",
+    "source_url": "https://www.ggctexas.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "CommuniCare Health Centers", "role": "Board Chairman", "category": "civic", "source_url": "https://www.ggctexas.com/about", "snippet": "Board chairman, CommuniCare (community-based healthcare system)."},
+      {"org": "Avenida Guadalupe Association", "role": "Board Chairman", "category": "civic", "source_url": "https://www.ggctexas.com/about", "snippet": "Board chairman, Avenida Guadalupe Association (San Antonio community/economic development org)."},
+      {"org": "City of San Antonio Airport Advisory Committee / 16 de Septiembre Commission / Historic Review Board", "role": "Member", "category": "civic", "source_url": "https://www.ggctexas.com/about", "snippet": "Civic service on City of San Antonio Airport Advisory Committee, 16 de Septiembre Commission, and Historic Review Board."}
+    ]
+  },
+  {
+    "donor_id": "1f5244e4-9b39-473b-91de-84242bb272fb",
+    "name": "Herrera, Jorge",
+    "resolved_employer": "Advanced Micro Devices (AMD) - Project/Program Manager",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Donor lists employer 'Amd' (Advanced Micro Devices, a semiconductor company = Technology) and occupation 'Pm' (project/program manager), San Antonio 78207. High FEC donation count (253) with strongly Democratic lean (0.988) is consistent with a small recurring online (ActBlue-style) individual donor. 'Jorge Herrera' is a common San Antonio name (attorney, CPA, UT research engineer all appear) and no public profile could be uniquely tied to this AMD PM. No lobbyist registration and no PAC or ideological-advocacy affiliation found. Quiet outcome.",
+    "source_url": "https://www.amd.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1f457701-b3eb-4c80-91f0-e7898b8f4b87",
+    "name": "Davila, Rosette",
+    "resolved_employer": "Retired (formerly pharmacist / Vice-President, Davila Pharmacy, San Antonio)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Donor lists occupation 'Retired' at San Antonio 78248. Public records identify Rosette Davila as a licensed San Antonio pharmacist (NPI 1558617217; PharmD UT-Austin 1989) and Vice-President of Davila Pharmacy, a well-known family-owned San Antonio pharmacy (referenced in Council District 5); she also appears as a director of the San Antonio Bowl Association. Distinctive name plus San Antonio location supports the match to a retired pharmacy professional (Healthcare). No Texas Ethics Commission lobbyist registration and no FEC PAC or ideological-advocacy affiliation found; the Bowl Association role is civic.",
+    "source_url": "https://npiprofile.com/npi/1558617217",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Bowl Association", "role": "Director", "category": "civic", "source_url": "https://www.corporationwiki.com/p/2e4hlj/rosette-davila", "snippet": "Rosette Davila - Director for San Antonio Bowl Association."}
+    ]
+  }
+]

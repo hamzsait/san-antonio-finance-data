@@ -1,0 +1,230 @@
+[
+  {
+    "donor_id": "1c71bb3e-a59f-4f1b-8998-11e69159248d",
+    "name": "Wilkerson, D. Karen",
+    "resolved_employer": "Retired; Smith County Democratic Party activist / LGBTQ advocate (Tyler, TX)",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "D. Karen Wilkerson of Tyler, TX is a Smith County Democratic Party activist (Democratic committeewoman, Senate District 1) and LGBTQ advocate; she and wife Jolie were the first same-sex couple to marry in Smith County (2015). 'Not Employed' matches a retired-activist profile; PO Box 6236 Tyler 75711 consistent.",
+    "source_url": "https://www.queerjoyetx.com/p/queer-joy-interview-5-d-karen-wilkerson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Smith County Democratic Party", "role": "Democratic committeewoman / activist (Senate District 1)", "category": "political", "source_url": "https://www.queerjoyetx.com/p/queer-joy-interview-5-d-karen-wilkerson", "snippet": "Longtime Smith County Democratic Party activist in Tyler; served as Democratic committeewoman for Senate District 1."}
+    ]
+  },
+  {
+    "donor_id": "1b045894-842d-4e1d-ae5e-e5c4c41683a5",
+    "name": "Dealey, Mandy",
+    "resolved_employer": "Retired; Austin civic figure and former Democratic candidate",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Amanda 'Mandy' Dealey is a well-known Austin (78703) civic figure and Democrat: 2014 candidate for Austin City Council District 10 (runoff) and a Democratic primary candidate for TX House District 48; served on numerous city and nonprofit boards. 'Not Employed' fits a retired civic activist; 297 FEC donations with Dem lean corroborate.",
+    "source_url": "https://ballotpedia.org/Amanda_%22Mandy%22_Dealey",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin City Council (Dist. 10) / TX House District 48 campaigns", "role": "Democratic candidate", "category": "political", "source_url": "https://theaustincommon.com/mandy-dealey-endorsed-austin-environmental-democrats-district-10-city-council-seat/", "snippet": "Described as a Democrat; the Austin Environmental Democrats endorsed Mandy Dealey for the District 10 city council seat; she also ran in the Democratic primary for TX House District 48."}
+    ]
+  },
+  {
+    "donor_id": "1ab895a2-e895-472e-b11f-4382dbbd706f",
+    "name": "Domingo, Daphne",
+    "resolved_employer": "Elliott Management (hedge fund) — Manager, DC-metro",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "ZoomInfo lists Domingo Daphne at Elliott Management (elliottmgmt.com email), a hedge fund; based in the Washington, D.C. area, consistent with the Alexandria, VA (22303) address. Matches the donor's stated employer and 'Manager' occupation. No FEC/lobbyist record.",
+    "source_url": "https://www.zoominfo.com/p/Domingo-Daphne/-1275231363",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1a0be7fe-ddc6-4877-8738-52eadf4aa38b",
+    "name": "Harst, Rudi",
+    "resolved_employer": "Self-employed musician/inspirational speaker; co-founder & former Spiritual Director (to 2019) of Celebration Circle",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Rudi Harst of San Antonio co-founded (1992, with wife Zet) the interfaith nonprofit Celebration Circle and served as its Spiritual Director until 2019; he is a self-employed performing musician, writer and speaker. Address (1830 E Pyron Ave 78223) and self-employed occupation match. (Celebration Circle is a private interfaith community with no policy-advocacy component, so not recorded as an affiliation per pipeline scope.)",
+    "source_url": "https://www.rudiharst.com/about-rudi",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1866b586-9723-405f-8571-2c8d0734efa8",
+    "name": "Martin, Katharine",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Address 115 W Huisache Ave is in the Monte Vista/Tobin Hill area of San Antonio (78212). No public bio, employer, or advocacy record could be confirmed for this specific Katharine Martin beyond a common name, despite 196 FEC donations; identity not uniquely verifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1801b510-e038-4dc3-a065-4fb1bfa50f3e",
+    "name": "Timmons, Kelly",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor self-reported as Not Employed at 6219 John Chapman, San Antonio 78240. No public profile could be confirmed for this specific individual (multiple unrelated Kelly Timmons results); no advocacy affiliations found despite 67 FEC donations.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1760af09-e6c9-4129-a591-591dec052e0a",
+    "name": "Ippolito, Gregory",
+    "resolved_employer": "Texas Biomedical Research Institute (Associate Professor, immunology/antibody research)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Gregory C. Ippolito, Ph.D., antibody/immunology scientist and Associate Professor at Texas Biomed in San Antonio (formerly ~13 yrs at UT Austin); works on COVID, influenza, malaria antibodies. Matches donor employer, 'Scientist' occupation, and city (78212).",
+    "source_url": "https://www.txbiomed.org/news-press/news/greg-ippolito-joins-texas-biomed/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "16c68771-879e-40e6-a160-a9c006bbe6e4",
+    "name": "Koets, Michael",
+    "resolved_employer": "Southwest Research Institute (Staff Engineer, embedded signal processing/communications)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Michael A. Koets, Staff Engineer at SwRI San Antonio, 20+ yrs in embedded signal processing/comms; his own documented work is defense-related (synthetic aperture radar, signals intelligence, MILCOM 2012 military-communications papers), not merely his employer's portfolio. Matches donor employer, occupation and city (78230).",
+    "source_url": "https://www.linkedin.com/in/mkoets/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Southwest Research Institute (Defense & Intelligence Solutions)", "role": "Staff Engineer performing military/defense signal-processing work", "category": "military_defense", "source_url": "https://edas.info/web/milcom2012-unclassified/program.html", "snippet": "Koets's own documented research includes synthetic aperture radar (SAR) signal processing, signals-intelligence work, and authorship of MILCOM 2012 (military communications conference) papers — defense-specific work by his role, not merely SwRI's overall portfolio."}
+    ]
+  },
+  {
+    "donor_id": "15239039-3242-4051-b559-da7fe4d0d99f",
+    "name": "Terrell, Jamal",
+    "resolved_employer": "USAA (Digital Technical Product Manager)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Jamal Terrell, Digital Technical Product Manager at USAA in San Antonio, UTSA-educated. Matches donor employer, 'Product Manager' occupation, and city (78209).",
+    "source_url": "https://www.signalhire.com/profiles/jamal-terrell/229064073",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "12fe3aba-540f-41c1-bd87-547e1c2bc6ae",
+    "name": "Trevino, Mary",
+    "resolved_employer": "City of San Antonio (Traffic & Emergency Services)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Donor self-reported as City of San Antonio employee in Traffic & Emergency Services at 2010 Alston St, San Antonio 78228 (West Side). Municipal-government employee; no distinct individual public profile confirmed (common name), so employer-based government classification. No advocacy affiliations found.",
+    "source_url": "https://www.sa.gov/Directory/Departments/PWD",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "12fd78d3-688c-4c1a-8880-d12d4ac94100",
+    "name": "Herbon, Grant",
+    "resolved_employer": "Red Hat (Product Management)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Grant Herbon is in Product Management at Red Hat, based in San Antonio, with a Kellogg (Northwestern) MBA; LinkedIn confirms Red Hat role and San Antonio location matching the donor's employer, 'Tech' occupation and city (78212).",
+    "source_url": "https://www.linkedin.com/in/grant-herbon-a1b4501/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0fdeb91d-84b8-4a6e-86d8-1280e3011f72",
+    "name": "Rose, Weston",
+    "resolved_employer": "University of Texas System (Senior Program Manager, Office of Academic Affairs)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Weston Rose, M.A., is a Senior Program Manager in the UT System Office of Academic Affairs (previously a research communications manager at UT Austin); Austin location (78704) and 'UT'/'Manager' employer/occupation match.",
+    "source_url": "https://elevatetxed.utsystem.edu/bio-weston-rose/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0fce267e-edcc-4392-bbbe-984a184ac5cc",
+    "name": "Weiss, Judith",
+    "resolved_employer": "Samuel Rubin Foundation (President)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Judith (Judy) Weiss is President of the Samuel Rubin Foundation, a Cambridge, MA progressive peace-and-justice philanthropic foundation (helped create the Institute for Policy Studies); LinkedIn and foundation records confirm the presidency and Cambridge base (02140) matching the donor's 'Executive'/Samuel Rubin Foundation record.",
+    "source_url": "https://samuelrubinfoundation.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Samuel Rubin Foundation", "role": "President", "category": "political", "source_url": "https://samuelrubinfoundation.org/", "snippet": "Foundation 'dedicated to the pursuit of peace and justice and an equitable reallocation of the world's resources'; helped create the Institute for Policy Studies. Judy Weiss serves as President."}
+    ]
+  },
+  {
+    "donor_id": "0fb009ab-4469-451e-9e2c-ee4e9c811254",
+    "name": "Aglipay, Geri",
+    "resolved_employer": "U.S. Small Business Administration (Region V Regional Administrator)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Geri Sanchez Aglipay is the SBA Region V (Great Lakes) Regional Administrator and a longtime AAPI civic and small-business advocate based in the Chicago/Skokie IL area (60076), matching the donor's 'Regional Administrator'/Small Business Administration record. (Federal appointment is her employment, already captured in industry; no spectrum advocacy affiliation recorded.)",
+    "source_url": "https://www.sba.gov/person/geri-sanchez-aglipay",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0f5de4cd-1c8d-4ed8-a532-f87919e4a421",
+    "name": "Saenz, Mario",
+    "resolved_employer": "Fresenius Medical Care (Senior Sales Manager)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Mario Saenz is a Senior Sales Manager at Fresenius Medical Care (dialysis/kidney-care company), based in San Antonio, educated at University of the Incarnate Word; matches donor's 'Sales'/Fresenius/San Antonio (78228) details.",
+    "source_url": "https://www.linkedin.com/in/mario-saenz-7796088/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0f3a00fd-f9de-4c68-80a5-037fba2805bb",
+    "name": "Diehl, Nancy",
+    "resolved_employer": "Retired freelance editor/writer; co-founder of The Cannoli Fund (animal-welfare nonprofit)",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Nancy Diehl, native San Antonian and retired freelance editor/writer living in the King William/Southtown area (422 Adams St, 78210 matches); co-founder of The Cannoli Fund. Filing 'Not employed' consistent with retirement; heavy Dem-lean FEC history corroborates a longtime local donor.",
+    "source_url": "https://thecannolifund.org/tcf/our-board/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0efaebdb-6dc1-4e02-804c-88089aca554e",
+    "name": "Schulz, Jean",
+    "resolved_employer": "Charles M. Schulz Museum & Research Center (CMSM) — Founder and Board President",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Jeannie (Jean) Schulz, widow of Peanuts creator Charles M. Schulz; '1 Snoopy Pl, Santa Rosa CA 95403' is the museum campus. Founder and long-time Board President of the Charles M. Schulz Museum (CMSM), matching the donor's 'Board President'/CMSM record.",
+    "source_url": "https://schulzmuseum.org/jeanschulz/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0d56d2b6-719e-48c9-abbe-4f86c08baacc",
+    "name": "Kelly, William",
+    "resolved_employer": "GAP Texas (Government Affairs Professionals of Texas) — Director, Houston office",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Bill Kelly, Director at GAP Texas (a government-affairs/lobbying consultancy) managing the Houston office (801 Travis St, Houston 77002 matches); formerly Director of Government Relations for the City of Houston under Mayor Sylvester Turner. Longtime Democratic campaign operative; matches 'Consultant'/GAP Texas record.",
+    "source_url": "https://gaptexas.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0c315ed2-2948-4c31-a38d-f598fff19cbf",
+    "name": "Mendoza, Valerie L",
+    "resolved_employer": "JOVEN (Juvenile Outreach and Vocational Educational Network) — counselor",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Employer 'Joven' = JOVEN, a San Antonio youth-services nonprofit providing counseling/mentoring serving the West Side (near donor's 425 Furr Dr, 78201). 'Counselor' occupation fits JOVEN's counseling programs; specific individual not independently confirmed, so employer-fallback classification.",
+    "source_url": "https://www.jovensa.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0bfcc1f5-b4d9-4571-a052-d1a6b997b6ca",
+    "name": "Dwyer, Davida",
+    "resolved_employer": "Public Utility Commission of Texas — Deputy Commission Counsel (State of Texas)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Davida Dwyer, Texas-licensed attorney (UT Law) serving as Deputy Commission Counsel at the Public Utility Commission of Texas; employer 'State' = State of Texas, 'Lawyer' occupation matches. Austin address (78757) consistent; heavy Dem-lean FEC history corroborates.",
+    "source_url": "https://www.linkedin.com/in/davida-dwyer-b3a82510/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

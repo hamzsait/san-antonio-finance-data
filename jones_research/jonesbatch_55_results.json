@@ -1,0 +1,230 @@
+[
+  {
+    "donor_id": "37dcf908-bee3-46b8-a2df-3d48d69d31f7",
+    "name": "Torres-Lopez, Francescsa",
+    "resolved_employer": "Sinch Mailgun (software developer)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Fran (Francesca) Torres-Lopez is a Software Developer at Sinch Mailgun in San Antonio, TX; prior roles at Cisco and Rackspace, MS from St. Mary's University. Employer and occupation match donor record exactly.",
+    "source_url": "https://www.getprog.ai/profile/996579",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "37db19a7-6241-4cb7-85ed-f256ccfaaf3b",
+    "name": "Lopez Rodriguez, Esmeralda",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired San Antonio resident (78227). Common name; multiple Esmeralda Lopez/Rodriguez individuals in San Antonio and no FEC record (0 federal donations). Could not uniquely confirm identity or any public profile.",
+    "source_url": "https://nationalpublicdata.com/people/l/esmeralda-lopez/tx/san-antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3770f4af-495e-4ea7-9b80-c0f53f8ae4dd",
+    "name": "Balecha, Salome",
+    "resolved_employer": "Realty ONE Group (real estate broker-salesperson), Las Vegas",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Salome 'Sally' Balecha is a full-time REALTOR/broker-salesperson with Realty ONE Group in Las Vegas, NV since 2001. Name, location (Las Vegas NV), and self-employed real-estate occupation match donor record.",
+    "source_url": "https://www.realtyonegroup.com/realestateagent/sally-balecha-5872028",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "373575ce-ab6c-417a-abec-0449434e1332",
+    "name": "Castro, Maria",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired San Antonio resident, zip 78228 (West Side), with an unusually heavy 409-donation fully-Democratic federal giving history consistent with a longtime political activist; profile fits prominent activist Maria del Rosario 'Rosie' Castro (retired Palo Alto College, 78228) but donation address (5327 Costa Mesa St) could not be confirmed against her, and the name is common. Not uniquely verified.",
+    "source_url": "https://en.wikipedia.org/wiki/Rosie_Castro",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "37067fb9-16d0-48da-a0b0-594297c075dd",
+    "name": "Petrow, Lucy",
+    "resolved_employer": "Public Counsel (public-interest law nonprofit) — attorney",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Lucy Petrow is a staff attorney at Public Counsel, the Los Angeles public-interest law center (email lpetrow@publiccounsel.org; also Cal Bar #276493). Employer string 'Public Counsel Law Center' and occupation 'Lawyer' match exactly; donor's Salt Lake City address differs from LA (possible remote/relocation), so identity is strong but not certain.",
+    "source_url": "https://publiccounsel.org/wp-content/uploads/2023/12/Public-Counsel-2012-Annual-Report.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "35f29b4b-5adb-404e-83e3-abc57591696c",
+    "name": "Linden, Greg",
+    "resolved_employer": "UC Berkeley (Institute for Research on Labor and Employment / Haas School of Business)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Greg M. Linden, UC-Berkeley research associate (semiconductor/global value chain economist, co-author 'Chips and Change'), Oakland 94602 matches donor exactly; prior federal giving all-Democratic ($1,000 Obama Victory Fund 2012, DAGA). Record's fec_count=0 understates his history.",
+    "source_url": "https://www.irle.berkeley.edu/worktech/greglinden.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "35e33cc6-9bef-4008-a507-ea1500395f69",
+    "name": "Johnson, Carol",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Not Employed, San Antonio 78217; no FEC PAC records, no TX lobbyist registration, no identifiable public bio. Common name, unable to corroborate any affiliation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "35d54ec0-334a-4e02-ab64-90ed6c31e3bb",
+    "name": "Alaniz, Annette",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Not Employed, San Antonio 78203 (Eastside); FEC shows 2 all-Democratic donations but no ideological/AIPAC/oil/gun PAC records; no TX lobbyist registration; no public bio to categorize an affiliation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "35abc8ef-21d9-429f-934a-3d4b75ba06c8",
+    "name": "Thomsen, Brogan",
+    "resolved_employer": "Self-employed ('Soul Proprietor')",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Brogan Thomsen, Seattle, LinkedIn lists him as self-employed owner ('Soul Proprietor'); son of Mountains to Sound Greenway Trust co-founder Ted Thomsen and a longtime Greenway supporter. No FEC PAC or ideological-PAC records found.",
+    "source_url": "https://www.linkedin.com/in/brogan-thomsen-44b2a65/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Mountains to Sound Greenway Trust", "role": "Donor / supporter (family legacy)", "category": "civic", "source_url": "https://mtsgreenway.org/support/more-ways-to-give/donor-stories/the-thomsens/", "snippet": "Brogan includes the Greenway in his own plans... feels the Greenway is like his church, and wants to give now and in his estate plans so future generations can enjoy the same beautiful places."}
+    ]
+  },
+  {
+    "donor_id": "357b76d6-bb25-46de-9b68-9fe483004f9b",
+    "name": "Valenciano, Angeles",
+    "resolved_employer": "Ángeles Valenciano LLC / Global Latitudes LLC (former CEO, National Diversity Council)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Ángeles M. Valenciano, San Antonio-based diversity/inclusion executive, former first female CEO of the National Diversity Council, now founder/partner of her own human-capital consulting LLC; 15 all-Democratic federal donations on file. No TX lobbyist registration; no ideological/AIPAC/oil/gun PAC records found.",
+    "source_url": "https://ndc.nationaldiversitycouncil.org/about/staff/angeles-valenciano/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National Diversity Council", "role": "Former CEO / board member", "category": "civic", "source_url": "https://ndc.nationaldiversitycouncil.org/about/staff/angeles-valenciano/", "snippet": "Angeles Valenciano is chief executive officer of the National Diversity Council, the first female CEO of this nonprofit, directing operations, policy implementation, and advisory board management across Austin, San Antonio, Dallas, and Houston."}
+    ]
+  },
+  {
+    "donor_id": "350b2ca0-ee1e-413c-a0e1-bbe70bd198c8",
+    "name": "Kauffman, Albert",
+    "resolved_employer": "St. Mary's University School of Law",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Albert H. Kauffman, Professor of Law at St. Mary's University (San Antonio); prominent civil-rights/education-equity litigator, ~20 yrs senior attorney at MALDEF, later Harvard Civil Rights Project. Matches occupation/employer/city. No pro-Israel/Palestine/gun/oil/defense affiliations found.",
+    "source_url": "https://law.stmarytx.edu/academics/faculty/albert-kauffman/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Mexican American Legal Defense and Educational Fund (MALDEF)", "role": "Former senior litigating attorney (~20 years)", "category": "civic", "source_url": "https://law.stmarytx.edu/academics/faculty/albert-kauffman/", "snippet": "senior litigating attorney for the Mexican American Legal Defense and Educational Fund (MALDEF), lead attorney in Texas school finance and Latino voting-rights cases"}
+    ]
+  },
+  {
+    "donor_id": "33ee86c2-0b05-499c-b194-bb4abe09b53c",
+    "name": "Hall, Jeffrey",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed 'Not Employed'; common name with no distinct public profile confirmable to 78258 San Antonio. No FEC PAC-ideological records, lobbyist registration, or bio page identifiable to this individual.",
+    "source_url": "https://www.fec.gov/data/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3244fc48-5c1e-4eab-8a43-a5d939425ccc",
+    "name": "Morales, Mario",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed 'Not Employed', Georgetown TX. Very common name; no public profile confirmable to this individual/zip. No ideological PAC records, TEC lobbyist registration, or bio page found.",
+    "source_url": "https://www.fec.gov/data/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2de97172-2348-4783-bc03-793c72eba537",
+    "name": "Harris, Erica",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed 'Not Employed', San Antonio 78230. Common name; no distinct public profile confirmable. No ideological PAC records, TEC lobbyist registration, or bio page identifiable.",
+    "source_url": "https://www.fec.gov/data/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2d5a896f-c6b3-47fb-872e-73cb76650e32",
+    "name": "Sutton, Sandra",
+    "resolved_employer": "San Antonio ISD",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Employer per filing is San Antonio ISD (part-time); consistent with public-school employment. No federal donation history (fec_donation_count 0). No TEC lobbyist registration or ideological PAC record found; no personal bio page located.",
+    "source_url": "https://www.ethics.state.tx.us/search/cf/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2d345455-aaee-48aa-9176-c1d5e30e6c0a",
+    "name": "Wise, Cynthia",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donation lists 'Not Employed'; a 'Cynthia C Wise' private-investigator business is registered at the exact address (216 Spring Creek Pl NE, Albuquerque 87122) but donor occupation is Not Employed. FEC lean 0.85 (mostly Democratic, 59 donations). No advocacy PAC or lobbyist records found.",
+    "source_url": "https://www.dandb.com/businessdirectory/cynthiacwise-albuquerque-nm-9658812.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2b9a9bec-aa37-436d-a6dd-f8e80f70ab20",
+    "name": "Guild-Stitt, Sharon",
+    "resolved_employer": "Melaleuca (Independent Marketing Director, part-time self-employed)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Confirmed Helotes TX; Independent Marketing Director at Melaleuca, MSW from Our Lady of the Lake, prior DOJ/VA/Alamo Colleges roles. Extremely prolific small-dollar ActBlue-style donor (3,296 federal donations, lean 1.0 Democratic); no ideological PAC role or TX lobbyist registration found.",
+    "source_url": "https://rocketreach.co/sharon-guild-stitt-email_164513903",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2b9411de-31c4-4f6f-80fd-d94873deb816",
+    "name": "Hale, Ashley",
+    "resolved_employer": "Mozilla Corporation",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Confirmed Staff Software Engineer at Mozilla (Firefox), based Bellevue WA, matching donation record. GitHub/LinkedIn show game-engine and site-reliability engineering background. Only 3 federal donations; no advocacy PAC or lobbyist records.",
+    "source_url": "https://www.linkedin.com/in/ashley-hale-7723648",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2a6ac5cd-9700-4587-a703-7254e39ea305",
+    "name": "Brown, Harriet",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donation lists 'Not Employed' at 25818 Raven Rdg, San Antonio 78255. The prominent online 'Harriet Brown, Attorney' is an estate-planning lawyer in Santa Cruz CA (different person). FEC lean 1.0 (85 Democratic donations); no documented advocacy or lobbyist affiliations.",
+    "source_url": "https://www.zillow.com/homedetails/25815-Raven-Rdg-San-Antonio-TX-78255/118210939_zpid/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2a191610-5dfd-499c-9583-d4cb9cd1de4d",
+    "name": "Brown, Andrew",
+    "resolved_employer": "Travis County (County Judge); founder, Andy Brown & Associates PLLC",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as Andy Brown, sitting Travis County Judge (since Nov 2020), attorney and founder of Andy Brown & Associates PLLC, Austin 78751. Former Travis County Democratic Party Chair (2008-2013), finance director/senior advisor to Beto O'Rourke campaigns. FEC lean 1.0. (A separate 'Andrew Brown / Child & Family Policy' TEC lobbyist at 901 Congress is a different person, not this donor.)",
+    "source_url": "https://en.wikipedia.org/wiki/Andy_Brown_(politician)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Travis County Democratic Party", "role": "Former Chair (2008-2013); Travis County Judge", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Andy_Brown_(politician)", "snippet": "Attorney and Democratic Party member; Travis County Democratic Party Chair 2008-2013; Finance Director and Senior Advisor to Beto O'Rourke's Senate and presidential campaigns; sworn in as Travis County Judge Nov 17, 2020."}
+    ]
+  }
+]

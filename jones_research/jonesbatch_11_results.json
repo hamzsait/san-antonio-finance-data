@@ -1,0 +1,245 @@
+[
+  {
+    "donor_id": "4e62d7a9-88ec-4723-b05f-8c7bf48d4629",
+    "name": "Munoz, Henry",
+    "resolved_employer": "Muñoz & Company (architecture/design firm)",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "Henry R. Muñoz III, San Antonio designer, former chairman/CEO of Muñoz & Company (one of the largest minority-owned design/architecture practices in the US); 235 W Kings Highway 78212 + 968 FEC donations matches the Democratic mega-donor. No pro-Israel/pro-Palestine/gun/oil PAC ties found; affiliations are Democratic-party fundraising and Latino civic.",
+    "source_url": "https://en.wikipedia.org/wiki/Henry_R._Mu%C3%B1oz_III",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic National Committee", "role": "Finance Chair (2013–2019), first Latino and openly gay to hold post; now Finance Chair emeritus", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Henry_R._Mu%C3%B1oz_III", "snippet": "Appointed DNC Finance Chair by President Obama in January 2013; longest-serving Finance Chair in DNC history, raising over $600 million."},
+      {"org": "Latino Victory Project", "role": "Co-founder (with Eva Longoria, 2014)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Henry_R._Mu%C3%B1oz_III", "snippet": "In 2014 he joined Eva Longoria to form Latino Victory, to build progressive Latino political power at every level of government."}
+    ]
+  },
+  {
+    "donor_id": "4e359cc4-fd5c-4cb1-973c-1759d77eb991",
+    "name": "Gottesman, Sara",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Sara Anne Gottesman confirmed as a resident at 333 W 88th St, Upper West Side, NYC 10024 via public property records; listed occupation/employer 'Self.' No public professional, board, or policy-advocacy profile located; 0 FEC donations. No documented affiliations found.",
+    "source_url": "https://clustrmaps.com/person/Gottesman-7t138t",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4d986a99-6ac0-42e7-998b-cb8ed2bda82c",
+    "name": "Altamirano, Alberto",
+    "resolved_employer": "Irys Technologies, Inc.",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Alberto 'Beto' Altamirano, co-founder/CEO of Irys Technologies (AI/cybersecurity gov-tech startup, founded 2017 out of Geekdom; built San Antonio 311SA app); Forbes 30 Under 30; Harvard Kennedy School MPA. Himself a 2025 San Antonio mayoral candidate (finished 3rd) and now CEO of tech-advocacy nonprofit Tech Bloc. No pro-Israel/pro-Palestine/gun/oil PAC ties found.",
+    "source_url": "https://en.wikipedia.org/wiki/Beto_Altamirano",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Tech Bloc (San Antonio)", "role": "CEO (2025); tech-sector advocacy nonprofit", "category": "business", "source_url": "https://en.wikipedia.org/wiki/Beto_Altamirano", "snippet": "In 2025 he was named CEO of Tech Bloc, a non-profit formed in 2014 to promote San Antonio's technology sector."},
+      {"org": "2025 San Antonio mayoral race", "role": "Candidate (finished 3rd)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Beto_Altamirano", "snippet": "He ran for Mayor of San Antonio in 2025, finishing 3rd."}
+    ]
+  },
+  {
+    "donor_id": "49d8be4b-f30f-44fb-aba6-504b3136c859",
+    "name": "Kaliff, Bruce",
+    "resolved_employer": "Kaliff Insurance",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Bruce Smiley-Kaliff, Executive Vice President / Managing General Agent at Kaliff Insurance (San Antonio, family-owned amusement/events insurer since 1917); matches donor occupation 'Insurance Agent'/employer 'Kaliff Insurance' in 78213. 117 FEC donations, fully Democratic lean. Board seats (State Bar of Texas, Santa Rosa Foundation, ThriveWell Cancer Foundation) are civic/charitable, not policy advocacy. No pro-Israel/pro-Palestine/gun/oil PAC ties found.",
+    "source_url": "https://www.kaliff.com/our-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "492b2a54-6e86-4ebc-a482-f624797f5cd6",
+    "name": "Harris, William Sr.",
+    "resolved_employer": "Massachusetts General Hospital",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Donor occupation 'MD' at Mass General Hospital in Lexington MA 02421 matches a LinkedIn profile 'William Sr. Harris – MD – Mass General Hospital' located in Lexington. (Distinct from the emeritus orthopedic surgeon William H. Harris.) 0 FEC donations; no board/policy-advocacy or PAC affiliations located.",
+    "source_url": "https://www.linkedin.com/in/william-sr-harris-0b666415b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "44b2f3d5-a751-440f-9861-b9c775c74818",
+    "name": "Kelsey, Keenan",
+    "resolved_employer": "Retired (Presbyterian minister, per matched published bio)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Address 101 Hawthorne Ave, Larkspur CA 94939 matches public listing for Keenan Kelsey; published bio identifies a Larkspur resident Keenan Kelsey as a retired Presbyterian minister (Noe Valley Ministry) and lifelong social-justice activist. Occupation 'Not employed' consistent with retirement. Minor identity caveat: age listing differs from the 1999 bio.",
+    "source_url": "http://www.noevalleyvoice.com/1999/March/pastor.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Gun-control / anti-war movement (historical activism)", "role": "activist", "category": "gun_control", "source_url": "http://www.noevalleyvoice.com/1999/March/pastor.html", "snippet": "Bio states she participated in 1960s–70s social-justice causes: 'freedom marches, protested the Vietnam War, helped organize the first Earth Day, and lobbied for gun control.' (historical)"}
+    ]
+  },
+  {
+    "donor_id": "40f7428f-11b6-4014-8539-27d3c8c5434c",
+    "name": "Dinnin, Kevin",
+    "resolved_employer": "FirstDay Foundation (formerly BCFS Health & Human Services / Baptist Child & Family Services), San Antonio",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Kevin C. Dinnin is President & CEO of FirstDay Foundation, the grantmaking parent of BCFS Health & Human Services, a major federal migrant-shelter nonprofit contractor. FEC records show a 2006 $1,000 gift to Republican Rep. Henry Bonilla, consistent with his near-zero (bipartisan) partisan lean; no ideological/oil-gas PAC ties found.",
+    "source_url": "https://www.influencewatch.org/non-profit/firstday-foundation/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "BCFS Health & Human Services / FirstDay Foundation", "role": "President & CEO", "category": "civic", "source_url": "https://www.influencewatch.org/non-profit/firstday-foundation/", "snippet": "Serves as President and CEO of FirstDay Foundation; co-founded Children's Emergency Relief International; BCFS is a major HHS-funded operator of federal unaccompanied-migrant-child shelters."}
+    ]
+  },
+  {
+    "donor_id": "40f064e6-04bc-47eb-a1a5-764b97ce8540",
+    "name": "Lecompte, Eletisia M",
+    "resolved_employer": "Gamez Law Firm, San Antonio",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Employer Gamez Law Firm is a real San Antonio personal-injury firm (2943 Mossrock, 78230) founded by Joe A. Gamez. Donor is listed as a receptionist; no public professional profile or bio located. FEC shows a Democratic-leaning small-donor pattern but no ideological-PAC or lobbyist records. Quiet result.",
+    "source_url": "https://joegamezlaw.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "40305a5e-9e6f-48eb-b9f3-37ca47516a71",
+    "name": "Ortega, Petra Mary",
+    "resolved_employer": "Gomez Law Firm (as filed; 'Gomez Law Frim'), San Antonio area",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Listed as an administrative assistant at a 'Gomez Law Firm' (a San Antonio-area law office; spelling as filed). Converse TX resident. No public professional profile, no FEC PAC history, and no TX lobbyist registration located. Quiet, generic support-staff result.",
+    "source_url": "https://www.yellowpages.com/san-antonio-tx/gomez-law-firm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3f4b91c6-6e1e-4983-a559-f6d9417b4c1b",
+    "name": "Rakov, Abe",
+    "resolved_employer": "End Citizens United / Let America Vote (Executive Director, June 2024–)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Abraham 'Abe' Rakov is Executive Director of End Citizens United Action Fund / Let America Vote (campaign-finance-reform advocacy), confirmed by LegiStorm. Co-founded Let America Vote (2017–19); senior advisor on Beto O'Rourke's presidential campaign; Jason Kander's 2016 Senate/2012 SoS campaign manager; former Chief Impact Officer at Run for Something. Democratic-aligned political operative.",
+    "source_url": "https://www.legistorm.com/person/bio/178346/Abraham_M_Rakov.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "End Citizens United / Let America Vote", "role": "Executive Director", "category": "political", "source_url": "https://www.legistorm.com/person/bio/178346/Abraham_M_Rakov.html", "snippet": "LegiStorm: 'Abe Rakov serves as Executive Director of End Citizens United Action Fund (as of June 2024).' Org is a Democratic-aligned campaign-finance-reform PAC/advocacy group."},
+      {"org": "Democratic campaigns (Beto O'Rourke, Jason Kander, Run for Something)", "role": "senior advisor / campaign manager / Chief Impact Officer", "category": "political", "source_url": "https://www.linkedin.com/in/aberakov/", "snippet": "Senior advisor on Beto O'Rourke's presidential campaign; campaign manager for Jason Kander's 2016 Senate and 2012 Secretary of State races; former Chief Impact Officer at Run for Something."}
+    ]
+  },
+  {
+    "donor_id": "3f2000dc-668d-40da-aab7-c3bb4e3d3e3f",
+    "name": "Bohan, Kenneth",
+    "resolved_employer": "Retired (formerly founder/CEO, The Liberty Group — commercial real estate staffing/executive search)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Property records confirm Kenneth Bohan owns 3232 Avalon Pl, Houston 77019 and is listed as retired; formerly founded The Liberty Group (commercial real estate staffing, est. 1977). Strong Democratic FEC donor (lean 0.9985, 295 donations).",
+    "source_url": "https://victoryfund.org/team/ken-bohan/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LGBTQ+ Victory Fund", "role": "Treasurer (board)", "category": "political", "source_url": "https://victoryfund.org/team/ken-bohan/", "snippet": "Ken Bohan is listed on the LGBTQ+ Victory Fund team as Treasurer; the Victory Fund is a national PAC electing LGBTQ candidates."},
+      {"org": "Bering Omega Community Services / civic boards", "role": "Treasurer / board member", "category": "civic", "source_url": "https://victoryfund.org/team/ken-bohan/", "snippet": "Board roles listed include Bering Omega Asset Board (Treasurer), 4th Wall Theater (President), Houston Apartment Association and DePelchin Children's Center."}
+    ]
+  },
+  {
+    "donor_id": "3d77e71f-119a-4d4a-9ed8-8abf19b55f1f",
+    "name": "Charash, Bruce",
+    "resolved_employer": "Bruce D. Charash MD (private cardiology practice); Assoc. Clinical Professor, NYU / Lenox Hill Hospital",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Bruce D. Charash is a NY cardiologist (Weill Cornell MD, ACC Fellow) and author of 'Heart Myths' (Viking 1991). Founder/Chairman of Doc to Dock, an NGO shipping medical supplies to African clinics, launched after a Clinton Global Initiative appeal. No FEC PAC contributions found.",
+    "source_url": "https://reachmd.com/profiles/bruce-charash-md/jQemqj/biography/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Doc to Dock (medical-supply NGO)", "role": "Founder / Chairman of the Board", "category": "civic", "source_url": "https://reachmd.com/profiles/bruce-charash-md/jQemqj/biography/", "snippet": "He is the founder and Chairman of the Board of 'Doc to Dock,' an NGO which collects medical supplies from the American medical community and ships them to health care providers in developing nations throughout Africa."}
+    ]
+  },
+  {
+    "donor_id": "3c9a5ca2-81b5-48c8-bb3e-0e4e6b8b9cfb",
+    "name": "Hernandez, Christopher",
+    "resolved_employer": "Marynell Maloney Law Firm, PLLC",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Christopher T. Hernandez is a personal injury / medical malpractice / products liability attorney at Marynell Maloney Law Firm, San Antonio (TX-licensed since 2010; also CA/NY). Strong Democratic FEC donor (lean 0.9983, 142 donations). No ideological PAC or lobbyist registration found.",
+    "source_url": "https://www.marynellmaloneylawfirm.com/attorney/christopher-t-hernandez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3c5e685b-c012-4718-9fa7-c642328749bf",
+    "name": "Kaz, Nancy",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as not employed at 63 E Wildflower Dr, Santa Fe NM 87506; zero FEC donation history. No public professional, advocacy, or PAC profile could be confirmed for this specific individual.",
+    "source_url": "https://www.xome.com/realestate/NM/Santa-Fe/87506/Wildflower",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3c1cffa1-635e-4220-a890-e4ca0775ae79",
+    "name": "Schwartz, Sue",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as Not Employed at 2245 Branard St, Houston 77098 (address confirmed in public records). Modest-lean Democratic FEC donor (lean 0.7308, 47 donations). No public professional, advocacy, or PAC profile could be confirmed for this specific individual.",
+    "source_url": "https://www.familytreenow.com/records/people/address/2245-branard-st_houston-tx-77098",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3a8b57c0-4171-4420-80ad-4c075c333b29",
+    "name": "Sanchez, Graciela",
+    "resolved_employer": "Esperanza Peace and Justice Center",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Founder (1987) and longtime Director of Esperanza Peace & Justice Center, San Antonio; nationally recognized social-justice/LGBTQ organizer. Address 233 Lotus St matches Esperanza's neighborhood. Org runs a standing 'Palestinians and Other Occupied Peoples' program and has publicly partnered on Gaza/Palestine solidarity events.",
+    "source_url": "https://esperanzacenter.org/who-we-are/meet-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Esperanza Peace and Justice Center", "role": "Director / Founder", "category": "palestine_solidarity", "source_url": "https://esperanzacenter.org/who-we-are/meet-us/", "snippet": "Graciela works to 'develop and curate programs such as ... Palestinians and Other Occupied Peoples'; Esperanza co-hosted a Palestinian film series and Gaza mutual-aid fundraiser with San Antonio for Justice in Palestine."},
+      {"org": "ACLU of Texas", "role": "Board of Directors", "category": "civic", "source_url": "https://www.aclutx.org/bios/graciela-i-sanchez/", "snippet": "ACLU of Texas bio lists Graciela I. Sanchez as serving on its Board of Directors."}
+    ]
+  },
+  {
+    "donor_id": "39e6ae39-2e51-42a4-bcea-a7b37988510f",
+    "name": "Mills, Bonnie",
+    "resolved_employer": "Self-employed (family foundation / investor)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Identity confirmed via exact address match (3407 Monte Vista Dr, Austin, TX 78731). Austin investor/philanthropist and longtime Democratic donor; public records tie her to a family foundation and to Planned Parenthood Texas Votes as a former director.",
+    "source_url": "https://www.corporationwiki.com/p/2g2hb9/bonnie-mills",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Planned Parenthood Texas Votes", "role": "Previous Director", "category": "political", "source_url": "https://www.corporationwiki.com/p/2g2hb9/bonnie-mills", "snippet": "CorporationWiki lists Bonnie Mills as a 'Previous Director for Planned Parenthood Texas Votes,' the electoral/advocacy arm of Planned Parenthood in Texas."}
+    ]
+  },
+  {
+    "donor_id": "396d18f7-92bb-45ee-9af1-76d21a5b4c0f",
+    "name": "Bornstein, Sue",
+    "resolved_employer": "Self (physician)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Occupation 'Physician'/'Self' in Blanco, TX (Hill Country) most plausibly matches Dr. Sue S. Bornstein, MD, MACP, a Texas internist, past Chair of the Texas ACP chapter and Executive Director of the Texas Medical Home Initiative. Blanco address not independently confirmed as the same individual (her professional base is Dallas), so identity is probable but not certain.",
+    "source_url": "https://www.linkedin.com/in/sue-bornstein-md-macp-94a1b314/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "36faeb9e-4e8c-449e-a964-11154aa82ad0",
+    "name": "McCollum, Andrew",
+    "resolved_employer": "Philo",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Facebook co-founder (initial graphic designer, 2004) and CEO of streaming-TV company Philo since 2014. Identity confirmed via San Francisco residence and Philo role.",
+    "source_url": "https://en.wikipedia.org/wiki/Andrew_McCollum",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "36c61704-2371-417c-a1ba-45a0c903d8e4",
+    "name": "Spraos, Paul",
+    "resolved_employer": "Swaps Monitor Publications, Inc.",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "President/Chairman of Swaps Monitor Publications, Inc. (NYC), a provider of derivatives-market and financial-calendar data; also a director of the UK affiliate. NYC residence (Upper West Side) consistent with the firm's New York base. No ideological PAC or TX lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/paul-spraos-06903a158/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  }
+]

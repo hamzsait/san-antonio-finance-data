@@ -1,0 +1,240 @@
+[
+  {
+    "donor_id": "2352fe2b-b79d-4e49-8cf7-7d9edd6cfca3",
+    "name": "Flannigan, Jimmy",
+    "resolved_employer": "Austin Convention Enterprises Inc. (President)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Jimmy (James) Flannigan is the former Austin City Council member for District 6 (Jan 2017-Jan 2021); since early 2021 he has served as President of Austin Convention Enterprises Inc. (ACE), the local government corporation that owns and operates the city-owned Hilton Austin hotel, matching the donor's employer, occupation 'Administration,' and Austin 78729 address. FEC/OpenSecrets and AIPAC-tracker searches surfaced no federal PAC contributions (AIPAC, J Street, oil & gas, gun, defense). TEC lobby search showed no confirmed lobbyist registration.",
+    "source_url": "https://ballotpedia.org/James_Flannigan",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin City Council (District 6)", "role": "Former City Council Member (2017-2021)", "category": "political", "source_url": "https://ballotpedia.org/James_Flannigan", "snippet": "James 'Jimmy' Flannigan served on the Austin City Council representing District 6 from January 6, 2017 to January 6, 2021."}
+    ]
+  },
+  {
+    "donor_id": "234d4511-5bbc-4889-8ab4-3a71c4010da2",
+    "name": "Moon, Elizabeth",
+    "resolved_employer": "Not Employed (retired author; former USMC officer)",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Elizabeth Moon is the American science-fiction and fantasy author (Nebula Award winner for 'The Speed of Dark') who lives in Florence, TX, matching the donor's Florence 76527 location. She is a retired writer and former U.S. Marine Corps officer, consistent with the 'Not Employed' occupation. Her 1,226 FEC donations reflect prolific small-dollar political giving, but no specific advocacy PAC affiliation (AIPAC, J Street, oil & gas, gun, defense) is documented in public records. No Texas lobbyist registration found.",
+    "source_url": "https://en.wikipedia.org/wiki/Elizabeth_Moon",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "21d61be5-8079-4c1d-be36-e1c161555aa4",
+    "name": "Niland, NONA",
+    "resolved_employer": "Not Employed (Austin philanthropist / community volunteer; Nona F Niland Foundation)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Nona Niland is an Austin philanthropist and community volunteer at a downtown Austin (78701) address. Public records tie her to the Nona F Niland Foundation (a 501(c)(3), EIN 74-2881646) and to volunteer/board roles at the Ann Richards School Foundation (listed 'Community Volunteer'), People's Community Clinic, and KLRU/Austin PBS. 'Not Employed' matches her philanthropist status. No FEC advocacy PAC contributions (AIPAC, J Street, oil & gas, gun, defense) or Texas lobbyist registration found.",
+    "source_url": "https://www.annrichardsschool.org/foundation/who-we-are/nona-niland/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Ann Richards School Foundation", "role": "Community Volunteer / supporter", "category": "civic", "source_url": "https://www.annrichardsschool.org/foundation/who-we-are/nona-niland/", "snippet": "Foundation page lists 'Nona Niland | Community Volunteer.'"},
+      {"org": "Nona F Niland Foundation", "role": "Namesake / principal (charitable foundation)", "category": "civic", "source_url": "https://www.guidestar.org/profile/74-2881646", "snippet": "Nona F Niland Foundation is a 501(c)(3) charitable organization based in Austin."}
+    ]
+  },
+  {
+    "donor_id": "201f80f4-f21b-49f9-9429-a0877e5cd329",
+    "name": "Shen, David",
+    "resolved_employer": "Not Employed",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor is listed as 'Not Employed' at a Bellevue, WA 98006 residence. 'David Shen' is an extremely common name in the Bellevue/Seattle area, and none of the candidates could be corroborated by zip, occupation, or donation pattern to this specific individual. No FEC advocacy PAC contributions (AIPAC, J Street, oil & gas, gun, defense) attributable to this person and no Texas lobbyist registration found. Person could not be uniquely identified.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1f916b00-5f0b-4914-820d-cc2bd7de211a",
+    "name": "Beattie, Nina",
+    "resolved_employer": "Not Employed (former NYC litigator; Senior Fellow, Center for American Progress)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Nina (Minard) Beattie is a longtime New York City litigator (~20 years in regulatory/criminal defense and complex commercial litigation, formerly at Brune & Richard LLP) who is now a Senior Fellow at the Center for American Progress focused on democracy/voter protection; her self-reported occupation on the donation is 'Not Employed,' consistent with a mid-career pivot out of law practice. Lower East Side NY location (10002) is consistent. No federal PAC contributions or TX lobbyist registration found in searches.",
+    "source_url": "https://www.publicrightsproject.org/about/team/nina-beattie/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Center for American Progress", "role": "Senior Fellow (democracy/voter protection)", "category": "civic", "source_url": "https://www.publicrightsproject.org/about/team/nina-beattie/", "snippet": "Serves as a Senior Fellow at the Center for American Progress, where she focuses on efforts to preserve our democracy; involved in progressive political activities and voter protection initiatives."}
+    ]
+  },
+  {
+    "donor_id": "1f13c338-1432-4046-8d44-6544a58a0106",
+    "name": "Medrano, Adan",
+    "resolved_employer": "Self-employed (JM Communications) - chef, food writer, filmmaker",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Confirmed as Adan Medrano, San Antonio-based Mexican-American chef, food writer and filmmaker specializing in Texas Mexican / indigenous cuisine; author of 'Truly Texas Mexican' and 'Don't Count The Tortillas,' Culinary Institute of America (San Antonio) graduate, owner of JM Communications, president of The Texas Indigenous Food Project, and founder of the San Antonio CineFestival. San Antonio 78209 location matches. No federal PAC contributions or TX lobbyist registration found.",
+    "source_url": "https://www.ciachef.edu/cia-bios/adan-medrano/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Indigenous Food Project", "role": "President", "category": "civic", "source_url": "https://www.ciachef.edu/cia-bios/adan-medrano/", "snippet": "President of The Texas Indigenous Food Project, promoting indigenous cuisine and cooking methods of Texas and the Americas."},
+      {"org": "San Antonio CineFestival", "role": "Founder", "category": "civic", "source_url": "https://www.ciachef.edu/cia-bios/adan-medrano/", "snippet": "Founder of the San Antonio CineFestival, the first and longest-running Latinx film festival in the U.S."}
+    ]
+  },
+  {
+    "donor_id": "1f03ae95-89e2-4c29-9a7e-0e1dcc705dea",
+    "name": "Lang, Kevin",
+    "resolved_employer": "Boston University",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Confirmed as Kevin Lang, labor economist and Bloom Professor of Economics at Boston University (faculty since 1987, department chair 2005-2009), Fellow of the Society of Labor Economists and NBER research associate. He resides in Brookline, MA, matching donation zip 02446, and was an elected member of the Brookline School Committee (1999-2009). No federal PAC contributions or TX lobbyist registration found.",
+    "source_url": "https://www.bu.edu/econ/profile/kevin-lang",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Brookline (MA) School Committee", "role": "Elected member (1999-2009)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Kevin_Lang", "snippet": "Resides in Brookline, MA and served as an elected member of the Brookline School Committee from 1999 to 2009."}
+    ]
+  },
+  {
+    "donor_id": "1e1b98cc-09ac-4036-a27a-0c7e2f6c2531",
+    "name": "Offenhartz, Adam",
+    "resolved_employer": "Baughman Kroup Bosse PLLC",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Confirmed as Adam H. Offenhartz, Senior Counsel at Baughman Kroup Bosse PLLC (New York), a commercial litigator focused on M&A disputes, shareholder actions, and insurance/reinsurance arbitration; formerly a litigation partner at Gibson, Dunn & Crutcher. NY location (10011) matches. He publicly testified before the NYC Council in Aug 2024 opposing Randy Mastro's nomination. No federal PAC contributions or TX lobbyist registration found.",
+    "source_url": "https://www.bkbfirm.com/adam-offenhartz",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Woodrow Wilson International Center for Scholars", "role": "Advisory Council", "category": "civic", "source_url": "https://www.bkbfirm.com/adam-offenhartz", "snippet": "Firm bio lists advisory council role at the Woodrow Wilson International Center for Scholars."}
+    ]
+  },
+  {
+    "donor_id": "1afb68df-6bbd-41d5-82b1-eb12015a0beb",
+    "name": "Merket, Ryan",
+    "resolved_employer": "Angel investor / founder, Comal Ventures (formerly Microsoft, Reddit, Facebook)",
+    "industry": "Venture Capital",
+    "confidence": "high",
+    "evidence": "Ryan Merket of Austin, TX (78739) is a well-documented early-stage angel investor and founder of Comal Ventures with 130+ startup investments; previously a product leader at Reddit and Facebook and worked with high-potential/AI startups at Microsoft. Identity corroborated by Austin location, 'Angel Investor' occupation, and Microsoft employer. FEC PAC-contribution and TX lobbyist searches surfaced no records; no pro-Israel/pro-Palestine, oil/gas, gun, or defense advocacy affiliations documented.",
+    "source_url": "https://ryanmerket.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1ad81f76-bfde-42f3-b5a6-ce05c3e27c87",
+    "name": "Corridoni, Matthew",
+    "resolved_employer": "Democratic communications strategist; DNC spokesman / VoteVets VP of Communications",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Matt (Matthew D.) Corridoni is a Democratic communications operative based in Washington, DC (20001), documented as a DNC spokesman and VP of Communications at VoteVets, with prior roles on Harris for President, as press secretary to Rep. Seth Moulton, and on the O'Malley 2016 campaign. Identity corroborated by DC location and 'DNC'/'Spokesperson' occupation. No FEC PAC-donation or TX lobbyist records found; no balanced-category (Israel/Palestine, oil/gas, gun, defense) advocacy membership documented beyond his political-communications employment.",
+    "source_url": "https://www.legistorm.com/person/bio/268085/Matthew_D_Corridoni.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "19cbbb85-14a5-4edc-8fbe-95c404ce0d4d",
+    "name": "Greathouse, Summer",
+    "resolved_employer": "Bracewell LLP (Partner, Public Finance)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Summer B. Greathouse is a partner in Bracewell LLP's San Antonio office; full bio read confirms her practice is tax-exempt/public finance, low-income housing tax credits, economic development, and real estate - NOT the firm's oil-and-gas/energy work, so no oil_gas affiliation attaches to her personally. Identity corroborated by San Antonio location (78212 home / downtown office), 'Attorney' occupation, Bracewell employer. Civic involvement noted (Leadership San Antonio, TAAHP member) but no policy-advocacy, lobbyist registration, or FEC PAC records found; no Israel/Palestine, gun, or defense affiliations documented.",
+    "source_url": "https://www.bracewell.com/people/summer-b-greathouse/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "182d5ff8-dc6c-4fa5-b67e-f415ec9a2d52",
+    "name": "Marschall, Madolyn",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor lists occupation and employer as 'Not Employed', Alamo Heights (78209). Only public-records aggregators return the name, with no distinctive professional, civic, or advocacy profile identifiable and some entries pointing to other states, so identity cannot be firmly resolved. FEC PAC-contribution, TX lobbyist, and bio searches surfaced no records; no affiliations documented.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "17bf6c4a-e3e7-4ecc-8f09-170a5162f384",
+    "name": "Papastrat, Alexander",
+    "resolved_employer": "The Dow Chemical Company",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Alexander Papastrat is a Senior/Site Logistics Production Leader (chemical engineer) at Dow in Texas, matching the donor's occupation, employer, and Houston-area (77058) location. No board/leadership/lobbyist role documented; FEC PAC and TX Ethics Commission lobbyist searches returned no matches, so per guidance he is classified by employer as Engineering with no energy/oil_gas advocacy affiliation.",
+    "source_url": "https://www.linkedin.com/in/alexander-papastrat",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "14e1aca9-ccf9-4ae7-93b9-9acd9ff9e583",
+    "name": "Bettis, Craig",
+    "resolved_employer": "Gamez Law Firm",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Robert Craig Bettis is a personal-injury/plaintiff attorney at Gamez Law Firm (Joe Gamez Law) in San Antonio, licensed in TX since 2003 (Texas A&M, South Texas College of Law), matching the donor's name, occupation, employer, and San Antonio 78223 location. FEC PAC-contribution and TX Ethics Commission lobbyist searches returned no matches; no board/policy-advocacy role documented.",
+    "source_url": "https://joegamezlaw.com/attorney/bettis-craig/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "14caf5db-630a-4818-bc94-b46bff48020a",
+    "name": "Lucasey, Linda",
+    "resolved_employer": "N/A (retired)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No public profile found for a Linda Lucasey in Pittsburgh (15224). Web, FEC PAC, and TX/other lobbyist searches returned only unrelated individuals. Donor is listed as retired with no employer; identity could not be corroborated beyond name/zip, so industry is null and no affiliation is assigned.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "141abd73-4f21-47b1-811d-849d4e253135",
+    "name": "Smalls, Dawn",
+    "resolved_employer": "Jenner & Block LLP",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Dawn L. Smalls is a partner in Jenner & Block's New York office (Government Controversies & Public Policy Litigation), matching the donor's attorney occupation, employer, and NYC 10011 location. Public bio documents prior federal service (Clinton administration White House aide; Obama administration HHS chief regulatory officer/Executive Secretary), Ford Foundation Director of Democratic Participation, a 2019 NYC Public Advocate run, and 2023 appointment by Mayor Adams to the NYC Campaign Finance Board. No pro_israel, palestine, oil_gas, gun, or defense PAC/advocacy affiliations found; her documented affiliation is the civic CFB board seat.",
+    "source_url": "https://www.nyccfb.info/about/board/dawn-l-smalls/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "New York City Campaign Finance Board", "role": "Board Member (appointed 2023, term to 2027)", "category": "civic", "source_url": "https://www.nyccfb.info/about/board/dawn-l-smalls/", "snippet": "Dawn Smalls was appointed by Mayor Eric Adams on March 29, 2023 to serve a five-year term on the NYC Campaign Finance Board, involved in NYC Votes voter engagement and the public matching funds program."}
+    ]
+  },
+  {
+    "donor_id": "1393840e-14d6-402c-b490-93c687ce9e34",
+    "name": "Liston, Ann",
+    "resolved_employer": "A|L Media (Adelstein Liston), founding partner",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Ann Liston is co-founder/partner of A|L Media (Adelstein Liston), a leading Democratic political media/ad consulting firm founded 2005 with Eric Adelstein; 20+ yrs on Democratic campaigns incl. Obama 2012 media team, EMILY's List, DCCC. WI location (Genoa City 53128) and 'Partner/AL Media' match. No FEC PAC donations in tracked issue categories and no TX lobbyist registration found.",
+    "source_url": "https://almediastrategy.com/the-team/ann-liston/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "A|L Media (Adelstein Liston)", "role": "Founding Partner / Democratic media consultant", "category": "political", "source_url": "https://almediastrategy.com/the-team/ann-liston/", "snippet": "Founding partner of one of the leading Democratic media companies in the country; senior media team member on Obama's re-election, EMILY's List, DCCC."}
+    ]
+  },
+  {
+    "donor_id": "136fc95e-a7eb-4830-b56b-cf04e9045553",
+    "name": "Shirley, Lisa",
+    "resolved_employer": "Dean Omar Branham Shirley LLP (name partner)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Lisa White Shirley (State Bar of Texas, licensed LA 1999/TX 2006) is a name partner at Dean Omar Branham Shirley LLP, a Dallas plaintiff-side asbestos/mesothelioma, product-liability and personal-injury firm; heads the firm's motion and appellate practice; Lawdragon 500 Leading Plaintiff Consumer Lawyers. Dallas 75202 address matches firm. No tracked-category FEC PAC donations or TX lobbyist registration found.",
+    "source_url": "https://www.domslaw.com/attorneys/lisa-w-shirley/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "10091aa7-13be-4f4a-8b09-de34cc4adc60",
+    "name": "Barron, Jillian",
+    "resolved_employer": "Sebris Busto James, P.S. (Counsel)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Jillian Barron is Counsel at Sebris Busto James, a Bellevue/Seattle-area management-side labor & employment law firm; recognized by Best Lawyers for Employment Law-Management and Litigation-Labor & Employment; JD Columbia Law. Seattle 98109 location matches. No tracked-category FEC PAC donations or (WA-based, not TX) lobbyist registration found.",
+    "source_url": "https://sbj.law/our-attorneys/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0f7382f8-d2ad-41c0-bb9c-1ba2836f46a4",
+    "name": "Roosevelt, Serena",
+    "resolved_employer": "Roosevelt Strategies LLC (strategy/communications consultant); donor self-reported 'Not Employed'",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Serena Torrey Roosevelt of Brooklyn (Brown Univ.) is associated per LinkedIn with Roosevelt Strategies LLC as a strategy/communications consultant/advisor. Donation record lists 'Not Employed', but public profile indicates independent consulting work. No FEC PAC donations in tracked categories and no TX lobbyist registration found; no documented policy-advocacy affiliations.",
+    "source_url": "https://www.linkedin.com/in/serena-roosevelt-051884/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "donor_id": "1f074564-31eb-474a-97c9-00a74811729b",
+    "name": "Moore, Myfe",
+    "resolved_employer": "Self-employed — manager of family ranch/real-estate entities (MWM & Associates LC; Dos Chimeneas Ranch, Ltd.; MWM Helotes Ranch, Ltd.)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Ethel W. 'Myfe' Moore, b. ~1945, 603 River Rd San Antonio 78212; long-time SA civic figure who manages family ranch/property companies (property management), consistent with 'Mgr/Self'. FEC/OpenSecrets/LittleSis show a very heavy Democratic donor (~$45k to DNC, Hillary Victory Fund, Obama Victory Fund; matches fec_donation_count 180 and partisan_lean 1.0) — no pro-Israel/Palestine/oil-gas/gun/defense PAC records found. Not found on TX Ethics Commission or City of SA lobbyist registries. Bio: founder of Helotes Creek/San Geronimo Nature Center, Director Emeritus of SA Livestock Exposition, board of San Antonio Solar.",
+    "source_url": "https://littlesis.org/person/248632-Myfe_Moore",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Livestock Exposition", "role": "Director Emeritus", "category": "civic", "source_url": "https://littlesis.org/person/248632-Myfe_Moore", "snippet": "Director Emeritus of San Antonio Livestock Exposition."},
+      {"org": "San Geronimo / Helotes Creek Nature Center", "role": "Founder", "category": "civic", "source_url": "https://littlesis.org/person/248632-Myfe_Moore", "snippet": "Founder of the Helotes Creek Nature Center and San Geronimo Nature Center."},
+      {"org": "San Antonio Solar", "role": "Board member", "category": "business", "source_url": "https://littlesis.org/person/248632-Myfe_Moore", "snippet": "Board member of San Antonio Solar."},
+      {"org": "Democratic Party / DNC (major individual donor)", "role": "Major donor", "category": "political", "source_url": "https://littlesis.org/person/248632-Myfe_Moore", "snippet": "$45,185 in 24 contributions to the DNC plus Hillary Victory Fund, Obama Victory Fund, DSCC, DCCC (2004-2016)."}
+    ]
+  },
+  {
+    "donor_id": "1b9a5dca-fa5f-4a8e-aee1-eea4b1863605",
+    "name": "Lowenstein, Roger",
+    "resolved_employer": "Law Offices of Roger Lowenstein (solo attorney)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Donor's exact address (4536 Wilshire Blvd Ste 6, LA 90010) matches Roger Alan Lowenstein, CalBar #200921, admitted 1999, Harvard Law, solo practitioner — high confidence on the identity/occupation. His LinkedIn ('Attorney at Law, Law Offices of Roger Lowenstein') also posts for LA Leadership Academy, tying him to the progressive-activist Roger Lowenstein (founder of the LA Leadership Academy charter school, ACLU of Southern California board, Progressive Jewish Alliance) — affiliations medium confidence given multiple same-name individuals. No itemized ideological-PAC (AIPAC/J Street/oil-gas/gun/defense) contribution records surfaced; not on TX Ethics Commission/SA lobbyist lists (CA-based). Note: rogerlowenstein.com is a different person (financial author).",
+    "source_url": "https://lawyers.lawyerlegion.com/california/roger-alan-lowenstein-31286084",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Los Angeles Leadership Academy", "role": "Founder", "category": "civic", "source_url": "https://www.linkedin.com/in/roger-lowenstein-58a3b16/", "snippet": "In 2001 founded the Los Angeles Leadership Academy, a K-12 public charter school in Lincoln Heights."},
+      {"org": "ACLU of Southern California", "role": "Board member", "category": "civic", "source_url": "https://www.keywiki.org/Roger_Lowenstein", "snippet": "Serves on the Board of the ACLU of Southern California."},
+      {"org": "Progressive Jewish Alliance", "role": "Founding/leadership involvement (per ACLU SoCal bio)", "category": "jewish_civic", "source_url": "https://www.jewishvirtuallibrary.org/progressive-jewish-alliance", "snippet": "LA progressive Jewish social-justice org (est. 1999) that embraced a two-state Middle East position; Lowenstein named among its founders/leaders."}
+    ]
+  },
+  {
+    "donor_id": "18c3f162-b4c2-4616-ad5b-5a445de0c05c",
+    "name": "Stowe, Barbara",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Barbara Stowe, resident of 11507 Woodstock Way, Reston, VA 20194 (the '11507' in the zip field is the house number; actual ZIP 20194), listed with co-resident/relative Howard D. Stowe (age ~96). Self-reported 'Not Employed'. No public professional, board, or advocacy profile located; no FEC contribution history (matches fec_donation_count 0), and no TX Ethics Commission/SA lobbyist records. Cannot corroborate any occupation beyond homemaker/retired, so no affiliation claimed.",
+    "source_url": "https://www.neighborwho.com/Woodstock-Way-Reston-VA-addresses/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "18b9f11a-73b2-4481-8a37-9c4de29174e2",
+    "name": "Guajardo, Elena",
+    "resolved_employer": "Former San Antonio City Council Member, District 7 (retired)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Elena Guajardo was elected to San Antonio City Council District 7 (2005), the first openly gay person elected to that council; SW/social-work background, now listed 'Not Employed' (retired). Corroborated by SA 78240 location + longtime SA Democratic activism. FEC search: 260 contributions, fully Democratic lean, no PACs in the tracked pro-Israel/pro-Palestine/oil-gas/gun/defense categories surfaced. TX/City lobbyist registry: no registration found. Bio read confirms civic/political ties below.",
+    "source_url": "https://activecitizen.wordpress.com/about-elena-guajardo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio City Council, District 7", "role": "Former Councilwoman (elected 2005)", "category": "political", "source_url": "https://activecitizen.wordpress.com/about-elena-guajardo/", "snippet": "Elena Guajardo was elected to San Antonio's City Council District 7 on June 7, 2005; first openly gay candidate elected to San Antonio's City Council."},
+      {"org": "Stonewall Democrats of San Antonio", "role": "Board member", "category": "civic", "source_url": "https://utsalibrariestopshelf.wordpress.com/2015/10/12/elena-guajardo-papers-and-stonewall-democrats-of-san-antonio-records-donated-to-utsa-special-collections/", "snippet": "Elena Guajardo Papers and Stonewall Democrats of San Antonio Records donated to UTSA Special Collections; Guajardo served on the board of the LGBT Democratic organization."}
+    ]
+  },
+  {
+    "donor_id": "1751ef15-17df-4e8c-b88a-c95db23f023f",
+    "name": "Swift, Laurel",
+    "resolved_employer": "Self-employed remodeler",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Laurel Swift, self-employed remodeler at 7627 Woodridge Dr, San Antonio, TX 78209 — address/name confirmed via public-records aggregator (Radaris). No business page, board seat, or advocacy profile found. FEC search: consistent Democratic-lean small-donor pattern (347 contributions), no PACs in the tracked ideological categories. TX/City lobbyist registry: no registration. Bio read: no public professional profile beyond generic self-employed remodeler occupation — a quiet result.",
+    "source_url": "https://radaris.com/p/Laurel/Swift/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "174b874f-ee16-4c6e-881c-7f4ffc44f0a9",
+    "name": "Mesa, Abigail",
+    "resolved_employer": "California State Assembly (Chief of Staff to Assemblymember Matt Haney)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Abigail Rivamonte Mesa is Chief of Staff to CA Assemblymember Matt Haney (SF); former San Francisco Public Defender felony trial attorney; JD, USF. SF 94112 location and 'Chief of Staff / CA State Assembly' occupation match exactly. FEC: single contribution (count 1), no PAC activity in tracked categories. TX/City lobbyist registry: N/A (California resident, no TX registration). Bio full read confirms government role plus bar-association leadership below.",
+    "source_url": "https://fbanc.org/fbanc-president-abigail-rivamonte-mesa",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Filipino Bar Association of Northern California (FBANC)", "role": "33rd President (2013-2014); board 2011-2014", "category": "civic", "source_url": "https://fbanc.org/fbanc-president-abigail-rivamonte-mesa", "snippet": "33rd President of FBANC; served on the board 2011-2014 as Vice President and Secretary; led FBANC's Typhoon Haiyan fundraising."},
+      {"org": "Office of CA Assemblymember Matt Haney", "role": "Chief of Staff", "category": "political", "source_url": "https://fbanc.org/fbanc-president-abigail-rivamonte-mesa", "snippet": "Current Role: Chief of Staff for State Assembly Member Matt Haney; former felony trial attorney at the San Francisco Public Defender's Office."}
+    ]
+  },
+  {
+    "donor_id": "160cfff0-b168-449e-9118-eb453086b7e2",
+    "name": "Deline, Steven",
+    "resolved_employer": "Not Employed (self-reported); progressive community organizer — very likely Steve Deline, co-founder of The New Conversation Initiative / Deep Canvass Institute",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Austin 78704 'Not Employed' donor who is a hyper-active Democratic small-dollar giver (fec_donation_count 360, partisan_lean 1.0). A 'Steven Deline' of Austin testified FOR Texas SB 1540 (election-official confidentiality) on his own behalf, 4/14/2025 — consistent with pro-democracy civic engagement. Pattern and name match Steve Deline, longtime LGBTQ/immigrant-rights 'deep canvassing' organizer (ex-LA LGBT Center Leadership LAB, co-founder New Conversation Initiative), though his exact city of residence is not independently confirmed. FEC PAC search: no Israel/Palestine, gun, oil/gas, or defense PAC ties found — only progressive small-dollar/ActBlue-type giving. No TX lobbyist registration. Bio read done on deepcanvass.org / newconvo.org.",
+    "source_url": "https://capitol.texas.gov/tlodocs/89R/witlistmtg/pdf/C5702025041409001.PDF",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The New Conversation Initiative / Deep Canvass Institute", "role": "Co-Founder (probable identity match)", "category": "civic", "source_url": "https://www.newconvo.org/who-we-are", "snippet": "Steve Deline helped develop the original deep canvass conversation model and embedded with the Minnesotans United marriage equality campaign as a Regional Field Director; co-founder of The New Conversation Initiative."}
+    ]
+  },
+  {
+    "donor_id": "15f9bf99-6989-415e-b068-aa21a658934c",
+    "name": "Block, Fred",
+    "resolved_employer": "University of California, Davis — Professor Emeritus / Research Professor of Sociology (retired)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Identity confirmed: Fred L. Block (b. 1947), leading economic/political sociologist, Professor Emeritus at UC Davis, PhD UC Berkeley. His published CV lists '42 Plaza Drive' — matching the donor's exact home address of 42 Plaza Dr, Berkeley CA 94705. Leads the Center for Engaged Scholarship. FEC PAC search: no ideological PAC ties (Israel/Palestine, gun, oil/gas, defense) found; consistent with modest progressive/ActBlue-type academic giving. No TX lobbyist registration (out-of-state academic). Bio full read done via Wikipedia and UC Davis Sociology.",
+    "source_url": "https://en.wikipedia.org/wiki/Fred_L._Block",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Center for Engaged Scholarship", "role": "Founder/Director", "category": "civic", "source_url": "https://sociology.ucdavis.edu/people/fred-block", "snippet": "Fred Block leads the Center for Engaged Scholarship, which provides fellowship support for PhD students in the social sciences whose work has potential to make U.S. society more egalitarian, democratic, and environmentally sustainable."}
+    ]
+  },
+  {
+    "donor_id": "11420c4e-d6b1-4c94-ac0a-0ceef5b6e198",
+    "name": "Dozier, Cheryl",
+    "resolved_employer": "Not Employed (self-reported); no public professional profile identified",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "San Antonio 78212 (Beacon Hill/Tobin Hill) resident, self-reported 'Not Employed,' modest Democratic-leaning donor (fec_donation_count 26, partisan_lean 0.66). Only corroborating public trace is her listing as an individual member (Enthusiast, $100-$499 tier) of the nonprofit San Antonio Report — consistent with a civically engaged local resident. No LinkedIn/bio, no TX or City of San Antonio lobbyist registration, and FEC PAC search found no Israel/Palestine, gun, oil/gas, or defense PAC ties. A quiet, unremarkable local donor.",
+    "source_url": "https://sanantonioreport.org/meet-our-individual-members/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Report (nonprofit local news)", "role": "Individual member/donor", "category": "civic", "source_url": "https://sanantonioreport.org/meet-our-individual-members/", "snippet": "Cheryl Dozier appears among the individual members in the Enthusiasts ($100-$499) section of the San Antonio Report member list."}
+    ]
+  },
+  {
+    "donor_id": "0cd375fd-176f-4769-ad30-7af2e35803a7",
+    "name": "McGiverin, Brian",
+    "resolved_employer": "Austin Community Law Center (Executive Director / civil rights attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Brian Rolland McGiverin, longtime Austin civil rights attorney and Executive Director/founder of the nonprofit Austin Community Law Center; former staff attorney at Texas Civil Rights Project and policy aide to Austin City Council Member Delia Garza (State Bar of TX #307676; zip/occupation/employer all match). FEC/OpenSecrets and TX Ethics lobbyist searches returned no ideological-PAC or registered-lobbyist records; bio read confirms nonprofit legal leadership only.",
+    "source_url": "https://www.austincommunitylawcenter.org/our-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin Community Law Center", "role": "Executive Director / Founder", "category": "civic", "source_url": "https://www.austincommunitylawcenter.org/our-team", "snippet": "Executive Director at Austin Community Law Center, a charitable nonprofit focused on affordable legal representation and access to justice."},
+      {"org": "Texas Civil Rights Project", "role": "Former staff attorney", "category": "civic", "source_url": "https://www.linkedin.com/in/bmcgiverin/", "snippet": "Prior civil rights litigation as a staff attorney with the Texas Civil Rights Project; also served as policy aide to Austin Council Member Delia Garza."}
+    ]
+  },
+  {
+    "donor_id": "0c28b34d-db61-4139-ad1b-c8169f9791e2",
+    "name": "Collins, Jason",
+    "resolved_employer": "NBA (NBA Cares Ambassador; retired NBA player)",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Jason Paul Collins, retired 13-year NBA center and the first openly gay active male athlete in a major US pro sport; served as an NBA Cares Ambassador and lived in Los Angeles (LA location + NBA Cares role match donor record; he died at his LA home in May 2026). FEC/OpenSecrets shows a frequent small-dollar Democratic-leaning donor but no tracked ideological-PAC ties; TX lobbyist search negative; bio confirms LGBTQ-rights advocacy, not a tracked balanced category.",
+    "source_url": "https://www.nba.com/news/jason-collins-passes-away-age-47",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "NBA / NBA Cares", "role": "Ambassador (former player)", "category": "civic", "source_url": "https://www.nba.com/news/jason-collins-passes-away-age-47", "snippet": "Served as an NBA Cares Ambassador spreading goodwill on behalf of the league after a 13-year playing career; noted as an LGBTQ-rights advocate."}
+    ]
+  },
+  {
+    "donor_id": "0bd13fe8-588f-40bd-9b27-9e919734f9b7",
+    "name": "Schmidt, Jim",
+    "resolved_employer": "Schmidt Government Solutions LLC (President)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Jim Schmidt, President and founder (2011) of Schmidt Government Solutions LLC, a Nashville government-affairs/lobbying firm representing clients before the Tennessee General Assembly; Memphis native, prior public-policy roles at Baker Donelson and Advance Public Strategies (Nashville zip/employer/title all match). He is a registered Tennessee lobbyist (TN Ethics Commission), not Texas; TX Ethics/City of San Antonio lobbyist searches negative; FEC search shows no tracked ideological-PAC contributions.",
+    "source_url": "https://www.schmidtgovsolutions.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Schmidt Government Solutions LLC", "role": "President / Founder", "category": "business", "source_url": "https://www.schmidtgovsolutions.com/", "snippet": "Founded the firm in 2011; 30+ years as a lobbyist/public-policy advisor representing clients before the Tennessee General Assembly and state government (registered TN lobbyist)."},
+      {"org": "Nashville LGBT Chamber of Commerce", "role": "Certified LGBT Business Enterprise member", "category": "civic", "source_url": "http://nashvilleglbtchamber.chambermaster.com/list/member/schmidt-government-solutions-tn-324", "snippet": "Schmidt Government Solutions listed as a Certified LGBT Business Enterprise member of the Nashville LGBT Chamber of Commerce."}
+    ]
+  },
+  {
+    "donor_id": "04f4cc39-1a04-47e1-b867-6029b1fd6404",
+    "name": "Dunn, Sandy",
+    "resolved_employer": "Self-employed (Sandra Dunn, LMT — therapeutic massage)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Sandra 'Sandy' Dunn is a self-employed licensed massage therapist in the Westlake Hills area of Austin (matches zip 78746 / West Lake Hills, occupation LMT, employer 'self'); a Facebook business page 'Sandra Dunn, LMT | Austin TX' advertises ~30 years of therapeutic massage. FEC/OpenSecrets shows a very frequent small-dollar Democratic donor pattern (481 contributions, partisan lean 1.0) consistent with ActBlue giving, but no United Democracy Project/J Street/oil-gas/defense/gun PAC or other tracked ideological-PAC record was found. No TX/City of San Antonio lobbyist registration. No professional bio beyond the massage practice.",
+    "source_url": "https://www.facebook.com/sdmassage/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "038cc764-8f47-493a-9e4b-adb56f14b8c8",
+    "name": "Gilbert, Barry",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor lists as Not Employed at 130 Runnymede Rd in the affluent Brighton section of Rochester, NY (14618). Beyond the San Antonio/TEC campaign-finance filing showing the contribution, no public profile, bio, obituary, or professional record uniquely identifying this Barry Gilbert could be located; 'Barry Gilbert' is a common name with no matching Rochester result. FEC shows no contribution history (fec_donation_count 0); no TX/City of San Antonio lobbyist registration found. Not identifiable beyond address and Not-Employed status.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003287_20250403_171242.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "009aff2e-e5dc-4101-ae14-c5c562c18066",
+    "name": "Condon, Jane",
+    "resolved_employer": "Self-employed (standup/corporate comedian)",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Jane Condon is a well-known self-employed standup and corporate comedian based in Greenwich, CT (matches zip 06831, occupation 'comedian', employer 'self-employed'); Wellesley College alum, Ladies of Laughter pro winner, and has appeared on ABC's The View, NBC's Last Comic Standing, and the Today Show. Full bio read on her official site and Ladies of Laughter/The Bash profiles show entertainment career only — no policy-advocacy board seats or org memberships. FEC shows no contribution history (fec_donation_count 0); no tracked ideological PAC records and no TX/City of San Antonio lobbyist registration found.",
+    "source_url": "https://janecondon.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "74063023-24e2-4e91-95ec-46629e2f1d75",
+    "name": "Nall, Barry",
+    "resolved_employer": "Not employed / retired (Comfort, TX)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Barry T. Nall, age ~76, PO Box 205 Comfort, TX 78013 (matches donor record). Self-reports 'not employed' — retired; public-records aggregators loosely associate a past career as an independent design/engineering contractor (Hill Country Telephone Cooperative, UT Health Science Center) but no professional bio confirmable. Prolific small-dollar donor (1,045 FEC contributions, partisan lean 1.0). FEC search: no ideological PAC (AIPAC/UDP, J Street, oil/gas, defense, gun) contributions found. TX lobbyist registry: not listed. Bio read: no LinkedIn/professional profile.",
+    "source_url": "https://radaris.com/p/Barry/Nall-USA/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ce5087b2-5f4c-41f1-a29b-39104a69e3cc",
+    "name": "Alaniz, anet",
+    "resolved_employer": "TIENDANET Enterprises LLC (owner)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Resolves to Annette C. Alaniz at 502 Claude W. Black, San Antonio, TX 78203 (exact address match), identified in public records as associated with TIENDANET Enterprises LLC, a small San Antonio business — consistent with donor's self-reported 'small business owner / self'. 13 FEC contributions, partisan lean 1.0. FEC search: no ideological PAC contributions found. TX lobbyist registry: not listed. Bio read: no LinkedIn/professional profile beyond the LLC registration.",
+    "source_url": "https://radaris.com/p/Annette/Alaniz/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cd45dd1c-44dc-4a97-9d71-e9762d7f2446",
+    "name": "Tapia, Michael",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Michael Tapia at 5006 Casa Grande St, San Antonio, TX 78233 (address on Casa Grande St in 78233 confirmed via property records). Self-reports 'Not Employed'; common name with multiple unrelated profiles (no unique professional bio could be corroborated to this address). Active small-dollar donor (220 FEC contributions, partisan lean 1.0). FEC search: no ideological PAC contributions found. TX lobbyist registry: not listed. Bio read: no confirmable LinkedIn/professional profile.",
+    "source_url": "https://radaris.com/p/Michael/Tapia/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ca9a54d0-848e-402e-b4f6-4bbe03f8bf6e",
+    "name": "Aguirre, Catalina",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Small-dollar Democratic donor at 15010 Short Trl, San Antonio, TX 78245, self-reporting 'Not Employed'; FEC partisan lean 1.0 across 62 donations is consistent with a routine ActBlue-style grassroots giver. FEC/OpenSecrets individual-contributor search found no distinct itemized record specifically tying this person to any ideological PAC (results surfaced only other Aguirres like Cynthia/Alex Aguirre); TX Ethics Commission and San Antonio lobbyist registries show no registration; no public bio/LinkedIn/professional profile exists. No affiliations documented.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part32.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "91b52ead-53ba-4a64-92c3-d25b8c71e4ce",
+    "name": "Morales, GUADAUPE",
+    "resolved_employer": "Education Service Center Region 2 (retired)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Guadalupe Morales of Robstown, TX 78380 (312 Mainer Rd); employer string 'Ese region 2' matches Education Service Center Region 2 (Corpus Christi-area TEA education service center), so a retiree from education. city-data/FEC individual-contribution records confirm a Guadalupe Morales at ZIP 78380 making ActBlue contributions, consistent with the high (175) all-Democratic (lean 1.0) donation history. FEC/OpenSecrets search shows only routine small-dollar ActBlue giving with no ideological PAC ties; no TX Ethics Commission or SA lobbyist registration; no personal bio page found. No affiliations documented.",
+    "source_url": "https://www.city-data.com/elec2/elec-ROBSTOWN-TX.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

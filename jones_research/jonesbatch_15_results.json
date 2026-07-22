@@ -1,0 +1,239 @@
+[
+  {
+    "donor_id": "53191859-7ea5-4310-b8b3-5a118f6e8c7a",
+    "name": "Mitchell, John",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as Not Employed in Austin 78756 (Aurora Dr). 'John Mitchell' is an extremely common name and no public bio could be tied specifically to this address/donor; high FEC count (5,571) suggests a recurring small-dollar ActBlue-style donor but identity not uniquely confirmable.",
+    "source_url": "https://www.opensecrets.org/donor-lookup/results?zip=78756",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f41955d0-649d-49cb-bec3-9a48f5bb5183",
+    "name": "George, Cheryl",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as Not Employed in Austin 78746 (West Lake Hills, Stratford Dr). No public bio could be matched to this specific person; common name and no confirming occupation/board detail found. FEC count (986) indicates a repeat small-dollar donor.",
+    "source_url": "https://www.opensecrets.org/donor-lookup/results?zip=78746",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a699187c-077d-4f10-a7f0-614b4f1a8ca1",
+    "name": "Tolentino, Raymond",
+    "resolved_employer": "Partner, Cooley LLP (litigation); formerly Special Assistant to the President & Senior Associate White House Counsel",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Raymond P. Tolentino, DC litigator; joined Cooley LLP as a partner in July 2025 after serving as Senior Associate White House Counsel (to Jan 2025); former SCOTUS clerk (Justice Sotomayor) and Senate Judiciary counsel to Sen. Klobuchar. Matches DC 20009 attorney/former-U.S.-government profile.",
+    "source_url": "https://www.cooley.com/people/raymond-tolentino",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9b3b1c8d-cbdc-46fb-b95c-9ef40604ce5e",
+    "name": "Pacheco, Daniel",
+    "resolved_employer": "Strategic Account Manager, BD (Becton Dickinson) — medical technology/diagnostics",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Daniel Pacheco, San Antonio-based BD (Becton Dickinson) sales/account professional; 2019 Henry P. Becton Volunteer Impact Award recipient. LinkedIn (pachecod) and BD San Antonio sales roles corroborate name, employer, and location (78202). BD is a medical device/diagnostics company.",
+    "source_url": "https://www.linkedin.com/in/pachecod/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8ffcbc66-686a-4e4e-9d2e-67e387e207bf",
+    "name": "Wong, Chantale",
+    "resolved_employer": "SVP, Amida Technology Solutions; former U.S. Ambassador / Executive Director to the Asian Development Bank (2022-2025)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Chantale Wong: U.S. Executive Director to the Asian Development Bank with ambassadorial rank (Feb 2022-Jan 2025, Biden appointee), prior SVP at Amida Technology Solutions, and earlier CFO/VP at Millennium Challenge Corp and NASA budget director. Co-founded the Conference on Asian Pacific American Leadership; first out lesbian/LGBTQ person of color with ambassador rank. DC 20007 matches.",
+    "source_url": "https://en.wikipedia.org/wiki/Chantale_Wong",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "82077433-46b3-42c4-8de8-cc55fac36c9d",
+    "name": "Camaisa, Megan",
+    "resolved_employer": "Calidi Biotherapeutics, Inc. (Co-Founder)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Megan Ann Camaisa of PO Box 7310, Rancho Santa Fe CA 92067 (address matches exactly) is documented Co-Founder of San Diego biotech Calidi Biotherapeutics and manager of Chester Hill Partners LLC; reported 'Not Employed' but is an active entrepreneur. Spouse Allan Camaisa is Calidi's founder/CEO.",
+    "source_url": "https://www.linkedin.com/in/megan-camaisa/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "77e8fdca-e813-44e8-81f3-47ba100bef74",
+    "name": "Cohen, Henry",
+    "resolved_employer": "Sullivan & Cromwell LLP (Senior Chairman)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Henry Rodgin ('H. Rodgin') Cohen, prominent banking lawyer and Senior Chairman of Sullivan & Cromwell; FEC 2025 filing lists exact same rare address (21 Matthiessen Park, Irvington NY 10533) with occupation Attorney/Sullivan & Cromwell. Reported 'Retired' on this donation but remains firm's Senior Chairman.",
+    "source_url": "https://www.sullcrom.com/Lawyers/H-Rodgin-Cohen",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "NewYork-Presbyterian Hospital / The Rockefeller University / Lincoln Center Theater", "role": "Trustee", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/H._Rodgin_Cohen", "snippet": "Cohen is currently or has been a trustee of New York Presbyterian Hospital, The Rockefeller University, Lincoln Center Theater... and the Economic Club of New York."},
+      {"org": "National September 11 Memorial & Museum", "role": "Board of Trustees", "category": "civic", "source_url": "https://www.911memorial.org/about/board-trustees/h-rodgin-cohen", "snippet": "H. Rodgin Cohen — Senior Chairman, Sullivan & Cromwell LLP (listed on the 9/11 Memorial board of trustees page)."}
+    ]
+  },
+  {
+    "donor_id": "6826b6f1-fcfe-45b4-b847-deee0cf4893b",
+    "name": "Childs, Stephanie",
+    "resolved_employer": "FleishmanHillard (Senior Vice President & Partner)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Stephanie K. Childs is Senior Vice President & Partner at PR/communications firm FleishmanHillard, based in Austin (matches reported employer 'FleishmanHillard', occupation 'PR', and Austin TX 78738 location). 20+ years strategic communications.",
+    "source_url": "https://www.linkedin.com/in/stephaniekchilds/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5d54e3a5-9fa4-461e-9719-4d6c237962b0",
+    "name": "Garcia, Emmanuel",
+    "resolved_employer": "Seeker Strategies (Co-Founder)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Emmanuel 'Manny' Garcia, Austin TX, is Co-Founder of Seeker Strategies (progressive Black/Brown-owned communications & advocacy firm) since 2021; matches reported employer and Austin 78747 location. Formerly Executive Director of the Texas Democratic Party.",
+    "source_url": "https://www.linkedin.com/in/manny-garcia-330121141/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Democratic Party", "role": "Executive Director (2019-2021), prior Deputy Executive Director (2015-2019)", "category": "political", "source_url": "https://www.linkedin.com/in/manny-garcia-330121141/", "snippet": "Executive Director of the Texas Democratic Party (January 2019 - January 2021) and Deputy Executive Director (February 2015 - January 2019)."}
+    ]
+  },
+  {
+    "donor_id": "5679d81d-bcfb-453d-89c4-31e9ba4210ce",
+    "name": "Reinhart, Gail",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Gail D. Reinhart, San Antonio 78202, is a prolific Democratic small-dollar donor (1,170 FEC donations; e.g., EMILY's List, ActBlue). Historical FEC filings list occupation 'U.S. Gov't/Lawyer'; reported 'Not Employed' on this donation (likely retired government attorney). Could not fully corroborate current status.",
+    "source_url": "https://www.city-data.com/elec2/10/elec-SAN-ANTONIO-TX-10-part6.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4f13bff1-52f1-4dc2-8d23-c8c476f0f52b",
+    "name": "Carlson, Karen & Evelyn",
+    "resolved_employer": "KC Geoscience Consulting LLC",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Karen Carlson is founder of KC Geoscience Consulting LLC in Houston (Colorado School of Mines grad); LinkedIn describes focus on oil & gas exploration and subsurface/petroleum interpretation. Matches corrected Houston 77082 location and occupation.",
+    "source_url": "https://www.linkedin.com/in/karen-carlson-28963b9/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "KC Geoscience Consulting LLC", "role": "Founder / Geoscience Consultant (oil & gas exploration)", "category": "oil_gas", "source_url": "https://www.linkedin.com/in/karen-carlson-28963b9/", "snippet": "Karen Carlson - KC Geoscience Consulting LLC, Houston; recent focus in oil and gas exploration, subsurface/petroleum interpretation."}
+    ]
+  },
+  {
+    "donor_id": "4c104a4a-2825-4eb3-86ae-29dfacaba701",
+    "name": "Abriam, Rosemary",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Public records confirm Rosemary O. Abriam owns 1681 Fluorite Ct, Livermore CA (exact donor address). Rare surname + Livermore matches Rosie Abriam, former President/CEO of the Center for Asian Pacific American Women and ex-Lawrence Livermore National Lab; donor self-reports Not Employed, consistent with semi-retirement.",
+    "source_url": "https://aapip.org/our-stories/conversation-with-25-leaders-in-action-rosie-abriam",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Center for Asian Pacific American Women (CAPAW)", "role": "Past President/CEO", "category": "civic", "source_url": "https://aapip.org/our-stories/conversation-with-25-leaders-in-action-rosie-abriam", "snippet": "Rosie Abriam, past President/CEO of the Center for Asian Pacific American Women, a national AAPI women's leadership nonprofit; based in Livermore, CA."}
+    ]
+  },
+  {
+    "donor_id": "3f066d14-d167-47d6-b1f0-f4436287dae2",
+    "name": "Rogers, Simeona",
+    "resolved_employer": "Meta (Director, California Public Policy)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Simeona 'Mona' Pasquil Rogers (birth name Simeona Fortunata Pasquil) is Director of California public policy at Meta; former acting Lt. Governor of California and California State Personnel Board VP. Occupation 'Director' + employer 'Meta' match exactly.",
+    "source_url": "https://en.wikipedia.org/wiki/Mona_Pasquil",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "State of California", "role": "Former acting Lieutenant Governor of California (2009-2010); appointments secretary; California State Personnel Board VP", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Mona_Pasquil", "snippet": "Appointed acting Lieutenant Governor of California 2009-2010; later appointments secretary under Gov. Brown and California State Personnel Board vice president."}
+    ]
+  },
+  {
+    "donor_id": "37a82398-a432-44f7-9b8d-8473e174688d",
+    "name": "Michel, Robert",
+    "resolved_employer": "Loudhouse Productions LLC (Loudhouse Records)",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Robert 'Booka' Michel is an Austin film/music producer who founded Loudhouse Records/Productions; produced albums and film scores (Baghdad Texas, Jeremy Fink and the Meaning of Life). Matches occupation and Austin address. 169 FEC gifts indicate frequent Democratic donor; no issue-PAC affiliation documented.",
+    "source_url": "https://en.wikipedia.org/wiki/Booka_Michel",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2d2668be-604b-4a0a-bb81-08373985edb3",
+    "name": "Jolly, Joseph",
+    "resolved_employer": "Wellan Montessori School",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Joseph Jolly is CFO/COO and Director of Development & Legal Affairs at Wellan Montessori School in Newton, MA (Cornell Law grad; former Foley & Lardner and WilmerHale attorney). Employer 'Wellan' and occupation 'Attorney / Administrator' match exactly, plus Newton 02464 location.",
+    "source_url": "https://theorg.com/org/wellan-montessori-school/org-chart/joseph-jolly",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "26d0e0dd-1d55-4f97-a4a7-0911847eb61e",
+    "name": "yodaiken, victor",
+    "resolved_employer": "FSMLabs (founder/CEO, exited; now not employed)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Victor Yodaiken, Austin TX (78733), co-founder/CEO of FSMLabs and creator of RTLinux (real-time Linux); registered Democrat, prolific ActBlue small-dollar donor consistent with 791 FEC records. Currently 'Not Employed'/retired from tech.",
+    "source_url": "https://www.crunchbase.com/person/victor-yodaiken",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "FSMLabs (Finite State Machine Labs)", "role": "Co-founder & CEO, creator of RTLinux", "category": "business", "source_url": "https://linuxdevices.org/an-interview-with-fsmlabs-president-victor-yodaiken/", "snippet": "FSMLabs was founded in 1997 by Yodaiken and Cort Dougan; they created, patented and marketed RTLinux, the only production-quality real-time Linux for years (acquired by Wind River 2007)."}
+    ]
+  },
+  {
+    "donor_id": "15e3ed4d-442e-487c-ac4c-286f6510b270",
+    "name": "Vandekieft, Kara",
+    "resolved_employer": "U.S. Air Force",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Donor filing lists physician employed by USAF at San Antonio (78209); no independent public bio found to confirm identity. Active-duty military physician = employer-based Government fallback. Active-duty service alone is not military_defense (no defense-contractor tie documented).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "118d9717-296e-4d58-b149-cb741b54ad16",
+    "name": "Jimenez, Antonio",
+    "resolved_employer": "Self-employed attorney (likely Law Offices of Tony Jimenez III, San Antonio)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Self-employed attorney in San Antonio; best match is Antonio 'Tony' Jimenez III, a solo criminal-defense/personal-injury lawyer licensed in San Antonio (Texas Bar). Home ZIP 78212 vs office 78204 plausible; no lobbyist registration found.",
+    "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=173576",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "08ca5273-8841-4506-a3fc-80de934b259c",
+    "name": "Florsheim, Doe",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Doe C. Florsheim, ~75, 1910 Wroxton Rd, Houston 77005 (address matches filing exactly; property co-owned with Henry S. Florsheim). Listed as not employed/self-employed volunteer; no documented board seats or spectrum affiliations found.",
+    "source_url": "https://blockshopper.com/tx/harris-county/houston/property/0541060000007/1910-wroxton-road",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0057f8db-5b01-4bd4-b6ee-9c67e5cfaf02",
+    "name": "Natividad, Irene",
+    "resolved_employer": "GlobeWomen Research & Education Institute",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed national figure: President of GlobeWomen Research & Education Institute / Global Summit of Women (Washington DC, 20037 matches), former Chair of the National Women's Political Caucus. Longtime Democratic-aligned women's-leadership advocate.",
+    "source_url": "https://en.wikipedia.org/wiki/Irene_Natividad",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "GlobeWomen Research & Education Institute / Global Summit of Women", "role": "President", "category": "civic", "source_url": "https://globewomen.org/globalsummit/irene-natividad-2/", "snippet": "Irene Natividad is President of the Global Summit of Women, an annual international gathering of women leaders, and of the GlobeWomen Research and Education Institute."},
+      {"org": "National Women's Political Caucus", "role": "Chair (1985-1987)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Irene_Natividad", "snippet": "Chair of the National Women's Political Caucus (1985-1987); also chaired Coalition for Women's Appointments and vice-chaired the Asian Pacific Caucus of the DNC."},
+      {"org": "Corporate Women Directors International (CWDI)", "role": "Chairperson", "category": "business", "source_url": "https://en.wikipedia.org/wiki/Irene_Natividad", "snippet": "Chairperson of Corporate Women Directors International; former corporate director of Sallie Mae and advisory boards for L'Oreal France, Cigna and Wyndham."}
+    ]
+  }
+]

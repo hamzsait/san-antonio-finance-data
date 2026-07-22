@@ -1,0 +1,233 @@
+[
+  {
+    "donor_id": "84f18062-efe7-4ab6-a52d-a380ccbd8ec0",
+    "name": "Plotkin, David",
+    "resolved_employer": "Not Employed (per contributor filing); likely retiree in NW San Antonio (78230)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Prolific small-dollar Democratic donor (85 FEC contributions, partisan lean 1.0) in the affluent 78230 Medical Center area of San Antonio; occupation listed 'Not Employed.' Multiple unrelated David Plotkins exist nationally (physicians, psychologists); could not confirm this specific individual's identity or former career from public records.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=plotkin+david&contributor_state=TX&contributor_city=San+Antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "845fa855-069d-43ae-9be4-5d825df7b3e9",
+    "name": "Wallace, Marian Katherine",
+    "resolved_employer": "Not Employed (per contributor filing); Delray Beach, FL resident",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Out-of-state donor in Delray Beach, FL (33483) with a light federal footprint (6 FEC contributions); occupation 'Not Employed,' likely retiree. No matching obituary, lobbyist record, bio page, or PAC affiliation found; specific identity could not be corroborated.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=wallace+marian&contributor_state=FL&contributor_city=Delray+Beach",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "827f69ea-7d8c-410e-a0db-c354042eda9c",
+    "name": "Zimmerman, Jill",
+    "resolved_employer": "Not Employed (per contributor filing); San Antonio (78223)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Very prolific small-dollar Democratic donor (193 FEC contributions, partisan lean 1.0) in SE San Antonio (78223); occupation 'Not Employed.' A San Antonio LinkedIn profile ('Jill Zimmerman, Property Manager') exists but conflicts with the 'Not Employed' filing and could not be tied to the 78223 address; identity unconfirmed.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=zimmerman+jill&contributor_state=TX&contributor_city=San+Antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "820c3b9a-0211-4422-99b3-a7cd7f2fd216",
+    "name": "Mitchell, Will",
+    "resolved_employer": "Not Employed (per contributor filing); Santa Fe, NM resident",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Out-of-state donor in Santa Fe, NM (87501) with no federal contribution history (0 FEC records); occupation 'Not Employed.' 'Will/William Mitchell' is a very common name and no distinguishing public bio, lobbyist record, or PAC affiliation could be tied to this specific individual.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=mitchell+will&contributor_state=NM&contributor_city=Santa+Fe",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "81ee1622-9a23-4331-a2ab-bd97923192a6",
+    "name": "Ritterbusch, Robert",
+    "resolved_employer": "Ritterbusch Farms JV (managing partner / farm operator)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Robert Ritterbusch is listed on LinkedIn as 'Managing Partner' of a farm operation, consistent with the donor's self-reported role as farm manager at Ritterbusch Farms JV, South Padre Island TX (78597). Agriculture owner-operator; no agriculture label in taxonomy so classed Self-Employed. No FEC ideological-PAC or TX lobbyist registration found.",
+    "source_url": "https://www.linkedin.com/in/robert-ritterbusch-29304714b",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "814da415-02e0-49e9-abf0-a547943dbb6c",
+    "name": "dicarlo, diane",
+    "resolved_employer": "Not employed (likely retired), Needham MA",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Diane G. DiCarlo, ~72, of 65 Wellesley Ave, Needham MA (02494) matches the donor address exactly. Self-reported not employed (likely retired). Public records show a prior small ActBlue contribution, consistent with a Democratic-leaning small donor. No PAC affiliation or lobbyist registration found.",
+    "source_url": "https://www.city-data.com/elec2/16/elec-NEEDHAM-MA-16-part3.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "814809c0-3dbe-4904-bc72-679a0696f79f",
+    "name": "Willard, Eric",
+    "resolved_employer": "Not employed (per contributor filing), El Paso TX",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor self-reports 'not employed' in El Paso, TX (79915), and is a prolific small-dollar Democratic donor (134 FEC contributions, lean 1.0). An El Paso attorney named Eric Willard exists, but the not-employed status conflicts with that profile, so the specific individual cannot be confirmed. No FEC PAC or TX lobbyist records tie to this person.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=willard+eric&contributor_state=TX&contributor_city=El+Paso",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "810df47c-cee4-44b7-9d1a-3613ea69fc51",
+    "name": "Clack, Mary",
+    "resolved_employer": "Benefitbay (insurance / employee-benefits agent)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Donor is a San Antonio (78221) insurance agent; 'Beneditbay' resolves to Benefitbay, an ICHRA/employee-benefits brokerage platform. Insurance-agent role classed under Finance. No TX lobbyist registration or notable ideological PAC contributions found.",
+    "source_url": "https://www.benefitbay.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7f65d1f7-f487-4f8c-b5f3-69215c484034",
+    "name": "Kenney, Gemma",
+    "resolved_employer": "Retired (former career unknown), San Antonio 78231",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired resident of San Antonio 78231. No public record uniquely matches this specific retired individual; a same-name LinkedIn profile is an unrelated East Coast person, and FEC/lobbyist searches surfaced only other Kenneys. Former career unknown.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kenney+gemma&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7ed714bd-0887-4315-925c-e60861127a9f",
+    "name": "Manalo, Juslyn",
+    "resolved_employer": "City and County of San Francisco (CCSF) — community engagement; also elected Daly City Councilmember and three-time Mayor",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed public figure: Juslyn C. Manalo of Daly City (94014), first Filipina on the Daly City Council (elected 2016) and 3x Mayor. Occupation 'Community Affairs' at 'CCSF' resolves to City and County of San Francisco, where she works in community engagement. Location and role match the donor record. No TX lobbyist registration (California-based).",
+    "source_url": "https://www.dalycity.org/713/Juslyn-C-Manalo",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Daly City Council", "role": "Councilmember / 3x Mayor", "category": "political", "source_url": "https://www.dalycity.org/713/Juslyn-C-Manalo", "snippet": "Juslyn C. Manalo | Daly City Councilmember, first Filipino American woman elected to the Daly City Council"},
+      {"org": "Bay Area Water Supply and Conservation Agency (BAWSCA)", "role": "Board Member (representing Daly City)", "category": "civic", "source_url": "https://bawsca.org/about/board/bios/juslynmanalo", "snippet": "Board Member, Bay Area Water Supply and Conservation Agency, representing Daly City"}
+    ]
+  },
+  {
+    "donor_id": "7e3adf78-34c0-44ea-865d-c61f5403b729",
+    "name": "Garcia, Theresa",
+    "resolved_employer": "Retired (former career unknown), San Antonio 78216",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired resident of San Antonio 78216 and a prolific small-dollar Democratic donor (246 FEC contributions, partisan lean 1.0), consistent with ActBlue-routed giving. 'Theresa Garcia' is too common to uniquely identify a bio or former career; no Texas lobbyist registration and no ideological PAC ties found.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=garcia+theresa&contributor_state=TX&contributor_city=San+Antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7dc3f814-7c93-4743-8230-06797203f9be",
+    "name": "Barnes, Teresa",
+    "resolved_employer": "Not employed, Sonoma CA",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Not-employed resident of Sonoma, CA 95476; small Democratic donor (3 FEC contributions, partisan lean 1.0). 'Teresa Barnes' is a common name with several California individuals; none could be confidently matched to this specific person. No advocacy, lobbyist, or PAC affiliations documented.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=barnes+teresa&contributor_state=CA&contributor_city=Sonoma",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7b76839f-128b-4a04-8168-d776a617d529",
+    "name": "Byrd, Robert",
+    "resolved_employer": "Retired; formerly Engineer/Manager at TSB Offshore, Inc. (offshore oil & gas engineering firm, Houston area)",
+    "industry": "Engineering",
+    "confidence": "medium",
+    "evidence": "Prolific Democratic donor at Spring TX 77379; FEC records list 'Robert Byrd (TSB Offshore, Inc./Engineer/Manager), zip 77379' giving to Obama for America and ActBlue in 2012. Zip, donation pattern (lean 0.98, ActBlue) and occupation corroborate the same person, now listed 'Not Employed' (retired). Common name, so medium confidence. No TX lobbyist registration found. TSB Offshore is an oil-and-gas engineering firm but Byrd was a salaried engineer, not an owner/executive/board member, so no oil_gas affiliation is recorded.",
+    "source_url": "https://www.city-data.com/elec2/12/elec-SPRING-TX-12-part2.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7a91d208-b94b-4b77-ace1-60b31dcc8886",
+    "name": "Galloway, Hilliard",
+    "resolved_employer": "Founder & Executive Director, BRIDGE Movements Fund (previously Executive Director of MOVE Texas)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Hilliard 'Drew' Galloway is founder/ED of BRIDGE Movements Fund, a San Antonio-based progressive grassroots-organizing incubator; he previously led MOVE Texas (2016-2021), a statewide youth voter-engagement org. Employer, title, and San Antonio location match the donor record exactly. No TX lobbyist registration found.",
+    "source_url": "https://sanantonioreport.org/accelerating-change-progressive-leader-drew-galloway-looks-to-nurture-fund-grassroots-groups/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "BRIDGE Movements Fund", "role": "Founder & Executive Director", "category": "political", "source_url": "https://www.influencewatch.org/non-profit/bridge-movements-fund/", "snippet": "H. Drew Galloway founded BRIDGE Movements Fund and serves as Executive Director... a left-of-center incubator supporting progressive causes including immigrant advocacy, voter engagement, environmental justice, and reproductive rights."},
+      {"org": "MOVE Texas", "role": "former Executive Director (2016-2021)", "category": "civic", "source_url": "https://sanantonioreport.org/accelerating-change-progressive-leader-drew-galloway-looks-to-nurture-fund-grassroots-groups/", "snippet": "Steered the organization from its roots as a student-led voter registration nonprofit at UTSA to a statewide youth civic engagement powerhouse... registered over 120,000 young voters."}
+    ]
+  },
+  {
+    "donor_id": "790a3596-739f-4d17-91ee-47658e422118",
+    "name": "Clements, Joyce",
+    "resolved_employer": "Self-employed artist — goldsmith, art-jewelry designer, and sculptor",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Joyce Clements is an art-jeweler/sculptor based at 50 Sunny Oaks Dr, San Rafael CA 94903 (address matches the donor record). PhD in Criminology (UC Berkeley), formerly a criminal-justice professional, now an independent goldsmith/jewelry designer; LinkedIn lists her as 'Artist - Self-employed.' No FEC/PAC or TX lobbyist records.",
+    "source_url": "http://www.joyceclements.com/about_the_artist.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "78f3a66f-b64d-42aa-be7f-2346f75e4f96",
+    "name": "Wellman, Jeri",
+    "resolved_employer": "Not Employed, New York NY 10025",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Confirmed as an ActBlue donor: 'Jeri Wellman (Not Employed), zip 10025' matching the donor record's NYC 10025 / Not Employed profile. No professional, employer, board, PAC, or lobbyist information found to categorize a former industry.",
+    "source_url": "https://www.city-data.com/elec2/18/elec-NEW-YORK-NY-18-part429.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "77c9c141-8382-4891-8f50-871249c8690d",
+    "name": "Greenberg, Sally",
+    "resolved_employer": "National Consumers League (NCL) — Chief Executive Officer",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Sally Greenberg is CEO (since 2022; Executive Director since 2007) of the National Consumers League, a Washington DC consumer/worker advocacy nonprofit; DC 20008 address and NCL employer match the record exactly. Prior: Senior Product Safety Counsel at Consumers Union and civil-rights counsel at the ADL. No TX lobbyist registration found.",
+    "source_url": "https://nclnet.org/about-ncl/leadership/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Anti-Defamation League", "role": "Eastern States Civil Rights Counsel, Boston (former, ~1 decade)", "category": "jewish_civic", "source_url": "https://nclnet.org/about-ncl/leadership/", "snippet": "Eastern States Civil Rights Counsel for the Anti-Defamation League in Boston for over a decade, combating discrimination."},
+      {"org": "Alliance for Justice", "role": "Board of Directors (former)", "category": "civic", "source_url": "https://nclnet.org/about-ncl/leadership/", "snippet": "Former board memberships include Alliance for Justice, HALT, and the Reagan-Udall Foundation."}
+    ]
+  },
+  {
+    "donor_id": "771745b0-d35c-4438-b834-535babf17ecf",
+    "name": "Hughes, Brian",
+    "resolved_employer": "Self-employed — owner/registrant of Segsaddle, LLC and BGRH Investments, LLC",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Public records tie Brian Hughes (b. 1954) to 117 Riviera Dr, San Antonio, TX 78213, matching the record; two LLCs (Segsaddle, BGRH Investments) are registered to that address, consistent with the 'self-employed' occupation. Prolific small-dollar Democratic donor (436 FEC contributions, lean 1.0) but no specific industry documented; common name limits certainty. No TX lobbyist registration found.",
+    "source_url": "https://clustrmaps.com/person/Hughes-29qrf2",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "77101347-51c5-4f22-ae84-6b0ea7e1d398",
+    "name": "Munzel, Jennifer",
+    "resolved_employer": "H-E-B — Senior Managing Counsel & Director, Corporate Law (in-house attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Jennifer A. Munzel is a San Antonio attorney serving as Senior Managing Counsel/Director of Corporate Law at H-E-B grocery (former Akin Gump associate; Yale BA, UT Law JD). Employer 'H-E-B', occupation 'Attorney', and San Antonio 78230 all match; the record's '13307' is a house-number artifact. No FEC ideological-PAC or TX lobbyist registration found.",
+    "source_url": "https://www.zoominfo.com/p/Jennifer-Munzel/213256874",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "San Antonio Symphony", "role": "Board Member (former)", "category": "civic", "source_url": "https://www.zoominfo.com/p/Jennifer-Munzel/213256874", "snippet": "Jennifer also served as a Board Member for the San Antonio Symphony."}
+    ]
+  },
+  {
+    "donor_id": "7234c59f-e6d3-4031-82b8-8d37180bce02",
+    "name": "Collier, Linda",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Record lists Linda Collier of Encinitas, CA 92024 as Not Employed with 0 FEC donations and no partisan lean. 'Linda Collier' is a very common name and no public record could be confirmed as this specific Encinitas resident; identity and any occupation are unverified. No PAC or TX lobbyist records found.",
+    "source_url": "https://www.mylife.com/linda-collier/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  }
+]

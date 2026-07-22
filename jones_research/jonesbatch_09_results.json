@@ -1,0 +1,255 @@
+[
+  {
+    "donor_id": "848acb18-079d-4949-8978-bc1129d93648",
+    "name": "Kempner, Harris",
+    "resolved_employer": "Kempner Capital Management, Inc., Galveston TX (founder, President & Portfolio Manager) — Harris Leon 'Shrub' Kempner Jr.",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Harris L. 'Shrub' Kempner Jr. (1940-2025) founded and led Kempner Capital Management, a Galveston value-investing RIA, from 1982; Harvard BA 1961, Stanford MBA 1963. 'Money manager' occupation, employer, and Galveston 77553 PO Box all match. Prolific Democratic donor (FEC count 1630, lean 0.998); no AIPAC/UDP, oil-gas, gun, or defense PAC activity found. Died Aug 9, 2025, after Jones's June 2025 win.",
+    "source_url": "https://www.galvnews.com/news/noted-galveston-financier-philanthropist-harris-shrub-kempner-dies-at-85/article_d007c53c-9ce6-547c-bf3f-97388b956699.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "American Jewish Committee (AJC)", "role": "Active member", "category": "jewish_civic", "source_url": "https://www.galvnews.com/news/noted-galveston-financier-philanthropist-harris-shrub-kempner-dies-at-85/article_d007c53c-9ce6-547c-bf3f-97388b956699.html", "snippet": "Obituary describes him as 'an active member of the American Jewish Committee, working to combat antisemitism' around the world — AJC being a policy-advocacy Jewish civic organization."}
+    ]
+  },
+  {
+    "donor_id": "842b885a-f0e1-4c72-98bd-8582b6353fdb",
+    "name": "Holt, Colette",
+    "resolved_employer": "Colette Holt & Associates (owner/attorney) — civil-rights, public-contracting and affirmative-action / disparity-study law",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Colette Holt is a Yale / University of Chicago Law-trained attorney whose San Antonio firm (16 Carriage Hills, 78257 — exact address/zip match) specializes in defensible disparity studies and minority/women-owned business (M/W/DBE) program law. 'Attorney/Self' occupation matches. No AIPAC/J Street/oil-gas/gun/defense PAC activity found; no Texas lobbyist registration surfaced.",
+    "source_url": "http://www.mwbelaw.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "American Contract Compliance Association", "role": "General Counsel", "category": "civic", "source_url": "http://choltlaw.com/", "snippet": "Ms. Holt serves as General Counsel to the American Contract Compliance Association, a body focused on minority/women business contracting and public-procurement compliance."}
+    ]
+  },
+  {
+    "donor_id": "837d8e90-0ba5-4110-b6eb-5a128142e5fb",
+    "name": "Kopser, Joseph",
+    "resolved_employer": "Grayline Group (President), Austin — corporate strategy/consulting firm (energy, mobility, smart cities); clean-energy entrepreneur",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Joseph Kopser, President of Austin consulting firm Grayline Group (Austin 78739 — matches), West Point/Harvard Kennedy grad and retired Army Lt. Col. (Bronze Star), co-founded RideScout and is a prominent clean-energy advocate. Was the 2018 Democratic nominee for U.S. House TX-21, losing to Chip Roy by <3 points. FEC candidate ID H8TX21190; consistent Democratic profile, no oil-gas/gun/pro-Israel/defense PAC ties.",
+    "source_url": "https://graylinegroup.com/about/joseph-kopser/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic Party (U.S. House TX-21 nominee, 2018)", "role": "Democratic congressional candidate", "category": "political", "source_url": "https://ballotpedia.org/Joseph_Kopser", "snippet": "Kopser won the 2018 Democratic primary runoff in Texas's 21st Congressional District and lost the general to Republican Chip Roy."}
+    ]
+  },
+  {
+    "donor_id": "8294de4e-d2f3-4844-b5d5-2e0251b87233",
+    "name": "Rosenberg, Marci",
+    "resolved_employer": "Marci Beth Rosenberg — attorney (general practice), Bellaire TX; donor record lists 'Self / lawyer / volunteer'",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Marci Beth Rosenberg is a Texas-licensed attorney (State Bar #00792809, UT Law, licensed 1995) whose registered office is 4533 Magnolia, Bellaire 77401 — an exact match to the donor address/zip and the 'SELF/LAWYER/VOLUNTEER' occupation. Prolific Democratic donor (FEC count 666, lean ~1.0); no AIPAC/J Street/oil-gas/gun/defense PAC activity or lobbyist registration found. No specific advocacy-org membership documented.",
+    "source_url": "https://opengovus.com/texas-lawyer/00792809",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "821ada62-cdcb-413a-89cc-04e1863d7736",
+    "name": "Hernandez, Laura",
+    "resolved_employer": "Pescador Public Strategies, LLC (co-founder / Managing Partner) — Latino-focused political marketing & voter-engagement firm (San Antonio)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Laura Hernandez (LinkedIn: Laura Hernandez Volluz) co-founded Pescador Public Strategies with Ernest Bromley, a minority/woman-owned political marketing and voter-engagement firm; 'Managing Director/Pescador Public Strategies' occupation matches. Austin 78730 residence with San Antonio firm HQ. No Texas lobbyist registration found; no ideological (pro-Israel/pro-Palestine/oil-gas/gun/defense) PAC activity surfaced.",
+    "source_url": "https://www.pescadorps.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "812df1d9-2ee5-4cb4-a149-99bd189146a8",
+    "name": "W WALKER, CLIFF",
+    "resolved_employer": "Co-founder/Principal, Seeker Strategies (progressive political communications & advocacy firm); former Deputy Executive Director, Texas Democratic Party",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Austin-based Democratic campaign strategist; co-founded Seeker Strategies in 2021, previously Texas Democratic Party deputy exec director (Project LIFT) and Battleground Texas. Matches occ 'Co-founder' + employer + zip 78701; FEC lean 0.905 fits Democratic operative.",
+    "source_url": "https://seekerstrategies.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Seeker Strategies", "role": "Co-founder / Principal", "category": "political", "source_url": "https://www.ascendpac.com/cliff-walker", "snippet": "Post-2020, Cliff co-founded Seeker Strategies, a POC-owned firm, where he advises labor, environmental, and voting rights organizations."},
+      {"org": "Texas Democratic Party", "role": "Former Deputy Executive Director (2015-2020)", "category": "political", "source_url": "https://www.ascendpac.com/cliff-walker", "snippet": "Joined the Texas Democratic Party in 2015 to create Project LIFT; in 2019 served as Deputy Executive Director."},
+      {"org": "Public Health Watch", "role": "Vice Chair, Board of Directors", "category": "civic", "source_url": "https://publichealthwatch.org/2026/02/23/public-health-watch-board-directors/", "snippet": "He serves as vice chair of the Public Health Watch board of directors."}
+    ]
+  },
+  {
+    "donor_id": "811b3bf9-996a-4805-a7a7-c97f4b55f36b",
+    "name": "Chen, Henry",
+    "resolved_employer": "Physician (internal medicine/geriatrics), Chinatown True Care Medical PLLC; founder/CEO of Eastern Chinese American Physician IPA (ECAP)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Board-certified Brooklyn internist practicing 20+ years in Asian communities; 60th Street Brooklyn practice matches address 757 60th St, 11220. President of SOMOS Community Care board; founder of ECAP IPA and Chinese Community ACO.",
+    "source_url": "https://www.somoscommunitycare.org/2024/03/10/henry-chen-m-d/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "SOMOS Community Care", "role": "President of the Board", "category": "business", "source_url": "https://www.somoscommunitycare.org/2024/03/10/henry-chen-m-d/", "snippet": "Dr. Chen serves as President of the Board at SOMOS Community Care; founder and CEO of the Eastern Chinese American Physician IPA (ECAP)."}
+    ]
+  },
+  {
+    "donor_id": "7fccba59-3ab8-45e0-aa8f-81d21303c020",
+    "name": "Gilliam, Lance",
+    "resolved_employer": "Managing Partner, Concentric Community Advisors (Houston real estate advisory focused on community reinvestment/affordable housing); Senior Fellow, UT LBJ Urban Lab",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Houston real estate advisor, decades in retail leasing/public-private partnerships; matches occ 'Real Estate' + employer + zip 77019. Former chair of Houston Housing Authority and Coalition for the Homeless Houston/Harris County.",
+    "source_url": "https://concentrictx.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Concentric Community Advisors", "role": "Managing Partner", "category": "business", "source_url": "https://concentrictx.com/about/", "snippet": "Lance Gilliam is the Managing Partner of Concentric Community Advisors, a Houston advisory firm focused on socially equitable investments and community reinvestment."},
+      {"org": "Houston Housing Authority / Coalition for the Homeless", "role": "Former Board Chair", "category": "civic", "source_url": "https://spring.uli.org/speakers/lance-gilliam/", "snippet": "Served as chair of the Coalition for the Homeless Houston/Harris County board and previously chaired the Houston Housing Authority's board of commissioners."}
+    ]
+  },
+  {
+    "donor_id": "78604381-263d-4ff0-8e19-de599be1243a",
+    "name": "Silbey, Alexander",
+    "resolved_employer": "Retired (self-reported); identity to a specific public figure not confirmed",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Address 906 3rd Pl SE, DC 20003 is Capitol Hill; a well-known Alex/Alexander T. Silbey there is an active lobbyist (ATS Communications, ex-Clyburn policy advisor), but the donor's self-reported occupation 'Retired' and FEC count 0 conflict with that active lobbyist, so identity is unconfirmed. No industry assigned.",
+    "source_url": "https://www.legistorm.com/person/bio/11197/Alexander_T_Silbey.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "773132db-5060-473b-a2af-dbe2e9b07c64",
+    "name": "Serrurier, Nancy",
+    "resolved_employer": "Not employed (philanthropist / former management consultant and U.S. Senate legislative director); nonprofit trustee",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Woodside, CA resident (matches zip 94062); Whitman College Board of Trustees chair 2018-2021 (Chair Emeritus), KQED trustee, former legislative director for Sen. John Chafee, Stanford MBA. Self-reports 'Not Employed'; civic/nonprofit governance only, no contested-spectrum advocacy found.",
+    "source_url": "https://www.whitman.edu/whitman-stories/nancy-serrurier-village-named-for-trustee-and-upward-together-campaign-leader",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Whitman College", "role": "Trustee / former Board Chair (2018-2021)", "category": "civic", "source_url": "https://www.whitman.edu/whitman-stories/nancy-serrurier-village-named-for-trustee-and-upward-together-campaign-leader", "snippet": "Nancy Serrurier joined the Whitman College Board of Trustees in 2009 and was elected chair in 2018, serving through 2021 plus a year as Chair Emeritus."},
+      {"org": "KQED", "role": "Member, Board of Trustees", "category": "civic", "source_url": "https://www.linkedin.com/in/nancy-serrurier-8486769", "snippet": "Nancy Serrurier brings experience from previous roles at KQED, EPATT, Akili Dada and Colgate University."}
+    ]
+  },
+  {
+    "donor_id": "75686a1b-204a-49bb-9948-abca3ae2ad9e",
+    "name": "Newstat, Joyce",
+    "resolved_employer": "CEO, Rocket Science Associates (political/policy consulting; LGBTQ campaign & fundraising specialist); listed occupation 'Not Employed' but is an active policy consultant",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Address 1170 Sacramento St, SF 94108 matches exactly; former Public Policy Director for SF Mayor Gavin Newsom, LGBTQ civil-rights advocate, now runs Rocket Science Associates. No TX lobbyist registration found.",
+    "source_url": "https://www.sf.gov/joyce-newstat",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "EMILY's List", "role": "Board Director", "category": "political", "source_url": "https://hubbayarea.wordpress.com/2011/09/27/hub-stories-gavin-newsoms-former-public-policy-director-celebrates-diversity-in-community/", "snippet": "Bio lists her as 'Board Director of Emily's List' (pro-choice Democratic women's fundraising committee)."},
+      {"org": "War Memorial & Performing Arts Center / UCSF Foundation", "role": "Trustee / Board Member", "category": "civic", "source_url": "https://www.sf.gov/joyce-newstat", "snippet": "Currently a Trustee of the War Memorial and Performing Arts Center and Board Member of the UCSF Foundation."}
+    ]
+  },
+  {
+    "donor_id": "73fcee4b-1b5b-4673-97ea-7f9e08f78e2d",
+    "name": "Pearson, Pamela",
+    "resolved_employer": "Not Employed; progressive/pro-choice political volunteer and donor in Austin",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Austin pro-choice Democratic donor profile (FEC count 338, lean 1.0) matches Electing Women Alliance Austin co-chair and Annie's List donor; common name so identity is probable not certain. No TX lobbyist registration found.",
+    "source_url": "https://electingwomenalliance.org/austin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Electing Women Alliance Austin", "role": "National Candidates Committee Co-Chair", "category": "political", "source_url": "https://electingwomenalliance.org/austin/", "snippet": "Listed as 'National Candidates Committee Co-Chair'; group invests in candidates supporting 'progressive and pro-choice values.'"}
+    ]
+  },
+  {
+    "donor_id": "73823d32-f689-4cef-bcde-e11fe2bbe2e2",
+    "name": "Gonzalez, Francisco",
+    "resolved_employer": "CFO, Sky Harbour Group Corporation (NYSE: SKYH), private-aviation hangar developer/operator",
+    "industry": "Transportation",
+    "confidence": "high",
+    "evidence": "Confirmed CFO of Sky Harbour (NYSE: SKYH); ~30-yr investment banking career (Goldman Sachs, RBC) in airport-infrastructure bonds; NYC-metro/Greenwich CT residence consistent. No FEC PAC history or TX lobbyist registration found.",
+    "source_url": "https://www.businesswire.com/news/home/20241217785670/en/Sky-Harbour-Group-Corporation-Announces-Uplisting-to-the-New-York-Stock-Exchange",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "717df379-9a22-4199-95d9-b75cef288f63",
+    "name": "Morian, Sallie",
+    "resolved_employer": "Not Employed; Houston philanthropist, sister of the late S. Reed Morian (Chairman/CEO, DX Service Co.)",
+    "industry": null,
+    "confidence": "high",
+    "evidence": "Houston philanthropist named Sallie Morian; sits on UTHealth Development Board and World Affairs Council of Greater Houston; sister of DX Service Co. chairman S. Reed Morian. No TX lobbyist registration found.",
+    "source_url": "https://wachouston.org/team/sallie-morian/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Planned Parenthood Gulf Coast", "role": "Previous Director (board)", "category": "civic", "source_url": "https://www.corporationwiki.com/Texas/Houston/sallie-morian/30688775.aspx", "snippet": "CorporationWiki lists 'Sallie Morian - Previous Director for Planned Parenthood Gulf Coast' (reproductive-rights advocacy)."},
+      {"org": "World Affairs Council of Greater Houston", "role": "Team/leadership member", "category": "civic", "source_url": "https://wachouston.org/team/sallie-morian/", "snippet": "Listed on the World Affairs Council of Greater Houston team page, a nonpartisan international-affairs organization."}
+    ]
+  },
+  {
+    "donor_id": "71172299-6b49-4d15-8938-ee95a9df8847",
+    "name": "Fikes, Amy",
+    "resolved_employer": "President, Leland Fikes Foundation, Inc. (Dallas family foundation); wife of oilman Lee Fikes; listed occupation 'Not Employed'",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed President of the Dallas-based Leland Fikes Foundation (husband Lee Fikes is Treasurer); family controls Bonanza Oil Co., and the foundation was founded by oil/gas executive Leland Fikes. No TX lobbyist registration found.",
+    "source_url": "https://www.corporationwiki.com/Texas/Dallas/amy-l-fikes/31811437.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Leland Fikes Foundation, Inc.", "role": "President", "category": "business", "source_url": "https://www.influencewatch.org/non-profit/leland-fikes-foundation-inc/", "snippet": "Amy Fikes is President and husband Lee Fikes Treasurer of the Leland Fikes Foundation, a Dallas grantmaking foundation founded in 1954 by oil-and-gas executive Leland Fikes."},
+      {"org": "Bonanza Oil Company (Fikes family-controlled)", "role": "Family principal; foundation shares operations/address with Bonanza Oil", "category": "oil_gas", "source_url": "https://www.revealdiligence.com/r-e79e6b6d01/", "snippet": "Fikes family office shares operations with the Leland Fikes Foundation and family-controlled Bonanza Oil Company at 3161 Webb Ave, Dallas; Amy's husband Lee Fikes is a Texas oil executive."}
+    ]
+  },
+  {
+    "donor_id": "7114e255-3c89-40e8-a344-ddf03e268338",
+    "name": "De La Vina, Lynda",
+    "resolved_employer": "Peter Flawn Professor of Economics & Entrepreneurship (Professor Emerita), UTSA; former dean of the UTSA College of Business; co-founder of Operational Technologies Corp.",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Well-documented UTSA economics professor/former business dean, first Mexican-American woman to earn a PhD in economics; former Deputy Assistant Secretary for Economic Policy at U.S. Treasury (1998-2001). San Antonio matches zip 78248.",
+    "source_url": "https://business.utsa.edu/economics/faculty/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7027175e-f652-4dcf-98ce-8edd0b8301ad",
+    "name": "Chiang, Ming",
+    "resolved_employer": "President of Yu Shan Co. USA Ltd. and CEO/founder of Casual Home Worldwide (wood furniture and consumer-products manufacturer/distributor), Amityville, NY",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Yu Shan Co. USA Ltd. is at 38 William St, Amityville NY 11701, matching the donor address exactly; Ming Chiang is its president and founder of Casual Home Worldwide. Also a regional director of the American Red Cross on Long Island.",
+    "source_url": "https://www.yushan.com/contact",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "American Red Cross (Greater New York / Long Island)", "role": "Board / Regional Director", "category": "civic", "source_url": "https://www.redcross.org/local/new-york/greater-new-york/about-us/news-and-events/press-releases/american-red-cross-greater-new-york-ming-chiang-board-directors.html", "snippet": "Ming Chiang named to the American Red Cross Greater New York board of directors; first Asian in the greater NY region to serve as a regional director."}
+    ]
+  },
+  {
+    "donor_id": "68f08bc1-cda2-4113-8337-e778641c824d",
+    "name": "McDonald, Caroline",
+    "resolved_employer": "Partner at Brown & McDonald, PLLC (municipal land use, zoning, and real estate law), San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Caroline E. McDonald is a partner at Brown & McDonald, PLLC in San Antonio focused on land use/zoning/real estate; prior associate at Brown & Ortiz. Firm and San Antonio location match zip 78209.",
+    "source_url": "https://brownmcdonaldlaw.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "67e7a763-e095-4c79-a35c-fa030ee93a41",
+    "name": "Horn, Stephen",
+    "resolved_employer": "Managing partner/owner of Ronin Partners LLC (private-equity investment in energy/oilfield companies), Houston; reports occupation as Not Employed",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "Stephen Ross Horn (Houston 77019, petroleum-engineering degree) is managing partner of Ronin Partners LLC, an energy-focused private-equity firm, and also tied to Ronin Well Services; prior FEC gift to Colin Allred (D) matches lean 1.0. Donor's residence (3333 Allen Pkwy high-rise) differs from Ronin's business address (2411 River Oaks Blvd) but same 77019 zip.",
+    "source_url": "https://businessprofiles.com/details/ronin-partners-l-l-c/TX-0800200572/stephen-horn",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Ronin Partners LLC / Ronin Well Services", "role": "Managing Partner / Owner", "category": "oil_gas", "source_url": "https://businessprofiles.com/details/ronin-partners-l-l-c/TX-0800200572", "snippet": "Ronin Partners LLC, formed by Stephen Ross Horn, makes private-equity investments in energy companies; associated entity Ronin Well Services LLC is oilfield services."}
+    ]
+  },
+  {
+    "donor_id": "676c7ada-0e86-4052-9e5d-7d5f83980146",
+    "name": "Loeb, Margery",
+    "resolved_employer": "Retired; former social worker and family-business consultant (former owner, Loeb Margery Engel & Associates). Currently Not Employed",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Margery Engel Loeb resides at 4521 Banning Dr, Houston 77027 (exact address match); Victoria, TX native, 25-year social worker, husband Robert H. Loeb Jr. (Welders Equipment Co. family). Now retired/not employed.",
+    "source_url": "https://www.corporationwiki.com/Texas/Victoria/margery-engel-loeb/34797847.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

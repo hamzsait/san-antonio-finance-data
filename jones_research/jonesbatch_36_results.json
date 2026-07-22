@@ -1,0 +1,230 @@
+[
+  {
+    "donor_id": "d83dca99-1e81-408b-9b29-0a5a1fabd766",
+    "name": "Pacheco, Yvonne",
+    "resolved_employer": "Certified Nursing Assistant, 'Unios' (likely a San Antonio home-care/health agency)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Filing lists her as a CNA employed by 'Unios' at 12110 Chi Chis Cv, San Antonio, TX 78221. No distinct public profile found; classified by occupation/employer fallback only. Could not corroborate the specific individual among several same-named people.",
+    "source_url": "https://www.superiorhealthplan.com/content/dam/centene/Superior/Medicaid/PDFs/412106_SHPD_STARPLUS_Bexar_BESP47-0920_WEB.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d0d10351-9c9f-429b-9adf-77a26a8db497",
+    "name": "Girdley, Shandelle",
+    "resolved_employer": "Self-described 'Event Planner, Community Organizer' (LinkedIn); filed as Not Employed. Alamo Heights (78209) resident, active in Alamo Heights HS PTSO",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Shandelle (Wertz) Girdley of San Antonio 78209 (Alamo Heights); LinkedIn lists 'Event Planner, Community Organizer' and she appears on a TX Senate SB 17 (84R) witness list. Filed as Not Employed. Found NO public evidence linking her to the Josh Girdley / Fedora entrepreneur family, so that connection is NOT asserted.",
+    "source_url": "https://www.linkedin.com/in/shandelle-girdley-4243536",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cec4a15c-6958-464f-a5b9-ca8ad31e22c9",
+    "name": "Bartolucci, Suzanne",
+    "resolved_employer": "Possibly Suzanne Bartolucci, Dallas portrait/caricature artist (SUZWORKS; BFA Univ. of Houston); filed as Not Employed",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "A distinctively-named Suzanne Bartolucci is a Dallas-area portrait/caricature artist (SUZWORKS / About Faces Entertainment), past president of Richardson Civic Art Society. Filing lists her as Not Employed at a Turtle Creek office-suite mailing address, so the artist identity cannot be firmly confirmed against this address. If retired/semi-retired artist, industry would be Entertainment/Self-Employed.",
+    "source_url": "https://www.suzworks.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ca149ce8-d285-4f82-9406-b923547f2455",
+    "name": "Phelps, Richard",
+    "resolved_employer": "Chairman/founder, Phelps Industries (Watertown, MA consumer/household & pet-products manufacturer he founded in 1966)",
+    "industry": null,
+    "confidence": "high",
+    "evidence": "Richard J. Phelps, Watertown MA native (Yale econ), is Chairman of Phelps Industries and a longtime board member of the John F. Kennedy Library Foundation; LittleSis documents 365 FEC filings and $123k+ in DNC/Democratic contributions. Address (Watertown 02472) and 'Chairman, Phelps Industries' match exactly. No manufacturing taxonomy bucket, so industry left null. No pro-Israel/oil-gas/gun/defense PAC affiliations found.",
+    "source_url": "https://littlesis.org/person/30500-Richard_J_Phelps",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c454fac6-97a6-4012-9f4c-5ed43f1d19f0",
+    "name": "Hart, Diane",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Filed as Not Employed at 4419 Fulton Ave Apt 26, Sherman Oaks, CA 91423. 'Diane Hart' is an extremely common name (600+ nationwide) with no distinguishing public profile; could not corroborate the specific individual. Quiet outcome, no affiliations documented.",
+    "source_url": "https://www.spokeo.com/Diane-Hart",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c05f4166-3c79-4d7a-a15b-e9979d0243af",
+    "name": "Cousar, James",
+    "resolved_employer": "Attorney, Holland & Knight LLP (Austin) — election/campaign-finance & land-use law; self-reported 'self'",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "James E. Cousar, longtime Austin attorney (UT Law 1978, 40+ yrs in campaign-finance/election & land-use law) at Holland & Knight; the address 1110 W 7th St, Austin 78703 appears as his address in an Austin campaign-finance report.",
+    "source_url": "https://www.hklaw.com/en/professionals/c/cousar-james-e",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bf76de2f-e6be-49fe-bd15-57fe2acc50ad",
+    "name": "Halpern, Robert",
+    "resolved_employer": "Former owner/editor and publisher of The Big Bend Sentinel & El Internacional, Marfa (retired 2018)",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Robert Halpern and wife Rosario Salgado Halpern owned/ran the Marfa-based Big Bend Sentinel for ~25 years until retiring in July 2018; PO Box 1391, Marfa 79843 matches. Self-reported 'journalist/Not Employed' consistent with retired newspaperman.",
+    "source_url": "https://bigbendsentinel.com/author/robert-and-rosario-salgado-halpern/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bb6037cd-05cc-4aa5-870a-6658c890f8a3",
+    "name": "Bristol, Cynthia",
+    "resolved_employer": "Retired (former career not documented in public records)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Only public match is Cynthia Page Bristol of San Antonio 78209 (matches donor zip), listed as a holder of mineral/royalty interests across several TX counties; no former occupation or bio found. Mineral ownership is passive, not an advocacy affiliation.",
+    "source_url": "https://www.mineralholders.com/texas/san-antonio/cynthia-page-bristol/8282022",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b67bb78d-5a66-48e6-8ff1-ae37818a06ed",
+    "name": "Israel, Celia",
+    "resolved_employer": "Travis County Tax Assessor-Collector (elected 2024, sworn in Jan 2025); former TX State Rep. HD-50 (2014–2023)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Celia Israel is a public official — Travis County Tax Assessor-Collector, former Texas House member and LGBTQ Caucus co-founder, and 2022 Austin mayoral runoff candidate; occupation 'Tax assessor / Travis county' and Austin 78745 corroborate.",
+    "source_url": "https://tax-office.traviscountytx.gov/about-us/celia-israel",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "abe6fd16-a211-40e8-a99c-9cbb5ad2f49d",
+    "name": "Moore, Denise",
+    "resolved_employer": "Paraplanner at i•financial, San Antonio (since 2017); previously 20+ yrs nonprofit geo-statistical/database analyst; published author",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "i•financial bio matches donor: Denise (L.) Moore, downtown San Antonio, husband Kevin, Cedar St 78210 property owner, 28 yrs in SA, statistics degree (GWU); 'analyst/self' reflects her analyst/author background though she is now employed at a financial firm.",
+    "source_url": "https://www.youandifinancial.com/team/denise-moore/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aae3a73f-45e6-4b73-b760-8c2c5f8f1cb6",
+    "name": "Browne, Lynda",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired resident at 1115 S Alamo St, San Antonio 78210 (downtown loft/condo). No public profile, FEC PAC record, TX lobbyist registration, or bio found; former career undetermined.",
+    "source_url": "https://www.spokeo.com/Linda-Brown/Texas/San-Antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a1ec99d2-bcbb-4ae5-9f91-eb52aeadc638",
+    "name": "Ingram, David",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as Not Employed at 11903 Budapest St, San Antonio 78230 (confirmed residential single-family address per Zillow). No public profile, FEC PAC record, or TX lobbyist registration found to confirm the specific individual.",
+    "source_url": "https://www.zillow.com/homedetails/11903-Budapest-San-Antonio-TX-78230/83978522_zpid/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a01d86ac-0d2d-40d8-b74b-f42a95349fed",
+    "name": "Slocombd, Walter",
+    "resolved_employer": "Walter B. Slocombe — former US Under Secretary of Defense for Policy (1994–2001); senior counsel, Caplin & Drysdale (semi-retired)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "'Slocombd' is a misspelling of Walter B. Slocombe, former US Under Secretary of Defense for Policy and DC lawyer; address 4000 Tunlaw Rd NW matches his Washington DC residence. Wikipedia lists him as living (age 84), so a 2025 donation is plausible; prior Democratic giving (Obama 2012).",
+    "source_url": "https://en.wikipedia.org/wiki/Walter_B._Slocombe",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "US Department of Defense",
+        "role": "Under Secretary of Defense for Policy (1994–2001); Senior Advisor for Security & Defense, Coalition Provisional Authority Iraq (2003)",
+        "category": "military_defense",
+        "source_url": "https://en.wikipedia.org/wiki/Walter_B._Slocombe",
+        "snippet": "Walter Becker Slocombe... former Under Secretary of Defense for Policy (1994–2001)... Senior Advisor for Security and Defence to the Coalition Provisional Authority in Baghdad (2003)."
+      }
+    ]
+  },
+  {
+    "donor_id": "9e9125b8-02a2-4d40-aafb-1df0c0039855",
+    "name": "Giese, Ashton",
+    "resolved_employer": "US Government foreign-affairs analyst (coordinated between Defense Intelligence Agency and US Department of State)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Ashton Giese (LinkedIn ashtonkg), Washington DC foreign-affairs analyst who served in a coordinating role between the Defense Intelligence Agency and the US Department of State; occupation 'Analyst'/employer 'USG' and DC address (1625 15th St NW) are consistent. No FEC PAC or lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/ashtonkg/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9c4a05c9-1ef8-47fd-9887-7f8026447134",
+    "name": "Gonzales Martinez, Walter",
+    "resolved_employer": "Walter Martinez Consulting LLC — real-estate / affordable-housing developer (SEKANT Development & Investments, Inn at Patios LLC, San Antonio Los Patios Land LLC; former President, National Housing Management Corp)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Exact address match: 3014 Whisper Fern St, San Antonio 78230 is the registered address of Walter Martinez / Walter Martinez Consulting LLC, a real-estate and affordable-housing developer tied to ~60 properties and multiple development entities. Occupation 'Developer' = real-estate developer, not software.",
+    "source_url": "https://www.zoominfo.com/p/Walter-Martinez/918296883",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8bb0b73f-8fbc-42d5-ae92-b5e8c7afba1b",
+    "name": "Aguiar, Ricardo",
+    "resolved_employer": "Ricardo C.T. Aguiar, M.D., Ph.D. — Professor of Medicine, Biochemistry & Immunology, UT Health San Antonio (physician-scientist, B-cell lymphoma research lab)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "MD/PhD physician-scientist and tenured professor running a hematologic-malignancy research lab at UT Health San Antonio; occupation 'Scientist / University of Texas' and 78230 SA address match his academic faculty profile.",
+    "source_url": "https://directory.uthscsa.edu/academics/profile/aguiarr",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "88e34ded-b594-4f38-bfbc-7d623362c2f8",
+    "name": "Youngberg, Francey",
+    "resolved_employer": "Reported Not Employed; publicly documented as former VP for External Affairs at Melwood (nonprofit) and former DHS/ICE Assistant Director, Office of Partnership & Engagement",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Francey Lim Youngberg of Alexandria VA (22306), Harvard Law grad, VP External Affairs at nonprofit Melwood and later a Biden-era ICE appointee; unusual name plus zip match confirm identity, though she self-reported Not Employed at donation.",
+    "source_url": "https://www.zoominfo.com/p/Francey-Youngberg/2403849966",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "81578a8b-7785-4c76-8339-c2cedc89d589",
+    "name": "Rakich, Dawn",
+    "resolved_employer": "Dr. Dawn M. Rakich, O.D. — self-employed optometrist, San Antonio, TX",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Optometrist (Southern College of Optometry, 1983) in solo practice at 2267 NW Military Hwy, San Antonio; occupation 'Optometrist / Self' and SA address match the licensed provider.",
+    "source_url": "https://www.healthgrades.com/providers/dawn-rakich-36pw8",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7b82157c-3447-4f6c-a7ef-824d80457e9a",
+    "name": "Phariss, Mark",
+    "resolved_employer": "Mark A. Phariss — attorney; Senior Director / General Counsel, Global Business Center, Tenet Healthcare (in-house counsel), Plano, TX",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Confirmed: Texas-licensed attorney and in-house counsel at Tenet Healthcare (Plano 75093); a plaintiff (with partner Victor Holmes) in De Leon v. Perry, the Texas same-sex marriage case, and 2018 Democratic candidate for TX Senate SD-8.",
+    "source_url": "https://ballotpedia.org/Mark_Phariss",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7819c415-db03-40fe-bbe8-e73a8c60279f",
+    "name": "Dizinno, Robert",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported Not Employed at 8530 Blackcastle Dr, San Antonio 78254; no public profile, FEC PAC record, or Texas lobbyist registration found to corroborate a career or affiliation (a Dizinno surname appears tied to St. Mary's University but not this individual).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

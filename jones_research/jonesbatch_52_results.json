@@ -1,0 +1,222 @@
+[
+  {
+    "donor_id": "718cae5e-6741-49d1-9452-b6aca5076873",
+    "name": "R Obryan, Meryl",
+    "resolved_employer": "Lake Research Partners (Vice President)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Meryl O'Bryan is a VP at Lake Research Partners, a Democratic polling/opinion-research firm (DC/Berkeley); at the firm since 2015, promoted to VP March 2022, and the firm notes she 'polled in winning mayoral races in Phoenix and San Antonio' — a direct professional tie to the Jones SA campaign. Alexandria, VA (22309).",
+    "source_url": "https://theorg.com/org/lake-research-partners/org-chart/meryl-obryan",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7178d789-524d-46dd-935a-f9d58ef80602",
+    "name": "Heifetz, Stephen",
+    "resolved_employer": "Wilson Sonsini Goodrich & Rosati (partner)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Stephen R. Heifetz is a partner in Wilson Sonsini's DC national-security/CFIUS practice; prior service at the CIA, DHS Office of Policy Development (DHS rep to CFIUS 2006-2010), and DOJ. Advises the National Venture Capital Association on CFIUS policy. Rockville, MD (20850). No ideological PAC or advocacy affiliations found.",
+    "source_url": "https://www.prnewswire.com/news-releases/wilson-sonsini-goodrich--rosati-expands-national-security-regulatory-practice-300547159.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "70edec0a-c983-409d-80cb-a5ad1ea9604d",
+    "name": "Jones, Gary",
+    "resolved_employer": "Self-employed event planner, San Antonio (78213)",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Self-employed event planner in San Antonio (78213). No distinct public profile, business listing, ideological PAC contribution, or TX lobbyist registration located; industry classified by stated occupation only (categorize-by-employer fallback).",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=jones+gary&contributor_city=San+Antonio&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "70d1d9d1-e2e2-4494-9920-a52a96027d99",
+    "name": "Stanley, Richard",
+    "resolved_employer": "Northside ISD (teacher)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Public-school teacher employed by Northside Independent School District, San Antonio (78245). Common name; no specific individual bio, ideological PAC record, or TX lobbyist registration confirmed. Classified by stated employer/occupation.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=stanley+richard&contributor_city=San+Antonio&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "70b52621-334d-4d37-9f08-f8484f1263f6",
+    "name": "Hitzfelder-Blackwell, Martha",
+    "resolved_employer": "Not Employed, San Antonio (78250)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "San Antonio resident (78250), listed 'Not Employed,' member of the local Hitzfelder family. Appears as an individual member/supporter of the nonprofit San Antonio Report but no policy-advocacy role. No ideological PAC record or TX lobbyist registration found.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=hitzfelder&contributor_city=San+Antonio&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6f718244-a8a9-4544-b18d-93ea6096ddd1",
+    "name": "Shectman, Nicholas",
+    "resolved_employer": "Not employed, Somerville, MA (02144)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Nicholas 'phi' Shectman of Somerville, MA is a landscape/fine-art photographer active in Somerville Open Studios and a longtime volunteer officer of Arisia, a sci-fi convention nonprofit; self-reported occupation 'Not employed,' no professional employer found. No ideological PAC or lobbyist records.",
+    "source_url": "https://www.somervilleopenstudios.org/web/artists/artist_profile/1703",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6f088e29-21ce-497a-93da-a5c277c58603",
+    "name": "Moskowitz, Anns",
+    "resolved_employer": "Not Employed, Houston (77024)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Identity corroborated via Harris County property records: Anna D. Moskowitz co-owns 11918 Churchill Court Ln, Houston 77024 (the donor's exact address) with Paul T. Moskowitz; self-reported 'Not Employed,' no professional profile or PAC/lobbyist records found. (Note: input zip '11918' appears to be a data artifact of the street number; true zip 77024.)",
+    "source_url": "https://www.city-data.com/harris-county/C/Churchill-Court-1.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6ef9401e-e4fe-4a75-9cf7-b342c59febbd",
+    "name": "Kayser, Bradley",
+    "resolved_employer": "Internal medicine/geriatric physician (retired)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Donor at 509 River Rd, San Antonio 78212, listed 'Retired'; matches Dr. Bradley B. Kayser, MD, a San Antonio internist/geriatrician (Tulane 1981, Methodist Hospital). No ideological PAC or lobbyist records surfaced across 22 FEC donations.",
+    "source_url": "https://www.healthgrades.com/physician/dr-bradley-kayser-2m2hq",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6ed699c7-7145-45f2-a9b8-506056b45104",
+    "name": "Schermerhorn, Jordan",
+    "resolved_employer": "TEPHINET (Task Force for Global Health) — global-health consultant",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Global-health/field-epidemiology consultant with TEPHINET; background in infectious-disease surveillance, USAID, and formerly Georgetown Center for Global Health Science and Security. Austin (78757). No ideological PAC or TX lobbyist records found across a large (225) FEC donation history.",
+    "source_url": "https://www.linkedin.com/in/jordan-schermerhorn/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6e26a112-76fb-4ea3-9102-87d2ce58039b",
+    "name": "Guerra, Connie",
+    "resolved_employer": "Babcock North Veterinary Hospital (veterinarian/owner)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Connie F. Guerra, DVM, veterinarian at Babcock North Veterinary Hospital, San Antonio (78230). Identity confirmed via veterinary directories and business listings. No ideological PAC or TX lobbyist records found across 7 FEC donations.",
+    "source_url": "https://www.wellness.com/dir/3963609/veterinarians/tx/san-antonio/guerra-connie-f-dvm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6a8c4265-f1ea-42d3-b6fe-542ba822cf71",
+    "name": "Lane, Neel",
+    "resolved_employer": "Norton Rose Fulbright LLP (litigation partner)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Nationally recognized San Antonio commercial-litigation partner (Co-Head of US Insurance Disputes) at Norton Rose Fulbright, formerly Akin Gump; lead counsel in DeLeon v. Perry marriage-equality case. Occupation/employer/city (78210) match exactly. No ideological PAC or TX lobbyist records found across 124 FEC donations.",
+    "source_url": "https://dallas.citybizlist.com/article/369734/neel-lane-joins-norton-rose-fulbright-in-san-antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6889b507-3007-4efa-80fd-3498952ef443",
+    "name": "Kret, Eileen",
+    "resolved_employer": "Innov8 Management Group, LLC (self-employed marketing)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "San Antonio (78209) marketing professional; public records tie her to Innov8 Management Group LLC and a prior director role at Promotional Management Group, Inc. Self-employed in marketing per FEC filing. No ideological PAC or TX lobbyist records found.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/eileen-kret/34243886.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "67f82306-0448-4e9f-8b58-493f0bf2da21",
+    "name": "Francell, Beth",
+    "resolved_employer": "Beth Francell Art / Rebloom Designs (artist; retired landscape designer)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Fort Davis, TX (79734) pastel artist who runs The Paint Box studio and a Rebloom Designs landscape-design business; retired from landscape design in 2005 and returned to art. Location and 'not employed'/semi-retired status match.",
+    "source_url": "https://bethfrancell.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "66908fd8-aa45-4947-929f-a6720a96e092",
+    "name": "Shaw, Peg",
+    "resolved_employer": "Tax preparer (retired; formerly IRS-registered, Washington DC)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "DC public records list an IRS-registered tax preparer Peg Shaw at the exact donor address, 2147 O St NW Apt 306, Washington DC 20037; donor now retired. Address match corroborates identity. No ideological PAC or lobbyist records found.",
+    "source_url": "https://www.ptindirectory.com/tax-preparers/district-of-columbia/washington-dc/807082/peg-shaw/peg-shaw",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "65ae8d9f-ddb3-4465-ba8e-295ee1211d5d",
+    "name": "Aguilar, Mono",
+    "resolved_employer": "San Antonio College (Alamo Colleges District) — professor of English",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Mariano 'Mono' Aguilar Jr., professor of English at San Antonio College (Alamo Colleges) and West Side playwright/actor; his public artist resume lists the exact donor address, 635 Marquette Dr, San Antonio 78228. No ideological PAC or TX lobbyist records found.",
+    "source_url": "https://events.getcreativesanantonio.com/artist/mono-riojas-aguilar/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "65222925-4c55-4c6c-9e4c-96ee27056884",
+    "name": "Abad, Julie",
+    "resolved_employer": "King William Realty (Julie Hooper Abad, licensed real estate agent)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Julie Hooper Abad is a licensed real estate agent at King William Realty in Southtown/King William, San Antonio (78204 area). Very heavy FEC record (371) consistent with recurring small-dollar Democratic giving, but no specific ideological PAC (AIPAC/J Street/oil & gas/gun/defense) contribution surfaced; not on the TX lobbyist registry.",
+    "source_url": "https://kingwmrealty.com/agent/julie-hooper-abad",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "64a70ebb-4210-4b27-8cd5-c21e8596aae6",
+    "name": "Pulido, Mark",
+    "resolved_employer": "City of Cerritos, CA — City Council (former two-time Mayor; career government staffer)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Mark E. Pulido is a two-time former Mayor of Cerritos, CA, re-elected to City Council in 2025; ~three decades in government as a CA Assembly consultant, Senate district director, and congressional chief of staff to Rep. Alan Lowenthal. Cerritos (90703). No ideological PAC or TX lobbyist records (CA resident).",
+    "source_url": "https://www.cerritos.gov/city-government/city-council/mayor-and-councilmembers/mark-e-pulido-councilmember/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "63d19f7e-75c7-4548-99ee-5ba82fb937f7",
+    "name": "Jewasko, Kristina",
+    "resolved_employer": "H-E-B — Senior Corporate Giving Manager (filing lists 'Not Employed')",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Filing lists 'Not Employed,' but LinkedIn shows Kristina Jewasko as Senior Corporate Giving Manager at H-E-B (San Antonio-based grocery retailer), consistent with 78259 residence. Identity plausible but zip not directly confirmed. No ideological PAC or TX lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/kristina-jewasko-09163733/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "61e4e00f-6d6a-4fd4-bc4d-750e4c52d62b",
+    "name": "Montemayor, Johnny",
+    "resolved_employer": "JPMorgan Chase — Vice President",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Listed as VP at JPMorgan Chase, San Antonio (78253); occupation/employer corroborated in the Gina Jones San Antonio campaign-finance filing. No ideological PAC contributions or TX lobbyist registration found.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003363_20250425_165042.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "61a6f21e-7048-49b6-af3c-569ccfa9b9e9",
+    "name": "Odonnell, Terry",
+    "resolved_employer": "LADWP (Los Angeles Dept. of Water & Power) — high-voltage inspector",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "High-voltage inspector at LADWP, a municipal electric utility; Sunset Beach, CA (90742). A 'T./Terrell O'Donnell' appears in a 2022 LADWP org chart, consistent with utility employment (could alternatively read as Labor/Government utility). No ideological PAC or TX lobbyist records (CA resident).",
+    "source_url": "https://www.ladwp.com/sites/default/files/documents/NB_SP_Org_Chart_3_17_22_.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

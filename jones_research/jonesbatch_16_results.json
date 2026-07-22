@@ -1,0 +1,244 @@
+[
+  {
+    "donor_id": "0639f0e1-f9e3-471a-829c-8f8fcfb53579",
+    "name": "Warren, Mike",
+    "resolved_employer": "Michael H. Warren — solo attorney, Mike Warren Attorney At Law (business, energy/utility-rate, probate & estate planning)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Solo San Antonio attorney; his law office is listed at exactly 206 E Locust St, San Antonio, TX 78212 (matches donor address). TX bar since 1979; practice includes utility rate-setting law before the Texas PUC (regulatory practice, not an oil_gas industry affiliation). Occupation 'Lawyer'/'Self' matches.",
+    "source_url": "https://www.lawyers.com/san-antonio/texas/mike-warren-attorney-at-law-158078557-f/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8f3867b9-723d-4926-aa6a-7a70d8ec9304",
+    "name": "lopez, fernando",
+    "resolved_employer": "Dr. Fernando Lopez, MD — founder/owner, Private Physician Services of San Antonio (cardiology & internal medicine)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Board-certified cardiologist (FACC) who founded and self-owns Private Physician Services in 78212; matches donor occupation 'doctor'/'self' and 78212 zip. Common name so the exact donor-to-record link is not fully confirmed, but occupation + self-employed + zip corroborate. Prolific small-dollar Democratic giver (206 FEC gifts).",
+    "source_url": "https://www.baptisthealthsystem.com/find-a-doctor/detail/fernando-lopez-1619974045",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dc245b49-4def-42fd-be98-38b541179a65",
+    "name": "Speedlin, Stacy",
+    "resolved_employer": "Dr. Stacy Speedlin Gonzalez — Owner/Executive Director, Salient Clinical Services (behavioral health/counseling); former UTSA faculty",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Licensed Professional Counselor-Supervisor (PhD, LPC-S, LCDC, NCC) who owns Salient Clinical Services in San Antonio (matches employer/'Owner'); founded the firm in 2022 after leaving the UTSA faculty. San Antonio-based.",
+    "source_url": "https://www.salientclinicalservices.com/team-3",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "NBCC Foundation (National Board for Certified Counselors)", "role": "Trustee, Board of Trustees (2024-2027)", "category": "civic", "source_url": "https://www.nbccf.org/about/board/SpeedlinGonzalez", "snippet": "Trustee on the NBCC Foundation Board of Trustees (Term: 2024-2027); nationally recognized speaker on LGBTQ+ ally-development and cultural responsiveness in counseling."}
+    ]
+  },
+  {
+    "donor_id": "d04872fe-7b74-4d88-80c2-5bd5c0f906ae",
+    "name": "Sorola-Pohlman, Lenora",
+    "resolved_employer": "Lenora Sorola-Pohlman — licensed insurance broker; owner of Sorola Insurance/Consulting Services (Houston)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Second-generation Houstonian, licensed insurance broker since 1996, owner of Sorola Insurance Services LLC / Sorola Consulting Services Inc at 2314 Tannehill Dr, Houston 77008 (exact address match). Longtime Houston Hispanic Democratic civic leader.",
+    "source_url": "https://latinasunitedpac.org/lenora-sorola-pohlman",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Latinas United PAC", "role": "Co-Founder", "category": "political", "source_url": "https://latinasunitedpac.org/lenora-sorola-pohlman", "snippet": "Co-Founder of Latinas United PAC; a Texas superdelegate to the 2016 Democratic National Convention."},
+      {"org": "City of Houston (Mayor's Hispanic Advisory Board; OBO Contract Compliance Commission; City Park TIRZ #12)", "role": "Co-Chair / Board Member / Chair", "category": "civic", "source_url": "https://www.houstontx.gov/obo/lenora-pohlman.html", "snippet": "Served on the Mayor's Hispanic Advisory Board under five consecutive Houston mayors; also on the METRO Hispanic Advisory Board and Contract Compliance Commission."}
+    ]
+  },
+  {
+    "donor_id": "c0399c5a-99bb-46c3-ae6c-64f641b9920d",
+    "name": "Colston, Walker",
+    "resolved_employer": "Keysight Technologies (electronic test & measurement) — executive, Goleta/Santa Barbara CA; UCSB alum, previously Ixia",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Walker Colston, tech executive at Keysight in the Goleta/Santa Barbara area (matches Goleta 93117 address, UCSB alum). FEC records show small 2020 Democratic donations (ActBlue, Biden Victory Fund); no advocacy-org affiliations.",
+    "source_url": "https://www.linkedin.com/in/walker-colston-b04959/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ac88e2e8-8b4b-4da1-888e-7d3a8593ed82",
+    "name": "Carol Wiley, Kimberley",
+    "resolved_employer": "Gomez Law Firm, San Antonio (litigation staff/attorney)",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Listed occupation 'Litigation' at Gomez Law Firm, San Antonio 78230. Could not confirm the specific individual in the State Bar of Texas or any public bio; multiple SA 'Gomez' law firms exist. Industry assigned by employer/occupation fallback only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "90a8b30a-5395-4349-a076-9469b4e94369",
+    "name": "Barrera, Janie",
+    "resolved_employer": "Founding President & CEO of LiftFund (formerly ACCION Texas-Louisiana), a San Antonio nonprofit microlender (retired from CEO role)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Janie Barrera, founder and former CEO of LiftFund/Accion Texas, the nation's largest nonprofit microlender, based in San Antonio (matches 78204). Prolific Democratic donor (195 FEC contributions); no single-issue ideological PAC or TX lobbyist records.",
+    "source_url": "https://sanantonioreport.org/liftfund-leader-janie-barrera-an-inspired-champion-for-small-business/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LiftFund (formerly Accion Texas-Louisiana)", "role": "Founding President & CEO", "category": "civic", "source_url": "https://sanantonioreport.org/liftfund-leader-janie-barrera-an-inspired-champion-for-small-business/", "snippet": "Founding president and CEO of the nonprofit microlender LiftFund, formerly Accion Texas, which holds the nation's largest microlending portfolio."},
+      {"org": "Federal Reserve Bank of Dallas, San Antonio Branch", "role": "Board of Directors (reappointed 2014)", "category": "civic", "source_url": "https://www.dallasfed.org/news/releases/2014/nr141209c", "snippet": "The Federal Reserve Bank of Dallas reappointed Janie Barrera of San Antonio to the Bank's San Antonio Branch board of directors."}
+    ]
+  },
+  {
+    "donor_id": "495a1e21-f256-40b3-99ef-f5a0e3d1bfde",
+    "name": "Hahn, Gregory",
+    "resolved_employer": "Principal, Bose Public Affairs Group / Partner, Bose McKinney & Evans LLP (Indianapolis) — corporate litigation, gaming/hospitality, state & federal lobbying",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Gregory F. Hahn, Indianapolis attorney/lobbyist (matches 46240), partner at Bose McKinney & Evans and principal at Bose Public Affairs Group; gaming/hospitality lobbyist and longtime Marion County Democratic Party general counsel. No Texas lobbyist registration.",
+    "source_url": "https://bosepublicaffairs.com/staff/gregory-f-hahn/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Marion County Democratic Central Committee / Indiana State Democratic Committee", "role": "General counsel; former counsel & treasurer", "category": "political", "source_url": "https://bosepublicaffairs.com/staff/gregory-f-hahn/", "snippet": "Held positions including counsel and treasurer for the Marion County Democratic Central Committee and Indiana State Democratic Committee; currently general counsel for the Marion County Democratic Central Committee."},
+      {"org": "Bose Public Affairs Group", "role": "Principal (state & federal lobbyist)", "category": "political", "source_url": "https://bosepublicaffairs.com/staff/gregory-f-hahn/", "snippet": "Principal concentrating in gaming and hospitality and state and federal lobbying; represented Hard Rock, Boyd Gaming, Station Casinos and other gaming clients."}
+    ]
+  },
+  {
+    "donor_id": "e1eab348-ad4e-4fb5-ad94-b51e278f38dc",
+    "name": "Calvert, Tommy",
+    "resolved_employer": "Bexar County (Precinct 4 County Commissioner)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Tommy Calvert Jr. is the elected Bexar County Commissioner for Precinct 4 (since 2014), a sitting public official; zip/employer match the filing.",
+    "source_url": "https://www.bexar.org/719/Precinct-4-Commissioner-Tommy-Calvert",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bexar County Commissioners Court, Precinct 4", "role": "County Commissioner (elected official)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Tommy_Calvert_Jr.", "snippet": "Elected Bexar County Commissioner for Precinct 4 in 2014; re-elected 2018 (unopposed) and 2022."}
+    ]
+  },
+  {
+    "donor_id": "0a3af1c5-7521-41e9-8957-5b56e9197c1d",
+    "name": "Daigle, Aimee",
+    "resolved_employer": "Self-employed home health caregiver (periods not employed)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Aimee Therese Daigle, San Antonio (zip 78209) matches filing occupation/location. FEC records show a prolific small-dollar Democratic (ActBlue) giving pattern (89 donations). No org leadership or PAC affiliations found.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part156.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e22da6d9-1b76-4204-bad2-f3fe15f0e065",
+    "name": "Mallari, Zeni",
+    "resolved_employer": "Gordon Manor (owner/administrator), a family-owned assisted-living/memory-care home in Redwood City, CA",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Zeni Mallari is the owner/administrator of Gordon Manor, a family-owned assisted living and memory care facility at 1616 Gordon St, Redwood City, CA 94061 — matching the filing address. Part of the Mallari family senior-care operation.",
+    "source_url": "https://www.bbb.org/us/ca/redwood-city/profile/retirement-homes/gordon-manor-1116-67960",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8babf8a6-9430-4b9b-b889-b4af87f172f1",
+    "name": "Lewis, Loida",
+    "resolved_employer": "TLC Beatrice, LLC (Chair & CEO of the family investment firm); lawyer by training",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Loida Nicolas Lewis, prominent Filipino-American businesswoman/philanthropist and widow of Reginald F. Lewis; former Chair/CEO of TLC Beatrice International, now chairs TLC Beatrice LLC family investment firm. Employer and NYC address match the filing. Documented major Democratic donor.",
+    "source_url": "https://en.wikipedia.org/wiki/Loida_Nicolas_Lewis",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National Federation of Filipino-American Associations (NaFFAA)", "role": "Co-founder (1997) and former National Chair", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Loida_Nicolas_Lewis", "snippet": "Co-founded NaFFAA in 1997 to empower Filipino-Americans; served as National Chair."},
+      {"org": "Reginald F. Lewis Foundation", "role": "Chair", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Loida_Nicolas_Lewis", "snippet": "Chairs the RFL Foundation, which supports scholarships and Harvard Law's international law center."}
+    ]
+  },
+  {
+    "donor_id": "4ed5c1bc-44fe-4c68-ace9-b8a28cdc5233",
+    "name": "Kastely, Amy",
+    "resolved_employer": "St. Mary's University School of Law (professor of law, likely emerita); civil-rights/community attorney",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Amy Hilsman Kastely, longtime professor of law at St. Mary's University Law School in San Antonio (78210), contract-law scholar and community activist; lead counsel in Esperanza v. City of San Antonio.",
+    "source_url": "https://esperanzacenter.org/who-we-are/meet-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Esperanza Peace and Justice Center", "role": "Lead counsel / longtime legal representative and volunteer", "category": "civic", "source_url": "https://esperanzacenter.org/who-we-are/meet-us/", "snippet": "Served as lead counsel in Esperanza et al. v. City of San Antonio, the first case recognizing cultural rights in public arts funding, and has represented the Esperanza and community coalitions in organizing and litigation."}
+    ]
+  },
+  {
+    "donor_id": "28831c79-8e78-48f0-a876-66f729f40166",
+    "name": "Purnell, Neva",
+    "resolved_employer": "Texas Workforce Commission (retired); prior Texas Employment Commission and Governor's Office of Economic Development",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Neva Purnell of Austin (78703), retired from the Texas Workforce Commission; career-long Texas state government employee. Extremely prolific small-dollar Democratic donor (2,642 FEC gifts); no single-issue ideological PAC or lobbyist records.",
+    "source_url": "https://www.linkedin.com/in/neva-purnell-69835368",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3d6123e6-c93a-4982-b09c-8c30d6b737c0",
+    "name": "Spickard, James",
+    "resolved_employer": "University of Redlands, Professor Emeritus of Sociology (retired); Managing Partner, Organization Specialists LLC (San Antonio area)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "James V. Spickard, Professor Emeritus of Sociology (University of Redlands) and sociology-of-religion author who resides in the San Antonio area (78212). Retired academic; no policy-advocacy, PAC, or lobbyist affiliations found (private Quaker membership and academic-society roles are out of scope for this pipeline).",
+    "source_url": "https://www.yumpu.com/en/document/view/6300826/james-v-spickard",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ea0b25f8-cd90-4278-8e1f-8eb58de1757a",
+    "name": "Adkins, Anne",
+    "resolved_employer": "Former organizational-development / management consultant (retired); amateur-astronomy philanthropist",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Anne Marie Adkins (UT Austin '75), raised in San Antonio's Alamo Heights (78209), had a career as an organizational-development/management consultant before turning to amateur astronomy; public records confirm Anne M. Adkins at 138 Knibbe Ave with Fort Davis/McDonald Observatory ties.",
+    "source_url": "https://giving.utexas.edu/gazing-upward/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "McDonald Observatory (UT Austin), Board of Visitors", "role": "Board member; endowed the Beatrice M. Tinsley Graduate Fellowship in Astronomy", "category": "civic", "source_url": "https://giving.utexas.edu/gazing-upward/", "snippet": "Serves on McDonald Observatory's Board of Visitors and established a planned gift supporting the Beatrice M. Tinsley Graduate Fellowship in Astronomy."},
+      {"org": "Texas Star Party Inc.", "role": "Board Member", "category": "civic", "source_url": "https://texasstarparty.org/tsp-officers-and-board-of-directors-2", "snippet": "Listed as a Board Member of the Texas Star Party, an amateur-astronomy organization."},
+      {"org": "Compadres Del Rancho Grande (friends of Big Bend Ranch State Park)", "role": "Board President", "category": "civic", "source_url": "https://www.zoominfo.com/p/Anne-Adkins/1441266432", "snippet": "Board President at Compadres Del Rancho Grande, supporting Big Bend Ranch State Park."}
+    ]
+  },
+  {
+    "donor_id": "aa1c7214-3ff7-417c-847c-312153e30471",
+    "name": "Van Eman, Murray",
+    "resolved_employer": "Law Office of Murray H. Van Eman PLLC (solo attorney; real estate, oil/gas & energy practice)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Murray Houston Van Eman, San Antonio solo attorney (St. Mary's University grad); practices real estate and energy/oil & gas law. Address and solo-firm name match the donor record. Practicing energy-law attorney is a professional service, not an oil_gas industry ownership/board affiliation.",
+    "source_url": "https://texas.statelawyers.com/lawyer/profile.cfm?attorneyid=136258",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "86fdaa8c-6f7c-4058-a88b-9cd6cec0e35e",
+    "name": "Lawrence, Starling",
+    "resolved_employer": "W. W. Norton & Company (editor-in-chief / editor-at-large, vice chairman); novelist",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Starling Ransome Lawrence (1943-2025), 55-year W.W. Norton editor, editor-in-chief 1993-2011 then editor-at-large, and author of four books; NYC resident. Matches NY 10065 address and 'Editor / W W Norton' record.",
+    "source_url": "https://en.wikipedia.org/wiki/Starling_Lawrence",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "77241930-5ee8-4800-9026-ab6b6085be5f",
+    "name": "Jimenez, Mauricio",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Grand Rapids, MI small-dollar recurring donor (16 FEC gifts), listed Not Employed. No public profile confirmable; same-named local results were deceased relatives, so the specific individual cannot be verified.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fda42e3f-479a-420b-a9d8-8e97e9c687fc",
+    "name": "Knight, Robert",
+    "resolved_employer": "ARC (unconfirmed; possibly ARC Document Solutions, San Antonio reprographics/document-services firm)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "San Antonio donor (78210), occupation Sales, employer 'ARC.' ARC Document Solutions operates a San Antonio branch, but the specific Robert Knight could not be confirmed; industry not forced given the ambiguity.",
+    "source_url": "https://www.e-arc.com/location/san-antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

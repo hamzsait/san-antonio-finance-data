@@ -1,0 +1,254 @@
+[
+  {
+    "donor_id": "fd8dcfc4-ea7a-491f-8b8c-b23d7635adab",
+    "name": "Cortez, Elsie",
+    "resolved_employer": "Dominion Mobile Wound Care Clinic (VP of Operations); founder of Dominion Care Home Health, BSN RN",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Elsie C. Cortez is Elcee C. Cortez, BSN RN, a long-time home-health/hospice nurse-executive who founded Dominion Care Home Health of San Antonio; public records list her at 23635 Verde Rvr, San Antonio 78255 — the exact donor address. No political-advocacy affiliations or ideological PAC records found.",
+    "source_url": "https://www.paccgsa.org/cortez-elcee",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fd10fd1c-ae0e-4f9f-b1dd-7eab7ac22216",
+    "name": "Kastely, Amy",
+    "resolved_employer": "Professor of law, St. Mary's University School of Law (retired); attorney and community/arts activist",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Amy Hilsman Kastely is a retired St. Mary's University School of Law professor, contract-law authority, and San Antonio activist who served as lead counsel in Esperanza Peace and Justice Center v. City of San Antonio and sits on Esperanza's board. San Antonio 78207 location and 'Not Employed' occupation consistent with retirement.",
+    "source_url": "https://esperanzacenter.org/who-we-are/meet-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Esperanza Peace and Justice Center", "role": "Board member / former lead counsel", "category": "civic", "source_url": "https://esperanzacenter.org/who-we-are/meet-us/", "snippet": "Amy Kastely serves on the board and was lead counsel in Esperanza et al. v. City of San Antonio, the first case recognizing cultural rights in public arts funding."}
+    ]
+  },
+  {
+    "donor_id": "fc67f6d5-1ce0-4d8c-b0a0-02596ca9a808",
+    "name": "Salinas, JD",
+    "resolved_employer": "AT&T — Vice President, External & Legislative Affairs (Texas state legislative/regulatory advocacy); former Hidalgo County Judge and GSA regional administrator",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "J.D. Salinas III is AT&T's VP of External & Legislative Affairs covering Texas/New Mexico state-capitol advocacy; previously Hidalgo County Judge (2007-2009) and GSA Region 7 administrator. Identity matches AT&T occupation and 78216 San Antonio address.",
+    "source_url": "https://www.linkedin.com/in/jdsalinasiii/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "AT&T", "role": "VP External & Legislative Affairs (Texas legislative/regulatory advocacy)", "category": "business", "source_url": "https://www.linkedin.com/in/jdsalinasiii/", "snippet": "Salinas helps direct AT&T's statewide legislative and regulatory priorities, spending sessions at the Texas Capitol advocating for the company."}
+    ]
+  },
+  {
+    "donor_id": "f86a7454-71b6-402b-a363-aee1c7f7c508",
+    "name": "Davis, Wendy",
+    "resolved_employer": "Planned Parenthood Texas Votes — Senior Advisor; former Texas state senator and 2014 gubernatorial nominee",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Wendy Davis, former TX state senator (SD-10) known for her 2013 abortion-bill filibuster and 2014 Democratic gubernatorial run, was named Senior Advisor to Planned Parenthood Texas Votes in Feb 2023, matching the donor's stated role and Austin 78703 location.",
+    "source_url": "https://www.texastribune.org/2023/02/28/wendy-davis-planned-parenthood-abortion/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Planned Parenthood Texas Votes", "role": "Senior Advisor", "category": "political", "source_url": "https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes/blog/planned-parenthood-texas-votes-announces-new-leadership", "snippet": "Davis was recruited as Senior Advisor to PPTV, the organization's policy, advocacy and political arm, focusing on strategic planning and leadership cultivation."}
+    ]
+  },
+  {
+    "donor_id": "f6a7a2d2-5476-4941-ab0e-365ebb7a1f12",
+    "name": "Clay-Flores, Rebeca",
+    "resolved_employer": "Bexar County (Commissioners Court, Precinct 1)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Rebeca Clay-Flores is the elected Bexar County Commissioner for Precinct 1 (took office Jan 1, 2021; re-elected Nov 5, 2024). Democrat; Princeton BA, Harvard M.Ed., background in education and nonprofits. San Antonio 78214 location and County Commissioner / Bexar County occupation match the official county bio. No FEC ideological-PAC contributions and no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://www.bexar.org/3342/About-Commissioner-Clay-Flores",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bexar County Commissioners Court, Precinct 1", "role": "County Commissioner (elected, Democrat)", "category": "political", "source_url": "https://ballotpedia.org/Rebeca_Clay-Flores", "snippet": "Rebeca Clay-Flores (Democratic Party) is a member of the Bexar County Commissioners Court in Texas, representing Precinct 1. She assumed office on January 1, 2021."}
+    ]
+  },
+  {
+    "donor_id": "f4d5b450-8ab2-40aa-8829-1c667267a7ce",
+    "name": "Adler, Steve",
+    "resolved_employer": "City of Austin (former Mayor, 2015-2023); practicing attorney; university lecturer",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Steve Adler was the 58th Mayor of Austin (Jan 2015 - Jan 2023), a Democrat and a longtime eminent-domain/civil-rights attorney; since leaving office he teaches at UT's LBJ School and other schools. Downtown Austin 78701 address and 'Mayor / City of Austin' occupation match (record dates to his mayoral tenure). No Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://en.wikipedia.org/wiki/Steve_Adler_(politician)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Anti-Defamation League (ADL), Austin chapter", "role": "Co-founder / board member", "category": "jewish_civic", "source_url": "https://forward.com/news/376709/meet-steve-adler-austins-mellow-mayor-whos-getting-feisty-under-trump/", "snippet": "Adler served on the board of the Austin chapter of the ADL, which he helped to start, and is credited with making 'ADL the go-to civil rights organization in Austin.'"},
+      {"org": "City of Austin", "role": "Mayor 2015-2023 (elected, Democrat)", "category": "political", "source_url": "https://ballotpedia.org/Stephen_Adler", "snippet": "Steve Adler served as the 58th Mayor of Austin from January 6, 2015 to January 6, 2023."}
+    ]
+  },
+  {
+    "donor_id": "f0373a10-40c2-4f9d-97c6-885005820577",
+    "name": "Hall, Eric",
+    "resolved_employer": "Coviant Software Corporation (VP of Sales)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Eric Hall is VP of Sales / Sales & Marketing Leader at Coviant Software Corporation, a San Antonio-based managed-file-transfer (Diplomat MFT) software company; UTSA graduate, based in San Antonio. San Antonio 78213 location, 'Sales' occupation, and 'Coviant Software' employer all match. No FEC ideological-PAC contributions and no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://theorg.com/org/coviant-software-corporation/org-chart/eric-hall",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ef1d46eb-7b7f-45b6-a260-483d4c5ad8f2",
+    "name": "Gagarin, Michael",
+    "resolved_employer": "University of Texas at Austin (retired) — James R. Dougherty Jr. Centennial Professor Emeritus of Classics",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "The '1 University Station C3400' address is UT Austin's Classics Department campus box. Michael Gagarin is a Centennial Professor Emeritus of Classics at UT Austin (faculty 1973-2011), a scholar of ancient Greek law and past president of the Society for Classical Studies. 'Not Employed' is consistent with emeritus/retired status. FEC records show a Michael Gagarin (Austin, retired) gave to a Democratic candidate committee, not an ideological PAC. No Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://liberalarts.utexas.edu/classics/faculty/gagarin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ed7fe01f-33a5-47d0-99d3-58d402ffa223",
+    "name": "Bains, Kiran Kaur",
+    "resolved_employer": "Kiran Kaur Bains Consulting (self-employed equity/strategy consultant); former Chief Equity Officer, City of San Antonio; former head of SA2020",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Identity confirmed by San Antonio 78216 zip + 'Self-employed' occupation matching her own equity-consulting practice. Kiran Kaur Bains is a San Antonio civic figure: former first Chief Equity Officer for the City of San Antonio and former head of nonprofit SA2020, now an independent equity/strategy consultant and Atlantic Fellow for Racial Equity. No FEC ideological-PAC records; not on the Texas Ethics Commission lobbyist registry; no Israel/Palestine, oil/gas, gun, or defense advocacy in her bio.",
+    "source_url": "https://www.kirankaurbains.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Atlantic Fellows for Racial Equity / Atlantic Institute", "role": "Fellow / Senior Fellow", "category": "civic", "source_url": "https://racialequity.atlanticfellows.org/fellow/kiran-kaur-bains", "snippet": "Kiran Kaur Bains listed as an Atlantic Fellow for Racial Equity; her consulting and public-sector work centers on racial equity."},
+      {"org": "City of San Antonio", "role": "First Chief Equity Officer (former)", "category": "civic", "source_url": "https://www.kirankaurbains.com/about", "snippet": "First Chief Equity Officer for the City of San Antonio; advanced racial equity across city initiatives and pandemic recovery funding."}
+    ]
+  },
+  {
+    "donor_id": "e6432511-f048-48c8-8a0a-f44eb1dc51b4",
+    "name": "Realini, Janet",
+    "resolved_employer": "Healthy Futures of Texas (founder; associate VP) — family-medicine physician (retired from clinical practice)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Confirmed as Dr. Janet P. Realini, MD, MPH, San Antonio family-medicine physician, former UT Health San Antonio faculty and medical director of the San Antonio Metro Health family-planning program. Founder of Healthy Futures of Texas, a nonprofit reducing teen/unplanned pregnancies. San Antonio 78255 location matches; 'Not Employed' reflects retirement from clinical practice. Appeared as a witness on a Texas House committee list (public-health testimony, not a registered lobbyist). No FEC ideological-PAC records found; not on TEC lobbyist registry.",
+    "source_url": "https://magazines.uthscsa.edu/schools/2018/11/29/2017-distinguished-alumna-honored/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Healthy Futures of Texas", "role": "Founder / Associate VP (former President)", "category": "civic", "source_url": "http://www.healthyfuturestx.org/message-president.html", "snippet": "Founder of Healthy Futures of Texas, a nonprofit dedicated to reducing teen and unplanned pregnancies through sexual-health education; adolescent/reproductive-health advocacy."}
+    ]
+  },
+  {
+    "donor_id": "e3ad28e3-cfe2-447a-bed1-21a71517167b",
+    "name": "Tiven, Marjorie",
+    "resolved_employer": "Global Cities, Inc. (a program of Bloomberg Philanthropies) — founder & president",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed as Marjorie B. Tiven, founder and president of Global Cities, Inc., a Bloomberg Philanthropies program running the 'Global Scholars' global-civics education program. Manhattan 10024 zip + 'non-profit president' occupation + 'Global Cities Inc.' employer all match. Served 2002-2013 as NYC Commissioner for the Mayor's Office of International Affairs; sister of Michael Bloomberg. No AIPAC/United Democracy Project or J Street PAC records found; not a registered lobbyist.",
+    "source_url": "https://www.globalcities.org/who-we-are",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Global Cities, Inc. / Bloomberg Philanthropies", "role": "Founder & President", "category": "civic", "source_url": "https://www.globalcities.org/who-we-are", "snippet": "Founder/president of Global Cities Inc., a Bloomberg Philanthropies program teaching global civics; sister of Michael Bloomberg."},
+      {"org": "New York City Mayor's Office for International Affairs", "role": "Commissioner (2002-2013)", "category": "political", "source_url": "https://www.nyc.gov/html/om/html/2010b/pr476-10_mobile.html", "snippet": "Served as NYC Commissioner for the Mayor's Office for International Affairs / UN & Consular Corps under the Bloomberg administration."},
+      {"org": "National Archives Foundation; Citizens Union; UN Democracy Fund advisory board", "role": "Board / advisory member", "category": "civic", "source_url": "https://www.bloomberg.org/press/marjorie-b-tiven-named-to-advisory-board-of-the-united-nations-democracy-fund/", "snippet": "Named to the advisory board of the UN Democracy Fund; also serves on the boards of Citizens Union and the National Archives Foundation."}
+    ]
+  },
+  {
+    "donor_id": "e05b7aba-918c-48cf-a6c0-c2e149bdca1a",
+    "name": "Geiselman, Cullen",
+    "resolved_employer": "Bald Cypress Ltd (family investment/holding partnership) — investor & conservation philanthropist; PhD bat biologist; Houston Parks Board chair",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Confirmed as Dr. Cullen K. Geiselman (Muse), Houston bat biologist (PhD, Columbia), conservationist and philanthropist, chair of the Houston Parks Board (as of July 2024) and General Partner of family entity Chestnut Oak, Ltd. Houston 77019 (River Oaks) zip + 'investor'/'Bald Cypress Ltd' match. Her documented public profile is environmental conservation, not the energy industry. Family-wealth context: she is associated with the Houston Cullen family, whose historic fortune traces to Quintana Petroleum, but no personal oil/gas executive, board, owner, or policy-advocacy role is documented — so no oil_gas affiliation is recorded (name/family legacy alone is not a documented affiliation). No FEC ideological-PAC records found; not a registered Texas lobbyist.",
+    "source_url": "https://houstonparksboard.org/news/houston-parks-board-announces-dr-cullen-k-geiselman-muse-as-new-board-chair/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Houston Parks Board", "role": "Board Chair (2024); director since 2014", "category": "civic", "source_url": "https://houstonparksboard.org/news/houston-parks-board-announces-dr-cullen-k-geiselman-muse-as-new-board-chair/", "snippet": "Appointed Chair of the Houston Parks Board Board of Directors effective July 1, 2024; long-time conservation-focused civic leader."},
+      {"org": "Bat Conservation International / Houston Arboretum / Houston Advanced Research Center", "role": "Board member / vice chair", "category": "civic", "source_url": "https://harcresearch.org/people/cullen-k-geiselman-phd/", "snippet": "Serves on multiple conservation/environmental boards; research focuses on seed dispersal and pollination by bats in the Neotropics."}
+    ]
+  },
+  {
+    "donor_id": "de9efd2c-b82d-4f8c-84cd-d7a4987be7d7",
+    "name": "Agbayani, Amefil",
+    "resolved_employer": "University of Hawaii at Manoa (retired) — Emeritus Assistant Vice Chancellor for Student Diversity",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Confirmed as Dr. Amefil 'Amy' Agbayani, Emeritus Assistant Vice Chancellor for Student Diversity, University of Hawaii at Manoa; Filipina-American civil rights advocate. Honolulu 96819 location matches; 'Not Employed' reflects retirement (former career: university diversity administration, retired). No FEC ideological-PAC record and no federal/TX lobbyist registration found.",
+    "source_url": "https://www.hawaii.edu/news/2023/10/23/agbayani-women-of-impact-award/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hawaii Civil Rights Commission", "role": "former Chair", "category": "civic", "source_url": "https://www.eastwestcenter.org/news/news-release/civil-rights-champion-amy-agbayani-receive-east-west-centers-women-impact-award", "snippet": "Agbayani served as chair of the Hawaii Civil Rights Commission, the Judicial Selection Commission and the Filipino Community Center."},
+      {"org": "White House Advisory Commission on Asian Americans, Native Hawaiians and Pacific Islanders", "role": "Commissioner (Biden appointee)", "category": "civic", "source_url": "https://www.hawaii.edu/news/2023/10/23/agbayani-women-of-impact-award/", "snippet": "Agbayani was selected by President Biden to serve on the White House Advisory Commission on Asian Americans, Native Hawaiians and Pacific Islanders."}
+    ]
+  },
+  {
+    "donor_id": "d9df9626-de4a-4822-a9bd-311705e15c78",
+    "name": "Jones, Irish",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Only public-records/people-search databases surface for this individual. Irish S. Jones, age ~70, listed at 402 Massie St, Atlanta, TX 75551. 'Not Employed' occupation and age suggest retired. No professional bio, FEC ideological-PAC record, or lobbyist registration found. Could not confirm or rule out any relationship to candidate Gina Ortiz Jones. Quiet, unidentifiable result beyond a name/address match.",
+    "source_url": "https://www.yellowbook.com/people/irish-jones/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d997971b-b0db-474d-8263-53d1b555853b",
+    "name": "Florenson, Jean-Christophe",
+    "resolved_employer": "Dalkia Energy Solutions (EDF Group) — Executive VP / VP, Smart Infrastructure Solutions",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Confirmed as Jean-Christophe 'JC' Florenson, EVP / VP of Smart Infrastructure Solutions at Dalkia Energy Solutions (an EDF Group subsidiary, formerly Groom Energy), living in Houston. Dalkia is an energy-SERVICES/efficiency and renewable-energy firm (building controls, HVAC, LED, solar/storage, GHG-reduction programs) — NOT an oil & gas producer — so classified Energy / Environment, not oil_gas. No FEC ideological-PAC record and no TX Ethics Commission lobbyist registration found.",
+    "source_url": "https://theorg.com/org/groom-energy-solutions/org-chart/jc-florenson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d6b3e445-5f71-46ab-be25-6af811de4927",
+    "name": "Lopez, Roy",
+    "resolved_employer": null,
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Donation record has blank occupation/employer. The address 4101 McEwen Rd Ste 514, Dallas is a Workstyle Flexible Spaces coworking/office-suite building (a shared business address), consistent with a consultant. A plausible but UNCONFIRMED name match exists to a Dallas-based government-affairs/business-development consultant 'Roy Lopez.' Identity could not be firmly corroborated (common name; blank occupation on the record; not found in the TX Ethics Commission registered-lobbyist list). Industry tentatively Consulting/PR on the office-suite basis; treat as unresolved.",
+    "source_url": "https://www.linkedin.com/in/roy-lopez-8b6836a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d5c2809d-06e9-4c52-a569-7525076108a4",
+    "name": "Langdon, Ryan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor address 659 9th Ave, San Francisco (zip 94188 is a USPS PO-box ZIP). Occupation and employer both 'Information Requested.' Searches for 'Ryan Langdon' in San Francisco return multiple distinct people with no way to corroborate which — if any — matches by zip/occupation/donation pattern. FEC PAC and TX lobbyist searches returned no matching records. Identity unresolvable on public sources.",
+    "source_url": "https://www.linkedin.com/in/ryan-langdon-6305b21b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d2cf05be-d3b0-4eb3-aed7-184bd43ecfd0",
+    "name": "Goss, Kenny",
+    "resolved_employer": "The Goss-Michael Foundation (co-founder) — art dealer, collector and philanthropist",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed as Kenny Goss, American art dealer, collector and philanthropist, co-founder of the Dallas-based Goss-Michael Foundation (British contemporary art 501(c)(3)) and former longtime partner of musician George Michael. Donor address 7510 Turtle Creek Blvd #18A, Dallas sits in the Turtle Creek/Highland Park area, geographically consistent with the foundation. 'Not Employed' fits a philanthropist/foundation co-founder. No ideological/PAC affiliations surfaced; no Texas lobbyist registration found.",
+    "source_url": "https://www.g-mf.org/staff",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The Goss-Michael Foundation", "role": "Co-founder", "category": "civic", "source_url": "https://www.g-mf.org/staff", "snippet": "Kenny Goss serves as co-founder of the Goss-Michael Foundation, a Dallas 501(c)(3) forum for British contemporary art founded in 2007 with George Michael."}
+    ]
+  },
+  {
+    "donor_id": "d278fdc7-1dc6-4a47-a92a-e26ded6dc55e",
+    "name": "Shea, Brigid",
+    "resolved_employer": "Travis County (Commissioner, Precinct 2); former Austin City Council member; environmental advocate",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as Brigid Shea, elected Travis County Commissioner Precinct 2 (since 2015; former Austin City Council 1993-1996). Former NPR journalist who co-founded the Save Our Springs Coalition/Alliance and organized the 1992 SOS Barton Springs water-quality initiative. Address 2604 Geraghty Ave, Austin 78757 and 'County commissioner / Travis County' occupation match exactly. Public official, not a registered lobbyist (no TEC registration found); no ideological/PAC affiliations surfaced.",
+    "source_url": "https://www.traviscountytx.gov/commissioners-court/precinct-two",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Save Our Springs Alliance", "role": "Co-founder (former executive/communications director)", "category": "civic", "source_url": "https://ballotpedia.org/Brigid_Shea", "snippet": "In 1991 Shea co-founded the Save Our Springs Coalition (predecessor to the Save Our Springs Alliance), which helped enact the SOS law protecting Austin's Barton Springs."},
+      {"org": "ICLEI USA (Local Governments for Sustainability)", "role": "US Board Chair", "category": "civic", "source_url": "https://www.traviscountytx.gov/commissioners-court/precinct-two", "snippet": "She currently serves as US Board Chair of ICLEI (Local Governments for Sustainability)."},
+      {"org": "Travis County Commissioners Court, Precinct 2", "role": "County Commissioner (elected, Democrat)", "category": "political", "source_url": "https://ballotpedia.org/Brigid_Shea", "snippet": "Brigid Shea is the elected Travis County Commissioner for Precinct 2."}
+    ]
+  },
+  {
+    "donor_id": "d23b01e4-671e-46ef-a1c0-3549d043871f",
+    "name": "Hall, George",
+    "resolved_employer": null,
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "The suggested identification as George E. Hall of the Clinton Group hedge fund appears INCORRECT: that George E. Hall (b. 1960, Merchant Marine Academy, racehorse owner) resides in Rumson, NJ, not Great Neck. The donor address 1 Lake Rd, Great Neck, NY 11020 maps in a public-records aggregator to a different George (G.) Hall described as a 'Medical Professional' (born ~1955); 'Not Employed' would be consistent with a retired medical professional. Sourcing is a weak data-broker record, so identity/industry are low confidence. No ideological PAC contributions and no Texas lobbyist registration found for this individual.",
+    "source_url": "https://clustrmaps.com/person/Hall-1d40tf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

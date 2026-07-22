@@ -1,0 +1,239 @@
+[
+  {
+    "donor_id": "b48ede51-9f31-48ae-bf92-bfaa2b63de48",
+    "name": "Bruno, Jaime",
+    "resolved_employer": "Toyota (assembly/production worker, likely Toyota Motor Manufacturing Texas, San Antonio)",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Filing lists occupation 'Assembly worker' at Toyota, San Antonio 78210; consistent with Toyota's San Antonio truck plant. No distinct public profile beyond generic occupation; a Jaime Bruno appears as a Toyota production team leader but not confirmed same person.",
+    "source_url": "https://www.toyota.com/dealers/texas/san-antonio/dealers/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b44191d9-adb6-4645-99fd-3a1b077bcd86",
+    "name": "Robert Yarbrough, Marion",
+    "resolved_employer": "Retired (former career not documented in public records)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Public records confirm Marion R. Yarbrough at 4843 E Beverly Mae Dr, San Antonio 78229; retired per filing. No former occupation, FEC PAC, or lobbyist record found.",
+    "source_url": "https://radaris.com/p/Marion/Yarbrough/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b38ac014-5b05-4305-a559-ced16e48460a",
+    "name": "Bohannon, Mark",
+    "resolved_employer": "Self-employed consultant; former VP of Corporate Affairs & Global Public Policy at Red Hat; Cybersecurity Fellow, Center for Cybersecurity Policy and Law",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Mark Bohannon, DC 20037 (matches FEC contributor record with Red Hat), longtime tech/open-source public-policy figure: VP Global Public Policy at Red Hat, ex-SIIA SVP, ex-Commerce Dept Chief Counsel for Technology; now self-employed/consulting.",
+    "source_url": "https://www.redhat.com/en/about/press-releases/bohannon",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Red Hat, Inc.", "role": "VP, Corporate Affairs & Global Public Policy (governmental affairs/tech policy lead)", "category": "business", "source_url": "https://www.redhat.com/en/about/press-releases/bohannon", "snippet": "Led Red Hat's worldwide team representing the company's interests before policy makers on technology/innovation policy, open source and standards, IP legislation, and tax regulation."},
+      {"org": "U.S. Department of Commerce", "role": "Chief Counsel for Technology / Counsellor to the Under Secretary for Technology", "category": "political", "source_url": "https://www.redhat.com/en/about/press-releases/bohannon", "snippet": "Advised on technology, trade, IP and security; participated in WTO and UN Commission on International Trade Law; Vice Chair of OECD Working Party on Information Security and Privacy."}
+    ]
+  },
+  {
+    "donor_id": "b2f01dc6-1b36-4a6d-a48c-d1e6c34a4693",
+    "name": "Marengo, Don",
+    "resolved_employer": "Not Employed per filing (a Don Marengo in San Antonio appears as director of campus ministry at Holy Cross of San Antonio, but identity not confirmed)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Filing lists 'Not Employed', 213 Avant Ave, San Antonio 78210. A LinkedIn 'Don Marengo' is campus-ministry director at Holy Cross of San Antonio, but the profile was inaccessible and cannot be confirmed as the same person. No FEC PAC or TX lobbyist record.",
+    "source_url": "https://www.linkedin.com/in/don-marengo-218ab535/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b2c08f4a-0270-43f8-a420-7af8262a4da9",
+    "name": "Veloz, Brad",
+    "resolved_employer": "Retired federal executive / U.S. Navy veteran",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Brad Veloz of San Antonio is a retired federal executive and Navy veteran; serves on the City of San Antonio LGBTQ+ Advisory Board (Dist. 3) and chairs the Membership Committee of Orgullo de San Antonio LGBTQ LULAC Council #22198. Matches 'Not Employed' 78223 record (retired).",
+    "source_url": "https://www.orgullo22198.org/meet-the-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Orgullo de San Antonio LGBTQ LULAC Council #22198", "role": "Membership Committee Chair", "category": "civic", "source_url": "https://www.orgullo22198.org/meet-the-team", "snippet": "Brad Veloz serves as Chair of the Membership Committee for the LGBTQ LULAC council; family LULAC ties since age 11."},
+      {"org": "City of San Antonio LGBTQ+ Advisory Board", "role": "Board member (District 3)", "category": "civic", "source_url": "https://pgwest.blob.core.windows.net/sanantonio/Meetings/8863/Agenda_20260414202750051.pdf", "snippet": "Listed as a District 3 member of the San Antonio LGBTQ+ Advisory Board."}
+    ]
+  },
+  {
+    "donor_id": "b18e67e2-24d5-43ea-9119-c988a05128c5",
+    "name": "Rios, Chris",
+    "resolved_employer": "Wells Fargo (Regional VP, Social Impact & Sustainability)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Christopher Rios, Wells Fargo philanthropy/community-impact executive, lives in Pflugerville, TX (native of Laredo). Occupation 'Philanthropy'/employer 'WF' = Wells Fargo confirmed. No TX lobbyist registration found.",
+    "source_url": "https://assetfunders.org/person/christopher-rios/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "CommUnityCare Health Centers", "role": "Treasurer and Past-Chair", "category": "civic", "source_url": "https://assetfunders.org/person/christopher-rios/", "snippet": "Treasurer and Past-Chair of CommUnityCare, Travis County's largest public health care system."},
+      {"org": "Greater Austin Hispanic Chamber of Commerce", "role": "Past Chairman", "category": "business", "source_url": "https://assetfunders.org/person/christopher-rios/", "snippet": "Past Chairman of the Greater Austin Hispanic Chamber of Commerce."}
+    ]
+  },
+  {
+    "donor_id": "b020a140-157e-4637-8352-592dd355302b",
+    "name": "Edwards, Daniel",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Very common name; FEC record for a 'Daniel Edwards' in Bellingham 98226 shows small Democratic donations (e.g., Biden 2020) and 'not employed', but no public profile could be confirmed to this specific individual. No career or advocacy affiliations documented.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-BELLINGHAM-WA-20-part15.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "afb7105d-97df-4da7-a3cc-f036d09db52f",
+    "name": "Vernal, David",
+    "resolved_employer": "Retired U.S. Air Force Colonel (later Stanford GSB MSx / defense-tech)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "David Vernal is a retired USAF Colonel (~27 yrs; ex-NSC staff, 16th Air Force intel director) who became a Stanford GSB MSx student in the SF Bay Area — consistent with a Palo Alto 94301 'Not Employed' record. Uncommon name and Bay Area location corroborate; exact address not independently confirmed.",
+    "source_url": "https://www.gsb.stanford.edu/programs/msx/life/students/voices/david-vernal",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ae6491aa-41b5-4bf9-ab2e-f163c6aa8d04",
+    "name": "Stephenson, Ranada",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Uniquely named Hillsborough, CA (94010) resident; 2012 Democratic presidential elector for CA CD-14 (appointed by Rep. Jackie Speier), pledged to Obama/Biden. FEC shows $100 to EMILY's List (2018). Listed as Not Employed.",
+    "source_url": "https://elections.cdn.sos.ca.gov/statewide-elections/2012-general/list-presidential-electors.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "California Democratic Party", "role": "2012 Presidential Elector, Congressional District 14", "category": "political", "source_url": "https://elections.cdn.sos.ca.gov/statewide-elections/2012-general/list-presidential-electors.pdf", "snippet": "Ranada Stephenson listed as a Democratic presidential elector for CD-14, pledged to Barack Obama/Joe Biden in the 2012 general election."},
+      {"org": "EMILY's List", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/18/elec-HILLSBOROUGH-CA-18-part4.html", "snippet": "FEC record shows a $100 contribution to EMILY's List (pro-choice Democratic women's PAC) on 06/15/2018 from Ranada Stephenson, Hillsborough CA."}
+    ]
+  },
+  {
+    "donor_id": "ae069836-2f04-4bbb-90f8-f0b34cecf084",
+    "name": "Chavez, Melissa",
+    "resolved_employer": "Compass Rose Public Schools",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Listed as Assistant Principal at Compass Rose Public Schools, a San Antonio charter network (confirmed active employer). Common name; could not isolate a specific public bio/LinkedIn for this individual. Categorized by employer/occupation.",
+    "source_url": "https://compassrosepublicschools.org/careers/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ad51857b-a521-4e65-b60f-e47cd7813b79",
+    "name": "Cawley, John",
+    "resolved_employer": "Cornell University",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Confirmed: John Cawley, Professor of Economics and Policy Analysis & Management at Cornell (Ithaca 14853/14850), health economist and co-Director of Cornell's Institute on Health Economics; NBER research associate. Frequent individual political donor but no issue-advocacy PAC affiliations documented.",
+    "source_url": "https://people.as.cornell.edu/john-cawley",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ad2729a9-83b3-42c3-bfbd-5b2b0a399b6f",
+    "name": "Haag, Yvonne",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "San Antonio (78209) resident listed as Not Employed. No public bio, profile, lobbyist registration, or issue-advocacy PAC record could be confirmed for this specific individual; FEC donation pattern is consistently Democratic per source note but no organizational affiliations documented.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ad0efee1-6590-4d38-8df3-b906b0a9ae80",
+    "name": "Knight, Carolyn",
+    "resolved_employer": "Montgomery Hospice (per FEC filings; currently listed Not Employed/likely retired nurse)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "FEC/city-data records for Carolyn Knight, zip 20832 Olney MD, list occupation Nurse / employer Montgomery Hospice with DNC donations; campaign data now shows Not Employed, consistent with a retired nurse.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-OLNEY-MD-20-part5.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ad0dc0ba-1227-474d-9db7-1e02672707ba",
+    "name": "Ledesma, Yolanda",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Could not confirm a specific public profile for Yolanda Ledesma at 78240 San Antonio; multiple unrelated individuals of similar name. No lobbyist registration and no policy-advocacy affiliation found; FEC shows only small Democratic-leaning donations.",
+    "source_url": "https://www.ethics.state.tx.us/search/lobby/loblistsREG2021-2025.php",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ab7271ff-45a5-4226-9a42-9976a53964e5",
+    "name": "Cardnell, Elisa",
+    "resolved_employer": "Service Women's Action Network (SWAN)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "CEO of SWAN since July 2023 (joined 2021 as Dir. of Operations); former Navy Lt. (2007-2018, anti-submarine warfare) and 2020 TX-02 Democratic congressional candidate vs. Dan Crenshaw. Confirmed via SWAN team page and Ballotpedia.",
+    "source_url": "https://www.servicewomensactionnetwork.org/our-team-1-1",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Service Women's Action Network (SWAN)", "role": "Chief Executive Officer", "category": "civic", "source_url": "https://www.servicewomensactionnetwork.org/our-team-1-1", "snippet": "Elisa joined SWAN in 2021 as Director of Operations and has been CEO since July 2023; SWAN is a national nonprofit advocating for service women and women veterans on issues like military sexual assault and VA claims."},
+      {"org": "Elisa Cardnell for Congress (TX-02)", "role": "Democratic candidate, 2018/2020", "category": "political", "source_url": "https://ballotpedia.org/Elisa_Cardnell", "snippet": "Navy veteran and math/physics teacher who ran as a Democrat for U.S. House Texas District 2 against incumbent Dan Crenshaw."}
+    ]
+  },
+  {
+    "donor_id": "aada1da0-cce1-42b4-8571-9662f8d8471a",
+    "name": "Schultz, Nancy",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Could not confirm a specific public profile for Nancy Schultz at 93704 Fresno CA; only unrelated similarly-named individuals surfaced. No lobbyist registration or policy-advocacy affiliation found; FEC shows a high volume of small donations only.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-FRESNO-CA-20-part34.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a7fc2030-87f9-49cc-9af9-7b75aa15505d",
+    "name": "Estes, Amy",
+    "resolved_employer": "University of Texas at San Antonio (teaching assistant)",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Occupation 'TA' at UTSA per filing; Austin 78704 resident. Very common name and no distinct public bio found to corroborate identity — categorized by employer/occupation only (university teaching assistant = Education). No lobbyist registration or notable PAC record surfaced.",
+    "source_url": "https://sciences.utsa.edu/mathematics/students/teaching-assistantship.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a74f41f3-fa34-4de8-bd58-2340461b2c82",
+    "name": "Miller, Michael",
+    "resolved_employer": "Michael Sidney Miller, Attorney at Law (self-employed)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Exact address match: 926 Chulie Dr, San Antonio 78216 listed as Michael (Sidney) Miller, Attorney at Law. State Bar of Texas member since 1993 (St. Mary's J.D.), solo practice in personal injury/civil litigation. No TX lobbyist registration or notable PAC affiliation found.",
+    "source_url": "https://lawyers.justia.com/lawyer/michael-sidney-miller-257632",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a6bb0460-634a-4ac0-8250-c275165de293",
+    "name": "Laborde, Kathleen",
+    "resolved_employer": "River City Hydraulics, Inc.",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Finance officer at River City Hydraulics, Inc. (San Antonio industrial/heavy-equipment hydraulics supplier & repair, founded 1984; Ralph Laborde is president — likely family business). Firm listed as a material supplier in construction-industry directories. No lobbyist registration or PAC record found.",
+    "source_url": "https://www.buzzfile.com/business/River-City-Hydraulics,-Inc.-210-472-2123",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a680c8fd-82c5-4224-b41a-56455ea0f9f1",
+    "name": "Keller, Eileen",
+    "resolved_employer": "Ideality.com Inc. (dba Blitz Media Labs)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "CEO/founder of Ideality.com Inc. in Austin, an advertising, marketing and PR firm (subsidiary Blitz Media Labs). Media investment strategist; authored advertising textbook, taught at SW Texas State. Past president of Austin Advertising Federation. No lobbyist registration or policy-advocacy PAC record found.",
+    "source_url": "https://www.ideality.com/who-we-are",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin Advertising Federation", "role": "Past President", "category": "business", "source_url": "https://www.ideality.com/who-we-are", "snippet": "Eileen is a past president of the Austin Advertising Federation and was awarded the American Advertising Federation District's Member of the Year (1995-96)."}
+    ]
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "donor_id": "96cfd6ed-9ad7-443a-9592-f8f2a091b5e7",
+    "name": "McConnell, Darcy",
+    "resolved_employer": "Self-employed home furnishings fabricator (Darcy McConnell), San Antonio",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Self-employed home furnishings fabricator in San Antonio 78210 (Southtown/Sadie St). Only 1 FEC donation and no public professional or advocacy profile beyond the generic occupation; no matching TX lobbyist (the only 'Darcy' lobbyist is Darcy Caballero, a different person).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "95bd5d26-8c52-4050-872f-76a2f19072b1",
+    "name": "Lightsey, Rebecca",
+    "resolved_employer": "American Gateways (Co-Executive Director); immigration-rights legal nonprofit, Austin",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Co-Executive Director of American Gateways, an Austin immigrant/refugee legal-services nonprofit; UT Law J.D., former Executive Director of Texas Appleseed and SafePlace, and former Assistant General Counsel to Gov. Ann Richards. Employer, Austin 78704 zip, and 21-donation federal-giving pattern all corroborate identity.",
+    "source_url": "https://www.americangateways.org/staff/lightsey",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "American Gateways",
+        "role": "Co-Executive Director",
+        "category": "civic",
+        "source_url": "https://www.americangateways.org/staff/lightsey",
+        "snippet": "Co-Executive Director of American Gateways, a nonprofit providing immigration legal services, education and advocacy for immigrants, refugees and survivors of persecution in Central Texas since 1987."
+      }
+    ]
+  },
+  {
+    "donor_id": "95067bbd-7790-4a48-accb-9d24d483cf12",
+    "name": "OConor, Elizabeth",
+    "resolved_employer": "Real estate agent, Coldwell Banker D'Ann Harper / Ana Ochoa & Company, Laredo",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Licensed real estate agent (TX license #590535) in Laredo, working with Coldwell Banker D'Ann Harper / Ana Ochoa & Company; office at 7917 McPherson Rd, Laredo 78045 matches donor zip. In the business since 1994 (joined her mother Ana Ochoa). No policy-advocacy or PAC/lobbyist records found.",
+    "source_url": "https://cbharper.com/agent/elizabeth-oconor",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "946da7b4-14ba-4f06-8cfe-e3856ef2ec60",
+    "name": "CROWLEY, JULIA",
+    "resolved_employer": "Clarity Child Guidance Center (Development Manager); children's mental-health nonprofit, San Antonio",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Development (fundraising) Manager at Clarity Child Guidance Center, San Antonio's nonprofit children's mental-health treatment center; San Antonio 78216 address matches. Common name, so no independent bio page confirmed beyond the employer/role; no PAC or lobbyist records tied to this specific person.",
+    "source_url": "https://www.claritycgc.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "93ca201f-f918-4dc6-9b7b-8e9eb4f72949",
+    "name": "hahn, greg",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Public records confirm Gregory Hahn, age ~61, at 7314 Malabar Ln, Dallas, TX 75230 (exact address match); prolific Democratic donor (472 FEC contributions) but no specific ideological PAC or employer profile found. No TX lobbyist registration.",
+    "source_url": "https://unmask.com/Gregory-Hahn/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "932df824-d132-4e2a-8492-091273c523da",
+    "name": "Villarreal, Alejandra",
+    "resolved_employer": "Alejandra I. Villarreal (attorney, private practice)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Justia lawyer directory lists Alejandra I. Villarreal at 2719 Castanet St, San Antonio, TX 78230 (exact address match), J.D. St. Mary's University, licensed 1979, practicing Government & Administrative and Real Estate law. No TX lobbyist registration; no PAC records found.",
+    "source_url": "https://lawyers.justia.com/lawyer/alejandra-i-villarreal-250358",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "925dc8cf-92df-43cf-a483-30f92fa669ee",
+    "name": "Worthing Moon, Robin",
+    "resolved_employer": "Ashling Partners (Chief People Officer); intelligent-automation consulting firm",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Multiple professional sources confirm Robin Worthing Moon as Chief People Officer at Ashling Partners, an intelligent-automation professional-services/consulting firm; prior HR roles at Tesla and Target. FEC count 0; no PAC or lobbyist records.",
+    "source_url": "https://www.zoominfo.com/p/Robin-Moon/15939676694",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "917994c5-dbfb-4510-9dc6-7c5899b9d1ce",
+    "name": "Trehan, Adarsh",
+    "resolved_employer": "Retired senior program analyst, U.S. Dept. of Commerce and Veterans Affairs (retired); Trehan Foundation principal",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Adarsh Trehan, wife of investor/philanthropist Ranvir Trehan, retired as senior program analyst from the US Dept. of Commerce and Veterans Affairs; Trehan Foundation is registered at her 1308 Ballantrae Farm Dr, McLean, VA 22101 address (match). Philanthropic (Kennedy Center India Fund donor); no ideological PAC or lobbyist records found.",
+    "source_url": "https://americanbazaaronline.com/2017/11/27/kennedy-center-receives-1-million-promoting-indian-art-forms/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Trehan Foundation", "role": "Family foundation principal / philanthropist", "category": "civic", "source_url": "https://www.causeiq.com/organizations/trehan-foundation,270073510/", "snippet": "The Trehan Foundation (McLean, VA) is located at the Ballantrae Farm Dr address and prioritizes international development, Indian causes, education and the arts."},
+      {"org": "Gerald R. Ford School of Public Policy (University of Michigan) Committee", "role": "Committee member", "category": "civic", "source_url": "https://fordschool.umich.edu/committee", "snippet": "Adarsh Trehan, retired senior program analyst from the US Dept. of Commerce and Veterans Affairs, is a member of the Ford School Committee."}
+    ]
+  },
+  {
+    "donor_id": "914d621b-90c1-46d1-977a-a294b5d0c8ea",
+    "name": "Wagner, Sherry",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "78209 (Alamo Heights area) donor listed 'Not Employed' with 30 FEC donations. Could not confirm whether she is the notable SA urban designer Sherry Kafka Wagner or one of 55+ other 'Sherry Wagner' entries in Texas; no record ties 506 Elizabeth Rd to a specific profile. No TX lobbyist registration; no ideological PAC affiliation surfaced.",
+    "source_url": "https://www.spokeo.com/Sherry-Wagner/Texas",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "90ad8775-ab56-4bb2-ada9-2bee1009a2fd",
+    "name": "Durso, Laura",
+    "resolved_employer": "Harmonic Strategies LLC (founder, self-employed policy consultant)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "DC 20009 'Consultant, Self-employed' matches Laura E. Durso, founder of DC consulting firm Harmonic Strategies LLC, former VP of CAP's LGBTQ Research & Communications Project and HHS Office for Civil Rights Chief of Staff under Biden-Harris. Location, occupation and self-employed consultant status all corroborate.",
+    "source_url": "https://www.harmonicstrategies.llc/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Harmonic Strategies LLC", "role": "Founder / policy consultant", "category": "business", "source_url": "https://www.harmonicstrategies.llc/", "snippet": "Founder Laura E. Durso, 'a nationally recognized expert and researcher influencing federal, state, and local policy with particular emphasis on the advancement of LGBTQ health and civil rights.'"},
+      {"org": "Center for American Progress", "role": "VP, LGBTQ Research and Communications Project", "category": "civic", "source_url": "https://www.americanprogress.org/about/staff/durso-laura/bio/", "snippet": "Laura E. Durso served as vice president of the LGBT Research and Communications Project at the Center for American Progress, shaping evidence-based LGBTQ public policy."},
+      {"org": "U.S. HHS Office for Civil Rights (Biden-Harris Administration)", "role": "Chief of Staff", "category": "political", "source_url": "https://www.harmonicstrategies.llc/", "snippet": "Chief of Staff at the Office for Civil Rights under the Biden-Harris Administration, helping lead the civil rights and health information privacy agenda."}
+    ]
+  },
+  {
+    "donor_id": "8e7013f0-2d57-4779-b966-fd9bdb74ba76",
+    "name": "Cuellar, Deanne",
+    "resolved_employer": "Institute for Local Self-Reliance (ILSR) — Community Broadband Outreach Team Lead",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "San Antonio 78212 'Tech / ILSR' donor matches DeAnne Cuellar, ILSR's Community Broadband Outreach Team Lead, a San Antonio tech-equity/digital-inclusion advocate. LinkedIn and ILSR staff bio confirm role, city and occupation. No TX lobbyist registration; no ideological PAC affiliation.",
+    "source_url": "https://ilsr.org/about-the-institute-for-local-self-reliance/staff-and-board/deanne-cuellar/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Institute for Local Self-Reliance", "role": "Community Broadband Outreach Team Lead", "category": "civic", "source_url": "https://ilsr.org/about-the-institute-for-local-self-reliance/staff-and-board/deanne-cuellar/", "snippet": "DeAnne Cuellar is a tech equity advocate and communications strategist from San Antonio serving as ILSR's Community Broadband Outreach Team Lead."},
+      {"org": "City of San Antonio Innovation & Technology Committee", "role": "Mayor Nirenberg's digital-inclusion appointee", "category": "civic", "source_url": "https://ilsr.org/about-the-institute-for-local-self-reliance/staff-and-board/deanne-cuellar/", "snippet": "Appointed by Mayor Ron Nirenberg as his digital inclusion representative to the City of San Antonio's Innovation & Technology Committee, establishing policy and funding initiatives to close the digital divide."}
+    ]
+  },
+  {
+    "donor_id": "8d85ed0a-c7c2-4625-a8ed-b86414434665",
+    "name": "Godines, Viola",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Laredo 78041 donor self-reporting 'Not employed' with an extremely prolific 2,440 FEC small-dollar contribution count, consistent with a recurring ActBlue grassroots donor. No public bio, board seat, lobbyist registration, or specific ideological PAC affiliation found; donation pattern alone is not an org affiliation.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Godines+Viola",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8c84a19b-30ac-4d46-bc3f-98042342e913",
+    "name": "Corser, Christine",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as Retired at 10321 Sunflower Ln, San Antonio 78213. A 'Christine Corser - U.S. Public Health Service' LinkedIn exists (would fit a retired federal health-service career) but could not be tied to this SA address/zip, so career is unconfirmed. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Corser+Christine&contributor_city=San+Antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8b939234-9ada-43e0-984d-292d14325753",
+    "name": "Chavez, Isabella",
+    "resolved_employer": "City of San Antonio (Communications Director, self-reported)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Self-reported as Communications Director, City of San Antonio. A ZoomInfo profile shows an Isabella Chavez as Director of Constituent Services at City of San Antonio (plausibly same person, role may have changed), but the donor's listed address is in Killeen (76549), a location mismatch that leaves identity only weakly corroborated. No FEC PAC (0 federal donations) or TX lobbyist records.",
+    "source_url": "https://www.zoominfo.com/p/Isabella-Chavez/10332555663",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8a5d5ca3-9b2c-4432-a76e-3ec09d299f83",
+    "name": "Cigarroa, Martha",
+    "resolved_employer": "Whitworth Cigarroa, PLLC (formerly Person, Whitworth, Borchers & Morales, LLP); Laredo attorney",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Confirmed: Martha Louise Cigarroa, Laredo civil/business/election-law attorney; firm bio lists office at 602 E Calton Rd, Laredo 78041, matching donor address exactly. Prominent Laredo Cigarroa family. No TX lobbyist registration or ideological PAC records found; affiliations are civic/bar.",
+    "source_url": "https://whitworthcigarroa.com/martha-cigarroa/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Casa Misericordia (battered women's shelter)", "role": "General counsel", "category": "civic", "source_url": "https://whitworthcigarroa.com/martha-cigarroa/", "snippet": "General counsel for Casa Misericordia; decades of advocacy for domestic violence victims."},
+      {"org": "Webb County Elections", "role": "Election Judge (since 2010)", "category": "civic", "source_url": "https://whitworthcigarroa.com/martha-cigarroa/", "snippet": "Webb County Election Judge since 2010, ongoing; specializes in election law practice."},
+      {"org": "Society of Martha Washington (Laredo)", "role": "President and board member", "category": "civic", "source_url": "https://whitworthcigarroa.com/martha-cigarroa/", "snippet": "President and board member, Society of Martha Washington."}
+    ]
+  },
+  {
+    "donor_id": "89ae418c-dadf-40dc-9365-e1e91e65c52e",
+    "name": "Crow, Jane",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as Not Employed at 631 W Russell Pl (Monte Vista, San Antonio 78212 — a real address confirmed via Zillow). High FEC donation count (186) indicates a prolific small-dollar/recurring political donor, but no public bio, no board/leadership roles, and no documented ideological PAC or TX lobbyist affiliation were found. Quiet outcome.",
+    "source_url": "https://www.zillow.com/homedetails/631-W-Russell-Pl-San-Antonio-TX-78212/26119179_zpid/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "89776be8-4748-43bb-aafe-b82141f9c8a7",
+    "name": "Marquez, Carlos",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, zip 78210 (South Side San Antonio), $100, 0 FEC donations. 'Carlos Marquez' is a common name; no FEC records, no TX lobbyist registration, and no bio/profile could be tied to this specific retired individual at this address. Search results (e.g., a Cushman & Wakefield commercial broker) do not match a retiree at 78210.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Carlos+Marquez&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "87bdf5eb-1288-44f6-af54-41056a46c735",
+    "name": "Haukohl, Mark",
+    "resolved_employer": "The Vero Group (family investment office), Houston",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Donor address 2001 Holcombe Blvd, Houston 77030 is the registered address of The Vero Group, headed by Sir Mark Fehrs Haukohl (b. 1951), founder/president since 1986, international merchant banker and former Smith Barney managing director. Also chairman of Haukohl Family Philanthropies and noted Florentine Baroque art collector. Uncommon name plus exact address/zip match confirm identity. Prior federal giving includes a 2007 Hillary Clinton candidate contribution; no ideological PAC (AIPAC/oil-gas/etc.) affiliation surfaced.",
+    "source_url": "https://prabook.com/web/mark_fehrs.haukohl/700689",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The Vero Group", "role": "Founder & President", "category": "business", "source_url": "https://start.cortera.com/company/research/l4j4pyo0j/sir-mark-fehrs-haukohl-the-vero-group/", "snippet": "Sir Mark Fehrs Haukohl / The Vero Group, Houston TX 77030 — multinational family investment office founded 1986."},
+      {"org": "Haukohl Family Philanthropies", "role": "Chairman", "category": "civic", "source_url": "https://prabook.com/web/mark_fehrs.haukohl/700689", "snippet": "Mark Fehrs Haukohl is Chairman of The Haukohl Family Philanthropies and a longtime art collector/philanthropist."}
+    ]
+  },
+  {
+    "donor_id": "8546911c-1a0a-44e1-b2ef-8c544215dbc8",
+    "name": "Sandberg, Stephanie",
+    "resolved_employer": "Accordant Advisors (Managing Partner); inclusion/DEI consulting firm, Princeton NJ",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Managing Partner at Accordant Advisors (inclusion/DEI consulting), resides in Princeton, NJ with wife and two daughters — matches 'Consultant, Self' at Princeton 08540. Career includes Executive Director of LPAC (LGBTQ women's PAC), Managing Director at Out Leadership, and media-executive roles (President & Publisher of The New Republic, Publisher of Columbia Journalism Review).",
+    "source_url": "https://accordantadvisors.com/stephanie-sandberg",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Accordant Advisors", "role": "Managing Partner", "category": "business", "source_url": "https://accordantadvisors.com/stephanie-sandberg", "snippet": "Managing Partner at Accordant Advisors (joined 2021), an inclusion-consulting firm; based in Princeton, NJ."},
+      {"org": "LPAC", "role": "Executive Director (former)", "category": "political", "source_url": "https://accordantadvisors.com/stephanie-sandberg", "snippet": "Former Executive Director of LPAC, 'a political action committee dedicated to elevating LGBTQ women as a political force.'"}
+    ]
+  },
+  {
+    "donor_id": "853e0977-bd1a-47c4-9d72-9d66d56aff0a",
+    "name": "Hernandez, Raymond",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Comfort, TX 78013, Not Employed, $100, 101 FEC donations (consistent with a prolific small-dollar Democratic donor). 'Raymond Hernandez' is a common name; FEC API lookup was rate-limited and no bio, employer, or ideological-PAC record could be tied specifically to this individual at 273 Nicks Rd. No TX lobbyist registration. High donation count reflects giving activity, not a documented org affiliation.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Raymond+Hernandez&contributor_city=Comfort&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  }
+]

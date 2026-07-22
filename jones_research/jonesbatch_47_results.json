@@ -1,0 +1,235 @@
+[
+  {
+    "donor_id": "c5e0e7dc-3720-4d4e-a38d-0a19b629401a",
+    "name": "Fitzpatrick, Laurie",
+    "resolved_employer": "Owner, Laura Charlton Designs (self-employed jewelry designer)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Laurie Fitzpatrick owns 'Laura Charlton Designs,' a one-person artisan jewelry business at exactly 16618 Front Royal St, San Antonio, TX 78247 (matches record). No FEC ideological-PAC activity; TX Ethics Commission lobbyist registry returned no registration for this name (only an unrelated John Fitzpatrick).",
+    "source_url": "https://www.jewelrystoresusa.com/usa/tx/san-antonio-tx/charlton-laura-designs",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c54a8c53-862e-4367-8c87-663eb65fe4c4",
+    "name": "Zapata, Julie",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Julie Tilford Zapata is tied in public records to 139 E Lynwood Ave, San Antonio, TX 78212 (exact match); record self-reports 'Not Employed,' though people-search databases list a 'property claims specialist' occupation. No FEC PAC activity and no TX Ethics Commission lobbyist registration found; no advocacy profile.",
+    "source_url": "https://www.spokeo.com/Julie-Zapata/Texas",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c46b719d-9580-43ee-8e91-b8c4a17f1f64",
+    "name": "Ortiz, Jose",
+    "resolved_employer": "The Ortiz Law Firm, PLLC (immigration attorney), Irving TX",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Jose Angel Ortiz runs The Ortiz Law Firm at Irving, TX 75038 (matches record's Irving 75038 / 'Ortiz Law Firm'), a Texas-licensed immigration/Mexican-law practice; the name is very common so the 450-count FEC figure is likely aggregated across namesakes. No TX lobbyist registration or ideological PAC found.",
+    "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=194669",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c3c62753-a801-43f4-ac67-528407d36c64",
+    "name": "Niesen, Sharon",
+    "resolved_employer": "ACI Worldwide (Data Quality Steward, Strategic Operations)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Sharon L. Niesen of San Antonio, TX 78247 is a Data Quality Steward at ACI Worldwide (a payments technology firm), per RocketReach/LinkedIn — matches occupation, employer, and zip on the record. No FEC ideological-PAC activity; TX Ethics Commission lobbyist registry returned no registration for this name.",
+    "source_url": "https://rocketreach.co/sharon-niesen-email_26974995",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c3c5315a-11cd-46be-8401-cfd8ba3f5007",
+    "name": "Aguinaldo, Hildy",
+    "resolved_employer": "DaVita Inc. (Associate/Assistant General Counsel)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Hildegarde 'Hildy' Bello Aguinaldo (CA Bar #270681) is Associate General Counsel at DaVita Kidney Care and a longtime California healthcare attorney; matches attorney/DaVita/California record. No FEC ideological-PAC activity; TX Ethics Commission lobbyist registry returned no registration (she is California-based). Board roles are civic/professional, not partisan PAC advocacy.",
+    "source_url": "https://www.calbright.edu/about/board/hildegarde-b-aguinaldo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Calbright College", "role": "President, Board of Trustees", "category": "civic", "source_url": "https://www.calbright.edu/about/board/hildegarde-b-aguinaldo/", "snippet": "President of Calbright College; previously Vice President of the Board of Governors of the California Community Colleges."},
+      {"org": "Philippine American Bar Association (PABA)", "role": "Past President (2014-2015)", "category": "civic", "source_url": "http://philippineamericanbar.org/?p=1418", "snippet": "NAPABA recognized Aguinaldo as a 2018 awardee; she served as PABA President and advocates for judicial diversity and the Filipino-American community."}
+    ]
+  },
+  {
+    "donor_id": "c3659d1b-0cf8-4b7f-a53a-75aa77324729",
+    "name": "Pratchett, Patrica",
+    "resolved_employer": "Retired; former USAA executive and Co-Founder/Chairman of the Artist Foundation of San Antonio",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Patricia Pratchett, 733 E Woodlawn Ave, San Antonio 78212, is the retired former USAA executive who co-founded (2005, with Bettie Ward) and chaired the Artist Foundation of San Antonio; prior public donation to Beto O'Rourke matches a Democratic lean. No ideological PAC or TX lobbyist registration found.",
+    "source_url": "https://www.zoominfo.com/p/Patricia-Pratchett/1253700069",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Artist Foundation of San Antonio", "role": "Co-Founder & Chairman", "category": "civic", "source_url": "https://sanantonioreport.org/artist-foundation-dissolves-regranting-program-moves-to-luminaria/", "snippet": "Patricia Pratchett co-founded the Artist Foundation of San Antonio in 2005 with Bettie Ward to provide monetary awards to individual local artists."}
+    ]
+  },
+  {
+    "donor_id": "c30bfad4-c690-46ee-93bc-3fe6558203b3",
+    "name": "Vogelsang, Micheal",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Michael L. Vogelsang, age ~81, residing at 13927 Amber Crst, San Antonio, TX 78249 (exact address match); listed as retired. No former career, ideological PAC activity, or TX lobbyist registration found in public records.",
+    "source_url": "https://radaris.com/p/Michael/Vogelsang-USA/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c28e7dcd-4ca6-4303-bb6b-47e7adad871b",
+    "name": "Alfaro, Melissa",
+    "resolved_employer": "District Director for U.S. Rep. Marc Veasey (D-TX)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Melissa Alfaro, originally from San Antonio's Westside, now in Dallas, has served since March 2022 as District Director for Congressman Marc Veasey (D-TX); prior roles in Democratic offices (Pete Gallego, DNC) and Latino Center for Leadership Development, consistent with FEC Democratic lean. No ideological PAC or TX lobbyist registration found.",
+    "source_url": "https://www.legistorm.com/person/bio/358357/Melissa_Alfaro.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c1e7cac8-132d-44d3-a3c8-d93e60dc34b7",
+    "name": "Gonzalez, Juanita",
+    "resolved_employer": "President & CEO of Webhead (San Antonio digital/cybersecurity firm); Chair, CPS Energy Board of Trustees",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Juanita 'Janie' Martinez Gonzalez, of San Antonio's Westside (78207), co-founded and is CEO of Webhead, a minority-owned tech/cybersecurity firm serving DoD and government; also serves as Chair of the CPS Energy board. No ideological PAC or TX lobbyist registration found.",
+    "source_url": "https://sanantonioreport.org/city-council-confirms-webhead-ceo-janie-gonzalez-to-cps-energy-board/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "CPS Energy Board of Trustees", "role": "Chair / Trustee", "category": "civic", "source_url": "https://sanantonioreport.org/city-council-confirms-webhead-ceo-janie-gonzalez-to-cps-energy-board/", "snippet": "San Antonio City Council confirmed Webhead CEO Janie Gonzalez to the CPS Energy board, where she serves as chair."}
+    ]
+  },
+  {
+    "donor_id": "c0898c9d-25c1-45b1-b01b-12087ec3ce66",
+    "name": "Stuart, James",
+    "resolved_employer": "Not Employed (Winnetka, IL)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "James Stuart of Winnetka, IL (wealthy Chicago North Shore suburb) is a prolific FEC donor (231 contributions, near-center lean 0.16) listed as Not Employed; the common name could not be tied to a specific bio. No ideological PAC ties confirmed and no TX lobbyist registration; the specific individual could not be resolved.",
+    "source_url": "https://www.city-data.com/elec2/84/elec-WINNETKA-IL-84.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bf8e5d2f-1d96-4267-bdf7-cb57685246ba",
+    "name": "Strickland, Lisa",
+    "resolved_employer": "Strickland Strategies Inc (Lisa Breen Strickland) — nonprofit fundraising/executive coaching consultant, Los Osos CA",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Harvard-trained nonprofit consultant based in Los Osos; founder/principal of Strickland Strategies serving nonprofits on fund development, board retreats and strategic planning; prior domestic-violence-agency and foundation career. No ideological PAC ties; not found in TX Ethics Commission lobbyist registry.",
+    "source_url": "https://www.stricklandsv.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bdb7dfdb-43fc-4ec2-9cc4-311a8eef9c67",
+    "name": "Priestley-Collins, Lyndsey",
+    "resolved_employer": "The Pivot Group (Democratic political consulting firm) — Account Executive / Political Strategist",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Account Executive and political strategist at The Pivot, a Democratic voter-persuasion/political consulting firm; Florida native (St. Petersburg ties), master's from King's College London; previously an Independent Expenditure coordinator at End Citizens United. Not found in TX Ethics Commission lobbyist registry.",
+    "source_url": "https://www.thepivot.com/staff/lyndsey-priestley-collins/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The Pivot Group", "role": "Account Executive / Political Strategist", "category": "political", "source_url": "https://www.thepivot.com/staff/lyndsey-priestley-collins/", "snippet": "Account Executive and Political Strategist managing voter-persuasion programs for Democratic-aligned campaigns."},
+      {"org": "End Citizens United", "role": "Independent Expenditure Political Coordinator (former)", "category": "political", "source_url": "https://www.thepivot.com/staff/lyndsey-priestley-collins/", "snippet": "Prior role as Independent Expenditure Political Coordinator at End Citizens United (campaign-finance-reform PAC)."}
+    ]
+  },
+  {
+    "donor_id": "bbe2158f-4af5-4344-a73e-792e2071b3e2",
+    "name": "Shiffman, Michael",
+    "resolved_employer": "Self-employed attorney (real estate/business law), Mill Valley/Marin County CA — CA Bar #58293",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Michael A. Shiffman, self-employed attorney in Mill Valley (94941), admitted to CA bar 1973 (#58293), real property/business practice; FEC records list a Mill Valley 94941 self-employed attorney 'Michael Shiffman' donating to Democratic candidates (John Edwards 2007), corroborating the same person. No ideological PAC ties; not found in TX Ethics Commission lobbyist registry.",
+    "source_url": "http://members.calbar.ca.gov/fal/Licensee/Detail/58293",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bbd86871-ee96-4f18-8129-790fb0e51bd9",
+    "name": "Yates, Devaron",
+    "resolved_employer": "Wealth Development Strategies, LLC (Houston) — President & CEO, CFP financial planner",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Devaron M. Yates, CFP/CPWA/ChFC, President & CEO of Wealth Development Strategies (Houston financial-planning firm); 21-year industry veteran, MDRT Top of the Table; resides in Richmond TX suburb. FEC lean 1.0 across 12 gifts = consistent Democratic donor; no ideological PAC affiliation found; not in TX lobbyist registry.",
+    "source_url": "https://www.wealthdevelopmentstrategies.com/team/devaron-yates",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "American Leadership Forum, Houston Chapter", "role": "Board member", "category": "civic", "source_url": "https://www.wealthdevelopmentstrategies.com/team/devaron-yates", "snippet": "Board member of American Leadership Forum's Houston Chapter."},
+      {"org": "Project Row Houses (Houston arts nonprofit)", "role": "President Emeritus", "category": "civic", "source_url": "https://www.wealthdevelopmentstrategies.com/team/devaron-yates", "snippet": "President Emeritus of Project Row Houses, a Houston community arts nonprofit."}
+    ]
+  },
+  {
+    "donor_id": "bb72189f-b227-47d7-841b-7e573e6930fe",
+    "name": "Salem, Elvira",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Self-reported Not Employed, PO Box in Royal Palm Beach FL; no FEC/PAC record, no TX Ethics Commission lobbyist registration, and no public profile could be matched to confirm this specific individual. Identity uncorroborated.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b90b6e56-11cf-42aa-87dc-4e9760fb6719",
+    "name": "Ward, Jane",
+    "resolved_employer": "Not employed (homemaker/private individual)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Jane Catherine Ward (aka Jane C Schafer), ~39, confirmed at 125 Blantyre Ave, Centerville MA 02632 via people-search records; previously lived Anchorage AK. No FEC/OpenSecrets individual-contribution or PAC records and no TX Ethics Commission lobbyist registration found; occupation self-reported 'Not Employed.'",
+    "source_url": "https://checkpeople.com/name/Jane-Ward/3",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b8451268-d59b-48db-aac5-502743421913",
+    "name": "Fein-Zachary, Valerie",
+    "resolved_employer": "Dr. Valerie J. Fein-Zachary, diagnostic radiologist, Beth Israel Deaconess Medical Center / Harvard Medical Faculty Physicians (retired)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Distinctive name resolves to Dr. Valerie J. Fein-Zachary, a Boston/Lynn MA diagnostic radiologist affiliated with Beth Israel Deaconess (grad 1982, 40+ yrs); North Truro is a Cape Cod residence. Donor lists 'Retired,' consistent with that career (retired). No ideological PAC or TX lobbyist registration found.",
+    "source_url": "https://www.healthcare4ppl.com/physician/massachusetts/lynn/valerie-j-fein-zachary-1578557633.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b7dd3453-b07e-410e-a76d-2fe599a6beb8",
+    "name": "Kashyap, Vikram",
+    "resolved_employer": "Dr. Vikram Kashyap, MD, psychiatrist (child & adolescent), Laurel Ridge Treatment Center, San Antonio",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "People-search record ties Vikram Kashyap, age 48, to 7810 Hermosa (Hl/Dr), San Antonio 78256 — matches a San Antonio psychiatrist Dr. Vikram Kashyap, MD (UTMB residency, Laurel Ridge). Donor self-reports 'Not Employed'; name+address match strong but occupation mismatch keeps confidence medium. No ideological PAC or TX lobbyist registration found.",
+    "source_url": "https://inforver.com/view/Vikram-Kashyap-BbAMEHC",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b6c725eb-1c0a-4888-9343-8444e2e527f9",
+    "name": "Chapman, Steve",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "'Steve/Stephen Chapman' in Lake Oswego OR is a very common name with multiple matches; the record's address/zip are internally inconsistent (zip 13048 is NY). FEC/OpenSecrets shows a frequent small Dem-leaning donor pattern (54 gifts, lean 0.57) but no specific ideological PAC ties confirmed and the specific individual/employer cannot be verified; no TX lobbyist registration.",
+    "source_url": "https://www.spokeo.com/Stephen-Chapman/Oregon",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b6565fff-c689-47b7-b4ef-2fc21a5445a2",
+    "name": "Jacinto, Alberto",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No public professional profile found for Alberto Jacinto at 126 Adelphia Ave, San Antonio 78214; self-reported 'Not Employed.' No FEC/OpenSecrets individual-contribution or ideological PAC records and not in the Texas Ethics Commission lobbyist registry. Identity beyond the donation record could not be confirmed.",
+    "source_url": "https://www.opensecrets.org/donor-lookup",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  }
+]

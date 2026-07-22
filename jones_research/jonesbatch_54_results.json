@@ -1,0 +1,239 @@
+[
+  {
+    "donor_id": "48e2df05-5ac0-4400-8aad-c3b19a756da8",
+    "name": "Cain, Elizabeth",
+    "resolved_employer": "U.S. military / federal government (Dept. of Defense area, Arlington VA)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Donor occupation 'Gov' and employer 'Military' with an Arlington, VA 22202 address (Pentagon/Crystal City area). FEC individual-contribution history shows 201 prior donations with a fully Democratic lean (1.0), consistent with a prolific small-dollar ActBlue-style donor, but 'Elizabeth Cain' is a common name and no single public profile, bio, or ideological-PAC record could be uniquely tied to this individual. Industry classified from stated federal/military employer; no documented board or advocacy affiliation.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Elizabeth+Cain&contributor_state=VA",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4825ea67-4383-4331-beb1-2704397604a5",
+    "name": "Bussey, Mark",
+    "resolved_employer": "Bussey Law Group PC (personal-injury law firm, Decatur/Atlanta GA)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Mark E. Bussey is a licensed Georgia personal-injury attorney and principal of Bussey Law Group (firm founded 1978), matching the donor's occupation 'Attorney,' employer 'Bussey Law Group,' and Decatur GA 30031 PO Box. Confirmed via Lawyer Legion, Avvo, and LinkedIn attorney listings. No FEC ideological-PAC record, no TX lobbyist registration, and no board/advocacy affiliation found.",
+    "source_url": "https://lawyers.lawyerlegion.com/georgia/mark-e-bussey-04002733",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4788a4c2-f58a-4eac-abdc-2bef2afff64f",
+    "name": "Morales, Leslie",
+    "resolved_employer": "DHI Mortgage (San Antonio, TX)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Donor occupation 'Loan Processor' and employer 'DHI Mortgage' with a San Antonio 78232 address; DHI Mortgage operates San Antonio East/West branches. Mortgage loan processing places the donor in the Finance industry. No public bio, board seat, ideological PAC record, or TX lobbyist registration found for this individual (a quiet, expected result for a common name in an operational role).",
+    "source_url": "https://www.dhimortgage.com/branches/texas/san-antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "477c70d1-99d8-4132-9528-be85282ab012",
+    "name": "Connell, Richard",
+    "resolved_employer": "Retired (former career not publicly documented)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor is self-described 'Retired'/'Retired' at 11704 Hobbiton Trl, Austin, TX 78739, corroborated by the Gina Jones campaign finance filing. FEC count is 0 and no public bio, obituary, LinkedIn, or professional profile could be uniquely tied to this individual to establish a former career. No ideological-PAC record or TX lobbyist registration found. Industry left null per retiree guidance where prior career is unidentifiable.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003287_20250403_171242.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "47367abb-7c64-4fa5-88cc-fc2c5cc77979",
+    "name": "Callahan, Helen",
+    "resolved_employer": "Frontwood Strategies LLC (founder; strategic communications / public affairs firm)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Helen 'Nell' McGarity Callahan is founder of Frontwood Strategies, a strategic communications/public affairs firm, matching the donor's occupation 'Founder,' employer 'Frontwood Strategies,' and Arnold, MD 21012 address. Prior roles: Managing Director & Chief of Staff at SKDKnickerbocker, Press Secretary to U.S. Sen. Jeanne Shaheen, Director at The Glover Park Group, and Kerry-Edwards 2004 staff. Her issue campaigns (marriage equality, Center for Constitutional Rights/Guantanamo, Puerto Rico debt) are client/professional work, not personal ideological affiliations, so none are recorded. No FEC ideological-PAC record or TX lobbyist registration found; her federal registration history reflects her public-affairs firm rather than a personal advocacy affiliation.",
+    "source_url": "https://www.frontwoodstrategies.com/who-we-are",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "46cbda31-ad42-4b9b-864b-cab323d7c502",
+    "name": "Bray, Elizabeth",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Filing lists occupation and employer as 'Not Employed.' Address 3736 Bee Caves Rd Ste PM 1 is a private mailbox at West Lake Mail (a commercial mail-drop building in West Lake Hills), not a residence. She is a prolific small-dollar donor (FEC count 299, lean 1.0 all-Democratic) but no ideological/issue PAC ties (AIPAC, J Street, oil & gas, gun, defense) and no board/civic roles could be corroborated to this specific individual; a same-name 'Elizabeth B.' advisory-board LinkedIn could not be confirmed as the same person. No TX Ethics Commission lobbyist registration found.",
+    "source_url": "https://www.loopnet.com/property/3736-bee-caves-rd-west-lake-hills-tx-78746/48453-110991/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4489bf33-79c6-4005-bc84-454118e5bb5b",
+    "name": "Espronceda, Jennifer",
+    "resolved_employer": "Espronceda Law PLLC",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Founder and managing member of Espronceda Law PLLC (est. 2011), a San Antonio family-law firm (divorce, custody, support); UT School of Law graduate and former UTSA adjunct faculty. Serves on the Board of Directors of the National Domestic Violence Hotline. No TX lobbyist registration and no ideological/issue PAC ties found.",
+    "source_url": "https://sawoman.com/2025/07/profile-jennifer-espronceda/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National Domestic Violence Hotline", "role": "Board of Directors member", "category": "civic", "source_url": "https://sawoman.com/2025/07/profile-jennifer-espronceda/", "snippet": "Profile notes Jennifer Espronceda serves on the Board of Directors of the National Domestic Violence Hotline, reflecting domestic-violence victim advocacy."}
+    ]
+  },
+  {
+    "donor_id": "43cbce21-c820-4bdb-81da-b4d99f675881",
+    "name": "Rios, Jose",
+    "resolved_employer": "Gamez Law Firm (Joe A. Gamez Law Firm, PLC)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Personal-injury/wrongful-death trial attorney at the Gamez Law Firm in San Antonio; Texas State Bar member; Super Lawyers 'Rising Stars' (2021). Member of the Texas Trial Lawyers Association, San Antonio Trial Lawyers Association, and San Antonio Bar Association. No TX lobbyist registration and no ideological/issue PAC ties found.",
+    "source_url": "https://joegamezlaw.com/attorney/jose-l-rios/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Trial Lawyers Association", "role": "Member", "category": "civic", "source_url": "https://joegamezlaw.com/attorney/jose-l-rios/", "snippet": "Firm bio lists Rios as a member of the Texas Trial Lawyers Association, San Antonio Trial Lawyers Association, and San Antonio Bar Association."}
+    ]
+  },
+  {
+    "donor_id": "43aca1da-5953-4675-b732-8a97d0e2ff86",
+    "name": "Axelrod, Carol",
+    "resolved_employer": "Rasi Associates",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Licensed Independent Clinical Social Worker (LICSW) / psychotherapist in the Boston area who works as a career consultant at Rasi Associates (a career-consulting firm; her email domain rasiassociates.com corroborates the tie); Dedham, MA resident. Occupation on filing is 'social worker.' FEC count 0; appears in MA OCPF records only. No TX lobbyist registration (out-of-state) and no ideological/issue PAC ties found. A same-name Brookline library/public-health board affiliation could not be reliably confirmed as this individual, so it is omitted.",
+    "source_url": "https://www.healthgrades.com/providers/carol-axelrod-2fyxt",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "411cf138-43e2-438b-9bb9-205b5f81838f",
+    "name": "Jaimes, Nasario",
+    "resolved_employer": "Down Ballot Climate Partners",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Strategic Partnerships Manager at Down Ballot Climate Partners, a for-profit political-consulting/advocacy firm that directs left-of-center donor funding to local candidates supporting climate/clean-energy policy. Austin-based (filing street number 10315, zip 78758; listed 'zip 10315' is a data error). LinkedIn (Nasario Zenen Jaimes Perez) describes a nonprofit and political-strategy career. No TX Ethics Commission lobbyist registration and no other issue/ideological PAC ties found.",
+    "source_url": "https://www.influencewatch.org/for-profit/down-ballot-climate-partners-llc/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Down Ballot Climate Partners", "role": "Strategic Partnerships Manager", "category": "political", "source_url": "https://jobs.climatedraft.org/companies/down-ballot-climate-partners/jobs/25868058-strategic-partnerships-manager", "snippet": "Employed as Strategic Partnerships Manager at Down Ballot Climate Partners, a firm working to elect down-ballot 'climate champions' and shift funding toward clean-energy/environmental-justice local candidates."}
+    ]
+  },
+  {
+    "donor_id": "4056223a-a8c8-47ec-82c7-25b3d0d00fb0",
+    "name": "Castillo, Patricia",
+    "resolved_employer": "Co-founder & Executive Director, The P.E.A.C.E. Initiative (Putting an End to Abuse through Community Efforts), San Antonio domestic-violence nonprofit",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Patricia S. Castillo, LMSW (Our Lady of the Lake University, Worden School of Social Work), co-founded the P.E.A.C.E. Initiative in 1990 and serves as its Executive Director; 35+ years ending violence against women and families in San Antonio. Donor's 'Social Worker' occupation, 'PEACE Initiative' employer, and San Antonio 78227 location match exactly. Heavy small-dollar Democratic pattern (fec_count 154, lean 0.78). No ideological PAC contributions or Texas lobbyist registration found; her advocacy is issue-based (domestic violence).",
+    "source_url": "https://sanantonioreport.org/patricia-castillo-an-advocate-for-san-antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The P.E.A.C.E. Initiative", "role": "Co-founder & Executive Director", "category": "civic", "source_url": "https://sanantonioreport.org/patricia-castillo-an-advocate-for-san-antonio/", "snippet": "Patricia Castillo founded and leads the P.E.A.C.E. Initiative, a domestic violence education nonprofit; she co-founded the Family Assistance Crisis Team (FACT) with the San Antonio Police Department's Special Victims Unit."}
+    ]
+  },
+  {
+    "donor_id": "40383e9a-9c92-471d-9c15-2a53e6b46515",
+    "name": "HILL, Frederick",
+    "resolved_employer": "Owner & President, The Hill Group (American Indian-owned 8(a) federal management-consulting firm, Washington DC / Albuquerque NM)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Fred (Frederick) Hill is founder/owner-president of The Hill Group, a management-consulting/federal-contracting firm he built from a one-person shop in 1998; a Chickasaw Nation member and lifelong Washingtonian with roots in Penn Quarter (912 F St NW, DC 20004 is in Penn Quarter). 'Entrepreneur'/'The Hill Group' occupation-employer and DC 20004 location match. He is running for DC Council in 2026 (fredhill4dc.com). His mixed/bipartisan giving (fec_count 54, lean 0.0) is consistent with an 8(a) federal contractor and city appointee. No Texas lobbyist registration; no ideological PAC contributions found.",
+    "source_url": "https://thehillgroup.com/executive-leadership/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "DC Board of Zoning Adjustment (BZA)", "role": "Chairman (mayor-appointed, DC Council-confirmed)", "category": "civic", "source_url": "https://fredhill4dc.com/about/", "snippet": "Most recently served as Chairman of the DC Board of Zoning Adjustment, where he heard more than 2,000 cases and chaired over 400 public hearings."},
+      {"org": "DC Council (2026 candidate)", "role": "Candidate for office", "category": "political", "source_url": "https://fredhill4dc.com/about/", "snippet": "'Fred Hill 2026' campaign — entrepreneur and public servant running for DC office; active in Federal City Council, Leadership Greater Washington, and the Chamber of Commerce."}
+    ]
+  },
+  {
+    "donor_id": "3f8516e2-35a4-4df2-8571-8822222bfb48",
+    "name": "Huntzinger, Therese",
+    "resolved_employer": "Solo criminal-defense / juvenile-defense attorney (Law Office of Therese M. Huntzinger), San Antonio; former Bexar County Assistant District Attorney (12 years)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Therese M. Huntzinger is a San Antonio criminal-defense and juvenile-law attorney (St. Mary's University School of Law, licensed ~39 years) practicing solo, who previously served as an Assistant District Attorney for 12 years. Donor's 'lawyer'/'self' occupation and San Antonio location match; State Bar of Texas and Avvo (78212) profiles corroborate. Consistently Democratic small-dollar pattern (fec_count 63, lean 1.0). No ideological PAC contributions or Texas lobbyist registration found.",
+    "source_url": "https://lawyers.lawyerlegion.com/texas/therese-m-huntzinger-28001284",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3e59c418-8906-42b4-a7f8-9942642fe1c5",
+    "name": "Panchevre, Samuel",
+    "resolved_employer": "Owner/Executive Director, Aztec Family Group LLC (owns the historic Aztec Theatre); owner of Sam's Burger Joint, Smoke BBQ + Riverbar, and La Villita restaurant concepts",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Sam (Samuel) Panchevre is a San Antonio hospitality/entertainment-venue operator and developer: owner/Executive Director of the Aztec Family Group (owner of the Aztec Theatre building), founder of Sam's Burger Joint live-music venue (est. 1999), co-owner of Smoke BBQ + Riverbar on the River Walk, and lessee redeveloping the former Little Rhein/Fig Tree spaces in La Villita. Donor's 'Self employed'/'Aztec Family Group' occupation-employer and San Antonio 78202 location match. Consistently Democratic pattern (fec_count 28, lean 1.0). No ideological PAC contributions or Texas lobbyist registration found.",
+    "source_url": "https://sanantonioreport.org/after-25-years-sams-burger-joint-is-attracting-a-new-generation-of-live-music-fans/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3e076ee2-e610-4090-9120-f3e41ddab544",
+    "name": "Conrad, Allan",
+    "resolved_employer": "Retired Owner, ImageWare Corporation (imaging/technology) (retired)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "An Allan Conrad LinkedIn profile identifies him as 'Retired Owner, ImageWare Corporation,' and public-records aggregators place an Allan S. Conrad in San Antonio, TX — consistent with the donor's 'Not Employed' status and San Antonio 78212 (Monte Vista) location. Extremely prolific small-dollar Democratic donor (fec_count 767, lean 1.0), consistent with a retired local Democratic activist. Former career classified as Technology (retired). No specific advocacy-org membership, ideological PAC contribution, or Texas lobbyist registration documented.",
+    "source_url": "https://www.linkedin.com/in/allan-conrad-1618973a",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3d0e5646-ccae-4099-876d-ed5453233066",
+    "name": "Cortez, Ana",
+    "resolved_employer": "Ram Practice Management, Inc.",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Address (Manor, TX 78653) and employer 'Ram Practice Management Inc.' match Ana L. Cortez, founder/CEO of Ram Practice Management, a Manor-based healthcare and business practice-management consulting firm (BBB lists it as a Medical Service Organization, sole proprietorship). She is also President of the Manor ISD Board of Trustees, a NALEO board member, and past president of the Mexican American School Boards Association. Not found in TX Ethics Commission lobbyist registry (appears only as a school-board candidate); no ideological/single-issue PAC ties surfaced.",
+    "source_url": "https://voyageaustin.com/interview/inspiring-conversations-with-ana-cortez-of-manor-isd-president-naleo-board-of-director-ceo-owner-of-ram-practice-management-inc",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Manor Independent School District", "role": "Board of Trustees President", "category": "civic", "source_url": "https://www.manorisd.net/about-us/board-of-trustees/meet-the-board/ana-cortez", "snippet": "First Latina and youngest elected Manor ISD trustee; serves as Board President (as of Dec 2024)."},
+      {"org": "National Association of Latino Elected and Appointed Officials (NALEO)", "role": "Board Member", "category": "civic", "source_url": "https://voyageaustin.com/interview/inspiring-conversations-with-ana-cortez-of-manor-isd-president-naleo-board-of-director-ceo-owner-of-ram-practice-management-inc", "snippet": "Listed as a board member of NALEO, a nonpartisan national organization of Latino elected officials."},
+      {"org": "Mexican American School Boards Association", "role": "Past President", "category": "civic", "source_url": "https://voyageaustin.com/interview/inspiring-conversations-with-ana-cortez-of-manor-isd-president-naleo-board-of-director-ceo-owner-of-ram-practice-management-inc", "snippet": "Served as President of the Mexican American School Boards Association."}
+    ]
+  },
+  {
+    "donor_id": "398ce36a-7455-4bc6-a07a-0c78986b5d12",
+    "name": "Merritt, Tammy",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor self-reports 'Not Employed' at 1310 Q St NW, Washington, DC 20009; FEC count 0. No public professional profile, bio page, board seat, or PAC/lobbyist record could be corroborated to this individual at this address. Quiet result; no affiliation asserted.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3850aad4-d832-4766-9415-adee2475a925",
+    "name": "McGinley, Ann",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Travis County property records confirm the identity as 'McGinley Ann Lee' (co-owner with J.B. Lee) at 4113 Ramsey Ave, Austin, TX 78756, matching the donor address. Donor self-reports 'Not Employed'; FEC count 72 with a fully Democratic lean indicates a frequent small-dollar Democratic donor, but no employment history, career profile, board seat, or ideological/single-issue PAC affiliation could be documented. Not in TX Ethics Commission lobbyist registry.",
+    "source_url": "https://www.city-data.com/austin-properties/R/Ramsey-Avenue-3.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "37ea390e-4a65-4b54-b0d0-fa3f9e58e7ae",
+    "name": "Harris, Elizabeth",
+    "resolved_employer": "Law Office of Elizabeth A. Harris (solo practitioner)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "State Bar of Texas 'Find A Lawyer' lists Elizabeth A. Harris at PO Box 2680, Evergreen, CO 80437-2680 — an exact match to the donor address and occupation (Attorney, self-employed). Solo practitioner licensed in CO, KS, and OK; practice areas include ADR, labor-employment, wills/trusts/probate, LGBT law, and oil/gas/energy resources (client-representation practice areas, not an ideological affiliation). No documented board seats or ideological/single-issue PAC ties.",
+    "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=170976",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "37dd9ea9-78cc-426f-8bdb-c2952bf07d79",
+    "name": "Erickson, Lanae",
+    "resolved_employer": "Third Way",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Donor's stated employer 'Third Way' and DC location match Lanae Erickson, Senior Vice President for Social Policy, Education & Politics at Third Way, a centrist/center-left Democratic policy think tank in Washington, DC. She holds a J.D. from University of Minnesota and previously worked at the Alliance for Justice, Legal Rights Center, and Center for Victims of Torture. Her role is a documented public leadership position; classified as a political/policy affiliation via her employer, not an ideological single-issue PAC.",
+    "source_url": "https://www.thirdway.org/about/staff/lanae-erickson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Third Way", "role": "Senior Vice President for Social Policy, Education & Politics", "category": "political", "source_url": "https://www.thirdway.org/about/staff/lanae-erickson", "snippet": "Senior VP leading Third Way's social-policy and politics work (immigration, abortion, guns, higher ed) at the centrist Democratic think tank; frequent commentator in Washington Post, NYT, Politico."}
+    ]
+  }
+]

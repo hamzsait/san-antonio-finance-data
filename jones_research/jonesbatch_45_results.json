@@ -1,0 +1,232 @@
+[
+  {
+    "donor_id": "e1e0b98e-4d9b-4063-835f-c783f47854c3",
+    "name": "Evans, Brian",
+    "resolved_employer": "The University of Texas at Austin (Dept. of Electrical & Computer Engineering)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Dr. Brian L. Evans, Engineering Foundation Professor of ECE at UT Austin since 1996; occupation (Professor), employer (UT Austin), and Austin 78759 zip all match the donor filing. IEEE Fellow, 2021 UT Civitatis Award.",
+    "source_url": "https://ece.utexas.edu/people/faculty/brian-evans",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e13ab322-19df-4bac-95f9-7ca8565d638d",
+    "name": "Fauerso, Johanna",
+    "resolved_employer": "Texas State University (School of Art & Design) — Associate Professor",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Johanna 'Joey' Fauerso, Associate Professor of art at Texas State University who lives in San Antonio; 2022 Guggenheim Fellow. FEC records list 'Johanna Fauerso,' San Antonio 78210, professor at Texas State, matching the donor exactly (made a small 2018 Beto O'Rourke candidate contribution, not an ideological PAC).",
+    "source_url": "https://faculty.txst.edu/profile/1921504",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e131f506-fcaa-4a28-ba7d-be297ac95acc",
+    "name": "Wright, Colin",
+    "resolved_employer": "Self-employed (attorney)",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Filing lists a self-employed attorney in Palm Springs 92264. A Colin Wright who is an IP/product attorney recently relocated to Palm Springs, CA, but he is listed as employed (in-house IP counsel), not self-employed, and the specific 2823 S Palm Canyon Dr address could not be confirmed. 'Colin Wright' is a common name; identity not verified. Industry (Legal) drawn from the unambiguous stated occupation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e0b4fd4f-c6b4-4682-b400-dee3782c9201",
+    "name": "Moore, Matt",
+    "resolved_employer": "H-E-B (software engineer)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Filing lists a software engineer at H-E-B in San Antonio 78229. 'Matt/Matthew Moore' is a very common name and no specific public profile could be tied to the Winterwood Pl address; H-E-B does employ software engineers in San Antonio. Industry (Technology) derived from the stated occupation/employer, not a confirmed individual.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e0982915-ad7e-41d6-b8ea-0528217f0041",
+    "name": "Montejano, David",
+    "resolved_employer": "Retired historian/sociologist (formerly professor at UC Berkeley & UT Austin)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "David Montejano (b. 1948), historian/sociologist and author of 'Anglos and Mexicans in the Making of Texas,' now retired from UC Berkeley and returned to his native San Antonio with wife Veronica — matching the 'Retired,' San Antonio 78201 filing. Former State Commissioner, Texas Commission on the Arts (1992-1998). Industry reflects his academic career field; he is retired.",
+    "source_url": "https://en.wikipedia.org/wiki/David_Montejano",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dff8cc67-bb22-4e1b-b23c-99d969522574",
+    "name": "Kumley, Lloyd",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Public records confirm Lloyd S Kumley at 5906 Kissing Oak St, San Antonio TX 78247-1320 (exact donor-address match), associations 2022-2024. Listed 'Not Employed'; internal fec_donation_count of 104 is consistent with a prolific small-dollar (ActBlue-style) donor, though individual FEC records could not be retrieved (FEC API rate-limited). A 'Lloyd Kumley' chairs the Lakeside Freethinkers, a secular-humanist group near Lake Chapala, Mexico; plausibly the same retiree but not confirmed, and freethought/secular is not a tracked policy-advocacy category.",
+    "source_url": "https://nuwber.com/person/563aa11998f8a849c19b9815",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dda07c5e-3dcc-4815-99b0-dbe4c7a816b4",
+    "name": "Benson, Pam",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, 5700 Lands End St, Austin TX 78734 (Lakeway area). 'Pam/Pamela Benson' is a common name; the only prominent match (Pamela Benson Owens, a Round Rock consultant) is a different, non-retired person. No FEC PAC record, Texas lobbyist registration, or confirmable public profile for this specific retiree. Quiet result.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dd8d8b29-ef48-4b82-b179-74031041682b",
+    "name": "Walch, Becky",
+    "resolved_employer": "Registered Nurse (donor filing lists SAISD; LinkedIn lists Clinical Director, RN, Good Samaritan Center of Fredericksburg, TX)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "LinkedIn identifies Becky Walch as Clinical Director, RN at Good Samaritan Center of Fredericksburg TX; Stonewall 78671 is in Gillespie County adjacent to Fredericksburg, matching the donor address and 'Nurse' occupation. Donor filing lists employer as SAISD; either a prior/other role or a filing artifact. LinkedIn full page could not be loaded (HTTP 999), so employer read from search snippet only.",
+    "source_url": "https://www.linkedin.com/in/becky-walch-895157a1/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dc6d0fdf-d9e3-4815-b768-3dfcf33f35f2",
+    "name": "Rankin, Cynthia",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Not Employed, 9351 Bianca, San Antonio TX 78254. 'Cynthia Rankin' returns 200+ people-search matches nationally with no confirmable link to this address, occupation, or the Jones donation. No FEC PAC record or Texas lobbyist registration found. Quiet result.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "db3f40f9-aa7d-4f24-ad15-2099092696e8",
+    "name": "Godinez, Teresa",
+    "resolved_employer": "Quality Urgent Care (donor filing); Dr. Teresa M. Godinez, MD, Internal Medicine, San Antonio",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Doximity/US News confirm Dr. Teresa M. Godinez, MD, board-certified Internal Medicine physician in San Antonio (UTMB School of Medicine 1997, ~27 yrs practice). Occupation 'physician' and San Antonio location (78209, Alamo Heights) match the donor record; employer listed as Quality Urgent Care, an existing San Antonio urgent-care group. No FEC PAC or Texas lobbyist activity found.",
+    "source_url": "https://www.doximity.com/pub/teresa-godinez-md",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d762f822-0775-4012-a032-b0b17763e611",
+    "name": "Schwartz, Robin",
+    "resolved_employer": "Barrett Financial Group, LLC",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Confirmed loan originator/mortgage broker at Barrett Financial Group (NMLS #1223232), licensed in FL, lifelong Miami resident specializing in condo financing; matches occupation and Miami FL location on file.",
+    "source_url": "https://www.barrettfinancial.com/robin-schwartz",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d67b0424-ccc7-4f91-b24b-5fa5e704fe40",
+    "name": "Aranda, Mitchel",
+    "resolved_employer": "USAA Federal Savings Bank (business analyst)",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Could not locate a public profile confirming this specific individual; USAA is a San Antonio-based bank/financial institution consistent with the listed Business Analyst occupation, so industry assigned by employer fallback only. No FEC PAC or Texas lobbyist records found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d420c0c8-f450-4339-a5ea-4e3eb58f9f33",
+    "name": "Mendoza, Eva",
+    "resolved_employer": "San Antonio ISD — Chief Information Technology Officer",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Evangelina 'Eva' Mendoza, Chief Information Technology Officer at San Antonio ISD since 2012; corroborated by CoSN and Texas Ed Tech Leaders profiles; San Antonio location matches.",
+    "source_url": "https://www.cosn.org/person/evangelina-mendoza/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Education Technology Leaders (TETL)", "role": "Board member", "category": "civic", "source_url": "https://www.cosn.org/person/evangelina-mendoza/", "snippet": "Board member, Texas Education Technology Leaders (TETL), the Texas chapter of CoSN; provides guidance on privacy, security policies and best practices to districts statewide."},
+      {"org": "Digital Inclusions Alliance of San Antonio (DIASA)", "role": "Member", "category": "civic", "source_url": "https://www.cosn.org/person/evangelina-mendoza/", "snippet": "Member, Digital Inclusions Alliance of San Antonio (DIASA); prioritizes digital inclusion and equity, partnering with Bexar County and the City of San Antonio on LTE network infrastructure."}
+    ]
+  },
+  {
+    "donor_id": "d3f74048-8a83-44c2-bc49-e05ab0b6e624",
+    "name": "Glenney, Karen",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Address 314 Callaghan Ave, San Antonio TX 78210 (Lavaca neighborhood) confirmed via real-estate records; no employer per filing (Not Employed). No occupational/public profile found to add detail. No FEC PAC or Texas lobbyist records found.",
+    "source_url": "https://www.har.com/homedetail/314-callaghan-ave-san-antonio-tx-78210/331057",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d35469f7-bdbf-4d67-80b9-ba9f1424449e",
+    "name": "Evergreen, Alice",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "A Houston-based 'Alice Evergreen' (self-described storyteller and feminist) appears on LinkedIn and in public records, but identity could not be firmly tied to the 1506 Scharpe St 77023 filing address (records show other Houston addresses). Listed as Not Employed on filing. No FEC PAC or Texas lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/alice-evergreen-39079964/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d2da5be4-4ca9-46bb-95c7-43c2c638ef51",
+    "name": "Lopez, Linda A",
+    "resolved_employer": "Giltner & Larios, PLLC (paralegal)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "LinkedIn lists 'Linda Lopez - Paralegal - Giltner & Larios PLLC'; firm is a San Antonio civil-litigation/employment defense firm, matching occupation and city (donor address 11806 Abbottswood St, San Antonio 78249). No FEC PAC or TX lobbyist records found under this name/profile.",
+    "source_url": "https://www.linkedin.com/in/linda-lopez-61b40729/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d29b8532-90dc-43e7-a5e5-606a55e14e9d",
+    "name": "Levinson, Cynthia",
+    "resolved_employer": "Self-employed (children's/nonfiction author)",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Cynthia Levinson is an Austin-based children's nonfiction author (The Youngest Marcher, Fault Lines in the Constitution); FEC/city-data records list 'Cynthia Y Levinson, self-employed writer, Austin zip 78703' matching the donor. Listed 'Not employed' on form but is a self-employed writer. No TX lobbyist record.",
+    "source_url": "https://cynthialevinson.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Obama Victory Fund 2012", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/12/elec-AUSTIN-TX-12-part4.html", "snippet": "Cynthia Y Levinson, self-employed writer, Austin TX 78703, gave $2,000 to Obama Victory Fund 2012 on 04/27/2011."}
+    ]
+  },
+  {
+    "donor_id": "d25234f8-d30a-4cc9-b6ce-ba3663db7e50",
+    "name": "Ives, Summer",
+    "resolved_employer": "The Estee Lauder Companies Inc. — Executive Director, Global Head of Strategy & Operational Excellence, Enterprise Cybersecurity & Risk",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Summer Ives (MBA, MS, CPA, PMP) is Executive Director / Global Head of Strategy & Operational Excellence for Enterprise Cybersecurity & Risk at Estee Lauder, based in the Cleveland OH area; prior roles at Girl Scouts USA, ARC for Systemic Risk, and FBI. Matches occupation, employer, and Cleveland Heights location. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/summerives/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d24ceb8c-e2b6-435f-9417-731d60a918e9",
+    "name": "Johanknecht, Mitzi",
+    "resolved_employer": "Retired — former Sheriff, King County (WA) Sheriff's Office",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Confirmed as Mitzi G. Johanknecht, former King County (WA) Sheriff (2018-2022), retired after 32 years in the Sheriff's Office. FEC/city-data record lists 'Mitzi Johanknecht, King County/Sheriff, zip 98136' giving to Klobuchar, matching the Seattle 98136 address; now retired ('Not Employed'). No TX lobbyist record.",
+    "source_url": "https://en.wikipedia.org/wiki/Mitzi_Johanknecht",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "King County Sheriff's Office", "role": "Former Sheriff (2018-2022), career law enforcement", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Mitzi_Johanknecht", "snippet": "Mitzi G. Johanknecht served as sheriff of King County, Washington from 2018 to 2022 after 32 years in the department."},
+      {"org": "Amy for America (Klobuchar 2020)", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-SEATTLE-WA-20-part177.html", "snippet": "Mitzi Johanknecht, King County/Sheriff, zip 98136, gave $100 to Amy for America (Amy Klobuchar) on 03/01/2020."}
+    ]
+  },
+  {
+    "donor_id": "d16a8f87-2bbd-4c4f-b75e-9d7add3cd4a5",
+    "name": "Danburg Atty, Debra",
+    "resolved_employer": "Retired attorney (formerly Texas State Representative, Houston District 137)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Confirmed as Debra Danburg, former Democratic Texas state representative for Houston District 137 (1981-2003) and attorney (UH Bates College of Law); relocated to Austin. Avvo/State Bar list her as an Austin TX 78704 attorney, matching the donor address; form marks her 'Retired.' No TX lobbyist registration found.",
+    "source_url": "https://en.wikipedia.org/wiki/Debra_Danburg",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House of Representatives (District 137, Democratic)", "role": "Former State Representative 1981-2003", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Debra_Danburg", "snippet": "Debra Danburg was a Democratic representative in the Houston/Harris district of Texas from 1981 to 2003; authored sexual-assault and criminal-justice reform legislation."}
+    ]
+  }
+]
