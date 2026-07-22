@@ -1,0 +1,258 @@
+[
+  {
+    "donor_id": "e77b214d-067c-49d1-b2b7-6f7f9ae01985",
+    "name": "Rubin, Shelley",
+    "resolved_employer": "Philanthropist / cultural leader (Not Employed); Cofounder & Chair, Rubin Museum of Art; Cochair, Shelley & Donald Rubin Foundation, New York",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Shelley Frost Rubin, NYC philanthropist at 502 Park Ave (the Rubins' well-documented Park Avenue residence, ZIP 10022), cofounder/Chair of the Rubin Museum of Art and cochair of the Shelley & Donald Rubin Foundation. 'Not Employed' occupation is consistent with a full-time philanthropist. Campaign-finance records show her as a very large Democratic donor. No pro-Israel, pro-Palestine, oil-gas, gun, or defense PAC activity documented in public records.",
+    "source_url": "https://rubinmuseum.org/people/shelley-rubin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Human Rights Watch", "role": "Board Member", "category": "civic", "source_url": "https://rubinmuseum.org/people/shelley-rubin/", "snippet": "Rubin Museum bio lists Shelley Frost Rubin as a Board Member of Human Rights Watch, in addition to Life Trustee of Thirteen/WNET and honorary board of the Interfaith Center of New York."},
+      {"org": "Shelley & Donald Rubin Foundation", "role": "Cochair / co-founder", "category": "civic", "source_url": "https://www.sdrubin.org/our-board-and-staff", "snippet": "Cochair of the family foundation, which funds arts/social-justice work to 'contribute to advocacy and policy change and develop capacity for greater civic engagement.'"}
+    ]
+  },
+  {
+    "donor_id": "e58a2415-8a81-4bc0-a68c-5fc15b0cd3a7",
+    "name": "Rutherford, Melissa",
+    "resolved_employer": "Owner-affiliated with SouthStar (Texas master-planned-community land developer led by President & CEO Thad Rutherford); Austin/Dripping Springs area (ZIP 78735)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Donor record lists occupation 'Owner' and employer 'Southstar,' at an Austin 78735 address. SouthStar is a large Texas land-development / master-planned-community firm (San Antonio/New Braunfels/Austin), led by President & CEO Thad Rutherford; Melissa Rutherford is tied to the SouthStar ownership family. Employer + Central Texas location are consistent, though Melissa's specific personal role could not be independently confirmed apart from the family business. Industry classified by employer (real estate land development). No pro-Israel/pro-Palestine/oil-gas/gun/defense PAC activity surfaced.",
+    "source_url": "https://southstartx.com/team/thad-rutherford",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e54c618e-2cf1-411c-b5d9-51bd3aaeb45a",
+    "name": "Ferari, Kaia",
+    "resolved_employer": "VP of External Affairs, Cultural Productions (NYC/Texas culturally-relevant content-creation & advertising firm); Greenwich, CT (ZIP 06831)",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Kaia Ferari as VP of External Affairs at Cultural Productions, a small content-creation/advertising firm producing culturally relevant content for Latino and Asian-American audiences. Location (Greenwich, CT 06831) and 'VP / Cultural productions' occupation match exactly. Self-described 'Millennial philanthropist and activist'; documented board member of Latino Victory Fund and LGBTQ+ Victory Fund and former Hillary for America National Finance Committee member. No pro-Israel/pro-Palestine/oil-gas/gun/defense PAC activity documented; giving pattern is Democratic/LGBTQ political.",
+    "source_url": "https://victoryinstitute.org/team/kaia-ferari/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LGBTQ+ Victory Fund", "role": "Board Member", "category": "political", "source_url": "https://victoryinstitute.org/team/kaia-ferari/", "snippet": "Bio lists Ferari as a Board Member of the LGBTQ+ Victory Fund, recruiting and supporting LGBTQ+ candidates for office."},
+      {"org": "Latino Victory Fund", "role": "Board Member", "category": "political", "source_url": "https://victoryinstitute.org/team/kaia-ferari/", "snippet": "Bio lists Ferari as a Board Member of the Latino Victory Fund, supporting Latino candidates for political office."},
+      {"org": "Hillary for America", "role": "National Finance Committee member", "category": "political", "source_url": "https://victoryinstitute.org/team/kaia-ferari/", "snippet": "Previously served on the National Finance Committee for Hillary for America."}
+    ]
+  },
+  {
+    "donor_id": "e4aca3fa-3044-433c-b1db-cfe043f7c0ca",
+    "name": "Villanueva, Ronnie",
+    "resolved_employer": "Cofounder / Vice President of Services, Tru-Matrix Contracting Services LLC (donor record: 'Tru-Max Contracting'), a San Antonio electrical/construction contracting firm",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Tru-Matrix Contracting Services LLC is a San Antonio, TX electrical/renovation contracting firm founded by husband-and-wife team Ronnie and Kristi Villanueva (Kristi is the woman-owner; Ronnie handles project management/services). Donor's 'Tru-Max Contracting' employer, San Antonio 78203 address, and 'Vice President of Services' occupation match. FEC donation count is 0, consistent with no federal-PAC or balanced-spectrum advocacy activity found.",
+    "source_url": "https://tru-matrix.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e381e0f7-d364-4709-b0ed-f920853105eb",
+    "name": "Bromley, Ernest",
+    "resolved_employer": "Pescador Public Strategies LLC (Managing Partner); former Chairman/CEO Bromley Communications",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Ernest Bromley is Managing Partner of Pescador Public Strategies, a San Antonio marketing/political-strategy firm serving progressive and Democratic candidates and causes; he is the former Chairman/CEO of Bromley Communications (Hispanic-marketing agency founded 1981) and holds a UTSA MBA. Address 78230 and 'Managing Partner' occupation match. No pro-Israel/pro-Palestine, gun, oil/gas, or defense PAC ties surfaced in FEC/OpenSecrets search; not found in TX Ethics Commission lobbyist lists.",
+    "source_url": "https://www.pescadorps.com/ourdna",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "SAISD Foundation", "role": "Board of Directors member", "category": "civic", "source_url": "https://saisdfoundation.com/about/who-we-are/", "snippet": "Ernest Bromley, Managing Partner at Pescador Public Strategies and SAISD alumnus (Thomas Jefferson HS), is listed on the SAISD Foundation Board of Directors."},
+      {"org": "Pescador Public Strategies LLC", "role": "Managing Partner (progressive/Democratic political marketing firm)", "category": "political", "source_url": "https://www.pescadorps.com/ourdna", "snippet": "Pescador is a marketing/branding firm 'dedicated to working with progressive/democratic candidates and causes,' co-founded by Bromley and Laura Hernandez."}
+    ]
+  },
+  {
+    "donor_id": "df2c4e46-92e7-4617-98ed-32a4fd95d1cf",
+    "name": "Hays, Steven",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Public-records people-search confirms a Steven Hays (born June 1952, age ~74) residing at 3314 Falling Brk, San Antonio 78258 since 2008 — an exact address match — reported as 'Not Employed' (likely retired). No public bio, firm page, or LinkedIn identifies his former career, and San Antonio has multiple same-named men, so no industry is asserted. Prolific small-dollar donor (94 FEC gifts) with a generic Democratic/ActBlue pattern; no ideological PAC (pro-Israel/Palestine, gun, oil/gas, defense) ties surfaced and no TX lobbyist registration.",
+    "source_url": "https://nationalpublicdata.com/people/h/steven-hays/tx/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "de920c72-878d-480f-81d4-b324e1422f90",
+    "name": "Byrne, Susan",
+    "resolved_employer": "Westwood Holdings Group (founder; Chairman/CIO 1983-2015, now Director Emerita, retired)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Susan M. Byrne founded Dallas-based Westwood Management/Westwood Holdings Group in 1983 and served as Chairman & Chief Investment Officer until ~2015, now Director Emerita (effectively retired, matching 'Not Employed'). Her 2300 Wolf St (Uptown Dallas luxury high-rise), 75201 address fits a prominent retired financier, and the 203-gift FEC history matches a wealthy Dallas donor. Identity is strong but rests on prominence/location rather than a filing-level address confirmation, hence medium. No pro-Israel/pro-Palestine, gun, oil/gas, or defense PAC ties surfaced; not a registered TX lobbyist.",
+    "source_url": "https://westwoodgroup.com/person/susan-m-byrne/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "UTIMCO / City of Dallas Employees Retirement Fund / Presbyterian Communities and Services Foundation", "role": "Former board member", "category": "civic", "source_url": "https://www.dmagazine.com/publications/d-ceo/2007/october/susan-m-byrne/", "snippet": "Byrne served as a board member of the University of Texas Investment Management Company, the City of Dallas Employees Retirement Fund, and the Presbyterian Communities and Services Foundation."}
+    ]
+  },
+  {
+    "donor_id": "de15b258-9a6a-4c6e-86aa-3d93005b88f5",
+    "name": "Perschbach, Jim",
+    "resolved_employer": "Port San Antonio (President & CEO)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "James E. Perschbach is President & CEO of Port San Antonio (a Texas public/political-subdivision economic-development authority running the 1,900-acre Tech Port campus for aerospace, cybersecurity, and defense tenants); he joined in 2014 and became CEO after being a Bracewell LLP partner (2002-2014). JD, University of Houston Law Center; BBA, George Washington University. Occupation 'CEO'/employer 'Port San Antonio' and 78260 address match. Only 8 FEC gifts; no pro-Israel/pro-Palestine, gun, oil/gas, or issue-PAC ties surfaced and no personal TX lobbyist registration.",
+    "source_url": "https://www.portsanantonio.us/Jim-Perschbach-CEO",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Our Lady of the Lake University; Texas Advanced Air Mobility Advisory Committee", "role": "Board member / committee member", "category": "civic", "source_url": "http://www.aasconference.com/images/bios/PERSCHBACH_bio.pdf", "snippet": "Perschbach serves on the board of Our Lady of the Lake University and is a member of the Texas Advanced Air Mobility Advisory Committee; past chair of the SA Chamber Aerospace Committee."}
+    ]
+  },
+  {
+    "donor_id": "dc6a4227-e6c5-45ac-b370-7c0593243076",
+    "name": "Kamran, Linda",
+    "resolved_employer": "Not Employed (community volunteer / school-foundation board member, Portola Valley, CA)",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Identity confirmed by exact address match (410 Cervantes Rd, Portola Valley, CA 94028). Community volunteer; serves as Secretary on the Portola Valley Schools Foundation board and was 'Yes on S' school-bond campaign chair. Prior political giving is Democratic (a $1,000 ActBlue non-federal contribution in 2018 per ProPublica 527 Explorer). No FEC PAC contributions found (dataset fec_donation_count 0); no Texas lobbyist registration; no pro-Israel/Palestine, oil & gas, gun, or defense PAC ties found.",
+    "source_url": "https://www.pvschoolsfoundation.org/who-we-are/board-members/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Portola Valley Schools Foundation", "role": "Secretary (board member); former Annual Campaign Co-Chair and 'Yes on S' Campaign Chair", "category": "civic", "source_url": "https://www.pvschoolsfoundation.org/who-we-are/board-members/", "snippet": "Linda Kamran is listed on the foundation board with the position 'Secretary.'"},
+      {"org": "ActBlue (Democratic contributions)", "role": "Individual donor", "category": "political", "source_url": "https://projects.propublica.org/527-explorer/contributions/108164188", "snippet": "Kamran, Linda made a $1,000 contribution to ActBlue Non-Federal (03/31/2018)."}
+    ]
+  },
+  {
+    "donor_id": "dc035537-2865-4a93-a555-337740d74e93",
+    "name": "Keammerer, Amanda",
+    "resolved_employer": "Javilud LLC (founder/CEO, self-employed)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Identity confirmed: San Antonio native, founder/CEO of Javilud LLC (consulting at the intersection of people, politics, technology and art), with a cybersecurity career (former VP Cybersecurity at Greater SA Chamber, gener8tor Cyber Accelerator managing director, government cyber contractor). Mayor Gina Ortiz Jones appointed Keammerer to the Port San Antonio Board of Directors in November 2025. FEC shows small Democratic giving (e.g., a $25 ActBlue contribution in 2019) consistent with the 23-donation count; no policy-advocacy PAC ties (no pro-Israel/Palestine, oil & gas, gun, or defense PACs); no Texas lobbyist registration found under 'Keammerer.'",
+    "source_url": "https://javilud.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Port San Antonio", "role": "Board of Directors member (appointed by Mayor Gina Ortiz Jones, Nov 2025)", "category": "civic", "source_url": "https://www.portsanantonio.us/Amanda-Keammerer", "snippet": "Mayor Gina Ortiz Jones appointed Amanda Lee Keammerer to the Port San Antonio Board of Directors in November 2025."},
+      {"org": "Javilud LLC", "role": "Founder & CEO", "category": "business", "source_url": "https://javilud.com/about/", "snippet": "Amanda Lee Keammerer is founder and CEO of Javilud, a consulting/events firm at the intersection of people, politics, technology and art."},
+      {"org": "SAISD Foundation / Family Service", "role": "Board of Directors member", "category": "civic", "source_url": "https://www.sanantonio.gov/Portals/0/Files/NHSD/Coordinated%20Housing%20Web-page/HC/Board/KeammererBio.pdf", "snippet": "Serves on the board of directors for Family Service and the SAISD Foundation, and co-chair of Prosper West's Small Business Impact Committee."}
+    ]
+  },
+  {
+    "donor_id": "dbcdb499-0d0e-4f74-bbef-f91e9e662dfa",
+    "name": "Adrabi, Jonathan",
+    "resolved_employer": "LSN Partners, LLC (Partner)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Identity confirmed: Jon Adrabi is a Partner at LSN Partners, a bipartisan government-affairs/consulting firm, residing in Miami Shores, FL. He co-manages the firm's National Democratic Practice and is a longtime Democratic operative: advisor to DCCC, DNC, DGA and National Advisory Board member of Democratic Municipal Officials; former Deputy National Finance Director for Hillary Clinton's 2016 campaign; senior advisor to Miami-Dade Mayor Daniella Levine Cava. No Texas lobbyist registration (FL-based); no pro-Israel/Palestine, oil & gas, gun, or defense PAC contributions found.",
+    "source_url": "https://lsnpartners.com/staff/jon-adrabi/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LSN Partners, LLC", "role": "Partner; co-manager of National Democratic Practice", "category": "business", "source_url": "https://lsnpartners.com/staff/jon-adrabi/", "snippet": "Jon Adrabi is a named Partner at LSN Partners, a full-service bipartisan government-affairs/consulting firm."},
+      {"org": "Democratic Party committees (DCCC, DNC, DGA, Democratic Municipal Officials)", "role": "Advisor / National Advisory Board Member", "category": "political", "source_url": "https://lsnpartners.com/staff/jon-adrabi/", "snippet": "Advisor to the DCCC, DNC, DGA and National Advisory Board Member for Democratic Municipal Officials; former Deputy National Finance Director for Hillary Clinton's 2016 campaign."},
+      {"org": "John Hickenlooper for Senate (fundraiser host)", "role": "Fundraiser co-host", "category": "political", "source_url": "https://floridapolitics.com/archives/332176-adrabi-heckler-fundraiser-hickenlooper/", "snippet": "Jon Adrabi and Alex Heckler hosted a virtual fundraiser for John Hickenlooper's Senate bid."}
+    ]
+  },
+  {
+    "donor_id": "dbb9e52b-62b6-4b7e-be6c-c3ac0878dfe4",
+    "name": "Bigelow, Lelaine",
+    "resolved_employer": "National Partnership for Women & Families (Interim VP, Congressional Relations & Economic Justice)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Identity confirmed: Lelaine (Valdez) Bigelow is a Director/VP-level executive at the National Partnership for Women & Families, a nonpartisan advocacy nonprofit (workplace fairness, reproductive rights, paid family/medical leave). She has also been named Executive Director of the Georgetown Center on Poverty & Inequality. Prior public service: Deputy Assistant Secretary for Legislative Relations at HUD (Obama administration) and Capitol Hill staff for Reps. Judy Chu, Corrine Brown, and Jerrold Nadler. No specific FEC PAC contributions surfaced; no Texas lobbyist registration; no pro-Israel/Palestine, oil & gas, gun, or defense PAC ties found.",
+    "source_url": "https://finhealthnetwork.org/team/lelaine-bigelow/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National Partnership for Women & Families", "role": "Interim VP, Congressional Relations & Economic Justice (formerly VP, Social Impact and Congressional Relations)", "category": "civic", "source_url": "https://nationalpartnership.org/news_post/great-resignation-opportunity-paid-family-medical-leave-html/", "snippet": "Lelaine Bigelow is a senior executive at the National Partnership for Women & Families, a nonpartisan advocacy organization for workplace fairness and reproductive rights."},
+      {"org": "Georgetown Center on Poverty & Inequality", "role": "Executive Director", "category": "civic", "source_url": "https://www.georgetownpoverty.org/issues/lelaine-bigelow-named-new-executive-director/", "snippet": "Lelaine Bigelow named new Executive Director of the Georgetown Center on Poverty & Inequality."}
+    ]
+  },
+  {
+    "donor_id": "da43d765-1f23-4f28-a3e1-ac26b9139fed",
+    "name": "Pontemayor, Paulo",
+    "resolved_employer": "Catholic Health Association of the United States (CHA) — Senior Director, Government Relations",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Address (DC 20009) and employer string 'CHA'/'Cha' match Paulo G. Pontemayor, MPH, Senior Director of Government Relations at the Catholic Health Association of the United States (a national Catholic health-care membership/advocacy org). Prior roles: The Joint Commission, HHS, Asian & Pacific Islander American Health Forum, U.S. House. Registered federal health-care lobbyist (2024 NILE Top Lobbyist award); co-chairs the Partnership for Medicaid. No Texas Ethics Commission lobbyist registration found. No AIPAC/pro-Israel/pro-Palestine, oil & gas, gun, or defense PAC contributions found in FEC/OpenSecrets records.",
+    "source_url": "https://www.chausa.org/advocacy/staff/paulo-g.-pontemayor--mph",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d98fbcad-cf1f-4968-bd0a-036d86a1f17e",
+    "name": "Rubinstein, Joel",
+    "resolved_employer": "Self-employed (consultant)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "A San Francisco business tax registration ('Rubinstein Joel A') exists at the exact filing address, 2023 28th Ave, SF 94116, classified under Administrative & Support Services (sole proprietor since 2003), consistent with the self-reported 'consultant / self' occupation. Identity only partially corroborated — several distinct Joel Rubinsteins exist in SF (including an attorney, Law Office of Joel K. Rubinstein), so specific-person match is not certain. FEC record is minimal (1 lifetime donation). No AIPAC/pro-Israel/pro-Palestine, oil & gas, gun, or defense PAC contributions identified; no Texas lobbyist registration (out-of-state donor).",
+    "source_url": "https://opengovus.com/san-francisco-business/0363451-01-001",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d82cb9bf-141e-4954-9cb1-14b20d92b16e",
+    "name": "Karbach, Dennis",
+    "resolved_employer": "Karbach Consulting LLC (business consulting)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Dennis B. Karbach (b. 1950) of 315 W Lynwood Ave, San Antonio 78212 — address and employer string match exactly. He is the registered agent/owner of Karbach Consulting LLC (formed 2010; business/management consulting), San Antonio. FEC/state records show an active small-dollar Democratic donor pattern (e.g., $1,000 to ActBlue on 04/03/2020; 83 FEC donations), consistent with the mayoral gift. No Texas Ethics Commission lobbyist registration found. No AIPAC/pro-Israel/pro-Palestine, oil & gas, gun-rights/gun-control, or defense-contractor PAC contributions identified.",
+    "source_url": "https://opencorporates.com/companies/us_tx/0801161893",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d74d1071-0c6b-47ea-8a4f-144f51b8c69b",
+    "name": "Ladjevardian, Sima",
+    "resolved_employer": "Not Employed (attorney; Ladjevardian & Associates PLLC; former public official/candidate)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Sima Jandaghi Ladjevardian of Houston (77024) is a well-documented Iranian-American attorney/mediator (Ladjevardian & Associates PLLC), 2020 Democratic nominee for U.S. House TX-02 (FEC candidate ID H0TX02106), former HHS Region 6 Regional Director under Sec. Becerra, chair of the National Women's Business Council, and a Harris Health System board member. Very active Democratic donor (249 FEC donations), consistent with the $1,000 mayoral gift; currently self-reports 'Not Employed.' No Texas Ethics Commission lobbyist registration found. Searched FEC/OpenSecrets across the spectrum (AIPAC/UDP/DMFI, J Street, JVP/USCPR, oil & gas, gun PACs, defense) — no confirmed contributions to those specific PACs surfaced, so no issue-advocacy affiliation is asserted.",
+    "source_url": "https://www.fec.gov/data/candidate/H0TX02106/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "U.S. House of Representatives, Texas 2nd District", "role": "2020 Democratic Party nominee", "category": "political", "source_url": "https://ballotpedia.org/Sima_Ladjevardian", "snippet": "Sima Ladjevardian was the Democratic nominee for Texas's 2nd congressional district in the 2020 U.S. House elections."},
+      {"org": "U.S. Department of Health & Human Services (Region 6)", "role": "Regional Director (Becerra administration)", "category": "political", "source_url": "https://www.nwbc.gov/members-staff/sima-ladjevardian/", "snippet": "Appointed HHS Region 6 Regional Director representing the HHS Secretary; also chair of the National Women's Business Council."}
+    ]
+  },
+  {
+    "donor_id": "d4d1f186-a057-4944-8e2a-882655a0dc79",
+    "name": "Montford, John",
+    "resolved_employer": "President & CEO, JTM Consulting, LLC (government-affairs / lobbying consulting), San Antonio — former TX State Senator (D, Dist. 28), founding Texas Tech University System chancellor, and AT&T/SBC senior executive",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "John Thomas Montford (b. 1943): ex-Texas state senator, Lubbock DA, first Texas Tech University System chancellor, then SBC/AT&T executive; since 2010 runs JTM Consulting, LLC. Donor address '1 Buckingham CT, San Antonio, TX 78257' exactly matches his registered lobbyist office 'One Buckingham Court, San Antonio 78257,' confirming identity. Occupation 'JTM Consulting / Owner' matches his self-listed 'President & CEO.' FEC records show a bipartisan federal giving pattern (Doggett, Cuellar (D); Cloud, Arrington, Chip Roy (R)); no AIPAC/pro-Israel/J Street/oil-gas/NRA/gun-control/defense advocacy-PAC contributions found across the balanced spectrum.",
+    "source_url": "https://en.wikipedia.org/wiki/John_T._Montford",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "JTM Consulting, LLC", "role": "President & CEO; registered Texas Ethics Commission and City of San Antonio lobbyist", "category": "political", "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/john-t-the-honorable-montford-20489", "snippet": "Listed on the 2025 Texas Ethics Commission registered-lobbyist rolls as 'John T. Montford (The Honorable),' One Buckingham Court, San Antonio 78257; also appears in the City of San Antonio lobbyist registry under 'John T. Montford, JTM Consulting LLC.'"}
+    ]
+  },
+  {
+    "donor_id": "d4a54234-13b6-4216-8c11-e202a7f2c3a8",
+    "name": "Hill, Marc",
+    "resolved_employer": "Attorney / President, Hill & Hill, P.C. (eminent-domain, condemnation, commercial real estate & construction law), Houston",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "J. Marcus 'Marc' Hill, licensed 1980 (South Texas College of Law; Texas A&M BBA 1976), ~40-year real-estate/eminent-domain attorney at Hill & Hill, P.C., founded by his father in the early 1960s. Firm address '1770 Saint James Pl Ste 440, Houston 77056' exactly matches the donor record; occupation 'Atty' and employer 'Hill & Hill' confirm identity. Former Harris County Senior Assistant County Attorney (1984-86) and 1992 Democratic nominee for State District Judge. No Texas Ethics Commission lobbyist registration found; no AIPAC/pro-Israel/J Street/oil-gas/gun/defense advocacy-PAC contributions surfaced.",
+    "source_url": "https://www.martindale.com/attorney/mr-j-marcus-hill-1676116/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d34a63ef-8891-4b89-91b6-494758eb7c09",
+    "name": "Creedon, Douglas",
+    "resolved_employer": "Physician (OB-GYN), UT Health San Antonio / University Health; donor record lists 'North Memorial Medical Center' as a prior/stale employer",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Douglas J. Creedon, MD/PhD, obstetrician-gynecologist. Trained and long served at Mayo Clinic (Rochester, MN) — consistent with a Minnesota hospital tie such as North Memorial Medical Center — then joined UT Health San Antonio faculty in 2021, practicing at the Kenwood Clinic. Lives at 14938 Iron Horse Way, Helotes, TX 78023. The record's 'zip':'14938' is a data error: 14938 is the street number of the address; the true ZIP is 78023 per the location string. FEC donation count 0; no lobbyist registration and no advocacy-PAC (AIPAC/J Street/oil-gas/gun/defense) contributions found.",
+    "source_url": "https://directory.uthscsa.edu/academics/profile/creedon",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d33a0b4b-abba-4450-ae3a-96e9344db46b",
+    "name": "Catone, Gabriel",
+    "resolved_employer": "Co-founder & principal art advisor, Ruth | Catone (now Ruth | Catone | Goulding), New York — art advisory firm",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Gabriel Catone (Yale BA, History of Art) co-founded the New York art-advisory firm Ruth|Catone with partner Andrew Ruth in 2004 (now Ruth|Catone|Goulding); occupation 'Art consultant' and employer 'Ruth | Catone' plus NYC 10014 address match. FEC/state records show a consistent Democratic donor pattern (Hillary Clinton, Obama, Patrick Murphy, Mark Pocan, Tom Perriello, Democratic Party of Virginia, Progressive Patriots Fund). No lobbyist registration; no AIPAC/pro-Israel/J Street/oil-gas/gun/defense advocacy-PAC contributions found.",
+    "source_url": "https://www.ruthcatonegoulding.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LGBTQ+ Victory Fund (Gay & Lesbian Victory Fund)", "role": "Director (board member)", "category": "political", "source_url": "https://littlesis.org/person/111113-Gabriel_Catone", "snippet": "LittleSis records Gabriel Catone as a Director of the Gay and Lesbian Victory Fund, which provides financial and campaign support to LGBTQ political candidates."},
+      {"org": "Democratic candidates & committees", "role": "Individual donor", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/gabriel-catone.asp?cycle=20", "snippet": "Federal contributions to Hillary Clinton, Barack Obama, Patrick Murphy, Mark Pocan and the Democratic Party of Virginia — a consistent Democratic giving pattern."}
+    ]
+  }
+]

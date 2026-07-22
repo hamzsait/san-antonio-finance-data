@@ -1,0 +1,234 @@
+[
+  {
+    "donor_id": "77a2ef1d-a7e0-4c66-948e-510390fa98b7",
+    "name": "Bernstein, Jessica",
+    "resolved_employer": "Self-employed communications consultant, San Antonio",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "LinkedIn 'Jessica Bernstein - Communications Consultant (self-employed)' associates to 414 Wood Shadow St, San Antonio 78216 (exact donor-address match). A datanyze contact page mentions professional communications work with the Jewish Federation of San Antonio's JCRC, but that source is too weak to assert a policy-advocacy affiliation.",
+    "source_url": "https://www.linkedin.com/in/jessicabernstein/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6f15db68-ba82-46f3-91e8-4e2a6b481fd2",
+    "name": "Martinez III, Mr Paul",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, 703 W Crestline Dr, San Antonio 78228. 'Paul Martinez' is a very common name; no public profile, FEC record, or lobbyist registration could be confirmed for this specific individual. Quiet result.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "679e468f-f015-4bb2-8180-2bf3f59048a1",
+    "name": "Pokluda, Melanie",
+    "resolved_employer": "Not employed (nonprofit board leadership; former career not publicly documented)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Melanie Pokluda McLeroy, Austin resident, associated with 725 Patterson Ave, Austin 78703 (matches donor address). Board Chair of Texas Health Action (Kind Clinic); also active with Leadership Austin, Paramount Theatre, Foundation Communities.",
+    "source_url": "https://kindclinic.org/blog/melanie-pokluda-mcleroy-named-tha-board-chair/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Health Action (Kind Clinic / Waterloo Counseling Center)", "role": "Board Chair (board member since 2015)", "category": "civic", "source_url": "https://kindclinic.org/blog/melanie-pokluda-mcleroy-named-tha-board-chair/", "snippet": "Melanie Pokluda McLeroy named THA Board Chair; THA is a nonprofit providing culturally affirming health services with expertise serving LGBTQIA+ people and people impacted by HIV."}
+    ]
+  },
+  {
+    "donor_id": "62f66b40-d437-43b8-9077-3be008f80d0e",
+    "name": "Dillard, Brian",
+    "resolved_employer": "VIA Metropolitan Transit — VP of Innovation & Technology",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Brian Dillard, VP of Innovation & Technology at VIA Metropolitan Transit (San Antonio public transit agency) since April 2024; formerly City of San Antonio Chief Innovation Officer, ex-USAF cybersecurity. Third-generation Dignowity Hill native — matches 716 Hays St, 78202 (Dignowity Hill).",
+    "source_url": "https://www.viainfo.net/2024/04/22/executive_hires/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Essence Preparatory Public School", "role": "Founding Board Chair", "category": "civic", "source_url": "https://futuro-sa.org/team-member/brian-dillard/", "snippet": "Founding Board Chair for Essence Preparatory Public School."},
+      {"org": "SA Digital Connects", "role": "Board Chair", "category": "civic", "source_url": "https://futuro-sa.org/team-member/brian-dillard/", "snippet": "Board Chair for SA Digital Connects (digital-equity nonprofit)."},
+      {"org": "Futuro San Antonio / SAISD Foundation / Corazon Ministries", "role": "Board member", "category": "civic", "source_url": "https://futuro-sa.org/team-member/brian-dillard/", "snippet": "Board member for Futuro San Antonio, SAISD Foundation, and Corazon Ministries."}
+    ]
+  },
+  {
+    "donor_id": "62c6e89f-58c8-4e25-ad71-db9b90cb4395",
+    "name": "Cardenas, Hector",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Not Employed, 539 W Elsmere Pl, San Antonio 78212. 'Hector Cardenas' is a common name; no public profile, FEC contribution, or lobbyist registration could be confirmed for this specific individual at 78212. Quiet result.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5dfdba66-2695-4f68-b111-5d8bcffb7875",
+    "name": "Thompson, Katharine T.",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Out-of-state NH donor listed as Not Employed in South Tamworth. A 'Kate/Katy Thompson' is a known Tamworth community poster artist, but this cannot be confirmed as the same person; no FEC PAC or advocacy record found.",
+    "source_url": "https://www.peekyou.com/usa/new_hampshire/south_tamworth/kate_thompson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5ce7ea43-0526-44dc-8d3b-ef46e62b56e1",
+    "name": "OHare, Michael",
+    "resolved_employer": "Emeritus Professor of Public Policy, UC Berkeley Goldman School of Public Policy",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Confirmed as the UC Berkeley Goldman School public-policy professor; city-data FEC records list 'Michael O'Hare, University of California professor' at zip 94705, matching the Russell St / Elmwood Berkeley address. Research focus is environmental/biofuels and arts policy.",
+    "source_url": "https://gspp.berkeley.edu/research-and-impact/faculty/michael-ohare",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4b766664-fbfc-46d9-80e4-1658aa3b3161",
+    "name": "Gonzalez, Nancy",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Prolific small-dollar Democratic donor (448 FEC contributions) in Shavano Park 78231, listed as Not Employed. Common name; no public bio, occupation, or advocacy-org affiliation could be confirmed for the specific individual at this address.",
+    "source_url": "https://www.city-data.com/elec2/elec-SHAVANO-PARK-TX.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "45028594-8c29-4c6d-a4fd-44ec05bff3bf",
+    "name": "Morey, Jennifer",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "San Antonio 78210 (King William area) donor listed as Not Employed. A San Antonio LinkedIn for 'Jennifer Morey' exists but could not be verified to this address; no FEC PAC or Texas lobbyist record found. Identity and occupation not confirmed.",
+    "source_url": "https://www.linkedin.com/in/jennifer-morey-40aa3794/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "41e8a557-580a-4dbd-a0d9-7aea00d69ec7",
+    "name": "McKeon, Kerry",
+    "resolved_employer": "Adjunct Professor, Boston College Woods College of Advancing Studies",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Kerry Ann McKeon, Ph.D., adjunct professor at Boston College's Woods College; earned her doctorate in Educational Leadership at UT San Antonio and is San Antonio-based, matching the 78210 address and 'Professor / Boston College' record. Former US Senate legislative aide.",
+    "source_url": "https://www.bc.edu/bc-web/schools/wcas/about/faculty-research/faculty-directory-folder/KerryAnn_McKeon.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "40fff047-5c47-4f54-8279-9fc6529fb8cb",
+    "name": "Llorente, Mila",
+    "resolved_employer": "Retired (former career not publicly documented)",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Retired San Francisco (94127) donor; identified as the spouse in the 'Ernie and Mila Llorente Scholarship' via the Filipino Bar Association of Northern California (FBANC), where husband Ernie Llorente is a founding member and past president. Her own former career is not publicly documented.",
+    "source_url": "https://fbanc.org/nathaniel-teng-llorente-scholarship-recipient",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Filipino Bar Association of Northern California (FBANC)", "role": "Scholarship namesake / philanthropist (with spouse Ernie Llorente, FBANC past president)", "category": "civic", "source_url": "https://fbanc.org/nathaniel-teng-llorente-scholarship-recipient", "snippet": "Ernie Llorente is 'a FBANC founding member and past FBANC president'; the Ernie and Mila Llorente Scholarship is 'awarded to a Filipino/a/x American student who has demonstrated a dedication to public service in the City and County of San Francisco.'"}
+    ]
+  },
+  {
+    "donor_id": "3a391621-26be-4594-809c-9e530255e61a",
+    "name": "Rainey, Maryann",
+    "resolved_employer": "Advanced Practice Nurse, San Francisco Unified School District",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "LinkedIn and RocketReach confirm Maryann Rainey as an Advanced Practice Nurse at SFUSD in San Francisco; matches occupation (nursing), employer (SFUSD), and SF 94122 location. A Maryann Rainey also served as a school nurse at Lowell High School (SFUSD).",
+    "source_url": "https://www.linkedin.com/in/maryann-rainey-85847b75/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "390a8129-1e95-41c2-9951-e6e31a244308",
+    "name": "Flores, Eduardo",
+    "resolved_employer": "Self-employed attorney (San Antonio, TX)",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Record lists a self-employed attorney in San Antonio 78255. Multiple attorneys named Eduardo Flores practice in San Antonio (immigration, criminal, solo practice); could not corroborate the specific individual at this address, so industry is taken from the stated occupation only.",
+    "source_url": "https://www.texasbar.com/Attorneys/member.cfm?id=308923",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "38ec5bc5-de4d-4831-8b02-e32aee14775c",
+    "name": "Nazem, Omar",
+    "resolved_employer": "Treasurer, NYC Water Board / NYC Department of Environmental Protection (City of New York)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "LinkedIn (Omar Nazem, oanazem) confirms Treasurer of the NYC Water Board at NYC DEP, resident of Forest Hills, NY; CFA, prior private-equity/consulting background. Matches employer (City of New York), 'environmental services' occupation, and 11375 location.",
+    "source_url": "https://www.linkedin.com/in/oanazem/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "32ea6452-b9cc-427d-9ec0-5d6b86bc1aa2",
+    "name": "Brender, Lynda",
+    "resolved_employer": "Not employed (occasionally listed as bookkeeper at Law Offices of Art Brender); spouse of Fort Worth attorney Arthur J. Brender Jr.",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Fort Worth donor at the Brender law firm address; married to prominent Fort Worth attorney Art Brender. Prolific Democratic donor consistent with the 293 FEC-donation count ($95,250 in 2014; gives to ActBlue and Democratic candidates such as Heidi Heitkamp and Pete Gallego).",
+    "source_url": "https://www.campaignmoney.com/political/contributions/lynda-brender.asp?cycle=14",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic candidates / ActBlue", "role": "Individual donor", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/lynda-brender.asp?cycle=14", "snippet": "Lynda Brender - $95,250 in Political Contributions for 2014; itemized gifts to ActBlue, Heidi for Senate (Heitkamp), and Friends of Pete Gallego."}
+    ]
+  },
+  {
+    "donor_id": "30093a76-c9b1-4385-abe9-5336a70aaf5c",
+    "name": "Childs, Stephanie",
+    "resolved_employer": "Senior Vice President & Partner, FleishmanHillard (Austin) — public affairs / strategic communications",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "The Org and LinkedIn confirm Stephanie Childs as SVP & Partner at FleishmanHillard since 2011, based in Austin, in the firm's public affairs/corporate affairs practice; prior roles at ConAgra Foods and the Grocery Manufacturers Association. Matches employer and Austin 78738 location. Distinct from a same-named Diageo executive; no Texas Ethics Commission lobbyist registration confirmed.",
+    "source_url": "https://theorg.com/org/fleishmanhillard/org-chart/stephanie-childs",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2e3e904b-6909-4ebc-9492-79d2d891e28a",
+    "name": "Pillow, David",
+    "resolved_employer": "Professor of Social Psychology, University of Texas at San Antonio (UTSA)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "David Pillow is a tenured Professor of Social Psychology in UTSA's Dept. of Psychology (San Antonio, TX 78249 matches); LinkedIn and UTSA faculty page confirm name, title, employer.",
+    "source_url": "https://hcap.utsa.edu/faculty/profiles/pillow-david.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2c5aaec2-be13-4eef-b380-cdd697b32280",
+    "name": "Beissel, Trisha",
+    "resolved_employer": "Former ExxonMobil IT Manager (currently Not Employed)",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "FEC individual-contribution records list Trisha Beissel of Richmond TX 77407 as an ExxonMobil IT Manager and a prolific small-dollar ActBlue donor (matches fec_donation_count 127); campaign record now lists her as Not Employed.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-RICHMOND-TX-20-part7.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2b58aaaa-17bb-4b78-b392-5512db3c0bad",
+    "name": "Lee, Audrey",
+    "resolved_employer": "Retired (former career undetermined)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired individual at 161 Lovera Blvd, San Antonio 78212; 'Audrey Lee' is a common name and no public profile, FEC PAC record, or lobbyist registration could be confirmed for this specific person.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "208056a2-67bd-480f-bb31-c2b05e210b48",
+    "name": "Garmendia, Jaime",
+    "resolved_employer": "Senior/Project Manager, MBTA Capital Delivery Department (Massachusetts Bay Transportation Authority)",
+    "industry": "Transportation",
+    "confidence": "high",
+    "evidence": "Jaime Garmendia is a longtime (~20 yr) MBTA project manager in Capital Delivery and Chair of the Salem, MA Transportation Commission (Salem 01970 matches); confirmed via Streetsblog Mass profile.",
+    "source_url": "https://mass.streetsblog.org/2022/09/29/nearly-20-years-at-the-t-jaime-garmendia-shares-his-experience-over-the-years",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Salem Transportation Commission", "role": "Chair", "category": "civic", "source_url": "https://mass.streetsblog.org/2022/09/29/nearly-20-years-at-the-t-jaime-garmendia-shares-his-experience-over-the-years", "snippet": "Garmendia serves as Chair of the Salem Transportation Commission, involved in local transportation planning initiatives in Salem."}
+    ]
+  }
+]

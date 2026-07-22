@@ -1,0 +1,224 @@
+[
+  {
+    "donor_id": "7983d4e7-c6e1-46c7-8036-b90a2550ba30",
+    "name": "Briseno Carreon, Beatrice",
+    "resolved_employer": "Briseno Properties (real estate; broker-owner affiliated with RE/MAX Unlimited)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Beatrice Briseno is a longtime South Side San Antonio real estate broker-owner (RE/MAX Unlimited, formerly independent brokerage since 1997); 'Briseno Properties' and self-employed status align with her brokerage. Hot Wells/78223 office near the 78221 residence supports identity.",
+    "source_url": "https://www.remax.com/real-estate-agents/beatrice-briseno-san-antonio-tx/100039539",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "795714b2-2135-4e79-888c-4a2db0df6bd5",
+    "name": "Chase, Rhonda",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor self-reported 'Not Employed' at 78247. No public profile could be confidently corroborated to this specific zip/individual; a San Antonio Rhonda Chase with an accounting background exists but cannot be reliably matched. No PAC or lobbyist records found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7909ab12-9780-4814-baf9-cd3a12216eba",
+    "name": "Guerra, Melissa",
+    "resolved_employer": "eSkillz (co-founder; Chief International Officer / COO — also recorded as VP Operations & Client Services)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "eSkillz leadership page lists Melissa Guerra as Co-Founder and Chief International Officer of eSkillz, a San Antonio HCM/learning-technology (LMS) software firm; titles vary across sources (COO, VP Operations & Client Services). The second 'Melissa Guerra/eSkillz CRO' entry (122 Alamosa Ave 78210) is almost certainly the same individual — only one Melissa Guerra appears on eSkillz leadership.",
+    "source_url": "https://eskillz.com/about-us/leadership-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "78cc6335-13bb-47ed-b050-7706df2051fd",
+    "name": "Flores, Juan",
+    "resolved_employer": "Port San Antonio (Executive VP for Government Affairs)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Juan Antonio Flores is EVP for Government Affairs at Port San Antonio (public port authority redeveloping the former Kelly AFB into an aerospace/defense/tech campus); prior roles at San Antonio Water System and North American Development Bank. Registered as a Texas Ethics Commission lobbyist for Port San Antonio.",
+    "source_url": "https://theorg.com/org/port-san-antonio/org-chart/juan-antonio-flores",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Port San Antonio", "role": "Executive VP for Government Affairs; registered Texas lobbyist", "category": "political", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2024/2024RegisteredLobbyists.pdf", "snippet": "Listed on Texas Ethics Commission registered-lobbyist lists (multiple years incl. 2024) as EVP Government Affairs for Port San Antonio, a public port/aerospace authority (907 Billy Mitchell Blvd, San Antonio TX 78226)."}
+    ]
+  },
+  {
+    "donor_id": "788c37dc-837c-46f7-9cb1-e2a86589c08d",
+    "name": "Carangal, Gene",
+    "resolved_employer": "USAA",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "IT Systems Analyst / Scrum Master at USAA in San Antonio; LinkedIn, ZoomInfo, and personal resume site (genecarangal.com) confirm same name, employer, and city. Active in Filipino-American community (PACC-Greater San Antonio).",
+    "source_url": "https://www.linkedin.com/in/genecarangal/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "76fb6ab6-fdcc-4c2d-ab35-0d918b738166",
+    "name": "Minkler, Gayle",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as retired in Vacaville, CA; corroborated as wife of the late John Archer Minkler (Vacaville obituary). No public professional profile establishing a former career or industry; no PAC/lobbyist records tied to policy advocacy.",
+    "source_url": "https://www.tributearchive.com/obituaries/25143917/john-archer-minkler/vacaville/california/mccune-garden-chapel",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "766f3632-3dbe-47c2-9f41-2bdf439393fe",
+    "name": "Ledley, Charles",
+    "resolved_employer": "Liminality Capital LP (managing partner)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Managing Partner of Liminality Capital LP (Boston, MA); former investor at Cornwall Capital ('The Big Short' fame) and Highfields Capital Management, Harvard MBA. FEC records show large Democratic-only giving (incl. a prior gift to Gina Ortiz Jones for Congress in 2020), independently corroborating identity. No pro-Israel/pro-Palestine, oil & gas, gun, or defense-contractor PAC ties; documented civic ties (Leadership Now Project, Tobin Project board) fall outside the tracked balanced spectrum.",
+    "source_url": "https://leadershipnowproject.org/leaders/charles-ledley/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "71c9b63f-f8e7-4fa0-b1a7-02709e9e24ea",
+    "name": "Moffett, Anna",
+    "resolved_employer": "AM Strategies (founder/principal)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Founder/Principal of AM Strategies, a Houston-based Democratic political fundraising firm; per firm bio she led fundraising for Beto O'Rourke's 2022 gubernatorial race and was previously a Campaigns Finance Director at EMILYs List. No TX/city lobbyist registration found.",
+    "source_url": "https://www.strategiesam.com/our-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "71b8fe0f-abbe-4cea-b19e-52dab8d60e00",
+    "name": "hernandez, david",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Very common name listed as 'Not Employed' at 43 Ferris Crk, San Antonio 78254. No FEC PAC record, TX/city lobbyist registration, or public professional profile could be tied to this specific individual/zip. Not identifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6ef3ffd6-8aee-47b0-913b-d65b708513b9",
+    "name": "Chambers, Tiffani",
+    "resolved_employer": "TransUnion (EVP & Chief Operations Officer)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Distinctive name + exact employer TransUnion (consumer credit reporting/data). Matches Tiffani Chambers named EVP & Chief Operations Officer of TransUnion (eff. Feb 19, 2025), with prior NYC-based roles at Bank of America, Goldman Sachs, JPMorgan, Lehman, Amex — consistent with a Yonkers/Westchester (10708) residence. Self-reported occupation 'Data' is looser than 'COO', hence medium confidence.",
+    "source_url": "https://newsroom.transunion.com/transunion-appoints-tiffani-chambers-chief-operations-officer/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6dc31f0a-6da9-4198-9e42-cbd4cf5afcf5",
+    "name": "Smith, Fred",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Very common name listed as 'Not Employed' at 587 Virginia Ave NE, Atlanta 30306 (Poncey-Highland/Virginia-Highland). Multiple unrelated 'Fred/Frederick Smith' donor records exist nationally; none could be corroborated to this address/zip. Not identifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6b48a02d-d0f1-4886-b708-18cf7c0a4c1c",
+    "name": "Su, Julie",
+    "resolved_employer": "The Century Foundation (Senior Fellow)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Occupation 'Senior fellow' + employer 'The Century Foundation' + DC address matches Julie Su, former Acting US Secretary of Labor (2023-25), who joined The Century Foundation as a full-time Senior Fellow in April 2025 working on labor/worker-power issues. Strong identity match on role, employer, and DC location.",
+    "source_url": "https://tcf.org/experts/julie-su/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6aca5fae-9f6b-41ad-bd4c-b783b46f8ea8",
+    "name": "Lyons, Sean",
+    "resolved_employer": "Lyons & Lyons, P.C. (partner)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Sean Michael Lyons is a partner at Lyons & Lyons, P.C. (San Antonio), a plaintiff-side personal injury, medical malpractice and civil rights trial lawyer, Board Certified in Personal Injury Trial Law; UT Law J.D. 1994. Donor employer 'Lyon& Lyons' matches the firm; Austin 78703 is his residence.",
+    "source_url": "https://lyonsandlyons.com/our-practice/our-attorneys/sean-michael-lyons/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6a0d65e3-d2ca-4971-9bbc-40aec49d1a8c",
+    "name": "Rodriguez, Donovon",
+    "resolved_employer": "Texas House of Representatives (Chief of Staff to Rep. Ray Lopez)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Distinctive spelling 'Donovon' + San Antonio 78250 (Great Northwest neighborhood) matches Donovon J. Rodriguez, chief of staff to retiring State Rep. Ray Lopez, 10+ years in the Texas Legislature and 2026 TX House Dist. 125 candidate. Donor's 'Not Employed' field conflicts with his legislative-staff career, so identity is probable but not certain.",
+    "source_url": "https://sanantonioreport.org/profile/donovon-rodriguez-2026-candidate-for-texas-house-district-125/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "680cce87-c214-4aa8-89a0-272fcf26ad4e",
+    "name": "Rasco, Sarah",
+    "resolved_employer": "Humana (Medical Director)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Sarah Speeg Rasco, MD is a board-certified psychiatrist in San Antonio (20+ yrs), UT Health San Antonio faculty, who has served in an Associate/Medical Director role in managed care; donor's 'Medical Director / Humana' at San Antonio 78256 is consistent. Physician / managed-care medical director.",
+    "source_url": "https://directory.uthscsa.edu/academics/profile/racoss",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6792694f-32ce-4603-92ba-e8d78eca3fb0",
+    "name": "Turner, Tim",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name; Santa Fe NM 87506, 'Not Employed.' No public profile could be tied to this specific individual (the Tim Turner politicians found are Oklahoma-based, not Santa Fe). Unidentifiable at supported confidence.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "660705b9-a726-4046-820a-055b17cc1583",
+    "name": "Waterhouse, Charles",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "El Paso, TX 79912 resident, occupation 'Manager', employer 'Sqlc'. No public profile ties this individual to a specific employer. 'SQLC' most plausibly = Senior Quality Lifestyles Corporation (a TX senior-living operator), but that firm operates in Austin/Houston/DFW/Corpus Christi, not El Paso, so the match is unconfirmed. No FEC PAC or lobbyist records located.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "657d3875-5a9c-456c-ba6a-f2e181e3ea32",
+    "name": "Guillot, Janine",
+    "resolved_employer": "Self-employed (independent ESG/sustainable-finance advisor; former CEO of the SASB Foundation / Value Reporting Foundation)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "San Francisco Bay Area sustainable-finance executive, matches donor's SF 94131 self-employed record. Former CEO of SASB Foundation and Value Reporting Foundation (2019-2022); prior COO-Investments at CalPERS and senior roles at Barclays Global Investors and Bank of America. Now an independent advisor/board member (e.g., ReFED). No FEC pro-Israel/pro-Palestine, oil/gas, gun, or defense PAC ties; no lobbyist registration.",
+    "source_url": "https://foundation.sfsu.edu/janine-guillot",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "65642e86-0c99-4a78-b0c9-9156603f6a21",
+    "name": "Fuentes, Vanessa",
+    "resolved_employer": "City of Austin (Austin City Council Member, District 2; Mayor Pro Tem 2025)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Austin City Council Member for District 2 (Southeast Austin), in office since Jan 2021, reelected 2024, elected Mayor Pro Tem for 2025. Matches donor's Austin 78744 'district rep / city of austin' record. Elected official; no pro-Israel/pro-Palestine, oil/gas, gun, or defense PAC or lobbyist records found.",
+    "source_url": "https://www.austintexas.gov/department/council-member-vanessa-fuentes-biography",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "626fed36-08fa-43c8-b2fe-c62e265d3a9d",
+    "name": "Guerra, Melissa",
+    "resolved_employer": "eSkillz (co-founder and executive; firm leadership lists Chief International Officer / prior COO; donor record lists CRO)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Co-founder and senior executive of eSkillz, a San Antonio-based Human Capital Management / LMS support and consulting technology firm (Inc. 5000 honoree). Matches donor's San Antonio 78210 'CRO / eSkillz' record. This is very likely the same person as the other batch record (Melissa Guerra, 'VP Operations,' 5111 Spring Ash 78247) under a different title. Only FEC record found is a $5 individual candidate contribution to Beto O'Rourke's People Powered Action (2019); no advocacy-org affiliation, no lobbyist registration.",
+    "source_url": "https://eskillz.com/about-us/leadership-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

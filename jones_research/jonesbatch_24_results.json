@@ -1,0 +1,244 @@
+[
+  {
+    "donor_id": "536f14e4-bba5-42bc-9d9b-6faa5472164a",
+    "name": "Kapoor, Poonam",
+    "resolved_employer": "Rose International (marketing role, per filing)",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Filing lists a Houston (77007, Cohn St) resident in Marketing at Rose International, a woman/minority-owned staffing & talent-solutions firm. Could not locate an independent bio for this specific Poonam Kapoor; a same-named Houston real-estate agent (Surya Group, 77056) appears to be a different person. Classified by employer/occupation only.",
+    "source_url": "https://www.careerbuilder.com/company/rose-international/C8Q5W46GD8F43BCKW6L",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4ddeb78b-5b2a-40e4-92c7-33f40e4d063b",
+    "name": "Talbott, Donna",
+    "resolved_employer": "Not Employed (retired); volunteer/board member with animal-rescue nonprofits",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "San Antonio resident (78232, Crow Vly), listed 'Not Employed' on the Gina Jones filing. Public records and org materials tie a Donna Talbott at this location to the San Antonio Feral Cat Coalition (secretary/volunteer) and Wildlife Rescue & Rehabilitation.",
+    "source_url": "https://sanantonioferalcats.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "San Antonio Feral Cat Coalition", "role": "secretary/volunteer", "category": "civic", "source_url": "https://www.guidestar.org/profile/76-0766948", "snippet": "All-volunteer 501(c)(3) dedicated to Trap-Neuter-Return; Donna thanked as a supporter/volunteer."}
+    ]
+  },
+  {
+    "donor_id": "3d44b962-aff3-471f-b4bc-fe74a3144115",
+    "name": "Sailer, David",
+    "resolved_employer": "SEIU (union representative); also founder of Clarion River Group",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "Montclair, NJ (07042) resident. Longtime labor figure: Director of Finance & Administration at SEIU Local 32BJ, former exec director of the National Housing Institute, later founder/owner of Clarion River Group. Occupation 'union rep' / employer 'SEIU' match exactly.",
+    "source_url": "https://www.linkedin.com/in/davidsailer/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "SEIU (Service Employees International Union)", "role": "union representative / finance & admin director (Local 32BJ)", "category": "political", "source_url": "https://www.unionfacts.com/employee/Service_Employees/DAVID/SAILER", "snippet": "Listed as an SEIU employee; rejoined the labor movement at SEIU after leaving the National Housing Institute."}
+    ]
+  },
+  {
+    "donor_id": "22c2108f-b69a-4ac0-8dfd-7aa52aae52bb",
+    "name": "Arciniega, Ruben",
+    "resolved_employer": "UT San Antonio (UTSA) — Program Coordinator, College of Engineering",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "San Antonio (78210) resident; 10-year UTSA staffer and program coordinator in Civil & Environmental Engineering, EdD/PhD student in Educational Leadership. Ran for San Antonio City Council District 2 in 2019 and formerly owned Amaya's Cocina restaurant. Occupation 'Program Admin' / 'UTSA' match exactly.",
+    "source_url": "https://klesse.utsa.edu/news/2019/10/staff-spotlight-ruben-arciniega.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio City Council District 2 (2019 candidate)", "role": "candidate", "category": "political", "source_url": "https://www.facebook.com/RArciniegaD2SA/", "snippet": "Ruben Arciniega ran for the District 2 council seat in 2019; pro-inclusion, pro-Climate Action & Adaptation Plan platform."}
+    ]
+  },
+  {
+    "donor_id": "1c8731d7-591f-4e16-9afe-238eafff2f01",
+    "name": "Pac, Ffac",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Almost certainly a data-entry artifact, not a real individual — 'Pac, Ffac' parses to 'FFAC PAC'. The Factory Farming Awareness Coalition (FFAC) is a Berkeley, CA 501(c)(3) advocacy nonprofit (not a PAC) at a different address; the only FEC 'FF PAC' (C00669259) is a DC-based hybrid PAC unrelated to Pittsburg CA. No committee matches the PO Box 8095, Pittsburg CA 94565 listing. Likely a conduit/committee mis-entered as an individual donor. Not resolvable to a person.",
+    "source_url": "https://www.fec.gov/data/committee/C00669259/?tab=raising",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "178979ae-aa49-4aad-94e6-2ca6583b6019",
+    "name": "Cowen, Sarah",
+    "resolved_employer": "Cowen & Garza, LLP (attorney, McAllen TX)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Sarah Pierce Cowen, TX Bar #15997480 (licensed 1986), UT School of Law JD; partner at Cowen & Garza LLP in McAllen practicing bankruptcy, personal injury, business law. Matches occupation 'Attorney', employer 'Cowen', and McAllen 78501 address.",
+    "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=182744",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "95513dfc-7be9-4b0f-9599-5efc0faf1bc4",
+    "name": "Patterson, John Kirk",
+    "resolved_employer": "Self-employed attorney, San Antonio",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "LinkedIn lists 'John Kirk Patterson - Attorney - Self-employed,' consistent with donation record (occupation Lawyer, employer Self Employed, San Antonio 78209). LinkedIn page blocked (HTTP 999) so full bio not readable; identity corroborated by name + occupation + self-employed + city.",
+    "source_url": "https://www.linkedin.com/in/john-kirk-patterson-a85a77241",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4a5d8ffb-c777-4f94-b350-eb6cd89788aa",
+    "name": "Griffith, Loma",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donation record lists Not Employed in Santa Barbara CA 93111. Only people-search directory listings exist for the name (no professional bio, board, or advocacy profile). No FEC PAC, lobbyist, or affiliation records found.",
+    "source_url": "https://checkpeople.com/search/name/loma-griffith",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "edec789c-59cf-4431-ad2f-a452940f14ef",
+    "name": "Grimaldi, Karen",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Karen J. Grimaldi (b. ~1956), Pompton Plains NJ 07444, per public directory records; matches Not Employed status. No professional bio, no FEC PAC contributions, no lobbyist registration, no policy affiliations located.",
+    "source_url": "https://www.spokeo.com/Karen-Grimaldi",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bb0f8cad-4284-4433-9686-ea2c962305b7",
+    "name": "Arciniega, Ruben",
+    "resolved_employer": "Former San Antonio City Council D2 candidate; 'certification specialist' (Not Employed per record)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Ruben Arciniega ran for San Antonio City Council District 2 (Eastside) in 2019 as a certification specialist and LGBTQ-inclusion advocate; his 'Reclaim the Future' campaign matches the Eastside 78203 address. Same-name people exist (UTSA staffer, Bonita Landscaping PM), but the D2 candidate best fits the location.",
+    "source_url": "https://www.ksat.com/news/2019/04/24/your-questions-answered-san-antonio-city-council-district-2-candidates/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "San Antonio City Council District 2 (2019 candidate)", "role": "Candidate", "category": "political", "source_url": "https://www.facebook.com/RArciniegaD2SA/", "snippet": "Ruben Arciniega - District 2 City Council - Reclaim the Future"}
+    ]
+  },
+  {
+    "donor_id": "aa9e1c8f-80e7-4ea0-8c2f-e0960ec461d1",
+    "name": "LaMasters, Byron",
+    "resolved_employer": "InFocus Campaigns (Partner/co-founder, Democratic political consulting firm)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Byron LaMasters, DC-based Democratic political operative, founder of the Burnt Orange Report blog (2003) and co-founder/Partner of InFocus Campaigns (2011); UT Austin grad, AAPC '40 Under 40' 2022. Matches DC address and occupation exactly.",
+    "source_url": "https://www.infocuscampaigns.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LGBTQ+ Victory Fund", "role": "Campaign Board member", "category": "political", "source_url": "https://www.infocuscampaigns.com/about/", "snippet": "Serves on the Campaign Board for the LGBTQ+ Victory Fund"},
+      {"org": "Burnt Orange Report / InFocus Campaigns", "role": "Founder / Partner (Democratic campaigns)", "category": "political", "source_url": "https://www.infocuscampaigns.com/about/", "snippet": "founding the Burnt Orange Report blog in 2003... helped hundreds of clients... win elections"}
+    ]
+  },
+  {
+    "donor_id": "9cf4863e-1eae-40d8-b80b-72ce2f19b638",
+    "name": "Stokes Hilton, Lee",
+    "resolved_employer": "Not Employed; holds oil & gas royalty (mineral) interests in Texas",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Lee Stokes Hilton of Austin 78735 (affluent Barton Creek area) lists occupation Not Employed but holds 10 oil/gas royalty interests across Rusk and Gaines counties, operated by OXY USA, TGNR East Texas, and The Long Trusts. Zip and Austin location match the mineral-records entry.",
+    "source_url": "https://www.mineralholders.com/texas/austin/lee-stokes-hilton/993038",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Oil & gas royalty interests (OXY USA, TGNR East Texas, Long Trusts)", "role": "Mineral/royalty interest owner", "category": "oil_gas", "source_url": "https://www.mineralholders.com/texas/austin/lee-stokes-hilton/993038", "snippet": "royalty interests... Six Seminole (San Andres) properties operated by OXY USA INC. ... Rusk County... Gaines County"}
+    ]
+  },
+  {
+    "donor_id": "71641b03-e293-4411-8ac8-31bdb87bb373",
+    "name": "Willoughby, Vickie",
+    "resolved_employer": "Inspector, HUD/FEMA (San Antonio) — per self-reported occupation; no public profile located",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Self-reported as a HUD/FEMA inspector in San Antonio 78237 (west-side address). No public bio, LinkedIn, FEC PAC, or lobbyist record found to confirm the specific individual; classified by stated employer (federal housing/disaster inspection). Likely a contract disaster inspector.",
+    "source_url": "https://www.fema.gov/faq/employment-home-inspector-fema",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "67f3adf7-e4b9-4a6a-a034-41a3ef7f0225",
+    "name": "Parker, Jason",
+    "resolved_employer": "MML Investors Services, LLC (MassMutual) — financial advisor, San Antonio",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Jason Parker is a San Antonio financial advisor with MML Investors Services / MassMutual (Series 63 & 65, registered in TX and LA); prior stints at MetLife Resources and MassMutual Life. Firm office at 10101 Reunion Pl, San Antonio 78216; donor address is San Antonio 78232, occupation/employer match.",
+    "source_url": "https://money.usnews.com/financial-advisors/advisor/jason-parker-4139488",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "662808fc-3efc-4705-b460-2d70217edc32",
+    "name": "George, Karen",
+    "resolved_employer": "Ralph S. O'Connor & Associates (Houston private-equity/venture-capital investment firm) — Associate",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Karen Ostrum George (Houston 77005, Rice Blvd) is a Rice alum (BA 1977, MAcc 1978), ~40-year private equity/VC investor at Ralph S. O'Connor & Associates, Rice Trustee Emeritus. Longtime Democratic donor. Despite the firm's natural-resources/oil-gas roots, her personal profile shows investment work and women's/civic philanthropy, not an oil-gas advocacy role.",
+    "source_url": "https://business.rice.edu/person/karen-ostrum-george",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Planned Parenthood Gulf Coast", "role": "Former Board Chair", "category": "civic", "source_url": "https://business.rice.edu/person/karen-ostrum-george", "snippet": "Planned Parenthood Gulf Coast (former chair)"},
+      {"org": "EMILY's List / Lizzie Fletcher for Congress", "role": "Individual Democratic donor", "category": "political", "source_url": "https://houstonrepublic.com/stories/549395893-karen-ostrum-george-donates-2-500-to-elizabeth-fletcher-s-campaign-committee-in-q2-2020", "snippet": "Karen Ostrum George donates $2,500 to Elizabeth Fletcher's campaign committee... also gave to EMILY's List"}
+    ]
+  },
+  {
+    "donor_id": "5163879b-4279-4998-b5af-30ef21226ef3",
+    "name": "Longoria, Kassi",
+    "resolved_employer": "MAYA Consulting (now VIDA Collaborative), Austin — social-impact consulting firm serving nonprofits/education",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "CEO of MAYA Consulting (rebranded VIDA Collaborative) in Austin since Nov 2022; joined 2019 as Principal/VP of Early Childhood & Family Programs. Name, employer 'MAYA Consulting', and Austin location all match.",
+    "source_url": "https://mayaconsultingllc.com/2022/11/04/wiuouryf8mbpnmxjyecajcz6kks367-bm4nd/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0f0eb6d0-4cd6-4604-a91b-9bd2194891db",
+    "name": "Salas, Simon",
+    "resolved_employer": "President & CEO, Good Samaritan Community Services (nonprofit social services), San Antonio",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "President/CEO of Good Samaritan Community Services (Good Sam) in San Antonio since 2017; Columbia BA/JD/MPA; prior charter-school network CEO. Matches occupation Executive/CEO, employer 'Nfp,Good Samaritan', and 78212 San Antonio location.",
+    "source_url": "https://goodsamaritancommunityservices.org/senior-staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Good Samaritan Community Services", "role": "President & CEO", "category": "civic", "source_url": "https://goodsamaritancommunityservices.org/senior-staff/", "snippet": "Simon Salas serves as president and chief executive officer of Good Samaritan Community Services."}
+    ]
+  },
+  {
+    "donor_id": "0382233b-b3c7-43c5-a5d6-8670a10d4094",
+    "name": "Preston, Terrel",
+    "resolved_employer": "Retired USAF Colonel (26 yrs); now Equity & Civil Rights Executive / Adjunct Professor; LGBTQ-rights advocate",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Retired Air Force Colonel (pilot, squadron commander, Desert Storm) living in San Antonio; post-service civil-rights executive and Equality Texas board member. Matches 'Colonel USAF (Ret)' occupation and San Antonio location. No defense-contractor tie, so no military_defense classification.",
+    "source_url": "https://equalitytexas.org/press-release/equality-texas-elects-col-terrel-s-preston-usaf-ret-to-board-of-directors",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Equality Texas", "role": "Board of Directors member", "category": "civic", "source_url": "https://equalitytexas.org/press-release/equality-texas-elects-col-terrel-s-preston-usaf-ret-to-board-of-directors", "snippet": "In September 2010, Preston was elected to the Equality Texas board of directors; also led HRC chapter events and advised the Servicemembers Legal Defense Network."}
+    ]
+  },
+  {
+    "donor_id": "00d4cbe4-4c88-4cc3-a0af-76eab10520a6",
+    "name": "Salas-Porras, Ana Luisa",
+    "resolved_employer": "Not Employed (retired); volunteer treasurer of Register2Vote voter-registration nonprofit",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Austin resident on Shoal Creek Blvd, 78756, self-reported Not Employed; public records list her as treasurer of Register2Vote (nonpartisan voter-registration 501(c)(4)). Distinctive name plus exact street/zip match support identity.",
+    "source_url": "https://www.corporationwiki.com/Texas/Austin/ana-luisa-salas-porras/36563951.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Register2Vote", "role": "Treasurer", "category": "civic", "source_url": "https://www.corporationwiki.com/Texas/Austin/ana-luisa-salas-porras/36563951.aspx", "snippet": "Ana Salas-Porras listed as Treasurer for Register 2 Vote, an Austin-based nonpartisan voter-registration 501(c)(4)."}
+    ]
+  },
+  {
+    "donor_id": "d2d23725-aec9-4337-a7a2-12095381a4cb",
+    "name": "Green, Mary",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported Not Employed, San Antonio 78209 (Alamo Heights area). 'Mary Green' is a very common name with no distinguishing public profile; could not confirm the specific individual.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  }
+]

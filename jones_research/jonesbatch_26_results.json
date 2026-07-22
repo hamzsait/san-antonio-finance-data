@@ -1,0 +1,246 @@
+[
+  {
+    "donor_id": "1a8fa738-c52b-4d1b-b79f-c77081aaa67b",
+    "name": "Shore, Debra",
+    "resolved_employer": "Retired public official; former U.S. EPA Region 5 Administrator (Biden admin) and former commissioner, Metropolitan Water Reclamation District of Greater Chicago",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as Debra Shore of Evanston, IL, appointed by Biden as EPA Region 5 Administrator in Oct 2021; three-term elected MWRD commissioner. 'Not Employed' consistent with post-government status.",
+    "source_url": "https://epa.gov/newsreleases/epa-announces-appointment-debra-shore-regional-administrator-epa-region-5",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Chicago LGBT Hall of Fame", "role": "Inductee", "category": "civic", "source_url": "https://chicagolgbthalloffame.org/shore-debra/", "snippet": "Debra Shore is listed among inductees of the Chicago LGBT Hall of Fame, reflecting civic recognition."}
+    ]
+  },
+  {
+    "donor_id": "178a84be-f5c7-4c80-8033-e9d8d70093f6",
+    "name": "Cabana, Nonie",
+    "resolved_employer": "Adjunct faculty, Alamo Colleges (and Texas A&M); Colonel USAF (Ret.); owner, N C Cabana Logistics LLC",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Confirmed as Nonie C. Cabana of Helotes, TX, retired Air Force Colonel and adjunct professor teaching at Alamo Colleges; matches occupation 'Faculty / Alamo colleges.'",
+    "source_url": "https://marquistopeducators.com/2020/08/19/nonie-c-cabana-colonel-usaf-ret/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "125a3e48-a434-4021-8307-a91e0fb834b7",
+    "name": "Baland, Michael",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm a specific Michael Baland; filing address data is garbled (zip 10467 is a Bronx NY code appended to a San Antonio street/zip 78245). No public bio, FEC PAC records, or lobbyist registration found. Listed 'Not Employed.'",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0db9b592-b6df-49d2-a2a6-755bde6cd0df",
+    "name": "Heafitz, Ina",
+    "resolved_employer": "Retired; trustee of the Ina and Lewis Heafitz Charitable Foundation (Charlestown/Needham, MA)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Ina Heafitz of Charlestown, MA matches the eponymous family private grantmaking foundation based in the same town; 'retired' consistent. Foundation is a private grantmaker (education, human services, museums, hospitals), not a policy-advocacy body.",
+    "source_url": "https://www.causeiq.com/organizations/ina-and-lewis-heafitz-charitable-foundation,260623896/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Ina and Lewis Heafitz Charitable Foundation", "role": "Namesake/trustee", "category": "civic", "source_url": "https://projects.propublica.org/nonprofits/organizations/260623896", "snippet": "Private family charitable foundation making grants to universities, museums, hospitals and local nonprofits in MA, ME and PA."}
+    ]
+  },
+  {
+    "donor_id": "c94c8dab-ff45-43d4-b15f-5b7c82616cc5",
+    "name": "Barker, John",
+    "resolved_employer": "U.S. General Services Administration (GSA), administrative role",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Common name; could not confirm the specific individual via bio search. Industry assigned by employer-fallback: filing lists employer 'GSA' (U.S. General Services Administration) and occupation 'Admin,' a federal government job. San Antonio 78213 address. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://www.gsa.gov/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c66415f2-0491-4363-9466-5ef7bf4eb68a",
+    "name": "Miller, Caroline",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name in the South Miami/Coral Gables 33143 area; listed as Not Employed. No FEC PAC records, lobbyist registration, or public bio could be tied to this specific individual with confidence.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3e814f56-74ae-4c7f-abff-cf9de1cdbedc",
+    "name": "Reyna, Adelfa",
+    "resolved_employer": "Retired schoolteacher, San Antonio ISD (SAISD)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "LinkedIn profile 'Adelfa Reyna - Retired school teacher at SAISD' and Kennedy High School (San Antonio) alumna records match a retired San Antonio educator (78213); listed as Retired/Not Employed. No FEC PAC or Texas lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/adelfa-reyna-1554b359",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5558be36-3a2a-4acd-b455-863862f7e332",
+    "name": "Guerra, Joaquin",
+    "resolved_employer": "Principal & Digital Engagement Strategist (San Antonio political/digital consulting; donor-listed firm 'Conexion')",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Joaquin Guerra is a San Antonio-based bicultural digital/political campaign strategist with 20+ years managing digital campaigns for MoveOn.org, Presente.org, SEIU and the Texas Organizing Project; matches donor's 'Partner/Consultant' occupation and San Antonio 78209 location. Not found in Texas lobbyist registry.",
+    "source_url": "https://theaapc.org/event_speaker/joaquin-guerra/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Pac+ (Latino social-justice PAC)", "role": "Board member", "category": "political", "source_url": "https://theaapc.org/event_speaker/joaquin-guerra/", "snippet": "Board member of Pac+ (a social justice PAC) and MOVE San Antonio."},
+      {"org": "MOVE San Antonio", "role": "Board member", "category": "civic", "source_url": "https://theaapc.org/event_speaker/joaquin-guerra/", "snippet": "Board member of MOVE San Antonio, a youth civic engagement organization."},
+      {"org": "New Leaders Council", "role": "Co-founder (Houston/San Antonio)", "category": "political", "source_url": "https://theaapc.org/event_speaker/joaquin-guerra/", "snippet": "Co-founder of New Leaders Council (Houston and San Antonio); coach for NLC and the DCCC."}
+    ]
+  },
+  {
+    "donor_id": "edafecfc-7797-4f96-8a9f-0281c9fff535",
+    "name": "Freeland, Mark",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "City-Data FEC records show a Mark Freeland in Bremerton 98312 listed as unemployed making small-dollar donations to the DCCC, matching donor's Not Employed status and location; a recurring small-dollar Democratic donor. No ideological PAC or lobbyist records.",
+    "source_url": "https://www.city-data.com/elec2/16/elec-BREMERTON-WA-16-part2.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9958ba22-5996-4219-9eaf-d60d9f92d7b7",
+    "name": "Burnside, Susan",
+    "resolved_employer": "President, Burnside & Associates (Los Angeles political consulting firm)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Sue (Susan) Burnside is a national Democratic grassroots political consultant and president of LA-based Burnside & Associates; worked on Kerry/Gore presidential campaigns and elected numerous LGBT candidates. LA location and Political Consultant/Self occupation match. No ideological PAC or lobbyist filings found.",
+    "source_url": "http://burnsideandassociates.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LGBTQ+ Victory Fund - Victory Campaign Board", "role": "Co-Chair (now Co-Chair Emeritus)", "category": "political", "source_url": "https://victoryfund.org/about/victory-campaign-board/", "snippet": "Burnside is co-chair of the Gay & Lesbian Victory Fund's Campaign Board; more recently Co-Chair Emeritus of the Victory Campaign Board."},
+      {"org": "Equality California", "role": "Board member", "category": "civic", "source_url": "https://lgbtnewsnow.org/sue-burnside/", "snippet": "Sits on the board of Equality California."}
+    ]
+  },
+  {
+    "donor_id": "feef3e7e-5f7d-427a-beef-6d06cbd7885a",
+    "name": "Air Castles, LLC",
+    "resolved_employer": "Air Castles, LLC — party/event equipment rental company (bounce houses, moonwalks, inflatable rides) at 2215 N Zarzamora St, San Antonio; manufactures, repairs, sells and rents inflatables; in business since 2001",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Local San Antonio inflatable/party-rental business at the exact donor address (2215 N Zarzamora, 78201); listed on Yelp, BBB (as 'Jumping Balloons'), and San Antonio Hispanic Chamber. Not a lobbying or advocacy entity.",
+    "source_url": "https://aircastlemoonwalks.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fe9dbdd0-e546-43d3-836f-1cef4a106590",
+    "name": "Warnke, Stephen",
+    "resolved_employer": "Ropes & Gray LLP (retired 2024) — New York health care lawyer, 30+ years; advised nonprofit health systems and managed care on Medicare/Medicaid and fraud-and-abuse matters",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Stephen A. Warnke, Yale Law '85, longtime Ropes & Gray health care partner and former NYC government policy advisor; Chambers 'Star Individual.' Brooklyn 11215 address consistent with NY lawyer.",
+    "source_url": "https://www.ropesgray.com/en/news-and-events/news/2026/05/in-memoriam-stephen-warnke",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "FAIR Health", "role": "Founding chair", "category": "civic", "source_url": "https://www.ropesgray.com/en/news-and-events/news/2026/05/in-memoriam-stephen-warnke", "snippet": "Served as founding chair of FAIR Health, a national nonprofit dedicated to fostering greater transparency in health care costs and health insurance information."}
+    ]
+  },
+  {
+    "donor_id": "fe40506f-d217-444c-bd93-2a790eb628de",
+    "name": "Van Houten, Tracy",
+    "resolved_employer": "NASA Jet Propulsion Laboratory (JPL) — aerospace/spacecraft systems engineer; Flight System Verification & Validation Lead for Mars 2020 (Perseverance); also worked Curiosity and SMAP",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Tracy Van Houten, ~2 decades JPL systems engineer in Pasadena; ran as a Democrat in the 2017 CA-34 special-election primary on a climate/data-driven-policy platform. Pasadena 91104 address matches.",
+    "source_url": "https://votersedge.org/ca/en/election/2017-04-04/los-angeles-county/u.s.-house-of-representatives-district-34/tracy-van-houten",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Tracy4Congress (CA-34 special election, 2017)", "role": "Democratic congressional candidate", "category": "political", "source_url": "https://www.csmonitor.com/USA/Politics/2017/0403/Why-this-rocket-scientist-is-running-for-Congress", "snippet": "One of 24 primary candidates for California's 34th District; campaign centered on battling climate change and data-driven public policy."}
+    ]
+  },
+  {
+    "donor_id": "fc62d9fd-b0d4-428b-818d-4fdc144a3435",
+    "name": "Mcpike, Richard",
+    "resolved_employer": "U.S. Rep. Mark Takano (D-CA) — Chief of Staff; also Alexandria (VA) City Council member and (as of Feb 2026) member, Virginia House of Delegates",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Richard Kirk McPike, longtime chief of staff to Rep. Mark Takano (ranking member, House Veterans' Affairs); Alexandria City Council 2021-, won Feb 2026 VA House of Delegates special election. Alexandria VA 22304 address matches.",
+    "source_url": "https://en.wikipedia.org/wiki/R._Kirk_McPike",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of Alexandria / LGBTQ equality advocacy", "role": "LGBTQ rights advocate; 2024 individual Equality Award recipient", "category": "civic", "source_url": "https://www.washingtonblade.com/2026/02/12/kirk-mcpike-wins-special-election-virginia/", "snippet": "Recognized in 2024 with the individual Equality Award for work supporting LGBTQ+ equality in Alexandria; became the eighth out LGBTQ member of the Virginia General Assembly."}
+    ]
+  },
+  {
+    "donor_id": "f99ff422-e93c-4dfc-b8a1-1d8f8465d776",
+    "name": "Tipps, Dwight",
+    "resolved_employer": "Self-employed farmer, Briscoe (Wheeler County), TX; also holds passive oil & gas mineral/royalty interests",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Listed occupation Farmer, self-employed. Public mineral records for 'Stephen Dwight Tipps' of Briscoe, TX 79011 (matching donor) show royalty interests in Wheeler County operated by Unbridled Resources, Presidio Petroleum, and MMGL TXPH LLC. These are passive mineral/royalty interests, not an operating oil & gas company role. No oil/gas, ag, or ideological PAC contributions or lobbyist registration found.",
+    "source_url": "https://www.mineralholders.com/texas/briscoe/stephen-dwight-tipps/7198241",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f8d4a943-2caa-44cf-9c82-b1b56deb8b5c",
+    "name": "Paguio, Jason",
+    "resolved_employer": "President & CEO, Asian Business Association of San Diego",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Jason Paguio has led the Asian Business Association San Diego (President/CEO) since 2019; a recognized AANHPI small-business advocate, appointed by Gov. Newsom to (and now chair of) the CA Commission on Asian & Pacific Islander American Affairs. Chula Vista/91913 address matches.",
+    "source_url": "https://www.nbcsandiego.com/news/local/gov-newsom-appoints-san-diegos-jason-paguio-to-state-api-commission/2953685/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Asian Business Association of San Diego", "role": "President & CEO", "category": "business", "source_url": "https://www.linkedin.com/in/jasonpaguio/", "snippet": "President & CEO of the Asian Business Association San Diego, advocating for AANHPI small-business owners."},
+      {"org": "California Commission on Asian and Pacific Islander American Affairs", "role": "Commissioner / Chair", "category": "civic", "source_url": "https://capiaa.ca.gov/commissioners/", "snippet": "Appointed by Gov. Newsom and unanimously elected chair of the state APIA affairs commission."}
+    ]
+  },
+  {
+    "donor_id": "f7b5c908-ddf1-4dea-a27f-1c4178a9cc15",
+    "name": "Moskowitz, Anna",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Naples, FL (34102) donor listed as Not Employed; a prolific FEC contributor (114 donations in source data), but no public bio, profile, or specific ideological-PAC ties could be corroborated to confirm identity beyond the generic donor record.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f6a70c6c-80d4-48d2-8b48-822d8f7ba0d1",
+    "name": "Farrell, Catherine",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Arlington, MA (02474) donor, Not Employed; a documented Democratic small-dollar FEC donor (e.g., $500 to The Markey Committee 2020; $250 to Rideshare 2 Vote) and likely the local environmental/civic activist of the same name, though the two records are not definitively linked.",
+    "source_url": "https://dallascitywire.com/rideshare-2-vote-receives-250-from-catherine-farrell-of-arlington-massachusetts-on-september-25/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f65d46d5-0568-4564-b4f8-21bfcccc0c93",
+    "name": "Rosenberg, Barbara",
+    "resolved_employer": "Retired attorney (Barbara E. Rosenberg; former Dallas Court of Appeals justice and Dallas City Attorney's Office)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Retired Dallas attorney in Lakewood (75214); best match is Barbara E. Rosenberg, TX bar since 1976, appointed by Gov. Ann Richards to the Dallas Court of Appeals in 1992 and later in the Dallas City Attorney's Office. Prolific Democratic FEC donor; no ideological-PAC ties found.",
+    "source_url": "https://lawyers.justia.com/lawyer/barbara-e-rosenberg-218384",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Dallas Court of Appeals", "role": "Justice (1992, appointed by Gov. Ann Richards)", "category": "political", "source_url": "http://www.thedallasway.org/stories/written/written-stories/2015/5/24/1992-barbara-rosenberg-campaign-story", "snippet": "Gov. Ann Richards appointed Rosenberg to a vacant seat on the Dallas Court of Appeals in January 1992; she ran that November for the unexpired term."}
+    ]
+  },
+  {
+    "donor_id": "fa71c638-b1e3-4cef-b258-c6dd340310e8",
+    "name": "Tamayo, William",
+    "resolved_employer": "Retired federal government attorney (former EEOC San Francisco Regional Attorney and District Director)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "William R. Tamayo, prominent Asian-American civil-rights attorney: EEOC San Francisco Regional Attorney (1995-2015) and District Director (2015-2021), previously managing attorney at the Asian Law Caucus (1979-1995). SF/94131 address and 'lawyer / Federal government' occupation match.",
+    "source_url": "https://www.eeoc.gov/newsroom/william-tamayo-named-district-director-eeocs-san-francisco-district-office",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Asian Law Caucus", "role": "Staff / Managing Attorney (1979-1995)", "category": "civic", "source_url": "https://www.equalrights.org/about/bios/bill-tamayo/", "snippet": "Concentrated on immigration/nationality law, employment discrimination, immigrant and voting rights before joining EEOC."}
+    ]
+  }
+]

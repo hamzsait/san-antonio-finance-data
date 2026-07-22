@@ -1,0 +1,228 @@
+[
+  {
+    "donor_id": "eb965d54-87e1-423a-8d2e-d2f0ef2e1fc7",
+    "name": "Rogers, Craig",
+    "resolved_employer": "Webb, Cason & Manning, P.C.",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Craig A. Rogers is a Corpus Christi, TX attorney affiliated with Webb, Cason & Manning, P.C., practicing personal injury and insurance defense (~39 years licensed, UT School of Law). State Bar of Texas and Super Lawyers confirm the firm affiliation, matching the record's employer string and Corpus Christi location. No FEC PAC contributions and no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://profiles.superlawyers.com/texas/corpus-christi/lawfirm/webb-cason-and-manning-pc/5c75bafe-130e-45b0-afe7-59980b92ea36.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ea3c4f77-8d26-4f98-82f9-86e1a5fe8e4a",
+    "name": "Gaylord, Shawn",
+    "resolved_employer": "The Raben Group",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Shawn Gaylord is a Principal at The Raben Group (public affairs / government relations firm) in Washington, DC, working in issue campaigns and government affairs with a background in LGBTQ advocacy (former ED of the Congressional LGBTQ+ Equality Caucus, GLSEN, Human Rights First). Confirmed via Raben firm bio and LegiStorm, matching employer string and DC address. LGBTQ advocacy roles are documented but fall outside the tracked issue-spectrum categories. No oil/gas, defense, firearms, or Israel/Palestine PAC affiliations found.",
+    "source_url": "https://www.raben.co/people/shawn-gaylord",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ea2203a9-da03-42cc-abe1-adcddf0291b4",
+    "name": "Garcia, Jesse",
+    "resolved_employer": "Jesse Garcia Insurance Agency",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Jesse Garcia is a licensed independent insurance agent/broker who owns Jesse Garcia Insurance Agency (est. 1999) in San Antonio, TX 78240, offering health, Medicare, life, and dental/vision plans. Agency website and location match the record's occupation, self-name employer string, and zip. No FEC PAC contributions and no Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://jessegarciaagency.com/about.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e9d6924b-7c51-4ffa-baa1-3fb7155bd827",
+    "name": "Jacobs, Erik",
+    "resolved_employer": "Weitz & Luxenberg, P.C.",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Erik Jacobs is an associate attorney in the Asbestos Litigation group at Weitz & Luxenberg, P.C. in New York (joined 1997; NY Law School JD, Columbia BA/MIA; admitted NY 1993). Firm bio and NY attorney registration confirm the affiliation, matching employer string and NYC location. Record shows 2 FEC donations; no notable PAC (Israel/Palestine, oil/gas, defense, firearms) affiliations surfaced.",
+    "source_url": "https://www.weitzlux.com/our-attorneys/erik-jacobs/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e8f04270-040f-491f-884b-85cac319b391",
+    "name": "Hlavinka, Bryan",
+    "resolved_employer": "Siemens Energy",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Bryan Hlavinka is a Project Lead Engineer at Siemens Energy in Houston, TX (Texas A&M; work on gas turbine generators). LinkedIn confirms employer and location matching the record. His 148 FEC contributions reflect a Democratic/LGBTQ (Victory Fund) giving pattern; he holds no oil & gas executive/board/ownership role, so no oil_gas classification is warranted. LGBTQ civic roles (Victory Fund campaign board; Legacy Community Health) fall outside the tracked issue-spectrum categories.",
+    "source_url": "https://www.linkedin.com/in/bryanhlavinka/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e8804312-a8bc-4ad2-a97b-0880e49d16a8",
+    "name": "Matula, Kevin",
+    "resolved_employer": "USAA (United Services Automobile Association) — Director of Government Relations",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Kevin Lee Matula is Director of Government Relations at USAA in San Antonio (the donor's occupation/employer fields are swapped). He is a registered Texas lobbyist: Texas Ethics Commission data lists him as an Active Texas Lobbyist with one 2025 client, United Services Automobile Association, compensation range $50,001-$100,000. Former TX House legislative staffer with prior roles at Zachry Group and CPS Energy; named 2025 Rotary Outstanding Young San Antonian. USAA is a financial-services/insurance company, so industry = Finance.",
+    "source_url": "https://texaslobby.org/lobbyists/kevin-matula",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "United Services Automobile Association (USAA)", "role": "Registered Texas lobbyist / Director of Government Relations", "category": "business", "source_url": "https://texaslobby.org/lobbyists/kevin-matula", "snippet": "Active Texas Lobbyist; client: United Services Automobile Association (2025), compensation $50,001-$100,000 per Texas Ethics Commission data."}
+    ]
+  },
+  {
+    "donor_id": "e6cc3475-f92f-4264-944e-8c7c76ef55c9",
+    "name": "Wilson, Daniel",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor listed as Not Employed at 9406 Holly Pl, San Antonio, TX 78254. 'Daniel Wilson' is an extremely common name and no public profile could be tied to this specific San Antonio individual. No identifiable FEC PAC contributions and no Texas Ethics Commission lobbyist registration found for this person. No industry inferred.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e6c6a932-1ed1-43be-ab78-afba9c14b119",
+    "name": "Morter, Christopher",
+    "resolved_employer": "Cox Communications Inc.",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Christopher Scott Morter is an in-house attorney/counsel at Cox Communications Inc. in Atlanta, GA (Martindale and Avvo profiles list zip 30328, matching the donor). Duke University A.B. 1986, University of Virginia Law J.D. 1989, admitted to the Georgia bar 1989; practice areas corporate law, healthcare law, M&A, and securities. No FEC PAC contributions and no Texas lobbyist registration found (donor's fec_donation_count is 0).",
+    "source_url": "https://www.martindale.com/atlanta/georgia/christopher-scott-morter-857955-a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e6c32243-b667-4fe0-9f6c-9e17bbb7d978",
+    "name": "McKnight, Yuanee",
+    "resolved_employer": "San Antonio Academy (Registrar, retired)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Donor is Yulanee H. McKnight (San Antonio 78212, matches address/employer). Per the San Antonio Women's Hall of Fame (2023 inductee) bio, she retired after 22 years as Registrar for 'Summer At The Academy' at San Antonio Academy; earlier career included executive-secretarial roles at the CIA, the Archdiocese of San Antonio, City of San Antonio Model Cities Program, and Exxon, plus Corporate Training Director at Joske's. No FEC PAC contributions and no Texas lobbyist registration found (fec_donation_count 0).",
+    "source_url": "https://sawomenshalloffame.org/members/2023-inductees/yulanee-h-mcknight/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Planned Parenthood", "role": "volunteer supporter", "category": "political", "source_url": "https://sawomenshalloffame.org/members/2023-inductees/yulanee-h-mcknight/", "snippet": "Hall of Fame bio lists her volunteer/civic affiliations including 'Planned Parenthood (Volunteer Supporter).'"}
+    ]
+  },
+  {
+    "donor_id": "e6b0aa80-7b30-4675-9de0-d0fbaf48c23b",
+    "name": "Orton, Gregg",
+    "resolved_employer": "National Council of Asian Pacific Americans (NCAPA)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Gregg Orton is National Director of the National Council of Asian Pacific Americans (NCAPA), a Washington, DC coalition of ~46 AANHPI national organizations (LinkedIn and NCAPA About page confirm role and DC location, matching donor). He previously spent nearly a decade as Chief of Staff for Rep. Al Green (D-TX); Vassar College B.A. in Political Science. No FEC PAC contributions and no Texas lobbyist registration found (fec_donation_count 0). NCAPA is a civil-rights advocacy nonprofit, unrelated to the tracked spectrum categories.",
+    "source_url": "https://www.ncapaonline.org/about-2/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e69a411c-dc31-41d3-b5f3-2dc8080f4b54",
+    "name": "Clayton, Albert",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor lists occupation and employer as 'Retired' at 2420 McCullough Ave Apt 202, San Antonio 78212. No public profile, bio, or former-career detail could be located to identify this specific individual. High FEC donation count (225) is consistent with a recurring small-dollar ActBlue-style donor but no PAC-specific affiliations found. No former career known, so industry cannot be determined.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e6184510-4640-4e11-99db-7e33d8160307",
+    "name": "Choate, Cori",
+    "resolved_employer": "Heartwood Recovery",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Confirmed as Clinical Director / Licensed Clinician (LCDC - Licensed Chemical Dependency Counselor) at Heartwood Recovery, an addiction treatment center in Austin, TX. BA and MA from Texas State University. Matches donor's Therapist / Heartwood Recovery / Austin 78746 details. A separate 'Elizabeth Choate' appears in the TX lobbyist registry but is a different person. No PAC affiliations found.",
+    "source_url": "https://heartwoodrecovery.com/our-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e6027990-3577-4e9b-a7f8-77b4bd2f75fb",
+    "name": "Fernandez, Agnes",
+    "resolved_employer": "UCSF (Registered Nurse)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Donor occupation is Registered Nurse, employer UCSF (University of California San Francisco health system), Oakland CA 94606. Could not confirm this specific individual on a UCSF staff/nursing page (common name), but the employer string and RN occupation clearly place her in Healthcare. Employer-fallback classification. No FEC PAC contributions found (fec_donation_count 0).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e5e9562f-92b9-40da-841a-686003c9902b",
+    "name": "Pina, Jesse",
+    "resolved_employer": "CAP Construction and Environmental, LLC",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Confirmed as founder/President of CAP Construction and Environmental, LLC (San Antonio, TX), a veteran- and minority-owned environmental remediation/construction firm (asbestos abatement, lead/mold removal, environmental testing) founded 2005. Air Force veteran. Matches donor's 'Environmental / CAP Construction and Environmental LLC / San Antonio 78249' details. Owner/president, but no policy-advocacy or PAC affiliations found; not in TX lobbyist registry.",
+    "source_url": "https://cap-ce.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e583afe0-5c83-4330-819b-b93276d7f05c",
+    "name": "Reilly, Jill",
+    "resolved_employer": "Denterlein",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Confirmed as (Senior) Vice President and crisis-team co-leader at Denterlein, a Boston strategic communications / crisis PR firm; announced retirement May 2025. Prior roles: chief of staff at the US Attorney's Office (Boston), PR director at Goodwin Procter, communications director at General Dynamics, and communications at Boston PD / Middlesex DA / MA AG. Matches donor's PR / Denterlein / South Boston 02127 details. Her past General Dynamics role was communications (not exec/board/owner/lobbyist), so no military_defense classification is warranted. No PAC affiliations found.",
+    "source_url": "https://www.denterlein.com/who-we-are",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e4f941c6-c44b-4bba-83b4-1b846bd5ea3e",
+    "name": "Schraub, Fred",
+    "resolved_employer": "CATIC (Connecticut Attorneys Title Insurance Company) — VP & Texas State Counsel",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Frederick D. Schraub is an attorney (State Bar of Texas member, Baylor Law JD) based in San Antonio serving as VP/State Counsel for Texas at CATIC, a title-insurance underwriter. Grew up in a family title business in Seguin, TX; prior underwriting counsel at National Investors Title. Identity corroborated by 78212 San Antonio location, Attorney occupation, and CATIC employer string. FEC record shows a modest $50 individual gift to Beto for Texas (2018) listing him as attorney at National Investors Title — no PAC/industry-advocacy giving found. No Texas lobbyist registration found.",
+    "source_url": "https://www.linkedin.com/in/fred-schraub-b003ba8/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e4d9f373-52a5-48f0-b671-382b277d7973",
+    "name": "Reed, Greg",
+    "resolved_employer": "University of Wisconsin-Madison — Associate Director, James A. Graaskamp Center for Real Estate",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Gregory Reed is Associate Director of the Graaskamp Center for Real Estate at UW-Madison's Wisconsin School of Business (recruiting/career services for Real Estate MBA/MS programs). Native Madisonian, UW BA Political Science 1983 and MS Real Estate Investment 1988; returned to Madison 2018 after 30 years in NYC metro. Also Chair of UW Poli Sci Board of Visitors and an appointed Commissioner on the City of Madison Community Development Authority. Identity confirmed by 53726 Madison WI location, 'Associate Director' occupation, and UW-Madison employer. No federal PAC/industry-advocacy contributions identified; not a Texas registered lobbyist.",
+    "source_url": "https://business.wisc.edu/centers/graaskamp/news/graaskamp-center-welcomes-greg-reed-as-new-associate-director/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e416a4c1-b771-4d76-b4b5-d3d6e6e791d5",
+    "name": "Gerbracht, Heidi L.",
+    "resolved_employer": "re:power (Director, Progressive Governance Academy); founder of Equity Agenda",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Heidi Gerbracht is an Austin-based gender-equity/local-government policy strategist. Founder/director of the nonprofit consultancy Equity Agenda (launched Women Mayors Network with Mayors Innovation Project) and served as Director of the Progressive Governance Academy at re:power. Former City of Austin public servant. Identity confirmed by 78702 Austin location, 'non profit professional' occupation, and re:power employer. No federal PAC or industry-advocacy (oil/gun/defense/Israel-Palestine) contributions found; not a Texas registered lobbyist.",
+    "source_url": "https://repower.org/welcome-heidi-gerbracht/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "URGE: Unite for Reproductive and Gender Equity", "role": "Vice Chair, Board of Directors", "category": "political", "source_url": "https://repower.org/welcome-heidi-gerbracht/", "snippet": "Heidi is also the Vice Chair of the Board of Directors of URGE: Unite for Reproductive and Gender Equity, a state-driven national organization that builds power for a young people's movement for reproductive justice."}
+    ]
+  },
+  {
+    "donor_id": "e3891d9b-af27-490a-8b01-dff0d1a78016",
+    "name": "Copeland, Harold D",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported occupation and employer both 'Not Employed'; Houston PO Box (77263), no FEC contribution history (count 0). Multiple people named Harold Copeland exist in the Houston area and no public profile could be uniquely matched to this donor. No federal PAC contributions and no Texas lobbyist registration found. Quiet fallback — identity not confirmable beyond self-reported status.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e2635a3f-c5ed-420a-b710-b1f8d5a157b6",
+    "name": "Shea, JAS",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported occupation and employer both 'Not Employed'; Austin 78750 (7100 Coachwhip Holw). Only one FEC donation on record and no public profile could be uniquely matched to the 'JAS Shea' initials at this address. No federal PAC contributions and no Texas lobbyist registration found. Quiet fallback — identity not confirmable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  }
+]

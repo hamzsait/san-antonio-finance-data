@@ -1,0 +1,180 @@
+[
+  {
+    "donor_id": "0bf56d4a-a351-45e6-b62a-512b0586d3b1",
+    "name": "Morales, Debra",
+    "resolved_employer": "Silver Eagle Beverages (Anheuser-Busch distributor, San Antonio) — recruiter",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Donor record lists occupation Recruiter, employer Silver Eagle Beverages, San Antonio 78228. Silver Eagle Beverages is a large A-B beer distributor headquartered in San Antonio that staffs recruiting roles; employer/occupation/location align. No individual public profile, PAC contribution, or TX lobbyist registration found for this specific person. FEC pattern (161 donations, lean 0.98) indicates a frequent small Democratic donor but no ideological-PAC ties documented.",
+    "source_url": "https://theorg.com/org/silver-eagle-beverages/offices/hq",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0be6a6a5-1ca8-4bbe-8817-d6acfeb9078e",
+    "name": "Sethi, Pooja",
+    "resolved_employer": "Texas Legislature — Chief of Staff to a State Representative (attorney)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Austin (78730) attorney; donor employer 'State' matches her role as Chief of Staff in the Texas Legislature. Former immigration attorney (Catholic Charities), 2026 candidate for TX House District 47, and Chair of the Travis County Democratic Party. Identity corroborated by Austin location + attorney occupation + state-legislature employer. No TX lobbyist registration and no ideological-PAC contributions found.",
+    "source_url": "https://www.poojafortexas.com/bio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Travis County Democratic Party", "role": "Chair", "category": "political", "source_url": "https://www.poojafortexas.com/bio", "snippet": "Chair of the Travis County Democratic Party"},
+      {"org": "Planned Parenthood Texas", "role": "Board/organizational role", "category": "civic", "source_url": "https://www.poojafortexas.com/bio", "snippet": "Board & organizational roles include Planned Parenthood Texas."},
+      {"org": "Indian American Coalition of Central Texas", "role": "Past President", "category": "civic", "source_url": "https://www.poojafortexas.com/bio", "snippet": "Past President, Indian American Coalition of Central Texas"}
+    ]
+  },
+  {
+    "donor_id": "0b5d9a2c-04ec-4b58-99e7-652249df952a",
+    "name": "Filbert, Suzy",
+    "resolved_employer": "Not Employed (Baltimore; school trustee / civic volunteer)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Donor is in Baltimore (21212), listed Not Employed. A Suzy Filbert of Baltimore serves as a Trustee at Friends School of Baltimore and (with 'Bill Filbert') is listed among philanthropic contributors to Cristo Rey Jesuit High School. Location matches; identity is probable but not individually confirmed beyond the shared name and Baltimore locale. No PAC contributions or (out-of-state) lobbyist registration found.",
+    "source_url": "https://theorg.com/org/friends-school-of-baltimore-inc/org-chart/suzy-filbert",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Friends School of Baltimore", "role": "Trustee", "category": "civic", "source_url": "https://theorg.com/org/friends-school-of-baltimore-inc/org-chart/suzy-filbert", "snippet": "Suzy Filbert - Trustee at FRIENDS SCHOOL OF BALTIMORE INC"}
+    ]
+  },
+  {
+    "donor_id": "06a19a32-0e14-45c8-aaa7-1d8a70081f57",
+    "name": "McNabb, Deborah",
+    "resolved_employer": "Retired (former OB/GYN physician), San Antonio",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Address 2922 Oakleaf Dr, San Antonio 78209 matches public records and a 78209 Magazine profile of Debbie McNabb, a retired OB/GYN (residency at UT Health Science Center San Antonio; retired due to arthritis; later pursued a medical-humanities master's to teach bioethics). Donor 'Not employed' consistent with retirement. No board/advocacy roles, PAC contributions, or lobbyist registration found. Industry from former career (retired).",
+    "source_url": "https://78209magazine.com/profile-debbie-mcnabb-graham-hall/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "060e14f5-bc09-4128-bf5b-33f772f34478",
+    "name": "Langmore, John",
+    "resolved_employer": "Self-employed documentary photographer, Austin",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Austin (78703) self-employed photographer matches John H. Langmore, documentary photographer (book 'Open Range: America's Big-Outfit Cowboy'), son of photographer Bank Langmore, UT Law grad who left a corporate/legal career for photography; co-founded the Austin Center for Photography and co-produced the film 'Cowboys: A Documentary Portrait.' Occupation 'Photographer'/employer 'Self' align. No PAC contributions or TX lobbyist registration found.",
+    "source_url": "http://johnlangmorephotos.com/john-langmore/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin Center for Photography", "role": "Co-founder", "category": "civic", "source_url": "https://voyageaustin.com/interview/rising-stars-meet-john-langmore-of-austin/", "snippet": "co-founded the Austin Center for Photography"}
+    ]
+  },
+  {
+    "donor_id": "05793627-d33b-41f0-99f1-c65848499c99",
+    "name": "Martinez, Carlos",
+    "resolved_employer": "Department of the Air Force (federal DoD employee, communications), San Antonio",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Donor record lists occupation 'Communications' and employer 'Department of the Air Force' in San Antonio 78202. 'Carlos Martinez' is an extremely common name; multiple Air Force-affiliated Carlos Martinez profiles exist but none could be uniquely tied to this 1019 N Palmetto address. Classified as Government (federal DoD employee) per stated employer/occupation. A rank-and-file DoD communications employee is not by itself a military_defense affiliation; no defense-contractor board/exec/lobbyist role found. No TX lobbyist registration and no ideological-PAC contribution found for this specific person.",
+    "source_url": "https://www.af.mil/About-Us/Biographies/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0401b74f-01b3-4a1c-9ecc-cba83c5d075e",
+    "name": "Garza, Delia",
+    "resolved_employer": "Travis County (Travis County Attorney)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed public figure. Delia Garza, attorney, Travis County (Austin 78704) matches donor record exactly. Elected Travis County Attorney (took office Jan 1, 2021), previously Austin City Council member (District 2) and Austin's first Latina Mayor Pro Tem. Democrat: won the 2020 Democratic runoff for county attorney with 56.8%. No TX Ethics Commission lobbyist registration. fec_partisan_lean 0.99 consistent with a Democratic elected official; no specific ideological PAC contribution surfaced.",
+    "source_url": "https://ballotpedia.org/Delia_Garza",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Travis County Attorney's Office", "role": "Travis County Attorney (elected, Democrat)", "category": "political", "source_url": "https://www.kxan.com/news/local/travis-county/delia-garza-lays-out-plans-for-change-as-new-travis-county-attorney/", "snippet": "Delia Garza is the Travis County Attorney, assumed office January 1, 2021; won the Democratic runoff for the office with 56.8%."},
+      {"org": "Austin City Council", "role": "Council Member (District 2) & Mayor Pro Tem (first Latina)", "category": "political", "source_url": "https://patch.com/texas/downtownaustin/delia-garza-poised-make-history-travis-county-attorney", "snippet": "First Latina on Austin City Council and first Latina mayor pro tem; selected as Austin's mayor pro tem in January 2019."}
+    ]
+  },
+  {
+    "donor_id": "03e43bbf-9e91-4404-a440-3c0e750ff9d2",
+    "name": "Taylor, Heather J",
+    "resolved_employer": "Self-employed marketing/PR consultant, Houston ('RES' = Resource Environmental Solutions, a client)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Heather J. Taylor, Houston-based creative lead/writer/marketing & PR consultant (20+ years), matches donor record (Houston 77019, 'PR Consultant'). The employer string 'RES' corresponds to Resource Environmental Solutions, listed among her consulting clients (alongside Reliant, KPMG, NRG, P&G, etc.), i.e. a client relationship rather than a salaried employer. No TX lobbyist registration. Prolific Democratic donor (lean 1.0, 278 donations) but no evidence of contributions to specific ideological PACs; no board/advocacy leadership documented. Her About page could not be fetched, so bio not fully read.",
+    "source_url": "https://www.behance.net/heatherjon33a9",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0353887d-7488-42d2-a3fc-06aa9b3b47cf",
+    "name": "D Curry, Meredith",
+    "resolved_employer": "Northern California College Promise Coalition (NCCPC) — Executive Director",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Meredith Curry Nunez, San Jose (95127), Executive Director of NCCPC (Northern California College Promise Coalition) July 2020-Oct 2025 - matches donor record (occupation 'Executive', employer 'NCCPC', San Jose). NCCPC is a nonprofit coalition of 60+ member organizations advancing college access/affordability and education equity across Northern California. No TX lobbyist registration (out of state). No ideological/partisan PAC contribution found; fec_donation_count 0 in the record.",
+    "source_url": "https://norcalpromisecoalition.org/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Northern California College Promise Coalition (NCCPC)", "role": "Executive Director (2020-2025)", "category": "civic", "source_url": "https://www.linkedin.com/in/meredithdcurry/", "snippet": "Meredith Curry Nunez, Executive Director of NCCPC, long-time social justice advocate working at the intersection of operations, college access, and workforce development."}
+    ]
+  },
+  {
+    "donor_id": "01aeddf1-e79f-4194-baac-5451d279a9ef",
+    "name": "Kuehlthau, Robert",
+    "resolved_employer": "Retired, Huntsville AL (philanthropist; former career undocumented)",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Robert Kuehlthau, retired, Huntsville AL (35802) - matches donor record. Philanthropist; he and wife Susan donated 122 acres on Green Mountain to the Land Trust of North Alabama; the Kuehlthau Family Foundation supports the Huntsville Museum of Art and the couple supports the Huntsville Symphony Orchestra's Amadeus Society. Former career not documented, so industry left null with '(retired)' note. No TX lobbyist registration (out of state). No policy-advocacy or balanced-spectrum PAC affiliation found; his documented ties are civic/philanthropic (land conservation, arts).",
+    "source_url": "https://whnt.com/news/huntsville/live-land-trust-of-north-alabama-announces-new-space-for-public-use-on-green-mountain/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Land Trust of North Alabama", "role": "Major land donor (122 acres, Green Mountain)", "category": "civic", "source_url": "https://whnt.com/news/huntsville/live-land-trust-of-north-alabama-announces-new-space-for-public-use-on-green-mountain/", "snippet": "Robert and Susan Kuehlthau donated 122 acres on Green Mountain to the Land Trust of North Alabama."},
+      {"org": "Huntsville Symphony Orchestra (Amadeus Society)", "role": "Supporter/donor", "category": "civic", "source_url": "https://www.hso.org/support/amadeus-society/", "snippet": "Susan and Robert Kuehlthau are supporters of the Huntsville Symphony Orchestra's Amadeus Society."}
+    ]
+  },
+  {
+    "donor_id": "01abf24f-bb24-454e-af72-605c96c9edbd",
+    "name": "Janani, Maryam",
+    "resolved_employer": "U.S. Department of Commerce, Economic Development Administration (Chief of Staff)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Maryam Janani-Flores is Chief of Staff of the U.S. Economic Development Administration at the Dept. of Commerce, based in Washington, DC. Prior roles: policy research lead at Washington Center for Equitable Growth, policy/legislative director to Rep. Beto O'Rourke, Rep. Abigail Spanberger, and Rep. Norma Torres. Location (DC) and employer (Dept of Commerce) match donor record. No FEC PAC contributions or TX lobbyist registration found (DC-based, not TX).",
+    "source_url": "https://www.eda.gov/about/leadership/maryam-janani-flores",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "017c3614-f409-4c00-a65f-40eac01f4378",
+    "name": "Salinas, Alejandra",
+    "resolved_employer": "Susman Godfrey L.L.P. (litigation partner), Houston",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Alejandra C. Salinas is a litigator at Susman Godfrey in Houston; Boston College Law J.D. Bio confirms prominent Democratic political history and LGBTQ+ civic leadership. Employer, occupation (Lawyer), and Houston 77006 location match. Lean 1.0 consistent with documented Democratic activity. No TX lobbyist registration found.",
+    "source_url": "https://www.susmangodfrey.com/attorneys/alejandra-c-salinas/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic National Committee / College Democrats of America", "role": "Former youngest member of DNC Executive Committee; former President of College Democrats of America; 2012 DNC convention speaker", "category": "political", "source_url": "https://www.susmangodfrey.com/attorneys/alejandra-c-salinas/", "snippet": "Youngest member of the Democratic National Committee's Executive Committee; delivered nationally televised speech on final night of the 2012 Democratic National Convention; former surrogate for President Barack Obama."},
+      {"org": "Greater Houston LGBTQ+ Chamber of Commerce", "role": "Board Member", "category": "civic", "source_url": "https://www.susmangodfrey.com/attorneys/alejandra-c-salinas/", "snippet": "Board Member, Greater Houston LGBTQ+ Chamber of Commerce."}
+    ]
+  },
+  {
+    "donor_id": "01171c7f-d8ab-4526-b8cb-741cd0251af3",
+    "name": "Gonzalez, Janie",
+    "resolved_employer": "Webhead (President & CEO), San Antonio",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Janie Martinez Gonzalez founded and is CEO of Webhead, a San Antonio digital-transformation/IT services firm (West Side, 78207); one of the first Latina-led web firms in Texas. Employer, occupation (CEO), and San Antonio location match. Well-documented public figure; lean 1.0 consistent with her public civic profile. No TX lobbyist registration found.",
+    "source_url": "https://sawoman.com/2025/05/janie-gonzalez-webhead/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "CPS Energy (municipal utility) Board of Trustees", "role": "Trustee and Board Chair (Southwest Quadrant 4)", "category": "civic", "source_url": "https://sawoman.com/2025/05/janie-gonzalez-webhead/", "snippet": "Chair, CPS Energy Board of Trustees - led strategic initiatives including Vision 2027 and Horizon 2050; public servant and trustee representing the Southwest Quadrant."}
+    ]
+  },
+  {
+    "donor_id": "0014d1ba-2673-484b-bcee-3fc8c2614b74",
+    "name": "St Gordon, Landon",
+    "resolved_employer": "MDW Communications (Partner & Chief Creative Officer), Orlando",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Landon St. Gordon is Partner & Chief Creative Officer at MDW Communications, an Orlando-based political consulting/creative firm; consultant on 100+ progressive/LGBTQ campaigns in Florida. Distinctive name, employer, occupation (Consultant), and Orlando 32801 location all match. No FEC PAC record or FL/TX lobbyist registration found.",
+    "source_url": "https://mdwcommunications.com/team/landon-st-gordon/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Equality Florida", "role": "Digital campaign lead (manages MDW's work with the LGBTQ+ statewide advocacy group)", "category": "civic", "source_url": "https://mdwcommunications.com/team/landon-st-gordon/", "snippet": "Digital campaign lead for Equality Florida, one of the largest LGBTQ statewide advocacy groups in the country."},
+      {"org": "Pride to the Polls", "role": "Co-founder", "category": "political", "source_url": "https://mdwcommunications.com/team/landon-st-gordon/", "snippet": "Co-founder of Pride to the Polls, a grassroots GOTV initiative for Central Florida's LGBTQ+ community (2020)."}
+    ]
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "donor_id": "aa76cbd4-9490-4eff-bd73-920556653b75",
+    "name": "Britton, Edie",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Edie (Edith) Britton, 603 E Olmos Dr, San Antonio 78212 — wife/household of orthodontist Dr. Bloyce Britton of Britton Orthodontics, whose directory address is on East Olmos Dr, 78212 (same block). Prior FEC records list her as consultant/Britton Orthodontics; longtime small-dollar Democratic donor (e.g., Biden 2020).",
+    "source_url": "https://texasortho.org/directory/bloyce-britton",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Biden for President", "role": "individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part184.html", "snippet": "Edith Britton (Britton Orthodontics, consultant), San Antonio 78212, contributed to Biden for President in 2020 — consistent Democratic small-dollar giving pattern. No AIPAC/J Street/oil-gas/gun/defense PAC activity found."}
+    ]
+  },
+  {
+    "donor_id": "a895d9d9-832f-4fdb-a4fa-cd3231487941",
+    "name": "Reyes, Elishoel",
+    "resolved_employer": "Post Acute Medical (nurse)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Nurse at Post Acute Medical, 2342 Lemonwood St, Eagle Pass, TX 78852, per the donation record; distinctive name but no independent public profile (LinkedIn/news/registry) located to corroborate beyond the filing's own occupation/employer.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a3627ba7-0da7-45ff-aee9-e09b6aef7c6b",
+    "name": "Summerlin, Mary Ellen",
+    "resolved_employer": "Former Kerrville City Council member (Place 1); community volunteer (retired)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Mary Ellen Summerlin, Kerrville TX 78028 — former Kerrville City Councilmember (lost Place 1 re-election to Roman Garcia in 2021), prior service on the city Economic Improvement Corp and Headwaters Groundwater Conservation District board; wife of Dr. Tim Summerlin (former Schreiner University president). Now not employed.",
+    "source_url": "https://jambroadcasting.com/2021/05/garcia-wins-kerrville-city-council-place-1-beating-summerlin-with-56-percent-of-the-vote/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Kerrville City Council", "role": "former Councilmember (Place 1) / candidate 2021", "category": "political", "source_url": "https://jambroadcasting.com/2021/05/garcia-wins-kerrville-city-council-place-1-beating-summerlin-with-56-percent-of-the-vote/", "snippet": "Garcia beat Summerlin for Kerrville City Council Place 1 with 56% of the vote; Summerlin was the incumbent/appointee."},
+      {"org": "Headwaters Groundwater Conservation District", "role": "board member", "category": "civic", "source_url": "https://www.kerrvilletx.gov/ArchiveCenter/ViewFile/Item/2456", "snippet": "Kerrville council records note Summerlin's civic board service including the Headwaters Groundwater Conservation District and Economic Improvement Corp."}
+    ]
+  },
+  {
+    "donor_id": "9f10ab66-5b76-41cb-bce5-eb827555e4cc",
+    "name": "King, Jean",
+    "resolved_employer": "Las Positas College (instructor, retired)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Jean/Jeanette King, Livermore CA 94550 — FEC records for that zip show a Jeanette King, instructor at Las Positas College, giving to Democrats (McNerney for Congress). Occupation now 'Not Employed' suggests retired instructor; very high FEC count (257) fits a prolific Democratic small-dollar donor. Common name, so identity is probable but not certain.",
+    "source_url": "http://www.city-data.com/elec2/12/elec-LIVERMORE-CA-12.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "McNerney for Congress", "role": "individual donor", "category": "political", "source_url": "http://www.city-data.com/elec2/12/elec-LIVERMORE-CA-12.html", "snippet": "Jeanette King (Las Positas College, instructor), Livermore 94550, gave to Democrat Jerry McNerney's congressional campaign — Democratic giving pattern. No AIPAC/J Street/oil-gas/gun/defense PAC activity found."}
+    ]
+  },
+  {
+    "donor_id": "9ad679d5-828d-40b4-b1d0-43d2eec6b29e",
+    "name": "Braunagel-Brown, Mary",
+    "resolved_employer": "State University of New York (SUNY) system, ~20 years (retired 2003)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Mary Braunagel-Brown, B.A. '68 & Ph.D. '83 UT Austin; grew up in San Antonio, member of the Osage Nation; worked ~20 years for the SUNY system, retired to Austin in 2003 (matches Austin 78736, 'Not employed'). Philanthropist funding Native American & Indigenous Studies at UT Austin.",
+    "source_url": "https://news.utexas.edu/2024/09/06/a-place-to-belong/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "University of Texas – Native American and Indigenous Studies program", "role": "endowment donor / Osage Nation member", "category": "civic", "source_url": "https://news.utexas.edu/2024/09/06/a-place-to-belong/", "snippet": "Established the Mary Braunagel-Brown Excellence Fund and endowed lecture for Native American and Indigenous Studies; identifies with the Osage Nation and supports Indigenous students."}
+    ]
+  },
+  {
+    "donor_id": "98e03392-5895-49b3-b936-e7682de76f4a",
+    "name": "Williams, Ben",
+    "resolved_employer": "Trinity University — Associate Dean of Students & Deputy Title IX Coordinator (Benjamin M. Williams, Ph.D.)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Dr. Benjamin M. Williams is Associate Dean of Students and Deputy Title IX Coordinator at Trinity University in San Antonio; occupation ('Higher ed, Administrator', employer Trinity University) and San Antonio location match exactly.",
+    "source_url": "https://www.trinity.edu/directory/bwillia7",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "97718204-9123-40bc-a598-e39ff811ff0b",
+    "name": "Hall, Rosine",
+    "resolved_employer": "Not employed",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Rosine Hall of Houston 77006 (4509 Mandell St, shared with Patrick M. Hall) is a frequent individual political donor (FEC count 329); records show donations to Democratic candidates such as MJ Hegar. Name, city, 'not employed' status, and Democratic donation pattern corroborate.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-HOUSTON-TX-20-part354.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Democratic federal candidates/committees", "role": "Frequent individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-HOUSTON-TX-20-part354.html", "snippet": "Rosine Hall, Houston 77006, not employed, contributed $250 to MJ for Texas (Mary Jennings Hegar, D-Senate) on 8/19/2020; high overall FEC contribution count indicates a recurring Democratic donor. No AIPAC/J Street/oil-gas/gun/defense PAC activity found."}
+    ]
+  },
+  {
+    "donor_id": "947d07f7-b8a6-4d4b-bb37-9b126cd1f251",
+    "name": "OConnor, Mary",
+    "resolved_employer": "Not employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Mary OConnor of Southlake, TX 76092, listed 'Not Employed.' Could not confirm a specific public profile for this individual (common name); no distinguishing bio, employer, or affiliation record located.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7fa2023c-2a69-4ba0-9998-43752934316e",
+    "name": "Ploumpis, Valerie",
+    "resolved_employer": "Equality California — National Policy Director (LGBTQ civil-rights advocacy, Washington DC)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Valerie Ploumpis is National Policy Director for Equality California (and Silver State Equality), based in Washington DC; distinctive name, DC location, and stated employer/title all match exactly. Career-long issue-advocacy/lobbying professional.",
+    "source_url": "https://www.eqca.org/ploumpis/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Equality California", "role": "National Policy Director", "category": "civic", "source_url": "https://www.eqca.org/ploumpis/", "snippet": "Leads federal LGBT civil-rights advocacy, healthcare access, and immigrant-protection policy for the nation's largest statewide LGBTQ+ civil-rights organization."},
+      {"org": "OutRight International Action", "role": "Board member / co-chair", "category": "civic", "source_url": "https://www.eqca.org/ploumpis/", "snippet": "Serves on the board of the global LGBT civil-rights organization OutRight International Action."},
+      {"org": "Gay & Lesbian Victory Fund (Campaign Board)", "role": "Board co-chair", "category": "political", "source_url": "https://www.eqca.org/ploumpis/", "snippet": "Co-chaired the Campaign Board of the Victory Fund, a national PAC that endorses and supports LGBT political candidates."}
+    ]
+  },
+  {
+    "donor_id": "7ddb3822-76ce-4fd7-ae44-c5704176f9e0",
+    "name": "Thomas, Suzzie",
+    "resolved_employer": "U.S. Department of Veterans Affairs — civil servant (federal employee)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Suzzie Thomas of Terrell Hills (78209), listed as a civil servant with the Dept of Veterans Affairs. No public professional profile located; industry assigned by stated employer/occupation (federal government) via categorize-by-employer fallback.",
+    "source_url": "https://www.va.gov/south-texas-health-care/contact-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "75bd22d8-29f0-4dea-9bc8-6b06f16e53e0",
+    "name": "Zamora, Lauren",
+    "resolved_employer": "Assistant District Attorney, Bexar County District Attorney's Office",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Lauren D. Zamora, ADA in the Bexar County DA's office (joined 2019), formerly ran Law Office of Lauren D. Zamora PLLC (criminal defense/child welfare); San Antonio resident matching occupation/employer. Now a 2026 Democratic primary candidate for Bexar County Court at Law No. 12.",
+    "source_url": "https://sanantonioreport.org/profile/lauren-zamora-2026-candidate-for-bexar-county-court-at-law-no-12/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic Party (Bexar County)", "role": "2026 Democratic primary candidate, Bexar County Court at Law No. 12", "category": "political", "source_url": "https://sanantonioreport.org/profile/lauren-zamora-2026-candidate-for-bexar-county-court-at-law-no-12/", "snippet": "She's challenging incumbent Judge Yolanda Huff in the Democratic primary for Bexar County Court at Law No. 12."}
+    ]
+  },
+  {
+    "donor_id": "6ae19c0a-e734-49ef-847b-99bcc1eacb83",
+    "name": "De La Garza, Michael",
+    "resolved_employer": "Executive Director of Communications & Development, Edwards Aquifer Authority (public water-conservation district)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Mike De La Garza, Exec. Director of Communications & Development at the Edwards Aquifer Authority (a Texas political subdivision), San Antonio; prior public-affairs roles at CPS Energy, Toyota, HEB and his own PR firm MDLG. Matches employer/title/city exactly.",
+    "source_url": "https://www.edwardsaquifer.org/about/executive-leadership/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "66bf2fb3-7c08-4993-920d-de33c1b83b3e",
+    "name": "Torres-Lopez, Angela",
+    "resolved_employer": "Software developer (Mailgun; formerly Rackspace)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Self-reported software developer whose employer field ('Since mailgun, Rackspace') tracks the Rackspace-to-Mailgun tech lineage in San Antonio; classified by occupation. Exact professional profile could not be confirmed (LinkedIn not fetchable). No FEC records (count 0).",
+    "source_url": "https://www.linkedin.com/in/angela-torres-lopez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "60ce9a2c-7179-4925-9d12-e39881fb88ba",
+    "name": "Weber, Cate",
+    "resolved_employer": "Not employed (self-reported)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Catherine 'Cate' Weber, longtime resident at 734 E Woodlawn Ave, San Antonio 78212 (address confirmed in public records). Self-reported 'Not Employed' on the donation; no confirmed current employer or policy-advocacy profile.",
+    "source_url": "https://www.locatepeople.org/catherine-weber/texas/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "45907c4b-ffa9-4b50-92a8-b6724d14b2e5",
+    "name": "Jopanda, Genevieve",
+    "resolved_employer": "Principal & Founder, HERAGANDA Consulting (leadership/organizational-development consulting); former Chief of Staff to CA Treasurer Fiona Ma",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Genevieve V. Jopanda, Sacramento-based Principal/Founder of HERAGANDA Consulting and former Chief of Staff to California Treasurer Fiona Ma; prominent Filipina-American political/civic leader. Employer/city/'Principal' title match; donation aligns with Filipino-American network supporting Filipina mayor Gina Ortiz Jones.",
+    "source_url": "https://filipinawomensnetwork.org/epahayagan/kudos-genevieve-jopanda-global-fwn100-13-appointed-as-director-of-external-affairs-for-fiona-ma-at-ca-state-board-of-equalization",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "KAYA: Filipino Americans for Progress", "role": "Founding member & former National Co-Chair", "category": "political", "source_url": "https://kayagrassroots.wordpress.com/", "snippet": "Founding member and former National Co-Chair of KAYA: Filipino Americans for Progress, a progressive Filipino-American political network born from the Filipinos for Obama 2008 campaign."}
+    ]
+  },
+  {
+    "donor_id": "450a6dcb-7d5e-4911-b064-aaf5d80efc06",
+    "name": "Pulchin-Ramos, Howard",
+    "resolved_employer": "Communications/creative executive — Head of Ideation at Humantel; formerly Executive Director & Global Creative Director at APCO Worldwide (prior 15+ yrs at Edelman)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Exact hyphenated name 'Howard Pulchin-Ramos' matches LGBTQ+ Victory Institute board bio; veteran PR/creative-strategy executive (APCO, Edelman). 'Creative'/self-employed and CT base fit; FEC count 0 consistent.",
+    "source_url": "https://victoryinstitute.org/team/howard-pulchin-ramos/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LGBTQ+ Victory Institute / Victory Fund", "role": "Board member; Corporate Executive Cabinet (4+ yrs)", "category": "political", "source_url": "https://victoryinstitute.org/team/howard-pulchin-ramos/", "snippet": "Board member working on communications strategy; serves on Victory Fund's Corporate Executive Cabinet — org recruits/trains LGBTQ candidates for office."},
+      {"org": "Hope in a Box", "role": "Former Board Chair", "category": "civic", "source_url": "https://victoryinstitute.org/team/howard-pulchin-ramos/", "snippet": "Board Chair of Hope in a Box (LGBTQ+ inclusive education in rural schools)."}
+    ]
+  },
+  {
+    "donor_id": "4011abe3-8016-4fdb-a0d2-2b6a950e801c",
+    "name": "Reynolds, Ladd",
+    "resolved_employer": "Self-employed investor (Houston, TX)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Stated occupation 'Investor', employer 'Self', Houston 77062. Categorize-by-employer fallback: Finance. No distinct public profile confirmed the specific individual (Stellus's 'Robert T. Ladd' is a different person). FEC count 0.",
+    "source_url": "https://www.transparencyusa.org/tx/contributor/ladd-reynolds?cycle=2024-election-cycle",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3fe67cc7-93d1-4e09-8d55-91c842d03462",
+    "name": "Zimmerman, Alan",
+    "resolved_employer": "Attorney; principal of A.L. Zimmerman Capital LP, Austin (associated with Law Finance Group — litigation finance)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "A.L. Zimmerman Capital LP registered in Austin (12600 Hill Country Blvd), matching donor's Bellancia Dr 78738 area; LinkedIn ties Alan Zimmerman to Law Finance Group (litigation finance). Attorney by license operating a capital/investment LP. FEC count 75 (active donor).",
+    "source_url": "https://www.bizapedia.com/tx/al-zimmerman-capital-lp.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1acfef44-2f64-42d2-8c85-8baa93dbc58f",
+    "name": "Pelayo, Joseph",
+    "resolved_employer": "latakoo — Chief Technology Officer / Senior App Development Engineer (video compression & delivery software)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Joe/Joseph Pelayo is latakoo's CTO/senior engineer, San Antonio TX; named inventor on latakoo media-compression patents. Matches donor's Latakoo/software-engineer/San Antonio 78258; appears on the Gina Jones TEC campaign-finance filing. FEC count 26.",
+    "source_url": "https://theorg.com/org/latakoo/org-chart/joe-pelayo",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "15c35125-b0fa-4e2b-a749-9339daf384b1",
+    "name": "ROMO, LAWRENCE",
+    "resolved_employer": "U.S. Selective Service System — Director, 2009-2017 (Obama appointee); retired USAF Lt. Col. (retired)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Lawrence G. 'Larry' Romo of San Antonio: retired USAF Lt. Col., Obama-appointed 12th Director of Selective Service (2009-17), later on DoD Naming Commission. 'Not Employed' = retired; San Antonio residence corroborates. Prolific small donor (FEC count 244).",
+    "source_url": "https://en.wikipedia.org/wiki/Lawrence_Romo",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "American GI Forum", "role": "Former National Commander (2018-2021)", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Lawrence_Romo", "snippet": "Former National Commander of the American GI Forum, a Hispanic veterans civil-rights organization; also chaired Bexar County Veterans Committee."},
+      {"org": "DoD Naming Commission / Obama-appointed Selective Service Director", "role": "Commissioner; former SSS Director", "category": "political", "source_url": "https://www.nbcnews.com/news/latino/latino-civil-rights-leader-lawrence-romo-will-help-remove-confederate-rcna378", "snippet": "Latino civil-rights leader appointed to help remove Confederate names from DoD bases; Obama administration appointee — consistent Democratic-aligned public service."}
+    ]
+  }
+]

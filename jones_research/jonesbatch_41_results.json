@@ -1,0 +1,234 @@
+[
+  {
+    "donor_id": "11d38196-1cbc-4d53-a5a6-7c59663eca3b",
+    "name": "Niemiec, Dora",
+    "resolved_employer": "Nurse at Lytle nursing home (\"Lytle NH\"), Lytle/San Antonio TX area",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Self-reported nurse employed at 'Lytle NH' (a Lytle, TX-area nursing home), resident of NW San Antonio 78240. No public profile, news, PAC, or lobbyist record found to further corroborate identity; industry assigned by employer/occupation fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0ae86b36-604d-4eff-884e-cd147187861b",
+    "name": "Logan-Lubben, Ann",
+    "resolved_employer": "Retired / not employed; previously owner of Goshen Properties & Lending and officer of The Write Vision, Inc. (Austin)",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Ann Logan-Lubben, ~79 (b. Sept 1946), Austin TX; address matches 7413 Twilight Shadow Dr, 78749 (per Travis County property records under 'John Lubben & Logan-Lubben Ann'). Long-time Democratic donor; self-reports not employed/retired.",
+    "source_url": "https://www.corporationwiki.com/Texas/Dallas/ann-c-logan-lubben/35736653.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Democratic candidates & committees (ActBlue, Texas Democratic Party, MJ for Texas, Warren for President, Shaheen for Senate)", "role": "individual donor", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/ann-logan-lubben.asp?cycle=20", "snippet": "$12,050 in 2020-cycle FEC contributions, all to Democratic candidates/committees: MJ for Texas $2,950, Warren for President $2,800, Texas Democratic Party $1,500, ActBlue $4,800. No AIPAC/J Street/DMFI/oil-gas/gun/defense PAC ties found."}
+    ]
+  },
+  {
+    "donor_id": "07e21d3f-5bf5-4da8-a6fa-322f64bf68ed",
+    "name": "Miller, Robert",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Self-reported retired, resident of San Antonio 78247 (14215 Jones Maltsberger Rd). 'Robert Miller' is extremely common in San Antonio; no FEC PAC, lobbyist, or bio record could be matched to this specific individual. Identity unconfirmed.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "01ab1555-9531-423f-8293-4a5f8e7a7ed5",
+    "name": "Arionus, Stephen",
+    "resolved_employer": "U.S. Air Force command/historian (Dept. of the Air Force History & Museums Program), Honolulu HI",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Dr. Stephen Arionus, PhD University of Michigan 2019 (dissertation on 20th-century San Antonio westside barrio/race). Listed as an Air Force historian with email stephen.arionus@us.af.mil in a 2022 Dept. of the Air Force heritage/history directory; occupation 'Historian'/employer 'Fed'/Honolulu 96818 (Joint Base Pearl Harbor-Hickam area) all consistent.",
+    "source_url": "https://www.macdill.af.mil/Portals/26/documents/AFHMP%20Directory%202022-09.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "013127f4-e8c6-477d-86ac-e97edf4000ee",
+    "name": "Hernandez, Audree",
+    "resolved_employer": "The Consulting Engineers Group (CEG), San Antonio — Senior Director, Administrative Operations / Strategy & Process",
+    "industry": "Engineering",
+    "confidence": "medium",
+    "evidence": "RocketReach/ContactOut list Audree Hernandez as a Senior Director (Strategy & Process / Administrative Operations) at The Consulting Engineers Group in the San Antonio metro; matches employer string 'CEG Inc.' and occupation 'Admin Ops'. Holds MA from UT San Antonio and MBA from LSU Shreveport.",
+    "source_url": "https://rocketreach.co/audree-hernandez-email_859398187",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3583a0b0-edc8-4265-a92d-b84b61d70a56",
+    "name": "San Miguel, Anna",
+    "resolved_employer": "United States Air Force — military officer (San Antonio / Joint Base San Antonio area)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Self-reported occupation is Military Officer, USAF, in San Antonio (78253, near JBSA). No public bio, news, FEC, or lobbyist record confirms the specific individual; employer-based classification only.",
+    "source_url": "https://www.jbsa.mil/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d7c18c2f-4d4b-4d6f-bf9e-ab84ebbf9916",
+    "name": "Carney, Cheryl",
+    "resolved_employer": "H-E-B (grocery retailer) — chef / culinary role",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Self-reported as a chef at H-E-B in San Antonio (78201). No public profile, news, FEC, or lobbyist record confirms the specific person; classified by employer (H-E-B is a Texas grocery retailer). A separate 'Cheryl L (Retired), 78247' $5 WinRed donor in FEC data is a different individual (different zip/occupation).",
+    "source_url": "https://www.heb.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c4b5e83e-ec15-4cd7-855e-db16ae4033d4",
+    "name": "Gomez Garcia, Angela",
+    "resolved_employer": "Eutopia Hospice & Palliative Care, Inc., San Antonio — administrator",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Self-reported as an administrator at Eutopia Hospice, a real San Antonio hospice/palliative care provider (Lockhill Selma). A LinkedIn 'Angie Gomez-Garcia' works as a home-health field nurse in San Antonio but is not confirmed to be the same person; classified by employer. No FEC or lobbyist record found.",
+    "source_url": "https://seniorcarefinder.com/providers/63658/tx/san-antonio/eutopia-hospice-and-palliative-care-inc/hospice",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9fc7cd3d-32e2-42b0-a45f-d9729076d5b9",
+    "name": "Smith, Sandra",
+    "resolved_employer": "Retired / Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Retired individual at 4818 Chedder Dr, San Antonio, TX 78229. 'Sandra Smith' is an extremely common name; multiple San Antonio matches (obituaries, an Aflac agent) but none corroborated to this exact address/zip. No public bio, PAC record, or lobbyist registration tied to this specific person.",
+    "source_url": "https://www.spokeo.com/Sandra-Smith/Texas/San-Antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7e61b580-aa79-4435-bf9d-0c14075c77b3",
+    "name": "Ardinger, Bruce",
+    "resolved_employer": "Not Employed / Retired",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Not-employed individual at 6735 Georgia Ave, Bradenton, FL 34207. Directory listings show the Ardinger surname at that address (e.g., Carla Rae Ardinger, 74), consistent with a retired household, but no public profile, FEC PAC record, or lobbyist registration found for Bruce Ardinger specifically.",
+    "source_url": "https://www.floridaresidentsdirectory.com/person/121073827/ardinger-carla",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6301494f-518d-4474-a123-1a8448a0dd0c",
+    "name": "Hiraoka, John",
+    "resolved_employer": "Self-employed (nature of business undocumented)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Self-employed individual at 1617 Clark St, Honolulu, HI 96822. FEC/city-data records confirm a 'John Hiraoka (None/Self-Employed), zip 96822' making small-dollar contributions, corroborating the exact zip and self-employed status. Distinct from other Honolulu Hiraokas (Judge Keith K. Hiraoka, OB/GYN Mark Hiraoka). Nature of self-employment not documented publicly.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-HONOLULU-HI-20-part61.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Stop Republicans (PAC)", "role": "Small-dollar donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-HONOLULU-HI-20-part61.html", "snippet": "JOHN HIRAOKA (NONE/SELF-EMPLOYED), (Zip code: 96822) $10 to STOP REPUBLICANS on 11/12/2020; $10 to STOP REPUBLICANS on 10/28/2020 — a partisan Democratic-aligned PAC."}
+    ]
+  },
+  {
+    "donor_id": "9a6bd958-b490-4db2-bed7-baedadf297ec",
+    "name": "Lambert, Ruth",
+    "resolved_employer": "Not Employed / Retired",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Not-employed individual at 1695 Independence Ave, Melbourne, FL 32940. 'Ruth Lambert' is a very common name (400+ US matches); no public bio, FEC PAC record, or lobbyist registration could be corroborated to this specific person/address.",
+    "source_url": "https://www.spokeo.com/Ruth-Lambert",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c6eb527e-95b4-4876-b250-29ef42fe1aa1",
+    "name": "Allen Fried, Bruce",
+    "resolved_employer": "Retired (public records list prior occupation as Military)",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Bruce A. Fried, ~78 yrs old, confirmed at 2827 Woodcrest Dr, San Antonio, TX 78209 (matches donor address exactly). Retired; not the DC healthcare lobbyist of the same name. No public bio, board seats, or PAC/lobbyist records found.",
+    "source_url": "https://clustrmaps.com/person/Fried-29qrla",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7dbe014e-9c69-434f-8b5f-bf425004a0a1",
+    "name": "Gomez, Raul",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "A Raul M. Gomez is listed at 403 Helena St, San Antonio, TX 78204 (matches donor address), consistent with the 'Not Employed' occupation. Very common name; no public professional profile, bio, or PAC/lobbyist records could be confirmed for this individual.",
+    "source_url": "https://www.locatepeople.org/raul-gomez/texas/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d1a1c749-0dc6-459b-b51a-e23b18c48895",
+    "name": "Salazar, Andrea",
+    "resolved_employer": "JPMorgan Chase (underwriter)",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Donor self-reports as an underwriter at Chase/JPMorgan Chase, San Antonio 78245. Could not confirm a specific LinkedIn/bio matching the address; industry assigned via employer fallback (banking = Finance). No PAC or lobbyist records found.",
+    "source_url": "https://jpmorganwealthmanagement.chase.com/advisor/tx/san-antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b9d7d843-f7d1-4447-a9f6-da1b2b52463c",
+    "name": "Abrego-Sanchez, Minnie",
+    "resolved_employer": "Retired educator (30 yrs, Edgewood ISD & San Antonio ISD); associate consultant at Andrade-Van de Putte and Associates; Port San Antonio Board of Directors",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Well-documented San Antonio public figure: nearly 30-year teacher/administrator with Edgewood ISD and SAISD, former community outreach director for Sen. Leticia Van de Putte and district director for Sen. Jose Menendez, President of San Antonio Retired Teachers Association, and Port San Antonio Board member. Identity corroborated by official Port bio and LinkedIn.",
+    "source_url": "https://www.portsanantonio.us/board-of-director-Minnie-Abrego-Sanchez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bexar County Democratic Women", "role": "Past President", "category": "political", "source_url": "https://www.portsanantonio.us/board-of-director-Minnie-Abrego-Sanchez", "snippet": "Serves as past president of the Bexar County Democratic Women."},
+      {"org": "Port San Antonio Board of Directors", "role": "Board Member (appointed 2019)", "category": "civic", "source_url": "https://www.portsanantonio.us/board-of-director-Minnie-Abrego-Sanchez", "snippet": "Appointed to the Port San Antonio Board of Directors; brings many years of educational and public-sector service."}
+    ]
+  },
+  {
+    "donor_id": "a7c41a85-5e8d-4e1f-bcc9-03ac7ecebab0",
+    "name": "Prescott, Robin",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Likely Susan Robin Prescott, ~75, of Boerne, TX (previously San Antonio/Lakehills), who goes by 'Robin Prescott' — consistent with the 78006 zip and 'Not Employed' status. No professional/public profile beyond people-finder listings; identity not firmly confirmed.",
+    "source_url": "https://www.mylife.com/susan-prescott/e690379006068",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a42c2561-2ee5-4d5b-9e9f-40a5df0d42d3",
+    "name": "Guernsey, Sherwood",
+    "resolved_employer": "Attorney, The Law Offices of Sherwood Guernsey, PC (Williamstown/Pittsfield, MA); former Massachusetts state representative",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Sherwood Guernsey II, Williamstown MA attorney; served four terms as MA state representative for the 2nd Berkshire district (1983-1990), Dartmouth '68, former Peace Corps Panama volunteer. Location and profile match 01267 exactly. Listed 'Not Employed' but is a practicing attorney/active Democrat.",
+    "source_url": "https://en.wikipedia.org/wiki/Sherwood_Guernsey",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Massachusetts House of Representatives (2nd Berkshire district)", "role": "Former State Representative, 1983-1990", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Sherwood_Guernsey", "snippet": "American attorney and politician who served four consecutive terms in the Massachusetts House of Representatives' 2nd Berkshire district between 1983 and 1990."},
+      {"org": "The Fund for New World Development, Inc.", "role": "President and Director", "category": "civic", "source_url": "https://nworldfund.org/sherwood-guernsey-president-and-director/", "snippet": "President and Director of The Fund for New World Development, Inc., a 501(c)(3) organization with operations in the US and Panama; describes himself as 'active in Democratic politics.'"}
+    ]
+  },
+  {
+    "donor_id": "916f6b42-494b-4f61-9fa4-460a2ff6bb78",
+    "name": "Daus, Gem",
+    "resolved_employer": "Public Health Analyst, HRSA Office of Health Equity (federal); Adjunct Professor of Asian American Studies, University of Maryland",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Gem P. Daus, Arlington VA — Public Health Analyst at HRSA Office of Health Equity and award-winning UMD Asian American Studies adjunct professor (teaches Filipino American History). 20+ years nonprofit/public service (NCIHC, APIAHF, National Minority AIDS Council, Red Cross). Occupation and location match exactly.",
+    "source_url": "https://www.aast.umd.edu/bio-gem-daus",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "80534a45-e5dc-412d-8fd7-5095bb390170",
+    "name": "Card, Brian",
+    "resolved_employer": "Operations Research Analyst (GS-15), NASA Headquarters, Washington DC (Magnetospheric Multiscale Mission)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Brian E. Card, GS-15 Operations Researcher at NASA HQ in Washington DC; LinkedIn ties him to NASA's Magnetospheric Multiscale Mission. Federal salary records and DC location (20009) match the listed occupation/employer.",
+    "source_url": "https://www.federalpay.org/employees/headquarters-nasa/card-brian-e",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Democratic Senatorial Campaign Committee (DSCC)", "role": "Small-dollar individual donor (2020)", "category": "political", "source_url": "http://www.city-data.com/elec2/20/elec-WASHINGTON-DC-20-part431.html", "snippet": "FEC records list Brian Card, NASA operations research analyst (DC 20009), making small recurring 2020 contributions to the DSCC."}
+    ]
+  }
+]

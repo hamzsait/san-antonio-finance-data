@@ -1,0 +1,240 @@
+[
+ {
+  "donor_id": "3a867ce7-cedb-4a9a-a741-42689270191d",
+  "name": "Kirkland, Steven",
+  "resolved_employer": "Self-employed mediator/arbitrator; former Texas district judge (retired)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Steven E. Kirkland, former judge of Harris County's 334th/215th District Courts and Houston municipal judge, now a mediator/arbitrator; primary practice location listed in Nacogdoches, TX 75961 — matches filing (occupations Mediator/Arbitrator, Judge; employer self, State of Texas; Nacogdoches zip). All-Democratic federal donation history.",
+  "source_url": "https://ballotpedia.org/Steven_Kirkland",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "33ef0004-49ba-4172-b939-a567d9364cac",
+  "name": "Schroedel, Dale",
+  "resolved_employer": "Self-employed licensed private investigator; political organizer/fundraiser; Board Chair, Equal Rights Advocates",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Dale Schroedel of San Francisco: 18-year licensed private investigator who since 2008 has worked as a women-in-politics organizer/fundraiser and chairs the board of Equal Rights Advocates — matches filing (San Francisco 94110; occupations Private Investigator and Political Organizer; employer Self).",
+  "source_url": "https://www.equalrights.org/about/bios/dale-schroedel/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Equal Rights Advocates", "role": "Chair of the Board of Directors", "category": "civic", "source_url": "https://www.equalrights.org/about/bios/dale-schroedel/", "snippet": "Chair of the Board of Directors at Equal Rights Advocates"},
+   {"org": "Emerge America / Winning Leaders Emerge", "role": "Board Treasurer; National Advisory Board member", "category": "political", "source_url": "https://www.equalrights.org/about/bios/dale-schroedel/", "snippet": "Treasurer of the Board for Winning Leaders Emerge"},
+   {"org": "Representation Matters", "role": "Co-Founder", "category": "political", "source_url": "https://www.equalrights.org/about/bios/dale-schroedel/", "snippet": "Co-Founder of Representation Matters ... supporting Black women and women of color candidates"}
+  ]
+ },
+ {
+  "donor_id": "1a713674-62f4-447d-935d-88a8d40609d3",
+  "name": "Paci, Jennifer Miller",
+  "resolved_employer": "Retired; former Chief Business Sustainability Officer, Sappi North America; independent director, Ameresco",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Jennifer Miller Paci of Boston appears to be Jennifer L. Miller (retired 2020 as Sappi North America Chief Business Sustainability Officer; Ameresco board director), listed with spouse Victor Paci as GBH donors — consistent with 'Not Employed' filing and Boston 02116 address, though same-name overlap keeps confidence at medium.",
+  "source_url": "https://www.wgbh.org/support/directed-giving/gbh-kids-education-fund-supporters",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "11591c3b-a2a5-489f-a988-018b9edc8c9e",
+  "name": "Handwerker, Carol",
+  "resolved_employer": "Purdue University — Reinhardt Schuhmann Jr. Distinguished Professor of Materials Engineering",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Carol A. Handwerker is a Purdue materials-engineering professor (formerly 21 years at NIST) — exact match to filing employer 'Purdue University' and occupation 'Professor'; her federal service (inaugural U.S. Dept. of Commerce Industrial Advisory Committee member) is consistent with a Washington, DC 20015 address.",
+  "source_url": "https://engineering.purdue.edu/MSE/news/2022/handwerker-inaugural-member-iac",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "U.S. Department of Commerce Industrial Advisory Committee (CHIPS Act)", "role": "Inaugural member", "category": "government", "source_url": "https://engineering.purdue.edu/MSE/news/2022/handwerker-inaugural-member-iac", "snippet": "named inaugural member of the U.S. Department of Commerce Industrial Advisory Committee (IAC)"}
+  ]
+ },
+ {
+  "donor_id": "e70d788b-242b-4f06-b146-a32ebe2462fd",
+  "name": "Pritzker, Jennifer",
+  "resolved_employer": "TAWANI Enterprises, Inc. (private investment company) — President/CEO/Chairwoman",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Jennifer N. Pritzker, retired US Army Lt. Col (honorary Colonel, IL Army National Guard), billionaire philanthropist; President/CEO of TAWANI Enterprises at 104 S Michigan Ave, Chicago 60603 — exact match to donor address/zip and 'Chairwoman'/Tawani Enterprises occupation. Founder & Chairwoman of the Pritzker Military Museum & Library.",
+  "source_url": "https://www.pritzkermilitary.org/about/mission-personnel/board-directors/colonel-jn-pritzker",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Pritzker Military Museum & Library", "role": "Founder & Chairwoman", "category": "military_defense", "source_url": "https://www.pritzkermilitary.org/about/mission-personnel/board-directors/colonel-jn-pritzker", "snippet": "Founder and Chairwoman of the Pritzker Military Museum & Library ... TAWANI Foundation emphasizes 'promoting the ideal of the Citizen Soldier'"},
+   {"org": "USO of Illinois", "role": "Board member", "category": "military_defense", "source_url": "https://www.pritzkermilitary.org/about/mission-personnel/board-directors/colonel-jn-pritzker", "snippet": "Additional board memberships include the USO of Illinois, National Strategy Forum"}
+  ]
+ },
+ {
+  "donor_id": "fa2f66da-0745-4c13-8da8-87698f948dd7",
+  "name": "Bjornsti, Mary-Ann",
+  "resolved_employer": "Not Employed (retired)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "FEC individual-contribution records confirm a 'Mary-Ann Bjornsti' in Helotes, TX, occupation/employer 'Not Employed,' making 2024 ActBlue-earmarked donations to Democratic candidates — consistent with partisan lean 1.0 and 106 donations. Distinctive hyphenated name matches Dr. Mary-Ann Bjornsti (former UAB Pharmacology & Toxicology chair, past FASEB president), but a Helotes retirement link to that academic could not be confirmed, so professor identity is unverified.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bjornsti&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7ba3af53-8957-4ab7-a7af-053e27e023fc",
+  "name": "Dudley, Margaret",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Common name with generic 'Not Employed' occupation and no distinguishing public profile. FEC records show a Margaret Dudley (Not Employed) in San Antonio donating to Democratic committees, consistent with partisan lean 1.0 and 82 donations, but a zip discrepancy (78257 vs. donor's 78231) and the common name prevent firm identity confirmation. No lobbyist registration; categorize-by-occupation fallback applied.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Margaret+Dudley&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4e76c04e-414c-4dc5-a01d-7b6a1b5da260",
+  "name": "Sheppard, Joseph",
+  "resolved_employer": "Self-employed attorney (Law Office of Joseph L. Sheppard), Cuero, TX",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Joseph Lawrence Sheppard, solo-practice attorney in Cuero, TX; office PO Box 327, Cuero 77954 (exact match). Texas Bar #18230550, licensed 05/1985; practice areas include criminal defense and energy/oil & gas law. FEC confirms a self-employed attorney 'Joseph Sheppard' in Cuero 77954 with 2,000+ contributions to Democratic committees and candidates including Gina Ortiz Jones for Congress; partisan lean 1.0. No oil & gas PAC contributions found (federal giving is entirely Democratic; the oil/gas link is practice-area/mineral-ownership only, not policy advocacy).",
+  "source_url": "https://lawyers.justia.com/lawyer/joseph-lawrence-sheppard-235720",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "02656415-2898-4162-8c7c-a6ade6f73030",
+  "name": "Bryan, Helen",
+  "resolved_employer": "Not employed (Austin; associated with Lacy-Bryan Enterprises, Inc. as President — author Helen Bryan identity NOT confirmed and considered unlikely)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "FEC/ActBlue records show a 'Helen Bryan,' occupation 'NOT EMPLOYED,' zip 78746 Austin, making ActBlue conduit donations, matching location, occupation and heavy Democratic small-donor pattern (2,540 donations, partisan lean 1.0). CorporationWiki lists a Helen L. Bryan of Austin as President of Lacy-Bryan Enterprises, Inc. The 'author Helen Bryan' theory could not be confirmed and appears to be a different person. No FEC PAC (non-conduit) donations, no lobbyist registration, no policy-advocacy affiliations.",
+  "source_url": "http://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part45.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c4e1dcc0-fe68-4e0d-9ee0-7538102e9060",
+  "name": "Resendez, Carlos",
+  "resolved_employer": "Retired attorney (solo practitioner, State Bar of Texas, San Antonio); formerly President, Presidio Asset Management LLC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "State Bar of Texas record confirms Carlos Resendez, a San Antonio attorney at 4835 E. Beverly Mae, San Antonio, TX 78229 — exactly the donor's address — St. Mary's University Law (1980), licensed 11/24/1980. Same address tied to Carlos Resendez (b. ~1943), also President of Presidio Asset Management LLC. Donor occupation 'Retired, Not Employed' consistent with a retired long-career attorney. No lobbyist registration; a quiet result.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=184099",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5953377e-6a37-443f-a99d-278eb54223d2",
+  "name": "Maxey, Glen",
+  "resolved_employer": "Texas Democratic Party (Legislative Affairs Director); former Texas State Representative",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Confirmed as Glen Maxey of Austin, first openly gay member of the Texas Legislature, who served in the Texas House (District 51, Austin) 1991–2003 and currently serves as Legislative Affairs Director of the Texas Democratic Party. Location (5200 Guadalupe St, Austin 78751), heavy Democratic donation pattern (247 donations, partisan lean 1.0), and profile all match. No active registered-lobbyist registration found (his party role is legislative-affairs staff).",
+  "source_url": "https://en.wikipedia.org/wiki/Glen_Maxey",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Democratic Party", "role": "Legislative Affairs Director", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Glen_Maxey", "snippet": "Glen Maxey currently serves as Legislative Affairs Director of the Texas Democratic Party."},
+   {"org": "Texas House of Representatives (District 51, Austin)", "role": "State Representative, 1991–2003", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Glen_Maxey", "snippet": "Member, Texas House of Representatives, District 51 (Austin) 1991–2003; first openly gay member of the Texas Legislature."},
+   {"org": "Lesbian/Gay Rights Lobby of Texas (now Equality Texas)", "role": "Founder, 1987", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Glen_Maxey", "snippet": "founded the Lesbian/Gay Rights Lobby of Texas in 1987; instrumental in HIV/AIDS advocacy through AIDS Services of Austin."}
+  ]
+ },
+ {
+  "donor_id": "57644953-487b-40d1-96cc-08218d6550b5",
+  "name": "Smith, David",
+  "resolved_employer": "Unknown / Not Employed (identity not individually confirmable)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "The donation is corroborated: a San Antonio campaign-finance filing lists David Smith at 8250 Cruiseship Bay Unit 705, San Antonio, TX 78255, occupation 'Not Employed,' matching the donor record. However, 'David Smith' is an extremely common name and no distinguishing public bio, employer, or FEC PAC record could be tied specifically to this individual among the 643 FEC donations (partisan lean 0.999). No lobbyist registration; classified per reported occupation only.",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003287_20250403_171242.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4d805e64-5c89-4003-8cf9-73e945073e01",
+  "name": "Perry, Kimberly",
+  "resolved_employer": "Retired (no employer)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Occupation 'retired' at 665 S Skinker Blvd, Saint Louis, MO 63105 (residential high-rise). 'Kimberly Perry' is a common name and no single public bio could be uniquely tied to this specific retired individual at this address. Heavily Democratic donation pattern (partisan lean 0.968) is consistent with a small-dollar recurring donor but is not itself a documented affiliation. Classified by occupation only.",
+  "source_url": "https://www.opensecrets.org/donor-lookup/results?order=desc&page=6&sort=A&zip=63105",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b0832d47-952f-46f2-b4b2-40b3b621840d",
+  "name": "Montoya, Celina",
+  "resolved_employer": "AXR Strategies, LLC (public affairs/PR firm) — Director / Managing Partner",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Identity corroborated by zip 78209 (Alamo Heights/San Antonio), occupation 'director' and employer 'AXR Strategies' matching her role as Director of Government Affairs/Community Relations and Managing Partner at AXR Strategies, a San Antonio public-affairs firm. Same Celina Montoya who was the Democratic nominee for Texas House District 121 in 2018 and 2020; former Texas Public Radio host; co-founder SAReads. No TEC lobbyist registration found; individual Democratic contributions consistent with lean 1.0.",
+  "source_url": "https://www.linkedin.com/in/celina-montoya-8136b18/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House District 121 campaign (Democratic Party)", "role": "Democratic nominee for Texas House of Representatives, District 121 (2018 and 2020)", "category": "political", "source_url": "https://www.kens5.com/article/news/politics/elections/allison-montoya-tx-house-d121-race/273-4ae43fd6-f986-40c0-8862-6f7042df7751", "snippet": "Celina Montoya won the 2020 Democratic primary for District 121 (69%) and was the Democratic nominee against incumbent Republican Steve Allison."}
+  ]
+ },
+ {
+  "donor_id": "3c816fa6-fbc2-4cf9-b4bb-2acb64c2258c",
+  "name": "Zintgraff, Debra",
+  "resolved_employer": "USAA (Data Quality Analyst / Information Architect)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Occupation 'Data Quality Analyst' and employer 'USAA' at San Antonio zip 78256 matches public professional record for Debbie/Debra Zintgraff, a data professional at USAA in San Antonio (Trinity University B.S.). USAA is a financial-services/insurance company, so industry = Finance. Appears to be a rank-and-file employee small-dollar recurring donor (292 donations, Democratic lean 1.0). No lobbyist registration or advocacy roles found.",
+  "source_url": "https://www.zoominfo.com/p/Debbie-Zintgraff/-1962612426",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e0f9d38b-2d0c-4480-ad7b-ca1bcc8fc274",
+  "name": "Kavanaugh, Kristen",
+  "resolved_employer": "The Agency Initiative (leadership-development consulting firm) — Co-Founder & CEO",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Fully corroborated: Kristen Kavanaugh, Co-Founder and CEO of The Agency Initiative, an Austin-based organizational-effectiveness/leadership-development firm (matches employer, CEO title, Austin 78704 location). 2002 U.S. Naval Academy graduate and former Marine Corps officer who deployed to Iraq. No TEC lobbyist registration; individual Democratic-leaning contributions consistent with lean 1.0.",
+  "source_url": "https://www.kristenkavanaugh.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Military Acceptance Project (MAP)", "role": "Co-founder", "category": "military_defense", "source_url": "https://everipedia.org/wiki/lang_en/kristen-kavanaugh", "snippet": "After the repeal of DADT, she co-founded the Military Acceptance Project (MAP) ... which promoted acceptance of LGBT service members, veterans, and their families."},
+   {"org": "Defense Advisory Committee on Diversity and Inclusion (U.S. Department of Defense)", "role": "Vice Chair (inaugural committee)", "category": "military_defense", "source_url": "https://dworakpeck.usc.edu/news/social-work-alumna-earns-coveted-spot-on-defense-council", "snippet": "She served as vice chair of the Department of Defense's inaugural Defense Advisory Committee on Diversity and Inclusion."}
+  ]
+ },
+ {
+  "donor_id": "90ddaf00-df59-4814-b751-de0103da2eb8",
+  "name": "Aguilar, Raquel",
+  "resolved_employer": "Wincorp Solutions / Insight Global (IT staffing; contract technical writer)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Common name; a Raquel Aguilar is documented as a contract Technical Writer whose company associations include Insight Global, USAA and JPMorgan Chase, consistent with the San Antonio (78207) staffing-agency employers on file (Wincorp Solutions, Insight Global). Could not pin to a single confirmed personal profile. No federal PAC records, no lobbyist registration, and no personal bio page located to read in full.",
+  "source_url": "https://www.zoominfo.com/p/Raquel-Aguilar/-910021097",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9ceb8036-5aa8-4b15-b43e-72985e01ff2f",
+  "name": "Cartwright, Bettie",
+  "resolved_employer": "Not Employed (Houston philanthropist / arts patron; President, Capricorn Foundation)",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Identity corroborated: Bettie Cartwright of Houston (zip 77027, 'Not Employed') appears in FEC individual-contribution records and as a Texas political contributor on Transparency USA (~$49,989 through the 2022 cycle), matching the all-Democratic partisan lean and high donation count. Documented as a Museum of Fine Arts Houston supporter/arts patron. FEC search surfaced only Democratic/ActBlue giving with NO pro-Israel, J Street, oil-gas, defense, or NRA PAC affiliation; no lobbyist registration; no policy-advocacy board role — arts patronage only.",
+  "source_url": "https://www.transparencyusa.org/tx/contributor/bettie-cartwright?cycle=2022-election-cycle",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8e931369-7076-4bb6-838b-5481b1690d9d",
+  "name": "T Duka, Love",
+  "resolved_employer": "Self-employed (individual caregiver; employer listed as own name 'Love Duka')",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "No public profile exists beyond the generic occupation. Occupation 'Caregiver' with employer listed as own name indicates a self-employed in-home care worker (San Antonio, 78216); classified by occupation as Healthcare (home care). No federal PAC records (0 FEC donations on file); no lobbyist registration; no bio page found. Quiet result.",
+  "source_url": "https://www.ethics.state.tx.us/search/lobby/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e7983ff-4f52-41b1-afa2-57f0f257d2bb",
+  "name": "Karempudi, Sahiti",
+  "resolved_employer": "City of Austin (Program Coordinator)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Identity confirmed via LinkedIn: Sahiti Karempudi is a Program Coordinator at the City of Austin (develops programs encouraging students to bike/walk to school). Background: JD and Master's in Environmental Law & Policy (Vermont Law School), former Partnerships Manager at San Francisco Parks Alliance. Matches location (Austin, 78702), employer, and occupation on file. No federal PAC records, no lobbyist registration; advocacy background is environmental/sustainability, none in the checked balanced categories.",
+  "source_url": "https://www.linkedin.com/in/sahitikarempudi/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

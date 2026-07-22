@@ -1,0 +1,254 @@
+[
+  {
+    "donor_id": "1f361e1c-da69-4b55-9bd0-956a6bcc1951",
+    "name": "Berkley, Dutch",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as Not Employed at 234 Brees Blvd in Alamo Heights (78209), an affluent San Antonio enclave, with 24 FEC donations indicating an active recurring Democratic small-dollar donor. 'Dutch' appears to be a nickname; no public bio, obituary, or business profile discoverable to confirm the specific individual.",
+    "source_url": "https://www.city-data.com/elec2/18/elec-SAN-ANTONIO-TX-18-part67.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1c5a2955-d496-4c62-9184-53e57ebdc125",
+    "name": "French, Elaine",
+    "resolved_employer": "President, John and Elaine French Family Foundation (Ketchum, ID); retired education-policy researcher and conservation philanthropist (retired)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Wellesley/Harvard/Stanford-educated retiree who moved from educational-policy R&D to conservation philanthropy; president of the John & Elaine French Family Foundation (environment, reproductive rights, education). Ketchum ID (83340), 57 FEC donations; major Democratic donor ($25K Biden Victory Fund 2020, Ossoff). Identity confirmed via foundation, Advocates for the West bio, and matching zip.",
+    "source_url": "https://advocateswest.org/advocates/elaine-french-ketchum-id/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "League of Conservation Voters", "role": "Board member", "category": "civic", "source_url": "https://advocateswest.org/advocates/elaine-french-ketchum-id/", "snippet": "currently serves on the League of Conservation Voters board"},
+      {"org": "Idaho Conservation League / The Nature Conservancy (Idaho)", "role": "Board member and chair", "category": "civic", "source_url": "https://advocateswest.org/advocates/elaine-french-ketchum-id/", "snippet": "board member and chair of the Idaho Conservation League and Idaho's Nature Conservancy chapter"},
+      {"org": "Planned Parenthood Mar Monte", "role": "Board involvement", "category": "civic", "source_url": "https://advocateswest.org/advocates/elaine-french-ketchum-id/", "snippet": "French has been involved with Planned Parenthood Mar Monte ... family foundation, which supports environmental, reproductive rights, and educational efforts"}
+    ]
+  },
+  {
+    "donor_id": "1b06e700-7a96-4a42-ae05-5c4e1a203877",
+    "name": "Hardison, Robert L",
+    "resolved_employer": "Self-employed farmer / citrus rancher, Santa Paula (Ventura County) CA; affiliated with La Pedrera LLC, Crane Estate Inc., and ESVI (member of the historic Hardison ranching family)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Robert L. Hardison, 93060, listed across FEC records as Farmer (Self / La Pedrera LLC) and manager of family agricultural entities at 1940 Timber Canyon Rd, a Ventura County citrus/agricultural area tied to the historic Hardison ranching family. Consistent Democratic donor (EMILY's List $5K, Warren, Duckworth, Cortez Masto, Casey, 2017). Only 3 gifts on the SA site; identity corroborated by zip, occupation, and address.",
+    "source_url": "https://www.city-data.com/elec2/18/elec-SANTA-PAULA-CA-18.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "EMILY's List", "role": "Donor ($5,000, 2017)", "category": "political", "source_url": "https://www.city-data.com/elec2/18/elec-SANTA-PAULA-CA-18.html", "snippet": "Robert L. Hardison from zip code 93060 made a $5,000 contribution to Emily's List on 05/08/2017"}
+    ]
+  },
+  {
+    "donor_id": "1a767fb2-860d-400c-a7b9-4c029fe28eb1",
+    "name": "Graves, David",
+    "resolved_employer": "Programmer at HRnovations, Inc. (HR/payroll services firm, Bellevue WA; acquired by Avitus Group 2016)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "David Graves, Programmer at HRNovations, Seattle 98103 (5834 E Green Lake Way N). HRnovations is a real Bellevue WA HR/payroll technology firm. FEC records for this exact name/employer/occupation show a prolific small-dollar Democratic donor (Andrew Janz, Carolyn Long, Jason Rittereiser, 2018 House Democrats); 138 donations. Common name, but employer+occupation+zip align with the FEC contributor record.",
+    "source_url": "https://www.city-data.com/elec2/18/elec-SEATTLE-WA-18-part59.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1985b653-a34b-4032-9df3-111ba4c01a02",
+    "name": "Chenven, Dinah",
+    "resolved_employer": "Not employed / retired, Austin TX (longtime resident of 3403 Spanish Oak Dr; wife of Dr. Norman Chenven, founder of Austin Regional Clinic)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Dinah B. Chenven, resident of 3403 Spanish Oak Dr, Austin 78731 for ~40 years; listed as Not Employed. Wife of Dr. Norman Chenven (ARC founder). Historically served on the board of the UT-Austin Sharir Dance Company (arts, not policy advocacy). Identity confirmed by address and spouse; no policy-advocacy or ideological-PAC affiliations found.",
+    "source_url": "https://www.fastbackgroundcheck.com/people/dinah-chenven/id/f6229128919815239738",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "18d2a49f-62d1-472b-99fe-926591bd7a9c",
+    "name": "Caoile, Gloria",
+    "resolved_employer": "Retired labor organizer; founding member of Asian Pacific American Labor Alliance (APALA) and former assistant to the AFSCME president (retired)",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "Gloria T. Caoile, longtime AAPI/Filipino-American labor activist based in Henderson/Las Vegas NV (matches 89052 address); founding leader of APALA and NaFFAA, ex-AFSCME. 'Not Employed' consistent with retirement.",
+    "source_url": "https://special.library.unlv.edu/ark:/62930/f1z47t",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Asian Pacific American Labor Alliance (APALA)", "role": "Founding member / former executive director / NV civic engagement director", "category": "civic", "source_url": "https://findingaids.library.nyu.edu/tamwag/wag_324/", "snippet": "Gloria T. Caoile is a founding member of the Asian Pacific American Labor Alliance (APALA) and its Director of Civic Engagement in Nevada."},
+      {"org": "National Federation of Filipino American Associations (NaFFAA)", "role": "Founding leader", "category": "civic", "source_url": "https://www.naffaanv.org/", "snippet": "Gloria Caoile is a labor activist and founding leader of the National Federation of Filipino American Associations."}
+    ]
+  },
+  {
+    "donor_id": "18cadfd8-10ff-4cca-a806-40f57b0e4fcd",
+    "name": "Witt-Ogorman, Mary Ann",
+    "resolved_employer": "Possibly Mary Ann Witt-O'Gorman, insurance-industry professional (LinkedIn lists Houston/insurance); donor record lists 'Not Employed', possibly retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Distinctive name matches a Mary Ann Witt-O'Gorman LinkedIn profile (Houston, insurance), but donor address is San Antonio 78248 and occupation is 'Not Employed'; could not confirm same person or current employment. 18 prior FEC gifts but no ideological-PAC pattern surfaced.",
+    "source_url": "https://www.linkedin.com/in/mary-ann-witt-o-gorman-69794380/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "16d7ee0b-c494-4fa4-8fc4-257920bda887",
+    "name": "Wu, Eugene",
+    "resolved_employer": "Attorney in private practice (self-employed); Texas State Representative, District 137 (D-Houston) and House Democratic leader",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Eugene 'Gene' Yuanzhi Wu is an attorney in private practice in Houston and TX House Rep for District 137 (Sharpstown/Gulfton, which includes the 77081 area). Occupation 'Attorney/Self' and 43 FEC gifts fit an active Democratic officeholder; identity strongly aligned but not documentarily pinned to the exact 5522 Jessamine St address.",
+    "source_url": "https://house.texas.gov/members/2865/biography",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House of Representatives (District 137)", "role": "State Representative; House Democratic leader", "category": "political", "source_url": "https://ballotpedia.org/Gene_Wu", "snippet": "Eugene Yuanzhi Wu is an American lawyer and politician who has represented Texas's 137th district since 2013; elected House minority leader for the 89th Legislature."}
+    ]
+  },
+  {
+    "donor_id": "16c9fec6-f15d-411d-ac91-95940a533221",
+    "name": "Vogel, J",
+    "resolved_employer": "Software engineer at Na ho'ona hou Inc. (DBA Jetboost.io), a Honolulu software company",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Employer string 'Na hoona hou Inc' matches Na ho'ona hou Inc. (DBA Jetboost.io), a Honolulu software firm founded by Les Vogel; Honolulu location and software-engineer occupation align. First-initial 'J' vs 'Les' leaves identity slightly uncertain (possible family member or given name). No public policy-advocacy affiliations found.",
+    "source_url": "https://www.linkedin.com/in/lesv/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "12e5cc99-8499-4b47-8ee0-3d065860f1bc",
+    "name": "Sonnenfeldt, Michael",
+    "resolved_employer": "Investor; Founder/Chairman of TIGER 21 and Chairman of MUUS & Company / MUUS Climate Partners (private investment)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Occupation 'investor/self' and NYC Central Park West residence match Michael W. Sonnenfeldt, TIGER 21 founder and co-founder/past chairman of the Israel Policy Forum. Site's fec_donation_count of 0 is inconsistent with his known large federal giving, leaving a small identity caveat, but occupation+location+rare surname strongly corroborate.",
+    "source_url": "https://en.wikipedia.org/wiki/Michael_W._Sonnenfeldt",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Israel Policy Forum (IPF)", "role": "Co-founder; chairman 1997-2001", "category": "liberal_zionist", "source_url": "https://en.wikipedia.org/wiki/Michael_W._Sonnenfeldt", "snippet": "Sonnenfeldt co-founded the Israel Policy Forum (IPF) in 1993 to support the Middle East peace process and promote Israel's future as a Jewish and democratic state by advancing a diplomatic resolution to the Arab-Israeli conflict. He served as chairman from 1997 until 2001."},
+      {"org": "Washington Institute for Near East Policy", "role": "Board of trustees (since 1998)", "category": "pro_israel", "source_url": "https://en.wikipedia.org/wiki/Michael_W._Sonnenfeldt", "snippet": "a member of the board of trustees of the Washington Institute for Near East Policy since 1998."},
+      {"org": "Institute for National Security Studies (Israel)", "role": "International board of trustees (since 2002)", "category": "pro_israel", "source_url": "https://en.wikipedia.org/wiki/Michael_W._Sonnenfeldt", "snippet": "a member of the international board of trustees of the Institute for National Security Studies in Israel since 2002."}
+    ]
+  },
+  {
+    "donor_id": "12baff9c-bb0a-487e-89f0-0bd51ce1304b",
+    "name": "Mills, Jennifer",
+    "resolved_employer": "Not employed (self-reported); Chattanooga, TN",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "FEC individual-contribution records for a Jennifer Mills, 'not employed,' zip 37402 Chattanooga TN, show a pattern of small-dollar gifts exclusively to Democratic federal candidates in 2020 (Tipirneni $250, Hickenlooper $500, Bullock $500, Greenfield $500), consistent with the 27 FEC donations on file and a $1,000 gift to Gina Ortiz Jones. No pro-Israel/pro-Palestine, gun, oil-gas, or defense PAC ties found. No public bio page discoverable beyond the FEC/donor record.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-CHATTANOOGA-TN-20-part22.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic federal candidates (Hickenlooper, Bullock, Greenfield, Tipirneni)", "role": "small-dollar donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-CHATTANOOGA-TN-20-part22.html", "snippet": "Jennifer Mills, not employed, zip 37402 Chattanooga, gave $250 Hiral for Congress, $500 Hickenlooper for Colorado, $500 Montanans for Bullock, $500 Theresa Greenfield for Iowa (2020)."}
+    ]
+  },
+  {
+    "donor_id": "127eecdd-21d2-4bc2-bd8c-6f80d28f52a5",
+    "name": "Blakey, JoAnne",
+    "resolved_employer": "Not Employed (per filing); possibly retired education-management professional, Hingham MA",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Filing lists 'Not Employed.' A LinkedIn profile 'Joanne Blakey - Education Management Professional' and public-records data (Joanne M. Blakey, owner of 29 Elm St, Hingham MA) plausibly match this donor, suggesting a retired education career, but identity is not firmly confirmed. Zero FEC donations on file; no federal PAC activity found. No pro-Israel/pro-Palestine, gun, oil-gas, or defense ties found.",
+    "source_url": "https://www.linkedin.com/in/joanne-blakey-948a094",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "123e2283-8ffa-4c0e-a48c-b046c4f3feb8",
+    "name": "Connelly, Tom",
+    "resolved_employer": "Advisor, Contran Corp (Simmons family holding company); widower of philanthropist Serena Simmons Connelly, Dallas TX",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "TEC filing lists Tom Connelly, Advisor, Contran Corp, 3156 Brookhollow Dr Dallas TX 75234, $1,000 to Gina Ortiz Jones. Same household address is that of Serena Simmons Connelly (daughter of the late Republican megadonor Harold Simmons, founder of Contran, which controls NL Industries/Valhi/Kronos/Titanium Metals). Obituary confirms Serena was 'survived by her husband, Tom Connelly.' Serena and Tom align with Democratic/social-justice giving; no independent Republican or oil-gas PAC contributions by Tom Connelly himself were located.",
+    "source_url": "https://www.peoplenewspapers.com/2020/04/30/philanthropist-and-activist-serena-simmons-connelly-dead-at-age-50/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Contran Corp", "role": "Advisor", "category": "business", "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003287_20250403_171242.pdf", "snippet": "Tom Connelly, occupation Advisor, employer Contran Corp, 3156 Brookhollow Dr, Dallas TX 75234."},
+      {"org": "Harold Simmons Foundation / Simmons family philanthropy", "role": "co-donor / family member (widower of Serena Simmons Connelly)", "category": "civic", "source_url": "https://www.uta.edu/academics/schools-colleges/social-work/news/releases/2020/05/13/social-work-alum-philanthropist-dies", "snippet": "A $1 million gift from the Harold Simmons Foundation and Thomas Connelly established an endowment in memory of Serena Simmons Connelly, who was survived by her husband, Tom Connelly."}
+    ]
+  },
+  {
+    "donor_id": "11e5dc74-a1c9-47ba-90b1-d764bcdeede2",
+    "name": "Aberly, Naomi",
+    "resolved_employer": "Philanthropist/Democratic activist-donor; Board Chair, Planned Parenthood Federation of America (self-reported 'Not Employed'); Beacon Hill, Boston / Dallas",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed as the prominent Democratic donor Naomi Aberly (spouse of hedge-fund manager Larry Lebowitz; OpenSecrets donor 'Lebowitz, Naomi Aberly'). Identity corroborated by high FEC donation count (250) and Beacon Hill Boston address (32 Derne St), consistent with her Dallas/Boston presence. InfluenceWatch documents her as Chair of the board of Planned Parenthood Federation of America, board member of Battleground Texas, Annie's List, and State Innovation Exchange, DNC vice chair. No pro-Israel/pro-Palestine PAC contributions were surfaced.",
+    "source_url": "https://www.influencewatch.org/person/naomi-aberly/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Planned Parenthood Federation of America", "role": "Board Chair (also former PP Action Fund board)", "category": "civic", "source_url": "https://www.influencewatch.org/person/naomi-aberly/", "snippet": "Naomi Aberly is best known for chairing the board of Planned Parenthood Federation of America; donated $775,000 to Planned Parenthood Votes since 2017."},
+      {"org": "Giffords PAC", "role": "donor", "category": "gun_control", "source_url": "https://www.influencewatch.org/person/naomi-aberly/", "snippet": "Contributions to Giffords PAC, UltraViolet PAC, and American Bridge 21st Century."},
+      {"org": "Battleground Texas / Annie's List / DNC", "role": "board member; DNC vice chair; Democratic fundraiser", "category": "political", "source_url": "https://www.influencewatch.org/person/naomi-aberly/", "snippet": "Board member of Battleground Texas and Annie's List; vice chair of the Democratic National Committee; National Finance Committee for Obama."}
+    ]
+  },
+  {
+    "donor_id": "114376cc-154d-48d5-b2db-ba9a9352e808",
+    "name": "Childs, Linda",
+    "resolved_employer": "Librarian, City of San Antonio (San Antonio Public Library)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Filing lists Linda Childs, Librarian, City of San Antonio, zip 78213, with a high FEC donation count (185) and a $1,000 gift to Gina Ortiz Jones, indicating an active recurring small-dollar Democratic donor. Occupation/employer are self-reported on the filing; industry (Government—municipal library employee) is classified from the stated employer. No Texas lobbyist registration found. No pro-Israel/pro-Palestine, gun, oil-gas, or defense PAC ties found.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003287_20250403_171242.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0f6d949a-819c-48be-ba8c-567a4dec3b86",
+    "name": "Gutierrez, Guadalupe",
+    "resolved_employer": "Lupita Gutierrez Insurance Services, San Antonio (self-employed insurance agency owner/broker)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Employer string 'Lupita Gutierrez' and occupation 'International Insurance Broker' match Lupita (Guadalupe) Gutierrez, who owns Lupita Gutierrez Insurance Services in San Antonio offering life insurance, investment and savings plans. Home address 78201 (2301 W Gramercy Pl); business at 118 Broadway. No Texas Ethics Commission lobbyist registration found. No ideological federal PAC contributions surfaced.",
+    "source_url": "https://lupitagutierrez.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0e9e2585-3741-40dc-9fda-740034164cb1",
+    "name": "Ting, Wayne",
+    "resolved_employer": "CEO of Lime (micromobility/e-bike company); former Senior Policy Advisor, White House National Economic Council under President Obama (2012-2014)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Donor in Santa Fe, NM 87506 with occupation 'Policy' / employer 'White house' matches Wayne Ting per Wikipedia: resides in Santa Fe, NM, served as Senior Policy Advisor on the National Economic Council under Obama (2012-2014, housing finance), later Uber chief of staff, and is CEO of Lime since 2020. Location and biography corroborate identity. FEC individual-contribution count is 0; no ideological PAC record and no Texas lobbyist registration.",
+    "source_url": "https://en.wikipedia.org/wiki/Wayne_Ting",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Lime", "role": "Chief Executive Officer", "category": "business", "source_url": "https://en.wikipedia.org/wiki/Wayne_Ting", "snippet": "Wayne Ting is CEO of Lime, a micromobility company; previously chief of staff at Uber."},
+      {"org": "White House National Economic Council (Obama administration)", "role": "Senior Policy Advisor (2012-2014)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Wayne_Ting", "snippet": "Served as Senior Policy Advisor on the National Economic Council under President Obama, focused on housing finance reform."}
+    ]
+  },
+  {
+    "donor_id": "0bebe6e4-f843-4be0-8c80-28179b471c7a",
+    "name": "morgan, sara",
+    "resolved_employer": "Not Employed; Houston arts/civic philanthropist (Sara S. Morgan) and prolific Democratic donor",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Donor in Houston 77019 (River Oaks), occupation 'Not Employed', with 838 FEC donations, matches Sara S. Morgan, a longtime Houston civic/arts philanthropist and Democratic donor: co-founder of the Houston Center for Contemporary Craft, life trustee of the Museum of Fine Arts Houston, Houston Grand Opera board member. A 'Sara S Morgan' of ZIP 77019 is on record giving to Democratic federal candidates. Multiple Houston 'Sara Morgans' exist, so identity is probable rather than certain. No single-issue ideological PAC ties found.",
+    "source_url": "https://crafthouston.org/2016/09/masters-sara-s-morgan/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Houston Center for Contemporary Craft / Museum of Fine Arts Houston / Houston Grand Opera", "role": "Co-founder; life trustee; board member", "category": "civic", "source_url": "https://crafthouston.org/2016/09/masters-sara-s-morgan/", "snippet": "Sara S. Morgan co-founded the Houston Center for Contemporary Craft in 2001 and is a life trustee of the Museum of Fine Arts, Houston and serves on the Houston Grand Opera board."}
+    ]
+  },
+  {
+    "donor_id": "0bb22600-b2b2-492f-a30e-cda505790c8d",
+    "name": "Menendez, Jose",
+    "resolved_employer": "Vice President / Director of Multicultural Market, Stewart Title Guaranty; concurrently Texas State Senator, District 26 (D-San Antonio)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Donor occupation 'Senior Vice President' / employer 'Stewart Title Guranty' in San Antonio 78229 resolves to State Senator Jose Menendez: his official Texas Senate District 26 biography lists his occupation as 'Vice President, Stewart Title Guaranty; Director, Multicultural Market.' The Stewart Title title-insurance executive and the senator are the same person. Sitting Democratic state senator (former SA City Council, TX House, Senate since 2015). Not a registered lobbyist (officeholder).",
+    "source_url": "https://www.senate.texas.gov/member.php?d=26&lang=en",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas State Senate, District 26", "role": "State Senator (D-San Antonio), since 2015", "category": "political", "source_url": "https://www.senate.texas.gov/member.php?d=26&lang=en", "snippet": "Official Senate bio: Menendez serves State Senate District 26; occupation listed as 'Vice President, Stewart Title Guaranty; Director, Multicultural Market.'"},
+      {"org": "National Association of Hispanic Real Estate Professionals (NAHREP)", "role": "Former national board member", "category": "business", "source_url": "https://www.stewart.com/en/customer-type/commercial-title-closing-services/bios/office-locations/dallas/business-development/jose-menendez.html", "snippet": "A former national board member of NAHREP, he now focuses on the commercial real estate market at Stewart Title."}
+    ]
+  },
+  {
+    "donor_id": "0a006643-0c76-4cbf-b3d2-e64c60b65cda",
+    "name": "Maloney Jr., Pat",
+    "resolved_employer": "Trial/personal-injury attorney, The Law Offices of Pat Maloney, P.C., San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Donor occupation 'Attoney' / employer 'Law Offices of Pat Maloney' at 239 E Commerce St, San Antonio 78205 matches Pat Maloney, Jr., the well-known San Antonio personal-injury/trial attorney. His firm bio confirms: UT undergrad (1975), St. Mary's law (1977), board certified in Personal Injury Trial Law, member of San Antonio Bar, Texas Trial Lawyers Association, and American Association for Justice. No Texas Ethics Commission lobbyist registration found. No ideological single-issue PAC contributions surfaced tied to this individual.",
+    "source_url": "https://patmaloney.com/about-us/pat-maloney/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

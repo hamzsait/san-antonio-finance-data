@@ -1,0 +1,276 @@
+[
+  {
+    "donor_id": "29d99579-498a-4097-baab-e697c56320f1",
+    "name": "Florence, Patricia",
+    "resolved_employer": "North East ISD (NEISD) - teacher/family specialist, Longs Creek Elementary, San Antonio",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Public school employee at NEISD in San Antonio; listed as 'Florence, Trish' / Family Specialist on Longs Creek Elementary staff pages. Occupation (Teacher), employer (NEISD) and San Antonio location all corroborate.",
+    "source_url": "https://www.neisd.net/longscreek/contact-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "27a8084c-d79e-445f-b4ae-f1a6f00560e8",
+    "name": "Wright, Laura",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired individual (Laura J Wright, ~80 y/o) at 9779 Beaver Creek Church Rd, Hagerstown, MD 21740; prolific small-dollar Democratic-leaning donor (259 gifts). No former career or public profile identifiable, so former-career industry cannot be determined.",
+    "source_url": "https://nuwber.com/name/laura-wright/md",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "279746f2-a1d7-41a7-b4bf-62419e884c1f",
+    "name": "Waldman, Rebecca",
+    "resolved_employer": "Former Director, City of San Antonio Department of Asset Management (retired); currently Not Employed",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Rebecca Waldman served as Director of the City of San Antonio Department of Asset Management (documented in city council memoranda ~2001-2004); now listed Not Employed (retired). Address 112 E Rosewood Ave, 78212 matches. Very prolific Democratic donor (1,006 gifts). Industry reflects former govt career (retired).",
+    "source_url": "https://webapp1.sanantonio.gov/archivedagendas/docsguest/21p6601!.PDF",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2785c1e6-8ee6-4646-8601-b7e304333e83",
+    "name": "Palmer, Mary",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Not Employed, 407 Castenada Ave, San Francisco, CA 94116. Name too common and no public profile matches this specific address/occupation; individual cannot be reliably identified beyond a San Francisco small-dollar donor.",
+    "source_url": "https://blockshopper.com/ca/san-francisco-county/zips/94116/streets/castenada-ave",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "26b717ce-e1c2-4a98-b98e-02c2a3de0283",
+    "name": "Smith, Jeremy",
+    "resolved_employer": "Civitech (Austin) - Founder & CEO; progressive/Democratic political-technology startup",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Occupation (Technology), employer (Civitech) and Austin location match Jeremy Smith, co-founder/CEO of Civitech, an Austin-based progressive political-tech firm (West Point grad, Army veteran, founder of Register2Vote, 2016 Clinton FL voter-protection deputy director). Home address not independently confirmed, hence medium.",
+    "source_url": "https://civitech.io/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Civitech",
+        "role": "Co-founder & CEO",
+        "category": "political",
+        "source_url": "https://civitech.io/about-us/",
+        "snippet": "Civitech is an Austin-based startup that builds technology and data products to help Democratic candidates win and progressive causes succeed; Jeremy Smith is co-founder and CEO."
+      }
+    ]
+  },
+  {
+    "donor_id": "25b56099-ad23-4df7-826f-76bc5bd15b8f",
+    "name": "Nettles, Scott",
+    "resolved_employer": "Nettles Consulting, LLC (principal/consultant); formerly tenured Associate Professor of Electrical & Computer Engineering, UT Austin",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Scott McBride Nettles, president of Nettles Consulting LLC at 536 Liberty St, San Francisco 94114 (matches donor address); per USPTO filing was a tenured Associate Professor of ECE at UT Austin 2005-2013, then consultant. No political/advocacy affiliations found.",
+    "source_url": "https://www.corporationwiki.com/p/2e3rlc/scott-mcbride-nettles",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "256c2e91-8f53-45c0-9892-d5b94091331e",
+    "name": "Hester, Tina",
+    "resolved_employer": "Jane's Due Process (Executive Director, retired 2019) - reproductive-rights nonprofit",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Tina Hester, retired Executive Director of Jane's Due Process (legal aid for pregnant minors in Texas), 11 years leading the org until April 2019; FEC records list her at Austin 78737 (matches donor). Now 'Not Employed' (retired). Longtime reproductive-justice advocate. (retired)",
+    "source_url": "https://janesdueprocess.org/blog/introducing-our-new-executive-director/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Jane's Due Process",
+        "role": "Executive Director (2008-2019, retired)",
+        "category": "civic",
+        "source_url": "https://janesdueprocess.org/executive-director/",
+        "snippet": "Tina Hester served as Executive Director of Jane's Due Process, a Texas nonprofit ensuring legal representation for pregnant minors; retired April 2019 after 11 years."
+      }
+    ]
+  },
+  {
+    "donor_id": "248cea71-67de-449f-bf5a-5b99d10e7c41",
+    "name": "Freeto, Sharon",
+    "resolved_employer": "United Methodist pastor - La Vernia United Methodist Church; formerly St. Mark's UMC, San Antonio (donor listed Not Employed)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Sharon Freeto (rare surname) is a UMC pastor in the San Antonio area - La Vernia UMC, previously St. Mark's UMC San Antonio; Syracuse/Boston University School of Theology. San Antonio 78245 donor listed Not Employed. Frequent Democratic small-dollar donor (639 FEC gifts). No policy-advocacy affiliations documented.",
+    "source_url": "https://www.zoominfo.com/p/Sharon-Freeto/80041863",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "236f124a-5d79-4330-a4ac-5ad89e5268c4",
+    "name": "Hawkey, Randy",
+    "resolved_employer": "Tishman Speyer (Director of Services) - global real estate development/investment firm",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Donor self-reports as Director of Services at Tishman Speyer, a major NYC-based commercial real estate firm; NYC (Harlem) address consistent. No individual public profile located, so classified by employer. No political affiliations found.",
+    "source_url": "https://www.tishmanspeyer.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "22b195a1-f41e-42a5-acf6-ac1ef14a4187",
+    "name": "Stevens, Lourdes D",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "No public record identifies this individual beyond the donor filing (San Antonio 78260, Not Employed, 4 FEC gifts, Democratic lean). Could not corroborate identity, career, or any affiliations.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "21bebe5f-fc4d-4188-ac6d-396cc2fc28d0",
+    "name": "Miller, Deborah",
+    "resolved_employer": "Founder/Project Director, The TESH Project LLC (custom home build & renovation project management; former attorney/mediator), San Antonio TX",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Deborah Miller is founder/owner of The TESH Project LLC in San Antonio, a custom-home-build and renovation project-management firm; she describes herself as a former attorney and mediator with 20+ years in the industry and acts as owner's representative coordinating architects, builders and designers. Matches SA/78258 location and 'Consultant / The TESH Project LLC' employer string.",
+    "source_url": "https://www.theteshproject.com/project-director/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "21a30a90-316f-4d70-ae3f-cf0d885bc14d",
+    "name": "Cook, Molly",
+    "resolved_employer": "Texas State Senator, District 15 (Houston); emergency-room registered nurse by profession",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Strong match to Molly Cook, Democratic Texas State Senator for SD-15 (Houston), a career ER nurse and community organizer elected in 2024; donor's Houston location, 'ER Nurse/Hospital' occupation and prolific Democratic FEC giving (119 donations, lean 1.0) are consistent with her. Identity not 100% confirmable from filing alone.",
+    "source_url": "https://en.wikipedia.org/wiki/Molly_Cook",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Senate (District 15)",
+        "role": "State Senator (Democrat)",
+        "category": "political",
+        "source_url": "https://en.wikipedia.org/wiki/Molly_Cook",
+        "snippet": "Democratic member of the Texas Senate for the 15th district (Houston), an emergency-room nurse elected in a 2024 special election."
+      }
+    ]
+  },
+  {
+    "donor_id": "20d781de-4246-4888-ad33-8518d6643413",
+    "name": "Aldrete, James",
+    "resolved_employer": "Owner, MAP (Message Audience & Presentation, Inc.) - Democratic political/media communications consultant, Austin TX",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Matches James Aldrete, well-known Austin Democratic media/communications consultant and owner of MAP; worked Obama media team (2008/2012, Hispanic media) and Hillary for America (2016), Ann Richards campaign. Austin 78704 location and Democratic FEC pattern (65 donations, lean 1.0) fit.",
+    "source_url": "https://theaapc.org/board-of-directors/james-aldrete/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "MAP / Democratic campaigns (Obama, Clinton, Ann Richards)",
+        "role": "Political communications consultant / firm owner",
+        "category": "political",
+        "source_url": "https://theaapc.org/board-of-directors/james-aldrete/",
+        "snippet": "Owner of MAP; served on Obama media teams (2008/2012) and Hillary for America (2016) focused on Hispanic media; deputy press secretary for Ann Richards."
+      },
+      {
+        "org": "ACLU of Texas / Texas Freedom Network / Center for Public Policy Priorities",
+        "role": "Board member",
+        "category": "civic",
+        "source_url": "https://theaapc.org/board-of-directors/james-aldrete/",
+        "snippet": "Board affiliations listed include ACLU of Texas, Texas Freedom Network, El Buen Samaritano, Annette Strauss Institute for Civic Life, and Center for Public Policy Priorities."
+      }
+    ]
+  },
+  {
+    "donor_id": "209c318d-4153-4ebd-904e-d443474af8e9",
+    "name": "Silbert, Cynthia",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor lists Not Employed in Chestnut Hill, MA 02467, with no FEC donation history. No public profile, lobbyist registration, or advocacy affiliation could be corroborated for this specific individual; a $100 small donation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "206d5eaa-0f96-4873-94f6-37c7baa729b0",
+    "name": "Chamberlain, Caroline",
+    "resolved_employer": "IT program manager, Dell Technologies, Austin TX (per filing)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Donor self-reports as IT program manager at Dell Technologies in Austin 78704; consistent with a technology-sector professional and a very active small-dollar Democratic donor (324 FEC donations, lean 1.0). Could not independently corroborate a specific public bio/LinkedIn or any advocacy-org affiliation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1fe7503f-71e2-4d3d-9de9-f2ce8064fbcb",
+    "name": "Burgess, Matthew",
+    "resolved_employer": "The New Media Firm (Principal) - Democratic/progressive media & PR firm in Washington, DC",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Matt Burgess is Principal at The New Media Firm, a left-progressive Democratic PR/ad firm; veteran Democratic strategist who has been Political Director for Everytown for Gun Safety and Planned Parenthood Action Fund, EVP at End Citizens United, and managed Sen. Al Franken and Gov. Maggie Hassan campaigns. Bio corroborated by the firm's team page.",
+    "source_url": "https://thenewmediafirm.com/who-we-are/matt-burgess/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Everytown for Gun Safety",
+        "role": "former Political Director",
+        "category": "gun_control",
+        "source_url": "https://thenewmediafirm.com/who-we-are/matt-burgess/",
+        "snippet": "Bio lists him as former Political Director for Everytown for Gun Safety, the leading gun-control advocacy organization."
+      },
+      {
+        "org": "LGBTQ Victory Fund",
+        "role": "Campaign Board member",
+        "category": "political",
+        "source_url": "https://thenewmediafirm.com/who-we-are/matt-burgess/",
+        "snippet": "Serves on the LGBTQ Victory Fund Campaign Board; career Democratic operative (End Citizens United EVP, Planned Parenthood Action Fund, EMILY's List, Franken/Hassan campaigns)."
+      }
+    ]
+  },
+  {
+    "donor_id": "1fb54380-defa-4206-93ae-a55a01a7e314",
+    "name": "Marshall, Ellen",
+    "resolved_employer": "Not employed / retired (person-search records tie 242 Wyanoke Dr to email emarshal@laccd.edu, suggesting a former Los Angeles Community College District/education connection - weak)",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Ellen O. Marshall at the exact donation address (242 Wyanoke Dr, SA 78209) appears in people-search records with a laccd.edu (Los Angeles Community College District) email, hinting at a former education career; now listed Not Employed. No policy-advocacy affiliations found; 28 FEC gifts lean Democratic but no org tie.",
+    "source_url": "https://ufind.name/Ellen+Marshall",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1eb72a9c-a888-4172-abfa-fc125bc459f8",
+    "name": "Dukes, Thomas",
+    "resolved_employer": "Not employed / likely retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Thomas Dukes at 512 Rittiman Rd, SA 78209, listed Not Employed. Prolific small-dollar Democratic donor (706 FEC gifts, lean D) but no identifiable occupation, bio, or policy-advocacy org affiliation; not a registered TX lobbyist.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1d2d52e9-8367-4890-9676-47bbd037e4ac",
+    "name": "Mitchell, Jason",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Jason Mitchell at 2200 Victory Ave Apt 2504, Dallas 75219 (Victory Park high-rise), self-reported Not employed, no FEC history. Common name with no distinguishing public profile; identity could not be confirmed and no affiliations found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1ca274ed-9b97-480b-b83d-bed4b069979a",
+    "name": "Bent, Franklin",
+    "resolved_employer": "Not employed / likely retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Franklin David Bent resides in Schertz, TX 78154, listed Not Employed; small-dollar Democratic donor (80 FEC gifts, lean D). No occupation, bio, or policy-advocacy affiliation found; not a registered TX lobbyist.",
+    "source_url": "https://www.spokeo.com/Franklin-Bent",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  }
+]

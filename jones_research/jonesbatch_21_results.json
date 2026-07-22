@@ -1,0 +1,246 @@
+[
+  {
+    "donor_id": "5fbfa2a9-23fd-44c8-a930-8ab92191c8ea",
+    "name": "ANON, JEFFERY",
+    "resolved_employer": "CEO/owner of Berryhill Baja Grill (Houston Tex-Mex restaurant chain); co-founder & former CEO of Cavallo Energy Texas (retail electricity)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Jeffery/Jeff Anon, Houston 77027 (River Oaks area), CEO of Berryhill Baja Grill restaurant company and previously co-founder of Cavallo Energy Texas (retail electricity, 2009-2015); unusual surname + CEO + Houston 'Self' filing corroborate identity, though restaurant vs. energy as primary role is ambiguous.",
+    "source_url": "https://theorg.com/org/berryhill-baja-grill/org-chart/jeff-anon",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5d26379a-1549-479a-be28-5d211e2f2ecb",
+    "name": "Garza, Emily",
+    "resolved_employer": "Administrator at 'HSCS' (organization not reliably identified); listed occupation Admin",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Emily Garza is a very common San Antonio name; the employer 'HSCS' could not be firmly resolved. Cannot confirm the specific individual or her industry despite the high FEC-donation count typical of a repeat small (ActBlue-style) donor.",
+    "source_url": "https://www.spokeo.com/Emily-Garza/Texas/San-Antonio/p10343335488966769807487924",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5c53ab34-f228-4d89-88dd-119334e9ef9f",
+    "name": "Harbaugh, Kenneth",
+    "resolved_employer": "President of VALOR Media Network and host of The Ken Harbaugh Show (MeidasTouch); former President & COO of Team Rubicon Global; former US Navy pilot",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Well-documented public figure: former Navy pilot, co-founder of The Mission Continues, former President/COO of Team Rubicon Global (2015-2017), 2018 Democratic nominee for OH-07, now a veteran-led political-media entrepreneur (VALOR Media Network, podcasts). Shaker Heights, OH matches.",
+    "source_url": "https://en.wikipedia.org/wiki/Ken_Harbaugh",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic Party / Ken Harbaugh Ohio Victory Fund PAC", "role": "2018 Democratic nominee for U.S. House OH-07; namesake PAC", "category": "political", "source_url": "https://www.opensecrets.org/political-action-committees-pacs/ken-harbaugh-ohio-victory-fund/C00679282/expenditures/2024", "snippet": "Registered Democrat and party nominee for Ohio's 7th Congressional District in 2018; OpenSecrets lists his Ken Harbaugh Ohio Victory Fund PAC."},
+      {"org": "Team Rubicon Global", "role": "President & COO (2015-2017)", "category": "civic", "source_url": "https://medium.com/@TRGlobal/trg-appoints-ken-harbaugh-as-president-and-coo-87b7cb340fb8", "snippet": "TRG appointed Ken Harbaugh as President and COO to lead the veteran-led global disaster-response service organization."}
+    ]
+  },
+  {
+    "donor_id": "5a30ac6e-58ba-4e35-a8fd-14045c05d9f5",
+    "name": "Lopez, Martha",
+    "resolved_employer": "Retired (former career could not be determined)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Martha Lopez is an extremely common San Antonio name; the 78212 retiree could not be individually resolved. Pattern (46 FEC donations, retired) is consistent with a frequent small recurring donor, but no public bio confirms a specific person or prior career.",
+    "source_url": "https://www.city-data.com/elec2/18/elec-SAN-ANTONIO-TX-18-part67.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "594a33e1-287e-4ce1-9947-18527d09056b",
+    "name": "McDonald, Theresa",
+    "resolved_employer": "Retired (former career not publicly identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired/unemployed individual in Palo Alto, CA 94301 with a small history of Democratic small-dollar giving (FEC/ActBlue). No public bio, employer, or former-career record could be confirmed for this specific person; common name.",
+    "source_url": "https://www.opensecrets.org/donor-lookup",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "584f6b44-9870-433e-bc9a-f45d48357a70",
+    "name": "Mendoza, Elaine",
+    "resolved_employer": "Founder, President & CEO, Conceptual MindWorks, Inc. (biotech/medical informatics & DoD contractor)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Prominent San Antonio tech entrepreneur; aerospace-engineering grad who founded Conceptual MindWorks (medical informatics/biotech firm serving the US Air Force/DoD since 1991). Former chair of the Texas A&M University System Board of Regents (2019), appointed by Govs. Perry and Abbott.",
+    "source_url": "https://sanantonioreport.org/san-antonios-elaine-mendoza-will-chair-am-board-of-regents/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Conceptual MindWorks, Inc. (US Air Force / Dept. of Defense contractor)", "role": "Founder/President/CEO", "category": "military_defense", "source_url": "https://www.governmentcontractswon.com/department/defense/conceptual_mindworks_inc_789755451.asp?spg=3&yr=07", "snippet": "CONCEPTUAL MINDWORKS, INC - SAN ANTONIO, TX - $7,169,892 in Defense Contracts in 2007; firm has served the US Air Force since 1991 and provides services to agencies within the US DoD."},
+      {"org": "Texas A&M University System Board of Regents", "role": "Regent 2011-2023, Chair 2019", "category": "political", "source_url": "https://sanantonioreport.org/san-antonios-elaine-mendoza-will-chair-am-board-of-regents/", "snippet": "Appointed to the A&M Board of Regents by Gov. Rick Perry in 2011, reappointed by Gov. Greg Abbott in 2017, and elected chair in May 2019."},
+      {"org": "The Bank of San Antonio; Health Care Service Corporation; CHRISTUS Santa Rosa Health System", "role": "Board director", "category": "business", "source_url": "https://conceptualmindworks.com/bio/elaine-mendoza/", "snippet": "Serves as chair of the CHRISTUS Santa Rosa Health System board and as a board member for Health Care Service Corporation and The Bank of San Antonio."}
+    ]
+  },
+  {
+    "donor_id": "56f599e9-0667-48a0-8b7f-9a9406981df4",
+    "name": "Hall, William",
+    "resolved_employer": "Self-employed (nature of business not publicly identifiable)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-employed individual at 17818 Wild Basin, San Antonio, TX 78258. Extremely common name; no public bio, FEC ideological-PAC record, or lobbyist registration could be confirmed for this specific person.",
+    "source_url": "https://www.redfin.com/TX/San-Antonio/17815-Wild-Basin-78258/home/48680153",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "54a25571-ff21-4579-9de5-31796716c5cd",
+    "name": "Binder, Allison",
+    "resolved_employer": "Partner, Goodman Genow Schenkman Smelkinson & Christopher LLP (GGSSC) — entertainment law",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Entertainment attorney/partner at GGSSC (Beverly Hills), CA Bar #189984, representing writers/directors/producers. Resides Hidden Hills, CA 91302. Secretary/Treasurer of the Television Academy. Address, firm 'Ggssc', and occupation all corroborate the donor record.",
+    "source_url": "https://www.televisionacademy.com/bios/allison-binder",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "JNF USA (Jewish National Fund) Film & TV Fund", "role": "Advisory Board member", "category": "pro_israel", "source_url": "https://www.televisionacademy.com/bios/allison-binder", "snippet": "Advisory Board, JNF USA Film & TV Fund — JNF USA is a pro-Israel organization focused on land development and advocacy in Israel."},
+      {"org": "Americans for Ben-Gurion University", "role": "Zin Fellow", "category": "pro_israel", "source_url": "https://www.televisionacademy.com/bios/allison-binder", "snippet": "Listed as an Americans for Ben-Gurion University (Zin Fellow), a US friends-of organization supporting the Israeli university."}
+    ]
+  },
+  {
+    "donor_id": "4f42a3bc-8b99-40e8-82da-9ccf54841ca5",
+    "name": "Mahle, Stephen",
+    "resolved_employer": "Medtronic, Inc. — retired EVP, Cardiac Rhythm Disease Management / Healthcare Policy (medical devices); currently Not Employed",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Stephen H. Mahle, 36-year Medtronic veteran who ran its largest (cardiac rhythm) division and retired 2009 as EVP Healthcare Policy & Regulatory; Minneapolis. Identity corroborated by FEC record showing 'Steve H Mahle, Medtronic Inc., Minneapolis zip 55422' — same zip as donor.",
+    "source_url": "https://people.equilar.com/bio/person/stephen-mahle-beloit-college/332216",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Friends of Hillary (Hillary Rodham Clinton)", "role": "individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/06/elec-MINNEAPOLIS-MN-06-part2.html", "snippet": "Steve H Mahle (Medtronic Inc., Minneapolis, zip 55422) contributed $1,000 to Friends of Hillary on 04/10/2005."}
+    ]
+  },
+  {
+    "donor_id": "4dc4888d-d158-4da4-998b-039326d4b7ad",
+    "name": "Haase, Leif",
+    "resolved_employer": "LWH Consulting, Inc. — President (health/social policy consultant)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Leif Wellington Haase, health-policy author and consultant; president of LWH Consulting registered at 19 Arlington Ct, Kensington CA (matches donor address). Former director of New America Foundation's California Program and senior program officer at The Century Foundation.",
+    "source_url": "https://lwhconsult.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4bd685e9-10c6-43eb-b459-de74ecc8a82a",
+    "name": "Jordan Vexler, Mary",
+    "resolved_employer": "Monterrey Iron & Metal / Monterrey Metal Recycling Solutions — CEO (formerly COO; donor listed VP); metal/scrap recycling",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Jordan Vexler, fourth-generation leader and now CEO of San Antonio's largest independent metal recycler (family firm since 1916); Rice University and LSE grad who began in public policy. San Antonio residence (78212) matches donor address.",
+    "source_url": "https://capitalanalyticsassociates.com/spotlight-on-jordan-vexler-ceo-monterrey-metal-recycling-solutions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio River Foundation", "role": "Director", "category": "civic", "source_url": "https://www.guidestar.org/profile/42-1602181", "snippet": "Fourth-generation San Antonian who volunteers on local boards; listed as a director for the San Antonio River Foundation."},
+      {"org": "ISRI / ReMA (Recycled Materials Association)", "role": "active member / industry advocate", "category": "business", "source_url": "https://www.recycledmaterials.org/monterrey-iron-metal-appoints-jordan-vexler-as-ceo/", "snippet": "Active member of ISRI, advocating nationally for safe, economically sustainable recycling practices."}
+    ]
+  },
+  {
+    "donor_id": "48ecf5bd-048f-41c3-a4f2-fa3a59f56188",
+    "name": "Pena, Alejandro",
+    "resolved_employer": "Mertz Sausage Company, Inc. — Owner (family sausage maker/meat shop, San Antonio)",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Alejandro 'Alex' P. Peña purchased Mertz Sausage Co. in 1972 and has run the San Antonio sausage-making business (619 Cupples Rd, 78237) ever since — matches donor address and occupation. No ideological-PAC or Texas lobbyist records could be tied to him.",
+    "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/restaurants/mertz-sausage-co-0825-19905",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "45e5415c-aaa8-4297-9c97-dedca498bfcf",
+    "name": "Bernstein, Jarrod",
+    "resolved_employer": "Consultant (Brooklyn NY). Probable match: crisis-comms advisor and former Obama White House Jewish Liaison, now President of Zioness Movement — but donor-listed employer 'Zero Chaos' does not match his known employers, so identity is not certain",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "NYC-area donor (Brooklyn 11225), occupation 'Consultant', consistent with the prominent Jarrod Bernstein (attorney, crisis-comms advisor, former Obama White House Jewish Liaison). CAVEAT: self-reported employer 'Zero Chaos' does not match his known employers, so the affiliation below is contingent on this being the same person.",
+    "source_url": "https://en.wikipedia.org/wiki/Jarrod_Bernstein",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Zioness Movement", "role": "President", "category": "pro_israel", "source_url": "https://zioness.org/members/jarrod-bernstein/", "snippet": "Bernstein serves as President of the Zioness Movement, a progressive pro-Israel/Zionist advocacy organization. NOTE: contingent on identity match, which is not certain."}
+    ]
+  },
+  {
+    "donor_id": "453c3714-9b4b-41af-8c65-ec6a13991865",
+    "name": "Lowe Solis, Michelle",
+    "resolved_employer": "U.S. Air Force / Department of Defense (retired) — former Assistant Deputy Under Secretary; now Chair of the Bexar County Democratic Party",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "San Antonio (78209), 'Not Employed' = retired after 36 years with DoD, ending as Assistant Deputy Under Secretary for the Air Force; elected Bexar County Democratic Party chair Nov 2024; married to Joel Solis (2023 City Council D10 candidate). Location, retired status, and profile all match.",
+    "source_url": "https://sanantonioreport.org/bexar-county-democrats-chair-michelle-lowesolis/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bexar County Democratic Party", "role": "Chair", "category": "political", "source_url": "https://sanantonioreport.org/bexar-county-democrats-chair-michelle-lowesolis/", "snippet": "In November 2024, precinct chairs elected Lowe Solis as chair of the Bexar County Democratic Party."},
+      {"org": "Mothers for Democracy (formerly Mothers Against Greg Abbott)", "role": "Leadership team", "category": "civic", "source_url": "https://sanantonioreport.org/bexar-county-democrats-chair-michelle-lowesolis/", "snippet": "She became active with Mothers Against Greg Abbott (now Mothers for Democracy), serving on its leadership team."}
+    ]
+  },
+  {
+    "donor_id": "43c9e5bf-0dbc-4f20-9608-9c7e7f81896f",
+    "name": "Kawser Alam, Mohammed",
+    "resolved_employer": "Owner, Kawser Chinese & Thai Restaurant (Halal), San Antonio",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Self-reported owner of Kawser Chinese & Thai Restaurant, a verifiable Halal Asian eatery in San Antonio (multiple delivery/review listings). Restaurant ownership confirms occupation; no public policy-advocacy profile found.",
+    "source_url": "https://www.yelp.com/biz/kawser-chinese-and-thai-halal-restaurant-san-antonio-2",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "42d41bab-8d82-4150-9375-892f53b106b8",
+    "name": "Vela, Victoria",
+    "resolved_employer": "Certified Registered Nurse Anesthetist (CRNA); owner/operator of Vela Anesthesia Services, San Antonio (affiliated with CHRISTUS Health)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "San Antonio (78209); 'Nurse' at 'Vela Anesthesia Services' matches Victoria Vela, CRNA/APRN listed with CHRISTUS Health and on Doximity/NPI as a San Antonio nurse anesthetist. Occupation, employer, and location all corroborate.",
+    "source_url": "https://www.christushealth.org/find-a-doctor/victoria-vela-55155",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "40d617c7-ea06-4552-a317-0c3770f22b71",
+    "name": "Beherens, Colonel",
+    "resolved_employer": "Retired (prior career unconfirmed)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired resident at 67 Longsford, San Antonio 78209 (Alamo Heights, near Ft. Sam Houston). No public profile, FEC/PAC record, or bio found to confirm identity; 'Colonel' may be a military rank or a given name but this could not be verified, so no career/affiliation is inferred.",
+    "source_url": "https://www.zillow.com/homedetails/67-Longsford-San-Antonio-TX-78209/26439953_zpid/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3fbe8e4e-1ff0-47e2-aa72-c4cfbe7ba43b",
+    "name": "Puente, Camen",
+    "resolved_employer": "Owner/CEO, Carmen's Cleaning Service (residential/commercial cleaning, San Antonio)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Owner/CEO of Carmen's Cleaning Service, a San Antonio residential/commercial cleaning company (business listings name owner 'Carmen Puentez'/'Carmen Puente'). Small-business owner-operator; no FEC/PAC record or lobbyist registration found; no policy-advocacy affiliations.",
+    "source_url": "https://www.manta.com/c/mtb9fww/carmen-s-cleaning-services",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3c6e0621-4dcc-4902-9f38-1fb7847d7eec",
+    "name": "Kastrin, Deborah",
+    "resolved_employer": "Self-employed; associated with Kasco Structures (El Paso structural steel/roofing/general contractor); formerly longtime owner of Tres Mariposas boutique (retail, closed 2017)",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Prolific El Paso political donor (very high FEC donation count) tied to the Kastrin family's Kasco Structures steel/construction firm; documented $2,500 to Beto O'Rourke's 2022 gubernatorial campaign. Longtime El Paso businesswoman. No Texas lobbyist registration found.",
+    "source_url": "https://elpasomatters.org/2022/01/24/see-which-el-pasoans-are-contributing-to-texas-gubernatorial-candidates/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Beto O'Rourke for Texas (gubernatorial campaign)", "role": "Individual donor", "category": "political", "source_url": "https://elpasomatters.org/2022/01/24/see-which-el-pasoans-are-contributing-to-texas-gubernatorial-candidates/", "snippet": "Deborah Kastrin contributed $2,500 to Beto O'Rourke's 2022 gubernatorial campaign between Nov. 17 and Dec. 31, 2021."}
+    ]
+  },
+  {
+    "donor_id": "37d4e459-cb83-44e8-9d6b-e216b4ece749",
+    "name": "Wilson, Gerald",
+    "resolved_employer": "Chairman/President/CEO, Cardinal Memorial Acquisition Company (owns funeral homes and cemeteries across seven states); Katy, TX. Death-care/funeral services has no clean match in the industry taxonomy, so industry left null.",
+    "industry": null,
+    "confidence": "high",
+    "evidence": "Chairman/President/CEO of Cardinal Memorial Acquisition Co., a multi-state funeral-home and cemetery holding company; Katy 77450 address matches FEC record showing a $250 donation to 'Keep Al Green in Congress' (D) in 2020. No Texas lobbyist registration found; leans Democratic in giving.",
+    "source_url": "https://www.linkedin.com/in/gerald-e-wilson-20046415b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Keep Al Green in Congress", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-KATY-TX-20-part8.html", "snippet": "Gerald Wilson, President, Cardinal Memorial Acquisition Company, Katy 77450 — $250 to Keep Al Green in Congress, Jan. 30, 2020."}
+    ]
+  }
+]

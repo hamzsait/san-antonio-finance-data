@@ -1,0 +1,222 @@
+[
+  {
+    "donor_id": "0daba2ac-c46a-4044-a140-daeb00272379",
+    "name": "Agger, Marc",
+    "resolved_employer": "Agger Fish Corp. / Brooklyn Fish Transfer (president/owner) — wholesale seafood processing & distribution, Brooklyn Navy Yard",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Yale MBA '86, president/owner of Agger Fish Corp / Brooklyn Fish Transfer at Brooklyn Navy Yard; moves ~10M lbs fish/yr. Matches zip 11201, occupation 'Business person', employer 'Brooklyn Fish Transfer'. Described as an ocean-conservation/environmental advocate but no named org or board seat found.",
+    "source_url": "https://www.yalealumnimagazine.com/articles/4564-marc-agger",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0d68867f-4ac0-471b-9df0-41cec7df225c",
+    "name": "Tai, Katherine",
+    "resolved_employer": "U.S. Trade Representative (2021-2025), Biden administration; now distinguished fellow, Carnegie Endowment for International Peace",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Occupation 'Agency head' + employer 'US Government' + Washington DC 20015 strongly matches Katherine Tai, the former USTR (an agency head) who lives in DC. Home-address match could not be independently verified, hence medium.",
+    "source_url": "https://ustr.gov/about-us/biographies-key-officials/katherine-tai-ambassador",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0babd1d6-88d1-4fa4-98d0-5e88bc44f9ef",
+    "name": "Woodin, Sarah",
+    "resolved_employer": "Retired — Distinguished Professor Emerita of Biological Sciences, University of South Carolina (benthic/marine ecology)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Sarah A. Woodin, Distinguished Professor Emerita (retired) of biology at Univ. of South Carolina in Columbia; matches 'Retired' occupation and Columbia SC 29205 residence. Prior small FEC donations to Democratic causes (Robin Carnahan, Women Vote!/EMILY's List, 2010) but no policy-org role. (retired)",
+    "source_url": "https://sc.edu/study/colleges_schools/artsandsciences/biological_sciences/our_people/directory/woodin_sarah.php",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "09001fd4-da4c-45af-8960-2d50b94a2f1a",
+    "name": "Allen, Taylor",
+    "resolved_employer": "WGI Inc. — Civil Market Leader / Professional Engineer (P.E.), San Antonio land development group",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Taylor Allen, P.E. (Texas A&M BS Civil Engineering), Market Leader at WGI Inc. leading San Antonio land-development. Matches occupation 'Civil Engineer', employer 'Wgi', San Antonio 78212. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://theorg.com/org/wgi/org-chart/taylor-allen",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "077afe14-41b1-4eb1-916f-4158da925086",
+    "name": "Alexander, Stacy",
+    "resolved_employer": "Not employed (as reported); prolific small-dollar Democratic donor, Austin — possibly a retired attorney/mediator (Alexander Mediation ATX), not firmly confirmed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Reported occupation 'Not employed', Austin 78703, very heavy federal donor (432 FEC donations) consistent with a prolific Democratic small-dollar giver. A same-zip 'Stacy Alexander' at Alexander Mediation ATX appears in web summaries but could not be firmly tied to this donor; identity/occupation unresolved. No TX lobbyist record; no pro-Israel/pro-Palestine/oil-gas/gun PAC contributions surfaced.",
+    "source_url": "https://www.city-data.com/elec2/18/elec-AUSTIN-TX-18-part7.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "053fa1b4-b7e3-4e49-b83c-96bc4685d49d",
+    "name": "Berrier, Michael",
+    "resolved_employer": "Co-owner, La Tuna Icehouse & La Tuna Grill (Southtown/Lavaca San Antonio bar & venue)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Confirmed co-owner (with Suzanne Martinez) of La Tuna Icehouse, a 30+ year Southtown/Lavaca institution; donor zip 78210 matches the Lavaca neighborhood. Described in local press as a longtime Lavaca-area community figure. FEC count 137 consistent with a frequent small-dollar Democratic donor, but no specific PAC affiliation surfaced.",
+    "source_url": "https://www.sacurrent.com/food-drink/san-antonio-mainstay-la-tuna-icehouse-celebrating-30th-anniversary-with-saturday-bash-29092596/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "02c05d02-d0c1-4584-9311-156f6b9ec8a4",
+    "name": "Rattray, Francesca",
+    "resolved_employer": "CEO, YWCA San Antonio",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed CEO of YWCA San Antonio (mission: eliminate racism, empower women; racial-justice and gender-equity advocacy); donor occ 'Nonprofit'/employer 'YWCA', zip 78204 all consistent. No FEC PAC record or TX lobbyist registration found.",
+    "source_url": "https://justice.ywca.org/speakers/francesca_rattray/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [{"org": "YWCA San Antonio", "role": "Chief Executive Officer", "category": "civic", "source_url": "https://justice.ywca.org/speakers/francesca_rattray/", "snippet": "Francesca Rattray is CEO of YWCA San Antonio, leading its work on racial justice, gender equality, and economic empowerment for women of color."}]
+  },
+  {
+    "donor_id": "02bb53bc-fd64-40f3-a486-3cc166d354ed",
+    "name": "Adams, Rishi",
+    "resolved_employer": "Community Sales Associate, Taylor Morrison (national homebuilder), Austin",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "ZoomInfo lists Rishi Adams as a Community Sales Associate at Taylor Morrison; donor occ 'Sales'/employer 'Taylor Morrison' and Austin 78746 zip are consistent. No FEC PAC record or TX lobbyist registration found.",
+    "source_url": "https://www.zoominfo.com/p/Rishi-Adams/-1076508544",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "01d7a3a4-8e43-4d30-b918-e9bac92454ae",
+    "name": "Anderson, Michael",
+    "resolved_employer": "Physician (anesthesiologist), Mount Sinai / Icahn School of Medicine, New York",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "A Dr. Michael Anderson is an anesthesiologist / assistant professor at Mount Sinai (Icahn School of Medicine) in NYC, consistent with donor occ 'Physician'/employer 'Mount Sinai' and Manhattan zip 10019 — but 'Michael Anderson' is very common and identity cannot be firmly confirmed. No FEC PAC record; no TX lobbyist registration (donor is NY-based).",
+    "source_url": "https://profiles.mountsinai.org/michael-anderson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6e946c5a-ac20-4713-b54f-d25e8f279d73",
+    "name": "Bartos, Janet P",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "A Janet Bartos of Little Rock, AR is corroborated as the wife of the late Milan 'Phil' Bartos Jr. (Arkansas Democrat-Gazette obituary), matching zip 72223. Could NOT confirm the note that she was longtime executive director of the Arkansas Democratic Party — no public source verifies that role, so it is not recorded as an affiliation. Donor occ 'Not Employed'. No FEC PAC record or lobbyist registration found.",
+    "source_url": "https://www.arkansasonline.com/obituaries/2026/jan/17/milan-bartos-jr-2026-01-17/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a273044f-2ef7-463c-bed5-5662386682c3",
+    "name": "Richardson, Susan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "A retired Palo Alto (94301) Democratic donor named Susan Richardson appears in FEC/individual-contribution records (e.g., $250 Obama for America, $250 House Majority PAC), consistent with this heavy-donor profile, but the 1322 Martin Ave individual cannot be firmly tied to any specific public bio (a separate 'Susie Richardson,' former PAUSD board president/education civic leader, exists in Palo Alto but could not be linked to this address). Former career unidentifiable with confidence. (retired)",
+    "source_url": "https://www.city-data.com/elec2/12/elec-PALO-ALTO-CA-12-part3.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a48255f8-6fa1-4b7e-a43e-17210c8fdb62",
+    "name": "Sandoval, Gina",
+    "resolved_employer": "USAA (Scrum Master; formerly Financial Services/Systems Analyst)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Gina Sandoval of San Antonio 78249 is confirmed as a USAA Scrum Master via a TX Ethics Commission local campaign-finance filing; FEC records show a Gina Sandoval, 78249, occupation 'Financial Services/Systems Analyst,' giving $25 to Beto for Texas (2018) — same zip and IT/financial-tech career track, corroborating identity. Role is a software/IT delivery function.",
+    "source_url": "https://www.city-data.com/elec2/18/elec-SAN-ANTONIO-TX-18-part67.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "42e71e99-07f7-4f0b-a92a-b98010e82046",
+    "name": "Scarl, Ethan",
+    "resolved_employer": "Retired computer scientist (formerly Boeing, MITRE; AI/diagnostics researcher)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Ethan Adam Scarl (b. 1940), American computer scientist: MITRE (1979-86), senior/principal computer scientist at Boeing (1986 onward), chair of the American Assoc. for Artificial Intelligence in 1989. Now retired and living in Portland, OR (97215/97212), self-described on LinkedIn as 'Activist, retired from the Aerospace Industry' — matches donor address (2380 SE 58th Ave, Portland 97215, 'Not Employed'). (retired)",
+    "source_url": "https://prabook.com/web/ethan_adam.scarl/262810",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ef3cfe5f-83be-4be3-881a-4d62f00d15b6",
+    "name": "Jackson, William",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name; a William Jackson, Dallas 75248, 'Not Employed,' with a very heavy small-dollar Democratic donation history could not be uniquely resolved to any public profile. No specific individual confirmed across FEC, lobbyist registry, or bio searches.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-DALLAS-TX-20-part169.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4d1eb372-721e-4c4f-ad0f-d36a7985f524",
+    "name": "Jasso, Patricia",
+    "resolved_employer": "Retired from AT&T (~35 yrs); Air Force Reservist (15 yrs); public-board civic leader",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Pat (Patricia) Jasso is a longtime South Side San Antonio resident (matches 78223), retired from AT&T after ~35 years and a 15-year Air Force Reservist, who now sits on multiple public/quasi-public boards. Appointed Feb 2022 by County Commissioner Rebeca Clay-Flores to the Bexar County Hospital District (University Health) Board of Managers; also serves on the Brooks Development Authority board. Retiree profile and location match the donor precisely. (retired)",
+    "source_url": "https://www.universityhealth.com/about-us/board-of-managers",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [{"org": "Bexar County Hospital District / University Health Board of Managers", "role": "Board Member (appointed Feb 2022 by Commissioner Rebeca Clay-Flores)", "category": "civic", "source_url": "https://www.universityhealth.com/about-us/board-of-managers", "snippet": "Pat Jasso is listed among the current members of the Bexar County Hospital District Board of Managers."}, {"org": "Brooks Development Authority", "role": "Board Member", "category": "civic", "source_url": "https://livebrooks.com/about-us/board-of-directors/pat-jasso/", "snippet": "Pat Jasso, a long-time South Side resident and Air Force Reserve veteran, is featured as a member of the Brooks board: 'The South Side has arrived and Brooks is a big part of that.'"}]
+  },
+  {
+    "donor_id": "f86b1710-b14e-47e0-a21d-8974f4df47b2",
+    "name": "Dahia, Patricia",
+    "resolved_employer": "Professor of Medicine (cancer genetics/oncology), UT Health San Antonio (Mays Cancer Center / Greehey CCRI)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Patricia L. Dahia, MD/PhD, tenured Professor of Medicine and Robert Tucker Hayes Distinguished Chair in Oncology at UT Health San Antonio; joined 2005 from Dana-Farber/Harvard. Matches occ 'Faculty'/employer 'UTHSA' and San Antonio 78230 location.",
+    "source_url": "https://directory.uthscsa.edu/academics/profile/dahia",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f6478f7d-e845-4032-a1cf-e37a85f54a42",
+    "name": "Schwart, Cynthia",
+    "resolved_employer": "Executive Assistant, Law Office of Garry Mauro (Attorney at Law), Austin TX",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "LinkedIn lists 'Cynthia Schwartz - Garry Mauro, Attorney at Law,' matching stated occ 'Executive Assistant' and employer 'Garry Mauro' at Austin 78731 address. Garry Mauro (former TX Land Commissioner) is the employer's affiliation, not hers.",
+    "source_url": "https://www.linkedin.com/in/cynthia-schwartz-a43b026/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e6cde732-653f-47b2-b7b3-fcd178bcf469",
+    "name": "Khalil, Daniel",
+    "resolved_employer": "Senior Economic Development Specialist, City of San Antonio (Economic Development Department)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Stated occ/employer is a City of San Antonio EDD staff role; downtown Hemisfair 78205 address is consistent with a city employee. No distinct public bio confirmed for the specific city staffer (a separate 'Danny Khalil' works in CoStar market analytics — likely different role), so classified by employer only.",
+    "source_url": "https://www.sanantonio.gov/edd",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e6669920-f48b-46c3-882c-838a4ab5b208",
+    "name": "Domingo, Melba",
+    "resolved_employer": "Retired",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported 'Retired' at Shavano Park (78231); fec_donation_count 0. No public profile, lobbyist registration, or PAC contribution record located to corroborate identity beyond the filing.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dfe1058b-2b13-401c-bf54-820b4268b545",
+    "name": "Mundstock, Ron",
+    "resolved_employer": "Program Analyst, U.S. Department of Defense (federal civil service), San Antonio",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "FEC/individual-contribution records show a Ron Mundstock, DOD/Program Analyst, San Antonio 78215, making small Democratic donations — matching stated occ/employer/zip. Federal civil-service DoD analyst = Government per protocol; no defense-contractor exec/board/lobbyist role found, so no military_defense affiliation.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part169.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

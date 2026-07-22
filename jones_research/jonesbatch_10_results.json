@@ -1,0 +1,257 @@
+[
+  {
+    "donor_id": "6756c2c8-aeff-4441-b8f3-d2da0b913fa2",
+    "name": "Holland, Cindy",
+    "resolved_employer": "Caley Cosmetics (co-founder, San Antonio natural/clean cosmetics brand)",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Cindy Holland co-founded Caley Cosmetics, a San Antonio mother-daughter (with Annie Holland-Rodriguez) clean/natural makeup brand; her LinkedIn lists 'Cindy Holland - Caley Cosmetics.' Occupation, employer and city all match. No lobbyist registration or ideological PAC ties found.",
+    "source_url": "https://www.linkedin.com/in/cindy-holland-78a77b137/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "665ea82e-565e-4e8d-b81c-edcf3a1369fd",
+    "name": "Guerra, Francisco",
+    "resolved_employer": "Guerra LLP (capital/managing partner; San Antonio trial attorney, formerly Watts Guerra)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Francisco 'Frank' Guerra IV is a capital partner and managing partner of Guerra LLP's San Antonio office, Board Certified in Personal Injury Trial Law. Trial-bar donor (heavy FEC count of 76); no lobbyist registration or specific ideological-PAC affiliation documented for him individually.",
+    "source_url": "https://guerrallp.com/attorneys/francisco-frank-guerra",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6370fa07-0aeb-4898-92da-1f65beca7a0b",
+    "name": "Lafreeda, Dawn",
+    "resolved_employer": "Den-Tex Central Inc. (President/CEO; largest sole-owner Denny's franchisee, ~80-90 restaurants)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Dawn Lafreeda is President/CEO of Den-Tex Central, Denny's largest single-owner franchisee (~80-90 locations across 7 states) and one of San Antonio's largest private employers; profiles confirm San Antonio residence. No TEC lobbyist registration or ideological-PAC affiliation documented.",
+    "source_url": "https://sawoman.com/2021/11/profile-dawn-lafreeda-dennys-restaurants/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "631188e9-4842-4273-aff6-ce0aba87eb7c",
+    "name": "Johnson, Lionel",
+    "resolved_employer": "Pacific Pension & Investment Institute (President since July 2014); DC-area foreign-policy figure",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Lionel C. Johnson is President of the Pacific Pension & Investment Institute and a longtime foreign-policy/international-affairs leader (ex-Treasury, State, Citigroup); Hyattsville MD location and PPI role match the donor record. Holds several policy-advocacy board roles; no AIPAC/J Street or Palestine-related ties found, no TX lobbyist registration.",
+    "source_url": "https://www.ppi.institute/management-team/lionel-johnson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Foreign Policy for America", "role": "Board Chair", "category": "political", "source_url": "https://www.fp4america.org/our-leadership/lionel-c-johnson/", "snippet": "Lionel C. Johnson is the Chair of the Foreign Policy for America Board."},
+      {"org": "RAND Corporation", "role": "Board of Trustees member", "category": "civic", "source_url": "https://www.ppi.institute/management-team/lionel-johnson", "snippet": "Board member, RAND Corporation."},
+      {"org": "Truman National Security Project", "role": "Board of Directors", "category": "political", "source_url": "https://www.fp4america.org/our-leadership/lionel-c-johnson/", "snippet": "on the Board of Directors of ... the Truman National Security Project."}
+    ]
+  },
+  {
+    "donor_id": "62b0df13-3393-461d-8cf2-45758ad804f7",
+    "name": "Gomez, Leonel",
+    "resolved_employer": "President & CEO, Brooks Development Authority (former Brooks AFB redevelopment; a Texas defense-base development authority / public entity)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Leo(nel) Gomez has led the Brooks Development Authority as President/CEO since 2013; donor's occupation 'Economic Development' and employer 'Brooks Development Authority' match exactly. Former VP at Spurs Sports & Entertainment and past president of the San Antonio Hispanic Chamber.",
+    "source_url": "https://livebrooks.com/leo-gomez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "VIA Metropolitan Transit", "role": "Vice Chair", "category": "civic", "source_url": "https://livebrooks.com/leo-gomez/", "snippet": "Board seats & leadership positions: ... VIA Metropolitan Transit - Vice Chair"},
+      {"org": "greater:SATX Regional Economic Partnership", "role": "Board of Directors / Executive Committee", "category": "business", "source_url": "https://livebrooks.com/leo-gomez/", "snippet": "greater:SATX - Board of Directors, Executive Committee member"}
+    ]
+  },
+  {
+    "donor_id": "61b7f15e-c3d0-4cd1-b95c-1687b72de386",
+    "name": "Espinoza, Yvonne",
+    "resolved_employer": "Founder & CEO, Yvonne Espinoza College Counseling Services (independent college-admissions counseling, Austin)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Austin-based Certified Educational Planner with ~23 years' experience; founded her college-counseling firm ~2013 after ~19 years in Austin ISD Title I high schools. Donor occupation/employer and Austin 78749 location match. Inducted into City of Austin Women's Hall of Fame.",
+    "source_url": "https://voyageaustin.com/interview/hidden-gems-meet-yvonne-espinoza-of-yvonne-espinoza-college-counseling-services/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6112c93c-6800-4111-8b9d-65e4eb0a0bd5",
+    "name": "Pierce, David",
+    "resolved_employer": "Actor/director; Hamsterhead, Inc. is his personal loan-out company (David Hyde Pierce, of NBC's 'Frasier')",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Corporate records list David Hyde Pierce as President/CEO of Hamsterhead, Inc.; donor's distinctive employer 'Hamsterhead Inc,' occupation 'actor/director,' and NYC residence match. A longtime Democratic donor and LGBTQ advocate (maxed out to Biden 2024; $15K to Obama Victory Fund 2008).",
+    "source_url": "https://www.corporationwiki.com/California/Los-Angeles/david-hyde-pierce/42456472.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic candidates/committees (Biden for President; Obama Victory Fund)", "role": "individual donor", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/david-pierce.asp?cycle=08", "snippet": "Actor David Hyde Pierce (self-employed/actor): $10,000 to Obama Victory Fund (07/31/2008) and $5,000 (09/10/2008); later maxed $3,300 to Biden for President in 2024."}
+    ]
+  },
+  {
+    "donor_id": "5f3e2727-288b-408f-8f2f-d17aadb8f775",
+    "name": "Alexander, Wayne",
+    "resolved_employer": "Retired (former President, SBC Southwestern Bell, retired 2002); San Antonio civic leader and multi-board director",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Wayne S. Alexander, retired President of SBC Southwestern Bell, lives in the Lost Timbers/Inwood Estates area of 78248; a prolific bipartisan civic donor (204 FEC contributions). Chairs Southwest Research Institute's board and has chaired Port San Antonio; also LiftFund vice chair and Missouri S&T trustee. Occupation 'Not Employed' reflects retirement.",
+    "source_url": "https://www.swri.org/about-us/board-of-directors",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Southwest Research Institute", "role": "Board Chairman", "category": "civic", "source_url": "https://www.swri.org/about-us/board-of-directors", "snippet": "Wayne S. Alexander is listed on the Southwest Research Institute Board of Directors (San Antonio); described elsewhere as chairman of Southwest Research Institute."},
+      {"org": "Port San Antonio / LiftFund", "role": "Board (former Chairman, Port San Antonio) / Vice Chairman (LiftFund)", "category": "civic", "source_url": "https://www.liftfund.com/our-board/", "snippet": "Retired president SBC Southwestern Bell; serves on boards including Port Authority of San Antonio, LiftFund (Vice Chairman), San Antonio Medical Foundation, and Missouri University of Science and Technology."}
+    ]
+  },
+  {
+    "donor_id": "5e81ad69-f723-43a1-ad2c-ad9e27d79422",
+    "name": "Weir, Susan",
+    "resolved_employer": "Joslin Diabetes Center (Susan Bonner-Weir, PhD - Senior Investigator, Islet Cell & Regenerative Biology; Professor of Medicine, Harvard Medical School)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Susan Bonner-Weir, PhD, longtime diabetes/beta-cell research scientist at Joslin Diabetes Center and Harvard Med, a Cambridge MA resident - matches occupation 'Scientist', employer 'Joslin Diabetes Center', and zip 02138. No ideological PAC or advocacy ties found; a quiet donor profile.",
+    "source_url": "https://www.joslin.org/find-an-expert/susan-bonner-weir-phd",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5d096f46-98b0-4b08-b20a-b218ccd18e2d",
+    "name": "Bravo, Michael",
+    "resolved_employer": "Brame Brands (President & CEO) - San Antonio restaurant-franchising company (Fatburger, Round Table Pizza, Johnny Rockets); previously founded Brame Telecom",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Michael Bravo is President & CEO of Brame Brands, a San Antonio-area premium restaurant franchising firm; matches occupation 'CEO', employer 'Brame Brands', and Shavano Park/78231 location. No FEC record (fec_count 0) and no TX lobbyist registration found; no public advocacy affiliations.",
+    "source_url": "https://www.linkedin.com/in/michael-bravo-2aa155110/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5ad520ae-c770-4627-9740-3998e0a5c505",
+    "name": "Merfish, Sherry",
+    "resolved_employer": "Not employed for pay; full-time Democratic political activist/bundler and Jewish civic leader (former EMILY's List Majority Council director)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Sherry Matusoff Merfish, well-known Houston Democratic bundler and Jewish civic activist; board of Jewish Democratic Council of America and New Leaders Council, former EMILY's List Majority Council director. FEC records confirm heavy Democratic giving (incl. $2,700 to Gina Ortiz Jones for Congress, 2018). No J Street/DMFI/AIPAC board or pro-Palestine ties documented.",
+    "source_url": "https://jewishdems.org/board-of-directors/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Jewish Democratic Council of America", "role": "Board of Directors / Development Committee Vice Chair", "category": "jewish_civic", "source_url": "https://jewishdems.org/board-of-directors/", "snippet": "Sherry Matusoff Merfish serves as Development Committee Vice Chair on the Board of Directors of the Jewish Democratic Council of America (a Jewish Democratic policy-advocacy organization)."},
+      {"org": "New Leaders Council", "role": "National board and executive committee member", "category": "political", "source_url": "https://jhvonline.com/sherry-merfish-honored-by-women-of-reform-judaism-p34537-89.htm", "snippet": "Merfish currently serves on the executive committee and the national board of New Leaders Council and on the board of the Jewish Democratic Council of America."},
+      {"org": "EMILY's List", "role": "Former Majority Council director (major-donor program)", "category": "political", "source_url": "https://jhvonline.com/sherry-merfish-honored-by-women-of-reform-judaism-p34537-89.htm", "snippet": "She previously served as a Majority Council director for EMILY's List, conceiving, planning and implementing the major donor program in a range of states, including her native Texas."}
+    ]
+  },
+  {
+    "donor_id": "5a04a59b-636e-489f-af65-79c54c2a745a",
+    "name": "Snider, Mary",
+    "resolved_employer": "Self-employed - Mary Snider State Farm Insurance Agency, Washington DC (owner/agent, 20+ years)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Mary Snider owns a State Farm insurance agency in DC's Logan Circle (office on 13th St NW, matching zip 20005); occupation 'Insurance', employer 'Self'. Bio confirms board service including Human Rights Campaign. FEC shows prior Democratic giving (e.g. $500 to Tammy Baldwin for Senate, 2011).",
+    "source_url": "https://marysnider.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Human Rights Campaign", "role": "Board of Directors (Co-chair)", "category": "civic", "source_url": "https://marysnider.com/", "snippet": "She... has served on the Board of Directors of the Human Rights Campaign, Sitar Arts Center, and the DC Chamber of Commerce... serves as Co-chair of the Board of Directors of the Human Rights Campaign."},
+      {"org": "DC Chamber of Commerce", "role": "Board of Directors (former)", "category": "business", "source_url": "https://marysnider.com/", "snippet": "I have served on numerous boards, including the Human Rights Campaign... [and] the DC Chamber of Commerce."}
+    ]
+  },
+  {
+    "donor_id": "59567f3e-1b8a-4442-a474-45ccc13ab437",
+    "name": "Wiener, Carolyn",
+    "resolved_employer": "Retired philanthropist; Chairwoman of the Foundation for a Civil Society, Director of the Malcolm Hewitt Wiener Foundation (wife of hedge-fund pioneer/Aegean prehistorian Malcolm H. Wiener)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Carolyn Seely Wiener of 66 Vista Dr, Greenwich CT (the Malcolm H. Wiener estate) is a philanthropist and former counsel to Sen. Bob Dole; the unique address and 'Not employed/retired' status corroborate identity. Historically a large PAC donor.",
+    "source_url": "https://en.wikipedia.org/wiki/Malcolm_H._Wiener",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Council on Foreign Relations", "role": "Member", "category": "civic", "source_url": "https://as.cornell.edu/people/carolyn-seely-wiener", "snippet": "She is a member of the Council on Foreign Relations and Director of the Malcolm Hewitt Wiener Foundation."},
+      {"org": "Foundation for a Civil Society", "role": "Chairwoman", "category": "civic", "source_url": "https://www.fcsny.org/fcs-board-members", "snippet": "Carolyn Seely Wiener is Chairwoman of the Foundation for a Civil Society, previously counsel to Senator Bob Dole."}
+    ]
+  },
+  {
+    "donor_id": "5940f62c-9247-4f46-ba9d-77ecd50987bf",
+    "name": "Clark, Chris",
+    "resolved_employer": "Corporate & Entertainment Attorney at Adelman Matz P.C. (Austin, TX); previously General Counsel at Boxed",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Christopher Clark is a corporate/entertainment attorney at Adelman Matz in Austin, TX (JD, Univ. of St. Thomas), licensed by the State Bar of Texas; employer, occupation and Austin/78704 location all match. No ideological PAC or lobbyist ties found.",
+    "source_url": "https://www.linkedin.com/in/chrisclarktx/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "58fcecc3-2ab1-44bf-9833-5447f30d5ea7",
+    "name": "Atkins, Chet",
+    "resolved_employer": "Partner/founder, Tremont Strategies Group LLC (bipartisan government-relations/lobbying firm); former U.S. Representative (D-MA, 5th District)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Chester G. 'Chet' Atkins, former MA congressman (Appropriations Committee) and state legislator, is a partner at Tremont Strategies Group and a registered federal lobbyist; 'Govt Affairs' occupation and Tremont employer confirm identity. NH address (Hancock) consistent with New England base.",
+    "source_url": "https://tremontstrategies.com/our-team/chet-atkins",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Tremont Strategies Group", "role": "Founder/Partner (registered federal lobbyist)", "category": "business", "source_url": "https://www.opensecrets.org/revolving-door/chester-atkins-d/summary?id=74005", "snippet": "Chester Atkins is listed as a Partner at Tremont Strategies Group; has been registered as a lobbyist or foreign agent."},
+      {"org": "Oxfam America / Amnesty International", "role": "Board member", "category": "civic", "source_url": "https://tremontstrategies.com/our-team/chet-atkins", "snippet": "Board Memberships: ... Oxfam America; Amnesty International ... served as election observer and legislative trainer in Cambodia, Yemen, Albania, Georgia, Peru, and Guatemala."}
+    ]
+  },
+  {
+    "donor_id": "58e09555-3cd6-47ee-8320-4caf3eb59890",
+    "name": "Leal, David Jose",
+    "resolved_employer": "Retired (no public professional profile confirmed for this specific San Antonio resident)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired San Antonio (78212/Monte Vista) resident and prolific small-dollar donor (222 FEC contributions), but identity could not be tied to any specific public figure. The prominent David L. Leal (UT-Austin political scientist/Hoover fellow) is Austin-based and not retired, so is not a confident match. No affiliations documented.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David+Leal&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "579a689a-866c-4b16-a9a9-569cb62aef66",
+    "name": "Abele, Chris",
+    "resolved_employer": "CSA Partners LLC (founder/Managing Director, venture fund); former Milwaukee County Executive",
+    "industry": "Venture Capital",
+    "confidence": "high",
+    "evidence": "Chris Abele of 3319 N Lake Dr, Milwaukee (zip 53211) is the former Milwaukee County Executive (2011-2020), philanthropist, and founder/Managing Director of CSA Partners, the $10M venture fund he launched in 2013. Occupation 'Managing Partner, CSA Partners' matches exactly.",
+    "source_url": "https://en.wikipedia.org/wiki/Chris_Abele",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Milwaukee County", "role": "County Executive (2011-2020)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Chris_Abele", "snippet": "From 2011 to 2020 he served as Milwaukee County Executive; he identifies as Democratic and contributed to Democratic campaigns including Jim Doyle and Barack Obama."},
+      {"org": "CSA Partners LLC", "role": "Founder / Managing Director", "category": "business", "source_url": "https://wisconsintechnologycouncil.com/milwaukee-business-journal-whats-next-for-chris-abele-philanthropy-investments-and-continued-community-support/", "snippet": "In 2013, Abele committed $10 million to launch CSA Partners, a venture capital fund focused on investing in early-stage companies in the Midwest."},
+      {"org": "Argosy Foundation", "role": "Trustee / former CEO", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Chris_Abele", "snippet": "Abele was CEO of the Milwaukee-based Argosy Foundation, a charitable trust founded by his father Boston Scientific co-founder John Abele, and remains a trustee."}
+    ]
+  },
+  {
+    "donor_id": "56b23b46-4401-4274-b4e6-ca0c1eb4f4f4",
+    "name": "Quintanilla, Yurida",
+    "resolved_employer": "New Fortress Energy (Contract Administrator)",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "Distinctive name with employer New Fortress Energy (an LNG/natural-gas company headquartered with Houston operations) and Houston zip 77006 as stated; no independent public profile, board seat, or leadership role found. Rank-and-file contract-administrator role, so classified by employer industry, not an oil_gas advocacy affiliation.",
+    "source_url": "https://www.newfortressenergy.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5638375e-b3d5-49e3-b542-75a44b5fab1a",
+    "name": "Fernandes, Gary",
+    "resolved_employer": "Retired; former Vice Chairman of EDS (Electronic Data Systems), founder of Convergent Partners (VC/buyout fund) and Fernandes L.L.C.",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Gary J. Fernandes of Dallas (3625 N Hall St, an office address; Fernandes L.L.C.) retired as Vice Chairman of EDS in 1998 after board service since 1981, then founded Convergent Partners and served on boards including Blockbuster. Retired occupation and 42 federal donations match a longtime Dallas business/political donor; no ideological PAC (pro-Israel, pro-Palestine, oil & gas, gun, defense) contributions surfaced.",
+    "source_url": "https://www.nndb.com/people/827/000170317/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Electronic Data Systems (EDS)", "role": "former Vice Chairman / board director", "category": "business", "source_url": "https://aviationweek.com/gary-j-fernandes", "snippet": "Gary J. Fernandes retired as Vice Chairman of Electronic Data Systems Corporation (EDS) in 1998, after serving on the EDS Board of Directors since 1981."},
+      {"org": "Blockbuster Inc.", "role": "Board director", "category": "business", "source_url": "https://www.prnewswire.com/news-releases/blockbuster-board-offers-strong-support-for-fellow-board-member-gary-fernandes-95011769.html", "snippet": "Blockbuster board offers strong support for fellow board member Gary Fernandes."}
+    ]
+  },
+  {
+    "donor_id": "52c43fd1-ce70-475d-8614-491668fab1f3",
+    "name": "Abriam, Rosie",
+    "resolved_employer": "The Center for Asian Pacific American Women (President/CEO); AAPI civic leadership (largely volunteer/board roles); former Lawrence Livermore National Laboratory scientist",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Rosie Abriam of Livermore, CA (zip 94550) is a longtime AAPI civic leader; her past work at Lawrence Livermore National Laboratory strongly corroborates the Livermore residence. Listed occupation 'Not Employed' aligns with her holding unpaid nonprofit board/leadership roles rather than salaried employment.",
+    "source_url": "https://aapip.org/our-stories/conversation-with-25-leaders-in-action-rosie-abriam",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The Center for Asian Pacific American Women", "role": "President/CEO", "category": "civic", "source_url": "https://aapip.org/our-stories/conversation-with-25-leaders-in-action-rosie-abriam", "snippet": "Current roles: President/CEO, The Center for Asian Pacific American Women; Co-Chair, AAPIP Metro DC Chapter."},
+      {"org": "Forward Together", "role": "Board Chair", "category": "civic", "source_url": "https://forwardtogether.org/board/", "snippet": "Rosie serves numerous national organizations including Forward Together (Board Chair) and Asian American and Pacific Islanders in Philanthropy (AAPIP)."}
+    ]
+  }
+]

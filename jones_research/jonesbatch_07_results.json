@@ -1,0 +1,248 @@
+[
+  {
+    "donor_id": "b758aa18-f8f2-4499-a402-1c2083f60536",
+    "name": "Tompkins Buell, Susie",
+    "resolved_employer": "Susie Tompkins Buell Foundation (founder/philanthropist; retired Esprit co-founder)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Susie Tompkins Buell (b. 1943), SF-based Esprit and North Face co-founder turned one of the nation's most prominent Democratic mega-donors/fundraisers; SF address (PO Box, San Francisco CA 94129) and 'Not Employed' occupation match her philanthropist profile. Giving to Democrat Gina Jones is consistent with her progressive donor record.",
+    "source_url": "https://en.wikipedia.org/wiki/Susie_Tompkins_Buell",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democracy Alliance", "role": "Founding member (with husband Mark Buell)", "category": "political", "source_url": "https://www.influencewatch.org/person/susie-buell/", "snippet": "Founding members of the powerful liberal donor collective the Democracy Alliance, founded in 2004; among the most influential Democratic political fundraisers in the country."}
+    ]
+  },
+  {
+    "donor_id": "b736347b-ac6d-4354-a2da-b41143ac8998",
+    "name": "Warren, John",
+    "resolved_employer": "CAPITAL - A Division of HJD Capital Electric, Inc. (President)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "John Warren is President (since Jan 2021) of CAPITAL, a division of San Antonio electrical contractor HJD Capital Electric; occupation 'Executive'/employer 'Capital' and 78230 SA zip match. Former Clark Construction GM (built $117M Frost Tower) and USMC captain. No lobbyist registration or PAC affiliation found.",
+    "source_url": "https://hjdcapital.com/team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b706f1e2-d950-4f54-8748-4845ee5e8aef",
+    "name": "Karol, Jennifer",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Jennifer Karol, Dallas 75229, 'Not Employed'; prolific small-dollar Democratic donor (274 FEC records, incl. $2,500 to ActBlue on 9/29/2020). LinkedIn lists her as a nonprofit 'fundraiser.' Giving pattern is consistently progressive; no specific policy-advocacy org membership documented.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-DALLAS-TX-20-part165.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b614fb8a-1244-4cc0-adf2-f43ec7523b4e",
+    "name": "Lambert, Louis",
+    "resolved_employer": "Self-employed (investments)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Louis Lambert is the recorded owner of the exact donation address, 4717 White Settlement Rd, Fort Worth TX 76114 (Tarrant County property record), corroborating identity; stated occupation is 'Investments/Self.' 46 FEC donation records but no distinctive public bio or advocacy-org affiliation surfaced. Not the GOP financier Hal Lambert nor confirmed to be restaurateur Lou Lambert.",
+    "source_url": "https://www.city-data.com/tarrant-county/W/White-Settlement-Road-22.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b594989c-c20e-491c-b1de-ef136884444c",
+    "name": "Shakes, Jonathan",
+    "resolved_employer": "Mathnasium of Mercer Island",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "LinkedIn (jshakes) confirms a Jonathan Shakes as Mathematics Instructor at Mathnasium of Mercer Island, based Mercer Island/Kirkland WA — matches donor zip 98040 and occupation (Instructor/Mathnasium). Profile also notes prior product/logistics work and co-founding Caz Northwest, but the donation lists his role as Instructor. No policy-advocacy affiliations found.",
+    "source_url": "https://www.linkedin.com/in/jshakes/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b576cc8a-34c7-4d07-ac6e-8300bad05647",
+    "name": "Lee, David",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Very common name at 823 Rutland St, Houston 77007 (the Heights); listed occupation 'Not Employed' with a high FEC donation count (194), consistent with a small-dollar recurring ActBlue-type Democratic donor, but no single David Lee could be uniquely corroborated to this address. No documented policy PAC or lobbyist ties.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b503dcd9-c7b2-44a6-bd7f-3238a52ae18c",
+    "name": "Reyes, Rob",
+    "resolved_employer": "RAR LLC (self-employed business consultant)",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Common name in Pflugerville 78660; occupation 'Business Consultant' with employer 'Rarllc' (an apparent self-owned consulting entity). No public bio, FEC PAC record, or TX lobbyist registration could be uniquely tied to this individual.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b4ee3ad9-46c5-4853-b2dc-83c511e26087",
+    "name": "Ybarra, Bianca",
+    "resolved_employer": "It's Sugar",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "San Antonio resident (78245) in a 'Front office' role at It's Sugar, a national candy retail chain — a retail-sector job. Common name; no distinguishing public profile, FEC PAC donation, or TX lobbyist record found beyond the employer/occupation on the donation record.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b44ce3fe-5bde-4727-b021-80a7c850fed8",
+    "name": "Mattmiller, Michael",
+    "resolved_employer": "Microsoft Corporation",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Michael Mattmiller is Senior Director/US Government Affairs Industry Team Lead at Microsoft and former City of Seattle CTO (2014-2018); Seattle 98116 address and Microsoft employer match the donor record exactly.",
+    "source_url": "https://www.geekwire.com/2018/seattle-cto-michael-mattmiller-resigns-return-private-sector/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LGBTQ+ Victory Fund", "role": "Board (ex-officio) / Victory Campaign Board co-chair", "category": "civic", "source_url": "https://victoryfund.org/about/victory-campaign-board/", "snippet": "Mattmiller serves as an ex-officio member of the Victory Fund Board and Victory Campaign Board co-chair; the Victory Fund is a national PAC that funds and endorses LGBTQ+ candidates."},
+      {"org": "LGBTQ+ Victory Institute", "role": "Board member", "category": "civic", "source_url": "https://victoryinstitute.org/team/michael-mattmiller/", "snippet": "Listed as a board member of the Victory Institute, the sister org focused on leadership development for LGBTQ+ elected officials."}
+    ]
+  },
+  {
+    "donor_id": "b3dc8ab6-957c-4479-9466-88ca29087284",
+    "name": "Patman, Carrin",
+    "resolved_employer": "Bracewell LLP (attorney; retired U.S. Ambassador to Iceland 2022-2025)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Carrin Foreman Patman is a prominent Houston litigator (three decades at Bracewell, first woman on its management committee), former Houston METRO board chair (2016-2022), and U.S. Ambassador to Iceland (2022-early 2025); Houston 77098 attorney record matches. Prolific FEC donor (742 donations) consistent with major Democratic bundler status.",
+    "source_url": "https://en.wikipedia.org/wiki/Carrin_Patman",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic Party (Obama/Biden campaigns)", "role": "Major bundler / mega-donor", "category": "political", "source_url": "https://justthenews.com/government/white-house/biden-taps-another-democratic-mega-donor-ambassador-position", "snippet": "Bundled $243,900 for Obama 2012 and reportedly over $2.6 million for Biden; nominated by Biden as Ambassador to Iceland, a role tied to her Democratic fundraising."},
+      {"org": "Metropolitan Transit Authority of Harris County (METRO)", "role": "Board Chair (first woman), 2016-2022", "category": "civic", "source_url": "https://top30women.com/carrin-f-patman-board-chair-metro/", "snippet": "Appointed by Mayor Turner and approved by City Council as first woman board chair of Houston METRO."}
+    ]
+  },
+  {
+    "donor_id": "b2158e72-678b-4df3-9366-c20f4b7f1639",
+    "name": "Sisson, Gretchen",
+    "resolved_employer": "University of California, San Francisco (UCSF)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Gretchen Sisson, PhD, is a research sociologist at UCSF (ANSIRH, Dept. of OB/GYN & Reproductive Sciences) studying abortion and adoption, author of 'Relinquished' (2024); San Francisco 94117 + UCSF researcher match the donor record. FEC/527 records show ActBlue giving (e.g., $2,500 to ActBlue Non-Federal, 2025).",
+    "source_url": "https://www.gretchensisson.com/research",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b0095be5-d9ef-44ae-a24b-56b892a9f223",
+    "name": "Torres, Tomas",
+    "resolved_employer": "Self-employed / retired CPA (per FEC filings)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Tomas Torres of Houston 77027 is a prolific small-dollar Democratic donor (3,496 FEC donations); campaign finance records list him variously as CPA / self-employed / retired / not employed at 77027, giving $135,621+ in 2016 exclusively to Democratic committees (ActBlue, DSCC, DCCC, EMILY's List, Texas Democratic Party). 'Not Employed' occupation and 77027 zip match donor record; former career appears to be accounting (CPA), likely retired.",
+    "source_url": "https://www.campaignmoney.com/political/contributions/tomas-torres.asp?cycle=16",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic Party / ActBlue (federal committees)", "role": "Prolific individual donor", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/tomas-torres.asp?cycle=16", "snippet": "All contributions went to Democratic candidates, committees and PACs (ActBlue, DSCC, DCCC, EMILY's List, Texas Democratic Party); no Republican recipients."}
+    ]
+  },
+  {
+    "donor_id": "aee93910-62af-4167-a35a-690432014f04",
+    "name": "Rose, Patrick",
+    "resolved_employer": "Corridor Title",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Patrick M. Rose, founder/president of Corridor Title (title insurance) in San Marcos; former Democratic Texas state representative (HD-45, 2002-2010) and UT Law attorney. Zip 78666 / 730 Belvin St San Marcos and Corridor Title employer both match his public bio.",
+    "source_url": "https://corridortitle.com/team/patrick-rose/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House of Representatives (District 45)", "role": "Former State Representative (Democrat), 2002-2010", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Patrick_Rose", "snippet": "Patrick M. Rose is a former Texas Democratic politician who served in the Texas House of Representatives from House District 45 (2002-2010)."},
+      {"org": "Texas Land Title Association PAC", "role": "Board/affiliated (industry PAC)", "category": "business", "source_url": "https://corridortitle.com/team/patrick-rose/", "snippet": "Corridor Title bio lists board/leadership roles including the Texas Land Title Association and Texas Land Title Association PAC, plus the Real Estate Council of Austin."}
+    ]
+  },
+  {
+    "donor_id": "ac9ff028-c730-47da-a7d7-dea2ba306f9a",
+    "name": "Kemmy, Thomas",
+    "resolved_employer": "Kemmy Law Firm, P.C.",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Thomas G. Kemmy, board-certified personal-injury trial lawyer, founder of Kemmy Law Firm, P.C. at 1924 N Main Ave, San Antonio, TX 78212 — exact address/zip and 'self-employed lawyer' occupation match. ~40 years trial experience.",
+    "source_url": "https://www.kemmylawfirm.com/about/thomas-g-kemmy/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Obama for America", "role": "Individual donor", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/thomas-kemmy.asp", "snippet": "Tom Kemmy, self-employed lawyer, San Antonio 78212, gave to Obama for America (2012) and ~$1,500 in reported federal contributions (2020) — Democratic-leaning giving."}
+    ]
+  },
+  {
+    "donor_id": "a94f1f3d-4cc1-4990-98fd-68594697a594",
+    "name": "Paige, Fertitta",
+    "resolved_employer": "Retired (formerly attorney); Fertitta family foundation principal",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Name is a first/last swap: Paige Fertitta, Houston philanthropist and ex-wife of billionaire Tilman Fertitta. Address 1510 West Loop S, Houston 77027 exactly matches the Tilman & Paige Fertitta Family Foundation / Fertitta Enterprises address. Self-reported occupation 'attorney/Retired'; independent confirmation of a law license was not found, hence medium confidence on the attorney detail (identity itself is strongly corroborated by the address).",
+    "source_url": "https://www.corporationwiki.com/Texas/Houston/paige-fertitta/33725872.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Tilman & Paige Fertitta Family Foundation", "role": "Named principal / philanthropist", "category": "civic", "source_url": "https://projects.propublica.org/nonprofits/organizations/760626357", "snippet": "The Tilman and Paige Fertitta Family Foundation is registered at 1510 West Loop S, Houston, TX 77027 — the donor's listed address."}
+    ]
+  },
+  {
+    "donor_id": "a56d8dbb-d9f4-4271-9c70-6317315e1229",
+    "name": "Heckler, Tiffany",
+    "resolved_employer": "LSN Partners, LLC",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Tiffany Zientz Heckler, co-founder and CFO/Treasurer of LSN Partners, LLC, a Miami-based bipartisan government-affairs/lobbying and consulting firm (Miami-Dade). Miami Beach zip 33140 and Treasurer/LSN Partners employer match. Prior FEC giving (EMILY's List, Kendrick Meek for FL Senate) indicates Democratic-leaning donor history; her Greater Miami Jewish Federation Women's Impact Initiative role is a philanthropy/charity board (not policy-advocacy), so not classified as a policy affiliation per guidance.",
+    "source_url": "https://lsnpartners.com/staff/tiffany-zientz-heckler/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LSN Partners, LLC", "role": "Co-founder, Treasurer / CFO", "category": "business", "source_url": "https://lsnpartners.com/staff/tiffany-zientz-heckler/", "snippet": "Treasurer and co-founder of LSN Partners, a full-service bipartisan government-affairs/consulting firm with divisions in Government Affairs, Communications, Global Projects and Law."}
+    ]
+  },
+  {
+    "donor_id": "a4505f86-0889-4d6b-9463-7e6256664e05",
+    "name": "Ellis, Paige",
+    "resolved_employer": "City of Austin",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Paige Ellis is the Austin City Council Member for District 8 (in office since Jan 2019, term ends Jan 2027). Occupation 'City Council Woman'/employer 'City of Austin' and Austin-area zip 78746 corroborate exactly.",
+    "source_url": "https://www.austintexas.gov/department/about-council-member-paige-ellis",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin City Council (District 8)", "role": "Council Member (elected official)", "category": "political", "source_url": "https://ballotpedia.org/Paige_Ellis", "snippet": "Paige Ellis is a member of the Austin City Council in Texas, representing District 8, having assumed office January 6, 2019."}
+    ]
+  },
+  {
+    "donor_id": "a35ef1c6-2fd2-4f4e-8ed2-09c598256d18",
+    "name": "Scheuer, Elizabeth",
+    "resolved_employer": null,
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Most likely Elizabeth H. Scheuer, NYC attorney (Columbia Law JD 1979, later retired; Master's in decorative-arts 2013), major lifelong NYC Democratic donor (~$214k, 1992-2012), daughter of the late Rep. James H. Scheuer (D-NY). NYC location, 'Not Employed' (retired attorney) and Democratic-donor pattern match; exact 810 7th Ave address not independently confirmed, hence medium.",
+    "source_url": "https://littlesis.org/person/105891-Elizabeth_H_Scheuer",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a1951d0e-f5d1-4ff5-bc4c-6391aca52b8d",
+    "name": "Giske, Emily",
+    "resolved_employer": "Bolton-St. Johns LLC",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Emily Giske is Managing Partner at NY lobbying firm Bolton-St. Johns (since 1999), a prominent NY/national Democratic power broker; occupation 'Government Affairs'/employer 'Bolton St Johns' match exactly. East Hampton NY 11937 consistent with a senior NYC lobbyist. No Israel/AIPAC or oil/gas/gun affiliations documented.",
+    "source_url": "https://boltonstjohns.com/team/emily-giske",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bolton-St. Johns LLC", "role": "Managing Partner (lobbyist)", "category": "political", "source_url": "https://boltonstjohns.com/team/emily-giske", "snippet": "Managing Partner at Bolton-St. Johns since 1999, leading nearly 30 government-relations professionals; lead lobbyist for NY's marriage-equality law."},
+      {"org": "New York State Democratic Party", "role": "Vice Chair; DNC member", "category": "political", "source_url": "https://www.legistorm.com/person/bio/266946/Emily_Giske.html", "snippet": "Vice Chair of the New York State Democratic Party and a Democratic National Committee member since 2000."}
+    ]
+  },
+  {
+    "donor_id": "9fdcb84c-adde-43f8-824a-ef3fb8cfe384",
+    "name": "Berrie, Angelica",
+    "resolved_employer": "Russell Berrie Foundation",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Angelica Berrie is president of the Russell Berrie Foundation (widow of Russ Berrie of Russ Berrie & Co.) and runs the Edgewater, NJ-based Angelica Berrie Foundation. NJ location (Edgewater 07020) and 'Not Employed' (full-time philanthropist) match. Her work is charitable/interfaith/philanthropic rather than policy lobbying, so no advocacy affiliation category is asserted.",
+    "source_url": "https://www.russellberriefoundation.org/news/2021/1/27/angelica-berrie-help-us-find-njs-unsung-heroes",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Russell Berrie Foundation", "role": "President, Board of Trustees", "category": "civic", "source_url": "https://jwa.org/encyclopedia/article/berrie-angelica", "snippet": "Angelica serves as president of the Russell Berrie Foundation Board of Trustees; foundation established 1985 in NJ by the late Russ Berrie. (Philanthropic/charitable, not policy lobbying.)"}
+    ]
+  }
+]

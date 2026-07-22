@@ -1,0 +1,396 @@
+[
+  {
+    "donor_id": "020e91f9-c86d-4d86-b7af-498a39d5e421",
+    "name": "Robicheaux, Erryca",
+    "resolved_employer": "JourneyTrack (sales/PM); later HII Technical Solutions (Huntington Ingalls Industries)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "FEC individual-contribution records for 'Erryca Robicheaux, San Antonio TX, JourneyTrack, sales' match donor (city + employer + occupation). Recurring small-dollar Democratic giving via ActBlue (DNC, Harris Victory Fund); no ideological-issue PACs. LinkedIn/RocketReach confirm JourneyTrack (customer-journey SaaS) then Program Manager at HII Technical Solutions, a Huntington Ingalls defense division. Not on TEC/SA lobbyist lists. Defense-division employment is not documented policy advocacy, so no military_defense affiliation recorded.",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Robicheaux%2C+Erryca",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "ActBlue (DNC / Harris Victory Fund earmarks)",
+        "role": "recurring individual donor",
+        "category": "political",
+        "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Robicheaux%2C+Erryca",
+        "snippet": "Recurring $25 ActBlue contributions 2025-2026 earmarked for the Democratic National Committee, plus 2024 Harris Victory Fund earmarks."
+      }
+    ]
+  },
+  {
+    "donor_id": "256a67c3-bd3f-40f2-b8fe-5d8fa30f8064",
+    "name": "Salinas, Carla",
+    "resolved_employer": "Epic Health Services (pediatric home-health / therapy)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Donation lists occupation 'Not Employed, Speech Therapist' with employer Epic Health Services, a pediatric home-health/therapy provider, so industry is Healthcare. Could not uniquely confirm the specific individual (common name). FEC search returned no ideological-PAC contributions tied to this person; no TEC/SA lobbyist registration. No confirmable public bio, so no affiliations recorded.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Salinas%2C+Carla",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1f6c8d6f-3123-4bac-a0dc-ace9b6b0ae5c",
+    "name": "Parrish, Anne",
+    "resolved_employer": "Retired / not employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Occupation given as retired; address in 78209 (Alamo Heights/Terrell Hills area). No confirmable public profile for this specific individual. FEC search surfaced no ideological-PAC contributions; no TEC/SA lobbyist registration. Identity not corroborated beyond retiree status, so no industry beyond 'Not Employed' and no affiliations recorded.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Parrish%2C+Anne",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fe3abfb8-4b48-4765-99d8-71b4e09c30f6",
+    "name": "Gabriel, Inez",
+    "resolved_employer": "Self-employed solo attorney (Law Office of Inez Cindy Gabriel), business/commercial litigation",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "State Bar of Texas / Justia / Martindale confirm Inez Cindy Gabriel, solo San Antonio attorney at 1506 W Huisache Ave, 78201 (exact address match), TX bar since 1995, business/commercial litigation. FEC shows a long Democratic donor history (Beto O'Rourke, Lloyd Doggett, Ossoff, Warnock, Biden). A 2024 $100 ActBlue earmark rendered as 'Democratic Majority, Inc' could not be verified as Democratic Majority for Israel, so no pro-Israel affiliation recorded. Not on TEC/SA lobbyist lists.",
+    "source_url": "https://lawyers.justia.com/lawyer/inez-cindy-cindy-gabriel-221463",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Democratic candidates/committees (Beto for Texas, Doggett for Congress, ActBlue)",
+        "role": "recurring individual donor",
+        "category": "political",
+        "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Gabriel%2C+Inez",
+        "snippet": "FEC records show $2,000 to Beto for Texas (2018), $2,500 to Doggett for US Congress (2014), and repeated ActBlue earmarks to Democratic Senate/presidential candidates."
+      }
+    ]
+  },
+  {
+    "donor_id": "fdb4a025-2b79-4983-9ba3-a129fd76559f",
+    "name": "Menefee, Christian",
+    "resolved_employer": "U.S. House of Representatives (TX-18); former Harris County Attorney",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as Christian D. Menefee: Houston attorney, elected Harris County Attorney in 2020 (county's first Black county attorney), won the Jan 31, 2026 TX-18 special-election runoff for the seat vacated by Rep. Sylvester Turner's death. Houston 77004 + attorney occupation corroborate identity. FEC shows exclusively Democratic activity (his Menefee for Congress committee, Texas Democratic Party, Texas Organizing Project PAC); no ideological-issue PACs. Not a registered TX lobbyist.",
+    "source_url": "https://ballotpedia.org/Christian_Menefee",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "U.S. House (TX-18) / Harris County Attorney (Democratic)",
+        "role": "Member of Congress; former Harris County Attorney",
+        "category": "political",
+        "source_url": "https://en.wikipedia.org/wiki/Christian_Menefee",
+        "snippet": "Democratic U.S. Representative for TX-18 since Feb 2026; previously Harris County Attorney (2021-2026), litigating against state GOP leaders on voting rights and environmental justice."
+      }
+    ]
+  },
+  {
+    "donor_id": "fa04fa33-cfa3-40f4-a4c8-762920dada15",
+    "name": "Guerrero, Debra",
+    "resolved_employer": "The NRP Group",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Debra Guerrero is Senior VP of Strategic Partnerships & Government Affairs at The NRP Group (major multifamily/affordable-housing developer), matching donor occupation 'Real Estate', employer 'The NRP Group', and San Antonio location (zip 78210). Longtime SA civic figure: former SA City Councilwoman (1997-2001) and SAISD Board Trustee (2012-2021). Holds housing-industry leadership roles (NAHB Affordable Housing Group chair, AHTCC board, TAAHP past president) and is a Trustee of BUILD-PAC (NAHB's federal PAC); also on Port San Antonio board. All three searches run; no pro-Israel/pro-Palestine/oil-gas/gun ideological PAC affiliations found. Interest tags: real-estate-development, multifamily-housing.",
+    "source_url": "https://nrpgroup.com/about-us/leadership/debra-guerrero",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "The NRP Group",
+        "role": "Senior Vice President of Strategic Partnerships & Government Affairs",
+        "category": "business",
+        "source_url": "https://nrpgroup.com/about-us/leadership/debra-guerrero",
+        "snippet": "Debra Guerrero is the Senior Vice President of Strategic Partnerships and Government Affairs for The NRP Group... credited with opening NRP's Texas Office in 2004, responsible for over 30,000 multifamily units throughout Texas."
+      },
+      {
+        "org": "BUILD-PAC (National Association of Home Builders PAC)",
+        "role": "Trustee",
+        "category": "political",
+        "source_url": "https://www.prnewswire.com/news-releases/the-nrp-group-promotes-debra-guerrero-to-senior-vice-president-of-strategic-partnerships-and-government-relations-301122060.html",
+        "snippet": "She was selected to serve as a Trustee of BUILD-PAC, NAHB's Political Action Committee, which disburses over $3 million annually to pro-housing, pro-business federal congressional candidates."
+      },
+      {
+        "org": "National Association of Home Builders (NAHB) Affordable Housing Group",
+        "role": "Chairwoman / leadership",
+        "category": "business",
+        "source_url": "https://www.businesswire.com/news/home/20230317005014/en/NAHB-Appoints-The-NRP-Groups-Debra-Guerrero-Chairwoman-of-Affordable-Housing-Group",
+        "snippet": "NAHB Appoints The NRP Group's Debra Guerrero Chairwoman of Affordable Housing Group."
+      },
+      {
+        "org": "Affordable Housing Tax Credit Coalition (AHTCC)",
+        "role": "Board of Directors",
+        "category": "business",
+        "source_url": "https://www.taxcreditcoalition.org/about/board-of-directors/debra-guerrero/",
+        "snippet": "Debra Guerrero is listed as a member of the Affordable Housing Tax Credit Coalition Board of Directors."
+      },
+      {
+        "org": "Port San Antonio",
+        "role": "Board Member",
+        "category": "civic",
+        "source_url": "https://www.housingfinance.com/policy-legislation/guerrero-takes-helm-of-nahbs-multifamily-council",
+        "snippet": "Currently she sits as a Board Member of Port San Antonio, responsible for developing the 1,900-acre Tech Port innovation campus."
+      },
+      {
+        "org": "San Antonio City Council / SAISD Board",
+        "role": "Councilwoman (1997-2001); SAISD Board Trustee (2012-2021)",
+        "category": "political",
+        "source_url": "https://nrpgroup.com/about-us/leadership/debra-guerrero",
+        "snippet": "Elected offices: San Antonio City Councilwoman (1997-2001) and SAISD Board Trustee (2012-2021)."
+      }
+    ]
+  },
+  {
+    "donor_id": "f93ee024-d88e-4e52-8c7c-5676ad5f13c4",
+    "name": "Weinstein, Eliot",
+    "resolved_employer": "University of Chicago (graduate student)",
+    "industry": "Student",
+    "confidence": "low",
+    "evidence": "Occupation 'Graduate Student' at University of Chicago matches a public Eliot Weinstein (UChicago), but the Glencoe IL (60022) address could not be definitively tied to that individual, so identity resolution remains uncertain. No FEC PAC contributions and no TX/City lobbyist registration found.",
+    "source_url": "https://mag.uchicago.edu/arts-humanities/sharp-cards",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f6f51cb1-62ec-46be-a07c-d8699a42e0ae",
+    "name": "Hernandez, Johnny",
+    "resolved_employer": "Grupo La Gloria / True Flavors (La Gloria)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Confirmed celebrity chef Johnny Hernandez, founder/president of Grupo La Gloria and True Flavors Catering, CIA-trained, opened La Gloria in 2010; honored by TX House Resolution HR1041 (2025). Matches occupation 'Chef' / employer 'La Gloria' in San Antonio. No FEC PAC contributions, no TX/City lobbyist registration found; White House guest chef (2016) is not a policy-advocacy affiliation.",
+    "source_url": "https://en.wikipedia.org/wiki/Johnny_Hernandez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f6e1f409-c7ad-4b85-b54e-90295bcaec4a",
+    "name": "Hardberger, Phil",
+    "resolved_employer": "Retired (former Mayor of San Antonio; former Chief Justice, TX 4th Court of Appeals)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed Phil (Phillip Duane) Hardberger, former Mayor of San Antonio 2005-2009 and retired Chief Justice of the Texas Fourth Court of Appeals; longtime San Antonio resident, occupation 'Retired' matches. A Democrat elected on non-partisan municipal ballots. No pro-Israel/pro-Palestine/oil-gas/gun PAC affiliations or lobbyist registration found.",
+    "source_url": "https://en.wikipedia.org/wiki/Phil_Hardberger",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Democratic Party",
+        "role": "Former elected official (Mayor / appellate judge, retired)",
+        "category": "political",
+        "source_url": "https://en.wikipedia.org/wiki/Phil_Hardberger",
+        "snippet": "A Democrat, he was elected on a non-partisan ballot... elected to the Fourth District Court of Appeals in 1994 as a Democrat and retired as chief justice in 2003."
+      }
+    ]
+  },
+  {
+    "donor_id": "f654f52e-3554-4630-90bd-7b2350b122e6",
+    "name": "Narasimhan, Shekar",
+    "resolved_employer": "Beekman Advisors Inc. (Managing Partner)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Confirmed Shekar Narasimhan, Managing Partner of Beekman Advisors (real estate/mortgage finance/affordable housing advisory), Dunn Loring VA; occupation 'Advisor'/employer match. Chairman & Founder of the AAPI Victory Fund (Democratic-aligned super PAC), Democracy Alliance board, Obama-era AAPI Advisory Commissioner. No pro-Israel/pro-Palestine/oil-gas/gun affiliations; no lobbyist registration found.",
+    "source_url": "https://www.aapivictoryfund.com/team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "AAPI Victory Fund",
+        "role": "Chairman and Founder",
+        "category": "political",
+        "source_url": "https://www.aapivictoryfund.com/team",
+        "snippet": "Chairman and Founder of the AAPI Victory Fund, one of the first SuperPACs focused exclusively on building the political power of the Asian American Pacific Islander community."
+      },
+      {
+        "org": "Democracy Alliance",
+        "role": "Board member",
+        "category": "political",
+        "source_url": "https://www.democracyalliance.org/people/shekar-narasimhan/",
+        "snippet": "Shekar Narasimhan is a member of the Democracy Alliance, a network of progressive donors; he chairs and founded the AAPI Victory Fund."
+      }
+    ]
+  },
+  {
+    "donor_id": "f1f15311-bca3-4b44-8839-238cb0dad18f",
+    "name": "Arechiga, Jason",
+    "resolved_employer": "The NRP Group LLC (Senior VP of Development)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Confirmed Jason Arechiga, Senior Vice President of Development at The NRP Group (San Antonio), leading the multifamily affordable/mixed-income housing portfolio across Texas; occupation 'Real Estate Developer'/employer match. Serves on boards of Texas Association of Local Housing Finance Agencies and Texas Affiliation of Affordable Housing Providers (housing-industry advocacy). Engages with the TX Legislature on affordable-housing policy but no registered TX/City lobbyist entry or ideological PAC contributions found. Interest tags: real-estate-development, multifamily-housing.",
+    "source_url": "https://nrpgroup.com/about-us/leadership/jason-arechiga",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Affiliation of Affordable Housing Providers (TAAHP)",
+        "role": "Active member",
+        "category": "business",
+        "source_url": "https://taahp.org/the-nrp-group-promotes-jason-arechiga-to-svp-of-development/",
+        "snippet": "Arechiga... is an active member of the Texas Affiliation of Affordable Housing Providers and engages with the Texas Legislature on affordable housing legislation."
+      },
+      {
+        "org": "Texas Association of Local Housing Finance Agencies",
+        "role": "Board member",
+        "category": "business",
+        "source_url": "https://nrpgroup.com/about-us/leadership/jason-arechiga",
+        "snippet": "Board member, Texas Association of Local Housing Finance Agencies; cultivates partnerships with housing authorities and government agencies to advance affordable housing financing across Texas."
+      }
+    ]
+  },
+  {
+    "donor_id": "f0e8f500-d54c-4266-8423-9a3b214c9de6",
+    "name": "Alsop, Joseph",
+    "resolved_employer": "Alsop Louie Partners (Venture Partner); founder & former CEO of Progress Software",
+    "industry": "Venture Capital",
+    "confidence": "high",
+    "evidence": "Beverly MA (zip 01915) resident, MIT grad, founder/CEO of Progress Software until 2009, then formed VC firm Alsop Louie Partners — matches occupation 'Venture Partner' and employer. Local news profiles him as Beverly's biggest political donor with an all-Democratic giving pattern (incl. $1,000 to Biden). No pro-Israel/pro-Palestine/oil-gas/gun PAC contributions; his firm has intelligence-community roots via co-founder Gilman Louie (In-Q-Tel) but no personal defense/intel affiliation is documented for Alsop himself.",
+    "source_url": "https://patch.com/massachusetts/beverly/meet-beverlys-biggest-political-donor",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Democratic candidates and committees",
+        "role": "major individual donor",
+        "category": "political",
+        "source_url": "https://patch.com/massachusetts/beverly/meet-beverlys-biggest-political-donor",
+        "snippet": "Joseph Alsop had contributed $111,864 to PACs and federal candidates... $10,000 to America Works Federal PAC, $2,000 to AMERIPAC, and $1,000 to Joe Biden — an all-Democratic pattern."
+      }
+    ]
+  },
+  {
+    "donor_id": "f00790ac-7409-4217-ac1e-f090f938fb8b",
+    "name": "McCullough, Terri",
+    "resolved_employer": "U.S. House of Representatives — Office of Speaker Emerita Nancy Pelosi (Chief of Staff / Senior Advisor)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Donor occupation 'Chief of Staff / US House of Representatives' matches Terri (Mary Theresa) McCullough, longtime chief of staff to Nancy Pelosi (2019-2025), who transitioned to Senior Advisor in Nov 2025. The NYC address is consistent with her prior NYC-based roles (Tory Burch Foundation, Clinton Foundation's No Ceilings). Identity strongly matches on occupation/employer; NYC residence plausible but not independently confirmed, hence medium confidence. No ideological-issue PAC ties found.",
+    "source_url": "https://pelosi.house.gov/news/press-releases/pelosi-announces-departure-of-longtime-chief-of-staff-terri-mccullough-names",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Office of Speaker Emerita Nancy Pelosi (U.S. House of Representatives)",
+        "role": "Chief of Staff / Senior Advisor",
+        "category": "political",
+        "source_url": "https://19thnews.org/2025/11/terri-mccullough-history-nancy-pelosi/",
+        "snippet": "Terri McCullough was the first woman to serve in a formal role as chief of staff to a House speaker, working alongside Pelosi; she transitioned to a Senior Advisor role in November 2025."
+      }
+    ]
+  },
+  {
+    "donor_id": "ee964044-c874-41f3-b138-697fdb21ab78",
+    "name": "Berk, Marnie",
+    "resolved_employer": "New York Lawyers for the Public Interest (Director of Pro Bono Programs)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Unique name matching donor's exact employer and title: Marnie Berk is Director of Pro Bono Programs at New York Lawyers for the Public Interest, running its Pro Bono Clearinghouse; previously corporate law at Paul, Weiss and Hogan Lovells; JD from CUNY Law. NYC location (zip 10013) consistent. No FEC ideological-PAC contributions and no TX/NYC lobbyist registration surfaced; no policy-advocacy board seats found beyond her professional pro bono role.",
+    "source_url": "https://www.nylpi.org/team/marnie-berk/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ee1c2baa-8feb-4086-8674-b6aa8b0c520f",
+    "name": "Perez, Monica",
+    "resolved_employer": "Not Employed (no employer listed)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor listed as 'Not Employed' in Pinecrest FL (zip 33156). 'Monica Perez' is an extremely common name with no distinguishing occupation or employer to anchor identity. FEC/OpenSecrets, Florida state campaign-finance, and lobbyist-registry searches returned no record reliably tied to this specific Pinecrest resident. No affiliation can be documented without guessing, so none is assigned.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Perez%2C+Monica",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ed14b2a4-dd88-4aff-9561-d2d6dc87f7f7",
+    "name": "Alex, Cristobal",
+    "resolved_employer": "Tusk Strategies (Partner & Head of DC Office)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Donor occupation 'Head of DC Office / Tusk Strategies' and DC address match Cristobal Alex, Partner and Head of Tusk Strategies' DC office. Native El Pasoan, former White House Deputy Cabinet Secretary and senior advisor to Biden's 2020 campaign; founding president and current Board Chair of the Latino Victory Fund; DNC Rules & Bylaws Committee member. No pro-Israel/pro-Palestine, oil-gas, or gun PAC affiliations documented.",
+    "source_url": "https://tuskstrategies.com/people/cristobal-alex/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Latino Victory Fund / Latino Victory Project",
+        "role": "Board Chair (founding president)",
+        "category": "political",
+        "source_url": "https://latinovictory.org/latino-victory-project-welcomes-cristobal-alex-to-its-board-of-directors/",
+        "snippet": "Cristobal was the founding president of the Latino Victory Project and its political arm the Latino Victory Fund; in December 2024 he was appointed Board Chair."
+      },
+      {
+        "org": "Democratic National Committee",
+        "role": "Rules & Bylaws Committee member; Vice Chair, Eastern Regional Caucus",
+        "category": "political",
+        "source_url": "https://tuskstrategies.com/people/cristobal-alex/",
+        "snippet": "Member of the Democratic National Committee's Rules and Bylaws Committee and Vice Chair of the DNC's Eastern Regional Caucus."
+      }
+    ]
+  },
+  {
+    "donor_id": "ebf8cbae-9e01-43c8-a057-f0f461293351",
+    "name": "wolfson, howard",
+    "resolved_employer": "Bloomberg Philanthropies / Michael Bloomberg political operation (listed as 'Bloomberg Foundation')",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Howard Wolfson, NYC address 225 W 86th St / 10024, occupation consultant, employer Bloomberg Foundation, matches Howard Wolfson, longtime senior adviser to Michael Bloomberg. Former NYC Deputy Mayor (2010-2013), directs the education program at Bloomberg Philanthropies, runs Bloomberg's Super PAC (Independence USA PAC), and is a public spokesman/adviser for Bloomberg's gun-safety operation (Everytown for Gun Safety / Mayors Against Illegal Guns). Documented gun_control ties.",
+    "source_url": "https://en.wikipedia.org/wiki/Howard_Wolfson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Everytown for Gun Safety / Bloomberg gun-safety operation (Independence USA PAC)",
+        "role": "Senior adviser to Michael Bloomberg; runs his Super PAC and serves as political adviser/spokesman for Bloomberg's gun-reform efforts",
+        "category": "gun_control",
+        "source_url": "https://www.thetrace.org/2016/09/senator-kelly-ayotte-reelection-besieged-gun-activists-both-sides/",
+        "snippet": "Howard Wolfson, as a political adviser to pro-gun-reform former NYC Mayor Michael Bloomberg, said Bloomberg's PAC would have 'enthusiastically' supported Senator Kelly Ayotte's reelection had she voted for the Manchin-Toomey background check bill."
+      },
+      {
+        "org": "Bloomberg Philanthropies",
+        "role": "Directs the education program; longtime senior adviser/counselor to Michael Bloomberg",
+        "category": "civic",
+        "source_url": "https://en.wikipedia.org/wiki/Howard_Wolfson",
+        "snippet": "He currently directs the education program at Bloomberg Philanthropies. He served as a counselor to the former mayor of New York City Michael Bloomberg."
+      }
+    ]
+  },
+  {
+    "donor_id": "e881532b-c102-4b03-a682-1761b00e7afa",
+    "name": "Grijalva, Douglas",
+    "resolved_employer": "Law Offices of Douglas Cole Grijalva (solo attorney; self-reported 'Not Employed')",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Address 21 E Wedgemere Cir, Spring/The Woodlands TX 77381 matches Douglas Cole Grijalva, a Texas-licensed attorney (since 1993) operating the Law Offices of Douglas Cole Grijalva at that same home address, practice focused on Environmental/Natural Resources and general litigation. Property records confirm Douglas Cole Grijalva and Beth N Grijalva as owners. Despite 'Not Employed' occupation, he is a practicing solo attorney. No FEC ideological PAC records, no TX/SA lobbyist registration, and no policy-advocacy board roles found.",
+    "source_url": "https://www.avvo.com/attorneys/77381-tx-douglas-grijalva-146243.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e8536d71-24c9-4c94-821f-80490bdd8bfd",
+    "name": "Greuel, Wendy",
+    "resolved_employer": "Manatt, Phelps & Phillips (national advisor); CSUN Nazarian College (executive-in-residence); own consulting practice",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Encino CA 91436, consultant/exec-in-residence/national advisor with employers self/CSUN/Manatt matches Wendy Greuel, former Los Angeles City Controller (2009-2013) and City Councilmember (2002-2009), a Democrat. Manatt national advisor (since 2023), executive-in-residence at CSUN's Nazarian College, runs a civic-engagement/political consulting practice. Documented board service on EMILY's List and Emerge California (Democratic women's political organizations).",
+    "source_url": "https://en.wikipedia.org/wiki/Wendy_Greuel",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "EMILY's List",
+        "role": "Board member (and past endorsee)",
+        "category": "political",
+        "source_url": "https://emilyslist.org/our-leadership/",
+        "snippet": "She serves on the boards of Emerge CA and Emily's List. As a proud past recipient of Emily's List support in her own political career, Wendy is thrilled to be giving back through her board service."
+      },
+      {
+        "org": "Emerge California",
+        "role": "Board member",
+        "category": "political",
+        "source_url": "https://en.wikipedia.org/wiki/Wendy_Greuel",
+        "snippet": "Board member: Abode Communities, CAUSE, Emerge California, EMILY's List, YMCA, Oakwood School."
+      }
+    ]
+  },
+  {
+    "donor_id": "e82b55e9-2aab-4652-81cc-7d2849fe55d2",
+    "name": "Lyon, Ted",
+    "resolved_employer": "Ted B. Lyon & Associates, P.C. (founding partner / trial attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Attorney at Ted B. Lyon & Associates P.C., Mesquite TX 75150, matches Ted B. Lyon Jr., founding partner and a prominent Texas plaintiff/personal-injury trial lawyer. Former Texas State Senator (1983-1993) and State Representative (1979-1983), a Democrat and former police officer. OpenSecrets lists 'Ted B Lyon & Assoc' as a source of political contributions consistent with plaintiff-bar Democratic giving. No documented pro-Israel/pro-Palestine, oil & gas, or gun-lobby advocacy affiliations; no lobbyist registration found.",
+    "source_url": "https://tedlyon.com/about/ted-b-lyon-jr/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Legislature (Texas Senate/House)",
+        "role": "Former Democratic Texas State Senator (1983-1993) and State Representative (1979-1983)",
+        "category": "political",
+        "source_url": "https://lrl.texas.gov/legeLeaders/members/memberDisplay.cfm?memberID=86",
+        "snippet": "Ted Lyon is a Mesquite lawyer and Democrat who was a member of the Texas House of Representatives and then the Texas Senate from 1979 into early 1993."
+      }
+    ]
+  }
+]

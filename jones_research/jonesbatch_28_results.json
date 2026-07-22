@@ -1,0 +1,230 @@
+[
+  {
+    "donor_id": "d71b204f-305f-40e9-9798-4799b9ba44e5",
+    "name": "Madry, Lisa",
+    "resolved_employer": "Rare Bird Advisors LLC (founder/principal)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Houston-based political/nonprofit consultant; founder & principal of Rare Bird Advisors LLC (Houston, TX). Prior roles at Episcopal Health Foundation and National Wildlife Federation; works on climate justice, civic engagement/organizing, Medicaid expansion. Name, Houston location (302 Bryan St, 77011) and firm match; 76 FEC donations at 1.0 Dem lean fits a progressive consultant.",
+    "source_url": "https://www.linkedin.com/in/lisa-madry/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d6cf0c1e-b192-464c-bd67-94f2c13ffd43",
+    "name": "Tacoronte, Jaclyn",
+    "resolved_employer": "IBEW Local 3 (per donation record: electrician)",
+    "industry": "Labor",
+    "confidence": "low",
+    "evidence": "Donation record lists occupation 'Electrician' and employer 'Local 3' (IBEW Local 3) at 38 Fillmore St, Staten Island 10301. The only findable public Staten Island profile under this distinctive name is Jaclyn Tacoronte, PR/marketing CEO of JMT Media, which conflicts with the stated electrician occupation, so same-person cannot be confirmed. Classified per donor-reported occupation with low confidence.",
+    "source_url": "https://www.crainsnewyork.com/awards/jaclyn-tacoronte-notable-leaders-advertising-marketing-pr-2023",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d67bc7ee-c8bc-4c6a-a77e-7de10802f57a",
+    "name": "Villarreal, Elpidio",
+    "resolved_employer": "Gilbert Litigators & Counselors (co-founder/partner)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Elpidio 'P.D.' Villarreal, co-founder/partner of Gilbert Litigators & Counselors (NY office); 35+ yrs litigation, former partner at Sonnenschein Nath & Rosenthal (Dentons), ex-global head of litigation at GlaxoSmithKline and chief litigation officer at Allergan/AbbVie. Columbia BA, Yale Law. Distinctive name + firm match; Sherman, CT 06784 residence consistent with a NY-office litigator.",
+    "source_url": "https://mediaconnect.com/elpidio-p-d-villarreal-joins-gilbert-litigators-counselors",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d3f62e07-a9d8-4b6b-a24a-bcb6b85fe741",
+    "name": "Katz, Amy L.",
+    "resolved_employer": "Self-employed attorney (feminist/civil-rights lawyer)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Amy L. Katz, NYC-based feminist attorney and Yale Law alumna associated with the ACLU Women's Rights Project. Self-employed attorney at 145 Central Park W, NY 10023 fits an established Upper West Side solo civil-rights lawyer; identity corroborated by NYC location + solo-attorney status, though multiple 'Amy Katz' attorneys exist, so confidence is medium.",
+    "source_url": "https://www.aclutx.org/en/biographies/amy-l-katz-aclu-womens-rights-project",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d34fbdf0-a598-452b-9655-bf34df326023",
+    "name": "Edgette, Chris",
+    "resolved_employer": "Zone 5 Technologies LLC (VP, Counter-UAS)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Christopher Edgette, Menlo Park CA, is VP Counter-UAS at Zone 5 Technologies, a DoD prime contractor building counter-drone interceptors (Paladin, White Spike); prior roles at Apple/Kittyhawk. Name, location and title all match the donor record.",
+    "source_url": "https://rocketreach.co/chris-edgette-email_7009566",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Zone 5 Technologies LLC", "role": "Vice President, Counter-UAS", "category": "military_defense", "source_url": "https://defensescoop.com/2025/09/29/counter-drone-interceptors-navy-diu-anduril-zone-5/", "snippet": "Zone 5 is a DoD prime contractor selected by the Defense Innovation Unit's Counter-UAS NEXT program to field low-cost systems to shoot down hostile drones; Edgette leads its Counter-UAS line."}
+    ]
+  },
+  {
+    "donor_id": "d2fce148-f086-4a08-8405-280bdea93b98",
+    "name": "McQuillen, William",
+    "resolved_employer": "FTI Consulting (Managing Director, Crisis & Litigation Communications)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Bill (William) McQuillen, DC-based Managing Director in FTI Consulting's Crisis & Litigation Communications practice; former 15-year Bloomberg News legal correspondent, ex-Invariant and Burson. FTI bio notes he was 'raised in San Antonio, Texas,' explaining the Jones donation. No board or advocacy affiliations found.",
+    "source_url": "https://www.fticonsulting.com/experts/bill-mcquillen",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d2773ffb-582f-47d8-8f08-6813bf9380b0",
+    "name": "Garza-Vale, Anthony",
+    "resolved_employer": "Big Tony Injury Law PLLC / Gamez Law Firm (personal-injury trial attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Anthony Roland 'Tony' Garza-Vale, San Antonio native and plaintiff-side personal-injury trial attorney (St. Mary's JD 2010, State Bar #315519), associated with Gamez Law Firm; 'Big Tony Injury Law PLLC' appears to be his own firm. fec_partisan_lean 1.0 (all-Democratic). No lobbyist registration or tracked-spectrum ties found.",
+    "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/anthony-tony-garza-vale/97533e00-15a8-46e2-a0ac-bde93c9e5b5b.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d23414c8-fed1-4479-a614-2871fcb1328d",
+    "name": "Flinner, Margaret",
+    "resolved_employer": "Architect, AIA (former architectural director, Ellerbe Becket / Sorg Architects; later Design + Construction Strategies LLC) — listed 'Not Employed'",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "Margaret A. Flinner, 4537 Grant Rd NW DC 20016 (exact address match), is a licensed architect (AIA; Carnegie Mellon BArch) who was architectural director at Ellerbe Becket and designed Georgetown Law's fitness facility. Prior $1,000 gift to Obama Victory Fund 2012. No tracked-spectrum affiliations.",
+    "source_url": "https://www.linkedin.com/in/margaretflinner/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cd679241-e443-4e91-b909-6db62b6c1392",
+    "name": "Mclachlan, Kate",
+    "resolved_employer": "University Health System (Registered Nurse); listed 'Not Employed' on the Jones filing",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "FEC individual-contribution records list Kate McLachlan, employer 'University Health System / RN', zip 78210 (exact match), giving to DNC Services Corp in 2020. Steady Democratic small-dollar donor (25 FEC gifts, lean 1.0). No PAC-ideological or lobbyist footprint.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part169.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ccef607f-b5ce-40ca-ba88-23e4577cfd64",
+    "name": "Bains, Parmjit",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor at 30030 Cibolo Trce, Fair Oaks Ranch, TX 78015, listed 'Not Employed.' A same-name Parmjit Bains is a San Antonio commercial real-estate investor tied to Daughters Investment LLC, and a Parmjit K Bains (age 72) exists, but neither address matches the Fair Oaks Ranch donor, so identity cannot be confirmed. No ideological PAC record; not a registered TX lobbyist.",
+    "source_url": "https://elementix.ai/investors/tx/parmjit-bains",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cc84da22-2984-4906-b043-c0e63a933172",
+    "name": "Bernal, Elisa",
+    "resolved_employer": "Retired attorney (State Bar of Texas, licensed 1980)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Elisa Pena Bernal, State Bar of Texas member (bar #21639400, licensed 05/26/1980), address 3010 Whisper Fern St, San Antonio 78230 exactly matches donor; now retired ('Not Employed'). Long-time Democratic small-dollar donor (133 FEC gifts, lean 1.0; Hillary 2016, ActBlue). No ideological-PAC or lobbyist ties found.",
+    "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=218686",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cb7a3b1f-5445-4c92-89de-16bb82b98440",
+    "name": "Poenisch, Theresa",
+    "resolved_employer": "Not employed; co-owner of the Gary and Theresa Poenisch Family Limited Partnership (holds oil & gas overriding-royalty interests)",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Donor address 223 Laurel Heights Pl, San Antonio 78212 is the exact address of attorney Gary Maurice Poenisch's law office; Theresa is his wife/FLP co-owner. Their family limited partnership owns an overriding royalty interest in the Wiatrek oil & gas lease (Karnes County/Eagle Ford) and litigated it, affirmed by the Fourth Court of Appeals (2021). Committed Democratic donor (181 FEC gifts, lean 1.0). Not a registered TX lobbyist.",
+    "source_url": "https://www.leagle.com/decision/intxco20201110514",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Gary and Theresa Poenisch Family Limited Partnership", "role": "Co-owner (oil & gas overriding royalty interest holder)", "category": "oil_gas", "source_url": "https://www.energyandthelaw.com/2021/10/20/statute-of-frauds-torpedoes-an-overriding-royalty-sale/", "snippet": "The Poenisch Family Limited Partnership jointly owned an overriding royalty interest in the Wiatrek oil and gas lease; it sued to buy out a co-owner's override over a 300+ acre unit."}
+    ]
+  },
+  {
+    "donor_id": "c996aacc-58f4-4fb7-9fd1-228a1674c047",
+    "name": "Estacio, Donna",
+    "resolved_employer": "WSP USA (Senior Vice President / Managing Director, Government Affairs, West Region)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Donna Estacio is a Sr VP at engineering firm WSP USA leading West Region government affairs; Pasadena/CA base and title match. Career external-affairs executive guiding state/national public policy for clients. FEC donation_count 73 fits a frequent political donor.",
+    "source_url": "https://www.consultingmag.com/2024/04/16/wsp-adds-donna-estacio-as-west-region-government-affairs-lead/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c7bb17e9-eaa0-43fc-85a2-a5df6c70ee81",
+    "name": "Levi, Howard",
+    "resolved_employer": "Not Employed (self-reported; name/zip match Howard B. Levi, attorney at Becker, Glynn, Muffly, Chassin & Hosinski LLP, likely retired/semi-retired)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Donor self-reports Not Employed at a 10025 Upper West Side address (300 W 108th St). An attorney named Howard B. Levi (commercial real estate/banking litigation, Becker Glynn) is listed at the same 10025 zip on Avvo; identity is plausible but the 'Not Employed' vs. active-attorney discrepancy keeps confidence medium. No tracked-spectrum PAC ties (fec_partisan_lean 0.0).",
+    "source_url": "https://www.avvo.com/attorneys/10025-ny-howard-levi-850732.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c7881712-03d6-4cc4-8fc5-83ac44bfe1f2",
+    "name": "Adams, Stephen",
+    "resolved_employer": "Google (Software Engineer)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Donor listed as Software Engineer at Google, Seattle 98103. A LinkedIn profile 'Stephen Adams - Software Engineer at Google' matches the stated occupation/employer, but 'Stephen Adams' is a common name so identity is only medium-confidence. No public advocacy or tracked-spectrum PAC affiliations found.",
+    "source_url": "https://www.linkedin.com/in/stephen-adams-0857755",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c6347661-56b0-441e-8b7c-d659a66eac2e",
+    "name": "Draizin, Mitchell",
+    "resolved_employer": "Longview Capital Advisors (LVCA) — real estate investment & mortgage banking; also President, Concordia Philanthropic Fund",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Mitchell Draizin is founder/president of Longview Capital Advisors (LVCA), a NY-metro real estate investment and mortgage banking firm (matches 'Real Estate Finance at LVCA'). Progressive/LGBTQ philanthropist (Concordia Philanthropic Fund; boards of the Williams Institute, Congressional Award, New Leaders Council, Housing Rights Initiative). His advocacy is LGBTQ/progressive, outside the tracked spectrum; no Israel/Palestine, oil/gas, gun, or defense affiliations documented.",
+    "source_url": "https://williamsinstitute.law.ucla.edu/ambassadors/mitchell-draizin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c4376dea-e5a9-4fb2-91ad-b8ccc81f88f8",
+    "name": "OBrien, Gerard",
+    "resolved_employer": "Orion EMS (Founder, President/CEO)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Gerard O'Brien founded Orion EMS (Houston medical-transport/ambulance company, est. 2007); title, Houston location and firm match the donor record exactly. Former commercial real estate appraiser (MAI); past President and Executive Committee member of the Texas Ambulance Association (industry legislative advocacy). No oil/gas, defense, gun, or Israel/Palestine PAC affiliations found.",
+    "source_url": "https://www.orionems.com/gerard-obrien",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Ambulance Association", "role": "Past President; Executive Committee, Board of Directors", "category": "business", "source_url": "https://www.orionems.com/gerard-obrien", "snippet": "Sits on the Executive Committee of the Board of Directors of the Texas Ambulance Association and 'works closely in the legislative process' advancing EMS-industry standards; served as its President in 2021."}
+    ]
+  },
+  {
+    "donor_id": "c42d3bdf-81c5-45b5-a8ed-1075d6dafd0d",
+    "name": "Braubach, Robert",
+    "resolved_employer": "Law Office of Robert P. Braubach (solo attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Robert P. Braubach, board-certified commercial real estate attorney at 106 S. St. Mary's St., Suite 200, San Antonio 78205 (exact match to donor address); international business/real estate law, practicing since 1979. FEC records tie contributions to 'Law Offices of Robert P. Braubach' in San Antonio, corroborating identity. Also honorary consul (Czech Republic, etc.) — diplomatic/civic, not policy-advocacy.",
+    "source_url": "https://robertpbraubach.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Safari Club International Political Action Committee", "role": "individual donor (single contribution, 1999)", "category": "gun_rights", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Braubach&contributor_state=TX", "snippet": "FEC individual-contribution records show a Braubach (San Antonio attorney) contribution to Safari Club International PAC, a hunting/firearms-rights advocacy PAC, in 1999; his other federal giving is mostly Republican with one 2005 Democratic gift."}
+    ]
+  },
+  {
+    "donor_id": "c288c934-1124-4cb4-b644-7c834e704ab6",
+    "name": "Estrada, Lionel",
+    "resolved_employer": "Not Employed (formerly USAA — financial-foundations / bank-servicing manager)",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Address history confirms Lionel Estrada at 327 E Crestline Dr, San Antonio 78201 (exact donor-address match). His two FEC records (2010, 2012 — matches fec_donation_count 2) are $1 contributions to the USAA Employee PAC while employed at USAA; now listed 'Not Employed.' No ideological PAC giving.",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Lionel+Estrada&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bfc545d4-6511-4f1e-a614-1f8fefaa54e4",
+    "name": "Perez-King, Vanessa",
+    "resolved_employer": "USAA — Senior/Agile Product Owner (digital product delivery)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Vanessa Perez-King, Senior Product Owner at USAA, San Antonio (LinkedIn + FEC employer 'USAA', occupation 'Agile/Senior Product Owner'; address 11310 Fair Hollow Dr, San Antonio 78249). FEC shows ~31 ActBlue-conduit contributions to Democratic candidates/committees, consistent with fec_partisan_lean 1.0 and fec_donation_count 31. No ideological (Israel/Palestine, gun, oil/gas, defense) PAC ties.",
+    "source_url": "https://www.linkedin.com/in/vanessa-perez-king-b88573167/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

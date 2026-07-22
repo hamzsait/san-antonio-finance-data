@@ -1,0 +1,238 @@
+[
+  {
+    "donor_id": "36aa1829-bf2f-48f0-b952-a2229c5408f1",
+    "name": "Williams, Bennett",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired/not-employed individual in Mercer Island WA 98040, confirmed via FEC as a prolific small-dollar Democratic donor (Peltola, Schrier, Harris, Rosen, Gluesenkamp Perez, Franz, Patty Murray, Progressive Turnout Project) — occupation listed 'NOT EMPLOYED'/'RETIRED'. No former career could be reliably documented.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=bennett+williams&contributor_state=WA",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "34e92853-4533-479a-8986-f2ec308905d4",
+    "name": "Perrault, Tom",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not corroborate identity for this specific donor (6 Mint Plaza, SF 94103, 'Not Employed', 0 FEC donations). The Rackspace-CPO hypothesis is NOT supported: the well-known Tom Perrault (HBR contributor) was Chief People Officer of Rally Health / Audax Health, not Rackspace. No public record ties the Mint Plaza SF resident to any identifiable individual.",
+    "source_url": "https://www.crunchbase.com/person/tom-perrault",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3395ece6-cacc-4615-931e-23430fedede9",
+    "name": "Salazar, Fernando",
+    "resolved_employer": "Sanchez-Salazar & Associates, LLC (now part of LJA Engineering)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Fernando J. Salazar, PE — Vice-President, Principal and co-founder of Sanchez-Salazar & Associates, a San Antonio civil/transportation engineering firm (acquired by LJA Engineering). Licensed Texas PE, 25+ years; formerly 12 years at TxDOT and 4 years at HNTB. Matches donor address/title in SA 78257.",
+    "source_url": "https://www.ssa-pe.com/our-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "324b8517-bba9-422a-a80c-11cf282f8bc7",
+    "name": "Katz Jr, Charles J",
+    "resolved_employer": "Thermo Fisher Scientific (former); attorney (retired)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Retired attorney in Palo Alto (PO Box 560, 94302). FEC records for Charles Katz in Palo Alto list occupations 'Attorney'/'Retired'/'Not Employed' and former employer Thermo Fisher Scientific, with a consistent Democratic giving pattern (incl. Gina Ortiz Jones' earlier congressional campaigns, Warnock, Ossoff, Allred, Biden, Harris) via ActBlue — corroborating the same donor now giving to her mayoral race. (retired)",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=charles+katz&contributor_city=Palo+Alto",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2e42070a-053f-4e49-9c26-6e2c3bf92b5a",
+    "name": "Hoover, Kimberly",
+    "resolved_employer": "RED Multifamily LLC",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Kimberly (Kim) Hoover, retired attorney and CEO/owner-operator of RED Multifamily LLC, a real estate operating company redeveloping historic multifamily properties; Miami-Dade (Brickell 33131) resident active in affordable-housing and progressive economic advocacy.",
+    "source_url": "https://patrioticmillionaires.org/people/kim-hoover/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Patriotic Millionaires", "role": "Member", "category": "political", "source_url": "https://patrioticmillionaires.org/people/kim-hoover/", "snippet": "Patriotic Millionaires member available to discuss taxation policy, wage standards, wealth inequality, and democratic participation."},
+      {"org": "Voices for Progress", "role": "Chair of the Board", "category": "political", "source_url": "https://patrioticmillionaires.org/people/kim-hoover/", "snippet": "Chair of the board for Voices for Progress, a progressive advocacy organization."},
+      {"org": "Miami-Dade County Affordable Housing Advisory Board", "role": "Member", "category": "civic", "source_url": "https://patrioticmillionaires.org/people/kim-hoover/", "snippet": "Member of Miami-Dade County's Affordable Housing Advisory Board; also University of Miami Law School advisory board and Duke Law Board of Visitors."}
+    ]
+  },
+  {
+    "donor_id": "2d5da85a-2515-4312-93a2-90530d534e34",
+    "name": "Montano, Michael",
+    "resolved_employer": "Guerra LLP",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Michael Anthony Montano (Montaño), attorney at Guerra LLP, a San Antonio plaintiff/personal-injury and mass-tort trial firm; listed on the firm's team page and the State Bar of Texas directory, San Antonio location matches donor zip 78211.",
+    "source_url": "https://guerrallp.com/our-team/michael-montano",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "26cbee19-3a8c-495c-ad86-d32f5115668d",
+    "name": "Weinstein, Eliot",
+    "resolved_employer": "University of Chicago",
+    "industry": "Student",
+    "confidence": "medium",
+    "evidence": "Eliot Weinstein, University of Chicago graduate student researching causal inference, statistics and computing; Hyde Park residence (60615) is adjacent to the U Chicago campus, matching the 'Graduate Student' occupation. No FEC history (0 prior donations).",
+    "source_url": "https://bsky.app/profile/erweinstein.bsky.social",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1f62373d-402b-4d47-8df8-cdf7c10ebbc5",
+    "name": "Tucker, Eliot",
+    "resolved_employer": "Attorney / self-employed (self-reports 'Not Employed', likely retired)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Eliot Tucker of River Oaks (Houston 77019) is a prolific individual Democratic donor (1,076 FEC contributions); FEC/city-data records list him as an attorney/self-employed who gave to Beto O'Rourke's 2018 Senate campaign, though the mayoral filing self-reports 'Not Employed'. No ideological-PAC ties found beyond a small-dollar Democratic candidate giving pattern.",
+    "source_url": "https://www.city-data.com/elec2/18/elec-HOUSTON-TX-18-part72.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1d541884-8ed9-4519-9238-72c673459346",
+    "name": "Johnson, Jay",
+    "resolved_employer": "Jed Johnson Associates Inc.",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "Jay Johnson, twin brother of the late designer Jed Johnson; became president of Jed Johnson Associates Inc. (NYC luxury interior design firm) after Jed's 1996 death and founded Jed Johnson Home in 2006. Occupation/employer on the donation match the firm.",
+    "source_url": "https://en.wikipedia.org/wiki/Jay_Johnson_(model)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1bc21541-d765-489a-9560-e04dd96b399d",
+    "name": "Cohen, Karen",
+    "resolved_employer": "Not Employed (retired); Mount Laurel Township Council member",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Karen Cohen of Mount Laurel, NJ (08054) is a retired long-time community volunteer elected to the Mount Laurel Township Council in 2020 as a Democrat; matches location, retired status, and heavy 267-count small-donor FEC pattern. Library trustee/treasurer, Green Team volunteer, Rutgers Environmental Steward.",
+    "source_url": "https://www.mountlaurelmessenger.net/post/change-comes-to-mount-laurel-government",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Mount Laurel Township Council", "role": "Elected Council Member (Democrat)", "category": "political", "source_url": "https://www.mountlaurelmessenger.net/post/change-comes-to-mount-laurel-government", "snippet": "Karen Cohen was elected to a four-year term on the Mount Laurel Township Council in 2020 on the Democratic slate."},
+      {"org": "Mount Laurel Green Team / Rutgers Environmental Stewards", "role": "Volunteer / Certified Environmental Steward", "category": "civic", "source_url": "https://www.njlcv.org/endorsements/mount-laurel-township-council-karen-cohen", "snippet": "Active Mount Laurel Green Team participant and certified Rutgers Environmental Steward focused on stormwater management; endorsed by NJ League of Conservation Voters."}
+    ]
+  },
+  {
+    "donor_id": "1bb0f00a-1ba0-4d50-a9ec-a5ac41921bf0",
+    "name": "Patchen, Justin",
+    "resolved_employer": "Buffalo Real Estate Partners, Inc.",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Justin Patchen is managing partner of Buffalo Real Estate Partners, a Houston commercial real estate firm at 3310 Katy Fwy Ste 100, Houston 77007 — exact address match; 18+ years in Houston retail/industrial/land brokerage. No lobbyist or ideological-PAC record found.",
+    "source_url": "https://buffalorep.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "19cdc436-7ce6-4b47-a0b1-4df70ccdf912",
+    "name": "Gonzalez, Jacqueline",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name in San Antonio; public-records databases confirm a Jacqueline Gonzalez at 110 Delaware St, San Antonio 78210, but no distinguishing occupation/employer, bio, or profile could be corroborated. Listed 'Not Employed' with a 119-count small-donor FEC history; no documented affiliation beyond donation pattern. Quiet result.",
+    "source_url": "https://ufind.name/Jacqueline+Gonzalez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "17aac638-3155-435d-9705-65a15eeffa89",
+    "name": "Lelaurin, Louis",
+    "resolved_employer": "Louis A. LeLaurin III, P.C.",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Louis A. LeLaurin III, a San Antonio attorney licensed in Texas since 1977 (J.D. St. Mary's University); solo practice at 1777 NE Loop 410 Ste 600, matching donor address. Practice areas: business, creditor-debtor, real estate, wills/trusts/probate.",
+    "source_url": "https://lawyers.justia.com/lawyer/louis-a-lelaurin-iii-258984",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Commercial Law League of America", "role": "Former President (1998) and Board of Governors member", "category": "business", "source_url": "https://directory.clla.org/texas/san-antonio/attorney-1/louis-a-lelaurin-iii-p-c", "snippet": "Member of the Commercial Law League of America's Board of Governors (1990, 1994-1997), Recording Secretary (1992), and President (1998); also San Antonio Bar Association and State Bar of Texas."}
+    ]
+  },
+  {
+    "donor_id": "1721e29a-331c-4d05-a949-ba1b30b52695",
+    "name": "Betkman, James",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "No public record could corroborate this individual. Donor listed as Not Employed at 303 Columbus Ave, Boston MA 02116, with 0 FEC donations. Name (possibly misspelled) returns no matching person in web, FEC, or Texas records.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1714f8a2-ce40-40bd-b361-657c8295f070",
+    "name": "Gonzalez, Douglas",
+    "resolved_employer": "Patron Metal Recycling LLC",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Douglas C. Gonzalez is listed as a company officer/owner of Patron Metal Recycling LLC, a family-owned San Antonio scrap-metal recycling business (yard at 442 New Laredo Hwy). No public profile beyond the business; no ideological affiliations documented.",
+    "source_url": "https://www.cityof.com/tx/san-antonio/patron-metal-recycling-llc-3132246",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "16611a27-37c2-46c8-8030-7c7fe6f311b4",
+    "name": "Parra, Ernesto",
+    "resolved_employer": "CentroMed",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Ernesto O. Parra, MD, MPH, a family medicine physician at CentroMed (San Antonio FQHC), Harvard Medical School graduate with 20+ years practice; listed on CentroMed's clinician roster and affiliated with University Hospital. No advocacy affiliations documented.",
+    "source_url": "https://centromedsa.com/clinicians/ernesto-parra-md-mph/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "15cd1b60-85d6-43d4-a6eb-01a0335bbdb3",
+    "name": "Kastl, Kristina N.",
+    "resolved_employer": "Kastl Law, P.C.",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Kristina 'Krisi' N. Kastl, founder of Kastl Law, P.C. in Dallas (personal-injury litigation firm); licensed in TX since 2000, Texas Tech law grad. Zip 75204 and attorney/Kastl Law employer match. Prolific individual political donor (high FEC count) but no documented ideological/single-issue PAC leadership or board affiliation found.",
+    "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=203212",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "159165be-e082-497b-afee-7c301f499ba0",
+    "name": "Newman, Clarke",
+    "resolved_employer": "Plaza Vision Center (self-employed OD)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Clarke D. Newman, OD, FAAO — optometrist at Plaza Vision Center, 600 N. Pearl St., Dallas 75201, exactly matching the donor address and 'Doctor of Optometry / Self' occupation. Nationally recognized cornea/contact-lens specialist who held policy-advocacy roles for the optometry profession.",
+    "source_url": "https://drnewman.com/about/meet-clarke-d-newman/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "American Optometric Association (AOA)", "role": "Chair, Federal Relations Committee; former Consumer Rep, FDA Medical Devices Advisory Committee (Ophthalmic Device Panel, 2017-2019)", "category": "civic", "source_url": "https://drnewman.com/about/meet-clarke-d-newman/", "snippet": "Dr. Newman '...chaired the American Optometric Association's Federal Relations Committee' (federal legislative/regulatory advocacy for optometry) and served as Consumer Representative on the FDA's Medical Devices Advisory Committee."}
+    ]
+  },
+  {
+    "donor_id": "0d932814-a5a6-44f7-9134-6d4fd458d436",
+    "name": "Blackwell, Eric",
+    "resolved_employer": "NRG Energy",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Eric Blackwell, Director of Government & Political Affairs at NRG Energy, Houston — matches 'Govt Affairs / NRG Energy' occupation and Houston 77019 address. He advances NRG's state/local agenda and personally manages NRG's corporate PAC. Also Secretary of the LGBTQ+ Victory Fund board.",
+    "source_url": "https://victoryfund.org/team/eric-blackwell/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "NRG Energy PAC", "role": "Manager of the corporate PAC / Director, Government & Political Affairs", "category": "business", "source_url": "https://victoryfund.org/team/eric-blackwell/", "snippet": "'As the Director of Government & Political Affairs for NRG, Eric...manages NRG's Political Action Committee (PAC).' Under his leadership 'NRG PAC has grown by 84% in membership.'"},
+      {"org": "LGBTQ+ Victory Fund", "role": "Secretary, Board of Directors", "category": "civic", "source_url": "https://victoryfund.org/team/eric-blackwell/", "snippet": "'Eric Blackwell serves as Secretary on the LGBTQ+ Victory Fund's Board of Directors.'"}
+    ]
+  },
+  {
+    "donor_id": "0ce15847-948f-4e8f-a2d5-54c697a998e1",
+    "name": "Mcsween, Paul",
+    "resolved_employer": "Jefferson Bank",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Paul McSween III — Chairman of the Board (and president for 13 years, through Feb 2023) of San Antonio-based Jefferson Bank; matches 'Banking / Jefferson Bank' and SA 78201 PO Box. Distinct from his late father Paul McSween Jr. (Jefferson Bank owner/director, d. 2018). Former YMCA of Greater San Antonio board member.",
+    "source_url": "https://sanantonioreport.org/jefferson-bank-new-president-chairman/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "YMCA of Greater San Antonio", "role": "Board Member (former)", "category": "civic", "source_url": "https://www.zoominfo.com/p/Paul-Mcsween/835552121", "snippet": "Public profile lists Paul McSween as President at Jefferson Bank and a former Board Member at YMCA of Greater San Antonio."}
+    ]
+  }
+]

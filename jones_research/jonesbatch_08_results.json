@@ -1,0 +1,253 @@
+[
+  {
+    "donor_id": "9df89be2-4701-4377-881f-d0dfd4cfe144",
+    "name": "Newman, John",
+    "resolved_employer": "Newman Brothers (family investment office); President, John & Florence Newman Foundation",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "John E. 'Chico' Newman Jr., owner of Newman Brothers investment firm at 112 E. Pecan St. Ste 1330, San Antonio 78205 (exact address/zip match), and president of the John & Florence Newman Foundation. Family office also holds oil & gas mineral rights.",
+    "source_url": "https://www.chamberofcommerce.com/united-states/texas/san-antonio/investment-service/2001260743-newman-brothers",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "John & Florence Newman Foundation", "role": "President", "category": "civic", "source_url": "https://projects.propublica.org/nonprofits/organizations/742525348", "snippet": "John 'Chico' Newman is owner of Newman Brothers and is president of the John and Florence Newman Foundation, a San Antonio private foundation ($27M assets) giving to education, environment and human services."},
+      {"org": "Newman Brothers / Newman Brothers Drilling Co", "role": "Owner / mineral rights holder", "category": "oil_gas", "source_url": "https://www.mineralholders.com/texas/san-antonio/newman-brothers-drilling-co/8156186", "snippet": "Newman Brothers Drilling Co and Newman John & Florence FND mineral rights are recorded in San Antonio, TX; the family investment office holds oil & gas mineral interests."}
+    ]
+  },
+  {
+    "donor_id": "9ce37489-3b66-49aa-ae58-e706fc94c5f4",
+    "name": "Briones Campaign, Lesley",
+    "resolved_employer": "Harris County (Commissioner, Precinct 4) — this donor is her campaign committee",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Campaign committee of Lesley Briones, Democratic Harris County Commissioner for Precinct 4 (first elected 2022, seeking re-election 2026). Houston 77008 address matches. This is a committee-to-committee transfer, not an individual contribution.",
+    "source_url": "https://ballotpedia.org/Lesley_Briones",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Harris County Commissioners Court, Precinct 4", "role": "Commissioner (D)", "category": "political", "source_url": "https://cp4.harriscountytx.gov/Briones", "snippet": "Lesley Briones is the Democratic Harris County Commissioner for Precinct 4, first elected in 2022 defeating incumbent R. Jack Cagle; committee is her re-election campaign fund."}
+    ]
+  },
+  {
+    "donor_id": "9bc5a7b4-da38-4dee-8805-70e5207340d6",
+    "name": "Basloe, Jeremy",
+    "resolved_employer": "Culver Investment Partners (CIP) — Founder & Managing Partner",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Jeremy Basloe is Founder and Managing Partner of Culver Investment Partners (CIP), a Dallas-based multifamily real estate investment/asset-management platform he founded in 2023; 'Cip' employer string and Dallas 75219 location match.",
+    "source_url": "https://cipmultifamily.com/team.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "93191759-d26c-42e6-a620-c83710cdbcf7",
+    "name": "Latham, Alida",
+    "resolved_employer": "Photographer / philanthropist (Alida Latham Photography); listed 'Not Employed' on filing",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Alida C. Latham, Seattle photographer and philanthropist at 2208 Fairview Ave E, Seattle 98102 (exact match). Longtime Democratic donor (Obama for America 2012/2016) and member of Patriotic Millionaires.",
+    "source_url": "https://patrioticmillionaires.org/people/alida-latham/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Patriotic Millionaires", "role": "Member", "category": "political", "source_url": "https://patrioticmillionaires.org/people/alida-latham/", "snippet": "Alida Latham is listed among Patriotic Millionaires, 'a collection of wealthy Americans that leverages its influence... to advance a vibrant and equitable economy, built on the foundation of a fair tax system, a livable wage floor, and equal access to political power.'"}
+    ]
+  },
+  {
+    "donor_id": "93070f23-c63d-4144-9031-5b74bc74cb08",
+    "name": "Sheldon, Lisa",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor lists occupation 'Not Employed' in Waco (76719). A Waco 'Lisa Sheldon' exists (owner, Rick Sheldon Real Estate; Waco Convention & Visitors Bureau Commission) but her documented FEC giving is to Republicans, which conflicts with this donor's Democratic pattern (lean 0.27, gave to Ortiz Jones). Identity to that person could not be confirmed.",
+    "source_url": "https://www.linkedin.com/in/lisa-sheldon-82288034/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "92d28648-c6b4-4fdd-ab66-be5a3e9a821a",
+    "name": "Cox, Morgan",
+    "resolved_employer": "Morgan W. Cox III — real estate developer/investor, partner at the Marquis Group (Dallas)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Matches Morgan W. Cox III of Dallas, real estate developer/investor at the Marquis Group and a longtime Democratic donor; corroborated by donor's Dallas 75204 address, 'Investor/Self' occupation, and heavy Democratic giving (303 FEC donations, lean 1.0).",
+    "source_url": "https://www.hrc.org/hrc-story/boards",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Human Rights Campaign", "role": "Board of Directors (served as Board Chair)", "category": "political", "source_url": "https://www.hrc.org/hrc-story/boards", "snippet": "HRC board listing shows 'Morgan Cox - Dallas, TX'; HRC press releases and news coverage identify Morgan W. Cox III as Chair of the HRC Board of Directors."}
+    ]
+  },
+  {
+    "donor_id": "91838f6a-0ab6-4898-947f-48181a3f4d3a",
+    "name": "Johnson, Julie",
+    "resolved_employer": "U.S. Representative for Texas's 32nd district (since 2025); attorney, Law Office of Julie Johnson (personal injury, family law, mediation)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Matches U.S. Rep. Julie Johnson (TX-32), a Farmers Branch Democrat and attorney who previously represented Texas House District 115; corroborated by donor's Farmers Branch 75234 address, 'Attorney/Law Office of Julie Johnson' occupation, and Democratic giving (lean 1.0).",
+    "source_url": "https://en.wikipedia.org/wiki/Julie_Johnson_(politician)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "U.S. House of Representatives (TX-32)", "role": "Member of Congress since 2025; former TX House Rep., District 115 (2019-2025)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Julie_Johnson_(politician)", "snippet": "American politician and attorney serving as U.S. representative from Texas's 32nd congressional district since 2025; first openly LGBTQ+ person elected to Congress from the South."},
+      {"org": "Texas House LGBTQ Caucus", "role": "Treasurer (as HD-115 member)", "category": "political", "source_url": "https://texaslgbtqcaucus.com/rep-julie-johnson-hd-115-farmers-branch-treasurer/", "snippet": "Rep. Julie Johnson (HD 115-Farmers Branch): Treasurer, Texas House LGBTQ Caucus."}
+    ]
+  },
+  {
+    "donor_id": "8d87f44f-f701-4001-a18a-8c556777ef23",
+    "name": "Veselka, Larry",
+    "resolved_employer": "Larry R. Veselka — litigation partner at Steptoe LLP, Houston (formerly Smyser Kaplan & Veselka); business/energy litigation",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Matches Larry Veselka, Houston business-litigation partner at Steptoe LLP (Yale BA, UT Law JD); corroborated by donor's Houston 77005 address, 'Lawyer/Steptoe LLP' occupation, and heavy Democratic giving (400 FEC donations, lean 1.0).",
+    "source_url": "https://profiles.superlawyers.com/texas/houston/lawyer/larry-r-veselka/11e21e12-266e-4f58-962c-530f4d896ddd.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Harris County Democratic Party", "role": "Chair, 1986-1988", "category": "political", "source_url": "https://profiles.superlawyers.com/texas/houston/lawyer/larry-r-veselka/11e21e12-266e-4f58-962c-530f4d896ddd.html", "snippet": "Elected Chair of the Harris County Democratic Party and served one term from 1986 to 1988."},
+      {"org": "Texas Southern University", "role": "Board of Regents member, 1985-1991 (gubernatorial appointment)", "category": "civic", "source_url": "https://profiles.superlawyers.com/texas/houston/lawyer/larry-r-veselka/11e21e12-266e-4f58-962c-530f4d896ddd.html", "snippet": "Appointed by the Governor to serve as a member of the Board of Regents for Texas Southern University from 1985 to 1991."}
+    ]
+  },
+  {
+    "donor_id": "8d68865c-20ae-48a5-976c-a6fdf567f363",
+    "name": "Revelle, Eleanor",
+    "resolved_employer": "Retired public official; former Evanston (IL) 7th Ward alderman/City Council member (2016-May 2025)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Eleanor Revelle of Evanston, IL 60201 (address matches) served ~9 years on Evanston City Council (7th Ward), left office May 2025; occupation 'Not Employed' fits a retired elected/civic figure. Longtime environmental and civic leader.",
+    "source_url": "https://evanstonroundtable.com/2024/11/27/city-council-eleanor-revelle-exit-interview/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Evanston City Council (7th Ward)", "role": "Alderman / Council member 2016-2025", "category": "political", "source_url": "https://dailynorthwestern.com/2016/01/20/city/tisdahl-appoints-eleanor-revelle-as-new-7th-ward-alderman/", "snippet": "Eleanor Revelle appointed 7th Ward alderman by Mayor Tisdahl; served nearly a decade on City Council, leaving office at the end of her term in May 2025."},
+      {"org": "League of Women Voters (Evanston & Illinois)", "role": "Former President; LWV US board member 8 years", "category": "civic", "source_url": "https://eleanorfor7th.com/node/2", "snippet": "President of the Evanston and Illinois chapters of the League of Women Voters, and served on the LWV United States board for 8 years."},
+      {"org": "Climate Action Evanston", "role": "Co-founder", "category": "civic", "source_url": "https://evanstonroundtable.com/2024/11/27/city-council-eleanor-revelle-exit-interview/", "snippet": "Co-founder of Climate Action Evanston; also chaired the Evanston Community Foundation."}
+    ]
+  },
+  {
+    "donor_id": "8d08d02d-1cec-4384-8ad4-1dabf48628fe",
+    "name": "Favela, Raquel",
+    "resolved_employer": "Executive Managing Director, Grow America (formerly National Development Council) — community/economic development finance",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Raquel F. Favela, EDFP/HDFP, Executive Managing Director at Grow America (NDC); San Antonio-based (UTSA poli-sci grad, former City of San Antonio official who wrote its 2007 Strategic Community Development Plan). 30+ yrs in community development finance. 66 FEC donations, partisan lean 1.0 (Democratic).",
+    "source_url": "https://www.linkedin.com/in/raquel-favela-executive-leadership/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Community Development Trust (CDT)", "role": "Board of Directors member", "category": "business", "source_url": "https://cdt.biz/cdt-announces-election-of-three-industry-leaders-to-its-board-of-directors/", "snippet": "CDT announced election of Raquel Favela among industry leaders to its Board of Directors."},
+      {"org": "Grow America (formerly NDC)", "role": "Executive Managing Director", "category": "business", "source_url": "https://growamerica.org/2026/01/02/grow-america-recognizes-raquel-favela/", "snippet": "Executive Managing Director providing strategic leadership to Grow America's Training and Technical Advisory Teams."}
+    ]
+  },
+  {
+    "donor_id": "8965269c-8d8f-48f6-9a73-f024db9c5536",
+    "name": "Montgomery, Mark",
+    "resolved_employer": "Founder, President & CEO, Bridgewater Consulting Group, Inc. (management consulting for electric/water/gas utilities)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Mark Montgomery is Founder/President/CEO of Bridgewater Consulting Group, whose San Antonio HQ (110 E Houston St / 78205) matches the donor's downtown 78205 address; occupation strings 'Bridgewater Consulting'/'President' align. Some sources list him personally based in Irvine, CA. No FEC donations recorded.",
+    "source_url": "https://www.bridgewcg.com/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "88e47c05-cd01-4391-8c26-d653174aaa86",
+    "name": "Douglas, Clifton",
+    "resolved_employer": "Managing Partner, Linebarger Goggan Blair & Sampson, LLP (San Antonio office); Management Committee Chair",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Clifton F. Douglass III, Texas Bar 1983, manages Linebarger's San Antonio office (municipal tax-collection law firm) and chairs its Management Committee; UT Austin B.A. 1979, St. Mary's J.D. 1982. 606 Garraty Rd, San Antonio 78209. 29 FEC donations, partisan lean 0.74.",
+    "source_url": "https://www.lgbs.com/attorney/clifton-f-douglass-iii/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "American Cancer Society; Big Brothers-Big Sisters; Santa Rosa Children's Hospital; Witte Museum", "role": "Director / advisory director (various)", "category": "civic", "source_url": "https://www.lgbs.com/attorney/clifton-f-douglass-iii/", "snippet": "Serves or has served as director or advisory director for numerous civic and charitable organizations in San Antonio, including American Cancer Society, Big Brothers-Big Sisters, Santa Rosa Children's Hospital, and the Witte Museum."}
+    ]
+  },
+  {
+    "donor_id": "88948c91-c9dd-4c4b-9a02-a8ce3ce196a7",
+    "name": "Mintz, Silvia",
+    "resolved_employer": "Self-employed immigration & family-law attorney, Law Office of Silvia Mintz, Houston",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Silvia Maria Valle Mintz, Texas Bar since 2008 (South Texas College of Law J.D.), solo immigration/family attorney at 4703 Brady St, Houston 77011 (address matches). Guatemalan immigrant; former Democratic candidate for TX House District 132 (2010). 99 FEC donations, partisan lean 1.0.",
+    "source_url": "https://ballotpedia.org/Silvia_Mintz",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Texas House District 132 (2010 election)", "role": "Democratic candidate", "category": "political", "source_url": "https://ballotpedia.org/Silvia_Mintz", "snippet": "Silvia Mintz was a Democratic candidate for District 132 of the Texas House of Representatives in the November 2, 2010 election."}
+    ]
+  },
+  {
+    "donor_id": "871f845c-e9fb-4b5a-b7db-b95f0521c7f8",
+    "name": "Berry, Tom",
+    "resolved_employer": "Berry Family Services, Inc. (Rowlett, TX disability/home-and-community-based services provider); a Berry-family executive",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Address 5700 Rowlett Rd matches Berry Family Services HQ. Company president/owner is Jason Berry; a 'tom@berryfamilyservices.com' appears as a company officer (listed as CFO) in the staff directory, indicating Tom Berry is a Berry-family executive though the 'CEO' title is not independently confirmed. FEC count of 5328 is a common-name aggregation across many 'Tom Berry' donors and is not reliable for this individual.",
+    "source_url": "http://berryfamilyservices.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "86880fe6-4394-4471-8a01-c127011fcdd6",
+    "name": "Devlin, Dean",
+    "resolved_employer": "Electric Entertainment (co-founder, chairman & CEO); film/TV producer, writer, director",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Dean Devlin, producer/writer of Independence Day, Stargate, Godzilla and TV's Leverage/The Librarians; founded Electric Entertainment (2001), located in Century City at 2121 Avenue of the Stars, matching the donor address and zip 90067. No documented political-advocacy or PAC affiliations found.",
+    "source_url": "https://en.wikipedia.org/wiki/Dean_Devlin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "863b1ad0-b1f1-45d7-b478-584447e82fb6",
+    "name": "Oppenheimer, Jean",
+    "resolved_employer": "Freelance journalist / film critic (American Cinematographer magazine; former Los Angeles Film Critics Association president; former KPCC FilmWeek critic)",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Jean Oppenheimer is a San Antonio native and longtime freelance film critic/journalist (American Cinematographer, Village Voice, Variety, three-term LAFCA president), matching the SA 78212 location and the 'Not Employed / Journalist, Freelance' occupation. No PAC or Texas lobbyist records found.",
+    "source_url": "http://www.lafca.net/critics/Jean_Oppenheimer.php",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "861650c1-ae42-436f-ab45-5251d9fa4ce1",
+    "name": "Dobbertin, Jennifer",
+    "resolved_employer": "Self-employed San Antonio realtor / small business owner (occupation listed as Realtor). Possibly the same person as San Antonio chef-restaurateur Jennifer Hwa Dobbertin (Best Quality Daughter), though the realtor-vs-restaurateur identity is not independently reconciled.",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Donor listed as self-employed Realtor at 625 Hays St, San Antonio 78202. A Jennifer Dobbertin appears with H&M Real Estate Services in San Antonio; the same/near-identical name also belongs to James Beard-semifinalist chef Jennifer Hwa Dobbertin (Best Quality Daughter, the Pearl), also San Antonio. Name+city corroborate but the two roles could not be firmly merged. No PAC or Texas lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/jenniferdobbertin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8503a373-7752-4dbf-8956-444f56d561d3",
+    "name": "Lieu, Ted",
+    "resolved_employer": "Ted Lieu for Congress Committee (candidate committee of U.S. Rep. Ted Lieu, CA-36)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Not an individual donor: this is the federal candidate/campaign committee of U.S. Rep. Ted Lieu (D, CA-36), Torrance CA — a committee-to-committee transfer, not a personal contribution.",
+    "source_url": "https://www.fec.gov/data/committee/",
+    "searches_run": {"fec_pac": false, "tx_lobbyist": false, "bio_full_read": false},
+    "affiliations": [
+      {"org": "U.S. House of Representatives (CA-36)", "role": "Member of Congress (D); committee is his federal candidate committee", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Ted_Lieu", "snippet": "Ted Lieu is the Democratic U.S. Representative for California's 36th district and House Democratic Caucus Vice Chair; the donor entity is his campaign committee making a committee transfer."}
+    ]
+  },
+  {
+    "donor_id": "85039753-a0b7-4508-9a80-0e9228d5f7ca",
+    "name": "Mills, James",
+    "resolved_employer": "Member-manager, Ajax Mgt. (Chattanooga, TN; entity not publicly confirmed)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as member-manager of 'Ajax Mgt.' at 735 Broad St, Chattanooga TN 37402 — a multi-tenant downtown office building. Could not confirm this specific James Mills or the nature of Ajax Mgt.; the national 'Ajax Management Group Inc' is a separate Trenton, NJ firm. No matching FEC/lobbyist records found.",
+    "source_url": "https://web.chattanoogachamber.com/directory/results/results.aspx?Zip=37402",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "849f8787-5626-4bc2-84f6-752ed7a69ccf",
+    "name": "Simon, Brian",
+    "resolved_employer": "Founder & Managing Partner, Hollis Public Affairs (NY public affairs/lobbying firm)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Brian W. Simon, Manhattan (zip 10016 matches), founder/managing partner of Hollis Public Affairs; former chief of staff to Rep. Gregory Meeks and Port Authority gov-relations director. Occupation 'Government Affairs'/employer match confirms identity. FEC shows small bipartisan-neutral giving; registered NY (not TX) lobbyist.",
+    "source_url": "https://www.cityandstateny.com/power-lists/2025/09/2025-top-50-new-york-lobbyists/408307/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hollis Public Affairs", "role": "Founder and Managing Partner", "category": "business", "source_url": "https://www.cityandstateny.com/power-lists/2025/09/2025-top-50-new-york-lobbyists/408307/", "snippet": "Ranked #26 on City & State's 2025 Top 50 New York Lobbyists; clients include Airbnb, Meta, JetBlue, Success Academy Charter Schools."},
+      {"org": "New York registered lobbyist", "role": "Registered lobbyist / foreign agent (federal & NY state)", "category": "political", "source_url": "https://www.legistorm.com/person/bio/15332/Brian_W_Simon.html", "snippet": "LegiStorm profile notes Brian W. Simon 'has registered as a lobbyist or foreign agent.'"}
+    ]
+  }
+]

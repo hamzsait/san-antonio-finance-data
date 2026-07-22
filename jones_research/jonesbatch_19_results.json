@@ -1,0 +1,319 @@
+[
+  {
+    "donor_id": "ae3e7699-3ee8-4024-bef4-4b33231a477c",
+    "name": "Chambers, Tiffani",
+    "resolved_employer": "Goldman Sachs",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Finance professional in New York (Harlem, 10027) listing Goldman Sachs as employer. A prominent Tiffani Chambers spent years as a Managing Director in Goldman Sachs' Operations Division before moving to Bank of America and then TransUnion (COO, Feb 2025); plausibly the same individual but the Harlem address and current Goldman employer string cannot be fully reconciled, so identity is only probable.",
+    "source_url": "https://www.globenewswire.com/news-release/2025/02/19/3028635/0/en/TransUnion-Appoints-Tiffani-Chambers-Chief-Operations-Officer.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ac4c7577-33c0-431c-a325-a27bc838bafa",
+    "name": "Caskey, Julie",
+    "resolved_employer": "Self-employed civil rights attorney / political & climate advocate (filing lists 'Not Employed')",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Julie Caskey of Piedmont, CA (94611) is a civil rights attorney (J.D., Columbia Law School), former public defender and U.S. District Court staff attorney, Piedmont school board candidate (2016, 2018), and elected delegate to the Alameda County Democratic Central Committee.",
+    "source_url": "https://www.linkedin.com/in/julie-caskey-643b27a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Alameda County Democratic Central Committee",
+        "role": "Elected delegate (4-year term, elected March 2020 and 2024)",
+        "category": "political",
+        "source_url": "https://eastbayprogressives.com/julie-caskey",
+        "snippet": "Elected to serve a four year term as a delegate on the Alameda County Democratic Central Committee in primary elections in March 2020 and 2024."
+      },
+      {
+        "org": "Piedmont Unified School District Board of Education",
+        "role": "Candidate for School Board (2016, 2018)",
+        "category": "political",
+        "source_url": "https://www.piedmontcivic.org/2018/10/16/opinion-julie-caskey-parent-for-school-board/",
+        "snippet": "OPINION: Julie Caskey Parent for School Board — profiled as a candidate for the Piedmont school board."
+      }
+    ]
+  },
+  {
+    "donor_id": "ac454ac6-3941-424e-bbf7-7fef4e3f4a3f",
+    "name": "Proud, Curtis",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor at 4716 Laura Ln, Saint Paul (Shoreview area), MN 55126, listed as Not Employed. No public profile, news, professional record, or FEC/lobbyist entry could be located to identify this individual.",
+    "source_url": "",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ab56a837-7227-42d3-a557-a5183cf74b02",
+    "name": "Tolan, Jenny",
+    "resolved_employer": "Mill (Head of Business) — filing lists 'Not Employed'",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Jenny Tolan Perrin of Brooklyn (Fort Greene, 11217) is a social-enterprise leader, Head of Business at Mill (food-waste/home tech company) and co-founder of Level; prior roles at Global Fund for Children, Peace Corps, Teach for America, and Google for Education.",
+    "source_url": "https://www.linkedin.com/in/jenny-tolan-perrin-8464214/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aaf81c9b-5cef-4d40-b9c1-3804417dbbbc",
+    "name": "Pully, Lauren",
+    "resolved_employer": "Democratic National Committee (DNC) — Head of Data and Engineering",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Lauren Pully is Head of Data and Engineering at the DNC, based in Austin, TX; oversees engineers who process the national voter file. Former CTO of the Texas Democratic Party and endpoint engineering lead at Duo Security; Columbia BS, MIT Sloan MBA. Employer 'DNC' and Austin location match the filing.",
+    "source_url": "https://magazine.engineering.columbia.edu/fall-2023/data-and-dnc",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Democratic National Committee",
+        "role": "Head of Data and Engineering",
+        "category": "political",
+        "source_url": "https://magazine.engineering.columbia.edu/fall-2023/data-and-dnc",
+        "snippet": "As head of engineering for the DNC, she oversees the team of engineers who work on voter file processing for races all across the country, from city council positions all the way to president."
+      }
+    ]
+  },
+  {
+    "donor_id": "a93d1aab-2453-487e-8986-d86731e264ae",
+    "name": "Dinnin, Kevin",
+    "resolved_employer": "FirstDay Foundation (formerly BCFS Health and Human Services) — President & CEO",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Kevin C. Dinnin is President & CEO of the San Antonio-based FirstDay Foundation (a ~$900M philanthropic entity, parent of the former BCFS Health and Human Services, which runs emergency shelters for children); 40 years leading Texas tax-exempt organizations. Employer and San Antonio location match the filing. No ideological PAC contributions and no Texas lobbyist registration found in public records.",
+    "source_url": "https://firstday.foundation/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Greater San Antonio Chamber of Commerce",
+        "role": "Incoming Chairman (announced Aug 2025); former board member",
+        "category": "civic",
+        "source_url": "https://www.sachamber.org/staff/board-of-directors/mario-a-barrera/",
+        "snippet": "In August 2025, Dinnin was introduced as the incoming Chairman of the Greater San Antonio Chamber of Commerce; he has served on the boards of various San Antonio organizations including the San Antonio Chamber of Commerce."
+      }
+    ]
+  },
+  {
+    "donor_id": "a5bc4b0b-e0c4-4262-98ba-7a23e7db59c0",
+    "name": "Diaz, Maria Dinorah",
+    "resolved_employer": "Law Office of M. Dinorah Diaz (self-employed attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Maria Dinorah Diaz is a San Antonio solo-practice attorney (family law, personal injury, criminal defense) licensed in Texas since 1991; office at 305 E Ashby Pl, San Antonio 78212 — exact match to the filing address. She is a 2026 Democratic primary candidate for judge of the 45th Civil District Court. No Texas lobbyist registration found.",
+    "source_url": "https://www.dinorahdiazlaw.com/about-dinorah-diaz-lawyer",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "45th Civil District Court (Bexar County) — Democratic primary",
+        "role": "2026 candidate for judge (Democrat, challenger)",
+        "category": "political",
+        "source_url": "https://sanantonioreport.org/profile/dinorah-diaz-2026-candidate-for-45th-district-court/",
+        "snippet": "Dinorah Diaz is an attorney in private practice with a background in family law, personal injury and criminal defense... running in the Democratic primary for the 45th Civil District Court against incumbent Judge Mary Lou Alvarez."
+      }
+    ]
+  },
+  {
+    "donor_id": "a4aa137e-fa2a-4e82-9f1c-2e31ea4e8d7b",
+    "name": "Drezner, Jeffrey",
+    "resolved_employer": "Not Employed (retired psychiatrist; founder/managing director of Clinical Care Options)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "This donor is Jeffrey L. Drezner, the psychiatrist and founder/managing director of Clinical Care Options (a medical-education/CME company) and a prolific Democratic donor — NOT Jeffrey A. Drezner the RAND defense-acquisition analyst. Property records for 10819 Pleasant Hill Dr, Potomac MD 20854 list 'Jeffrey L Drezner & L E Drezner' as owners, matching the filing address. Filing occupation 'Not Employed' is consistent with a semi-retired physician. No military/defense affiliation applies (that is a different, same-named individual).",
+    "source_url": "https://clustrmaps.com/a/4bmn1/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Democratic candidates and committees (e.g., Van Hollen for Congress / DCCC)",
+        "role": "Major individual donor and fundraiser host",
+        "category": "political",
+        "source_url": "https://sunlightfoundation.com/2011/10/21/van-hollens-alternate-fundraising-vehicle-wakes/",
+        "snippet": "Jeffrey L. Drezner (CCO/CEO, zip 20854 Potomac) gave to committees associated with Rep. Chris Van Hollen; he hosted a fundraiser at his Potomac home and donated in-kind catering/valet, with the Drezners giving a combined ~$100,000 in the 2012 cycle."
+      }
+    ]
+  },
+  {
+    "donor_id": "a18efccf-8832-40d5-850b-efd07b71bc78",
+    "name": "Lenane, Joan",
+    "resolved_employer": "Coldwell Banker Pat Shultz Real Estate (Provincetown, MA) — owner/broker; also Senior Associate Broker at Gibson Sotheby's International Realty",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Joan A. Lenane, full-time licensed real estate broker/owner in Provincetown, MA 02657; matches name, zip, and employer string exactly. Former GM of the Provincetown Banner; BA from SUNY Oneonta.",
+    "source_url": "https://www.coldwellbanker.com/Coldwell-Banker-Pat-Shultz-Real-Estate-45073c/Joan-Lenane-5021729a",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "LPAC (Lesbian Political Action Committee / Lesbian Super PAC)",
+        "role": "individual donor ($2,000, 12/29/2013)",
+        "category": "political",
+        "source_url": "http://www.city-data.com/elec2/elec-PROVINCETOWN-MA.html",
+        "snippet": "FEC individual-contribution records list Joan Lenane, self-employed real estate sales, Provincetown 02657, giving $2,000 to L PAC on 12/29/2013. LPAC is a Super PAC founded 2012 to elect LGBTQ women/non-binary candidates championing LGBTQ rights and women's equality."
+      }
+    ]
+  },
+  {
+    "donor_id": "9d1dc646-e976-4349-ab0e-dd396766088d",
+    "name": "Perez, Natalie",
+    "resolved_employer": "Cornerstone DEF Distributors (Gulf Coast bulk diesel-exhaust-fluid / fuel & lubricants distributor; south-central TX near Helotes/Boerne)",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "Self-reported CEO of Cornerstone DEF Distributors, Helotes TX 78023. Company confirmed as a real Gulf Coast distributor of DEF (diesel exhaust fluid — a NOx-reduction emissions product), marine urea, fuel, oil and lubricants; 830 phone matches the south-central TX region. CEO not independently named on the company site, so role is corroborated only by the donor filing. DEF distribution is fuel/emissions-compliance-adjacent, not oil & gas exploration/production — no oil_gas affiliation warranted, industry classification only.",
+    "source_url": "https://cornerstonedefdistributors.com/about-us-community/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9a95fc3a-f14e-4c77-be0f-1df923af3bbc",
+    "name": "Rakes, Wade",
+    "resolved_employer": "Centene Corporation — Chief Growth Officer (Atlanta, GA)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Wade A. Rakes, Chief Growth Officer of Centene Corp. (managed-care/Medicaid insurer) since Oct 2023; former Plan President & CEO of Peach State Health Plan (Centene's GA subsidiary). Princeton BA, Michigan MBA. Atlanta 30327 matches.",
+    "source_url": "https://www.centene.com/who-we-are/leadership/wade-rakes-centene.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "LGBTQ+ Victory Fund",
+        "role": "Board Chair",
+        "category": "political",
+        "source_url": "https://victoryfund.org/team/wade-rakes/",
+        "snippet": "Centene leadership bio and Victory Fund team page list Rakes as a member/Chair of the LGBTQ+ Victory Fund, a national political organization that works to elect openly LGBTQ candidates to public office."
+      },
+      {
+        "org": "Metro Atlanta Chamber",
+        "role": "Board of Directors",
+        "category": "business",
+        "source_url": "https://www.centene.com/who-we-are/leadership/wade-rakes-centene.html",
+        "snippet": "Centene bio: 'He is a member of the Board of Directors of the High Museum in Atlanta; the Metro Atlanta Chamber; the LGBTQ+ Victory Fund (Chair); Beyond Differences (Chair), and other organizations.'"
+      }
+    ]
+  },
+  {
+    "donor_id": "9a01f255-098f-4681-853f-2587b2e9bc25",
+    "name": "Florsheim, Henry",
+    "resolved_employer": "Retired — former President & General Manager, KTRK-TV / ABC13 Houston (Walt Disney/ABC owned station); 34 years with ABC owned stations",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Henry S. Florsheim, ~72, 1910 Wroxton Rd, Houston 77005 (West University area); retired President & GM of ABC13 KTRK (led the station 22 yrs, 34 yrs total with ABC O&O stations), retired July 1, 2019 — matches 'Not Employed.' NOTE: this is NOT the Wichita Falls/Cedar Hill Chamber-of-Commerce economic-development professional of the same name (a different, younger person). Corroborated by Houston zip 77005 and TV-executive career.",
+    "source_url": "https://abc13.com/abc13-eyewitness-news-mayor-sylvester-turner-city-proclamation-henry-florsheim/5362341/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Interfaith Ministries for Greater Houston (IM Houston)",
+        "role": "Board Chair",
+        "category": "civic",
+        "source_url": "https://imgh.org/imhouston-about-us/",
+        "snippet": "IM Houston 'About Us' lists 'Henry Florsheim, IM Board Chair — Retired President, ABC-13 KTRK.' Interfaith Ministries for Greater Houston is a social-services nonprofit (Meals on Wheels, refugee services)."
+      }
+    ]
+  },
+  {
+    "donor_id": "982fbf5e-ec50-4a78-8eae-ae64a89607d3",
+    "name": "Kahrl, Ben",
+    "resolved_employer": "Guttmacher Institute / adjunct faculty, University of Global Health Equity (filing lists 'Not Employed')",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Ben (Benjamin) Kahrl of Wellesley Hills, MA 02481 — longtime global/reproductive-health educator and nonprofit board member; former social studies teacher at Brookline High School, adjunct faculty at University of Global Health Equity, affiliated with the Guttmacher Institute. Grandparents founded Pathfinder International.",
+    "source_url": "https://www.binafarm.org/ben-kahrl-bio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Pathfinder International", "role": "Board member (1998-2014, 2018-2021)", "category": "civic", "source_url": "https://www.binafarm.org/ben-kahrl-bio", "snippet": "Kahrl organized trips for Pathfinder International, an international organization established by his grandparents. He held board membership there from 1998 to 2014, and again from 2018 to 2021."},
+      {"org": "Moving Health", "role": "Chair of the Board of Directors", "category": "civic", "source_url": "https://www.binafarm.org/ben-kahrl-bio", "snippet": "Chair of the Board of Directors, Moving Health."},
+      {"org": "Dignity Matters, Inc.", "role": "Board member", "category": "civic", "source_url": "https://www.binafarm.org/ben-kahrl-bio", "snippet": "Board member, Dignity Matters, Inc."}
+    ]
+  },
+  {
+    "donor_id": "964e7a41-a7dd-4c0a-876c-e1cb65eaeea0",
+    "name": "Hulkower, Seth",
+    "resolved_employer": "Strategic Energy Advisory Services, LLC (President) (filing lists 'Not Employed')",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Seth Hulkower of New York, NY 10003 — energy-policy consultant, President of Strategic Energy Advisory Services LLC and former COO of the Long Island Power Authority (LIPA); expert on electric-utility/energy policy. Trustee of Brotherhood Synagogue (private religious board, not a policy-advocacy affiliation, so excluded per scope).",
+    "source_url": "https://www.linkedin.com/in/sdhulkower/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "955c61bd-2ea6-4faa-af1f-c95eaa90722e",
+    "name": "Martinez, Arthur",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Arthur Martinez, Atlanta GA 30319 (1100 Stovall Blvd NE is a large multi-unit apartment address); 'Information Requested' occupation/employer on filing and a high count (215) of small-dollar FEC donations consistent with a recurring ActBlue donor. Name is common and no public profile could be uniquely matched to this individual; identity not resolvable from public records.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Arthur+Martinez&contributor_city=Atlanta&contributor_state=GA",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9299ed2a-5697-4357-b4de-f42840b3c553",
+    "name": "Soundar, Jude",
+    "resolved_employer": "Microsoft (U.S. Government Affairs, Federal Health Director)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Jude Soundar of Arlington, VA 22202 — attorney (JD Chicago-Kent, MBA Duke) and health-IT/government-affairs executive; served as Microsoft's U.S. Government Affairs Federal Health Director leading Congressional/Executive Branch outreach on health-tech and health-AI policy (later founded Mosaic Federal LLC). Prior roles: Associate Deputy General Counsel, Dept. of the Army; JPMorgan Chase compliance. Corporate government-affairs role only; no ideological/advocacy-org board seat documented.",
+    "source_url": "https://www.insights.govforum.io/2023/03/jude-soundar-joins-microsoft-as-us-government-affairs-federal-health-director-2/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "92163b92-3313-49fc-a28f-338e68e0fbb1",
+    "name": "Steiner, Robert",
+    "resolved_employer": "Alsco Inc. (Alsco Uniforms) — co-CEO and owner",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Bob (Robert) Steiner, co-CEO and owner of Salt Lake City-based Alsco Inc., the family-owned linen/uniform-rental company (PO Box 2317, SLC UT 84110 matches). Also a former two-term Utah Democratic state senator. Self-funded a ~$200,000 pro-gun-control TV/digital ad campaign in 2018 inspired by the Parkland students.",
+    "source_url": "https://www.ksl.com/article/46397801/utah-business-executive-running-pro-gun-control-tv-commercials",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Self-funded gun-control ad campaign / March for Our Lives (Utah)",
+        "role": "Funder/backer",
+        "category": "gun_control",
+        "source_url": "https://www.ksl.com/article/46397801/utah-business-executive-running-pro-gun-control-tv-commercials",
+        "snippet": "Steiner, co-CEO and owner of Alsco Inc., funded pro-gun control television commercials to influence the 2018 midterms, planning to spend approximately $200,000 on TV, Facebook, YouTube and a website; he backed strengthened background checks and a ban on military-style assault rifles, and contributed to a March for Our Lives event in Sandy."
+      },
+      {
+        "org": "Utah State Senate (Democratic)",
+        "role": "Former state senator (two terms, from 1990)",
+        "category": "political",
+        "source_url": "https://www.ksl.com/article/46397801/utah-business-executive-running-pro-gun-control-tv-commercials",
+        "snippet": "He is also a former Democratic state senator who served two terms beginning in 1990."
+      }
+    ]
+  },
+  {
+    "donor_id": "909dbf2f-2141-4741-a5f1-f75e4581f26a",
+    "name": "Fernandez, Tanya",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as Not Employed at 218 Finita Via, San Antonio, TX 78229 with 4 FEC donations. Multiple Tanya Fernandez records exist in the San Antonio area and none could be uniquely tied to this address; no public profile, lobbyist registration, or ideological PAC activity found. Quiet result.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part46.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8fb00a39-b46c-404d-b518-a8a622951c3d",
+    "name": "Guerra, Marcus",
+    "resolved_employer": "Enterprise Products Partners L.P. — in-house/corporate counsel",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Marcus Daniel Guerra, licensed Texas attorney (State Bar Find-A-Lawyer) working as in-house/corporate counsel at Enterprise Products (1100 Louisiana St, Houston, Enterprise HQ), listed practice areas including Oil, Gas and Energy Resources; home 10613 Centre Glade Dr, Houston 77043. Enterprise Products Partners is a major oil & gas midstream company, but an in-house counsel is not an exec/board/owner, so no oil_gas affiliation applies.",
+    "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=%2FCustomsource%2FMemberDirectory%2FMemberDirectoryDetail.cfm&ContactID=155979",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8f2e3418-7618-4724-97cb-aeaf971caad3",
+    "name": "Corcimiglia, Samantha",
+    "resolved_employer": "Disney Streaming Services / Hulu — Product Manager",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Samantha Corcimiglia, Product Manager II at Disney Streaming Services (BAMTech/Hulu, email domain bamtechmedia.com), based in San Antonio, TX (public records list a San Antonio address; donor home 525 E Mistletoe Ave, 78212). Product-management role at the streaming-tech org; no board seats, lobbyist registration, or ideological PAC activity found.",
+    "source_url": "https://www.zoominfo.com/p/Samantha-Corcimiglia/9543983756",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

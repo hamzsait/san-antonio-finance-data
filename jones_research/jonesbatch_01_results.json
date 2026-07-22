@@ -1,0 +1,251 @@
+[
+  {
+    "donor_id": "569be85f-a0ce-44a9-830b-423f82685f20",
+    "name": "Maloney, Michelle",
+    "resolved_employer": "Attorney (plaintiff/personal-injury & medical malpractice) at Marynell Maloney Law Firm, PLLC, San Antonio; donor record lists 'Self / Maloney Law Group'",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Michelle M. Maloney, San Antonio attorney (USF Law 2009), practices at her mother Marynell Maloney's plaintiff firm; FEC records tie a Michelle Maloney, attorney, San Antonio 78210 to this pattern. ZIP 78210 + attorney occupation + heavy Democratic donor pattern match this donor.",
+    "source_url": "https://www.marynellmaloneylawfirm.com/attorney/michelle-m-maloney/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Congressional Progressive Caucus PAC", "role": "Individual donor ($5,000, 2023)", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=MALONEY+MICHELLE&contributor_state=TX", "snippet": "FEC records show a $5,000 contribution to Congressional Progressive Caucus PAC (Dec 2023), plus donations to Greg Casar, James Talarico, Harris for President and DNC — a consistent progressive-Democratic pattern. No AIPAC/J Street/oil-gas/gun/defense PAC activity found."}
+    ]
+  },
+  {
+    "donor_id": "a90174c5-56bd-45da-aa5c-22e58db29540",
+    "name": "Smith, James",
+    "resolved_employer": "Chief Operations Officer, Powerhouse America LLC (San Antonio-based Filipino direct-hire nurse recruitment / NCLEX-prep agency)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "James H. Smith is COO of Powerhouse America LLC, a nurse-recruitment/staffing firm; Texas SoS/CorporationWiki data show companies in common with CEO Arlene Painagan, and they share the 1303 Berkdale Bluff (78260) address — consistent with a household. Common name, but employer + address + business link corroborate identity.",
+    "source_url": "https://www.paccgsa.org/blog/empowering-filipino-nurses-navigating-opportunities-and-overcoming-challenges-with-powerhouse-america",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f20c9719-0bb8-4df3-85bf-815501efd9d6",
+    "name": "Belfield, Alma",
+    "resolved_employer": "Computer engineer/programmer (donor record: DXC Technology; FEC filings list employer as USAA)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Alma Belfield, San Antonio 78240, computer programmer/engineer — FEC ZIP, occupation and name match. Prolific small-dollar Democratic donor (152 donations), consistent with dozens of ActBlue/Harris/Biden/DCCC entries; also a documented Brady PAC (gun-violence-prevention) donor in 2020.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=BELFIELD+ALMA",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Brady PAC (Brady: United Against Gun Violence)", "role": "Individual donor (~$700 total, Oct 2020)", "category": "gun_control", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=BELFIELD+ALMA", "snippet": "FEC records show two 2020 contributions to Brady PAC ($500 + $200), the political arm of the gun-violence-prevention group Brady, alongside a broad Democratic small-dollar giving history."}
+    ]
+  },
+  {
+    "donor_id": "ea89387c-3ff8-499e-9dc2-778b37003009",
+    "name": "Macon, Laurence",
+    "resolved_employer": "Attorney/owner, The Macon Law Firm, San Antonio; formerly a longtime partner (trial/IP/appellate litigation) at Akin Gump Strauss Hauer & Feld LLP",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "R. Laurence 'Larry' Macon, prominent San Antonio litigator (Yale 1967, UT Law 1970; board-certified civil trial & appellate law; ex-Akin Gump partner, now The Macon Law Firm), PO Box 78212. FEC shows a major, mostly-Democratic-but-bipartisan donor: DNC $21,700 and Harris Victory Fund $25,000 (2024), Castro for Congress, plus Republicans Tony Gonzales and Rep. Henry Cuellar.",
+    "source_url": "https://maconlawfirm.net/meet-larry-and-staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ddcf2348-2d5c-41cf-964e-844c8755af5d",
+    "name": "Makihara, Jun",
+    "resolved_employer": "Former Goldman Sachs general partner; private investor / corporate director (formerly Chairman, Neoteny Co.) (semi-retired)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Jun Makihara is a well-documented finance figure: 19-year career at Goldman Sachs (general partner 1992-2000), later Chairman of Japanese venture incubator Neoteny until 2015, and outside director/board roles at Monex Group, Shinsei Bank, and Philip Morris International. Harvard College '79, HBS '81. NYC location (10009) and 'Not Employed' occupation consistent with a retired financier now doing board/investment work.",
+    "source_url": "https://sites.asiasociety.org/conference01/html/bio_makihara.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Japan Society (New York)", "role": "Board member", "category": "civic", "source_url": "https://sites.asiasociety.org/conference01/html/bio_makihara.html", "snippet": "Board member of the Japan Society in New York."},
+      {"org": "Protestant Episcopal Cathedral Foundation (Washington DC)", "role": "Trustee", "category": "civic", "source_url": "https://www.topionetworks.com/people/jun-makihara-5b4c70f4105eb52991080c01", "snippet": "Jun Makihara, Trustee, Protestant Episcopal Cathedral Foundation."}
+    ]
+  },
+  {
+    "donor_id": "c4633875-1ce5-4668-bc16-df0750e85f2d",
+    "name": "Walsh, Phil",
+    "resolved_employer": "Self-employed attorney (Portland, OR) — specific individual not confirmed",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Occupation 'lawyer', employer 'self', Portland OR PO Box. Multiple attorneys named Phillip/Phil Walsh practice in Portland (e.g., Phillip J. Walsh per Justia/LawLink directories), and the PO Box address does not tie cleanly to one firm, so the specific individual could not be confirmed. Industry classified as Legal from the stated occupation only.",
+    "source_url": "https://lawyers.justia.com/lawyer/phillip-j-walsh-552859",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bec993a5-f4a7-4015-9d35-bf6e7717c5d0",
+    "name": "Burke, Kathleen",
+    "resolved_employer": "Attorney (retired/inactive CA license) (retired)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Address 320 Blackfield Dr, Belvedere Tiburon CA 94920 matches an attorney profile for Kathleen Joan Burke: licensed in California since 1977, currently INACTIVE, no misconduct; educated at Georgetown University Law Center. Listed as 'retired' in a 2022 campaign-finance disclosure, consistent with donor's 'Not Employed'. Heavy Democratic individual-donor pattern (75 FEC contributions, lean 0.88) but no specific advocacy-org membership documented.",
+    "source_url": "https://www.avvo.com/attorneys/94920-ca-kathleen-burke-325886.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b52a151e-df40-43bd-bdb0-db1fdd58a4bb",
+    "name": "Bueno, Irene",
+    "resolved_employer": "NVG, LLC (Nueva Vista Group) — Co-Founder & Partner",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Irene B. Bueno, Co-Founder and Partner of NVG, LLC (Nueva Vista Group), a Washington DC government-relations/lobbying firm; DC address (20008) and 'Partner' occupation match. Registered federal lobbyist (OpenSecrets Y0000041257L; ~8 clients in 2024, healthcare/prescription-drug policy). Former Clinton-administration Special Assistant to the President and Deputy Assistant Secretary for Legislation at HHS. No Texas state lobbyist registration (she is a federal registrant).",
+    "source_url": "https://www.opensecrets.org/federal-lobbying/lobbyists/summary?id=Y0000041257L&year=2024",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Asian American Action Fund", "role": "Former Executive Director and current Board Member", "category": "political", "source_url": "https://www.advancingjustice-aajc.org/bio/irene-bueno", "snippet": "Former Executive Director and current Board Member of the Asian American Action Fund."},
+      {"org": "Asian Pacific American Institute for Congressional Studies (APAICS)", "role": "Former Board member", "category": "civic", "source_url": "https://www.advancingjustice-aajc.org/bio/irene-bueno", "snippet": "Former Board member of the Asian Pacific American Institute for Congressional Studies."},
+      {"org": "Asian Americans Advancing Justice - AAJC", "role": "Advisory Council Member", "category": "civic", "source_url": "https://www.advancingjustice-aajc.org/bio/irene-bueno", "snippet": "Advisory Council Member at Asian Americans Advancing Justice - AAJC."}
+    ]
+  },
+  {
+    "donor_id": "a8c2eef9-f93b-4f31-a1df-0acb108d22bf",
+    "name": "Ricketts, Laura",
+    "resolved_employer": "Chicago Cubs (co-owner) / Ecosystem Integrity Fund; Self-Employed",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Laura M. Ricketts, Wilmette IL, is co-owner/board member of the Chicago Cubs and the first openly gay owner of a major-league sports franchise. Nationally prominent LGBTQ Democratic bundler (top bundler for Obama 2012 and Clinton 2016) and co-founder/chair of LPAC, the first lesbian super PAC. Identity confirmed via name, Wilmette/Chicago location, and Cubs/LGBTQ-activist occupation.",
+    "source_url": "https://en.wikipedia.org/wiki/Laura_Ricketts",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LPAC (Lesbian Political Action Committee)", "role": "Co-founder and Chairwoman", "category": "political", "source_url": "https://chicagolgbthalloffame.org/ricketts-laura/", "snippet": "Ricketts is the co-founder and chairwoman of LPAC, the first lesbian super PAC; she personally donated $242,500 to LPAC."},
+      {"org": "Lambda Legal", "role": "National Leadership Council member (former board member 2005-2011)", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Laura_Ricketts", "snippet": "Ricketts is also a board member of Lambda Legal ... served on the board 2005-2011 and now serves on the National Leadership Council."},
+      {"org": "Democratic Party (Obama 2012 / Clinton 2016 campaigns; DNC, DCCC)", "role": "Top fundraising bundler and major donor", "category": "political", "source_url": "https://publicintegrity.org/politics/pro-lesbian-super-pac-founder-and-obama-bundler-named-to-top-arts-post/", "snippet": "Ricketts was a top bundler for Obama's 2012 re-election (raising $500K-$750K+) and for Clinton in 2016; donated to the DNC and DCCC."}
+    ]
+  },
+  {
+    "donor_id": "a8700e95-cb88-43da-9dca-ba8f5a0d9d4b",
+    "name": "Holt, Richard",
+    "resolved_employer": "Alvarez & Marsal (Managing Director, Corporate Performance Improvement)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Richard Holt is a Managing Director at Alvarez & Marsal (A&M) Corporate Performance Improvement in Houston, an HR-technology and business-transformation leader (Texas A&M degrees). Occupation 'Consultant', employer 'A&M', and Houston 77098 location match. High FEC activity (148 donations, lean 1.0 Democratic) consistent with his role as board chairman of the LGBTQ+ Victory Fund / Victory Institute.",
+    "source_url": "https://www.alvarezandmarsal.com/our-people/richard-holt",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LGBTQ+ Victory Fund / Victory Institute", "role": "Chairman of the Board (One Victory) and Executive Committee Chairman", "category": "political", "source_url": "https://victoryfund.org/team/richard-holt-2/", "snippet": "Chairman of the Board of One Victory and Executive Committee Chairman for One Victory, Victory Fund and Victory Institute Boards."}
+    ]
+  },
+  {
+    "donor_id": "a58f6585-111e-4ec4-9ccd-ed42398dfb8a",
+    "name": "Tiven, Rachel",
+    "resolved_employer": "CUNY Graduate Center (PhD student in History); formerly CEO of Lambda Legal",
+    "industry": "Student",
+    "confidence": "high",
+    "evidence": "Rachel B. Tiven, New York NY, is a PhD student in History at the CUNY Graduate Center, confirming the 'student'/'CUNY' occupation. She is a nationally known LGBTQ-rights and immigration leader: former CEO of Lambda Legal (until Aug 2018), former Executive Director of Immigration Equality, and former Executive Director of Immigrant Justice Corps.",
+    "source_url": "https://www.gc.cuny.edu/news/civil-rights-advocate-historian-rachel-b-tiven-comes-graduate-center",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Lambda Legal", "role": "Former CEO (2016-2018)", "category": "civic", "source_url": "https://www.prnewswire.com/news-releases/lambda-legal-announces-the-appointment-of-rachel-b-tiven-as-ceo-300260784.html", "snippet": "Lambda Legal announced the appointment of Rachel B. Tiven as CEO; she led the LGBTQ legal-advocacy organization until resigning in August 2018."},
+      {"org": "Immigration Equality", "role": "Former Executive Director (8 years)", "category": "civic", "source_url": "https://queerbio.com/wiki/index.php?title=Rachel_B._Tiven", "snippet": "Tiven was Executive Director of Immigration Equality for eight years, winning victories for LGBT and HIV+ immigrants."}
+    ]
+  },
+  {
+    "donor_id": "a3fa8b17-72fa-4417-afcc-bf7c1219b33f",
+    "name": "Kowalski, Greg",
+    "resolved_employer": "The RK Group (President & CEO)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Greg Kowalski is President & CEO of The RK Group, the large San Antonio-headquartered catering, culinary and event-management company (formerly Rosemary's Catering), which he took over from his mother Rosemary Kowalski in 1989. Occupation 'The RK Group / CEO' and San Antonio 78251 location match exactly. No FEC ideological PAC or Texas lobbyist registration found; bio notes general charitable/arts/civic/veterans support only.",
+    "source_url": "https://www.therkgroup.com/about-us/team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "980b8b0c-7400-4411-8e49-f8e4301601f3",
+    "name": "Nicolas, Guillermo",
+    "resolved_employer": "3N Group (President); real estate developer, investor and philanthropist",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Well-documented San Antonio businessman/philanthropist, son of Univision founder Emilio Nicolas Sr. Described by Texas Public Radio (Sept 2025) as 'a real estate developer and philanthropist.' President of 3N Group. Address 114 Camp St in 78204 and prolific Democratic donation history (141 FEC contributions, lean 0.97) consistent with his public philanthropic profile. No lobbyist registration and no ideological PAC contributions found.",
+    "source_url": "https://www.tpr.org/2025-09-24/andi-rodriguez-guillermo-nicolas-join-tpr-board",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Public Radio", "role": "Board member", "category": "civic", "source_url": "https://www.tpr.org/2025-09-24/andi-rodriguez-guillermo-nicolas-join-tpr-board", "snippet": "A real estate developer and philanthropist, Nicolas is making his return to the TPR board after several years."},
+      {"org": "Texas Cultural Trust", "role": "Board member", "category": "civic", "source_url": "https://www.tpr.org/2025-09-24/andi-rodriguez-guillermo-nicolas-join-tpr-board", "snippet": "Nicolas has served on numerous boards including the San Antonio Arts Commission ... Texas Cultural Trust, San Antonio Museum of Art, Blue Star, and Artpace."},
+      {"org": "San Antonio Arts Commission", "role": "Past chair", "category": "civic", "source_url": "https://www.tpr.org/2025-09-24/andi-rodriguez-guillermo-nicolas-join-tpr-board", "snippet": "past chair of the San Antonio Arts Commission"}
+    ]
+  },
+  {
+    "donor_id": "9625fe62-1689-4bfd-9745-9e8b08d35f8c",
+    "name": "Plylar, David",
+    "resolved_employer": "U.S. Air Force (retired)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Address 4218 Misty Glade, San Antonio 78247 confirms identity against campaign-finance records showing 'David Plylar (Retired)' at that address. Publicly described as a San Antonio activist formerly in the U.S. Air Force. Very prolific small-dollar Democratic donor (267 FEC contributions, lean 0.998) consistent with a longtime local Democratic activist/retiree. Former career identified as military (Air Force); classified as Government (retired). No ideological PAC contributions or lobbyist registration found.",
+    "source_url": "http://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part71.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8afe2f5e-1055-40b7-9fb3-05bc71696bb0",
+    "name": "Blue, Allen",
+    "resolved_employer": "LinkedIn (Co-founder; VP, Product Management)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Allen Blue is a co-founder of LinkedIn (2002, with Reid Hoffman) and serves as VP of Product Management. West Hollywood CA 90069 address consistent with his public profile. Longtime major Democratic donor (spent over $800K in the 2020 cycle, incl. $213K to Biden). Board/leadership roles at nonprofits Hope Street Group and WorkingNation. Not a registered lobbyist.",
+    "source_url": "https://www.influencewatch.org/person/allen-blue/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hope Street Group", "role": "Board chair", "category": "civic", "source_url": "https://business.linkedin.com/events/education-connect/new-york/speakers/allen-blue", "snippet": "He chairs the board of the Hope Street Group, a nonprofit that brings economic opportunity to Americans through a combination of policy and practice."},
+      {"org": "WorkingNation", "role": "Executive committee member", "category": "civic", "source_url": "https://workingnation.com/about/our-team/executive-committee/allen-blue/", "snippet": "Allen Blue — Executive Committee, WorkingNation."}
+    ]
+  },
+  {
+    "donor_id": "841fe35f-a096-49f7-bbcf-cf09f8f83398",
+    "name": "Saltman, Joshua",
+    "resolved_employer": "The Walt Disney Company (Associate General Counsel / Principal Counsel, Disney Platform Distribution)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Joshua David Saltman is an attorney (Columbia Law School JD) serving as Associate/Principal Counsel for Disney Platform Distribution at The Walt Disney Company; licensed in California and based in the Burbank/Los Angeles area, consistent with the 90004 Los Angeles address and 'attorney/disney' occupation-employer. No FEC PAC contributions (count 0), no ideological PAC ties, and no lobbyist registration found.",
+    "source_url": "https://lawyers.justia.com/lawyer/joshua-david-saltman-1233717",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "78ec046a-b63a-405f-be55-8c5384949965",
+    "name": "Painagan, Arlene",
+    "resolved_employer": "Powerhouse America LLC (President & CEO)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Arlene G. Painagan is President and CEO of Powerhouse America LLC, a San Antonio-based company providing NCLEX nurse-licensure review and direct-hire recruitment/placement for foreign (primarily Filipino) nurses. She is a registered nurse (RN, Chief Nursing Officer background) with a JD. 'CEO / RN' occupation and 78260 San Antonio location match; James Smith (COO) shares the address (household). Note: Powerhouse America is a nurse-recruitment/healthcare company, not energy/solar.",
+    "source_url": "https://www.paccgsa.org/blog/empowering-filipino-nurses-navigating-opportunities-and-overcoming-challenges-with-powerhouse-america",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7562793e-ddc7-4599-aa25-a533f98fdfb7",
+    "name": "Watts, Mikal",
+    "resolved_employer": "Watts Guerra LLC / Watts Law Firm LLP",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Mikal C. Watts is a nationally prominent mass-tort/personal-injury trial lawyer, co-founder of Watts Guerra LLP and Watts Law Firm LLP, originally of San Antonio. Notable litigation includes a $262.5M verdict against Chrysler and major Firestone/Ford Explorer recoveries; he was indicted and fully acquitted in the 2016 BP Deepwater Horizon settlement fraud case. The Dorado, Puerto Rico address is consistent with his relocation.",
+    "source_url": "https://en.wikipedia.org/wiki/Mikal_Watts",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic Party (national and Texas) / Democratic candidates", "role": "Major individual donor", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Mikal_Watts", "snippet": "Mikal Watts is 'a prolific donor to the Texas and national Democratic Party, and candidates running for office as Democrats'; formed an exploratory committee in 2007-2008 to challenge Sen. John Cornyn as a Democrat."}
+    ]
+  },
+  {
+    "donor_id": "6690d5d7-fe6e-4128-ae91-05435ffdb25f",
+    "name": "Andonie, Victor",
+    "resolved_employer": "MSG Management, Inc. (President)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Victor Andonie is President of MSG Management, Inc., a San Antonio commercial real estate / property management and brokerage firm (SABOR-registered broker) whose portfolio includes Comerica Bank Plaza and 4040 Broadway. The 'Real Estate' occupation and Shavano Park (78230) location match; he appears in San Antonio city records via MS410 Partners, LLC for a development request. No PAC, lobbyist, or ideological-advocacy affiliations documented.",
+    "source_url": "https://msgmanagement.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "65a53266-e951-407e-b2c2-5f286020b130",
+    "name": "Hesse, Renata",
+    "resolved_employer": "Sullivan & Cromwell LLP (Partner, co-head of Antitrust Group)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Renata B. Hesse is a partner and co-head of the Antitrust Group at Sullivan & Cromwell LLP in Washington, DC. She previously spent 15+ years at the DOJ Antitrust Division, twice serving as Acting Assistant Attorney General for Antitrust (through Jan. 20, 2017). The 'Lawyer' occupation and Washington DC 20005 location match. No ideological PAC, lobbyist registry, or advocacy-org affiliations documented; prior government service is employment history, not an advocacy affiliation.",
+    "source_url": "https://www.sullcrom.com/Lawyers/Renata-B-Hesse",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

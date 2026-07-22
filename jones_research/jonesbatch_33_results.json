@@ -1,0 +1,250 @@
+[
+  {
+    "donor_id": "3f8108a4-93bc-4034-becb-6cf3dc8baeee",
+    "name": "Smiley, Brett",
+    "resolved_employer": "Mayor, City of Providence, RI (39th Mayor, took office Jan 2023; former COO of Providence and chief of staff to Gov. Gina Raimondo)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Brett P. Smiley is the sitting Democratic Mayor of Providence, RI; zip 02906 and City of Providence employer match exactly. Openly gay elected official, married to Jim DeRentis.",
+    "source_url": "https://www.providenceri.gov/mayor/mayor-brett-smiley/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of Providence", "role": "Mayor (elected Democrat)", "category": "political", "source_url": "https://ballotpedia.org/Brett_Smiley", "snippet": "39th Mayor of Providence, Democratic Party, assumed office January 2, 2023."},
+      {"org": "LGBTQ+ Victory Fund", "role": "Endorsed candidate", "category": "civic", "source_url": "https://victoryfund.org/candidate/brett-smiley/", "snippet": "Brett Smiley listed as an LGBTQ+ Victory Fund candidate."}
+    ]
+  },
+  {
+    "donor_id": "3eb895cc-0685-4d2b-ba1c-5eebde0ab29f",
+    "name": "Jimenez, Dr. Richard",
+    "resolved_employer": "Core faculty member (Professor), College of Health Sciences and Public Policy, Walden University; PhD/DrPH Public Health programs",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Dr. Richard Jimenez, DrPH (UT School of Public Health 2005), core Walden University public-health faculty, 30+ yrs in public health incl. CDC and UT McGovern Medical School; matches occupation/employer. San Antonio 78209 resident.",
+    "source_url": "https://www.waldenu.edu/why-walden/faculty/richard-jimenez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3d016b06-15a3-4402-81f5-36176520f578",
+    "name": "Watters, Jeff",
+    "resolved_employer": "Partner, Gray Reed & McGraw LLP (Houston) — trusts & estates litigation and administration",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Jeffrey D. Watters Jr., Partner at Gray Reed & McGraw, Houston; Baylor Law JD, licensed in TX since 2008, former Baker Botts senior associate, 2025 Super Lawyers. Matches Houston 77006 attorney at named firm. Not found in TX Ethics Commission lobbyist registry.",
+    "source_url": "https://www.grayreed.com/Our-People/Jeffrey-Watters",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3cc48d8d-c474-4d8c-958e-a2eecd86a1d0",
+    "name": "Biggio, Andrew",
+    "resolved_employer": "First Indemnity Insurance Group (Lynn/Marblehead, MA) — professional-liability insurance agency (owner/founder or program manager)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Andrew Biggio is tied to First Indemnity Insurance in the Marblehead/Lynn MA area (matches employer/occupation/zip). Note: two same-named men appear here — the agency founder (est. 1989) and a younger USMC-veteran author of 'The Rifle'/Boston police officer who runs New England's Wounded Veterans nonprofit; could not conclusively determine which is the donor, so no veteran-advocacy affiliation attached.",
+    "source_url": "https://www.firstindemnity.net/company-history/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "First Indemnity Insurance Group", "role": "Owner/founder or program manager", "category": "business", "source_url": "https://www.linkedin.com/in/andrew-biggio-a683565b/", "snippet": "Andrew Biggio, First Indemnity Insurance Agency, Inc — specialty professional-liability insurance for attorneys and other professionals."}
+    ]
+  },
+  {
+    "donor_id": "39ea98c4-02b3-476f-9df6-ff2219d8de5c",
+    "name": "Nieland, Chelsea",
+    "resolved_employer": "Agent / Head of Production, Artist Rep Inc (Los Angeles) — commercial photography & stylist representation agency",
+    "industry": "Media",
+    "confidence": "medium",
+    "evidence": "Chelsea Nieland is an agent/Head of Production at a commercial photo-rep agency (Brooks Institute photography grad), matching occupation 'photography agent' at Artist Rep Inc, LA 90038. Limited public profile beyond agency/business listings; no policy affiliations found.",
+    "source_url": "https://www.zoominfo.com/p/Chelsea-Nieland/1961549912",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "38cf105d-5858-4477-bd1e-eba148543d7c",
+    "name": "Orr, Carol",
+    "resolved_employer": "Self-employed (publishing)",
+    "industry": "Media",
+    "confidence": "low",
+    "evidence": "Self-described publishing self-employed in Dallas 75230 and an extremely prolific small-dollar Democratic donor (734 FEC records, incl. ActBlue). Multiple people named Carol Orr in Dallas; no single bio page uniquely confirms this specific individual beyond the generic occupation.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "36f6dee2-9d06-4df3-a78a-3514fd542c6a",
+    "name": "Weber, Marcia",
+    "resolved_employer": "Southern Tier Central Regional Planning & Development Board, former Executive Director (retired)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Marcia D. Weber of Painted Post, NY 14870 is a prolific Democratic donor (EMILY's List, Duckworth, Rosen, McGinty in 2016) who reported employment as Executive Director of the Southern Tier Central regional planning board; now lists Not Employed (retired). Zip and donor pattern corroborate.",
+    "source_url": "https://www.campaignmoney.com/political/contributions/marcia-weber.asp?cycle=16",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "334f9a6f-15f9-4579-8fd0-ca91ee8a9555",
+    "name": "Henderson, Carl",
+    "resolved_employer": "Law Office of Carl R. Henderson / Opeche Corp (retired attorney; self-directed investments)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Address 2508 Wild Wind Pl, The Woodlands/Spring TX 77380 exactly matches the solo law practice of Carl R. Henderson (Baylor Law J.D., TX Bar #00784247). FEC occupation 'Retired/Investments' fits a retired attorney managing his own investments; 232 FEC records.",
+    "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=148798",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "32902b8f-3604-478a-b73a-c9085922696e",
+    "name": "Martinez-Flores, Martha",
+    "resolved_employer": "MM Creative — owner/creative director (branding & marketing studio)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Martha Martinez-Flores, San Antonio 78212, founded MM Creative (2011), a creative/marketing consulting studio; clients incl. H-E-B, YWCA, Girl Scouts, City of San Antonio. Address and occupation match. Active in civic/city boards.",
+    "source_url": "https://sabookfestival.org/staff-board/martha-martinez-flores/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hemisfair Park Area Redevelopment Corporation", "role": "Board member (2023-2025)", "category": "civic", "source_url": "https://sabookfestival.org/staff-board/martha-martinez-flores/", "snippet": "Bio lists 'Hemisfair Park Area Redevelopment Board (2023-2025)' among her civic roles."},
+      {"org": "City of San Antonio Charter Review Commission", "role": "Appointee (2024)", "category": "civic", "source_url": "https://sabookfestival.org/staff-board/martha-martinez-flores/", "snippet": "Bio lists 'Charter Review Commission appointee (2024)'."},
+      {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Executive Board / Marketing Committee chair", "category": "business", "source_url": "https://sabookfestival.org/staff-board/martha-martinez-flores/", "snippet": "Bio: 'San Antonio Hispanic Chamber of Commerce Executive Board (chaired Marketing Committee).'"}
+    ]
+  },
+  {
+    "donor_id": "31b1f077-78d7-415a-8ad9-f5bed860579b",
+    "name": "Sally Rose, Joan Lenane And",
+    "resolved_employer": "The Provincetown Banner — Sally Rose (editor/production); Joan Lenane (former GM/COO, now Gibson Sotheby's realtor)",
+    "industry": "Media",
+    "confidence": "medium",
+    "evidence": "Joint Provincetown MA 02657 registration of partners Joan A. Lenane and Sally Rose. Sally Rose was editor/production at The Provincetown Banner newspaper; Joan Lenane was its general manager/COO (now a Gibson Sotheby's real estate agent). 'Editor / Self-Employed' occupation matches.",
+    "source_url": "https://buildingprovincetown.wordpress.com/2010/01/09/15-center-street-2015/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "31487cc0-73b6-409a-a477-4ddd14ea3fa7",
+    "name": "Ouzillou, Yael",
+    "resolved_employer": "Y'alla Collaborative (founder) — development & fundraising consulting firm; longtime progressive/Democratic campaign finance operative",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Yael Ouzillou founded Y'alla Collaborative in 2020 after 25+ years on national/state/local campaigns and in progressive nonprofits; was Deputy National Finance Director (South Central) for Hillary Clinton's 2016 presidential campaign. Austin 78704 consultant matches.",
+    "source_url": "https://www.newcostrategies.com/strategic-partners/yael-ouzillou",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hillary for America (2016)", "role": "Deputy National Finance Director, South Central region", "category": "political", "source_url": "https://www.newcostrategies.com/strategic-partners/yael-ouzillou", "snippet": "Deputy National Finance Director overseeing the South Central region for Hillary Clinton's 2016 presidential campaign; raised over $40 million in the region."},
+      {"org": "Y'alla Collaborative", "role": "Founder / fundraising consultant", "category": "political", "source_url": "https://yallacollaborative.com/", "snippet": "Founded 2020; provides development and fundraising consulting to progressive and nonprofit organizations after 25+ years on political campaigns."}
+    ]
+  },
+  {
+    "donor_id": "311bffd3-4041-4edf-b234-6ae1c05ce94f",
+    "name": "Barton, Jordana",
+    "resolved_employer": "Barton-Garcia Advisors LLC (nonprofit/community-development consultant); formerly Senior Advisor for Community Development, San Antonio branch of the Federal Reserve Bank of Dallas",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Nationally known digital-equity/broadband and community-development researcher; lead author of Dallas Fed reports on colonias and 'Closing the Digital Divide.' San Antonio 78255 nonprofit consultant matches the noted profile.",
+    "source_url": "https://sanantonioreport.org/techtonics-jordana-barton-on-the-digital-divide-and-the-threat-to-economic-justice/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Federal Reserve Bank of Dallas (San Antonio branch)", "role": "Senior Advisor for Community Development (former)", "category": "civic", "source_url": "https://sanantonioreport.org/techtonics-jordana-barton-on-the-digital-divide-and-the-threat-to-economic-justice/", "snippet": "Senior advisor for community development promoting CRA compliance, digital inclusion, affordable housing and workforce development."},
+      {"org": "San Antonio Digital Inclusion Alliance / Digital Opportunity for the Rio Grande Valley (DO4RGV)", "role": "Steering Committee member", "category": "civic", "source_url": "https://salud-america.org/closing-the-digital-divide-amid-covid-19-outbreak/", "snippet": "Serves on the steering committee for San Antonio's Digital Inclusion Alliance and the DO4RGV collective-impact project."}
+    ]
+  },
+  {
+    "donor_id": "3109dd34-466c-44de-a8e3-45188f7394ec",
+    "name": "FAGAN, RORY",
+    "resolved_employer": "Oracle — Vice President, Area of Sales (enterprise software; hospitality/gaming revenue management)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Rory Fagan is VP of Sales at Oracle, based in San Antonio, 15+ years enterprise software sales (prior Senior Sales Director at Oracle, earlier TIBCO); matches 78257 Oracle sales occupation. FEC results for 'Fagan' pertain to unrelated candidate Linsey Fagan, not this donor.",
+    "source_url": "https://www.linkedin.com/in/rory-fagan-7873072/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2c76fbdd-6bb1-4705-be11-aad514d04f3c",
+    "name": "Aldridge, Lawrence",
+    "resolved_employer": "Not Employed — prolific small-dollar Democratic donor (FEC count ~150); specific individual not conclusively confirmed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Austin donor listed as Not Employed at 78759 with a high FEC contribution count (~150), consistent with a recurring ActBlue small-dollar Democratic donor. Multiple Lawrence Aldridges exist in Austin (78703 entrepreneur, 78705 real estate); could not confirm which is the 78759 person, so no affiliation asserted.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2be4b277-4fc5-4ca1-9a20-a621dacd6038",
+    "name": "Martinez, Philippa",
+    "resolved_employer": "Frontwood Strategies — Vice President (communications & public affairs for nonprofit clients)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Philippa Martinez-Berrier is VP at Frontwood Strategies (Austin-based, grew up in San Antonio); handles media relations and stakeholder engagement; prior at Giant Noise and SKDKnickerbocker; Dartmouth Government grad. She was contracted as outside PR/communications help for Mayor Gina Ortiz Jones' office at $10K/month. 78704 comms/Frontwood matches exactly.",
+    "source_url": "https://www.frontwoodstrategies.com/who-we-are",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio Mayor's Office (via Frontwood Strategies contract)", "role": "Outside communications/PR consultant to Mayor Gina Ortiz Jones", "category": "political", "source_url": "https://www.ksat.com/news/ksat-investigates/2025/09/10/taxpayers-paying-10k-a-month-for-san-antonio-mayor-jones-outside-pr-help/", "snippet": "Frontwood Strategies contract provided Martinez-Berrier's PR services to Mayor Jones' office at $10,000/month for roughly five months."}
+    ]
+  },
+  {
+    "donor_id": "29df4623-cd39-4daf-8730-6925c6313a43",
+    "name": "Harada, Christine",
+    "resolved_employer": "California Government official (CPUC Commissioner as of 2026; formerly U.S. Federal Chief Sustainability Officer / OMB / GSA)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Same person as the noted federal official: Christine Harada is from La Crescenta-Montrose CA (matches zip 91214), Federal Chief Sustainability Officer 2015-17, OMB Senior Advisor 2023-25, CA GovOps Undersecretary 2025, appointed to CA Public Utilities Commission Feb 2026. 'Not Employed' likely reflects a between-roles moment at time of donation.",
+    "source_url": "https://www.cpuc.ca.gov/news-and-updates/all-news/from-aerospace-engineering-to-public-service-meet-commissioner-christine-harada",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "U.S. White House Council on Environmental Quality / California Public Utilities Commission", "role": "Federal Chief Sustainability Officer (2015-17); CPUC Commissioner (2026)", "category": "political", "source_url": "https://www.cpuc.ca.gov/news-and-updates/all-news/from-aerospace-engineering-to-public-service-meet-commissioner-christine-harada", "snippet": "Senior federal and California government official specializing in sustainability, permitting reform and infrastructure; appointed to CPUC by Gov. Newsom."}
+    ]
+  },
+  {
+    "donor_id": "28f2aba5-91b9-47f3-a6f4-315cde96727d",
+    "name": "Qadri, Zohaib",
+    "resolved_employer": "City of Austin (Austin City Council Member, District 9)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Zohaib 'Zo' Qadri, Austin City Council Member for District 9 (took office Jan 2023), address and occupation match. Chairs Economic Opportunity Committee, vice chair Mobility Committee, CapMetro board.",
+    "source_url": "https://www.austintexas.gov/department/about-council-member-zohaib-zo-qadri",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin City Council", "role": "Council Member, District 9", "category": "political", "source_url": "https://ballotpedia.org/Zohaib_Qadri", "snippet": "Elected member of the Austin City Council representing District 9 since January 2023; focus on housing affordability and transit."}
+    ]
+  },
+  {
+    "donor_id": "27a455ee-c55d-4e9b-9948-2fffdf722a3c",
+    "name": "Bodary, Sheree",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Sheree L. Bodary of Victor, NY 14564 matches address/zip; public records show a 2004 individual donation ($1,000) to Kerry-Edwards. No occupation, employer, board seats, or advocacy-org affiliation found in public sources.",
+    "source_url": "https://www.city-data.com/elec/elec-VICTOR-NY.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2503c24a-09fe-4931-b7cf-e96ee4732b92",
+    "name": "Griffin, Chad",
+    "resolved_employer": "Emerson Collective (executive/director); former President of the Human Rights Campaign",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed Chad Griffin, former President of the Human Rights Campaign (2012-2019) and co-founder/board president of the American Foundation for Equal Rights (Prop 8 / Hollingsworth v. Perry); occupation 'Executive, Emerson Collective' matches his current role.",
+    "source_url": "https://en.wikipedia.org/wiki/Chad_Griffin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Human Rights Campaign", "role": "President (2012-2019)", "category": "civic", "source_url": "https://www.hrc.org/press-releases/hrc-president-chad-griffin-announces-departure-in-2019", "snippet": "Led the largest U.S. LGBTQ civil-rights organization; central to marriage-equality and Equality Act campaigns."},
+      {"org": "American Foundation for Equal Rights (AFER)", "role": "Co-founder / Board President", "category": "civic", "source_url": "https://afer.org/media/videos/afer-board-president-chad-griffin-on-msnbc/", "snippet": "Co-founded AFER in 2009, which sponsored the federal challenge to California's Prop 8 (Hollingsworth v. Perry)."},
+      {"org": "Emerson Collective", "role": "Executive / Director", "category": "business", "source_url": "https://www.crunchbase.com/person/chad-griffin-2", "snippet": "Serves in an executive/director role at Emerson Collective, Laurene Powell Jobs's philanthropic/investment organization."}
+    ]
+  },
+  {
+    "donor_id": "24da37f5-d0ca-4850-81c0-dc18a2df3a44",
+    "name": "Cotton, Betsy",
+    "resolved_employer": "Self-employed nonprofit/community-development consultant (Women's Catalytic Fund; UC Berkeley City & Regional Planning PhD)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Betsy Cotton of Berkeley CA 94705 works in nonprofit management/community development consulting since 1990 (UC Berkeley planning PhD), affiliated with the Women's Catalytic Fund; public record shows a $1,250 contribution to Close The Gap CA (elects progressive women to CA legislature). Occupation/employer 'nonprofit management/self' match.",
+    "source_url": "https://projects.propublica.org/527-explorer/contributions/127152244",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Close The Gap CA", "role": "Donor", "category": "political", "source_url": "https://projects.propublica.org/527-explorer/contributions/127152244", "snippet": "Contributed $1,250 to Close The Gap CA, a 527 focused on electing progressive women to the California Legislature."},
+      {"org": "Women's Catalytic Fund", "role": "Affiliated (per LinkedIn)", "category": "civic", "source_url": "https://www.linkedin.com/in/betsycotton/", "snippet": "LinkedIn lists affiliation with the Women's Catalytic Fund; long career in nonprofit/community & economic development consulting."}
+    ]
+  }
+]
