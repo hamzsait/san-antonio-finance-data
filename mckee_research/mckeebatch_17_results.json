@@ -1,0 +1,242 @@
+[
+  {
+    "donor_id": "999c4e58-f266-4851-a03e-f438cd80e879",
+    "name": "Jeudy, Wil",
+    "resolved_employer": "Next Level Urgent Care, Houston TX (urgent-care / family-medicine physician; Dr. Wilner 'Wil' Jeudy, MD)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Wilner 'Wil' Jeudy, MD is an urgent-care/family-medicine physician at Next Level Urgent Care in Houston (McGovern Med School grad); matches name, Houston 77008 area, and physician occupation. He is also a public secular activist (Texas State Director for American Atheists), which corroborates identity via his own published bios.",
+    "source_url": "https://www.healthgrades.com/physician/dr-wilner-jeudy-xvdr9",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "American Atheists",
+        "role": "Texas State Director; chair of the Secular Advocacy Team (tracks/testifies on TX legislative bills); 2022 Activist of the Year",
+        "category": "civic",
+        "source_url": "https://convention.atheists.org/speakers/wil-jeudy",
+        "snippet": "As Texas State Director for American Atheists he gives 'a political voice to secularism and atheism at both the state and local levels' and 'is the chair of the American Atheists Secular Advocacy Team which tracks and testifies for/against bills during the Texas legislative session.'"
+      },
+      {
+        "org": "Houston Oasis / Secular Houston",
+        "role": "Board member (Houston Oasis, joined board 2018); founder of Secular Houston",
+        "category": "civic",
+        "source_url": "https://goodmenproject.com/featured-content/wil-jeudy-texan-american-atheism-sjbn/",
+        "snippet": "Joined the Houston Oasis freethought group board in late 2018 and formed a group called Secular Houston to give local secular politics a voice."
+      }
+    ]
+  },
+  {
+    "donor_id": "6cf0a39c-5fb2-4efc-8a20-3963e49cb3b5",
+    "name": "Wilson, Tobi",
+    "resolved_employer": "GC Services Limited Partnership, Knoxville TN (HR Manager; GC Services is a large debt-collection / business-process-outsourcing call-center firm)",
+    "industry": null,
+    "confidence": "high",
+    "evidence": "Tobi Wilson is confirmed as Human Resources Manager at GC Services Limited Partnership in Knoxville, TN (RocketReach/Adapt.io business listings, LinkedIn), matching name, employer, occupation, and Knoxville 37914 location. GC Services is a debt-collection/BPO firm with a Knoxville call center; no clean taxonomy bucket, so industry left null. FEC donation count 0; no PAC or lobbyist records found.",
+    "source_url": "https://rocketreach.co/tobi-wilson-email_5618038",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "89d7dac7-7fbc-4513-917c-f80432301073",
+    "name": "Block, Robinson",
+    "resolved_employer": "Houston Fire Department, Houston TX (firefighter, per donor record)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "No independent public profile (LinkedIn/news/union page) located to corroborate this specific individual; classification rests on the donor-record occupation (Houston Fire Department firefighter) at Houston 77009. Categorize-by-employer fallback: a municipal firefighter is a public-sector (Government) employee. FEC/lobbyist searches returned nothing tied to this individual.",
+    "source_url": "https://www.houstontx.gov/fire/firefighterinfo/index.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d9de1982-269c-45e3-aa7e-42eb2d0c64a0",
+    "name": "Jackson, Kort",
+    "resolved_employer": "Alamo Colleges District / Northwest Vista College, San Antonio TX (Assistant Professor of Government; Kort Everett Jackson, MA Political Science, UTSA)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Kort (Everett) Jackson is confirmed as an Assistant Professor of Government at Alamo Colleges District / Northwest Vista College in San Antonio (ZoomInfo, LinkedIn, RateMyProfessors), matching name, San Antonio 78228 location, and Faculty/Adjunct occupation. Holds an MA in Political Science from UTSA; teaches federal/state government courses. No lobbyist registration or issue-PAC affiliations found.",
+    "source_url": "https://www.linkedin.com/in/korteverettjackson/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ee5d7b2c-8ab5-4c57-bb0f-38eebdb49e47",
+    "name": "Velazquez, Vanessa",
+    "resolved_employer": "Vanessa Velazquez Photography / VVP Media LLC (self-employed event & portrait photographer)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Vanessa Campa Velazquez, San Antonio-based self-employed corporate/nonprofit event and portrait photographer who opened her studio in 2011. Name, occupation (Photographer), self-employed status, and San Antonio location all match donor record exactly.",
+    "source_url": "https://www.vanessavelazquez.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "14e20828-f8a7-4702-899a-7a4ea27aa735",
+    "name": "Garcia, Gregory",
+    "resolved_employer": "Self-employed, construction",
+    "industry": "Construction",
+    "confidence": "low",
+    "evidence": "Self-employed construction worker, San Antonio 78201. Very common name; no public professional profile or news found to confirm the specific individual. Industry assigned via categorize-by-employer fallback from the stated occupation. High fec_donation_count (67) is consistent with recurring small-dollar giving but could not be tied to a confirmed profile.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2db7981c-d4b7-4e53-ae7f-0381b7e0afa2",
+    "name": "Castaneda, Carlos",
+    "resolved_employer": "Not Employed",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as Not Employed, San Antonio 78209. Very common name with many same-named individuals in TX; no public profile, lobbyist registration, or notable PAC record could be corroborated to this specific person. No industry inferred beyond the stated 'Not Employed' status.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e9f55750-2ad4-461f-9c87-3a22245bb472",
+    "name": "Addicks, Gloria",
+    "resolved_employer": "Zayo Group (fiber/telecom infrastructure), Project Manager",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "An Addicks working as a Project Manager at Zayo Group in San Antonio is confirmed via LinkedIn (profile under Adrianna Addicks, X handle @gloryadd, which ties to 'Gloria'); the rare surname plus the Zayo employer match the donor record, though there is some ambiguity between the Gloria/Adrianna first-name variants or a related household member. Zayo is a fiber/telecom company, categorized as Technology.",
+    "source_url": "https://www.linkedin.com/in/adrianna-addicks-4341b5168",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c60c794e-be19-42ef-9f3b-8e5451fbadd7",
+    "name": "Dominguez, Laura",
+    "resolved_employer": "Lumina Wellness (San Antonio med spa/wellness clinic); medical assistant / clinic coordinator",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Common name; could not confirm this specific individual via a public profile. The prominent 'Laura M Dominguez, MD' (UTHSCSA otolaryngologist) is a different person (physician, not a medical assistant). Categorized by stated employer/occupation only (78220, East San Antonio).",
+    "source_url": "https://luminawellnesscenter.com/about-lumina-med-spa-san-antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "313ef440-5181-4b82-80b0-467f5558cd6f",
+    "name": "Barrera, Marisela",
+    "resolved_employer": "Assistant Professor of English, Northwest Vista College (Alamo Colleges); Tejana writer/teatrista",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Strong match: Marisela Barrera is an Assistant Professor of English at Northwest Vista College (Alamo Colleges), San Antonio, and a Tejana writer/performer (BFA SMU, MA/MFA Our Lady of the Lake). Matches occupation, employer, and city. No policy-advocacy org role with a corroborating source found.",
+    "source_url": "https://www.linkedin.com/in/marisela-barrera-4925856/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e9e15f46-b391-4a46-8794-33ca20966196",
+    "name": "garcia, alexus",
+    "resolved_employer": "Texas Freedom Network (progressive nonprofit advocacy org); organizer / manager",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "Employer (Texas Freedom Network, a progressive advocacy nonprofit) is from the donation record; TFN is San Antonio-active. A 'Garcia, Alexus' (San Marcos) appears on a 2019 TX House State Affairs witness list, plausibly the same person earlier. Could not independently confirm her specific TFN role via a bio page (a different 'Alexus Garcia' works at Ontic in Austin). Categorized by stated employer only.",
+    "source_url": "https://tfn.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f9013c18-036a-4904-9fbe-b1d4c6c6b6af",
+    "name": "McKinney, Jan",
+    "resolved_employer": "Associate Dean of Students, University of Texas at San Antonio (UTSA)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Strong match: Jan McKinney is Associate Dean of Students at UTSA (jan.mckinney@utsa.edu), previously Director of Communications & Administration in Student Affairs. Matches occupation, employer, and San Antonio location.",
+    "source_url": "https://www.utsa.edu/students/about/meet-our-staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dafad26e-bb3c-4c57-8e24-9b8348c87bc5",
+    "name": "Sandoval, Ana",
+    "resolved_employer": "University Health (Bexar County Hospital District) - health equity role in its research unit; former San Antonio City Council member (District 7)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as former SA City Councilwoman Ana Sandoval (D7, West Side, 2017-2023), who left council to take a health-equity research position at University Health (the Bexar County Hospital District). MPH (Harvard) + environmental engineering background; Donaldson Ave / 78228 is within her old West Side district, matching the 'Assistant Director, Bexar County Hospital District' occupation. High FEC donation count (65) consistent with a politically active former elected official.",
+    "source_url": "https://www.sacurrent.com/news/san-antonio-councilwoman-ana-sandoval-stepping-down-to-work-for-university-health-30824861",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio City Council, District 7", "role": "Former Councilwoman (2017-2023)", "category": "political", "source_url": "https://ballotpedia.org/Ana_Sandoval", "snippet": "Assumed office June 1, 2017; left office January 29, 2023, representing District 7 on the West Side of San Antonio."}
+    ]
+  },
+  {
+    "donor_id": "9005c767-b3ec-4826-a400-f29f37382737",
+    "name": "Castro, Maria",
+    "resolved_employer": "Tiny Brain LLC / 'The Tiny Brain Project' - independent lettering artist and graphic designer, San Antonio",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Instagram @thetinybrainproject identifies Maria Castro as a San Antonio-based designer ('Drawing letters & designing stuff'), matching the donor's 'Designer / Tiny Brain LLC' occupation. Small independent creative; no FEC federal donation history (count 0). Common name in San Antonio, but the Tiny Brain designer/employer match supports identity.",
+    "source_url": "https://www.instagram.com/thetinybrainproject/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7a23de08-356a-44cc-9011-96aa4f0fafd2",
+    "name": "Luckey, Lori",
+    "resolved_employer": "Capital Group (investment management firm; large San Antonio operations center at 3500 Wiseman Blvd) - client services",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Could not locate a personal profile confirming this specific Lori Luckey. Employer 'Capital Group' with a 'client services' role points to the investment-management firm Capital Group, which runs a large operations/client-services center in San Antonio; Universal City / 78148 is a nearby suburb. Categorized by employer under Finance; identity of the specific individual not independently confirmed. Minimal political footprint (FEC count 1).",
+    "source_url": "https://www.capitalgroup.com/about-us/office-locations.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cd81e3b8-24fd-4784-814b-976b6615342d",
+    "name": "Aguilar, Fernando",
+    "resolved_employer": "U.S. House of Representatives - was Constituent Services Rep / Veterans Affairs Specialist for Rep. Greg Casar (D-TX-35), Jul 2023-Sep 2025; involved with the Texans for John Lira (TX-35) campaign",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "LegiStorm confirms Fernando Aguilar as a congressional staffer for Rep. Greg Casar (Constituent Services Rep/Veterans Affairs Specialist, Jul 2023-Sep 2025). Army combat veteran and longtime friend of TX-35 candidate John Lira, whose campaign ('Texans for John Lira') he supports as a political staffer. San Antonio 78228 and high FEC activity (count 153) fit a Democratic congressional/political operative.",
+    "source_url": "https://www.legistorm.com/person/bio/469635/Fernando_Aguilar.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Office of Rep. Greg Casar (D-TX-35), U.S. House", "role": "Constituent Services Rep / Veterans Affairs Specialist (2023-2025)", "category": "political", "source_url": "https://www.legistorm.com/person/bio/469635/Fernando_Aguilar.html", "snippet": "Held position: Rep. Greg Casar (D-TX), July 2023-Sept. 2025, Constituent Services Representative/Veterans Affairs Specialist."},
+      {"org": "Texans for John Lira (TX-35 congressional campaign)", "role": "Campaign staffer / political director; combat-veteran supporter", "category": "political", "source_url": "https://www.fec.gov/data/committee/C00780023/", "snippet": "Aguilar, an Army veteran and longtime friend of Marine veteran candidate John Lira, is helping the Texans for John Lira campaign in the 2026 TX-35 Democratic primary."}
+    ]
+  },
+  {
+    "donor_id": "e4a65e23-e7e0-49cf-88ff-f97a5602e51d",
+    "name": "Hubbard, Andrew",
+    "resolved_employer": "AllianceBernstein (\"AB\"), operations manager — financial services",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Employer 'AB' plus 'Ops Manager' occupation maps to AllianceBernstein, which operates a large corporate operations center in San Antonio; a matching Andrew Hubbard with a financial-services operations background (later Edward Jones) appears in SA-area professional profiles. Common name, so identity not fully certain.",
+    "source_url": "https://www.linkedin.com/in/andrewvazquezhubbard/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "abaa593e-a766-4965-b823-66a05656b336",
+    "name": "Garcia, Jennifer",
+    "resolved_employer": "USAA (financial services / insurance), senior specialist",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Very common name; no public professional profile could be uniquely matched to this Jennifer Garcia. Categorized by stated employer USAA (San Antonio-based financial services/insurance) per the employer-fallback rule. No lobbyist or PAC record found.",
+    "source_url": "https://www.usaajobs.com/location/san-antonio-jobs/1207/6252001-4736286-4726206/4",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6aa3d56a-d106-4a10-96df-f22915073034",
+    "name": "Munoz, Justin",
+    "resolved_employer": "Visit San Antonio (destination marketing / tourism org) — Chief Engagement Officer, previously Chief of Staff & Head of DEI; formerly Trinity University partnership manager and VP of Development at the Witte Museum",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Identity well corroborated: LinkedIn and Trinity University pages confirm a San Antonio-based Justin Munoz who is Chief Engagement Officer at Visit San Antonio (formerly Chief of Staff/Head of DEI), prior partnership manager at Trinity and VP Development at the Witte Museum — matching the donor's occupation and employer fields. Classed as Hospitality/Events given Visit SA is the city's tourism/destination-marketing organization.",
+    "source_url": "https://www.linkedin.com/in/thejustinmunoz/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4fa475ed-780e-48f3-9c9d-a2936cb436c5",
+    "name": "Ramirez, Cesar",
+    "resolved_employer": "Napa Wine Company (Oakville/Yountville, CA winery), enologist / winemaking",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name; could not uniquely confirm a specific Cesar Ramirez on Napa Wine Company's team pages or press. Out-of-state (Yountville, CA 94599) donor to a San Antonio D2 race. Stated occupation (enologist) and employer (Napa Wine Company) point to winemaking/agriculture, which has no clean match in the provided taxonomy, so industry left null per the 'when uncertain' rule. No lobbyist or federal PAC record found.",
+    "source_url": "https://www.napawineco.com/our-story/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

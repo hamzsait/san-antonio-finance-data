@@ -1,0 +1,245 @@
+[
+ {
+  "donor_id": "e3a5be94-980c-4f25-8b8b-bae0125e3f80",
+  "name": "Nava, Juan",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Not Employed' donor in Laredo (78043), $100 total, no FEC federal donation history. 'Juan Nava' is a very common name; no public record confirms this specific individual, so identity is unresolved.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dc649286-4cbe-4322-979e-aebed2fe3fc0",
+  "name": "Collins, Emily",
+  "resolved_employer": "Council aide; employer listed as 'LGC', likely a local government / city council office",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'Council Aide' (employer 'LGC') in Alamo Heights (78209), 17 FEC donations with fully Democratic partisan lean. Could not confirm the specific individual or definitively identify 'LGC'; industry assigned by generic occupation (government/council staff).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "db076906-4b05-4d39-8457-b0a2a2391b17",
+  "name": "Campa, Joe",
+  "resolved_employer": "University Health (Digital Marketing Administrator), San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Joe Campa is Digital Marketing Administrator at University Health, San Antonio's public hospital system; BA in Marketing from University of the Incarnate Word (2013-2017). Matches employer 'University Health' and 'Digital Marketer' occupation. His 69 FEC donations appear to be small-dollar ActBlue giving; no ideological PAC ties documented.",
+  "source_url": "https://www.linkedin.com/in/joe-campa-6b788a140",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "daf346d5-66bd-48fe-a042-2750623e19b8",
+  "name": "Jove, Rubidia",
+  "resolved_employer": "Dallas Independent School District (Assistant Principal / Principal)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Rubidia Jove, M.Ed., is a Dallas ISD administrator (assistant principal since 2020, later principal of Winnetka Elementary); BA in Political Science from Texas Tech, M.Ed. in Urban School Leadership from SMU. Matches 'Dallas ISD' / 'Assistant principal'. No PAC or lobbyist records.",
+  "source_url": "https://winnetka.dallasisd.org/team-dallas-isd/meet-our-principal",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d9af036a-58b0-4202-85f2-82363b803950",
+  "name": "Silverman, Brandon",
+  "resolved_employer": "Co-founder/CEO of CrowdTangle (acquired by Facebook 2016); left Meta Oct 2021; now social-media transparency policy advisor",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Brandon Silverman of Oakland is the notable tech figure who co-founded and led CrowdTangle, ran it inside Facebook/Meta as a platform-transparency tool until October 2021, and now advises lawmakers on platform-data legislation (affiliate at Berkman Klein Center and Knight-Georgetown Institute). Matches 'Director'/'Facebook'/Oakland 94610. No ideological PAC or TX lobbyist records found.",
+  "source_url": "https://kgi.georgetown.edu/people/brandon-silverman/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d9797fa5-369b-4451-a795-24799baf3958",
+  "name": "Naranjo, Paula",
+  "resolved_employer": "Unemployed / not in workforce",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Unemployed' at 7151 Woodlake Pkwy, 78218. Could not confirm a specific public identity; a 'Paula Naranjo' real-estate investor turned up in records but is tied to New Braunfels, not this 78218 address, so likely a different person. Zero FEC donations; no TX lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d79fa427-dcab-4512-a876-77633c44fbbd",
+  "name": "Smith, James",
+  "resolved_employer": "Self-employed (nature of work undetermined)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Self' (self-employed) at 103 Armour, 78212. 'James Smith' is an extremely common name and no public record could be tied to this specific address/occupation. Donor record shows 55 FEC donations with a Democratic lean, but the giver cannot be confirmed as this individual. No TX lobbyist registration; no ideological PAC identified.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d4ef40c4-5c9e-46d6-a6b3-78e5bcd37723",
+  "name": "Benacci, Christina",
+  "resolved_employer": "Retired (formerly a self-employed attorney, San Antonio)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Exact address match (546 Pershing Ave, 78209) and 'Retired' occupation. Public records show a Christina Benacci as a San Antonio attorney (Martindale) who described herself as 'self-employed attorney' in FEC filings; her 320 FEC gifts are small-dollar ActBlue/Democratic donations (e.g., Bernie 2016), a prolific-but-generic partisan pattern. No single-issue ideological PAC (AIPAC, J Street, oil/gas, gun, defense) found; no TX lobbyist registration.",
+  "source_url": "https://www.martindale.com/attorney/christina-benacci-300332858/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d3a488a6-2839-4795-a91e-89e0a7d15177",
+  "name": "Castro Riojas, Maria Fernanda",
+  "resolved_employer": "Graphic designer; in-house designer for San Antonio City Council District 2, Graphic Design Lecturer at University of the Incarnate Word, and owner of the Tiny Brain design/illustration studio",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "UIW faculty bio names her side business 'Tiny Brain' (matching the donor's listed employer Tiny Brain LLC) and lists her day job as in-house graphic designer for City Council District 2 -- i.e., the same district office as the candidate she donated to. BFA (UIW) and MA in Design Management (SCAD); made San Antonio home in 2011. No TX lobbyist registration; zero FEC donations.",
+  "source_url": "https://www.uiw.edu/smd/directory/faculty-and-staff/maria-castro-riojas.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d34db5f6-e217-450a-bbf2-3b38e6559172",
+  "name": "Garcia, Lily",
+  "resolved_employer": "Not employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Not Employed' at 4523 Echo Grove, 78259. 'Lily/Lilly Garcia' is a very common name (100+ Texas matches) and no public record could be tied to this specific address. 3 FEC donations with a Democratic lean per the donor record, but identity of the giver cannot be confirmed. No TX lobbyist registration; no ideological PAC identified.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d1e4f368-f5e2-446f-86ef-63a69675b438",
+  "name": "Dawe, Justin",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Berkeley, CA (94705) donor listed as Not Employed; single $100 gift on 2021-05-21 during McKee-Rodriguez's first runoff, 0 FEC records. Multiple 'Justin Dawe' individuals exist in the Bay Area; could not confirm this specific donor, so no industry inference beyond stated 'Not Employed.'",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d1a5f14c-da8f-47bd-a6d1-af33bb51eaa6",
+  "name": "Guajardo, Victoria",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "San Antonio (78258) donor listed as Not Employed; $100 site total, 8 FEC donations with a fully Democratic-leaning pattern (fec_partisan_lean 1.0), consistent with a small-dollar ActBlue donor. 'Victoria Guajardo' is a common name in San Antonio and no public bio could be matched to this specific individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d126dc77-03c6-4600-ab74-26bbba43b625",
+  "name": "Johnson, Milicent",
+  "resolved_employer": "The Octavia Fund (founding Executive Director)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Oakland, CA (94609) civic/philanthropy figure. Founding Executive Director of The Octavia Fund (supporting Black women); nearly two decades in justice-oriented direct service, policy, advocacy, urban planning and philanthropy — prior roles at Tipping Point Community, Peers.org, Shareable, and The Greenlining Institute. Uncommon name and Oakland location corroborate identity.",
+  "source_url": "https://www.milicentjohnson.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "The Octavia Fund",
+    "role": "Founding Executive Director",
+    "category": "civic",
+    "source_url": "https://www.milicentjohnson.com/",
+    "snippet": "Milicent serves as founding Executive Director of The Octavia Fund, an organization focused on supporting Black women."
+   },
+   {
+    "org": "Tipping Point Community",
+    "role": "Manager (former, ~2014-2017)",
+    "category": "civic",
+    "source_url": "https://rocketreach.co/milicent-johnson-email_12981624",
+    "snippet": "Prior roles include Manager at Tipping Point Community and Community Reinvestment Fellow at The Greenlining Institute."
+   }
+  ]
+ },
+ {
+  "donor_id": "cfea3121-173d-4f3b-bdc7-731c1c3acd69",
+  "name": "Perez, Jesus",
+  "resolved_employer": "Keller Williams (realtor)",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Laredo, TX (78045) donor, occupation Realtor at Keller Williams; $100 gift, 0 FEC records. 'Jesus Perez' is a very common name and no public profile could be confirmed to this specific Laredo agent (closest LinkedIn match, 'Jesus Perez Jr.,' is a KW realtor in the Tampa area). Industry classified by stated occupation/employer only.",
+  "source_url": "https://www.linkedin.com/in/jesus-perez-jr-kw/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cc34fb3d-29df-4c22-ac40-5210004c83f4",
+  "name": "De La Cruz, Jose",
+  "resolved_employer": "Microsoft — State Government Affairs / Government Affairs Industry Manager",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "San Antonio (78252) donor; State Government Affairs Industry Manager at Microsoft, MPA from UT San Antonio. Previously San Antonio's first Chief Innovation Officer (~2012-2018) and worked at San Antonio Water System and the City of San Antonio — an influence/government-relations role. 133 FEC donations with a modest Democratic lean (0.578); no specific ideological PAC (AIPAC/J Street/oil & gas/defense/gun) contributions surfaced, and no confirmed Texas Ethics Commission lobbyist registration matched to him.",
+  "source_url": "https://www.govtech.com/people/San-Antonio-Bids-Farewell-to-Its-First-Innovation-Officer.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Microsoft",
+    "role": "State Government Affairs Industry Manager",
+    "category": "business",
+    "source_url": "https://www.govtech.com/people/San-Antonio-Bids-Farewell-to-Its-First-Innovation-Officer.html",
+    "snippet": "Now in state government affairs at Microsoft; formerly San Antonio's first innovation/chief innovation officer, a corporate government-relations role."
+   }
+  ]
+ },
+ {
+  "donor_id": "cad8f765-6157-4409-9363-edbb8c6b977b",
+  "name": "Gershman, Edward",
+  "resolved_employer": "Data Processor, Alamo Mailing Company (San Antonio direct-mail/printing firm)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Identity confirmed: LinkedIn and ZoomInfo both list Edward Gershman as Data Processor at Alamo Mailing Company in San Antonio, exactly matching the donor's occupation and employer. Alamo Mailing (est. 1981) is a print/direct-mail marketing services firm. No FEC PAC contributions and no TX lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/edward-gershman-3887b5136/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c88d740e-0fd5-4a70-819a-51eb384d021f",
+  "name": "Knecht, Lisa",
+  "resolved_employer": "Adjunct lecturer, UTSA; educational researcher (Ph.D.)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Lisa (Mendoza) Knecht, Ph.D., shows a San Antonio higher-ed profile consistent with the donor's 'Adjunct, UTSA' occupation: UTSA adjunct lecturer / graduate research fellow, former SAISD teacher, and Educational Research Associate at Trinity University. Name is moderately common, but the education-research profile aligns with the donor record. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://trinity.edu/directory/lknecht",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c7fdc3e7-6553-485f-bcfa-70f793169ddc",
+  "name": "Bell, Angela",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reports 'Not Employed.' Provided data show a prolific small-dollar giver (71 FEC records, fully Democratic partisan lean ~1.0, consistent with ActBlue-style recurring donations), but no specific ideological-PAC or organizational affiliation is documented in public records, and 'Angela Bell' is too common a name to confirm identity via web search. No independent bio, TX lobbyist registration, or named-PAC affiliation found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c738c29b-b2af-4992-af71-278646b5b377",
+  "name": "Muñoz, Justin",
+  "resolved_employer": "Vice President of Development, Witte Museum (at time of 2023 gift); subsequently Chief of Staff/Head of DEI and board member, Visit San Antonio",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Identity confirmed: Justin Muñoz served as VP of Development at the Witte Museum (a San Antonio nonprofit natural-history/science museum), matching the donor's 'Vice President, Witte Museum' occupation; he later became first Chief of Staff/Head of DEI at Visit San Antonio. His role is institutional/nonprofit, not political-ideological. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.wittemuseum.org/program-sponsorship/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c6a2b26d-0369-4f2c-a720-3524e21776d9",
+  "name": "Jackson, Ty",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor lists occupation 'Translator' in San Antonio (78238); the employer_string 'Check defense CRP' is a data-entry artifact/flag, not a real employer, and provides no basis for a defense-industry affiliation. 'Ty Jackson' is a common name with no confirmable San Antonio translator profile online, no FEC contribution records, and no TX lobbyist registration; the translator occupation maps to no clean taxonomy bucket, so industry is left null rather than guessed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

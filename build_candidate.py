@@ -41,6 +41,7 @@ ROSTER = [
     {"slug": "jones", "display": "Gina Ortiz Jones", "district": "Mayor", "race": "Elected June 2025"},
     {"slug": "galvan", "display": "Ric Galvan", "district": "District 6", "race": "Elected June 2025"},
     {"slug": "kaur", "display": "Sukh Kaur", "district": "District 1", "race": "Re-elected June 2025"},
+    {"slug": "mckeerodriguez", "display": "Jalen McKee-Rodriguez", "district": "District 2", "race": "Re-elected May 2025"},
 ]
 
 # Non-officeholders rendered with candidate framing instead of incumbent

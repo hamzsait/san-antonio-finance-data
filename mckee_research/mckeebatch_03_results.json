@@ -1,0 +1,233 @@
+[
+ {
+  "donor_id": "2c280947-1665-483d-b072-a801330aa244",
+  "name": "Sarah, Loredo",
+  "resolved_employer": "Saorsa Insurance Group LLC (Founder/Owner)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Founder/owner of Saorsa Insurance Group, an independent commercial P&C insurance agency in Spring Branch, TX (78070); ~15 years in insurance. Corroborated by LinkedIn, a Voyage San Antonio feature, and Corporationwiki records matching name, employer, and 78070 location.",
+  "source_url": "https://voyagesanantonio.com/interview/meet-sarah-loredo-of-saorsa-insurance-group/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2085d329-a98a-47d5-8d14-bb7df593bcc8",
+  "name": "Martinez, Martin",
+  "resolved_employer": "SMI (self-reported); a construction contractor operating in the 78242 area",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Self-reported contractor at 'SMI' in San Antonio 78242. A Martin Martinez contractor appears on BuildZoom in the same 78242 zip, matching occupation and location; very common name limits certainty. The FEC name-match count of 12 could not be reliably attributed to this individual.",
+  "source_url": "https://www.buildzoom.com/contractor/martin-martinez-del-valle",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "08a4a5c4-cb6e-41fb-abc1-2e6c4af67506",
+  "name": "Miller, Miranda",
+  "resolved_employer": "Meta (technical recruiter; previously Accenture)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Technical recruiter/sourcer based in San Antonio (78254) with 7+ years experience, currently in recruiting at Meta (donor filing lists 'Accenture,META'). LinkedIn profile matches name, location, and occupation. FEC name-match count of 130 not attributable to her specifically given name commonality.",
+  "source_url": "https://www.linkedin.com/in/miranda-miller-b9b7a0133/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "05c40d45-511c-4eda-9468-f42c2828a581",
+  "name": "McGee, Daina",
+  "resolved_employer": "U.S. Department of Veterans Affairs (Rating Veterans Service Representative)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Self-reported federal employee at the U.S. Department of Veterans Affairs as a Rating Veterans Service Representative, Webster, TX (77598, Houston area); shares the 428 Capano St address with donor Matilyn McGee (likely a relative). Specific federal job title indicates Government industry; no independent public profile located to corroborate beyond the filing, and no lobbyist or PAC records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "026d748e-9237-4d65-9d60-f941df855b84",
+  "name": "Zickler, Geoffrey",
+  "resolved_employer": "Self-reported 'Not Employed'; likely the same San Antonio Geoffrey Zickler who is Founder/Managing Partner of Revive Real Estate Investments (real estate investor; former Delta Granite sales)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Filing lists 'Not Employed' with a San Antonio PO Box (78246). A Geoffrey Zickler in San Antonio is a real estate investor and Founder/Managing Partner of Revive Real Estate Investments LLC, with prior sales work at Delta Granite. Same name and metro make this a probable match, though the filing's 'Not Employed' status leaves some uncertainty.",
+  "source_url": "https://opencorporates.com/companies/us_tx/0803113569",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "604e73fa-c49e-48f0-a67c-ca0c78ea83f2",
+  "name": "Harris, Jo Ann",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "San Antonio (78222) resident listing occupation/employer as Not Employed with 9 federal contributions (small-dollar Democratic donor pattern). Multiple people share this common name; no distinct public bio, board seat, or advocacy role could be corroborated to this specific individual.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jo+Ann+Harris&contributor_state=TX&contributor_zip=78222",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d154efc5-7e65-479d-8996-c58703ca0163",
+  "name": "Robinson, Dwayne",
+  "resolved_employer": "Robinson Consulting Group (Founder/CEO); VP Business Development at DSPolitical",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "San Antonio native and CEO of Robinson Consulting Group, a public-affairs/engagement firm whose reported clients include Mayor Ron Nirenberg, Julian & Joaquin Castro, and Bexar County Judge Nelson Wolff; also VP of Business Development at Democratic firm DSPolitical. Serves on the United Way Safety Net Impact Council and chairs the City MLK Jr. Commission; address 3419 Chateau Dr 78219 matches.",
+  "source_url": "https://leadafi.com/executive-biography/dwayne-robinson-passionately-advancing-entrepreneurship-innovation-and-strategic-growth/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Democratic political consulting (Robinson Consulting Group / DSPolitical)", "role": "Founder/CEO; VP Business Development", "category": "political", "source_url": "https://leadafi.com/executive-biography/dwayne-robinson-passionately-advancing-entrepreneurship-innovation-and-strategic-growth/", "snippet": "Runs a political/public-affairs firm with Democratic clients and works for DSPolitical, a Democratic digital-advertising firm."}
+  ]
+ },
+ {
+  "donor_id": "cc30fafa-aca7-4c0a-a61d-7fc2a1bfb749",
+  "name": "McGee, Matilyn",
+  "resolved_employer": "OrangeTheory Fitness (instructor) / Ben Taub Hospital (x-ray tech); student",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Young Webster/Houston-area resident listed across filings as student, OrangeTheory fitness instructor, and x-ray tech at Ben Taub Hospital; shares the 428 Capano St, Webster address with Daina McGee (likely a relative). No federal contributions and no public advocacy profile found.",
+  "source_url": "https://www.orangetheory.com/en-us/locations",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fd6e337d-9741-447a-b0c4-6dd2bfdd02a4",
+  "name": "Buck, Arden",
+  "resolved_employer": "Buck Research Instruments LLC (founder, semi-retired); former NBS/NCAR atmospheric scientist",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Arden L. Buck of Nederland, CO 80466; internationally recognized water-vapor-measurement authority who founded Buck Research Instruments (chilled-mirror hygrometers, 1989) and originated the standard 'Arden Buck' equations; formerly at the U.S. Bureau of Standards and NCAR. Federal small-dollar donor to progressive candidates.",
+  "source_url": "https://www.hygrometers.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "df5a36b9-fc0d-4526-85b1-c8dfad6865ec",
+  "name": "Ricks, Carlynn",
+  "resolved_employer": "Not Employed; volunteer leader (past President) at Therapy Animals of San Antonio",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "San Antonio (78209, Pershing Ave) resident, occupation Not Employed, and a longtime volunteer leader of Therapy Animals of San Antonio (two terms as President, 15 years training instructor, evaluation chair). Prolific small-dollar donor (25 federal contributions); no employer, board, or policy-advocacy role beyond the therapy-animals nonprofit.",
+  "source_url": "https://therapyanimalssa.org/2019/01/03/carlynn-ricks-and-hemi/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ba418f67-80cb-4992-b6ef-229004f4dbaa",
+  "name": "Tremillo, Michelle",
+  "resolved_employer": "Texas Organizing Project (co-founder & co-executive director, 2009-2025)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Well-known San Antonio progressive organizer; 4th-generation Tejana who co-founded the Texas Organizing Project (TOP) in 2009 and served as co-executive director until transitioning out at the end of 2025. Zip 78228 (west-side SA) and occupation match the filing.",
+  "source_url": "https://organizetexas.org/2025/06/michelle-tremillo-to-transition-from-co-executive-director-role-after-16-years-of-building-power-with-texas-organizing-project/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Organizing Project (TOP)", "role": "Co-founder & Co-Executive Director", "category": "political", "source_url": "https://organizetexas.org/2025/06/michelle-tremillo-to-transition-from-co-executive-director-role-after-16-years-of-building-power-with-texas-organizing-project/", "snippet": "Co-developed TOP's strategy and led its voter engagement program, described as the largest independent grassroots program in Texas, mobilizing Black and Latino voters."}
+  ]
+ },
+ {
+  "donor_id": "ad1b84b3-64a2-4e7c-aa2b-376f64cd4b0b",
+  "name": "Coy, Oona",
+  "resolved_employer": "Former organic vegetable farmer / farmers' market manager (Town Farm, Tuesday Market, Northampton MA); trustee of the Merck Family Fund",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Northampton, MA resident (zip 01060 matches filing) who co-ran Town Farm and founded the Tuesday Market; filed as 'Not Employed' but is a 4th-generation trustee of the Merck Family Fund, a family philanthropy focused on the environment and social justice.",
+  "source_url": "https://www.ncfp.org/people/oona-coy",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Merck Family Fund", "role": "Trustee", "category": "civic", "source_url": "https://www.ncfp.org/people/oona-coy", "snippet": "A 4th-generation member and trustee of the Merck Family Fund; former organic vegetable farmer and farmers' market manager in western Massachusetts."}
+  ]
+ },
+ {
+  "donor_id": "5e6b1193-f4f2-46d2-a20a-016eb06bb36f",
+  "name": "Dunn, Frank",
+  "resolved_employer": "Retired / self-employed (specific career unconfirmed)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public records place a Frank Dunn at 6511 Kings Crown Way, San Antonio 78233 (matches filing address and zip), but no public bio confirms a specific occupation. Several unrelated Frank Dunns in SA exist; none confirmed to be this resident. Filing occupation is 'Retired/Self'.",
+  "source_url": "https://www.locatepeople.org/frank-dunn/texas/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "543864d0-2daa-4ff4-96e1-87c9cf53e871",
+  "name": "Sandoval, Ana",
+  "resolved_employer": "City of San Antonio (former District 7 Councilwoman, 2017-Jan 2023); Senior Director of Special Projects at NALCAB",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Public figure: served as San Antonio City Council District 7 councilwoman (2017-2023, resigned Jan 2023), focused on infrastructure, public health, climate and transportation. MIT/Harvard-educated engineer; now Senior Director of Special Projects at NALCAB. Filing lists Councilmember / City of San Antonio.",
+  "source_url": "https://ballotpedia.org/Ana_Sandoval",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council, District 7", "role": "Councilwoman (2017-2023)", "category": "political", "source_url": "https://sanantonioreport.org/ana-sandoval-resigns-district-7-interim/", "snippet": "Elected 2017, reelected 2019; resigned Jan 2023 after championing infrastructure, public health and climate resiliency."},
+   {"org": "NALCAB (National Association for Latino Community Asset Builders)", "role": "Senior Director of Special Projects", "category": "civic", "source_url": "https://nalcab.org/team_member/ana-sandoval/", "snippet": "Serves as Senior Director of Special Projects; also sits on the board of the Greater Edwards Aquifer Alliance."}
+  ]
+ },
+ {
+  "donor_id": "21058539-5b9b-4de2-99a9-19186e43e3dd",
+  "name": "Salazar, Amador",
+  "resolved_employer": "San Antonio Alliance of Teachers and Support Personnel, Local 67 (union organizer); graduate student in Sociology at UTSA",
+  "industry": "Labor",
+  "confidence": "medium",
+  "evidence": "LinkedIn identifies Amador Salazar, San Antonio, as a Union Organizer at the San Antonio Alliance (Local 67, the SAISD teachers/support union) with a Master's in Sociology from UTSA, consistent with the filing occupation 'Graduate Student' at UTSA. No specific FEC PAC or lobbyist records tied to him.",
+  "source_url": "https://www.linkedin.com/in/amador-salazar-78842b34/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Alliance of Teachers and Support Personnel, Local 67", "role": "Union Organizer", "category": "civic", "source_url": "https://www.sanantonioalliance.org/about", "snippet": "Labor union for San Antonio ISD school workers, affiliated with NEA, AFT and the AFL-CIO; Salazar works as a union organizer."}
+  ]
+ },
+ {
+  "donor_id": "867423a7-ac07-4a11-aabd-da7b04d24af0",
+  "name": "Versteeg, Steve",
+  "resolved_employer": "FBD Partnership, LP (Frozen Beverage Dispensers) - Senior Product/Design Engineer",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Senior Product Engineer at FBD Partnership, the San Antonio frozen-beverage/soft-serve dispenser manufacturer; holds an MS in Mechanical Engineering from UTSA. Matches occupation 'design/product engineer' and employer on the donor record. FEC count 0.",
+  "source_url": "https://www.zoominfo.com/p/Stephen-Versteeg/-2041596981",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a9cadd68-5ebc-444f-8930-944f3aa2b30e",
+  "name": "Roberts, Jacqueline",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "78202 East Side San Antonio resident with a blank occupation/employer on the donor record but a very high federal footprint (186 FEC contributions), a pattern consistent with a prolific Democratic small-dollar/ActBlue recurring donor. A same-name 'Owner, Plastic Supply of San Antonio' exists on LinkedIn/ZoomInfo but could NOT be confirmed as the same individual, so no employer/industry assigned. No lobbyist registration; no PAC/advocacy ties found.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jacqueline+Roberts&contributor_state=TX&contributor_zip=78202",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "97c588dd-673e-4277-96ff-8ed79cef9f03",
+  "name": "Gillespie, Lester",
+  "resolved_employer": "Greater Love Missionary Baptist Church (Eastside San Antonio) - Pastor (Rev. Dr. L.J. Gillespie Sr.)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Rev. Dr. L.J. Gillespie Sr., senior pastor of Greater Love Missionary Baptist Church on San Antonio's East Side (church at 1534 Peck Ave; he resides in Schertz 78154). Led Eastside COVID vaccine-clinic organizing among Baptist churches. Matches occupation 'Pastor' / employer on record. FEC count 2; no PAC or lobbyist ties.",
+  "source_url": "https://sanantonioreport.org/eastside-pastor-rallies-local-baptist-churches-in-efforts-to-get-more-underserved-areas-vaccines/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "742bd1e2-fddc-401c-aaa1-ceae655a9e7a",
+  "name": "Durandard, Samuel",
+  "resolved_employer": "USAA - Financial Analyst",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Financial Analyst at USAA in San Antonio, corroborated by a professional profile listing him as a USAA financial analyst; matches the donor record occupation/employer and 78209 SA location. FEC count 2; no PAC or lobbyist ties.",
+  "source_url": "https://rocketreach.co/samuel-durandard-email_66706900",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e0d3dc5e-0cb6-4231-a8bd-8b0e7a03bd51",
+  "name": "Wilson, Marcus",
+  "resolved_employer": "Comcast/Xfinity (Knoxville, TN) - Customer Care Supervisor",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "Out-of-state (Knoxville, TN 37914) donor listed as a Customer Care Supervisor at Comcast/Xfinity; Comcast maintains customer-service operations in Knoxville. Active small-dollar donor (34 FEC contributions) consistent with support for a progressive candidate; could not independently pin the specific individual beyond the record, hence medium confidence. No AIPAC/UDP or other PAC ties; no lobbyist registration.",
+  "source_url": "https://jobs.comcast.com/job/knoxville/xfinity-retail-service-associate-knoxville/45483/84504523664",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

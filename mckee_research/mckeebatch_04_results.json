@@ -1,0 +1,226 @@
+[
+ {
+  "donor_id": "3114b094-b0e5-496e-abf8-96cdd22b6cd8",
+  "name": "versteeg, stephen",
+  "resolved_employer": "Senior/Design Product Engineer at FBD Partnership, LP (frozen beverage dispenser manufacturer), San Antonio",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Design/Product Engineer at FBD Partnership in San Antonio; ZoomInfo lists him as Senior Product Engineer and he is a named inventor on multiple patents assigned to FBD Partnership, LP. Matches donor employer and 78208 location.",
+  "source_url": "https://www.zoominfo.com/p/Stephen-Versteeg/-2041596981",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6a4979df-5f39-406a-add4-61f15a6f666b",
+  "name": "Cox, Gary W",
+  "resolved_employer": "Retired physician; former military (retired)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Donor lists occupations Not Employed/Retired/Doctor with employer Military/Self at 558 Pershing Ave, 78209 (Terrell Hills/Alamo Heights area), indicating a retired military physician. Multiple same-named individuals exist in the San Antonio area; the specific person could not be uniquely confirmed.",
+  "source_url": "https://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part58.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c50b22de-58f5-4f03-9afa-9c769b818f5e",
+  "name": "Cramer, Gina",
+  "resolved_employer": "Data analyst / program evaluator (META Consultants and TRX Development Solutions)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Donor occupations (Data Analyst/Evaluator) and employer 'META Consultants' align with META Consultants, a San Antonio public-health program-evaluation consulting firm; she does not appear on the firm's current team page (likely former/contract). A Gina Cramer appears in San Antonio public records but the specific individual is not otherwise publicly profiled.",
+  "source_url": "https://metaconsultants.net/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d6093e22-c4da-4573-ad1b-352573297669",
+  "name": "Davis, David",
+  "resolved_employer": "Executive Director / operations leader, W.E. Bridge San Antonio, Inc. and WestCare Texas (nonprofit substance-use/mental-health services)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "LinkedIn identifies David Davis with W.E. Bridge San Antonio, Inc. and WestCare (director of operations), educated at Syracuse University Maxwell School; both are San Antonio community nonprofits matching the donor's employer strings and 78202 location.",
+  "source_url": "https://www.linkedin.com/in/daviddavis4/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aaf3f919-1dff-4632-bf36-5ffb7877c0e5",
+  "name": "Robinson, Sonia",
+  "resolved_employer": "Member Service Representative (MSR) at PenFed / Pentagon Federal Credit Union, San Antonio",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "ZoomInfo confirms Sonia Robinson as a Member Service Representative at Pentagon Federal Credit Union, UTSA graduate, former Marriott agent. Matches donor's 'MSR' occupation and 'Penfed' employer at 78220.",
+  "source_url": "https://www.zoominfo.com/p/Sonia-Robinson/10081251214",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9b35fd3c-6c20-44c0-a55e-ac7dc7a993e9",
+  "name": "Han, Jerry",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed as Not Employed at 1096 Rivera Cove, San Antonio 78249. No public profile confirmable; 'Jerry Han' is a common name and none could be tied to this specific San Antonio individual. No corroborating occupation/affiliation found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7e37277e-62ae-4429-8bfb-79fa5045a45f",
+  "name": "Finley, James",
+  "resolved_employer": "Associate Professor of English, Texas A&M University-San Antonio",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "James S. Finley is a tenured Associate Professor of English at TAMU-San Antonio (PhD, U. New Hampshire 2014), specializing in 19th-century American/environmental literature and disability studies; editor of 'Henry David Thoreau in Context' (Cambridge UP, 2017). Employer and San Antonio location match filing.",
+  "source_url": "https://apps.tamusa.edu/course-information/my-profile/faculty-Profile.php?ID=320",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "640b494a-5e49-427e-8b3e-f693a2b3b2ac",
+  "name": "Tulowitzky, Derek",
+  "resolved_employer": "Director of Zoning and Planning, City of San Antonio",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Derek Tulowitzky is identified in Texas Ethics/City campaign-finance records (Feb 2024) as Director of Zoning and Planning for the City of San Antonio; occupation history (planner, City of San Antonio, Ball State grad teaching assistant) matches. Not a registered lobbyist; no FEC PAC records found.",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003182_20240716_065702.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e52a32b5-445f-4afc-9a12-fa51dfec8f03",
+  "name": "McDavid, Re",
+  "resolved_employer": "Community organizer, Texas Organizing Project (Bexar County)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Le Reta Gatlin-McDavid is a Bexar County organizer (Right2Justice / DFC Project Coordinator) and board member with the Texas Organizing Project, a San Antonio-based progressive community-organizing nonprofit. Employer, San Antonio location, and organizer occupation match filing.",
+  "source_url": "https://www.linkedin.com/in/le-reta-gatlin-mcdavid-ab07b046",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Organizing Project", "role": "Bexar County community organizer / board member", "category": "civic", "source_url": "https://legacy.organizetexas.org/contact-us/about-top/staff/", "snippet": "TOP is a 501(c)(4) community-organizing and political-advocacy nonprofit founded 2009 in San Antonio; McDavid is a Bexar County organizer and board member."}
+  ]
+ },
+ {
+  "donor_id": "8fdace53-7873-4493-906b-e6878c8b1e1b",
+  "name": "Pearson, Mark",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Public records confirm a Mark H. Pearson (age ~73) resident at 2006 Layton St, Pasadena, CA 91104, matching the filing address. Listed as Unemployed/Not Employed; no occupation, employer, or advocacy affiliation found in public records. No FEC PAC records confirmable to this individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "807d1395-3ae6-46ab-b63c-c68411911e94",
+  "name": "Rodriguez, Jordee",
+  "resolved_employer": "Campaign Manager, Jalen for City Council (later Director of Policy, SA City Council D2)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Jalen McKee-Rodriguez's own campaign manager (2020-2021) and later D2 Director of Policy; employer string 'Jalen for City Council' and 78240 San Antonio address match occupation. Distinct donor_id from the Austin attorney of the same name in this batch.",
+  "source_url": "https://ballotpedia.org/Jalen_McKee-Rodriguez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8f642204-4f1b-450b-ba5f-fa204941fced",
+  "name": "Walls, Kelly",
+  "resolved_employer": "Retired military (U.S. Armed Forces) (retired)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Donor self-reports Not Employed / Retired Military, San Antonio 78216. No public profile could confirm the specific individual; a TEC lobbyist 'Kelly Walla' (TMA attorney, Austin) is a different person. No FEC or lobbyist records tied to this person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0eb293c8-3066-4851-823b-0c7aa883060e",
+  "name": "Rodriguez, Faith",
+  "resolved_employer": "Self-employed tattoo artist",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Self-employed artist/tattoo artist at 303 Covington Rd 78220, shared with Jacob Rodriguez (likely household). No individual public professional profile located; no FEC or lobbyist records.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fe26a9ed-c8c6-447f-ba32-e0c359267221",
+  "name": "Kanyusik, Bill",
+  "resolved_employer": "Retired (former VP/Director IT, Capital Group; USAF veteran) (retired)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "William 'Bill' Kanyusik, San Antonio 78212 (700 E Hildebrand / Olmos Tower, matches address), retired USAF and Capital Group IT director; donor 'Not Employed' matches. FEC records list him as San Antonio, Not Employed.",
+  "source_url": "https://www.campaignmoney.com/political/contributions/bill-kanyusik.asp?cycle=20",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "ActBlue / Win The Era PAC / Kim For Congress", "role": "Individual federal donor", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/bill-kanyusik.asp?cycle=20", "snippet": "FEC records show ~$5,050 in 2019-2020 to Democratic-aligned recipients: ActBlue, Win The Era PAC (Buttigieg leadership PAC), and Kim For Congress; listed as San Antonio TX, Not Employed."}
+  ]
+ },
+ {
+  "donor_id": "fa9d22fe-6172-483d-8d18-9fcfce3a0dda",
+  "name": "Rodriguez, Jacob",
+  "resolved_employer": "Self-employed (nature of work not specified)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Lists occupation/employer as 'Self' at 303 Covington Rd 78220, shared with Faith Rodriguez (likely household). No public professional profile, FEC, or lobbyist records located to confirm the specific individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f9cb0295-b0b4-43a9-adc8-c214dd9fb975",
+  "name": "Davies, Cameron",
+  "resolved_employer": "Founder/CEO of Cruising Kitchens (custom food-truck & mobile-vehicle manufacturer, San Antonio)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Cameron Davies is the well-documented founder/CEO of San Antonio's Cruising Kitchens (est. 2011), also CEO of CK Ghost Kitchens and Davies Entertainment; featured on Discovery and MotorTrend. Zip 78232 matches SA. Filed occupation 'Self Employed'.",
+  "source_url": "https://theorg.com/org/cruising-kitchens/org-chart/cameron-davies",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f939155d-1760-403e-87df-01ddc83b4a18",
+  "name": "Perez, Bobby",
+  "resolved_employer": "Chief Legal Officer & General Counsel, Spurs Sports & Entertainment (SSE)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Bobby Perez, attorney, is CLO/General Counsel of Spurs Sports & Entertainment ('SSE') since 2021; former San Antonio City Councilman and Bexar County ADA; St. Mary's Law faculty. 78212 SA address matches.",
+  "source_url": "https://theorg.com/org/san-antonio-spurs-llc/org-chart/bobby-perez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f79847ef-eab2-48b8-8266-f4a01b92ada3",
+  "name": "Rodriguez, Jordee",
+  "resolved_employer": "Attorney at Hilliard & Shadowen LLC (H&S), Austin",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "State Bar of Texas lists Jordee Margarita Rodriguez as an attorney at Hilliard & Shadowen LLC ('H&S'); practice areas include antitrust, consumer, civil rights, litigation. Austin (78751) matches filed address. Distinct donor_id from the San Antonio campaign manager of the same name in this batch.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=%2FCustomsource%2FMemberDirectory%2FMemberDirectoryDetail.cfm&ContactID=393138",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f1ebebed-a9f1-4919-aaba-752a9f245484",
+  "name": "Cole, D’Ette",
+  "resolved_employer": "Owner/interior designer, GOOD goods home-goods store (San Antonio)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "D'Ette Cole is a San Antonio interior designer, antiques dealer and artist who opened GOOD goods store in 2019; co-founded Uncommon Objects in Austin. Filed occupation store owner/interior designer, employer 'Goodgoods/self employed'. 78208 SA matches.",
+  "source_url": "https://www.sacurrent.com/arts/sa-design-maven-dette-cole-and-the-topography-of-junk-2326622",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "efd6b913-e7ee-4a98-b501-31f77f49b16d",
+  "name": "Gillespie, Kalyssa",
+  "resolved_employer": "Student",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Filed occupation/employer 'Student' at a Schertz (78154) address. No public profile, news, FEC or lobbyist record found to corroborate the specific individual; identity unconfirmed beyond the filing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

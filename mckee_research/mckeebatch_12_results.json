@@ -1,0 +1,298 @@
+[
+ {
+  "donor_id": "12c5f33d-878f-4ec9-b161-9bc601959ad5",
+  "name": "Garcia, Laquita",
+  "resolved_employer": "Texas Organizing Project (Statewide/Right2Justice Policy Coordinator)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "San Antonio-based statewide policy/criminal-justice coordinator at Texas Organizing Project; occupation 'R2J Policy Coordinator' matches TOP's Right2Justice Policy Coordinator role. Coordinates TOP's public-policy agenda in Bexar County and statewide.",
+  "source_url": "https://theorg.com/org/texas-organizing-project/org-chart/laquita-garcia",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Organizing Project",
+    "role": "Statewide / Right2Justice Policy Coordinator",
+    "category": "political",
+    "source_url": "https://theorg.com/org/texas-organizing-project/org-chart/laquita-garcia",
+    "snippet": "Coordinates TOP's public-policy work — visioning, planning and representing the progressive grassroots advocacy organization in state and national policy arenas."
+   }
+  ]
+ },
+ {
+  "donor_id": "3f4f8645-9ba0-43c7-9f43-03bfad58ee3a",
+  "name": "Donaldson, Sarah",
+  "resolved_employer": "Texas RioGrande Legal Aid (staff attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Sarah Eleanor Donaldson, San Antonio attorney with Texas RioGrande Legal Aid (1111 N Main Ave, 78212); University of Michigan Law JD 2008, in good standing; practice areas employment/employee rights. Location and employer 'TRLA' match the donor record.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=305499",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "491424e6-7d13-429f-97fe-722b6de9c569",
+  "name": "Ogilvie, Leticia",
+  "resolved_employer": "Oracle (Contract Specialist II); U.S. Army veteran",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Leticia Marie Ogilvie, address 17239 Shavano Rnch, San Antonio 78257 (exact match); Contract Specialist II at Oracle, U.S. Army veteran, degrees from Purdue University Global and San Antonio College. Filing's generic 'Employed/Employer' fields resolved via LinkedIn.",
+  "source_url": "https://www.linkedin.com/in/leticia-ogilvie-5aba95162/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ff8a1e53-fad6-48b0-bcdc-27ca6e2d6307",
+  "name": "Salinas, David",
+  "resolved_employer": "In-N-Out Burger (Sanitation Technician)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Categorize-by-employer fallback: fast-food/restaurant sanitation worker at In-N-Out Burger in the Dallas area (75240). Common name with no distinguishing public profile; specific individual not corroborated beyond the occupation/employer in the donor record.",
+  "source_url": "https://en.wikipedia.org/wiki/In-N-Out_Burger",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fa0f64ef-7da0-414f-b4a2-9f3ddd342382",
+  "name": "Theuninck, Ryan",
+  "resolved_employer": "Retail merchandising executive — H-E-B / formerly Target (donor record listed 'Not Employed')",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Distinctive surname; Ryan D. Theuninck is a Sr. Business Unit Director/merchandising director at H-E-B (San Antonio), previously a merchandising director at Target (Minneapolis area; Golden Valley MN matches the donor's address). Donor record's 'Not Employed' likely reflects a job transition; identity is a plausible but not fully confirmed match.",
+  "source_url": "https://www.linkedin.com/in/ryantheuninck/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f0254164-57df-4cae-a08c-d93c38b073ea",
+  "name": "Carlisle, Geoffrey",
+  "resolved_employer": "KIPP Texas Public Schools (science teacher); also public education policy work (Deans for Impact / Teach Plus)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Austin-based educator matching filing (Teacher, KIPP Texas, 78704 Austin). Taught secondary science ~12 yrs at KIPP Austin; later education-policy manager at Deans for Impact, LBJ School MPA.",
+  "source_url": "https://www.deansforimpact.org/about/our-people/geoff-carlisle",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "eecbe41d-bc9d-4198-aa09-209add40fd0d",
+  "name": "Harris, JoAnn",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Not Employed, San Antonio 78222. Multiple same-named individuals in San Antonio public-records databases; could not corroborate a specific person or profile. No public policy-advocacy footprint found.",
+  "source_url": "https://www.spokeo.com/Joann-Harris/Texas/San-Antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e1e3cf31-e9bb-405f-a0c0-ea67ac87126d",
+  "name": "EATON, DEBRA",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists Not Employed, San Antonio 78244. A Debra E. Eaton in San Antonio (retired U.S. Army, 28 yrs; later a real-estate agent; d. Aug 2025) is a plausible match by city, but the exact address/identity could not be confirmed. No policy-advocacy affiliations documented.",
+  "source_url": "https://www.legacy.com/us/obituaries/name/debra-eaton-obituary?id=59240936",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d5f1a137-9131-4ae7-9c47-68d23a0a8711",
+  "name": "Maeder, Kate",
+  "resolved_employer": "KMM Strategies (Partner / Democratic political strategist)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "San Francisco (94103) Democratic political consultant, Partner at KMM Strategies; advises federal/state/local candidates and PACs; UC Berkeley grad. Matches filing (consultant, Self, SF). No AIPAC/pro-Israel, oil/gas, or gun PAC ties found.",
+  "source_url": "https://kmm-strategies.com/team/kate-maeder/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Equality California",
+    "role": "Board member",
+    "category": "political",
+    "source_url": "https://kmm-strategies.com/team/kate-maeder/",
+    "snippet": "Serves on the board of Equality California, an LGBTQ civil-rights advocacy organization."
+   },
+   {
+    "org": "LGBTQ+ Victory Fund",
+    "role": "Co-Chair, Victory Campaign Fund",
+    "category": "political",
+    "source_url": "https://kmm-strategies.com/team/kate-maeder/",
+    "snippet": "Co-Chair of the Victory Campaign Fund supporting LGBTQ candidates nationally."
+   },
+   {
+    "org": "Emerge California",
+    "role": "Trainer; $1,000 donor (527 record)",
+    "category": "political",
+    "source_url": "https://projects.propublica.org/527-explorer/contributions/23859345",
+    "snippet": "Trains women candidates via Emerge California; ProPublica 527 record shows a $1,000 contribution to Emerge California."
+   }
+  ]
+ },
+ {
+  "donor_id": "c1f9efd0-8b60-46c3-a18c-504081910d27",
+  "name": "Tobias, Jennifer",
+  "resolved_employer": "Johnson Controls (HVAC systems application engineer / project manager)",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "San Antonio-based Johnson Controls employee; HVAC Systems Application Engineer with a BS in Mechanical Engineering (UT Austin), consistent with filing (Project manager, Johnson Controls, 78209). No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://rocketreach.co/jennifer-tobias-email_58659169",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c0c6ab55-2f00-4587-8d54-fd903d940942",
+  "name": "Gloria, Jessie",
+  "resolved_employer": "Arc Initiatives (progressive political consulting firm, digital strategist); previously Texas Organizing Project",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Digital strategist in progressive politics; RocketReach/LinkedIn tie Jessie Gloria to Arc Initiatives, Texas Organizing Project, and NCRP, matching the filing occupation (Digital Strategist / Arc Initiatives) and San Antonio TX location.",
+  "source_url": "https://rocketreach.co/jessie-gloria-email_485295827",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Organizing Project",
+    "role": "Former staff (digital/organizing)",
+    "category": "political",
+    "source_url": "https://rocketreach.co/jessie-gloria-email_485295827",
+    "snippet": "Previous experience at Arc Initiatives and Texas Organizing Project, a progressive grassroots advocacy organization."
+   }
+  ]
+ },
+ {
+  "donor_id": "b8ada90f-fe74-45dc-8e35-12caa95baaaf",
+  "name": "Riley, Letitia",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists occupation/employer as Not Employed at 78215 San Antonio. No public profile, FEC PAC history, or TX lobbyist registration located to confirm the specific individual; quiet result.",
+  "source_url": "https://www.ethics.state.tx.us/search/lobby/LobbySimpleSearch.php",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b154f4a9-add6-4a33-b2ba-1e55c38e8a43",
+  "name": "Villalobos, Veronica",
+  "resolved_employer": "Cruz Strategies (Sacramento government-relations/lobbying firm), Managing Director & Partner; registered California lobbyist",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Veronica Villalobos Cruz is a Sacramento-based registered CA state lobbyist/partner at Cruz Strategies (higher-ed, labor, business clients); matches donor's Sacramento 95831 location and 'CA State Lobbyist' occupation. Slight name variance (Villalobos vs Villalobos Cruz) keeps confidence at medium.",
+  "source_url": "https://cruzstrategies.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Planned Parenthood Mar Monte Advocates",
+    "role": "Board member (2013-2022)",
+    "category": "political",
+    "source_url": "https://cruzstrategies.com/",
+    "snippet": "Served on the Planned Parenthood Mar Monte Advocates board from 2013 to 2022; longtime volunteer with Chicano/Latino Youth Leadership Project and Sacramento City College PUENTE program."
+   }
+  ]
+ },
+ {
+  "donor_id": "ace47054-2acd-4985-a9cd-4454868aba74",
+  "name": "Woods, Burgundy",
+  "resolved_employer": "Self-employed artist/muralist; co-founder San Antonio Street Art Initiative (SASAI) and D.R.E.A.M. Mural Arts District",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Burgundy Woods is a documented San Antonio muralist/artist, co-founder of the San Antonio Street Art Initiative (with Shek Vega) and the D.R.E.A.M. Mural Arts District; matches donor occupation Artist/Muralist and San Antonio location.",
+  "source_url": "https://events.getcreativesanantonio.com/artist/burgundy-woods/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "San Antonio Street Art Initiative",
+    "role": "Co-founder / board member",
+    "category": "civic",
+    "source_url": "https://www.sacurrent.com/arts/meet-the-muralistas-outdoor-artists-tap-into-san-antonios-cultural-dna-24137045/",
+    "snippet": "In 2018 Burgundy Woods and Shek Vega formed the San Antonio Street Art Initiative; she serves as board member and runs its Brick by Brick youth-artist program."
+   }
+  ]
+ },
+ {
+  "donor_id": "a503bf13-117e-41e2-adc6-fff2946c9f30",
+  "name": "Haines, Anthony",
+  "resolved_employer": "Bonham Exchange (historic San Antonio LGBTQ+ nightclub), owner/manager",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Donor's employer (Bonham Exchange), 'Owner' occupation, and 411 Bonham address exactly match the downtown nightclub; the venue's current owner/manager is publicly identified as Lee Haines (likely Anthony 'Lee' Haines). Name variance Anthony vs Lee is the only uncertainty.",
+  "source_url": "https://www.sacurrent.com/arts/after-16-months-of-closure-san-antonios-bonham-exchange-will-reopen-july-23-with-new-upgrades-26638923/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a2cb3ae6-2522-405d-aea0-c10f6f1c6efb",
+  "name": "DAVIS, FREDERICK",
+  "resolved_employer": "Onyx CenterSource (marketing/brand management)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Best public match is Fred Davis, marketing/brand management at Onyx CenterSource (a hospitality B2B payments firm) in the Dallas-Fort Worth metroplex, consistent with the donor's Frisco (75034) address and 'Marketing'/'Onyx' occupation/employer strings. Name variant Fred vs Frederick keeps confidence at medium.",
+  "source_url": "https://www.linkedin.com/in/fred-davis/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "84e38007-b37b-4e5b-8a21-0a4b99240dfc",
+  "name": "Trevino, Mark",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reports as unemployed in San Antonio (78238). 'Mark Trevino' is a common name and no matching public profile, FEC PAC record, or Texas lobbyist registration could be confirmed for this individual.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7d186c3c-2e91-4f05-b205-fd83e560f9b1",
+  "name": "Osburn, colt",
+  "resolved_employer": "Office of Councilman John Courage, San Antonio City Council District 9 (council aide / Sr. infrastructure analyst)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Donor self-reports as a council aide to Councilman John Courage, San Antonio City Council District 9 (a real office Courage held June 2017-June 2025), and a senior infrastructure analyst. Consistent with a municipal staffer; a same-name LinkedIn (OEM Systems sales, Oklahoma) is a different person. No FEC PAC or Texas lobbyist record found.",
+  "source_url": "https://ballotpedia.org/John_Courage",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7ad848f9-d990-4fb5-ac38-5bf7c699e318",
+  "name": "Grizzard, Julia",
+  "resolved_employer": "Southwest Stratagem (Senior Strategist); Founder/Executive Director, Bexar County Education Coalition; registered Texas lobbyist",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "San Antonio native Julia Grizzard is Senior Strategist at Southwest Stratagem, a Texas grassroots advocacy/PR firm, and Founder/Executive Director of the Bexar County Education Coalition; former legislative director for state Rep. Diego Bernal (worked on HB3 school-finance reform). Registered Texas consultant lobbyist. Location and self-reported 'Southwest Stratagem'/'Self' fields corroborate.",
+  "source_url": "https://www.linkedin.com/in/julia-grizzard-57525914/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Ethics Commission (registered lobbyist)",
+    "role": "Consultant lobbyist (Filer ID 84680), San Antonio",
+    "category": "political",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+    "snippet": "Grizzard appears as a registered consultant lobbyist in the Texas Ethics Commission lobbyist lists across multiple years (2021-2025), San Antonio address."
+   },
+   {
+    "org": "Bexar County Education Coalition",
+    "role": "Founder & Executive Director",
+    "category": "civic",
+    "source_url": "https://www.bcectx.org/who-we-are",
+    "snippet": "Serves as Executive Director and Founder of the Bexar County Education Coalition, 'a coalition dedicated toward elevating the voices [of] eighteen Bexar County area Independent School Districts.'"
+   },
+   {
+    "org": "Southwest Stratagem",
+    "role": "Senior Strategist",
+    "category": "business",
+    "source_url": "https://www.linkedin.com/in/julia-grizzard-57525914/",
+    "snippet": "Senior Strategist at Southwest Stratagem, a Texas grassroots advocacy and public relations firm specializing in message development and issue campaigns."
+   }
+  ]
+ },
+ {
+  "donor_id": "78285c7f-4c41-47c5-a441-8026e4b29c6d",
+  "name": "Suttin, Jacqueline",
+  "resolved_employer": "Walkingspree (Product Manager, member growth & engagement)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Jacqueline Suttin was a Product Manager (Member Growth and Engagement) at Walkingspree, a San Antonio-based corporate walking/wellness health-technology company, matching the donor's San Antonio (78212) location and 'Product Manager'/'Walkingspree' fields; later product roles at Nomi Health, SpyCloud, and founder of MagenTrust. No FEC PAC or Texas lobbyist record found.",
+  "source_url": "https://www.linkedin.com/in/jacquelinesuttin/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

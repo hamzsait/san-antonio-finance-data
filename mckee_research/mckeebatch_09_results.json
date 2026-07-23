@@ -1,0 +1,235 @@
+[
+ {
+  "donor_id": "da816e34-2aca-44aa-880b-cc73d9710c6f",
+  "name": "Trevino, Matthew",
+  "resolved_employer": "Office of San Antonio City Councilwoman Ana Sandoval (District 7) - council aide",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Matthew (Matteo) Trevino served as a council aide in Councilwoman Ana Sandoval's District 7 office (city email matteo.trevino@sanantonio.gov), matching the donor's occupation 'Council Aide' and employer string. Local government staffer, zip 78250 consistent with a San Antonio city employee.",
+  "source_url": "https://www.sanantonio.gov/sustainability/MediaCenter/NewsReleases/ArtMID/7461/ArticleID/12951/Councilwoman-Sandoval-Selected-to-Craft-San-Antonio%E2%80%99s-Modern-Transportation-System",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d4bbf224-2753-4db0-bc6c-229ec415a9c1",
+  "name": "Parrish, Holly",
+  "resolved_employer": "Arctic Wolf - Cyber Threat Operations / threat intelligence specialist",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "LinkedIn profile (/in/holly-parrish/, name shown as Holly Syed, CISSP) describes roughly four years at Arctic Wolf building threat intelligence and threat research, consistent with the donor's occupation and employer. Cybersecurity professional; Arctic Wolf operates a San Antonio security-operations center (zip 78218).",
+  "source_url": "https://www.linkedin.com/in/holly-parrish/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d049e7a8-8815-4d03-9a90-238485609618",
+  "name": "Naranjo, Marie",
+  "resolved_employer": "SA Prep (San Antonio Preparatory Schools, East Side charter) - student enrollment staff",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Employer 'SA Prep' is San Antonio Preparatory Schools, an East Side charter school; donor's occupation 'Student Enrollment' indicates school enrollment/admissions staff. Could not locate a public profile confirming the specific individual, so classified by employer fallback. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://schooldiscoverynetwork.org/blog/sa-prep-enrollment-guide/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b753eef6-7127-4c25-b98c-52f55477b44f",
+  "name": "Jones-Chavez, Charlin",
+  "resolved_employer": "University of Texas at El Paso (UTEP) - Assistant Dean of Students for Engagement",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Charlin Jones-Chavez, Ph.D., has served as Assistant Dean of Students (for Engagement) at UTEP since Dec 2020, coordinating Miner Welcome orientation events; matches donor occupation, employer, and El Paso 79902 address. Later listed as Assistant Vice President. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.utep.edu/newsfeed/2022/utep-starts-fall-2022-with-miner-welcome-festivities.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a1317340-be8f-456e-b2c4-a21b97c40cfd",
+  "name": "Campbell, Leah",
+  "resolved_employer": "Steuck & Associates LLC - researcher (program-evaluation & research firm)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Steuck & Associates LLC is a San Antonio program-evaluation and research firm (education/STEM grant evaluations). Donor's occupation 'Researcher' and employer match; Leah Campbell is not listed on the firm's current team page (likely a former/junior researcher), so identity not independently confirmed. Classified by employer. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://steuckassoc.com/who-we-are/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9f24489d-5d04-4792-be47-f5a5dedbf629",
+  "name": "Haines, Lee",
+  "resolved_employer": "Bonham Exchange (Assistant General Manager); Principal Officer, The Happy Foundation",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Anthony Lee Haines, Assistant General Manager of the Bonham Exchange LGBTQ nightclub at 411 Bonham St (matches donor address 411 Bonham, 78205 exactly) and Principal Officer of The Happy Foundation, an LGBTQ history archive housed inside the venue.",
+  "source_url": "https://www.linkedin.com/in/lee-haines-2ba6a09b/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "The Happy Foundation", "role": "Principal Officer", "category": "civic", "source_url": "https://www.guidestar.org/profile/74-2579611", "snippet": "Anthony Lee Haines listed as Principal Officer of The Happy Foundation (EIN 74-2579611), an LGBTQ+ archive at 411 Bonham, San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "9ce2bf89-5567-4253-b1a3-eec82e049d93",
+  "name": "Suddaby, Benjamin",
+  "resolved_employer": "Travis County - Purchasing Operations Specialist",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Benjamin Cornelio Suddaby, a Purchasing Operations Specialist for Travis County (public payroll ~$58k in 2021), Austin resident (78752); an active AFSCME Local 1624 union member. Occupation and employer match the donor record.",
+  "source_url": "https://opengovpay.com/tx/benjamin-cornelio-suddaby/113729350",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "AFSCME Local 1624 (Austin)", "role": "Union member", "category": "civic", "source_url": "https://www.facebook.com/story.php/?story_fbid=3080078032024691&id=167456979953492", "snippet": "Austin AFSCME post featuring 'Members Iris and Ben Suddaby'; corroborates union membership alongside his Travis County employment."}
+  ]
+ },
+ {
+  "donor_id": "80a71a4c-7652-41e1-84a5-0ed9d7c64bdf",
+  "name": "Payton, Thomas",
+  "resolved_employer": "Trinity University Press - Director / Publisher",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Tom (Thomas) Payton, Director and Publisher of Trinity University Press in San Antonio since 2016 (joined 2010); 30+ years in book publishing (University of Georgia Press, Hill Street Press), specializing in architecture, urban planning, and regional titles. Filing's 'Publisher / Trinity University' and downtown 78215 address match.",
+  "source_url": "https://new.trinity.edu/news/trinity-university-press-names-new-director",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7c26a695-513f-46de-99a7-2b928f0bf5d0",
+  "name": "Carbajal, Merced",
+  "resolved_employer": "GTC Services LLC - heavy-duty diesel & trailer repair (family business)",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Merced Carbajal is associated with GTC Services LLC (matches donor's employer_string), a heavy-duty diesel and trailer repair shop serving the Converse/St. Hedwig/San Antonio trucking area (78152). Donor occupation 'Accounting' likely reflects a back-office role in the family business. Classified by employer; no FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.gtcservicesllc.com/company/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "607d9d72-126b-41f7-b359-80bbc6b307ac",
+  "name": "Kieschnick, Michael",
+  "resolved_employer": "Self-employed progressive activist; co-founder & President/CEO, CREDO Mobile (Working Assets); founder, Carbon Advocacy Project / Green Advocacy Project",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Michael Kieschnick of Palo Alto (94301, matches filing) is the well-documented co-founder and President/CEO of CREDO Mobile (Working Assets), a national progressive activist and major Democratic donor; former National Campaign Manager for NextGen Climate.",
+  "source_url": "https://www.influencewatch.org/person/michael-kieschnick/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "CREDO Mobile / Working Assets", "role": "Co-founder, President & CEO", "category": "business", "source_url": "https://www.influencewatch.org/person/michael-kieschnick/", "snippet": "Co-founded Working Assets in 1985 and serves as President/CEO of CREDO Mobile, which channels a share of revenue to progressive causes."},
+   {"org": "NextGen Climate", "role": "National Campaign Manager (2015-16)", "category": "political", "source_url": "https://www.influencewatch.org/person/michael-kieschnick/", "snippet": "Led NextGen Climate's multimillion-dollar college-campus campaign backing Democratic candidates in 2016."},
+   {"org": "CREDO SuperPAC / Real Justice PAC / Green Advocacy Project", "role": "Co-founder / Director", "category": "political", "source_url": "https://www.influencewatch.org/person/michael-kieschnick/", "snippet": "Co-founded CREDO SuperPAC (2012), Real Justice PAC (2017), and the Green Advocacy Project super PAC (2018)."},
+   {"org": "Carbon Advocacy Project", "role": "Founder", "category": "civic", "source_url": "https://www.carbonadvocacyproject.org/", "snippet": "Founded the Carbon Advocacy Project, a climate-advocacy nonprofit."}
+  ]
+ },
+ {
+  "donor_id": "4b6f56f6-827f-4651-9cd4-6703a4c66360",
+  "name": "Naranjo, Paula",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Conflicting record data: Aurora, IL address (410 Grant Place, 60505) but occupation strings list 'Constituent Services' and employer 'San Antonio' alongside 'Not Employed' (possibly a relative of donor Marie Naranjo). Could not corroborate the specific individual in any public source; identity unresolved. No FEC PAC or TX lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c3a03ab9-b203-471b-8b5f-34ee51aeebb4",
+  "name": "Lovin, Justice",
+  "resolved_employer": "San Antonio ISD (SAISD) - teacher",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Justice Lovin is a San Antonio ISD teacher; confirmed by a News4SA report quoting 'SAISD teacher Justice Lovin' on 2020 school reopening and by an SAISD staff page (schools.saisd.net/page/jlovin1-Home). Also a former writer for UTSA's The Paisano. Matches donor occupation 'Teacher / SAISD' and 78212 zip.",
+  "source_url": "https://news4sanantonio.com/news/local/not-until-its-safe-san-antonio-alliance-opposes-districts-back-to-school-plans",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ef22a1e-4aca-425d-ba2b-76a5a4730c74",
+  "name": "Eskew, Jennifer",
+  "resolved_employer": "Northside ISD (NISD) - teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Donor records list her as a Northside ISD (NISD) teacher in San Antonio (78253). Occupation and employer are internally consistent. No individual public profile, FEC PAC donation, or TX lobbyist registration found; classified by employer fallback.",
+  "source_url": "https://www.nisd.net/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ad8c5db8-8c5a-4c1b-844c-21819b76310a",
+  "name": "Rodriguez, Faith",
+  "resolved_employer": "BHS Physicians Network - medical assistant",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Donor records list her as a Medical Assistant at BHS Physicians Network, a San Antonio physician group (78242). Common name; no individual public profile, FEC PAC donation, or TX lobbyist registration found. Occupation and employer are internally consistent; classified by employer fallback.",
+  "source_url": "https://www.healthcare4ppl.com/medical-group/texas/san-antonio/bhs-physicians-network-inc-7315019593.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "561a3b5b-f401-48ae-a904-f41a60502146",
+  "name": "Keegan, Daniel",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor is listed as 'Not employed' at a Durham, NC address (314 Tall Oaks Dr, 27713). Multiple Daniel Keegans appear in Durham voter records but at different zips (27704, 27705), so the specific individual at 27713 could not be confirmed. No FEC PAC donation or TX lobbyist registration found.",
+  "source_url": "https://voterrecords.com/voter/46007914/daniel-keegan",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "23daa5df-df2e-49b2-9063-6fef8b7e899e",
+  "name": "Castro, Maria",
+  "resolved_employer": "Tiny Brain LLC - graphic-design / hand-lettering business (self-owned)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Maria Castro is a San Antonio graphic designer/letterer who runs 'Tiny Brain' (Instagram @thetinybrainproject, 'Drawing letters & designing stuff'); occupation, city, and 78204 area align with the donor record. (Filing's stray 'City council' employer string is unverified.) No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.instagram.com/thetinybrainproject/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a5a0b7c-c786-4184-97ce-54f2a10001bb",
+  "name": "Watson, Taylor",
+  "resolved_employer": "The Alcachofa Agency - social-impact consultant/coach (also listed with Kamin Associates)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Taylor Watson is a San Antonio-based Social Impact Consultant & Coach at The Alcachofa Agency (CreativeMornings profile); matches the donor's consultant/project-manager occupation and San Antonio 78209 location. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://creativemornings.com/individuals/taylor_e_watson",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f897a007-eb3b-431b-a8ce-ae5eab81d0a3",
+  "name": "Millar, Ron",
+  "resolved_employer": "Center for Freethought Equality - Political and PAC Manager (runs the Freethought Equality Fund PAC)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Ron Millar is the Political and PAC Manager at the Center for Freethought Equality (advocacy/political arm of the American Humanist Association), running its Freethought Equality Fund PAC; Arlington, VA 22201 base and PAC-coordinator occupation match the donor record.",
+  "source_url": "https://www.cfequality.org/staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Center for Freethought Equality / Freethought Equality Fund PAC", "role": "Political and PAC Manager", "category": "political", "source_url": "https://www.cfequality.org/staff", "snippet": "Ron Millar, the Political and PAC Manager at the Center for Freethought Equality... conducts research and interviews with political candidates to determine endorsements by the Freethought Equality Fund PAC."}
+  ]
+ },
+ {
+  "donor_id": "ba3af857-3dff-456d-b9a5-456217a2d507",
+  "name": "Sanchez, Cristian",
+  "resolved_employer": "RAICES - immigration/removal-defense attorney (supervising attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Cristian Sanchez is an immigration attorney (UT Law J.D.) who has been a supervising attorney at RAICES, the San Antonio refugee/immigrant legal-aid nonprofit; occupation, employer, and East Side 78202 location match the donor record.",
+  "source_url": "https://raicestexas.org/video/v/spotlight-cristian-sanchez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "RAICES (Refugee and Immigrant Center for Education and Legal Services)", "role": "Supervising Attorney", "category": "civic", "source_url": "https://raicestexas.org/video/v/spotlight-cristian-sanchez", "snippet": "Spotlight: Cristian Sanchez - RAICES; immigration attorney providing legal representation to immigrants facing removal proceedings at the San Antonio nonprofit."}
+  ]
+ },
+ {
+  "donor_id": "7260aea8-de90-4380-b01b-5a19f9b3a778",
+  "name": "Adelson, David",
+  "resolved_employer": "Getty Images Video / WireImage - Executive Producer",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "David Adelson is an Executive Producer at Getty Images Video (WireImage), UCLA-educated and Los Angeles-based; media/producer occupation, Getty Images employer, and Venice, CA 90291 location align with the donor record. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/dadelson/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

@@ -1,0 +1,239 @@
+[
+ {
+  "donor_id": "c62d44f4-e030-43b7-9c61-8cdaddcbe48c",
+  "name": "Breitung, Trent",
+  "resolved_employer": "Communications Workers of America (CWA); union/community organizer",
+  "industry": "Labor",
+  "confidence": "medium",
+  "evidence": "San Antonio labor organizer (UTSA grad). FEC lists employer CWA; public profile shows Digital Organizer at Texas Organizing Project and prior Union Organizer with Education Austin — consistent same person, career union/community organizing.",
+  "source_url": "https://www.zoominfo.com/p/Trent-Breitung/3117375037",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c619c41d-bc15-470a-80a0-58e23484167a",
+  "name": "Ortiz, Krysta",
+  "resolved_employer": "Casar for Congress (Deputy Political Director at time of gift); later Project Manager at Duable Brand Trust, a political campaign/branding consultancy",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Political campaign operative. Trenton NJ (08609) address corroborates public profile showing prior roles at Diocese of Trenton and Center for FaithJustice; now at Duable Brand Trust (campaign strategy/branding firm). Occupation of record: Deputy Political Director, Casar for Congress.",
+  "source_url": "https://www.zoominfo.com/p/Krysta-Ortiz/6008297102",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Casar for Congress", "role": "Deputy Political Director", "category": "political", "source_url": "https://www.zoominfo.com/p/Krysta-Ortiz/6008297102", "snippet": "Occupation of record on FEC filing is Deputy Political Director for the Greg Casar congressional campaign; professionally works in political campaign consulting (Duable Brand Trust)."}
+  ]
+ },
+ {
+  "donor_id": "c171fed1-6a15-4494-b217-63c58aea39de",
+  "name": "Hall, Jon",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Unable to corroborate a specific individual. No occupation/employer on record; 'Jon Hall' at Los Angeles 90046 is a common name and no FEC/OpenSecrets, lobbyist, or bio record could be tied to this specific person. Quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c0b78370-fa50-4bc6-a494-8180843ffde2",
+  "name": "Palacios, Bob",
+  "resolved_employer": "Dell (Presales Manager)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "No public bio profile located to confirm the specific individual; categorized by employer fallback. Occupation/employer of record is Presales Manager at Dell (Austin), a technology company. No PAC/lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bd5acc52-7572-4877-8ec1-6c782a009cd2",
+  "name": "Smith, Donalda",
+  "resolved_employer": "Not Employed (per FEC record; longtime District 2 resident / neighborhood civic contact)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "78202 is in Council District 2 (East Side), matching the D2 councilmember she gave to. City of San Antonio planning records list 'Donalda (Dee) Smith' as a District 2 neighborhood association contact, corroborating a local East Side civic resident. Occupation of record: Not Employed.",
+  "source_url": "https://www.sanantonio.gov/portals/0/files/planning/NAListing02_2015.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Council District 2 neighborhood association", "role": "Neighborhood association contact/leader", "category": "civic", "source_url": "https://www.sanantonio.gov/portals/0/files/planning/NAListing02_2015.pdf", "snippet": "City of San Antonio neighborhood association listing records Donalda (Dee) Smith as a Council District 2 neighborhood association contact."}
+  ]
+ },
+ {
+  "donor_id": "bd0ce71f-957f-44e6-8be9-e341daeb5fa0",
+  "name": "Ann Andera, Jo",
+  "resolved_employer": "Retired; former Director of the Texas Folklife Festival and signature events (Asian Festival) at UTSA's Institute of Texan Cultures (1970s-~2015)",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Well-documented longtime director of the Texas Folklife Festival at UTSA's Institute of Texan Cultures (30+ years); St. Mary's University grad, Certified Festival Executive. Now retired, matching the 'Not Employed' record; 78209 address is near the ITC/downtown SA. Distinctive name confirms identity.",
+  "source_url": "https://www.sacivtx.org/jo-ann-andera",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Council for International Visitors (SACIV)", "role": "Past Chair / emeritus board member", "category": "civic", "source_url": "https://www.sacivtx.org/jo-ann-andera", "snippet": "Past Chair of SACIV; holds an emeritus board position with SACIV."},
+   {"org": "International Festivals Association", "role": "Past Board Chair; member of Presidents Council", "category": "civic", "source_url": "https://www.sacivtx.org/jo-ann-andera", "snippet": "Past Board Chair of the International Festivals Association; member of the IFA Presidents Council."}
+  ]
+ },
+ {
+  "donor_id": "bcd4a539-9981-45b1-bb66-c88ff27ac3a9",
+  "name": "Poenisch, Crystal",
+  "resolved_employer": "Chainguard — Director of Product Marketing (B2B/cybersecurity software), San Antonio TX",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Distinctive-named San Antonio tech professional: Director of Product Marketing at Chainguard, UTSA Political Science/Global Affairs grad, ex-Auth0/Uptycs. Donation record lists 'Not Employed' (likely between roles or unrecorded at time of 2026 gift); name+city match strongly, but employer not independently tied to the donation.",
+  "source_url": "https://www.linkedin.com/in/pmmcrystal/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b7c22a96-67d2-45a3-b5db-0dbcb2d6d38a",
+  "name": "Mahone, Deandra",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "A Deandra Michelle Mahone (b. 1989) is documented as a San Antonio resident, with a public property record on North Olive Street matching the donor's 1107 N Olive St / 78202 address. No occupation, employer, or organizational affiliation found in public records; listed as 'Not Employed.'",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b7bdcfe7-e776-4e56-b8ba-80d3d936279b",
+  "name": "Macias, Aracely",
+  "resolved_employer": "Spotify — Cybersecurity Engineer (self-reported on donation record)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Donation record self-reports occupation 'Cybersecurity Engineer' at 'Spotify,' 78212 San Antonio. Could not independently confirm this specific individual (multiple same-named people; no matching LinkedIn/bio surfaced). Industry assigned via employer/occupation fallback only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b312e6f2-0faa-452f-bcf0-b3a0efe3cb73",
+  "name": "Jefferson, Antwan",
+  "resolved_employer": "University of Colorado Denver — Associate Clinical Professor, School of Education & Human Development (also Associate Dean for Instructional & Inclusive Excellence)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Confirmed: Antwan Jefferson, PhD (Educational Leadership & Innovation, CU-Denver 2013), faculty in the School of Education & Human Development at University of Colorado Denver; Denver CO address matches. Research on families, equity, and community engagement in schools.",
+  "source_url": "https://education.ucdenver.edu/about-us/faculty-directory/Jefferson-Antwan-UCD51106",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Western Interstate Commission for Higher Education (WICHE)", "role": "Commissioner; elected Vice Chair then Chair", "category": "civic", "source_url": "https://www.wiche.edu/resources/antwan-jefferson-of-the-university-of-colorado-denver-to-chair-wiche-commission/", "snippet": "Antwan Jefferson of the University of Colorado Denver to Chair WICHE Commission."}
+  ]
+ },
+ {
+  "donor_id": "b175b98a-0e06-415f-b339-65d3d0f3aa51",
+  "name": "Rop, Imgard",
+  "resolved_employer": "City of San Antonio (Communications)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Municipal employee in a communications role for the City of San Antonio per FEC filing; no public bio, news, or profile located to confirm the specific individual. Employer-based classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b009429f-e88e-4ce2-a5c3-41fa6f964325",
+  "name": "Soto, Steven",
+  "resolved_employer": "Ace Parking Management Inc. (Account/Commercial Manager, San Antonio; worked Grand Hyatt property)",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "LinkedIn and ZoomInfo confirm Steven Soto as an Account/Commercial Manager at Ace Parking Management in San Antonio, recognized as Assistant Manager at the Grand Hyatt San Antonio (Ace 4Q2017 team-member award). Matches occupation 'Parking Manager.'",
+  "source_url": "https://www.linkedin.com/in/steven-soto-577137164/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "adec4d54-0a41-4051-b836-832d7357f77e",
+  "name": "Rodriguez, Queta",
+  "resolved_employer": "FourBlock (veterans-career nonprofit; National Operations Director, later Chief Programs & Impact Officer)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Notable San Antonio figure: retired U.S. Marine Corps Captain (1991-2012, intelligence analyst), former Bexar County Veterans Service Officer, and two-time Democratic candidate for Bexar County Commissioner Precinct 2 (2018, 2020). Now a leader at FourBlock, a 501(c)(3) veterans-transition nonprofit. No defense-contractor tie; veterans work is civic-service.",
+  "source_url": "https://fourblock.org/team/staff/queta-rodriguez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "FourBlock", "role": "National Operations Director / Chief Programs & Impact Officer", "category": "civic", "source_url": "https://fourblock.org/team/staff/queta-rodriguez", "snippet": "Leads operations for FourBlock, a 501(c)(3) nonprofit equipping veterans and military spouses to transition to civilian careers."},
+   {"org": "Bexar County (Veterans Service Office)", "role": "Bexar County Veterans Service Officer (through Nov 2018)", "category": "civic", "source_url": "https://lulac.org/summit2020/speakers/rodriguez/", "snippet": "Served as Bexar County Veterans Service Officer, building one of the most recognized county veterans-service programs in Texas."},
+   {"org": "Bexar County Commissioners Court Precinct 2", "role": "Democratic candidate (2018, 2020)", "category": "political", "source_url": "https://ballotpedia.org/Queta_Rodriguez", "snippet": "Ran as a Democrat for Bexar County Commissioner Precinct 2; lost 2018 primary runoff and 2020 special primary."}
+  ]
+ },
+ {
+  "donor_id": "a6da81d8-29d0-4549-8d2d-651e20bdb5de",
+  "name": "Aida Rodriguez, Aida Rodriguez",
+  "resolved_employer": "Spectrum (Charter Communications) — Sales",
+  "industry": "Media",
+  "confidence": "low",
+  "evidence": "Listed as a sales employee at Spectrum (Charter cable/telecom) in San Antonio per FEC filing; no public profile, news, or bio located to confirm the specific individual. Employer-based classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a62acfe8-6d32-4dd3-b044-192499ec0682",
+  "name": "Mendoza, Laura",
+  "resolved_employer": "Taco Cabana (food line worker)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Food-line worker at Taco Cabana (San Antonio-based restaurant chain) per FEC filing; extremely common name with hundreds of Texas matches and no distinguishing public profile located. Employer-based classification only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a2791296-07de-4d75-b86e-263d836bebab",
+  "name": "Sanchez, Samantha",
+  "resolved_employer": "Ophir (optics/photonics company); role Proposal Manager/contract admin",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Could not confirm the specific individual in public records (common name; Aurora CO). FEC self-reported employer 'Ophir' is an optics/photonics firm; 'Proposal Manager/contract admin' with BOE-lead-style duties is consistent with the Aurora CO defense/optics contracting sector. Classified by employer fallback only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a1a2928f-6d11-4b48-8aa4-50fbe10fdb70",
+  "name": "Lutz, Joseph",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify the specific person; 'Joseph Lutz' is common in Texas and the employer 'Fusion' is too ambiguous to resolve to a known company or industry. No corroborating bio, FEC PAC, or lobbyist record found. Quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a0149a87-317a-4878-a321-957601b32c18",
+  "name": "Williams, Maria",
+  "resolved_employer": "Owner/founder, In the Eye of the Beholder Art Gallery & Studio (San Antonio's first Black art gallery); event planner",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Confirmed: Maria M. Williams founded In the Eye of the Beholder art gallery (1917 N New Braunfels Ave) in Sept 2021, San Antonio's first Black art gallery; also serves as San Antonio's District 2 art commissioner and has 13+ years event-planning experience. Address/gallery/occupation match FEC record. No lobbyist or notable PAC record found.",
+  "source_url": "https://eotbartgallery.com/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio (Arts / Cultural sector)", "role": "District 2 art commissioner", "category": "civic", "source_url": "https://eotbartgallery.com/about-us", "snippet": "Williams serves as San Antonio's district 2 art commissioner and brings over 13 years of event planning experience."}
+  ]
+ },
+ {
+  "donor_id": "9fea80f5-c371-4778-b307-999a6a3d9298",
+  "name": "Helwig, Carah",
+  "resolved_employer": "San Antonio Alliance of Teachers and Support Personnel, Local 67 (teachers' union), Digital Communications Organizer; later NTEU (National Treasury Employees Union) in Washington DC",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Confirmed via professional-profile listing: Carah Helwig's work history includes the San Antonio Alliance (teachers' union, Local 67) and she now works at the National Treasury Employees Union as a Learning & Development Specialist. Consistent labor-movement career; uncommon name; SA location matches 2021 donation. Employer is itself a union (Labor). No lobbyist or notable PAC record found.",
+  "source_url": "https://rocketreach.co/carah-helwig-email_88682903",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9e8d6977-8098-4ccb-9dc6-b1e1fa816fe5",
+  "name": "Phelan, Malcolm",
+  "resolved_employer": "Campaign Manager, Miller for Georgia (Democratic political campaign); 2018 New Leaders Council Atlanta Fellow; later U-Michigan Law and Director of Impact Operations at the Truman Center for National Policy",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Confirmed: Malcolm Phelan was Campaign Manager for 'Miller for Georgia' and a 2018 New Leaders Council (Atlanta) Fellow; ex-BCG/Dropbox/Webflow, later U-Michigan Law and Truman Center. Occupation/employer in FEC record match the documented person exactly. Political campaign operative classified Consulting / PR (political consulting).",
+  "source_url": "https://www.trumancenter.org/news-posts/truman-welcomes-malcolm-phelan-as-director-of-impact-operations",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Miller for Georgia", "role": "Campaign Manager", "category": "political", "source_url": "https://www.facebook.com/NLCAtlanta/posts/meet-the-fellows-malcolm-phelan-campaign-manager-miller-for-georgiayou-can-suppo/2361575597201155/", "snippet": "Meet the Fellows: Malcolm Phelan, Campaign Manager, Miller for Georgia."}
+  ]
+ }
+]

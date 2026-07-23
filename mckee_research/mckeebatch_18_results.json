@@ -1,0 +1,226 @@
+[
+  {
+    "donor_id": "46316e08-3480-415e-9201-42697bf64048",
+    "name": "Tomas, Ananda",
+    "resolved_employer": "ACT 4 SA (Activate SA)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Founder and Executive Director of ACT 4 SA, a San Antonio police-reform/criminal-justice advocacy nonprofit; former Deputy Director of Fix SAPD (Prop B campaign). Public figure; matches occupation/employer/San Antonio 78230 location.",
+    "source_url": "https://sanantonioreport.org/act-4-sa-ananda-tomas-police-reform/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "ACT 4 SA (Activate SA)", "role": "Founder / Executive Director", "category": "civic", "source_url": "https://sanantonioreport.org/act-4-sa-ananda-tomas-police-reform/", "snippet": "Ananda Tomas is the current Executive Director for ACT 4 SA... one of the lead criminal justice advocacy groups in San Antonio and has won multiple policy changes in Bexar County."}
+    ]
+  },
+  {
+    "donor_id": "44e6e667-3189-453b-b8ed-cfbb75a65f79",
+    "name": "Price, Joseph",
+    "resolved_employer": "Frost Bank",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Software developer at Frost Bank, San Antonio (78240) per donor record; no distinct public profile located (common name). No PAC contributions or lobbyist registration found. Industry classified from employer (Frost Bank).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "23e9918a-b2e3-427a-8e3d-ed81fc834d5e",
+    "name": "Sopon, Mageida",
+    "resolved_employer": "Medley Inc",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "PR & Digital Account Executive at Medley Inc., a Houston PR/digital marketing firm; award-winning multicultural PR professional (PRSA Excalibur Young PR Professional of the Year). Firm bio confirms role. Record's '15902' is her street number (15902 Corsair Rd, Houston 77053), not a zip. No board/advocacy affiliations found.",
+    "source_url": "https://medley-inc.com/mageida/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1a3af549-3753-496e-9b46-404dd0624a6f",
+    "name": "Worthington, Greg",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as Not Employed, San Antonio 78251. Could not uniquely identify this individual in public records; LinkedIn hits are for different people (Bay Area operations director; Weatherford TX). No PAC contributions or lobbyist registration found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c9d260f0-f9c4-456f-b1a6-891f11c70f6d",
+    "name": "Haines, Jordan",
+    "resolved_employer": "Bonham Exchange",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Long-time head bartender at the Bonham Exchange, San Antonio's premier LGBTQ dance club (mixing cocktails there since 1989); local nightlife figure. Matches occupation (bartender) and employer in donor record. No formal policy-advocacy board seats, PAC contributions, or lobbyist registration found.",
+    "source_url": "https://outinsa.com/even-after-recent-death-of-owner-bonham-exchange-holds-lasting-appeal/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b401fefa-b01f-4c38-b3d3-3365d0fde151",
+    "name": "Galvan-Marchan, Priscilla",
+    "resolved_employer": "Marathon Petroleum (formerly Andeavor)",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "Donor record lists occupation as Benefits Analyst / Insurance Claims Administrator at Marathon/Andeavor, San Antonio 78218. Andeavor was the former Tesoro San Antonio refiner acquired by Marathon Petroleum, which maintains a San Antonio operation. Rank-and-file benefits/insurance employee, not exec/board/owner/lobbyist (no oil_gas advocacy affiliation recorded).",
+    "source_url": "https://business.sachamber.org/memberdirectory/Details/marathon-petroleum-2836463",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1287aa9b-884f-41ed-a06b-a0c05f482dac",
+    "name": "Gonzalez, AJ",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer in donor record; only a 78209 (Alamo Heights/Encino Ave) address. Common name with no distinguishing detail; no FEC PAC records, no Texas lobbyist registration, and no identifiable public bio could be corroborated.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e871dca1-e55c-4598-95c1-1bd1ea9e2535",
+    "name": "Dominguez, Mary",
+    "resolved_employer": null,
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "Donor record lists occupations 'Not Employed' and 'Development Director' with employer 'non-profit' (unnamed), San Antonio 78225. Common name; no specific individual, FEC PAC record, or Texas lobbyist registration could be corroborated. Industry inferred only from the self-reported 'Development Director, non-profit' occupation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c311d55b-8d74-4c06-ad34-6770004501e0",
+    "name": "Karthikeyan, Shibu",
+    "resolved_employer": "Ashford (unconfirmed)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor record lists cryptic occupations 'OPM'/'Ohss' and employer 'Ashford', Houston 77042 (Westchase, near S. Dairy Ashford). Could not confirm whether 'Ashford' refers to the Dallas-based Ashford Inc hospitality firm or a Houston employer near Dairy Ashford; no matching public profile, FEC PAC record, or Texas lobbyist registration found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c0130512-956c-4dba-89ee-339ce2387542",
+    "name": "Collura, Gna",
+    "resolved_employer": "Pasadena ISD",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Donor record lists occupation Teacher, employer Pasadena ISD, South Houston 77587 ('Gna' likely a nickname). Rank-and-file public school teacher; no FEC PAC records, no Texas lobbyist registration, no policy-advocacy roles found.",
+    "source_url": "https://www.pasadenaisd.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "996287e9-1758-467e-b883-359952ccefc5",
+    "name": "Abrams, Torrance",
+    "resolved_employer": "San Antonio ISD",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Donor reports occupation Education Specialist at San Antonio ISD (zip 78244). A 'Torrance Abrams' also appears as Director of Education & Events at the Greater San Antonio Builders Association, but that is a different employer and cannot be confirmed as the same person; classified from the donor's stated SAISD employer.",
+    "source_url": "https://www.sabuilders.com/education-foundation/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7d470749-b92a-4f0b-9d7c-e8adf4bf5635",
+    "name": "Alanis, Jessica",
+    "resolved_employer": "Brooks Academy of Science and Engineering (BASE)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Jessica Alanis is a Lead Teacher at Brooks Academy of Science and Engineering in San Antonio, matching the donor's stated employer (BASE, Brooks Academy). Corroborated by school staff directory and professional listing.",
+    "source_url": "https://rocketreach.co/jessica-alanis-email_124902502",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3c0aae85-9fb2-4d46-a86e-64304a079c33",
+    "name": "McElroy, Jim",
+    "resolved_employer": "Texas Health and Human Services Commission (HHSC)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Jim McElroy works in Financial Management at Texas HHSC in Austin (zip 78757), matching the donor's occupation (Financial Analyst) and employer (Health and Human Svc Dept). LinkedIn confirms HHSC Financial Management. Prior small FEC contributions were to Beto for Texas (a candidate committee, not a watched ideological PAC).",
+    "source_url": "https://www.linkedin.com/in/jim-mcelroy-6292b744/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3c033108-e4a9-4e82-a49f-aa1a28e64723",
+    "name": "Gamez, Linda",
+    "resolved_employer": "Chipotle",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Donor reports occupation Cashier at Chipotle (San Antonio, zip 78238). No distinct public profile found for this individual; classified by employer only (fast-casual restaurant / food service).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "24793bf9-7ee2-4ca8-baef-d4872a977299",
+    "name": "Robles, Giselle",
+    "resolved_employer": "San Antonio ISD (SAISD)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Donor reports occupation Teacher at San Antonio ISD, residing in New Braunfels (zip 78132). A 'Giselle Robles, San Antonio, TX' appears in a teacher-recognition feature consistent with a classroom educator; classified from the donor's stated SAISD employer. No lobbyist or ideological-PAC records found.",
+    "source_url": "https://es.stories.whataburger.com/asset/953103/teachers43",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "145978c6-f445-4284-82b4-cc6e39aa04c9",
+    "name": "Fobbs, Jerrime",
+    "resolved_employer": null,
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Self-reported high school social studies teacher in Kansas City, MO (64111). Name 'Jerrime Bernard Fobbs' appears in Kansas City people-search records, but no employing school district or public bio located to firmly corroborate. Ordinary out-of-state small-donor teacher; quiet result.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "11ee358d-7ac7-4caa-a95e-8ec7f0aca815",
+    "name": "Martinez, Selena",
+    "resolved_employer": "Chicago Public Schools",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Spanish-language educator at Chicago Public Schools (DePaul University), per her LinkedIn; matches self-reported CPS employer and Chicago (60651) location. Note: the 'MARTINEZ, SELENA ROSE' FEC candidate record is a separate California congressional candidate, not this donor. Quiet result.",
+    "source_url": "https://www.linkedin.com/in/selena-martinez-045198167/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "80ab63a2-99cc-4be8-8894-71ef848e0d25",
+    "name": "Shin, Soo",
+    "resolved_employer": "Sequoia Union High School District (East Palo Alto Academy)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Soo J Shin is a teacher at East Palo Alto Academy in the Sequoia Union High School District (public payroll records 2018-2021, ~$76k), matching self-reported employer 'SUHSD' and Bay Area residence (Mountain View 94041). Quiet result.",
+    "source_url": "https://openpayrolls.com/soo-j-shin-90348041",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "39b44a03-9058-42dd-8e07-70538b0a3477",
+    "name": "Cavazos, Rachel",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported Not Employed, San Antonio PO Box (78201). Multiple distinct 'Rachel Cavazos' exist in San Antonio (AARP Foundation project director, a Bexar County Clerk candidate, others); could not disambiguate to this donor with only a PO Box and no occupation/employer. Quiet result.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1d977874-c1d0-4daa-9bd5-107bdbfe8992",
+    "name": "Garcia, Lexy",
+    "resolved_employer": "Texas Freedom Network",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Lexy Garcia is an organizer/Statewide Program Manager (formerly Regional Field Coordinator) at Texas Freedom Network, a progressive advocacy org (religious-liberty, reproductive-rights, public-education watchdog). Matches self-reported employer and San Antonio (78216) location; also appears on TX Legislature witness lists (e.g., SB 32). Appears as a legislative witness, not a registered TX lobbyist.",
+    "source_url": "https://theorg.com/org/texas-freedom-network/org-chart/lexy-garcia",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Freedom Network", "role": "Organizer / Statewide Program Manager (formerly Regional Field Coordinator)", "category": "political", "source_url": "https://theorg.com/org/texas-freedom-network/org-chart/lexy-garcia", "snippet": "Lexy Garcia - Statewide Program Manager at Texas Freedom Network, a non-profit that describes its goals as protecting religious freedom, defending civil liberties, and strengthening public schools in Texas."}
+    ]
+  }
+]

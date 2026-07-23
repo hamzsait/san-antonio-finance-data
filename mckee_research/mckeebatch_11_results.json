@@ -1,0 +1,225 @@
+[
+ {
+  "donor_id": "001869ab-6915-4f1f-bcb7-6bed06dcb850",
+  "name": "Zakaria, Amir",
+  "resolved_employer": "Travel Nurse Across America (TNAA) — Registered Nurse",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Registered nurse (RN) in San Antonio (78257) working for TNAA, a travel-nursing agency; a matching LinkedIn profile places an Amir Zakaria in San Antonio, Texas. Occupation/employer/location align.",
+  "source_url": "https://www.linkedin.com/in/amir-zakaria-ba86b68/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "56ef6054-93aa-4e14-a8d1-0e409032d1d5",
+  "name": "Fischer, Huey Rey",
+  "resolved_employer": "Jackson Walker LLP — Attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Huey Lagarto Rey Fischer Garcia, licensed TX attorney (Bar #24104768, 2020) at Jackson Walker LLP in San Antonio; publicly known as the 2016 Democratic candidate for Texas House District 49 (Austin) and former senior policy analyst for State Rep. Eddie Rodriguez (D-Austin). Zip 78212 and Jackson Walker employer match.",
+  "source_url": "https://ballotpedia.org/Huey_Rey_Fischer",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House of Representatives, District 49", "role": "2016 Democratic primary candidate", "category": "political", "source_url": "https://ballotpedia.org/Huey_Rey_Fischer", "snippet": "Huey Rey Fischer was a 2016 Democratic candidate for District 49 of the Texas House of Representatives; finished third in the primary."},
+   {"org": "Office of State Rep. Eddie Rodriguez (D-Austin)", "role": "Senior Policy Analyst (environmental regulation and food policy)", "category": "political", "source_url": "https://www.austinchronicle.com/news/2016-01-29/meet-the-candidate-huey-rey-fischer/", "snippet": "He most recently served as a Senior Policy Analyst for State Representative Eddie Rodriguez (D-Austin)."}
+  ]
+ },
+ {
+  "donor_id": "98c1aebd-eee2-41bd-94ae-5fa86601d621",
+  "name": "Albert, Scott",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as Not Employed with a woodworking/self side interest at 922 N Pine St, San Antonio (78202). No public records, FEC contributions, or lobbyist registrations could be tied to this specific individual.",
+  "source_url": "https://www.bbb.org/us/tx/san-antonio/category/woodworking",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d6a63b5b-1f90-49eb-b27c-c44024c91ad2",
+  "name": "Puente, Alexandra",
+  "resolved_employer": "Wells Fargo — Customer Service",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Listed as a customer service employee at Wells Fargo in San Antonio (78251). Could not confirm the specific individual in public records; industry assigned by employer fallback (banking). No FEC or lobbyist records found.",
+  "source_url": "https://locations.wellsfargo.com/tx/san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6600ca15-2173-4390-8f07-b616452f757c",
+  "name": "Rush-Spratt, Kloie",
+  "resolved_employer": "Memphis Rise Academy — 7th Grade Writing Teacher",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "7th Grade Writing Teacher at Memphis Rise Academy in Memphis, TN (38104), per LinkedIn and ZoomInfo; formerly ESL teacher at Aurora Collegiate Academy and an AmeriCorps/City Year member. Name, employer, and location all match.",
+  "source_url": "https://www.linkedin.com/in/kloie-rush-spratt-703a41156",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "639314e3-a840-4726-8698-aeb223db0b92",
+  "name": "Moore, Brian",
+  "resolved_employer": "The Dodging Duck Brewhaus (Boerne-area brewpub) — Support",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Listed occupation 'Support' at The Dodging Duck Brewhaus, a Boerne, TX brewpub/restaurant serving the Fair Oaks Ranch area; donor address is in Fair Oaks Ranch (78015). Could not confirm the specific individual (common name). Industry assigned via employer fallback.",
+  "source_url": "https://www.dodgingduck.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2e89e138-4628-40b3-9a75-95003b66a6d5",
+  "name": "Coleman, Austin",
+  "resolved_employer": "IDEA Public Schools — Teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Teacher at IDEA Public Schools; a LinkedIn profile for Austin Coleman lists IDEA Public Schools, consistent with the stated occupation and San Antonio employer address (1130 Broadway, 78215). No PAC, lobbyist, or advocacy affiliations found.",
+  "source_url": "https://www.linkedin.com/in/austin-coleman-9929232a",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "05834aa2-34a6-461f-80b2-5a49f16f1901",
+  "name": "McCabe, Molly",
+  "resolved_employer": "San Benito CISD (SBCISD) teacher / Texas Health Trace case investigator",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Listed occupations Teacher (SBCISD) and Case Investigator (Texas Health Trace, the state COVID contact-tracing program), Harlingen TX 78550. Could not uniquely confirm the individual among same-named people in the Rio Grande Valley. Industry assigned via teacher-career employer fallback.",
+  "source_url": "https://schools.texastribune.org/districts/harlingen-cisd/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cb9ef90d-89dc-4a9b-bf94-f35333bce3a5",
+  "name": "FINCHER, LESLIE",
+  "resolved_employer": "CyberFortress (San Antonio data-backup/recovery firm) — Security Data Technician",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Security Data Technician at CyberFortress, a San Antonio data-backup/recovery cybersecurity firm; second occupation 'Not Employed'. Address 336 Claremont Ave, San Antonio 78209 matches the address on McKee-Rodriguez TEC campaign-finance filings, corroborating identity. No PAC/lobbyist/advocacy affiliations found.",
+  "source_url": "https://cyberfortress.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "745ca4a5-c3c3-4418-a461-189c35763dcc",
+  "name": "Miranda, Edward",
+  "resolved_employer": "City of San Antonio — Event Coordinator",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Listed as Event Coordinator, City of San Antonio (municipal employee), San Antonio 78244. Could not distinguish from other same-named individuals in San Antonio. Industry assigned via employer fallback (municipal government).",
+  "source_url": "https://www.sanantonio.gov/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8582cab3-4204-4eca-aef0-001bb660538b",
+  "name": "Rios, Susana",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as Not Employed at 110 Broadway, San Antonio 78205 (a downtown commercial/retail building). Could not corroborate a specific individual; identity unconfirmed.",
+  "source_url": "https://www.loopnet.com/Listing/110-Broadway-St-San-Antonio-TX/4053745/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "690c3a59-4f34-4a60-842d-3b266b53abc5",
+  "name": "McCraw, Philip",
+  "resolved_employer": "St. Philip's College (Alamo Colleges) — English instructor (retired)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "English instructor at St. Philip's College in San Antonio (career-changer, ~decade in role); also sings tenor with San Antonio Symphony MasterSingers and leads a choral group in Natalia. Donor occupations include Retired; LinkedIn corroborates. Address 3517 S Foster Rd, 78222.",
+  "source_url": "https://www.linkedin.com/in/philip-mccraw-5880678a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2305e3f5-04ee-40e6-a9ce-fdab962818b9",
+  "name": "MacGuire, Deirdre",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Confirmed at 473 West End Avenue Apt 4C, Manhattan NY 10024 (exact donor address match), listed as ~72 years old; Not Employed, likely retired. No public policy-advocacy roles found.",
+  "source_url": "https://www.spokeo.com/Deirdre-Mcguire",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ed192fc1-3c8c-425b-bd0c-508135b1442c",
+  "name": "Perkins, Elisa",
+  "resolved_employer": "University of Texas at San Antonio (UTSA) — Associate Director / Program Manager",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Public payroll records confirm Elisa Perkins as UTSA Program Manager (2018) and Associate Director (2021) in San Antonio; matches donor's 'Educator' occupation and UTSA employer (zip 78230). Could not corroborate the H-E-B/DEI-manager title independently.",
+  "source_url": "https://openpayrolls.com/elisa-perkins-120822698",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b769658b-67d0-443c-9fd7-90e716994a6b",
+  "name": "Rios, Daniel",
+  "resolved_employer": "Behavioral Innovations (ABA-therapy clinics) — Registered Behavior Technician",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Daniel Abraham Rios is a registered Behavior Technician in San Antonio (NPI 1942848692, assigned 2019), matching donor occupation; Behavioral Innovations operates ABA-therapy clinics in San Antonio. Occupation/employer/field align.",
+  "source_url": "https://opennpi.com/provider/1942848692",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "25b63723-d568-4c2e-944a-66387d86418f",
+  "name": "Bravenec, Katy",
+  "resolved_employer": "City of San Antonio (Council District 5 Office) — Chief of Staff",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Chief of Staff for San Antonio City Council District 5; ZoomInfo lists her with a @sanantonio.gov email and title matching the donor record; zip 78212 / 501 Shook Ave matches. No FEC PAC or TX/city lobbyist registrations found.",
+  "source_url": "https://www.zoominfo.com/p/Katy-Bravenec/6204211050",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d62a49e7-790d-48cb-936f-1929fd2ad430",
+  "name": "Hoover, Maggie",
+  "resolved_employer": "KM Consulting LLC / physician assistant (CentroMed)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Maggie R. Hoover, PA-C, is a physician assistant in San Antonio (Healthgrades, US News, CentroMed clinician page); occupation record 'Consultant,Pa' and employer 'KM Consulting LLC/kenmagconsulting' align with a PA who also runs a consulting entity. San Antonio location confirmed; exact 78245 residence not independently verified.",
+  "source_url": "https://centromedsa.com/clinicians/maggie-r-hoover/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9db5269f-9bd6-4371-ad56-8202ce81c2e7",
+  "name": "Bunting, Alyssa",
+  "resolved_employer": "Düable (San Antonio brand/communications consultancy) — Marketing Manager",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Marketing Manager at Düable (Duable Brand Trust), a San Antonio branding/campaign consultancy; confirmed via LinkedIn (in/alybun) and ZoomInfo with @duable.com email; UTSA PR/advertising grad. She is an employee, not a principal; no documented personal policy-advocacy roles.",
+  "source_url": "https://www.linkedin.com/in/alybun/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3e60cb04-a0c6-4664-a00a-d886c58b9bcb",
+  "name": "Liu, Phillip",
+  "resolved_employer": "San Antonio ISD — Teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Teacher with San Antonio ISD (per donor record, zip 78212 / W Mistletoe Ave); a matching Phillip Liu LinkedIn shows a SAISD educator pursuing a UTSA school-counseling graduate program. Same-name risk noted but occupation/employer/location consistent.",
+  "source_url": "https://www.linkedin.com/in/phillip-liu-7a223a126/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "85774904-9470-4993-80fe-0fa374115106",
+  "name": "Gray, Jeremy",
+  "resolved_employer": "San Antonio ISD — English teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "English teacher / English 2 lead in San Antonio ISD, matching donor occupation and employer (zip 78202). Distinct from the Alabama politician and the KIPP charter leader of the same name. No FEC PAC or TX/city lobbyist registrations found.",
+  "source_url": "https://www.saisd.net/page/teach",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

@@ -1,0 +1,319 @@
+[
+ {
+  "donor_id": "f45ad3d9-d9f0-479d-b1cd-65e8b1926013",
+  "name": "Ordoqui, Art",
+  "resolved_employer": "Impactology Consulting LLC (nonprofit-tech/Salesforce consulting; 'Points of Light' reflects HandsOn Connect volunteer-tech platform work)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Arturo 'Art' Ordoqui, San Antonio-based Salesforce/nonprofit-technology consultant, Chief Impact Officer & Founder of Impactology Consulting LLC and a Salesforce MVP. The record's 'Points of Light' employer maps to his volunteer-management/CRM tech work (HandsOn Connect is a Points of Light platform). SA/78209 residence matches.",
+  "source_url": "https://www.linkedin.com/in/arturo-ordoqui/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "San Antonio Humane Society",
+    "role": "Board Member (2019-present)",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/arturo-ordoqui/",
+    "snippet": "Board Member, San Antonio Humane Society (January 2019-present); nonprofit community/Salesforce leader in San Antonio."
+   }
+  ]
+ },
+ {
+  "donor_id": "e43da90f-8551-4ed8-9a6a-aa0e4f80895a",
+  "name": "Garcia, Erika",
+  "resolved_employer": "TxDOT / Texas A&M (unconfirmed for this specific individual)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Common name in College Station (77845); record lists a state agency (TxDOT) plus Texas A&M in a diversity-education role. Could not confirm the specific individual online; a TEC-registered lobbyist 'Garcia Brown, Erika' (Austin) is a DIFFERENT person. Industry assigned by generic-employer fallback (state agency = Government); could alternatively be Education.",
+  "source_url": "https://www.ethics.state.tx.us/search/lobby/LobbySimpleSearch.php",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cd87832d-40cc-408a-9b41-29abcf31c7e9",
+  "name": "Wheat, Brian",
+  "resolved_employer": "Texas Legislative Council (TLC) - nonpartisan Texas legislative-support agency",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Record lists a software developer at the Texas Legislative Council, a nonpartisan Texas state legislative-support agency, Austin 78721. The employer and role are plausible/specific, but 'Brian Wheat' is a common name and the specific individual could not be independently corroborated online. Industry by employer (state legislative agency = Government).",
+  "source_url": "https://tlc.texas.gov/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a15d5c0c-cdb9-47e7-ad67-6723e85f42dd",
+  "name": "Piper, Doshie",
+  "resolved_employer": "University of the Incarnate Word (UIW), Associate Professor of Criminal Justice",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Doshie Piper, Associate Professor of Criminal Justice at UIW, San Antonio; criminologist and restorative-justice practitioner focused on reentry/reform. Identity strongly corroborated via UIW faculty page, LinkedIn, and her own bio site. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.uiw.edu/chass/directory/faculty-and-staff/piper-doshie.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Organizing Project (TOP)",
+    "role": "Restorative Justice Coordinator / board member",
+    "category": "political",
+    "source_url": "https://drdoshiepiper.com/about.html",
+    "snippet": "Serves as Restorative Justice Coordinator at Texas Organizing Project and is a board member; TOP is a progressive civic/political advocacy organization."
+   },
+   {
+    "org": "City of San Antonio MLK Commission",
+    "role": "Commission member",
+    "category": "civic",
+    "source_url": "https://drdoshiepiper.com/about.html",
+    "snippet": "Listed roles include City of San Antonio MLK Commission and San Antonio Police Department advisory boards."
+   }
+  ]
+ },
+ {
+  "donor_id": "726e001f-0180-4330-9e98-690a05d9e7f2",
+  "name": "Havill, Lorena",
+  "resolved_employer": "Phathom Pharmaceuticals (Senior Medical Science Liaison)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Lorena Havill, Senior Medical Science Liaison at Phathom Pharmaceuticals (GI biopharma), San Antonio, TX - corroborated via 2023 AMCP conference attendee lists showing her name, title, and San Antonio location. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://amcpannual.org/sites/default/files/2023-02/Attendee-List-Feb-15.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "710ec6e7-00c4-4ca9-b81f-51dfcf23d663",
+  "name": "Kneese, Garrett",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reported Unemployed/Not Employed at 149 Brook Hollow Dr, Huntsville, TX 77340. The only notable 'Garrett Kneese' (a rare surname) is a family-medicine physician (UTHSCSA Class of 2022, trained in San Antonio) now in Washington, DC; his public bio never mentions Huntsville, so the address does not match and identity cannot be confirmed. Not classifying industry beyond the self-reported status.",
+  "source_url": "https://wp.uthscsa.edu/alumni-newsletters/medicine/garrett-s-kneese-md-mph-class-of-2022/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "61d19faf-323d-4842-b164-a0c2b249c541",
+  "name": "Gonzalez, Angel Jose",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Address 301 Encino Ave, Alamo Heights (78209) confirmed as a residential property and a data-broker record ties an 'Angel Gonzalez' to it, but occupation/employer are N/A in the record and 'Angel/Jose Gonzalez' is an extremely common San Antonio name (multiple distinct LinkedIn profiles). Cannot confirm the specific individual, so no industry assigned. No bio page available to read.",
+  "source_url": "https://www.zillow.com/homedetails/301-Encino-Ave-Alamo-Heights-TX-78209/26146593_zpid/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5f22f41c-747f-4a74-a594-96e2ffa6e29b",
+  "name": "Herrera, Kaitlyn",
+  "resolved_employer": "Self-employed (personal trainer)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Self-employed personal trainer at 10111 Bermuda Trace, San Antonio 78245. A LinkedIn profile for 'Kaitlyn Herrera' tied to UTSA and a San Antonio social profile corroborate a young local resident consistent with the self-reported personal-trainer occupation. No PAC or lobbyist footprint.",
+  "source_url": "https://www.linkedin.com/in/kaitlyn-herrera-634779315",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "47b0da46-640e-4154-9f37-b105b785ba3b",
+  "name": "Ritter, Michael",
+  "resolved_employer": "Texas Fourth Court of Appeals (staff/appellate attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Michael J. Ritter, board-certified civil/criminal appellate attorney and staff attorney at the Fourth Court of Appeals in San Antonio (Trinity Univ. 2007, UT Law 2010; formerly Schmoyer Reinhard). He is a staff attorney, NOT a sitting justice. Employer '4th Court of Appeals' and lawyer occupation match exactly.",
+  "source_url": "https://ballotpedia.org/Michael_Ritter",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Fourth District Court of Appeals, Place 3",
+    "role": "2024 Republican primary candidate (lost to Todd McCray)",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Michael_Ritter",
+    "snippet": "Michael Ritter ran for election for Place 3 judge of the Texas Fourth District Court of Appeals and lost in the Republican primary on March 5, 2024."
+   }
+  ]
+ },
+ {
+  "donor_id": "46fdf2ff-bb1d-47ea-9438-2c783d4d14d7",
+  "name": "Abuabara, Rosey",
+  "resolved_employer": "Not employed (full-time Democratic political/community activist; formerly office administrator for husband's surgical practice)",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Rosalinda 'Rosey' Ramos Abuabara, San Antonio Democratic activist and 2020 U.S. House TX-23 primary candidate (FEC candidate H0TX23193, 'Rosey For Congress Texas 23'); Bexar County Democratic precinct chair, SDEC-25 candidate, and TX23 Indivisible organizer. Distinctive surname + San Antonio location + activism confirm identity.",
+  "source_url": "https://ballotpedia.org/Rosalinda_Ramos_Abuabara",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "U.S. House, Texas District 23 (Rosey For Congress)",
+    "role": "2020 Democratic primary candidate",
+    "category": "political",
+    "source_url": "https://www.fec.gov/data/candidate/H0TX23193/",
+    "snippet": "FEC candidate overview: ABUABARA, ROSALINDA RAMOS - Democratic candidate for House Texas District 23 (principal committee 'Rosey For Congress Texas 23')."
+   },
+   {
+    "org": "Bexar County Democratic Party / SDEC District 25",
+    "role": "Democratic precinct chair; SDEC-25 candidate",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Rosalinda_Ramos_Abuabara",
+    "snippet": "Has been a Bexar County Democratic precinct chair and active with grassroots activist group TX23 Indivisible."
+   },
+   {
+    "org": "LGBTQIA / immigrant & women's rights activism (San Antonio)",
+    "role": "Organizer / speaker",
+    "category": "civic",
+    "source_url": "https://sanantonioreport.org/lgbtqia-group-stages-flash-mob/",
+    "snippet": "Organized a 2017 LGBTQ pride flash mob and has organized, attended and spoken at numerous rallies promoting immigrant, women's and LGBTQIA rights."
+   }
+  ]
+ },
+ {
+  "donor_id": "3fcde080-7c28-4ff4-a3b4-e2ac4deb45c7",
+  "name": "Balakit, Hazel",
+  "resolved_employer": "Watts Guerra LLP (mass-tort plaintiff law firm), discovery specialist",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Discovery specialist/team member at Watts Guerra LLP, a San Antonio mass-tort plaintiff law firm (78212). Low public profile; employer corroborated, individual not independently profiled online. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://law.usnews.com/law-firms/watts-guerra-llp-8729",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "183c444f-8c3e-420b-978f-4d27fb7b4985",
+  "name": "Menchaca, Marquize",
+  "resolved_employer": "University Health / UHS (patient care / med-surg technician)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Med-surg / patient care technician at University Health System, San Antonio. Name, address (1050 Greer St, 78210), and employer all match the McKee-Rodriguez campaign-finance filing. Low political profile; no PAC or lobbyist footprint.",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000002941_20230405_162223.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "14dc4e2b-9cba-4f98-a6ce-2bc6479ec870",
+  "name": "Wilson, Harriet",
+  "resolved_employer": "Self-employed (childcare)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-employed childcare provider in Knoxville, TN (37914), an out-of-state small donor. Very common name; could not confirm the specific individual (a Knoxville 'Harriet Wilson' obituary refers to a deceased schoolteacher, a different person). Industry taken from stated employer.",
+  "source_url": "https://www.peoplefinders.com/name/harriet-wilson/tn",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0eb2acc3-7dc6-45ac-b2cd-1f837c469035",
+  "name": "Belmares, Ed",
+  "resolved_employer": "HJD Capital Electric, Inc. (Chief Operating Officer)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Chief Operating Officer of HJD Capital (employee-owned construction/electrical/utility firm). Prominent San Antonio figure: former City of San Antonio Assistant City Manager, ex-COO of KFW Engineers, ex-VP Business Operations at CPS Energy; MS Public Administration, Trinity University.",
+  "source_url": "https://hjdcapital.com/team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "San Antonio Water System (SAWS) Board of Trustees",
+    "role": "Vice Chair / Trustee",
+    "category": "civic",
+    "source_url": "https://www.saws.org/people/ed-belmares/",
+    "snippet": "Ed Belmares serves as Vice Chair of the San Antonio Water System (SAWS) Board, having joined in October 2020."
+   },
+   {
+    "org": "American Heart Association (San Antonio board)",
+    "role": "Past Chair",
+    "category": "civic",
+    "source_url": "https://hjdcapital.com/team/",
+    "snippet": "Past-Chair of the San Antonio Board of the American Heart Association; former Chair of the March of Dimes board; board member of San Antonio Mission Heritage Society and United Way of Comal County."
+   }
+  ]
+ },
+ {
+  "donor_id": "0cd3e093-1636-48ad-a596-5cb230839157",
+  "name": "Adelson, David",
+  "resolved_employer": "Getty Images (Executive Producer, Getty Images Video / WireImage)",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "Executive Producer at Getty Images Video / WireImage, based in the Los Angeles area (Marina Del Rey, 90292). Title and location corroborated via Getty and LinkedIn. Not connected to Sheldon/Miriam Adelson, who dominate FEC results but are unrelated individuals.",
+  "source_url": "https://www.gettyimages.com/photos/david-adelson",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "036e1d2f-7e46-43b1-a55d-6990da08452b",
+  "name": "Melton, Dana",
+  "resolved_employer": "San Antonio ISD (SAISD) - fine arts/dance teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "A Dana Melton is a Fine Arts/dance teacher (IB Dance, Orange Jackets director) in San Antonio ISD, matching the listed SAISD teacher occupation; an SAISD staff page exists for a D. Melton. Zip 78247 not independently confirmed but occupation + employer align.",
+  "source_url": "https://schools.saisd.net/page/dmelton1-Home",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "244903bd-da3f-48e5-80ae-62280cc08914",
+  "name": "Castillo-Anguiano, Leo Tyler",
+  "resolved_employer": "Pride Center San Antonio (Community Empowerment Coordinator) / Enterprise Holdings; later Thrive Youth Center",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Well-documented San Antonio LGBTQ activist and close McKee-Rodriguez ally; UTSA classmate who helped run his campaigns and was unanimously appointed interim D2 councilmember (Aug 2025) during the councilman's parental leave, becoming the first openly transgender man in public office in Texas.",
+  "source_url": "https://www.sacurrent.com/news/transgender-man-leo-castillo-to-serve-as-interim-district-2-rep-on-san-antonio-city-council-37735286/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Pride Center San Antonio",
+    "role": "Community Empowerment Coordinator",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/leotylercastilloanguiano/",
+    "snippet": "Managed community involvement and service-learning events as liaison between staff, volunteers, board and community at Pride Center San Antonio."
+   },
+   {
+    "org": "Thrive Youth Center",
+    "role": "Social Media / Marketing Manager",
+    "category": "civic",
+    "source_url": "https://www.sacurrent.com/news/transgender-man-leo-castillo-to-serve-as-interim-district-2-rep-on-san-antonio-city-council-37735286/",
+    "snippet": "He works as a social media and marketing manager for Thrive Youth Center."
+   },
+   {
+    "org": "Trans Masc Folks Y Mas (TMFYM)",
+    "role": "Co-Founder",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/leotylercastilloanguiano/",
+    "snippet": "Co-Founder of a peer-to-peer transgender support group affiliated with Pride Center San Antonio."
+   },
+   {
+    "org": "San Antonio City Council, District 2",
+    "role": "Interim Councilmember (2025); prior McKee-Rodriguez campaign operative",
+    "category": "political",
+    "source_url": "https://www.sacurrent.com/news/transgender-man-leo-castillo-to-serve-as-interim-district-2-rep-on-san-antonio-city-council-37735286/",
+    "snippet": "Attended UTSA with McKee-Rodriguez and helped operate some of his past campaigns; unanimously approved as interim D2 rep."
+   }
+  ]
+ },
+ {
+  "donor_id": "f6483e0f-a794-4603-9ac6-555bc194a046",
+  "name": "Karuru, Mercy",
+  "resolved_employer": "Guiding Light Hospice Inc (business development / marketing)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "LinkedIn/The Org identify Mercy Karuru as Sr. Rep/Business Development at Guiding Light Hospice Inc in the San Antonio metro area, matching the listed 'Marketing / Hospice' occupation and employer. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/mercykaruru/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3c389a02-1ba8-4043-9a2f-13b6e253ed0b",
+  "name": "Borrego, Anthony",
+  "resolved_employer": "Adelita Tamales & Tortilla Factory (general manager / family owner)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Anthony Borrego is the general manager and fourth-generation family owner of Adelita Tamales & Tortilla Factory in San Antonio (founded by great-grandfather Roberto Borrego Sr.), matching the 'Adelita / food manufacturing manager' listing. Zip 78213 not independently confirmed.",
+  "source_url": "https://www.yahoo.com/lifestyle/articles/87-old-san-antonio-spot-161014747.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b1ef5d7d-8701-40ef-a945-30073147aef6",
+  "name": "Holmes, Pamela",
+  "resolved_employer": "San Antonio ISD (SAISD) - teacher",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Listed as an SAISD teacher at 78213; could not confirm the specific individual in SAISD staff directories or news. Categorized by generic employer (SAISD = Education) per the fallback; no distinguishing corroboration found. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.saisd.net/staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

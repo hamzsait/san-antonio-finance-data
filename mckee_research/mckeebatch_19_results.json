@@ -1,0 +1,261 @@
+[
+ {
+  "donor_id": "14e96067-7dac-4149-9ce8-af0ec8f44793",
+  "name": "Orellana, Anggie",
+  "resolved_employer": "Aramark (AT&T Center / Frost Bank Center) - HR Generalist",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "HR Generalist for Aramark, the food-service/concessions contractor at San Antonio's AT&T Center (now Frost Bank Center); public records show an Anggie Orellana in the Schertz/Converse (78109) area matching the donor address.",
+  "source_url": "https://www.instantcheckmate.com/people/anggie-orellana/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c704e3f1-98e1-4351-b4a3-36b98791cfe1",
+  "name": "Lang-Jarmon, LePaula",
+  "resolved_employer": "Semi-retired (self-listed former employer 'GWI'; not further identifiable)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported as Not Employed / Semi-retired on the McKee-Rodriguez campaign finance filing; resides at 4423 Seabreeze Dr, San Antonio 78220. Former employer 'GWI' could not be identified in public records. No FEC PAC or TX lobbyist record found.",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000002941_20230405_162223.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "acbb589b-b5b4-4803-8a5f-05698ef39269",
+  "name": "Padilla, Thelma",
+  "resolved_employer": "Social worker with a school district (self-reported)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Categorize-by-employer fallback: self-reports as a Social Worker for a school district; common name and no distinctive public record could confirm the specific individual at 6431 Jade Meadow, San Antonio 78249. No FEC PAC or TX lobbyist record found.",
+  "source_url": "https://www.saisd.net/page/social-workers",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2b27c381-4792-4879-b986-65b45c094ecf",
+  "name": "Asghar, Syedah",
+  "resolved_employer": "Teach For America San Antonio (educator / teacher leadership); former SAISD science teacher",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Educator at an education nonprofit and former San Antonio ISD science teacher; born in Pakistan, Leadership SAISD Class of 2020, Agnes Scott College. Matches 78212 educator profile at an education nonprofit.",
+  "source_url": "https://m.facebook.com/LeadershipSAISD/photos/meet-syedah-asghar-lsaisd-class-of-2020syedah-asghar-was-born-in-pakistan-and-br/3414991025194497/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ff9691db-74b6-44fe-8b06-3a8372522d02",
+  "name": "Salcido, Francisco",
+  "resolved_employer": "Self-employed physician - Salcido Family & Occupational Medicine (Family Medicine, Permian Basin)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Board-certified Family Medicine MD in the Midland/Odessa Permian Basin (NPI 1093719767), self-employed at Salcido Family & Occupational Medicine, affiliated with Midland Memorial Hospital; matches self-employed MD at Midland 79705. Democratic-leaning FEC pattern (39 gifts) but no balanced-category PAC affiliation with a citable source.",
+  "source_url": "https://www.drsalcido.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fe2f39a2-a0aa-42d4-bf66-3ef490025b78",
+  "name": "Lovin, Justice",
+  "resolved_employer": "San Antonio ISD (SAISD) teacher",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Justice Lovin is a San Antonio ISD teacher (SAISD staff page jlovin1); publicly quoted in 2020 as an SAISD teacher raising concerns over district reopening plans. Name + SAISD + San Antonio 78204 all match.",
+  "source_url": "https://news4sanantonio.com/news/local/not-until-its-safe-san-antonio-alliance-opposes-districts-back-to-school-plans",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f59e2ffe-903f-40fc-894f-ea5d56b6497e",
+  "name": "Cull, Tim",
+  "resolved_employer": "Head of Engineering at Swing Left (Berkeley, CA); software engineer",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Tim Cull, Berkeley CA software engineer, was Head of Engineering at Swing Left (progressive Democratic grassroots org) 2019-2021; later VP Eng at Audette.io. Donation employer 'Swingleft' and occupation 'Engineer' match exactly.",
+  "source_url": "https://www.linkedin.com/in/tim-cull-45b7a3/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Swing Left",
+    "role": "Head of Engineering",
+    "category": "political",
+    "source_url": "https://theorg.com/org/swing-left/teams/engineering-team",
+    "snippet": "Tim Cull served as Head of Engineering at Swing Left, a progressive grassroots political organization."
+   }
+  ]
+ },
+ {
+  "donor_id": "f43456be-86bf-4217-8f72-8d9bde72fe9f",
+  "name": "Gregory, Gabrien",
+  "resolved_employer": "US Army Reserve officer (HR/S1 officer, Ft. Sam Houston); community organizer",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Gabrien Gregory is a US Army Reserve HR officer at Ft. Sam Houston, St. Mary's grad, and a Democratic political candidate (ran San Antonio City Council D10 in 2021 and for Texas House 121). Name, San Antonio, and Army Reserve occupation match; 18 FEC donations consistent with a Democratic organizer.",
+  "source_url": "https://ballotpedia.org/Gabrien_Gregory",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "San Antonio City Council District 10 / Texas House 121 campaigns",
+    "role": "Democratic candidate for office",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Gabrien_Gregory",
+    "snippet": "Gabrien Gregory ran in the general election for San Antonio City Council District 10 (2021); progressive/Democratic candidate and organizer."
+   }
+  ]
+ },
+ {
+  "donor_id": "ef7e3367-b05d-46a1-8c88-9dd123ad0c49",
+  "name": "Lee, Eliot",
+  "resolved_employer": "President/owner of MVHL Consulting, LLC (IT & cybersecurity services, San Antonio)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Eliot Lee owns MVHL Consulting, LLC, an IT/cybersecurity services firm; 40+ yrs IT experience, former Bexar County IT employee. Firm address 1542 Wild Fire, San Antonio 78251 matches the donor address exactly.",
+  "source_url": "https://www.linkedin.com/in/eliotmlee/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ee99e442-ef6a-459b-8f9b-1fac90184ec6",
+  "name": "Gomez, Fabian",
+  "resolved_employer": "Physician Assistant (PA-C, MPAS), Dept. of Emergency Medicine, UT Health San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Fabian Gomez, PA-C, MPAS is a physician assistant in Emergency Medicine at UT Health Science Center San Antonio. Employer 'UT Health and Science Center' and occupation 'Medical Field' match; San Antonio 78240 location consistent.",
+  "source_url": "https://lsom.uthscsa.edu/emergency-medicine/profile/gomez-fabian/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ebf8d0fb-bd3c-4d4a-8015-b3552fcae206",
+  "name": "Roberts, Jason",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Prolific small-dollar donor (199 FEC gifts, mixed partisan lean ~0.31) at LA 90046 listing occupation/employer as 'Not Employed'; too common a name to confirm a specific individual. A Jason Christopher Roberts (attorney) exists in LA but occupation does not match, so not corroborated. No balanced-category PAC affiliation surfaced.",
+  "source_url": "https://www.martindale.com/attorney/jason-christopher-roberts-3401932/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ebb71da0-eafc-4049-9927-9e2b8de24ec6",
+  "name": "Garcia, Bryan",
+  "resolved_employer": "Valero Energy Corporation — Credit Analyst",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Public data profile confirms a Bryan Garcia working as a Credit Analyst at Valero Energy Corporation (a major San Antonio oil & gas refiner), consistent with the stated employer/occupation and 78210 location. Analyst role, not an executive/board/ownership position, so no oil_gas policy-advocacy affiliation is recorded.",
+  "source_url": "https://wiza.co/d/valero-energy-corporation/e580/bryan-garcia",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "eabf3dfe-a8e6-4b6c-8bf4-33e6a96582b2",
+  "name": "Payne, Melissa",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Homemaker ('Mom') in Parker, TX 75002 with 65 FEC gifts (partisan lean ~0.60); no matching FEC/lobbyist/bio record could be tied to this specific individual — the name is too common to corroborate identity.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e975e7ac-568e-45bc-9b61-763b1a0d4558",
+  "name": "Alvarez, Jose",
+  "resolved_employer": "U.S. Army — soldier (Fort Leonard Wood area, Saint Robert, MO)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Categorize-by-employer fallback: active-duty U.S. Army soldier residing in Saint Robert, MO 65584, adjacent to Fort Leonard Wood; classification by the clear generic employer (military). Common name, so the specific individual is not uniquely confirmed. No FEC PAC or TX lobbyist record found.",
+  "source_url": "https://en.wikipedia.org/wiki/Fort_Leonard_Wood",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e94a105c-7bc6-4de8-8db6-75e3b0763fdf",
+  "name": "Fraser, Lauren",
+  "resolved_employer": "Facebook/CrowdTangle — partnerships & business development",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Bay Area tech partnerships professional: VP Business Development at CrowdTangle (acquired by Facebook), earlier media partnerships at Twitter and Bleacher Report; matches the stated 'partnerships'/'Facebook' occupation and San Francisco 94117 location.",
+  "source_url": "https://contactout.com/Lauren-Fraser-473933",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e85e9c15-13b6-4e57-b411-f6ea556b6b26",
+  "name": "Boneta, Cristopher",
+  "resolved_employer": "Jolt (Jolt Action / Jolt Initiative — Texas Latino civic-engagement nonprofit), community organizer",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'Organizer' at 'Jolt'; Jolt Action actively staffs student/community organizers in San Antonio, consistent with the record, but no public page names this specific individual at the 78209 address. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://jolttx.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e6ee2c76-b778-4dba-99f8-59e416f4cbd4",
+  "name": "Diaz, Monique",
+  "resolved_employer": "State of Texas — Judge, 150th Civil District Court, Bexar County (elected 2018, re-elected 2022)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Occupation 'Judge'/'State of Texas' + San Antonio 78209 matches Monique Diaz, sitting judge of Bexar County's 150th Civil District Court; St. Mary's Law grad, presides over Family Drug Court.",
+  "source_url": "https://judgemoniquediaz.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Bexar County Juvenile Board",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://sanantonioreport.org/profile/monique-diaz/",
+    "snippet": "currently serves on the Bexar County Juvenile Board"
+   },
+   {
+    "org": "Collaborative Commission on Domestic Violence (joint city-county)",
+    "role": "Co-Chair",
+    "category": "civic",
+    "source_url": "https://judgemoniquediaz.com/",
+    "snippet": "Co-Chair of the joint city-county Collaborative Commission on Domestic Violence"
+   }
+  ]
+ },
+ {
+  "donor_id": "e6ba923b-f554-4440-9e7a-31fafc18b3a7",
+  "name": "Galvan, Tiffany",
+  "resolved_employer": "TMG Media, LLC — CEO/Founder and nonprofit fundraising consultant",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Address 214 Roanoke St., San Antonio 78228 matches TMG Media LLC business registration; LinkedIn/LSA list her as CEO/Founder, fundraising consultant, and Leadership San Antonio alumna. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://us.kompass.com/c/tmg-media-llc/usnn0856838/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Leadership San Antonio (SA Chamber / Hispanic Chamber)",
+    "role": "Alumna, Class 46 (and named to Class 48)",
+    "category": "business",
+    "source_url": "https://www.lsaalumni.com/texas/san-antonio/lsa-class-year-46/tiffany-galvan",
+    "snippet": "Tiffany Galvan ... CEO/Founder, Fundraising Consultant ... at TMG Media — Leadership San Antonio Alumni Association, Class Year 46"
+   }
+  ]
+ },
+ {
+  "donor_id": "e67cc605-90bb-44ac-a24f-72596cb06d96",
+  "name": "Sanders, Christopher",
+  "resolved_employer": "Reuters — Software Engineer (self-reported)",
+  "industry": "Media",
+  "confidence": "low",
+  "evidence": "NYC (Edgecombe Ave, 10031, Hamilton Heights) software engineer employed at Reuters per donation record, with a high small-dollar donation count (61 FEC gifts); could not positively match a public profile to confirm the specific individual. No Christopher Sanders match on the TX lobbyist registry (and TX lobbying is irrelevant to a NYC resident); no pro-Israel/J Street/oil/gun/defense PAC ties surfaced.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e639f577-37f8-4472-b91c-d4794ec26072",
+  "name": "Rodriguez, Paco",
+  "resolved_employer": "Teach For America (San Antonio) — educator",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Categorize-by-employer fallback: self-reported 'Educator' at Teach For America, San Antonio 78239; TFA runs a San Antonio corps/region consistent with the record, but no public page names this specific individual. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.teachforamerica.org/where-we-work/san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]
