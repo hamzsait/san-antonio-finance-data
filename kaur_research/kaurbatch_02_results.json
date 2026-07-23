@@ -1,0 +1,245 @@
+[
+ {
+  "donor_id": "a1e62ac2-622c-4ee8-92f5-32d2ae91e1a2",
+  "name": "Reed, Ryan",
+  "resolved_employer": "VillaReed Partners LLC / RSR Design LLC",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Ryan St. James Reed, San Antonio designer and infill real-estate developer; co-founded VillaReed Partners LLC with Sara Villarreal (their Ashby Place project near San Pedro Springs Park), runs RSR Design LLC. Address 242 W Lynwood Ave matches 78212 Alta Vista/Monte Vista area. Met partner through ULI San Antonio.",
+  "source_url": "https://sanantonioreport.org/development-san-pedro-springs-park-playhouse-infill-apartments-restaurant-alta-vista-neighborhood/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Urban Land Institute (ULI) San Antonio", "role": "member", "category": "business", "source_url": "https://sanantonioreport.org/development-san-pedro-springs-park-playhouse-infill-apartments-restaurant-alta-vista-neighborhood/", "snippet": "Reed met Villarreal through San Antonio's Urban Land Institute."},
+   {"org": "San Pedro Springs Park conservancy", "role": "board member", "category": "civic", "source_url": "https://sanantonioreport.org/development-san-pedro-springs-park-playhouse-infill-apartments-restaurant-alta-vista-neighborhood/", "snippet": "both developers serve on the board of a newly formed conservancy dedicated to supporting San Pedro Springs Park."}
+  ]
+ },
+ {
+  "donor_id": "9e84dcc5-8bb2-40d7-889d-165dbef9e06d",
+  "name": "Singh, Manpreet",
+  "resolved_employer": "Singh Capital Partners (Founder & Chief Investment Officer); US Inspect board director",
+  "industry": "Venture Capital",
+  "confidence": "medium",
+  "evidence": "Manpreet Singh, CFA, founder/CIO of Singh Capital Partners, a Potomac, MD private investment office (VC/PE/real estate); holds a board seat on US Inspect among many portfolio companies. Donor address 11752 Lake Potomac Drive, Potomac MD 20854 matches (the '11752' zip field is actually the street number). Reported occupation 'GM/CFO, US Inspect' reflects his ownership/board role; US Inspect's operational GM is separately named, so exact title is ambiguous but the Potomac investor identity is a strong match.",
+  "source_url": "https://frbholdings.com/leadership/manpreet-singh/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "US Inspect", "role": "board director / investor", "category": "business", "source_url": "https://frbholdings.com/leadership/manpreet-singh/", "snippet": "Singh holds seats on private company boards (Founderpath, PartsAvatar, Oats Overnight, US Inspect, and others)."}
+  ]
+ },
+ {
+  "donor_id": "97276215-d329-48aa-8d6a-b287d8817b0f",
+  "name": "Aneja, Amrit",
+  "resolved_employer": "Oakland Unified School District (teacher); formerly Golestan Kids (Berkeley)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Reported as a teacher at Oakland Unified School District, formerly at Golestan Kids (a Persian-immersion school in Berkeley), Alameda CA address; Zscaler string likely a household employer. No public bio/profile could be corroborated beyond these generic occupation/employer strings, so identity is unconfirmed and no affiliations are asserted.",
+  "source_url": "https://www.ousd.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7ca95045-c357-4e51-933a-61f27cf6530f",
+  "name": "Farias, Gabe and Katie",
+  "resolved_employer": "Kellum Physician Partners (EVP Public Affairs & Marketing / operational lead); now Managing Partner, Jaeger FC",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Gabe Farias, veteran San Antonio public-affairs executive; at time of donation was EVP of Public Affairs & Marketing and operational lead at Kellum Physician Partners (Dr. Daniel Kellum's group), matching employer strings. Former West SA Chamber CEO, ex-chief of staff to District 3 officials, now co-founder of consultancy Jaeger FC. Katie Farias is his spouse. South Side (78221) resident.",
+  "source_url": "https://portsanantonio.us/Gabe-Farias",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House District 118 (Democratic Party)", "role": "2015 special-election & 2016 Democratic candidate", "category": "political", "source_url": "https://ballotpedia.org/Gabe_Farias", "snippet": "Gabe Farias was a 2015 Democratic special election candidate and 2016 Democratic candidate for District 118 of the Texas House of Representatives."},
+   {"org": "Port San Antonio Board of Directors", "role": "board member (appointed May 2024)", "category": "civic", "source_url": "https://portsanantonio.us/Gabe-Farias", "snippet": "Port San Antonio Board of Directors member (appointed May 2024)."},
+   {"org": "Brooks Development Authority Board", "role": "former board member / chair, Planning & Development Committee", "category": "civic", "source_url": "https://portsanantonio.us/Gabe-Farias", "snippet": "Brooks Development Authority Board (former, chaired Planning and Development Committee)."}
+  ]
+ },
+ {
+  "donor_id": "5c39986e-13fa-438b-9754-eb196a764e84",
+  "name": "Macon, R. Laurence",
+  "resolved_employer": "The Macon Law Firm PLLC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "R. Laurence 'Larry' Macon, longtime San Antonio commercial/business-litigation attorney (Yale BA 1967, UT Law JD 1970), board certified in Civil Trial and Civil Appellate Law; principal of The Macon Law Firm PLLC. Donor data lists 'retired' but he remained active (2025 donations list Macon Law Firm as employer). FEC shows bipartisan candidate giving; no AIPAC/oil-gas/gun or other tracked advocacy-PAC donations.",
+  "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/r-laurence-larry-macon/ac49b27d-a162-45a5-8d5b-ce2e69a60528.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1c0dfb07-eeaf-4de1-9803-f07e02cffbb2",
+  "name": "Flores, Ramon",
+  "resolved_employer": "Port San Antonio / Flores Holdings Inc",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Ramon 'Ray' Flores, Senior VP of Strategic Design, Development, Construction & Delivery at Port San Antonio (public economic-development entity), joined 2013, 25+ years in real estate, finance and economic development; also a private real estate investor via Flores Holdings Inc. Name matches 'SVP'/'real estate investor' occupation and Port San Antonio employer strings. No TX lobbyist registration (registry Flores entries are different individuals); no tracked advocacy-PAC donations found.",
+  "source_url": "https://www.portsanantonio.us/leadership-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "16ba13d7-1471-4d79-b44f-0d4edccb7418",
+  "name": "Kellum, John",
+  "resolved_employer": "Kellum Physician Partners",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. John Kellum, MD, FACOG, San Antonio-born OB/GYN (UT Health San Antonio 1990); founder of Kellum Physician Partners / Kellum Medical Group, a family-practice and aesthetics group with locations in San Antonio and Schertz. No federal contributions under John Kellum in FEC (a separate David Kellum is unrelated); no TX lobbyist registration.",
+  "source_url": "https://kellummd.com/team_member/john-kellum-m-d/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "04dab337-21c1-462e-a28d-70c6fada2a29",
+  "name": "Kakar, Arvinder",
+  "resolved_employer": "SevaSpaces",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Arvinder 'Sonny' Kakar, Potomac/Fairfax-area tech entrepreneur; founder/CEO of SevaSpaces coworking, founder and former CEO of Sevatec (national-security technology firm sold to PE in 2020, then IBM in 2022), and founder of the SevaTruck Foundation. FEC lists him (employer SEVASPACES, occ CEO) giving $3,300 to Bhalla for Congress (D-NJ) in May 2024 via ActBlue -- a candidate committee, not a tracked spectrum PAC. Donor '10220' zip field is his street number (10220 Iron Gate Rd, Potomac MD 20854).",
+  "source_url": "https://fairfaxcountyeda.org/doing-good-in-the-community-sonny-kakar-founder-executive-director-sevatruck-foundation/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "049f6a92-2d4f-435a-900c-b69d09bed7cd",
+  "name": "Brown, Ken",
+  "resolved_employer": "Brown & McDonald PLLC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Kenneth W. Brown, shareholder/attorney at Brown & McDonald PLLC (100 NE Loop 410, San Antonio 78216); TX-licensed since 1989 (St. Mary's JD), practice split between Environmental/Natural Resources and Real Estate, focused on San Antonio/Bexar County municipal land use, planning and zoning. Firm address zip 78216 aligns with donor. No PAC contributions or advocacy roles found.",
+  "source_url": "https://www.avvo.com/attorneys/78216-tx-kenneth-brown-116596.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cb7027b3-a543-42d5-8cf1-287a2a93dd9c",
+  "name": "villarreal, sara",
+  "resolved_employer": "Catalyst Property Partners (co-founder); later Great Springs Project; now VillaReed Partners",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Sara Villarreal, co-founder/managing principal of impact real-estate firm Catalyst Property Partners (San Antonio/Miami); served as Great Springs Project Director of Program Strategy (Austin-SA land conservation/trail nonprofit); later co-founded adaptive-reuse developer VillaReed Partners, connecting with her partner through the Urban Land Institute. Deloitte audit background, Claremont McKenna econ degree. No PAC donations or lobbyist registration found.",
+  "source_url": "https://sanantonioreport.org/development-san-pedro-springs-park-playhouse-infill-apartments-restaurant-alta-vista-neighborhood/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Great Springs Project", "role": "Director of Program Strategy (former)", "category": "civic", "source_url": "https://m.facebook.com/GreatSpringsProject/photos/welcome-sara-villarreal-gsps-new-director-of-program-strategy-in-this-pivotal-ro/662298009453688/", "snippet": "Welcome Sara Villarreal, GSP's new Director of Program Strategy"},
+   {"org": "Urban Land Institute (San Antonio)", "role": "member", "category": "business", "source_url": "https://sanantonioreport.org/development-san-pedro-springs-park-playhouse-infill-apartments-restaurant-alta-vista-neighborhood/", "snippet": "met her business partner Reed through San Antonio's Urban Land Institute"}
+  ]
+ },
+ {
+  "donor_id": "fabe7622-2a61-4150-8132-a44f6921b6f3",
+  "name": "Kellum, Daniel",
+  "resolved_employer": "Raul B. Rodriguez Law, P.C.",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Daniel H. Kellum III, associate personal-injury attorney at Raul B. Rodriguez Law, P.C., San Antonio. Raised in San Antonio (Central Catholic HS), Southwestern Univ. accounting 2018, St. Mary's JD 2021; during law school clerked for TX State Senator Roland Gutierrez. Donor 'zip 17347' is his street number (17347 Fountain Mist, actual zip 78248). No PAC donations or lobbyist registration found.",
+  "source_url": "https://raulbrodriguez.com/attorney-daniel-h-kellum-iii/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Office of TX State Senator Roland Gutierrez", "role": "law clerk during law school (former)", "category": "political", "source_url": "https://raulbrodriguez.com/attorney-daniel-h-kellum-iii/", "snippet": "During law school, Daniel clerked with State Senator Roland Gutierrez"}
+  ]
+ },
+ {
+  "donor_id": "e7ca3df6-8494-480f-b563-0098c85a477b",
+  "name": "Aldrete, Chris",
+  "resolved_employer": "Aldrete Strategic Partners, LLC",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Donor address (335 Country Wood Dr, 78216) is the exact address of Aldrete Strategic Partners, a San Antonio public-affairs/government-relations & legislative-consulting firm. 'Chris' most likely Cristina Aldrete, managing partner of the firm and former President/CEO (2018-2022) and EVP of government affairs of the North San Antonio Chamber, married to founder Eddie Aldrete (ex-IBC Bank SVP). Name-form ('Chris' vs Cristina) and a separately-listed 'Rose Boutique' florist leave residual identity uncertainty. Neither Cristina nor Eddie appears on TX Ethics Commission registered-lobbyist lists 2023-2026; no FEC PAC donations found.",
+  "source_url": "https://sanantonioreport.org/north-san-antonio-chamber-leader-resigns/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Aldrete Strategic Partners, LLC", "role": "managing partner / consultant", "category": "business", "source_url": "https://sanantonioreport.org/north-san-antonio-chamber-leader-resigns/", "snippet": "Aldrete joined her husband as a managing partner in Aldrete Strategic Partners, a public affairs and strategic planning consulting firm"},
+   {"org": "North San Antonio Chamber of Commerce", "role": "President & CEO (2018-2022, former)", "category": "civic", "source_url": "https://www.northsachamber.com/2018/07/20/north-san-antonio-chamber-board-of-directors-names-cristina-aldrete-as-president-and-ceo/", "snippet": "North San Antonio Chamber Board of Directors Names Cristina Aldrete as President and CEO"}
+  ]
+ },
+ {
+  "donor_id": "595b5f86-9a78-4c46-be72-cfb5fb48de35",
+  "name": "Hartman, Malcolm and Amber",
+  "resolved_employer": "Tycoon Flats",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Malcolm Hartman is co-owner of Tycoon Flats, a 40-year-old burger/beer garden on the St. Mary's Strip in San Antonio (zip 78212 matches). Local news confirms him as co-owner navigating St. Mary's Strip construction disruptions. Amber Hartman is his spouse/co-donor.",
+  "source_url": "https://news4sanantonio.com/news/local/city-will-spend-400000-to-help-businesses-struggling-with-construction-mayhem",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "eb79fd36-f169-4051-b82e-7ed30955ca06",
+  "name": "Clark, Maria",
+  "resolved_employer": "HomeNovate LLC",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Maria Ruiz Clark is COO/founder of HomeNovate, a woman-owned San Antonio residential construction & renovation firm; former National Executive Director of AEM (2016-2021) and current board member of AEM San Antonio, leading its Women's Committee.",
+  "source_url": "https://aemsanantonio.org/maria-ruiz-clark/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Asociacion de Empresarios Mexicanos (AEM) San Antonio", "role": "Board Member, Women's Committee Lead (former National Executive Director 2016-2021)", "category": "business", "source_url": "https://aemsanantonio.org/maria-ruiz-clark/", "snippet": "Board Member, AEM San Antonio Chapter; Leader of the Women's Committee; former National Executive Director of AEM, 2016-2021"}
+  ]
+ },
+ {
+  "donor_id": "e57dfd48-5f04-48d4-b236-c61c8c70c228",
+  "name": "remolina, sergio",
+  "resolved_employer": "The Culinary Institute of America (San Antonio)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Sergio Remolina is Assistant Professor of Culinary Arts at CIA San Antonio (former Director of Latin Cuisine Studies 2014-2017); also chef-owner of Culinary Performance Consulting, Laurel Cafe, and Fletcher's Hamburgers, and former VP of Culinary at Taco Cabana.",
+  "source_url": "https://www.ciachef.edu/cia-bios/sergio-remolina/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d3211c05-8621-4611-a76e-d1c9a3c53574",
+  "name": "Elmendorf, Dirk",
+  "resolved_employer": "r26D, LLC",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Dirk Elmendorf is a co-founder of San Antonio-based Rackspace (1999) and a serial B2B SaaS entrepreneur; president of r26D, LLC. King William address (78204) matches. Also involved in local civic/education efforts (80/20 Foundation, Witte Museum).",
+  "source_url": "https://sanantonioreport.org/jobward-startup-dirk-elmendorf/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c9ae97f9-3d86-4867-b398-5ecec6fc85a2",
+  "name": "Colton, Abby and Brian",
+  "resolved_employer": "Accenture",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Household donation; Abby (Abigail) Colton is a Technology Architecture Analyst at Accenture (UT Austin MIS grad), matching the listed occupation/employer. Brian G. Colton is the resident of record at 15642 Dawn Crest, San Antonio 78248, matching the donation address. No public advocacy profile.",
+  "source_url": "https://www.linkedin.com/in/abigail-colton/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c6e2b602-4437-4a26-bdb7-97e954389b05",
+  "name": "Pegy Brimhall, David Gilliland and",
+  "resolved_employer": "USAA",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Household donation; David Gilliland is Executive Director, Application Development at USAA in San Antonio (UT Austin/McCombs), matching the listed occupation 'ED Application Development' and employer USAA. USAA is a San Antonio financial-services/insurance firm. No public advocacy profile.",
+  "source_url": "https://www.linkedin.com/in/david-gilliland-89298845/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c3486684-9f9a-4081-a16e-dc5b0981aa62",
+  "name": "Vela, Filemon",
+  "resolved_employer": "Vela Justice LLC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Filemon Vela Jr., former U.S. Representative for Texas's 34th district (2013-2022, Democrat), a contingency-fee trial attorney now operating Vela Justice LLC in Houston; resigned Congress in 2022 to join Akin Gump. Public figure matching name/Houston 77027/attorney-partner occupation.",
+  "source_url": "https://en.wikipedia.org/wiki/Filemon_Vela_Jr.",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "U.S. House of Representatives (TX-34)", "role": "Former U.S. Congressman (Democrat, 2013-2022)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Filemon_Vela_Jr.", "snippet": "Vela served as the U.S. representative for Texas's 34th congressional district from 2013 until his resignation in 2022."}
+  ]
+ },
+ {
+  "donor_id": "af523d07-1dde-4eae-9ce0-e8306777ac92",
+  "name": "Jarl, Katie",
+  "resolved_employer": "Animal Policy Group, LLC",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Katie Jarl is VP of Government Relations at Animal Policy Group (matches occupation/employer); nearly two decades in animal-welfare advocacy, formerly Executive Director of Texas Pets Alive!, Director of Government Affairs for Austin/American Pets Alive!, and HSUS Regional/State Director. San Antonio resident.",
+  "source_url": "https://animalpolicygroup.com/staff/katie-jarl/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Animal Care Services Advisory Board", "role": "City Council appointee", "category": "civic", "source_url": "https://animalpolicygroup.com/staff/katie-jarl/", "snippet": "currently serves as a City Council appointee to the San Antonio Animal Care Services Advisory Board."}
+  ]
+ }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "donor_id": "9e056e37-95f1-4237-b5ff-59f781c7509c",
+    "name": "Aneja, Jasraj",
+    "resolved_employer": null,
+    "industry": "Student",
+    "confidence": "low",
+    "evidence": "Occupation 'Student' is consistent with a Jasraj Aneja listed on the Reservoir High School (Fulton/Howard County, MD) roster, class of 2027 — i.e. a high-school student in the Ashton/Fulton MD area (donor location 20861). The zip 16839 in the record is a data glitch (PA zip); true location is MD. No federal contributions (fec count 0); no PAC or lobbyist record, as expected for a minor student. Name is common, so identity is only tentative.",
+    "source_url": "https://md.milesplit.com/teams/4175-reservoir-high-school/roster",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "97307022-9332-45a4-9351-817d778f7340",
+    "name": "Amato, Charles",
+    "resolved_employer": "Charlie (Charles E.) Amato — Chairman & co-founder of SWBC (Southwest Business Corporation), a diversified San Antonio financial-services firm",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Donor occupation 'Chairman' and employer 'SWBC' match Charlie Amato, co-founder and Chairman of SWBC, San Antonio. Prominent Texas business/political figure: Texas State University System Regent (reappointed by Gov. Abbott 2026), Chairman of the Texas Business Leadership Council, and vice chairman of CHRISTUS Santa Rosa. FEC/OpenSecrets individual-donation and PAC records were searched but not retrievable in this session (FEC API rate-limited); no AIPAC/UDP, J Street, oil & gas, NRA or defense-PAC contribution was surfaced, so none is asserted. His documented political alignment is via Republican gubernatorial appointment and the TX Business Leadership Council, not an ideological single-issue PAC.",
+    "source_url": "https://www.tsus.edu/regents/bios/amato.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "SWBC (Southwest Business Corporation)", "role": "Chairman & co-founder", "category": "business", "source_url": "https://www.tsus.edu/regents/bios/amato.html", "snippet": "Charlie Amato is chairman and co-founder of SWBC, a diversified financial-services company (insurance, mortgage, wealth management, PEO, real estate development) based in San Antonio."},
+      {"org": "Texas State University System Board of Regents", "role": "Regent (reappointed by Gov. Greg Abbott, April 2026; term to Feb 2031)", "category": "political", "source_url": "https://www.tsus.edu/regents/bios/amato.html", "snippet": "Reappointed by Governor Greg Abbott in April 2026 to a five-year term on the TSUS Board of Regents; also Chairman of the TSUS Foundation."},
+      {"org": "Texas Business Leadership Council", "role": "Chairman", "category": "political", "source_url": "https://www.swbc.com/about-swbc/press/article/charlie-amato-of-swbc-elected-chairman-of-the-texas-business-leadership-council", "snippet": "Charlie Amato of SWBC elected Chairman of the Texas Business Leadership Council, a statewide CEO public-policy advocacy organization."},
+      {"org": "The Alamo / Remember the Alamo Foundation", "role": "Board member (Alamo Trust governance)", "category": "civic", "source_url": "https://www.tsus.edu/regents/bios/amato.html", "snippet": "Serves on the board of the Remember the Alamo Foundation and in Alamo Trust governance."},
+      {"org": "CHRISTUS Santa Rosa Health Care Corporation", "role": "Vice chairman", "category": "civic", "source_url": "https://www.tsus.edu/regents/bios/amato.html", "snippet": "Vice chairman of CHRISTUS Santa Rosa Health Care Corporation; also board member of Prosperity Bank and Spurs Give."}
+    ]
+  },
+  {
+    "donor_id": "963c60df-c9cf-4927-a44d-ac69ea93b8b2",
+    "name": "Lee, Bruce",
+    "resolved_employer": "Likely affiliated with an insurance agency at 120 Austin Hwy (address shared with Steven Lee of 'Lee and Associates Insurance Agency'; building also houses Trimble-Batjer Insurance Associates) — not independently confirmed",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "120 Austin Hwy, San Antonio 78209 is a small multi-tenant commercial office building (CoStar/LoopNet), i.e. a business address, not a residence. It is shared with donor 'Lee, Steven,' whose LinkedIn identifies him with 'Lee and Associates Insurance Agency'; the building also hosts Trimble-Batjer Insurance Associates. This points to Bruce Lee being tied to a family/associated insurance business at that address, but occupation is listed 'NA' and no bio, FEC PAC record, or Texas lobbyist registration was found to confirm his specific role. Industry classified as Finance (insurance) tentatively.",
+    "source_url": "https://www.loopnet.com/Listing/120-Austin-Hwy-San-Antonio-TX/25150440/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8fdb77e3-ca78-4dac-99d9-6de48cbe438c",
+    "name": "Shown, Pamela",
+    "resolved_employer": "Retired (former career not documented in public sources)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Public-records aggregators confirm a Pamela Dee Shown, age ~65, at 123 W Kings Hwy, San Antonio 78212 (Monte Vista), previously in Marfa, TX — matching the donor's location and 'Retired' occupation. No public record was found linking her as the spouse/family of William 'Bill' Shown (Silver Ventures / Oxbow Development); that suggested connection is NOT corroborated and is not asserted. No FEC PAC contributions (fec count 0) and no Texas lobbyist registration found. Former career could not be established.",
+    "source_url": "https://radaris.com/p/Pamela/Shown/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8db3003e-90a7-4072-885d-eaec5ec52499",
+    "name": "Bonilla, Sheryl",
+    "resolved_employer": "Retired (former career not confirmed); resides at Alteza Residences, 610 E Market St, downtown San Antonio",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "610 E Market St, 78205 is the Alteza Residences luxury condo tower above the Grand Hyatt in downtown San Antonio, consistent with a retiree of means. Federal giving is high-volume but bipartisan/balanced (134 contributions, partisan lean ~0.52), a pattern with no dominant ideological tilt; no AIPAC/UDP, J Street, oil & gas, NRA, or defense single-issue PAC contribution surfaced (FEC API rate-limited this session, but name/OpenSecrets searches returned no such earmark). An OpenSecrets federal-lobbyist entry for a 'Sheryl Bonilla' (1 client in 2005, ~$2,000 given in 2006) exists but could not be tied to this San Antonio retiree, so it is not asserted. Former career and definitive identity beyond the address remain unconfirmed.",
+    "source_url": "https://www.har.com/alteza-condos/highrise_1053",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "donor_id": "3627236d-86c1-420d-93eb-b66b7ccca073",
+    "name": "Puri, Ranjeev",
+    "resolved_employer": "Michigan House of Representatives (State Representative, 24th District; House Democratic Leader/Minority Leader)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Ranjeev Puri of Canton, MI — Michigan State Representative since 2020, elected House Democratic Leader in Jan 2025; first Sikh-American in the Michigan Legislature. Address (Canton, 48188) and 'Minority Leader'/'MI House of Representatives' title match donor record. Sikh-community elected official donating to Sukh Kaur (a Sikh SA councilwoman).",
+    "source_url": "https://housedems.com/ranjeev-puri/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Michigan House Democratic Caucus", "role": "House Democratic Leader / Minority Leader", "category": "political", "source_url": "https://housedems.com/ranjeev-puri/about/", "snippet": "Serves as Michigan House Democratic Leader; first person of color to represent his district and first Sikh-American in the Legislature."},
+      {"org": "Michigan firearm-safety legislation (post-MSU shooting)", "role": "Legislative lead / sponsor", "category": "gun_control", "source_url": "https://housedems.com/ranjeev-puri/about/", "snippet": "Following the Michigan State University shooting he was tapped to lead on gun legislation, building consensus to pass historic firearm safety measures."}
+    ]
+  },
+  {
+    "donor_id": "342fc5ae-1331-4f2a-8b00-5d3499204866",
+    "name": "Worth Jr, Robert",
+    "resolved_employer": "Worth & Associates (formerly R.L. Worth & Associates) — Founder & Chairman, San Antonio commercial real estate development/investment",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Robert L. 'Bob' Worth Jr., founder (1986) and chairman of Worth & Associates; former CPA at Ernst & Ernst and CFO/partner at Robert Callaway Corp. Has developed 3M+ sq ft in South Texas; 2017 Barshop Award recipient. Matches occupation (Commercial Real Estate Developer) and SA 78209 record. 72 FEC donations noted upstream.",
+    "source_url": "https://worthsa.com/team-member/robert-l-worth-jr/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Worth & Associates, LTD", "role": "Founder & Chairman", "category": "business", "source_url": "https://worthsa.com/team-member/robert-l-worth-jr/", "snippet": "Founder and Chairman of Worth & Associates, established 1986; leading San Antonio commercial real estate developer."}
+    ]
+  },
+  {
+    "donor_id": "33039b50-edb7-49d8-9881-d53766e156b3",
+    "name": "Aurther Campsey III, Wade Becker and",
+    "resolved_employer": "Household donation: Dr. Wade Becker, DO (Internal Medicine, TIGMER-trained) and Arthur Campsey III, PA-C (Kellum Family Medicine / Kellum Physician Partners)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Garbled record resolves to two San Antonio medical providers at the same 78212 household: Wade C. Becker, DO, internal medicine trained at Texas Institute for Graduate Medical Education & Research (matches employer string 'Texas Institute for Graduate Medical Education'); and Arthur 'Art' Campsey III, PA-C, physician assistant / former EVP of Medical Operations at Kellum Physician Partners. Both healthcare. Kellum/TIGMER cluster recurs across this donor set.",
+    "source_url": "https://familymedicine.kellummd.com/our-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "323fa3b3-fbbb-4370-ab26-3e7f0817f55f",
+    "name": "Cortez, George",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, San Antonio 78230 (Callaghan Rd), 104 FEC donations (lean ~0.79 Dem upstream). 'George Cortez' is a very common name in San Antonio; FEC/OpenSecrets and public-records searches could not uniquely identify this individual or his former career. No corroborating bio, PAC, or lobbyist record isolable to this specific person.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "32061bb3-0655-46aa-bc15-6e6a427d4913",
+    "name": "Gilliland, Lukin",
+    "resolved_employer": "Lukin T. Gilliland Jr. — investor; Partner, Incyte Venture Partners; former Principal/CFO, Keller Enterprises (family office); diversified restaurateur",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Lukin T. Gilliland Jr. of Alamo Heights (901 NE Loop 410 matches). Longtime major Bexar County Democratic donor/fundraiser; ran for Congress (TX-23) in 2006. Old Texas ranching family (Floresville). Partner at Incyte Venture Partners and former family-office CFO; multiple civic board seats. Self-reported 'Self Employed / Investor,' 614 FEC donations. No oil/gas or Israel/Palestine PAC tie confirmed to him personally.",
+    "source_url": "https://78209magazine.com/meet-your-neighbors/meet-lukin-t-gilliland-jr",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bexar County Democratic Party / Democratic candidates", "role": "Major donor & fundraiser; 2006 U.S. House (TX-23) candidate", "category": "political", "source_url": "https://www.texasmonthly.com/burka-blog/a-third-for-the-23rd/", "snippet": "Has remained involved with Democratic candidates personally, professionally and politically, usually handling fundraising within Bexar County; ran for Congress in the 23rd District in 2006."},
+      {"org": "Nature Conservancy; San Antonio Library Foundation; Cibolo Nature Center; Texas Lyceum; World Affairs Council", "role": "Board member / chapter chair", "category": "civic", "source_url": "https://78209magazine.com/meet-your-neighbors/meet-lukin-t-gilliland-jr", "snippet": "Board positions on the San Antonio Library Foundation, Cibolo Nature Center, Texas Lyceum, Texas Leadership Institute, the Nature Conservancy, and elected chair of the local World Affairs Council."}
+    ]
+  },
+  {
+    "donor_id": "2eaab93d-b6e9-4e29-af92-f569701c1b38",
+    "name": "Chhabra, Imaani",
+    "resolved_employer": "None (student, unemployed)",
+    "industry": "Student",
+    "confidence": "low",
+    "evidence": "Listed as unemployed/student at 2036 Yellowstone Trail, Friendswood, TX 77546 — same household as Dr. Arun Chhabra (UTMB neurologist), consistent with a family/household donation pattern. No independent public footprint for Imaani Chhabra. FEC PAC and TX lobbyist searches returned no hits; no bio page exists.",
+    "source_url": "https://doctors.utmbhealth.com/profile/049042",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2de026f5-bb53-45dd-b338-b8b98d9f3196",
+    "name": "Brown, Mary Rose",
+    "resolved_employer": "NuStar Energy L.P. (EVP & Chief Administrative Officer)",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Confirmed as Executive Vice President & Chief Administrative Officer of NuStar GP, LLC / NuStar Energy L.P. (San Antonio-based liquids terminal & petroleum pipeline operator) since April 2013; previously SVP-Corporate Communications at Valero Energy. Oversaw NuStar's Corporate Communications, Government Relations, HR, Corporate Services and Aviation. Address 48 Vineyard Dr, SA 78257 matches. She died in 2024 (obituary), after the 2023 donations. No personal TX lobbyist registration; 329 FEC donations upstream.",
+    "source_url": "https://theorg.com/org/nustar-energy/org-chart/mary-rose-brown",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "NuStar Energy L.P.", "role": "Executive Vice President & Chief Administrative Officer (oversaw Government Relations)", "category": "oil_gas", "source_url": "https://investor.nustarenergy.com/senior-management", "snippet": "Mary Rose Brown serves as Executive Vice President and Chief Administrative Officer for NuStar Energy L.P., one of the largest independent liquids terminal and pipeline operators in the nation; she oversees Corporate Communications, Government Relations, Human Resources, Corporate Services, Strategic Sourcing and Aviation."},
+      {"org": "Tobin Center for the Performing Arts", "role": "Board member / Assistant Secretary", "category": "civic", "source_url": "https://theorg.com/org/tobin-center-for-the-performing-arts/org-chart/mary-rose-brown", "snippet": "Mary Rose Brown - Assistant Secretary at Tobin Center for the Performing Arts."}
+    ]
+  },
+  {
+    "donor_id": "28b217d5-37a6-427c-b795-5b4268e8e325",
+    "name": "Gill, Kiran",
+    "resolved_employer": "Sikh American Legal Defense and Education Fund (SALDEF) — Executive Director",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Kiran Kaur Gill of North Potomac, MD is Executive Director of SALDEF, a Sikh-American civil-rights advocacy organization; the 'Executive Director' occupation title and MD location match. She also chairs the DHS Faith-Based Security Advisory Council and was formerly president/CEO of PARS Environmental. FEC PAC and TX lobbyist searches surfaced no personal PAC/registration records (she testifies to Congress in her SALDEF capacity). Fits the Sikh-community support pattern for Sukh Kaur.",
+    "source_url": "https://saldef.org/announcing-new-saldef-executive-director-kiran-kaur-gill/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Sikh American Legal Defense and Education Fund (SALDEF)", "role": "Executive Director", "category": "civic", "source_url": "https://saldef.org/announcing-new-saldef-executive-director-kiran-kaur-gill/", "snippet": "Kiran Kaur Gill is the Executive Director of SALDEF, overseeing programs related to policy, research, education, civic engagement and youth leadership for the Sikh American community."},
+      {"org": "DHS Faith-Based Security Advisory Council (FBSAC)", "role": "Chair", "category": "civic", "source_url": "https://www.tribuneindia.com/news/diaspora/indian-origin-sikh-kiran-kaur-gill-named-to-us-homeland-security-depts-faith-based-advisory-council-442795", "snippet": "Kiran Kaur Gill serves as Chair of the 25-member DHS Faith Based Security Advisory Council, advising on strategies to keep faith-based communities safe."}
+    ]
+  },
+  {
+    "donor_id": "240ba51f-2d3c-44d3-a34a-f6da632717bf",
+    "name": "Aneja, Harjas",
+    "resolved_employer": "None (University of Maryland student)",
+    "industry": "Student",
+    "confidence": "high",
+    "evidence": "Harjas Aneja is a mechanical-engineering student at the University of Maryland (A. James Clark School of Engineering, QUEST Honors Program), consistent with the 'Student' occupation and Ashton, MD 20861 address. FEC PAC and TX lobbyist searches returned no records — expected minimal footprint for a student. Sikh-community donor; no advocacy affiliations documented.",
+    "source_url": "https://www.linkedin.com/in/harjas-aneja/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "222c05c8-e3de-40c3-87a6-ec19f38b59ef",
+    "name": "Subramaniam, Kaushalya",
+    "resolved_employer": "Kalalaya Indian Performing Arts (self-employed; owner/director, Bharatanatyam dance instructor)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Kaushalya 'Kausi' Subramaniam of San Antonio is founder/director and lead instructor of Kalalaya Indian Performing Arts, described as San Antonio's first Bharatanatyam and Carnatic music school; matches the 'self-employed dance instructor' occupation and SA 78261 location. FEC PAC search found no itemized PAC records (9 FEC donations upstream, no ideological PAC surfaced); no TX lobbyist registration. No policy-advocacy affiliations documented.",
+    "source_url": "https://kalalaya-sa.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "21aac973-8b83-467a-add7-d43015b0fc8d",
+    "name": "Llanes Cortez, Ruben",
+    "resolved_employer": "Mi Tierra Cafe Inc / La Familia Cortez Restaurants (Vice President)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "LinkedIn profile 'Ruben Cortez - Mi Tierra Cafe Inc' matches donor's listed employer (Mi Tierra Cafe Inc) and VP occupation. La Familia Cortez Restaurants is the Cortez-family company operating Market Square landmark Mi Tierra Cafe y Panaderia plus La Margarita, Pico de Gallo, Mariachi Bar and Viva Villa. Donor is a Cortez-family restaurant executive (New Braunfels 78130, same household as María E Cortez). FEC search surfaced only 'Ruben Cortez Jr' (a different Texas SBOE figure); no TX lobbyist registration.",
+    "source_url": "https://www.linkedin.com/in/ruben-cortez-52934227/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "La Familia Cortez Restaurants (Mi Tierra Cafe Inc)", "role": "Vice President / family restaurant executive", "category": "business", "source_url": "https://lafamiliacortez.com/mi-tierra/", "snippet": "La Familia Cortez Restaurants is the Cortez-family company operating Mi Tierra Cafe y Panaderia and sister restaurants; donor is listed as VP at Mi Tierra Cafe Inc."}
+    ]
+  },
+  {
+    "donor_id": "1f1d311b-ca6f-4106-867d-8e677d98ed8e",
+    "name": "Chhabra, Arun",
+    "resolved_employer": "University of Texas Medical Branch (UTMB Health) — neurologist / Assistant Professor",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "UTMB pages confirm Dr. Arun Chhabra, MD, is a neurologist / Assistant Professor in the UTMB Department of Neurology, Chief of Neurology at the UTMB Clear Lake & League City campuses and Associate Director of the UTMB Clear Lake Stroke Program. Matches donor employer (UTMB), occupation (Physician) and Friendswood/Clear Lake area (77546). FEC/OpenSecrets search surfaced no PAC affiliation; no TX lobbyist registration. Academic/clinical titles are professional, not civic/political affiliations.",
+    "source_url": "https://www.utmb.edu/neuro/faculty/assistant-professors/arun-chhabra",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1e476046-f918-409b-9205-0d7de625956c",
+    "name": "Davila, Enrique and Linda",
+    "resolved_employer": "Capitol Electric (electrical contractor) — owners",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Donor filing lists Enrique & Linda Davila as owners of Capitol Electric, an electrical contractor at 215 N Center St, San Antonio 78202. Occupation 'Owner' + electrical-trade employer places them in the construction/electrical-contracting trade. Could not independently confirm a distinct 'Capitol Electric' firm online; similarly named HJD Capital Electric (founded by Henry Davila) and Davila Electric Co. (Albert Davila Jr.) are different individuals. FEC/OpenSecrets search returned no PAC affiliation; no TX lobbyist registration.",
+    "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/electrician/hjd-capital-electric-inc-0825-30926",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1b6966b3-da20-4082-9fa0-0a16486c932b",
+    "name": "Baldwin, Kevin Ryan",
+    "resolved_employer": "Franklin Apartment Management, Ltd. / Franklin Companies — Senior VP, Multifamily",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Goes professionally by 'Ryan Baldwin.' LinkedIn, TheOrg and the San Antonio Apartment Association confirm Kevin Ryan Baldwin is Senior Vice President, Multifamily and Director of Operations & Compliance at Franklin Apartment Management, Ltd. (Franklin Companies, a San Antonio multifamily/senior-living developer-operator) since Feb 2016. Multifamily-housing angle confirmed via Opportunity Home partnership. 227 FEC donations upstream; no identifiable ideological PAC; no TX lobbyist registration.",
+    "source_url": "https://theorg.com/org/franklin-apartment-management/org-chart/ryan-baldwin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Apartment Association (SAAA)", "role": "Owner/Management member (via Franklin Apt Mgmt, Ltd.)", "category": "business", "source_url": "https://www.saaaonline.org/contacts/ryan-baldwin", "snippet": "Ryan Baldwin, Senior Vice President, Multifamily, Franklin Apt Mgmt, LTD — listed as Owner/Management member of the San Antonio Apartment Association."},
+      {"org": "Opportunity Home San Antonio (partnership)", "role": "Franklin partnership lead for affordable-housing / Housing Choice Voucher initiatives", "category": "civic", "source_url": "https://homesa.org/ryan-baldwin/", "snippet": "Baldwin, SVP of Franklin Apartment Management, leads partnership initiatives with Opportunity Home to lease units to Housing Choice Voucher participants and develop affordable housing, coordinating social services and food distributions."}
+    ]
+  },
+  {
+    "donor_id": "159afc2a-ddff-4c30-97d8-57a35e6dd150",
+    "name": "Belmares, Rachel",
+    "resolved_employer": "Children's Hospital of San Antonio (CHRISTUS Children's) — Director",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Donor filing lists Rachel Belmares as a Director at Children's Hospital of San Antonio (now CHRISTUS Children's, part of CHRISTUS Health), San Antonio 78222. Employer/industry (hospital administration) supports a Healthcare classification. Could not independently corroborate her specific role/title online (searches surfaced only different individuals — Niki Belmares at CHRISTUS Health, Ed Belmares of the AHA SA board). FEC/OpenSecrets search returned no PAC affiliation; no TX lobbyist registration.",
+    "source_url": "https://www.christushealth.org/locations/childrens-hospital/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "15411c3d-d460-4849-8fe7-79970e805f4e",
+    "name": "Cortez, María E",
+    "resolved_employer": "Retired (household of the Cortez / Mi Tierra family; same residence as Ruben Llanes Cortez)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, New Braunfels 78130. Same residence (1023 Kinzig Dr) as Ruben Llanes Cortez (Mi Tierra Cafe Inc VP), consistent with a household/spousal donation pattern. Former career not documented in public records. 167 FEC donations upstream but no PAC-affiliation records surfaced. FEC PAC and TX lobbyist searches ran and returned nothing tying her to any advocacy PAC or lobbyist registration.",
+    "source_url": "https://www.linkedin.com/in/ruben-cortez-52934227/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1504fe98-e0d0-4717-a542-82d6e1fa15e1",
+    "name": "Vasquez, Silvestre",
+    "resolved_employer": "Xsellence Realty (real estate agent/broker, Helotes)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Real estate agent/broker associated with Xsellence Realty (12415 Bandera Rd, Helotes, TX 78023), a residential sales/property-management firm. Public records place a Silvestre Vasquez at a Ponderosa Pass address in Helotes, matching intake. Direct agent-roster confirmation was blocked (HAR 403), so identity is medium. FEC PAC and TX lobbyist searches ran and returned no PAC or lobbyist records.",
+    "source_url": "https://www.har.com/xsellence-realty/broker_XSLC01",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "14462445-7522-4a9c-be8a-8c91f9ac6c79",
+    "name": "Cortez, Pete",
+    "resolved_employer": "La Familia Cortez Restaurants — Chief Operating Officer",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Pete Cortez is Chief Operating Officer of La Familia Cortez Restaurants (Mi Tierra, La Margarita, Pico de Gallo, Mariachi Bar, Viva Villa) at Market Square, 800 Dolorosa, San Antonio 78207 — Pedro Cortez's oldest grandchild, 37 years with the family business. Prominent SA restaurant executive. 39 FEC donations upstream. FEC PAC and TX lobbyist searches surfaced no PAC affiliation or lobbyist registration.",
+    "source_url": "https://sanantonioreport.org/mi-tierra-celebrating-75-years-as-san-antonios-culinary-cultural-gem/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "La Familia Cortez Restaurants", "role": "Chief Operating Officer", "category": "business", "source_url": "https://sanantonioreport.org/mi-tierra-celebrating-75-years-as-san-antonios-culinary-cultural-gem/", "snippet": "Pete Cortez is Pedro's oldest grandchild and La Familia Cortez Restaurants' chief operating officer. Pete has served Mi Tierra for 37 years."}
+    ]
+  },
+  {
+    "donor_id": "0da340f2-96b8-4c36-bad6-e42fb28cec34",
+    "name": "Piatt, Bret",
+    "resolved_employer": "Piatt & Company (owner/founder) — corporate strategy, AI and cybersecurity advisory",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Owner/founder of Piatt & Company, a San Antonio boutique advisory firm (corporate strategy, AI, cybersecurity). Well-known SA tech/cybersecurity figure: former President/CEO/Chairman of Jungle Disk and CyberFortress, former Rackspace SaaS unit leader. Address 300 N Main, SA 78205 matches. FEC PAC and TX lobbyist searches ran and returned no PAC affiliation or lobbyist registration.",
+    "source_url": "https://bretpiatt.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "TechBloc / San Antonio Chamber of Commerce", "role": "Community leader / former TechBloc board director", "category": "civic", "source_url": "https://www.acg.org/asa/speakers/bret-piatt-0", "snippet": "Bret Piatt is active helping transform San Antonio into a technology leader through community involvement with TechBloc, the San Antonio Chamber of Commerce, and other outreach activities."}
+    ]
+  },
+  {
+    "donor_id": "0d20806c-5ca0-4354-8c53-fc132f6a09ad",
+    "name": "West, Matthew",
+    "resolved_employer": "FASTSIGNS (Northeast & Downtown San Antonio) — franchise owner",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Owner of the FASTSIGNS Northeast and Downtown San Antonio signage/printing franchises per his LinkedIn profile; San Antonio 78209. Small-business owner. FEC PAC and TX lobbyist searches ran and surfaced no PAC affiliation or lobbyist registration; the 141 FEC donations upstream did not correspond to any documented advocacy-PAC affiliation.",
+    "source_url": "https://www.linkedin.com/in/matthew-west-4836b613/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

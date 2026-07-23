@@ -172,6 +172,7 @@ AFFILIATION_BUCKETS = [
 OFFICE_OVERRIDE = {
     'jones':  'Mayor of San Antonio',
     'galvan': 'San Antonio City Council · District 6',
+    'kaur':   'San Antonio City Council · District 1',
     'shaikh': 'San Antonio City Council · 2025 District 8 Candidate',
 }
 

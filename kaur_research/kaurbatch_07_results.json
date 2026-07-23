@@ -1,0 +1,237 @@
+[
+ {
+  "donor_id": "ba1457d0-d559-4805-9316-bd7954b2e47c",
+  "name": "Farias, Katie",
+  "resolved_employer": "Office of Texas State Senator Roland Gutierrez (District Director)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Katie Ann Farias is District Director for TX State Sen. Roland Gutierrez (D) since July 2023 and Southside ISD Place 7 Trustee / Board VP; zip 78221 matches the Southside district. Garbled 'State State' employer string = state senate office.",
+  "source_url": "https://www.legistorm.com/person/bio/358069/Katie_Ann_Farias.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Southside ISD Board of Trustees", "role": "Trustee (Place 7), Board Vice President", "category": "political", "source_url": "https://southsideisd.org/board/", "snippet": "Katie Farias is a Southside ISD Place 7 Board Trustee and Board Vice President, first elected May 2019."},
+   {"org": "Office of TX State Senator Roland Gutierrez (D)", "role": "District Director", "category": "political", "source_url": "https://www.legistorm.com/person/bio/358069/Katie_Ann_Farias.html", "snippet": "Katie Farias - State Sen. Roland Gutierrez (D-TX) (July 2023-), District Director."}
+  ]
+ },
+ {
+  "donor_id": "b8dd9aaa-a463-4f6d-a7f9-d380a9701619",
+  "name": "Lee, Steven",
+  "resolved_employer": "Retired (former career not confirmed; 120 Austin Highway is a shared insurance/commercial office address)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists occupation 'Retired', zip 78209 (Alamo Heights); 120 Austin Highway is a multi-tenant commercial building. 'Steven Lee' is an extremely common name (900+ TX matches) and could not be corroborated to a specific individual; no FEC ideological-PAC or TX lobbyist record tied to a confirmed person.",
+  "source_url": "https://www.loopnet.com/Listing/120-Austin-Hwy-San-Antonio-TX/25150440/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b74d9ba4-8b0b-49fa-8d43-165980ecf954",
+  "name": "Agurcia, Enrique",
+  "resolved_employer": "Otima Investments LLC (Founder & Managing Partner) — San Antonio real estate investment / private-syndication firm",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Enrique Agurcia is Founder & Managing Partner of Otima Investments LLC, a San Antonio real estate investment firm (middle-market real estate + M&A finance, ground-up development); zip 78259 matches San Antonio. No FEC PAC contributions (count 0) and no TX/City lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/enrique-agurcia-45200735a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b4017a23-efb0-4591-9670-ff81e75f7cce",
+  "name": "Meyer, Mitch",
+  "resolved_employer": "Loopy Ltd. (owner/manager) — San Antonio real estate / urban-infill development firm",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Mitch Meyer is owner/manager of Loopy Ltd., a San Antonio real estate development firm ('Loopy Ltd. is a stage name for Mitch Meyer') focused on urban/infill projects; zip 78209 matches. No ideological PAC affiliation identifiable via FEC/OpenSecrets and no TX/City lobbyist registration found.",
+  "source_url": "https://www.loopyltd.com/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b3268ae4-ef42-4e7f-9bf7-13fa9ec26aba",
+  "name": "Adams, Charisse",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Campaign filing lists occupation 'Not applicable'. A Charisse Adams (~54) is confirmed at 2319 Fountain Way, San Antonio 78248 (with Ben Adams) via public records, but no employer/occupation is verifiable from reliable public sources. No FEC ideological-PAC or TX lobbyist record found. Quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b250b666-8b18-4510-a5ab-689141d732b1",
+  "name": "Martinez, Desi",
+  "resolved_employer": "Martinez & Associates, PLLC (principal/attorney) — San Antonio personal-injury & criminal-defense firm, 2828 Goliad Rd, 78223",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Desi I. Martinez is principal of Martinez & Associates PLLC at 2828 Goliad Rd, San Antonio 78223 (exact address match); TX-licensed since 2006, trial lawyer. Also ran for Texas House District 118 as a Democrat (self-loaned $250k), consistent with the record's Democratic lean (0.81). No ideological/industry PAC contributions surfaced.",
+  "source_url": "https://www.desimartinezlaw.com/attorneys",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House District 118 campaign", "role": "Candidate (Democratic primary)", "category": "political", "source_url": "https://sanantonioreport.org/spurs-pac-bexar-county-judge-da-race-hd121-hd-122-fundraising/", "snippet": "San Antonio Report campaign-finance coverage identifies Desi Martinez, a San Antonio personal-injury attorney, as a candidate for Texas House District 118 who loaned his campaign $250,000."}
+  ]
+ },
+ {
+  "donor_id": "ad32308e-cbde-43fe-ba77-ec25dee72e77",
+  "name": "Saggu, Harkirat",
+  "resolved_employer": "Malwa Doctors, Inc. (CEO) / Horizon Psychiatry Associates (President) — Dr. Harkirat S. Saggu, MD, board-certified psychiatrist, Granite Bay, CA",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Harkirat S. Saggu, MD is a board-certified psychiatrist in Granite Bay, CA; NPI registry lists Malwa Doctors, Inc. (Granite Bay 95746) with Saggu as CEO. Employer, occupation (Psychiatrist), and Granite Bay 95746 location all match. fec_donation_count 0; no PAC or lobbyist records (out of state).",
+  "source_url": "https://npiprofile.com/npi/1841678539",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aaccd98f-6a64-42f6-91bf-0696431077e8",
+  "name": "Dreiss, Annette",
+  "resolved_employer": "Thomas E Dreiss & Co (real estate developer/brokerage, 325 E Sonterra Blvd Ste 210, San Antonio 78258) — real-estate professional with the family firm",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Annette Dreiss has a San Antonio real-estate professional profile (Zillow 'abdreiss'); public business records tie her to Thomas E Dreiss & Co and Tom Dreiss (family relation) at the same 325 E Sonterra Blvd 78258 address. Real Estate occupation and address match. No ideological/industry PAC contributions surfaced.",
+  "source_url": "https://www.zillow.com/profile/abdreiss",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a0b763de-42c2-43b3-89e2-d273a26ac9be",
+  "name": "Kellum, Cristian",
+  "resolved_employer": null,
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'unemployed, student' at 910 Bungalow Ct, Fort Collins CO 80521; fec_donation_count 0. No public profile, business, FEC PAC record, or Texas lobbyist registration could be tied to this individual. The possible 'Kellum' family link to donor Katie Farias's employer string could not be corroborated in any public record, so no connection is asserted.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9e708f4e-774e-4cf4-84b1-9e8439e5b89b",
+  "name": "Kowalski, Jamie and Travis",
+  "resolved_employer": "The RK Group (San Antonio family-owned catering/venue-management & hospitality company, est. 1946). Travis Kowalski = Chief Administrative Officer (matches record occupation); Jamie Kowalski (spouse) = VP of Corporate Relations",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "The donation occupation 'Chief Admin Officer' / employer 'The RK Group' matches Travis Kowalski, third-generation family executive and Chief Administrative Officer of The RK Group (San Antonio catering/hospitality). Spouse Jamie Kowalski is VP of Corporate Relations with several city-adjacent civic roles. PO Box 1361, San Antonio 78205 matches the downtown-SA company. No ideological/industry PAC contributions surfaced.",
+  "source_url": "https://www.linkedin.com/in/travis-kowalski-26406428/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Port San Antonio", "role": "Board of Directors (Jamie Kowalski, appointed Aug 2022)", "category": "civic", "source_url": "https://www.portsanantonio.us/board-jamie-kowalski", "snippet": "Jamie Kowalski, VP of Corporate Relations for The RK Group, was appointed to the Port San Antonio Board of Directors in August 2022; also serves on Mays Cancer Center, SA Public Library Foundation, Phil Hardberger Park Conservancy and SA Chamber boards."},
+   {"org": "City of San Antonio 2022 Municipal Bond Program", "role": "Tri-chair (Jamie Kowalski)", "category": "political", "source_url": "https://www.portsanantonio.us/board-jamie-kowalski", "snippet": "Bio notes Jamie Kowalski served as a tri-chair for the City of San Antonio's 2022 Municipal Bond Program — a city-government civic leadership role."}
+  ]
+ },
+ {
+  "donor_id": "9e056e37-95f1-4237-b5ff-59f781c7509c",
+  "name": "Aneja, Jasraj",
+  "resolved_employer": null,
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Occupation 'Student' is consistent with a Jasraj Aneja on a Reservoir High School (Howard County, MD) roster — a high-school student in the Ashton/Fulton MD area (location 20861). Record zip 16839 is a data glitch (PA zip). No federal contributions (fec 0); no PAC/lobbyist record. Common name, so identity only tentative.",
+  "source_url": "https://md.milesplit.com/teams/4175-reservoir-high-school/roster",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "97307022-9332-45a4-9351-817d778f7340",
+  "name": "Amato, Charles",
+  "resolved_employer": "SWBC (Chairman & co-founder) — diversified San Antonio financial-services firm",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Occupation 'Chairman' + employer 'SWBC' match Charlie (Charles E.) Amato, co-founder/Chairman of SWBC. TSUS Regent (reappointed by Gov. Abbott 2026), Chairman of the Texas Business Leadership Council, VC of CHRISTUS Santa Rosa. FEC/OpenSecrets itemized PAC records were rate-limited this session; no AIPAC/UDP, J Street, oil & gas, gun, or defense single-issue PAC contribution surfaced via web search, so none asserted.",
+  "source_url": "https://www.tsus.edu/regents/bios/amato.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "SWBC", "role": "Chairman & co-founder", "category": "business", "source_url": "https://www.tsus.edu/regents/bios/amato.html", "snippet": "Chairman and co-founder of SWBC, a diversified financial-services company in San Antonio."},
+   {"org": "Texas State University System Board of Regents", "role": "Regent (Abbott appointee, reappointed 2026)", "category": "political", "source_url": "https://www.tsus.edu/regents/bios/amato.html", "snippet": "Reappointed by Governor Greg Abbott in April 2026 to a five-year term on the TSUS Board of Regents."},
+   {"org": "Texas Business Leadership Council", "role": "Chairman", "category": "political", "source_url": "https://www.swbc.com/about-swbc/press/article/charlie-amato-of-swbc-elected-chairman-of-the-texas-business-leadership-council", "snippet": "Charlie Amato elected Chairman of the Texas Business Leadership Council, a statewide CEO public-policy advocacy org."},
+   {"org": "CHRISTUS Santa Rosa Health Care Corporation", "role": "Vice chairman", "category": "civic", "source_url": "https://www.tsus.edu/regents/bios/amato.html", "snippet": "Vice chairman of CHRISTUS Santa Rosa; also on Prosperity Bank board and Spurs Give."}
+  ]
+ },
+ {
+  "donor_id": "963c60df-c9cf-4927-a44d-ac69ea93b8b2",
+  "name": "Lee, Bruce",
+  "resolved_employer": "Likely tied to an insurance agency at 120 Austin Hwy (address shared with donor Steven Lee / 'Lee and Associates Insurance Agency'; building also houses Trimble-Batjer Insurance) — role not independently confirmed",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "120 Austin Hwy 78209 is a small multi-tenant commercial office building shared with donor 'Lee, Steven,' whose LinkedIn ties him to 'Lee and Associates Insurance Agency'; building also hosts Trimble-Batjer Insurance. Points to a family/associated insurance business, but occupation is 'NA' and no bio, FEC PAC, or TX lobbyist record confirmed his role.",
+  "source_url": "https://www.loopnet.com/Listing/120-Austin-Hwy-San-Antonio-TX/25150440/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8fdb77e3-ca78-4dac-99d9-6de48cbe438c",
+  "name": "Shown, Pamela",
+  "resolved_employer": "Retired (former career not documented publicly)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public-records aggregators confirm a Pamela Dee Shown, ~65, at 123 W Kings Hwy 78212 (Monte Vista), formerly Marfa TX — matches location and 'Retired' occupation. NO public record links her as spouse/family of William 'Bill' Shown (Silver Ventures/Oxbow); that suggested link is uncorroborated and not asserted. No FEC PAC contributions (fec 0), no TX lobbyist registration.",
+  "source_url": "https://radaris.com/p/Pamela/Shown/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8db3003e-90a7-4072-885d-eaec5ec52499",
+  "name": "Bonilla, Sheryl",
+  "resolved_employer": "Retired; resides at Alteza Residences, 610 E Market St, downtown San Antonio",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "610 E Market St 78205 is the Alteza Residences luxury condo tower above the Grand Hyatt. Federal giving is high-volume but balanced (134 gifts, lean ~0.52) with no dominant ideological tilt; no AIPAC/UDP, J Street, oil & gas, gun, or defense single-issue PAC surfaced. An OpenSecrets federal-lobbyist 'Sheryl Bonilla' (1 client 2005) exists but could not be tied to this SA retiree, so not asserted. Former career unconfirmed.",
+  "source_url": "https://www.har.com/alteza-condos/highrise_1053",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "886e9e20-011c-4103-8d75-554eb900550c",
+  "name": "Cohen, Andrew",
+  "resolved_employer": "Hornberger Fuller Garza & Cohen Inc. (shareholder/named partner) — San Antonio real estate transactions attorney, 7373 Broadway, 78209",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Andrew (Andy) S. Cohen is a shareholder/named partner and real estate transactions attorney at Hornberger Fuller Garza & Cohen, 7373 Broadway, San Antonio 78209 (matches donor address). Firm bio lists only professional/industry memberships; no board seats or policy-advocacy roles found. 'Andrew Cohen' is too common to isolate specific federal PAC contributions with identity corroboration; no Israel/Palestine or other ideological affiliation documented.",
+  "source_url": "https://www.hfgtx.com/our-attorneys/andy-cohen/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Real Estate Council of San Antonio", "role": "Member", "category": "business", "source_url": "https://www.hfgtx.com/our-attorneys/andy-cohen/", "snippet": "Firm bio lists professional memberships including the Real Estate Council of San Antonio and San Antonio Bar Association — an industry/business association, not policy advocacy."}
+  ]
+ },
+ {
+  "donor_id": "88330eae-ef82-4f4e-a15a-7e7d3d2d2cd6",
+  "name": "Jazell Trevino, Nicole",
+  "resolved_employer": "One Seven Transport (Owner), Helotes TX 78023",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Campaign record lists her as Owner of One Seven Transport, Helotes TX 78023 (occupation/employer fields swapped). No independent public web profile, business registry, or FMCSA carrier record confirmed; classification rests on the filing itself. FEC count 0; no PAC or lobbyist record.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "874d5f9d-4aa5-4865-a082-e439a265e1b5",
+  "name": "Oden, Kirk",
+  "resolved_employer": "Trinity Real Estate Finance, Inc. (founding Principal / commercial mortgage loan originator), San Antonio 78216",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Kirk Oden is a founding Principal and commercial mortgage loan originator at Trinity Real Estate Finance (commercial-mortgage banking), San Antonio 78216 — matches donor address/employer. Self-reported occupation 'Loan Shark' is a joke. No PAC or advocacy affiliations surfaced.",
+  "source_url": "https://www.linkedin.com/in/kirk-oden-56845b6",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "82bb2033-c675-406d-8d0a-8fdc390a71fc",
+  "name": "Dreiss, Tom",
+  "resolved_employer": "Thomas E Dreiss & Co (owner) — real estate developer/brokerage, 325 E Sonterra Blvd Ste 210, San Antonio 78258",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Thomas E Dreiss is owner of Thomas E Dreiss & Co, a real estate developer/brokerage at 325 E Sonterra Blvd #210, San Antonio 78258 (matches donor). Annette Dreiss (donor aaccd98f) appears at the same firm, corroborating the family real-estate operation. No ideological/industry PAC contributions surfaced.",
+  "source_url": "https://www.yelp.com/biz/dreiss-thomas-e-san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "820a5a64-0459-4a05-9dd0-3c7f02bbd2d2",
+  "name": "Mery, Julie",
+  "resolved_employer": "Elegant Limousine and Charter / Elegant Worldwide Transportation (Executive) — chauffeured-transport firm, 5157 Blanco Rd, San Antonio 78216",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Elegant Limousine & Charter / Elegant Worldwide Transportation is a chauffeured-transport firm at 5157 Blanco Rd, San Antonio 78216 (matches donor). George Mery is President/CEO; Julie Mery, listed as Executive, is a likely family member. No independent bio for Julie specifically; no advocacy/PAC affiliations found.",
+  "source_url": "https://www.yelp.com/biz/elegant-limousine-and-charter-san-antonio-4",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

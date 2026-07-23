@@ -1,0 +1,26 @@
+[
+ {
+  "donor_id": "0bdd979d-e0eb-4cd2-9184-3cad433fc8f4",
+  "name": "Mims, Jason",
+  "resolved_employer": "Retired U.S. Army officer; Founder/Director, MIMS Institute Fellows, Inc. (San Antonio education charity)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Jason D. Mims resides at 1614 Lone Oak Ave, San Antonio 78220 — exact address match. U.S. Army veteran (platoon leader/commander), Univ. of Notre Dame BA, Naval Postgraduate School MA; founded the MIMS Institute Fellows education nonprofit in 2001 and ran for SAISD Board District 2 in 2015. High FEC donation count (79) with strong Democratic lean (0.97), but no notable single-issue/tracked-category PAC surfaced; not a registered Texas or federal lobbyist (his TEC filings are as a 2015 school-board candidate, not a lobbyist).",
+  "source_url": "https://www.guidestar.org/profile/45-1485124",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "MIMS Institute Fellows, Inc.", "role": "Founder / Director", "category": "civic", "source_url": "https://www.guidestar.org/profile/45-1485124", "snippet": "MIMS Institute Fellows, Inc., a 501(c)(3) public charity founded by Jason Mims in 2001 to promote academic excellence and college access for public-school students in urban ZIP codes."}
+  ]
+ },
+ {
+  "donor_id": "05cc82a8-dfe2-4060-9878-8d2a9d2c74b7",
+  "name": "Ahuja, Jaspreet",
+  "resolved_employer": "Nutritionist, USDA Agricultural Research Service — Methods & Application of Food Composition Laboratory, Beltsville Human Nutrition Research Center",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Donor's self-reported occupation 'Nutritionist' and employer 'USDA' directly match Jaspreet Ahuja, a nutritionist at USDA ARS's Beltsville Human Nutrition Research Center (Food Composition Laboratory); Univ. of Maryland MA and Delhi University MS. Potomac, MD 20854 residence matches the Lake Potomac Dr donor address. FEC donation count 0 (no federal giving); no Texas lobbyist registration; no policy-advocacy or tracked-category affiliations found — federal research employee with no other public political footprint.",
+  "source_url": "https://www.zoominfo.com/p/Jaspreet-Ahuja/1931378977",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

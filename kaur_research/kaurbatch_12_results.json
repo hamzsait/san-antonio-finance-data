@@ -1,0 +1,256 @@
+[
+ {
+  "donor_id": "1369b2fa-13c9-4225-80f0-ed7205b36bde",
+  "name": "watt, Timothy",
+  "resolved_employer": "Retired attorney; long career at Zachry Corporation (San Antonio construction/engineering firm)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Timothy A. Watt is a San Antonio business/construction attorney (TX Bar since 1979), now retired, historically associated with Zachry Corporation; a Timothy Watt listed as Zachry SVP/General Counsel appears in FEC records. Residential address in 78209 (Alamo Heights) matches a retired professional; FEC lean strongly Democratic (0.9396) across 178 gifts.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=191246",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Zachry Corporation PAC (ZACOPAC)", "role": "Contributor (former employee)", "category": "business", "source_url": "https://www.city-data.com/elec2/14/elec-SAN-ANTONIO-TX-14-part7.html", "snippet": "Timothy Watt, Zachry/Senior Vice President General Counsel, contributed $388 to Zachry Corporation Political Action Committee (ZACOPAC) in 2014"}
+  ]
+ },
+ {
+  "donor_id": "a1f0432e-2e62-490e-8898-404a86112753",
+  "name": "Sandill, Brij",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor is retired, living at 15807 Socorro Falls, Helotes, TX. A 'Retired Lt. Col. Brij Sandill' who served ~28 years in the U.S. Army/Air Force (chief of the 37th Medical Group, Lackland AFB) exists in public records, which would fit a San Antonio-area retiree, but identity could not be confirmed to this specific Helotes resident. No FEC records (fec_donation_count 0) and no TX lobbyist registration found.",
+  "source_url": "https://www.jbsa.mil/News/News/Article/463995/lacklander-returns-home-from-deployment-wins-welcome-home-cruise/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "51eea8e8-7c59-4271-9423-9a383039fa25",
+  "name": "Russell, Jeanne",
+  "resolved_employer": "Founding Executive Director, CAST Schools (San Antonio nonprofit school network)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Jeanne Russell is the founding Executive Director of CAST Schools; former education-policy advisor to two San Antonio mayors (Cafe College, PreK4SA, SA Works) and former Chief Strategist at SA2020. Address in 78210 and title match exactly. FEC lean strongly Democratic (0.9996) across 109 gifts.",
+  "source_url": "https://castschools.com/jeanne-russell/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "CAST Schools", "role": "Founding Executive Director", "category": "civic", "source_url": "https://castschools.com/jeanne-russell/", "snippet": "Founding Executive Director of CAST Schools, a nonprofit school network focused on economic mobility in San Antonio"},
+   {"org": "SA2020", "role": "Former Chief Strategist", "category": "civic", "source_url": "https://castschools.com/jeanne-russell/", "snippet": "Prior to CAST Schools, Jeanne served as Chief Strategist at SA2020, aligning major institutions with community vision targets"}
+  ]
+ },
+ {
+  "donor_id": "43ec7f60-ad53-42ed-b8a0-0b281b7e7493",
+  "name": "Paredes, Javier",
+  "resolved_employer": "Architect and Founding Principal, StudioMassivo (JPR3 LLC dba Studio Massivo)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Javier Paredes is an award-winning architect and founding principal of StudioMassivo (JPR3 LLC, 2603 Country Square St., 78209 - matches donor address); led design work on the $125M San Pedro Creek Culture Park. Public board appointee. FEC lean 1.0 across 4 gifts.",
+  "source_url": "https://www.bfinstitute.org/profiles/javier-paredes",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "VIA Metropolitan Transit", "role": "Board member (City of San Antonio appointee)", "category": "civic", "source_url": "https://sanantonioreport.org/san-antonio-council-committee-selects-3-new-finalists-for-via-board/", "snippet": "Javier Paredes is listed as a Member of the VIA board as a City of San Antonio Appointee"},
+   {"org": "Alamo Area Metropolitan Planning Organization (MPO)", "role": "Board member", "category": "civic", "source_url": "https://www.bfinstitute.org/profiles/javier-paredes", "snippet": "He serves on the boards for VIA Metropolitan Transit and the Alamo Area MPO"},
+   {"org": "Urban Land Institute (ULI) San Antonio", "role": "Advisory Board member, co-chair Impact Committee", "category": "civic", "source_url": "https://fall.uli.org/speakers/javier-paredes/", "snippet": "He serves on the Advisory Board of ULI San Antonio and co-chairs the Impact Committee driving local ULI initiatives"}
+  ]
+ },
+ {
+  "donor_id": "02dcecb4-c4c5-4756-b604-745613cd8eac",
+  "name": "Marquez, Nick",
+  "resolved_employer": "Owner, Bar House (Barhouse) - bar/tavern at N. Alamo St, San Antonio; also owns commercial properties in Schertz/Cibolo",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Nick Marquez is the owner of Bar House San Antonio (downtown bar in a restored historic home) and previously opened the original Bar House in Schertz in 2018; grew up in the San Antonio area and owns multiple commercial properties.",
+  "source_url": "https://sanantonio.culturemap.com/news/restaurants-bars/bar-house-san-antonio-opening/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1dadd192-70e3-468a-8a4a-3b5d8383ced4",
+  "name": "Chaudhary, Jitendra (Jitu)",
+  "resolved_employer": "Store/Pharmacy Manager and part-owner, Rite Away Pharmacy & Medical Supply, San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Jitendra 'Jitu' Chaudhary is Store/Pharmacy Manager and part owner (pharmacist-in-charge) of Rite Away Pharmacy in San Antonio, confirmed via LinkedIn/ZoomInfo and DOJ records citing the same San Antonio pharmacy; matches occupation and locale. (Note: the pharmacy is subject to a DOJ opioid-distribution civil penalty - a regulatory matter, not a political/advocacy affiliation.)",
+  "source_url": "https://www.linkedin.com/in/jitendra-chaudhary-1a4ba516/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "83e2b90d-4132-47f2-b048-1abfa98a6d6a",
+  "name": "Robinson, Riley",
+  "resolved_employer": "Director/Executive Director, Artpace San Antonio (nonprofit contemporary art foundation); also a working artist",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Riley Robinson has worked at Artpace since ~1995, was named Director in 2018, leads a 10-person staff / ~$1.4M budget, and is himself an exhibiting artist (NEA award, MFA from UTSA); 78210 address matches his public artist resume.",
+  "source_url": "https://glasstire.com/2018/08/29/riley-robinson-officially-named-director-of-artpace/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "78fd2796-654d-45f4-a462-406865c5b977",
+  "name": "Woolfolk, Preston",
+  "resolved_employer": "CEO (formerly Co-President) of DOCUmation, a family-owned San Antonio managed-IT/printing/software/VoIP technology firm",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Preston Woolfolk is CEO of DOCUmation (third-generation family tech firm); Political Science degree from Abilene Christian (2010), rose from Business Analyst to Co-President in 2017 with brother Hunter; bio cites general social-services/nonprofit support but no named board seats or advocacy orgs.",
+  "source_url": "https://www.mation.com/preston-woolfolk-chief-executive-officer-of-documation/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "507e195b-27f1-4e3e-924f-ccd5d5cea934",
+  "name": "Vexler, Jack",
+  "resolved_employer": "Monterrey Iron & Metal, Ltd. (San Antonio scrap-metal recycling) - Owner/President, third-generation family owner",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Jack Vexler is the third-generation owner/CEO of Monterrey Iron & Metal, a San Antonio scrap-metal recycling firm founded 1916; matches donor employer string 'Monterrey Iron & Metal, Recycling'. (Note: a separate attorney 'Jack M. Vexler' exists in SA - not this donor.)",
+  "source_url": "https://monterreymetalrecycling.com/about-us/leadership-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Monterrey Iron & Metal, Ltd.", "role": "Owner / President (third generation)", "category": "business", "source_url": "https://monterreymetalrecycling.com/about-us/leadership-team/", "snippet": "Jack represents the third generation of the Vexler family to lead the company, assuming leadership in 1969."}
+  ]
+ },
+ {
+  "donor_id": "3af21aac-6109-4e49-9fc8-82e060631126",
+  "name": "Ochoa, Albert",
+  "resolved_employer": "Success Realty of Texas LLC - Broker / Managing Member (real estate broker, San Antonio & Austin)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Albert Ochoa is the broker and managing member of Success Realty of Texas LLC in San Antonio, a second-generation Realtor licensed since 2004; matches donor employer 'Success Realty of Texas' and SA location.",
+  "source_url": "https://successrealtytx.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Success Realty of Texas LLC", "role": "Broker / Managing Member", "category": "business", "source_url": "https://www.zoominfo.com/p/Albert-Ochoa/173527186", "snippet": "Broker and Managing Member and MBA at Success Realty of Texas."}
+  ]
+ },
+ {
+  "donor_id": "0edba7a9-99ef-4890-b15d-6e5f3efb6307",
+  "name": "Gonzales, Leticia D",
+  "resolved_employer": "Generations Federal Credit Union (GFCU), San Antonio - VP of Member Engagement (a.k.a. 'Letty' Gonzales)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Leticia 'Letty' Gonzales is VP of Member Engagement at Generations Federal Credit Union in San Antonio (joined 2015 as Commercial Business Development Officer); matches donor employer 'GFCU' and SA location. Also serves as Boysville board treasurer.",
+  "source_url": "https://theorg.com/org/generations-federal-credit-union/org-chart/letty-gonzales",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Generations Federal Credit Union", "role": "Vice President, Member Engagement", "category": "business", "source_url": "https://theorg.com/org/generations-federal-credit-union/org-chart/letty-gonzales", "snippet": "Letty Gonzales - Vice President Of Member Engagement at Generations Federal Credit Union."},
+   {"org": "Boysville (San Antonio children's nonprofit)", "role": "Board Treasurer", "category": "civic", "source_url": "https://www.linkedin.com/in/letty-gonzales-029bab26/", "snippet": "Letty Gonzales ... serves as Boysville Board Treasurer."}
+  ]
+ },
+ {
+  "donor_id": "7c749de6-421d-40c0-bdf1-dd7af09642c1",
+  "name": "Sadiq, Trey",
+  "resolved_employer": "Gauntlet Networks, Inc. - General Counsel & Corporate Secretary; former Associate General Counsel at USAA (San Antonio)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Trey Sadiq is General Counsel & Corporate Secretary of Gauntlet Networks (crypto/DeFi risk firm); UVA Law JD, Georgetown BS; prior Associate GC at USAA in San Antonio (explains SA tie). Matches donor employer 'Gauntlet Networks'. Sits on the board of LiftFund, a San Antonio nonprofit microlender.",
+  "source_url": "https://www.liftfund.com/our-board/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Gauntlet Networks, Inc.", "role": "General Counsel & Corporate Secretary", "category": "business", "source_url": "https://www.zoominfo.com/p/Trey-Sadiq/8951209742", "snippet": "General Counsel & Corporate Secretary at Gauntlet Networks."},
+   {"org": "LiftFund (San Antonio nonprofit microlender)", "role": "Board Member", "category": "civic", "source_url": "https://www.liftfund.com/our-board/", "snippet": "Trey Sadiq ... General Counsel, Gauntlet Networks, Inc."}
+  ]
+ },
+ {
+  "donor_id": "a57975cf-4dc5-4e16-804f-513c719488b0",
+  "name": "Mammen, Christopher",
+  "resolved_employer": "Executive Director, Dee Howard Foundation (workforce development nonprofit); previously Workforce Development Director at greater:SATX",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "San Antonio workforce-development leader; named Dee Howard Foundation Executive Director March 2025 after leading Talent Pipeline Management at greater:SATX. Matches zip 78213 and garbled 'DH Foundation'/'greater:SATX'/'Workforce Development' strings. No PAC or lobbyist records found.",
+  "source_url": "https://stateaviationjournal.com/index.php/state-news/texas/dee-howard-foundation-names-workforce-development-leader-as-new-executive-director",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Dee Howard Foundation", "role": "Executive Director", "category": "civic", "source_url": "https://stateaviationjournal.com/index.php/state-news/texas/dee-howard-foundation-names-workforce-development-leader-as-new-executive-director", "snippet": "Executive Director of The Dee Howard Foundation (newly appointed as of March 2025)"}
+  ]
+ },
+ {
+  "donor_id": "40c84e69-1d6f-4e0b-918f-d0f4770e5230",
+  "name": "Bhalla, Amardeep",
+  "resolved_employer": "Vice President of Programs, Proteus Fund (progressive philanthropy funder); named incoming President/CEO effective Sept 2026",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Identity corroborated by employer+title+location: Proteus Fund's VP of Programs and incoming President/CEO is a New Jersey-based civil-rights leader, matching Hoboken NJ 07030, the 'Proteus Fund'/'VP' strings. Publicly goes by Amardeep Singh; the 'Bhalla' surname on the filing may be a family/legal surname (not independently confirmed). No PAC or lobbyist records found.",
+  "source_url": "https://www.proteusfund.org/selects-amardeep-singh-as-its-next-leader/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Proteus Fund", "role": "Vice President of Programs (incoming President/CEO)", "category": "civic", "source_url": "https://www.proteusfund.org/selects-amardeep-singh-as-its-next-leader/", "snippet": "For the past five years, he has served as Proteus Fund's vice president of programs"},
+   {"org": "Sikh Coalition", "role": "Co-founder / Executive Director (2003-2011)", "category": "civic", "source_url": "https://www.proteusfund.org/selects-amardeep-singh-as-its-next-leader/", "snippet": "Sikh Coalition: Co-founder and executive director (2003-2011)"}
+  ]
+ },
+ {
+  "donor_id": "fc9f55ed-6738-4ae2-99a8-3e8414277c00",
+  "name": "Tomaszewski, Thomas",
+  "resolved_employer": "President, The Annex Group, LLC (Indianapolis-based affordable/workforce/student housing developer)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Tom Tomaszewski, president of The Annex Group, an affordable-housing developer with 6,000-7,000+ homes across 18 states using Low-Income Housing Tax Credits. Exact employer/title match; location fields garbled (IL). Advocates for the Housing Credit via industry bodies; no ideological PAC or TX lobbyist records found.",
+  "source_url": "https://www.taxcreditcoalition.org/about/board-of-directors/tom-tomaszewski/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Affordable Housing Tax Credit Coalition (AHTCC)", "role": "Board of Directors", "category": "business", "source_url": "https://www.taxcreditcoalition.org/about/board-of-directors/tom-tomaszewski/", "snippet": "serves on the Board of Directors for the Affordable Housing Tax Credit Coalition (AHTCC)"},
+   {"org": "NAHB Multifamily Council", "role": "Board of Trustees", "category": "business", "source_url": "https://www.theannexgrp.com/blog/2019/06/21/tom-tomaszewski-from-the-annex-group-joins-nahb-multifamily-council-board-of-trustees/", "snippet": "Tom Tomaszewski from The Annex Group joins NAHB Multifamily Council Board of Trustees"}
+  ]
+ },
+ {
+  "donor_id": "f7ec23af-2dd8-42e4-ae1e-2d56487748c4",
+  "name": "Salinas, Rhonda",
+  "resolved_employer": "HEB (grocery retailer), Senior Manager per donation record - specific individual not independently confirmed",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Could not confirm the specific person. A Rhonda Salinas in McAllen is a real estate broker/salon owner, which appears to be a different individual. Donation record lists employer HEB (San Antonio-based grocer) and title Senior Manager; classifying by employer fallback as Retail. No PAC or lobbyist records confirmed for this person.",
+  "source_url": "https://www.opensecrets.org/donor-lookup/results?employ=heb",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f766e079-3042-4dd2-aa38-8280ac7c2b6e",
+  "name": "Nino, Teresa",
+  "resolved_employer": "UTSA (University of Texas at San Antonio) - VP for University Relations (2021-Mar 2025)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Teresa Nino was VP for University Relations at UTSA overseeing strategic communications, marketing, government and community relations; prior 2+ decades in federal public affairs (HHS, USCIS, DHS). Matches occupation/employer and San Antonio location.",
+  "source_url": "https://sawomenshalloffame.org/members/2024-inductees/teresa-nino/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Women's Hall of Fame", "role": "2024 Inductee", "category": "civic", "source_url": "https://www.utsa.edu/today/2024/03/story/nino-browning-nash-inducted.html", "snippet": "San Antonio Women's Hall of Fame recognizes UTSA leaders for commitment to workforce, economic development"}
+  ]
+ },
+ {
+  "donor_id": "f6d2ad18-a618-41bf-97de-5370c0a155f2",
+  "name": "Czar, Jeffrey",
+  "resolved_employer": "Law Office of Jeffrey J. Czar (self-employed attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Jeffrey J. Czar is a Texas-licensed attorney (St. Mary's J.D. 1982, licensed 1983) practicing criminal, family, personal injury, oil/gas, real estate and probate law; San Antonio address 307 Huntington Pl, 78231 matches donor record. No ideological PAC or lobbyist records found.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=164904",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f64cd583-f72d-4d1c-9a1f-41377f4aca75",
+  "name": "Lowe, Ken",
+  "resolved_employer": "Fortress Funding (Owner) - finance/funding firm; San Antonio native, real-estate/community developer",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Ken Lowe, Owner of Fortress Funding (LinkedIn), is a San Antonio native with a finance background who serves on several business advisory boards and backs East Side developments (CommuniCare, St. Philip's dorms, IDEA schools). Donor listed at a Boca Raton FL address (likely second residence) but name+firm+San Antonio ties match strongly; FEC lean near-neutral (0.037), no ideological PAC found.",
+  "source_url": "https://foxsanantonio.com/news/local/local-businessman-helps-bring-positive-change-to-east-side",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "East Side community development (CommuniCare Health Centers investor group; MLK March committee; business advisory boards)", "role": "Investor/board member/organizer", "category": "civic", "source_url": "https://foxsanantonio.com/news/local/local-businessman-helps-bring-positive-change-to-east-side", "snippet": "Lowe's background is in finance and he serves on several business advisory boards; helped assemble investors for CommuniCare on East Commerce and served on the committee bringing the MLK March to Pittman Sullivan Park."}
+  ]
+ },
+ {
+  "donor_id": "f337429f-3411-478d-b783-6718dcd52a87",
+  "name": "Garza, Arleen",
+  "resolved_employer": "REEP Equity (Co-Founder, 2012) - San Antonio multifamily real-estate private-equity firm",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Arleen Garza co-founded REEP Equity in 2012 with husband Jacob Garza; the firm has managed ~$720M of multifamily assets and 5,500+ units across San Antonio, Houston and Austin. Former financial-services SVP. Shavano Park/San Antonio location and Co-Founder title match donor record.",
+  "source_url": "https://reepequity.com/about-us/meet-the-team/arleen-garza/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Apartment Association", "role": "Board of Directors (2022-2025)", "category": "business", "source_url": "https://reepequity.com/about-us/meet-the-team/arleen-garza/", "snippet": "San Antonio Apartment Association Board of Directors (2022-2025)"},
+   {"org": "THRU Project (foster-youth nonprofit)", "role": "Donor ($100,000 pledge, with Jacob Garza)", "category": "civic", "source_url": "https://www.prnewswire.com/news-releases/jacob-and-arleen-garza-pledge-100-000-donation-to-support-thru-projects-mission-301945699.html", "snippet": "Jacob and Arleen Garza Pledge $100,000 Donation to Support THRU Project's Mission"}
+  ]
+ }
+]

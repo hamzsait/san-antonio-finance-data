@@ -1,0 +1,232 @@
+[
+  {
+    "donor_id": "abf9eb47-88db-46b8-afc4-af4ec5bdbffb",
+    "name": "Mery, James",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired individual at 11211 Cedar Mountain, San Antonio 78249 (the '11211' zip field is actually a street number). Multiple 'James/Jim Mery' exist in San Antonio (a retired City parks/stadium manager active in Fiesta, local attorneys, etc.); could not confirm which is this specific retired donor. FEC PAC search: no ideological-PAC contributions found (fec_count 0). TX lobbyist: not registered. Bio read: no profile confirmable to this address.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a32afc44-6a30-4962-90ce-a1bd46371911",
+    "name": "Garza, Luis",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired individual at 6527 Redbird, San Antonio 78240. 'Luis Garza' is extremely common in San Antonio; no public profile could be corroborated to this specific address/donor. FEC PAC search: nothing (fec_count 0). TX lobbyist: not registered. Bio read: no confirmable profile.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a1e9afcb-7349-4d29-b497-4db1e5b770be",
+    "name": "Singh, Inderpal",
+    "resolved_employer": "Zelus Analytics (COO)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Chief Operating Officer of Zelus Analytics, an Austin-based sports-analytics technology firm; occupation ('Zelus') and title ('COO') match, and he is based in the Detroit/Troy, MI area matching the 48098 address. Prior roles at Microsoft, McKinsey, HSBC, Bridgewater. FEC PAC search: no ideological-PAC contributions (fec_count 0). TX lobbyist: not registered. Bio read: no policy-advocacy/board affiliations.",
+    "source_url": "https://theorg.com/org/zelus-analytics/org-chart/inderpal-singh",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9e17d199-9d4b-4245-8ac1-27e077ea46e0",
+    "name": "Rodriguez, Ismael",
+    "resolved_employer": "Texas Resource & Recovery (VP)",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "Self-reported VP at Texas Resource & Recovery (Diamond E. Management LLC dba), a San Antonio firm doing resource recovery / scrap brokerage, surplus structural steel and waste-management consulting; company and SA location (78240) confirmed, though his specific VP title was not independently verifiable (CEO on record is Estela Trevino). Democratic-leaning frequent donor (fec_count 230, lean 0.823). FEC PAC search: no ideological (pro-Israel/oil-gas/gun/etc.) PAC ties documented. TX lobbyist: not registered. Bio read: no board/advocacy roles found.",
+    "source_url": "https://www.texasrrco.com/company-overview",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "97e819da-c0aa-4d6c-9dec-fd9689bbeca8",
+    "name": "Reyes, Leonel",
+    "resolved_employer": "Baptist Health System (physician)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Leonel Reyes Jr, MD, a family-medicine physician affiliated with Baptist Medical Center; his practice address of 515 Camden St, San Antonio 78215 exactly matches the donor record. UT Health San Antonio grad. FEC PAC search: no ideological-PAC contributions (fec_count 1). TX lobbyist: not registered. Bio read: no advocacy/board affiliations.",
+    "source_url": "https://www.baptisthealthsystem.com/find-a-doctor/detail/leonel-reyes-1841302049",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "90dec432-5896-48fc-9943-f0ec161ff30a",
+    "name": "Handel, Nickolas",
+    "resolved_employer": "PulteGroup (Land Acquisition Manager)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Nick Handel is Land Acquisition Manager at PulteGroup's San Antonio homebuilding division (LinkedIn/RocketReach confirm title, employer, SA location; BS Environmental Science, Iowa State). FEC PAC search: no ideological PAC contributions (fec_donation_count 0); TX lobbyist registry: no registration; bio read: professional profile only, no board seats or advocacy roles.",
+    "source_url": "https://www.linkedin.com/in/nick-handel-0738a362/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8ebff0d1-d0eb-479e-a74f-3f492003ab87",
+    "name": "Baugh, Josh",
+    "resolved_employer": "VIA Metropolitan Transit (Director of Communications)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Josh Baugh is Director of Communications at VIA Metropolitan Transit (public transit authority) since Jan 2023; former San Antonio Express-News senior reporter (2006-2019) and KGBTexas public engagement strategist. Identity confirmed by name+occupation 'VIA'+SA. FEC PAC search: no ideological PAC ties found despite 52 small-dollar donations (partisan lean 0.639); TX lobbyist registry: no registration; bio read via TheOrg profile, no advocacy board seats.",
+    "source_url": "https://theorg.com/org/via-metropolitan-transit/org-chart/josh-baugh",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8a13f44d-ca49-4faa-a7ea-fe17e5fd41da",
+    "name": "Saldivar Luna, Laura",
+    "resolved_employer": "Piñata Possible (self-employed leadership coach)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Laura Saldivar Luna is founder/leadership coach at Piñata Possible (self-employed), former founding executive director of Teach For America-San Antonio; unique name + SA + self-employed occupation confirm identity. FEC PAC search: no ideological PAC contributions (fec_donation_count 0); TX lobbyist registry: no registration; full bio read confirms civic board roles only.",
+    "source_url": "https://www.pinatapossible.com/meet",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "SAISD Foundation", "role": "Board member", "category": "civic", "source_url": "https://www.pinatapossible.com/meet", "snippet": "She currently serves on the board of the SAISD Foundation and as District 7 Commissioner on the San Antonio Parks and Recreation Board."},
+      {"org": "San Antonio Parks and Recreation Board", "role": "District 7 Commissioner", "category": "civic", "source_url": "https://www.pinatapossible.com/meet", "snippet": "...and as District 7 Commissioner on the San Antonio Parks and Recreation Board."}
+    ]
+  },
+  {
+    "donor_id": "85e99541-8999-48f7-b75a-f48d988e79e4",
+    "name": "Fenton, Mike",
+    "resolved_employer": "ADKF, PC (Accounting Services Director, CPA)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Michael C. Fenton, CPA, is Accounting Services Director at ADKF (largest locally owned CPA firm in San Antonio); confirmed by ADKF staff bio page and LinkedIn. FEC PAC search: no ideological PAC ties found (9 donations, partisan lean 0.085); TX lobbyist registry: no registration; full bio read shows title/credential only, no board or advocacy roles.",
+    "source_url": "https://www.adkf.com/staff/michael-c-fenton/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7f8d9545-55fd-4ba7-b857-f0fb070d1b9d",
+    "name": "Espinosa, Roberto",
+    "resolved_employer": "Northwestern Mutual / Avante Wealth (Wealth Management Advisor)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Roberto Espinosa is a Wealth Management Advisor at Northwestern Mutual/Avante Wealth in San Antonio (CFP, CLU, ChFC, AEP, CAP; Forbes 2025 Best-in-State list); office 78257 adjacent to home zip 78258, occupation matches exactly. FEC PAC search: no specific ideological PAC ties found (31 donations, partisan lean 0.933); TX lobbyist registry: no registration; full bio read confirms wealth-advisory role, no advocacy affiliations.",
+    "source_url": "https://www.northwesternmutual.com/financial/advisor/roberto-espinosa/our-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "76989cf9-48a3-4bfe-b8ce-6957a41024f7",
+    "name": "Gonzalez, Henry",
+    "resolved_employer": "Gonzalez Chiscano Angulo & Kasson, PC (founding partner); Jefferson Bank director",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Henry B. Gonzalez III, founding partner/shareholder at San Antonio litigation firm Gonzalez Chiscano Angulo & Kasson and a Jefferson Bank board director (occupation 'Attorney/Banking' + both employer strings match exactly). FEC ideological-PAC search: no AIPAC/J Street/oil-gas/gun PAC hits. TX lobbyist registry: not listed. Bio read confirms law-firm founder plus bank and foundation board seats.",
+    "source_url": "https://www.gcaklaw.com/henry-b-gonzalez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Jefferson Bank", "role": "Director (Board of Directors)", "category": "business", "source_url": "https://www.gcaklaw.com/henry-b-gonzalez/", "snippet": "Henry B. Gonzalez appointed director of Jefferson Bank; founding partner of Gonzalez Chiscano Angulo & Kasson, PC."},
+      {"org": "The Ewing Halsell Foundation", "role": "Director", "category": "civic", "source_url": "https://www.zoominfo.com/p/Henry-Gonzalez/1615103535", "snippet": "Henry Gonzalez listed as Director at The Ewing Halsell Foundation (San Antonio charitable foundation)."}
+    ]
+  },
+  {
+    "donor_id": "70d4fd2f-bb64-4158-b578-b546f82fc4d4",
+    "name": "Magee, Robert",
+    "resolved_employer": "MLSA Ventures / Escalera Capital (founder/president)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Robert 'Bobby' Magee, founder/president of MLSA Ventures, a San Antonio real-estate investment/private-equity firm (retail, industrial, hospitality; bought La Villita Assembly Building), recently restructured as Escalera Capital. Matches occupation 'Private Equity' and employer 'MLSA Ventures.' FEC ideological-PAC search: no AIPAC/J Street/oil-gas/gun PAC hits. TX lobbyist registry: not listed. Bio read shows real-estate investment leadership only, no policy-advocacy roles.",
+    "source_url": "https://www.mlsaventures.com/team/bobby-magee",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6d64025b-ca56-4a1d-b831-e947840ee4c7",
+    "name": "Joergensen, John",
+    "resolved_employer": "Silver Ventures, Inc. (Chief Marketing Officer)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Silver Ventures' Chief Marketing Officer is publicly documented as Michael 'Mike' Joergensen (LinkedIn, Visit San Antonio board announcement); donor record lists 'John' Joergensen, CMO, Silver Ventures — likely the same person with a first-name discrepancy in the filing (occupation + employer match exactly). Silver Ventures is the SA growth-equity/real-estate firm behind Pearl and Hotel Emma. FEC ideological-PAC search: no hits (donor FEC count 0). TX lobbyist registry: not listed. Name mismatch keeps confidence at medium.",
+    "source_url": "https://www.linkedin.com/in/mjoergensen/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6c27de6a-fe9d-44e9-8ccf-d84e6fa2fdf2",
+    "name": "Berkus, Lainey",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Public records confirm Lainey C. Berkus at 15 Tilbury Ln, San Antonio 78230, matching the donor address; self-reported occupation 'retired.' A Lainey Berkus also appears tied to LB Consulting and the Majestic Empire Foundation (performing-arts nonprofit), but that arts/civic work cannot be firmly linked to this retired donor and is not policy-advocacy-relevant, so no affiliation is recorded. FEC ideological-PAC search: no hits (FEC count 0). TX lobbyist registry: not listed.",
+    "source_url": "https://www.officialusa.com/names/Michael-Berkus/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5fe9942e-7ee3-4dc0-81b3-be318390da78",
+    "name": "Vela, Linda",
+    "resolved_employer": "Quiddity Engineering, LLC (Public Involvement / Sr. Program Manager)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Linda Alvarado-Vela, AICP — planning/public-involvement professional who was Senior Program Manager at Quiddity Engineering (full-service civil engineering firm) and previously Planning & Public Involvement Program Manager at the Alamo Area MPO; now Texas Market Lead at Cambridge Systematics. Matches occupation 'Public Involvement, Quiddity.' TX Ethics Commission lobbyist registry: searched, not listed (public-involvement/outreach role, not registered lobbying). FEC ideological-PAC search: no AIPAC/J Street/oil-gas/gun PAC hits.",
+    "source_url": "https://www.linkedin.com/in/the-linda-vela/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "599dbe49-2e21-4872-8d06-9532235bd49b",
+    "name": "Bhatia, Shawn",
+    "resolved_employer": "Stand Together (Manager)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "Occupation 'Manager' + employer 'Stand Together' (Koch-network advocacy nonprofit) match a LinkedIn profile at /in/shawnbhatia displaying 'Shawn Singh - Research Manager @ Stand Together' in the Houston/Cypress metro; name discrepancy (Singh vs Bhatia) and inability to load the full profile keep identity uncertain. FEC search surfaced only Stand Together PAC and an unrelated candidate 'Nikhil Bhatia', no personal ideological-PAC contributions; no TX lobbyist registration; full bio blocked (LinkedIn HTTP 999). Note: '10910' is the street number, not a zip.",
+    "source_url": "https://www.linkedin.com/in/shawnbhatia/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Stand Together", "role": "Manager (Koch-network advocacy nonprofit, per employer string; LinkedIn lists 'Research Manager @ Stand Together')", "category": "political", "source_url": "https://www.linkedin.com/in/shawnbhatia/", "snippet": "Shawn Singh - Research Manager @ Stand Together"}
+    ]
+  },
+  {
+    "donor_id": "58355c6f-cc6c-4583-b324-fed06e9b1fe3",
+    "name": "Veliz, Art",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported retired; no public profile uniquely tied to 130 Shannon Lee St, 78216 could be confirmed (an unrelated Arturo Veliz CPA and a 2010 obituary are different people). FEC PAC search returned no ideological-PAC contributions attributable to this individual; no TX lobbyist registration (no 'Veliz' in registry); no bio page exists.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "57ff2b81-494f-4f32-b782-42c003ce9074",
+    "name": "Rodriguez, Alexandra",
+    "resolved_employer": "CAST Schools Network (Partnership Specialist)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Employer 'CAST Schools Network' (San Antonio industry-themed charter/partnership high-school network) is corroborated by a castschools.com staff contact (alexandra@castschools.com); 'Partnership Specialist' aligns with CAST's employer/district partnership model. FEC PAC search found no ideological-PAC giving for this specific person (common name); no TX lobbyist registration (Rodriguez matches in registry are Arthur J. and Geromino, not Alexandra); no full personal bio available.",
+    "source_url": "https://castschools.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5069857f-ca01-469b-b366-39c76dc48257",
+    "name": "Smith, Madison",
+    "resolved_employer": "Overland Partners (founding Principal / Chairman of the Board)",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "Madison Smith is a founding Principal of Overland Partners, the well-known San Antonio architecture/urban-design firm, and serves as Chairman of its Board; occupation 'Senior Principal' matches. FEC PAC search showed no ideological/issue-PAC contributions; no TX lobbyist registration; firm bio/Forbes profile confirm architecture leadership, not policy advocacy.",
+    "source_url": "https://www.forbes.com/profile/madison-smith/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Overland Partners", "role": "Founding Principal / Chairman of the Board", "category": "business", "source_url": "https://www.forbes.com/profile/madison-smith/", "snippet": "Madison Smith - Overland Partners; founding principal directing master planning, strategic planning, feasibility and finance; serves as Chairman of the Board of Directors."}
+    ]
+  },
+  {
+    "donor_id": "4b674576-1fcd-4f60-bc35-0a48fbea95d8",
+    "name": "Gonima, Camilo",
+    "resolved_employer": "Legacy Women's Health (OB/GYN)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Camilo Gonima is a board-certified OB/GYN with Legacy Women's Health (Women's Health Texas) in San Antonio, confirmed by the practice's provider page and his LinkedIn ('Physician - Legacy Women's Health Ob/Gyn'); UT Health San Antonio residency. FEC PAC search found no ideological-PAC giving; no TX lobbyist registration (no 'Gonima' in registry); bio is purely clinical with no policy-advocacy roles.",
+    "source_url": "https://www.legacywomenshealth.com/provider/camilo-gonima-md/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

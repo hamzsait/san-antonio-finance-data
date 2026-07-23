@@ -1,0 +1,261 @@
+[
+  {
+    "donor_id": "e73cb40c-5241-4685-b016-ce5902337fa7",
+    "name": "Kapur, Sarit",
+    "resolved_employer": "Edquisitive Montessori Plus (founder/business owner)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Founder of Edquisitive Montessori Plus, a San Antonio (Babcock Rd, 78240) Montessori/EdTech business; self-described 'Business owner' in Shavano Park/78231 matches donor record. FEC and TX lobbyist searches returned no PAC or lobbyist records; bio shows no policy-advocacy roles.",
+    "source_url": "https://www.edquisitivemontessori.com/team/sarit-kapur/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e3f36a8d-af9c-4e78-a5be-c034995ee07a",
+    "name": "Trevino Ripper, Marcie",
+    "resolved_employer": "Ripper Law PLLC (attorney/partner); also operates SATX Consultants",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "San Antonio attorney (Texas Bar), managing attorney at Ripper Law PLLC (78213), former Chief of Staff to Bexar County Judge Nelson Wolff; also runs SATX Consultants political consulting firm. No FEC ideological-PAC or TX lobbyist registration found.",
+    "source_url": "https://sanantonioreport.org/author/marcie-trevino-ripper/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "SATX Consultants",
+        "role": "Owner / operator (political & public affairs consulting)",
+        "category": "political",
+        "source_url": "https://sanantonioreport.org/author/marcie-trevino-ripper/",
+        "snippet": "Marcie also operates SATX Consultants, a political consulting firm... served as Bexar County Judge Nelson Wolff's Chief of Staff."
+      }
+    ]
+  },
+  {
+    "donor_id": "e38a2090-e4e7-47b0-8a93-fdb153c073e1",
+    "name": "Kaur Singh, Manjit",
+    "resolved_employer": "Takoma Montessori School (founder/director)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Manjit K. Singh founded Takoma Montessori School in 2017 in Takoma Park/Silver Spring MD area; donor listed as 'Business Owner' at Takoma Montessori School, Silver Spring MD 20904 — direct match. No FEC (count 0) or TX lobbyist records.",
+    "source_url": "https://takomamontessori.com/about-us/manjit-k-singh-director/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "db8392a7-3c11-48e0-9a10-06a82dbe0aac",
+    "name": "Montaño, Michael",
+    "resolved_employer": "Watts Guerra LLP / Guerra LLP (attorney)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "San Antonio attorney at Watts Guerra/Guerra LLP (formerly Montaño P.C.; served on San Antonio Bar Construction Law Section board). Note: public sources conflate two Guerra LLP 'Michael Montaño' profiles (a SA local litigator vs. a Stanford Law West Coast managing partner), so identity is medium-confidence; the legal/Watts Guerra classification is solid. No ideological PAC or TX lobbyist records found.",
+    "source_url": "https://guerrallp.com/attorneys/michael-montano",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d71559fa-9d7a-47b5-a41c-59298a657964",
+    "name": "Atluri, Anupama",
+    "resolved_employer": "USAA (Sr. Director, Information Technology – Enterprise Security Group)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Senior Director of IT in USAA's Enterprise Security Group, based in San Antonio; donor record 'IT industry / USAA' at 78240 matches. 23+ yrs IT across USAA, Frost Bank, JPMorgan. No FEC ideological-PAC or TX lobbyist records found.",
+    "source_url": "https://theorg.com/org/usaa/org-chart/anupama-atluri",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d0fe138e-cc4e-4399-9820-928db6e1ed3d",
+    "name": "Reeves, Sean",
+    "resolved_employer": "Fulton Property Group (VP-Development)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "VP of Development at Fulton Property Group (multifamily real estate developer, 5101 Broadway, San Antonio); email reeves@fultonprop.com matches donor occupation and city. No PAC or lobbyist records found.",
+    "source_url": "https://www.signalhire.com/overview/fulton-development-group-llc",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cadee0df-62a8-4923-927b-04c96d0cd9b6",
+    "name": "Halliday, Ken",
+    "resolved_employer": "Silver Ventures (retired)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Ken Halliday is CEO of Silver Ventures, the San Antonio firm that redeveloped Pearl Brewery, and a director of The Goldsbury Foundation; Silver Ventures sits at 5121/5150 Broadway, 78209, matching donor address. Donor lists 'Retired.' No PAC or lobbyist records found. (Goldsbury Foundation board excluded as private charity, not policy advocacy.)",
+    "source_url": "https://www.ciachef.edu/grad-speaker-ken-halliday/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c53467ab-60b9-414e-9dab-cf838e93cb52",
+    "name": "Harden, Adam",
+    "resolved_employer": "Cantu Harden Montoya LLP (public-finance tax partner)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Adam Clayton Harden, public-finance tax partner at Cantu Harden Montoya LLP, San Antonio (State Bar TX #315614); matches donor occupation/employer/city. No ideological PAC or state lobbyist registration surfaced despite 147 FEC donations.",
+    "source_url": "https://cantuhardenmontoya.com/team/adam-harden/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of Olmos Park, Texas Planning and Zoning Commission",
+        "role": "Chair",
+        "category": "civic",
+        "source_url": "https://cantuhardenmontoya.com/team/adam-harden/",
+        "snippet": "Chair, Planning and Zoning Commission for the City of Olmos Park, Texas"
+      }
+    ]
+  },
+  {
+    "donor_id": "c2c90c49-de5d-45a2-90b9-3b61d8a563c8",
+    "name": "Vazir, Aditi",
+    "resolved_employer": "Vasanti LLC (managing member; hospitality/hotel operation)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Aditi R. Vazir is managing member of Vasanti LLC (hotel/motel operation, 2203 E Commerce St) and related LLCs (Arihan, Aarohi) in San Antonio; donor's 'Vasant LLC' / self-employed matches. Residence 78258 (Mesa Ridge) matches. No FEC or state lobbyist records found for the individual.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/aditi-r-vazir/37397669.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bbea6621-bc71-4395-b84d-8da54fb84ad8",
+    "name": "Cheruku, Kiran",
+    "resolved_employer": "Tenet Physician Resources / Baptist Health System (interventional cardiologist)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Kiran K. Cheruku, MD, interventional cardiologist in San Antonio affiliated with Baptist Medical Center (Tenet Healthcare-owned system), corroborating employer 'Tenet Physician Resources'; unique name matches donor occupation 'Physician.' No PAC or lobbyist records found.",
+    "source_url": "https://www.baptisthealthsystem.com/provider/1760575278",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bb1b40a6-1c8a-4e09-923b-0abd366985e8",
+    "name": "kudithipudi, Dhireesha",
+    "resolved_employer": "UTSA (Robert F. McDermott Endowed Chair; founding director, MATRIX AI Consortium)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Dhireesha Kudithipudi is UTSA's Robert F. McDermott Endowed Chair and founding director of MATRIX: The AI Consortium for Human Well-Being; matches occupation 'Director of AI Consortium' + employer UTSA + San Antonio 78260.",
+    "source_url": "https://ai.utsa.edu/peoples/leadership/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b9fcd556-24f7-436c-a72b-7cbcc4487741",
+    "name": "Govindaraju, Swapomthi",
+    "resolved_employer": "Lotus Counseling and Wellness (Licensed Professional Counselor)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Swapomthi Govindaraju is a Licensed Professional Counselor at Lotus Counseling and Wellness in San Antonio (MS Clinical Mental Health Counseling, Texas A&M SA 2021); matches occupation and employer exactly.",
+    "source_url": "https://www.lotuscounselingsa.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b4d03cc0-a4be-4787-91a5-025eb92f16e1",
+    "name": "Rao, Kamala",
+    "resolved_employer": "USAA (Sr. Scrum Master / Release Train Engineer)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "LinkedIn confirms a Kamala Rao as Sr. Scrum Master/RTE at USAA (San Antonio), matching occupation 'Agile Scrum Master' + employer USAA. Common name and a separate Dr. Kamala Rao (anesthesiologist) exists, but occupation/employer align; USAA is a financial services/insurance firm. No PAC or lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/kamala-rao-27a396141",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b4c374fa-d0c6-4045-aa22-d4b5087b929a",
+    "name": "wen, sean",
+    "resolved_employer": "Curry Boys BBQ (co-owner; also Pinch Boil House, Wurst Behavior)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Sean Wen is co-owner/co-founder of Curry Boys BBQ and other San Antonio restaurants; matches occupation 'Curry Boys' + 'Restaurant Owner' at 78212. No ideological PAC records surfaced despite 9 FEC donations.",
+    "source_url": "https://www.starchefs.com/profiles/andrew-ho-and-sean-wen",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b3cabea8-b2be-418a-9d69-f96c27121556",
+    "name": "Weakley, Beth",
+    "resolved_employer": "David Weakley The REALTOR (owner; spouse's real-estate business, Keller Williams)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "LinkedIn shows Elizabeth (Beth) Weakley as Owner of 'David Weakley The REALTOR'; explains the data fields (occupation 'David Weakley', employer 'Owner'). Note: the realtor business is primarily associated with College Station/Brazos Valley, so identity vs the San Antonio 78210 address is not fully certain. No PAC or lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/elizabeth-weakley-57195316/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ae94637a-0bb2-450a-8d53-1106d81c2e20",
+    "name": "Card, Sara",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, Washington DC 20007 (2733 35th St NW); 29 FEC donations but no identifying former career, bio, or profile surfaced. FEC and lobbyist searches returned no specific match to confirm the individual; not guessing an industry for a retiree with no documented prior occupation.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a695d99c-dda7-4ef3-9c75-d5a9f8fd6c6b",
+    "name": "Picasso, Lawson",
+    "resolved_employer": "WSP USA (marketing/communications strategist); former Council District 1 staffer",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Lawson Alaniz-Picasso, San Antonio marketing/communications strategist and former Council District 1 staffer; ran for City Council D6 (2025) and Bexar County Commissioner Pct 1 (2024). Name, San Antonio location, and 'Self/Communications' occupation match.",
+    "source_url": "https://sanantonioreport.org/profile/lawson-alaniz-picasso-san-antonio-city-council-district-6/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "San Antonio City Council District 6 / Bexar County Commissioner Pct 1 races",
+        "role": "Democratic candidate",
+        "category": "political",
+        "source_url": "https://ballotpedia.org/Lawson_Alaniz-Picasso",
+        "snippet": "Ran for election to the San Antonio City Council to represent District 6 in Texas; lost in the general election on May 3, 2025; previously sought the Democratic nomination in Bexar County's Precinct 1."
+      },
+      {
+        "org": "City of San Antonio Board of Adjustments / CPS Energy Citizens Advisory Committee",
+        "role": "Commissioner / committee member",
+        "category": "civic",
+        "source_url": "https://lawsonpicasso.com/about",
+        "snippet": "City of San Antonio – Board of Adjustments Commissioner; CPS Energy Citizens Advisory Committee Member; 2022-2027 City of San Antonio Bond – Housing Committee Member."
+      }
+    ]
+  },
+  {
+    "donor_id": "a349177c-2f5c-4c84-936c-54ad98a214da",
+    "name": "Uribe, Lisa",
+    "resolved_employer": "Self-employed (educator)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Public FEC/city-data record lists 'Lisa Uribe (self employed/educator), zip 78212' — matching the donor's zip and self-employed occupation. No lobbyist or PAC records found.",
+    "source_url": "https://www.city-data.com/elec2/18/elec-SAN-ANTONIO-TX-18-part67.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9d492c51-d40e-4f01-97c7-ca06d91cf260",
+    "name": "Baiza, Matthew",
+    "resolved_employer": "NextGen America (Texas Organizing Director / later Texas State Director)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Matthew Baiza of San Antonio served as Texas Organizing Director (later Texas State Director) at NextGen America, a Tom Steyer-founded progressive youth-mobilization organization. Matches stated occupation/employer; high FEC donation count consistent with a political operative.",
+    "source_url": "https://organizing.nextgenamerica.org/state/texas/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "NextGen America",
+        "role": "Texas Organizing Director (later Texas State Director)",
+        "category": "political",
+        "source_url": "https://nextgenamerica.org/who-we-are/",
+        "snippet": "Matthew Baiza of San Antonio is the Texas Organizing Director at NextGen America, a progressive political advocacy organization, as of October 2023 and later progressing to Texas State Director."
+      }
+    ]
+  },
+  {
+    "donor_id": "9cea5f06-5f76-41be-a2dd-8282571c86a5",
+    "name": "Valavalkar, Sushil",
+    "resolved_employer": "CHRISTUS Trinity Clinic (pediatrician)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Sushil S. Valavalkar, MD is a board-certified pediatrician in San Antonio with 30+ years of practice; unique name and physician occupation match the donor record. No PAC or lobbyist records found (0 FEC donations).",
+    "source_url": "https://www.healthgrades.com/physician/dr-sushil-valavalkar-29kss",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

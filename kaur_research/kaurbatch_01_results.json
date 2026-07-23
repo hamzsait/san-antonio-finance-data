@@ -1,0 +1,250 @@
+[
+  {
+    "donor_id": "f1daed92-282f-4021-8381-f2a7b938e195",
+    "name": "Adams, Harry and Charisse",
+    "resolved_employer": "Harry Adams: Vice President / commercial real estate broker at Stream Realty Partners (San Antonio); Adamses also listed as affiliated with McCombs Enterprises (McCombs Family Properties)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Harry Adams joined Stream Realty in 2019, promoted to VP in the San Antonio office March 2024; does landlord/tenant rep, land disposition and site development, and has represented McCombs Family Properties among clients. Matches the donor's occupations (VP) and employers (STREAM Realty, McCombs Enterprises), zip 78248.",
+    "source_url": "https://streamrealty.com/team/harry-adams/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Stream Realty Partners", "role": "Vice President / commercial real estate broker (San Antonio)", "category": "business", "source_url": "https://streamrealty.com/team/harry-adams/", "snippet": "Harry Adams serves as a Vice President for the San Antonio market handling landlord/tenant representation, land disposition and site development; clients include McCombs Family Properties."},
+      {"org": "McCombs Enterprises (McCombs Family)", "role": "listed affiliated / managing partner (per LoopNet company listing)", "category": "business", "source_url": "https://www.loopnet.com/company/mccombs-enterprises/san-antonio-tx/9bkcp97l/", "snippet": "McCombs Enterprises is the diversified auto/real-estate holding company owned by the Red McCombs family; the Adamses are associated via McCombs Family Properties real-estate work."}
+    ]
+  },
+  {
+    "donor_id": "947fa7ff-665f-4f8f-b6f7-d3e1d1af79df",
+    "name": "Farias, Gabriel",
+    "resolved_employer": "Gabe Farias: Managing Partner of Jaeger FC, a governmental-relations/public-affairs consultancy; former EVP of Public Affairs & Marketing at Kellum Physician Partners; former President/CEO West San Antonio Chamber; former City Council District 3 chief of staff",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Gabe Farias is a well-documented San Antonio public-affairs/government-relations professional who ran public affairs for Kellum Physician Partners and co-founded Jaeger FC consultancy; matches donor occupations (Medical Executive, Managing Partner, Jaeger FC) and employers exactly.",
+    "source_url": "https://portsanantonio.us/Gabe-Farias",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Port San Antonio", "role": "Member, Board of Directors (appointed May 2024)", "category": "civic", "source_url": "https://portsanantonio.us/Gabe-Farias", "snippet": "Newly appointed to Port San Antonio's 11-member Board of Directors (May 2024)."},
+      {"org": "Brooks Development Authority", "role": "Board member; chaired Planning and Development Committee; also served on Mission Drive-in TIRZ board", "category": "civic", "source_url": "https://portsanantonio.us/Gabe-Farias", "snippet": "Recently served on Brooks Development Authority Board, chairing its Planning and Development Committee, and on the TIRZ board for the Mission Drive-in development area."},
+      {"org": "City of San Antonio (District 3 Council office)", "role": "Former Chief of Staff/Director of Communications for CM Jennifer Ramos and Roland Gutierrez", "category": "political", "source_url": "https://portsanantonio.us/Gabe-Farias", "snippet": "Chief of Staff and Director of Communications for former District 3 Councilwoman Jennifer V. Ramos and Director of Communications for former CM Roland Gutierrez."}
+    ]
+  },
+  {
+    "donor_id": "4ae89ca7-55e0-4b69-9495-b6fc785228c0",
+    "name": "Kellum, Daniel",
+    "resolved_employer": "Dr. Daniel H. Kellum, DO (founder/owner) of Kellum Medical Group / Kellum Physician Partners, a San Antonio family-practice group",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Donor occupation 'Doctor/Owner, Physician' and employers Kellum Medical Group / Kellum Physician Partners match Dr. Daniel H. Kellum, DO, founder-owner of the Kellum family-medicine practice in San Antonio. Zip 78212 matches the group's San Antonio base; recurring employer across this donor set (Farias, Becker, Campsey).",
+    "source_url": "https://www.kellummedical.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ccfcc653-87d8-4095-b110-723d0991fd74",
+    "name": "Cortes, Pedro and Sol",
+    "resolved_employer": "Owner of CS Alliance Services LLC / 'Comercial Maintenance' — an apparent small commercial-maintenance/facilities business in San Antonio (not independently confirmed)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Could not corroborate this specific person in any public source; 'La Familia Cortes' is NOT the Mi Tierra 'La Familia Cortez' restaurant family (different spelling). Only signal is the self-reported occupation of owner of a commercial-maintenance LLC at 78251. No public profile, FEC PAC record, or Texas lobbyist registration found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "af56f530-8db6-42f6-942f-2432e463f9e4",
+    "name": "Basaldua, Paul",
+    "resolved_employer": "VersaTerra Development (President/CEO) — full-service San Antonio land development firm",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Paul Basaldua is President/CEO of VersaTerra Development, a San Antonio land-development firm (e.g. the Condalia master-planned community). Serves on the VIA Metropolitan Transit board and executive committees of the North SA Chamber and Real Estate Council of San Antonio. Zip 78248 / Real Estate occupation match. Federal giving leans strongly Democratic (0.97 over 13 gifts) but no specific ideological PAC contribution surfaced.",
+    "source_url": "https://capitalanalyticsassociates.com/spotlight-on-paul-basaldua-president-ceo-versaterra-development/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "VIA Metropolitan Transit", "role": "Board of Directors", "category": "civic", "source_url": "https://capitalanalyticsassociates.com/spotlight-on-paul-basaldua-president-ceo-versaterra-development/", "snippet": "serves on the Board of Directors of VIA Metropolitan Transit."},
+      {"org": "Real Estate Council of San Antonio", "role": "Executive Committee", "category": "business", "source_url": "https://capitalanalyticsassociates.com/spotlight-on-paul-basaldua-president-ceo-versaterra-development/", "snippet": "serves on the executive committee of the North Chamber and the Real Estate Council of San Antonio."}
+    ]
+  },
+  {
+    "donor_id": "82fde0c8-d4e0-4f5e-b119-eb73c29ef866",
+    "name": "Aneja, Pardeep",
+    "resolved_employer": "Roshni Foods (CEO) — Laurel/Ashton, Maryland food company (spices, condiments, beverages)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Pardeep Aneja is CEO of Roshni Foods, a Maryland-based specialty/South-Asian food company (LinkedIn and ZoomInfo confirm CEO title; family members listed as COO/growth roles). Maryland address matches donor record. No Texas lobbyist registration (out of state) and no ideological-PAC or policy-advocacy profile found — a quiet result. (Out-of-state Aneja-family maxed gifts to a San Antonio council race suggest a possible personal/family tie to the candidate; not independently confirmed and not classified as an affiliation.)",
+    "source_url": "https://www.linkedin.com/in/pardeep-aneja-25338939/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3a129437-5ec5-48d3-9e81-3433954a96ba",
+    "name": "Martin, Paul",
+    "resolved_employer": "Martin Capital Advisors, LLP (Managing Partner & CIO) — San Antonio registered investment advisory firm",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Paul Martin founded (1989) and is Managing Partner/CIO of Martin Capital Advisors, a registered investment advisor with SA/Austin offices. Civic roles: San Antonio Public Library Foundation, SA Museum of Art Contemporaries. San Antonio 78212 / investment-advisor occupation match. Federal giving fully Democratic-leaning (1.0 over 44 gifts) but no specific ideological PAC contribution found.",
+    "source_url": "https://martincapital.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Public Library Foundation", "role": "Leadership/board involvement", "category": "civic", "source_url": "https://martincapital.com/about/", "snippet": "active in the San Antonio community through leadership positions including the San Antonio Public Library Foundation."}
+    ]
+  },
+  {
+    "donor_id": "24a66266-cdaa-421d-bcff-34a30ba71d17",
+    "name": "McKnight, James",
+    "resolved_employer": "Ortiz McKnight PLLC (Partner/founding member, attorney) — San Antonio land-use, zoning & government-affairs law firm",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "James C. McKnight is a founding partner of Ortiz McKnight PLLC practicing land use, planning, zoning and government affairs before the City of San Antonio; former architect and UTSA land-use-law instructor. San Antonio 78248 / attorney occupation match. Appears in the City of San Antonio lobbyist registration system — a land-use practitioner before the same city government whose council member he is donating to (transparency-relevant). No federal ideological-PAC contributions found.",
+    "source_url": "https://www.ortizmcknight.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio Lobbyist Registry", "role": "Registered lobbyist (land use / government affairs)", "category": "political", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx", "snippet": "James McKnight appears in the City of San Antonio Lobbyist System registry; his practice is land use, zoning and government affairs before the City."}
+    ]
+  },
+  {
+    "donor_id": "d53c2573-200e-4d6f-b877-fbf4628c904b",
+    "name": "Ortiz, Daniel",
+    "resolved_employer": "Ortiz McKnight PLLC (shareholder/founding member; land use, zoning, municipal/public law attorney, San Antonio)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Daniel Ortiz is a founding shareholder of Ortiz McKnight PLLC, a San Antonio land-use/zoning/municipal-law firm formed March 2023; licensed in Texas since 2004, practice in land use, zoning and government relations. Matches employer and downtown-SA office. Land-use practitioner before the City (partner of donor James McKnight).",
+    "source_url": "https://www.ortizmcknight.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "33f69af6-4b6a-4393-a3f0-f08d1edda0db",
+    "name": "Agather, John",
+    "resolved_employer": "Rosenthal Pauerstein Sandoloski Agather LLP (name partner/attorney, San Antonio); also singer-songwriter and businessman",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "John Agather is the name partner of San Antonio law firm Rosenthal Pauerstein Sandoloski Agather LLP and a well-known SA musician/businessman; served as 2019 Chairman of the San Antonio Hispanic Chamber of Commerce. Matches 78212 address and stated attorney+musician occupations.",
+    "source_url": "https://www.johnagather.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Chairman (2019)", "category": "civic", "source_url": "https://www.youtube.com/watch?v=L0yyBamGTuk", "snippet": "Intro to John Agather, 2019 Chairman of the San Antonio Hispanic Chamber of Commerce."}
+    ]
+  },
+  {
+    "donor_id": "d7adfb62-4e30-417c-974a-f8708bba2f79",
+    "name": "Aneja, Chetveer",
+    "resolved_employer": "Roshni Foods (Maryland-based food/grocery brand) — Director of Strategic Initiatives / COO / partner",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Chetveer is part of the Aneja family that runs Roshni Foods, a Maryland (Laurel/Ashton area) food-products and grocery brand; donor address (Ashton, MD 20861) matches an out-of-state family-business donor. Role title varies across sources (Director of Strategic Initiatives / COO / Chief Growth Officer); some listings show 'Chetveer Singh.' No FEC PAC record or Texas lobbyist registration. (Possible personal/family tie to the candidate flagged but not confirmed; not classified as an affiliation.)",
+    "source_url": "https://www.roshnifoods.com/about.php",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ab293527-f800-4a8a-801e-14fd559ea80a",
+    "name": "Macon, Jane",
+    "resolved_employer": "Bracewell LLP (partner/Of Counsel; public finance, municipal bond and administrative-law attorney, San Antonio). First woman San Antonio City Attorney, 1977-1983",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Jane Haun Macon is a prominent San Antonio public-finance attorney at Bracewell and the first woman to serve as San Antonio City Attorney (1977-1983); past-chair of Siebert Financial Corp (Nasdaq: SIEB) and long civic/board record. Matches 78205 downtown office and 199-donation federal history (lean 0.68).",
+    "source_url": "https://www.bracewell.com/people/jane-h-macon/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National Women's Political Caucus", "role": "Board of Directors (per firm bio)", "category": "political", "source_url": "https://www.bracewell.com/people/jane-h-macon/", "snippet": "Board of Directors listings include NOW Legal Defense Fund, Center for Democracy, National Women's Political Caucus."},
+      {"org": "Siebert Financial Corp (Nasdaq: SIEB)", "role": "Past-Chair; officer of Siebert Foundation", "category": "business", "source_url": "https://www.bracewell.com/people/jane-h-macon/", "snippet": "Jane is past-chair of Siebert Financial Corporation (Nasdaq: SIEB) and officer of Siebert Foundation."}
+    ]
+  },
+  {
+    "donor_id": "6083cb4d-9457-477a-8c5d-0b0bd8f3b176",
+    "name": "Glamour, Tejinder and Suman",
+    "resolved_employer": "Gastro Florida (Dr. Tejinder S. Glamour, gastroenterologist/hepatologist; Suman is spouse)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Tejinder S. Glamour, MD, gastroenterologist at Gastro Florida in Pinellas Park/St. Petersburg FL; FEC records confirm identical name, employer 'Gastro Florida', occupation Physician, and the exact 5354 62nd Ave S, St. Petersburg FL 33715 address. 'Glamour' is the real surname, not an OCR artifact.",
+    "source_url": "https://gastrofl.com/doctors/tejinder-glamour/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Democratic federal candidates (Schiff for Senate, Bhalla for Congress, Dr. Jasmeet Bains for Congress)", "role": "individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=glamour", "snippet": "FEC Schedule A shows Tejinder Glamour (Gastro Florida, Physician, St. Petersburg FL) giving to Schiff for Senate and Schiff Min Victory Fund (Oct 2024), Bhalla for Congress (Oct 2023), and Dr. Jasmeet Bains for Congress (Aug 2025); no AIPAC/UDP/J Street or industry-PAC contributions found."}
+    ]
+  },
+  {
+    "donor_id": "26e6d2d5-f524-43b8-ba19-1a74f119c85c",
+    "name": "Becker, Wade",
+    "resolved_employer": "Internal Medicine physician (UIW med school; TIGMER/University Hospital residency; now Kellum Family Medicine, San Antonio)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Wade Becker, DO — graduated University of the Incarnate Word (2022), Internal Medicine residency at Texas Institute for GME & Research / University Hospital San Antonio (2025), now a provider at Kellum Family Medicine; matches occupations and all three listed employers, zip 78212.",
+    "source_url": "https://familymedicine.kellummd.com/team_member/wade-becker-d-o/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dfe3dd80-73d9-473e-9bae-1c83c657426e",
+    "name": "Ghuman, Apar",
+    "resolved_employer": "Alameda Health System / Highland Hospital (Dr. Apar S. Ghuman, DO, physiatrist / physical medicine & rehabilitation)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Apar S. Ghuman, DO is a PM&R physician with Alameda Health System (San Leandro, adjacent to Alameda CA 94501) affiliated with Highland Hospital; matches occupation Physician and the Alameda Health System/Highland Hospital employers and Alameda CA location. No FEC PAC or Texas lobbyist records (out of state).",
+    "source_url": "https://www.healthgrades.com/physician/dr-apar-ghuman-xymqtgm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d8485509-543a-400d-b736-1754686a0218",
+    "name": "Campsey, Arthur",
+    "resolved_employer": "Kellum Family Medicine (Art Campsey III, PA-C, physician assistant, San Antonio)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Art Campsey III, PA-C, physician assistant at Kellum Family Medicine, San Antonio native; bio confirms PA at Kellum and board of Bexar County PA Society. Matches occupation PA and Kellum employer/address (323 W Gramercy Pl, 78212).",
+    "source_url": "https://familymedicine.kellummd.com/our-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Global Health Reach", "role": "co-founder and operations director", "category": "civic", "source_url": "https://familymedicine.kellummd.com/our-team/", "snippet": "Co-founder and operations director of Global Health Reach, a nonprofit providing health care to underserved populations; also on the board of the Bexar County PA Society. Charitable/professional, not policy advocacy."}
+    ]
+  },
+  {
+    "donor_id": "cd5fc2a4-b13d-4f4d-a343-6c1ad8155735",
+    "name": "Vexler, Mary Jordan",
+    "resolved_employer": "Monterrey Iron & Metal (San Antonio scrap-metal recycler) — COO since 2008, appointed CEO April 2024; Ferrous Sales is a related family entity",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Mary Jordan Vexler ('Jordan Vexler') is a fourth-generation leader of the Vexler family scrap-metal recycling firm Monterrey Iron & Metal in San Antonio (matches employer + 78212 area). Industry labeled Energy / Environment for the recycling/materials framing (taxonomy has no manufacturing/recycling label — imperfect fit, not oil_gas). No FEC PAC records or Texas lobbyist registration found.",
+    "source_url": "https://www.recycledmaterials.org/monterrey-iron-metal-appoints-jordan-vexler-as-ceo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Appleseed (anti-poverty/anti-discrimination nonprofit)", "role": "Federal policy reform work (per bio)", "category": "civic", "source_url": "https://www.recycledmaterials.org/monterrey-iron-metal-appoints-jordan-vexler-as-ceo/", "snippet": "Bio notes she did 'federal policy reform work with Appleseed, a nonprofit combating poverty and discrimination.'"}
+    ]
+  },
+  {
+    "donor_id": "b57c0139-041f-45f3-b58c-6e13e69a07e3",
+    "name": "Kaur, Parvinder",
+    "resolved_employer": "Retired; former career not publicly established",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Retired resident of 98 Turnberry Way, San Antonio 78230. Public/property records list her at that address with a 'Gurvinder Pal Singh' (Sikh household). A prominent San Antonio defense-contractor founder G.P. Singh (Karta Technologies) shares that name, but the donor could NOT be confirmed as his spouse, so no military_defense affiliation is asserted. No confirmed kinship to candidate Sukh Kaur ('Kaur' is a near-universal Sikh surname, not evidence of kinship). No FEC PAC or Texas lobbyist records.",
+    "source_url": "https://radaris.com/p/Parvinder/Kaur/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a95dc699-5a40-4b78-a919-7a802de5d0ca",
+    "name": "Avelar, Elizabeth",
+    "resolved_employer": "Livetech LLC (self-employed; project manager / instructor per filing) — no public company profile confirmed",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Could not conclusively identify this Elizabeth Avelar. An Elizabeth Avelar resides in the Somerset/San Antonio area (matches PO Box 483, Somerset 78069), but no public profile, business registration for 'Livetech LLC,' FEC PAC record, or Texas lobbyist registration could be tied to her. Multiple same-named people exist.",
+    "source_url": "https://www.spokeo.com/Liz-Avelar",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a4b739e4-74dc-4554-ab11-71258573e208",
+    "name": "Lambrecht, Daiana",
+    "resolved_employer": "Futuro San Antonio (public-education advocacy nonprofit) — founding Executive Director",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed founding Executive Director of Futuro San Antonio, a nonprofit advocating for public education; Harvard Graduate School of Education alumna; former Rocketship Senior Director of Parent Leadership & Advocacy. Location (78201) and role match filing exactly.",
+    "source_url": "https://futuro-sa.org/team-member/daiana-lambrecht/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Futuro San Antonio", "role": "Founding Executive Director", "category": "civic", "source_url": "https://futuro-sa.org/team-member/daiana-lambrecht/", "snippet": "Leads a San Antonio nonprofit 'dedicated to advocating for excellent public education and prosperity for all children,' with immigrant-community education advocacy focus."},
+      {"org": "Freedom Coalition of Charter Schools / Activate STL", "role": "Board member (per prior Rocketship bio)", "category": "civic", "source_url": "https://www.charterfolk.org/charterfolk-contributor-daiana-lambrecht-elevating-all-students-in-san-antonio/", "snippet": "Described as board member of Activate STL and the Freedom Coalition of Charter Schools; charter-school/education policy advocacy."}
+    ]
+  }
+]

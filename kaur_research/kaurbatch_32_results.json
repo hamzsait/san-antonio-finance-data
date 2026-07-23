@@ -1,0 +1,240 @@
+[
+ {
+  "donor_id": "bf893213-62b4-4b86-9bdc-31a52ceab61b",
+  "name": "Halley, Jeffrey",
+  "resolved_employer": "University of Texas at San Antonio, Dept. of Sociology (retired) — Professor Emeritus",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Jeffrey A. Halley, Professor Emeritus of Sociology at UTSA, resides at 342 W Hollywood Ave, San Antonio 78212 — exact address match; listed as retired. Identity corroborated by name + zip + street address + emeritus status.",
+  "source_url": "https://www.researchgate.net/profile/Jeffrey-Halley",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bd6d1b07-4291-4e35-a6af-2087766df65b",
+  "name": "Manning, John",
+  "resolved_employer": "Barton Benson Jones PLLC — Associate Attorney (business, real estate, finance, contracts)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "John Russell Manning, associate attorney at Barton Benson Jones PLLC, San Antonio; Texas Bar member. Employer and occupation match exactly. Name is common; the 185 FEC-donation count could not be attributed to this specific individual with certainty.",
+  "source_url": "https://bartonbensonjones.com/2024/03/22/san-antonio-business-journals-people-on-the-move-john-manning/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bc9348ff-f8a2-47db-bc1f-0c757b299435",
+  "name": "Burroughs, Willie",
+  "resolved_employer": "Issachar Solutions Group, Inc — President/CEO (executive coaching, capital planning, organizational development consulting)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Donor is President/CEO of Issachar Solutions Group (San Antonio consulting firm). Very likely Willie T. Burroughs, former SAISD Chief Operations Officer and later Director of Management Services at Council of the Great City Schools, whose profile aligns with the firm's operations/management-consulting focus — but the direct Burroughs-to-Issachar founding link is not explicitly documented, hence medium confidence. No FEC record (count 0); no lobbyist registration found.",
+  "source_url": "https://www.cgcs.org/Page/1392",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bbab7cad-87a0-4fca-b802-e775ce96f6d4",
+  "name": "Brimhall, Peggy",
+  "resolved_employer": "Able City Communities — Principal (community-focused real estate development; adaptive reuse, affordable housing)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Pegy Brimhall, Principal of Able City Communities, San Antonio real estate developer (UT Austin architecture, Cornell MBA); prior ventures Figurd Development and Rising Barn. Name, employer, occupation and city all match. No FEC record (count 0); no lobbyist registration found.",
+  "source_url": "https://www.able.city/communities/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Urban Land Institute (ULI)", "role": "Member / listed participant", "category": "business", "source_url": "https://knowledge.uli.org/es-es/people/b/p/pegy-brimhall-31b6", "snippet": "Pegy Brimhall maintains a member profile on the Urban Land Institute knowledge site, the industry body for real estate development professionals."}
+  ]
+ },
+ {
+  "donor_id": "b7d52a39-7c7a-4fb7-a306-21140902bd86",
+  "name": "Martinez, Dennis",
+  "resolved_employer": "DMAssociates — Principal; economic-development / tax-credit finance consultant (also with Crescent Growth Capital, LLC)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Dennis Martinez, principal of DMAssociates, San Antonio economic-development consultant (former City of San Antonio Special Projects Officer, ex-Director of Dallas Economic Development Dept., Kelly AFB redevelopment lead; UTSA adjunct professor). Occupation 'DMASSOCIATES / Tax Consultant' matches. No lobbyist registration; FEC name-search surfaced no notable single-issue PAC.",
+  "source_url": "https://crescentgrowthcapital.com/people/dennis-martinez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Urban Libraries Council", "role": "Board member (elected 2006)", "category": "civic", "source_url": "https://crescentgrowthcapital.com/people/dennis-martinez/", "snippet": "Bio states he was 'Elected to the Urban Libraries Council board in 2006' and is 'a longtime advocate for public libraries.'"}
+  ]
+ },
+ {
+  "donor_id": "b624a071-e651-48e1-8949-2901eb9b9bff",
+  "name": "Ahuja, Jassi",
+  "resolved_employer": "Substitute teacher, Baltimore County Public Schools",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Listed as substitute teacher for Baltimore County Public Schools, Sparks Glencoe MD 21152. No public bio, LinkedIn, or news profile located to corroborate the specific individual; common name. FEC donation count 0, consistent with no federal giving.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b1c9b808-14f9-4263-8d26-a7f8789dfffc",
+  "name": "Dani, Ambika",
+  "resolved_employer": "Founder, CEO & Superintendent, Promesa Academy Charter School (San Antonio)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Founder/CEO of Promesa Academy, a charter school serving San Antonio's 78207 zip; her donor address (603 Merida St, 78207) matches the West Side area she serves. Multiple SA news/philanthropy sources corroborate. FEC count 0.",
+  "source_url": "https://thinkglobalschool.org/former-tgs-teacher-ambika-dani-discusses-promesa-academy/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Social Venture Partners San Antonio", "role": "Fellow (inaugural 2019 class)", "category": "civic", "source_url": "https://www.svpsa.org/2021/08/13/how-a-new-school-thrived-during-the-pandemic-promesa-academy/", "snippet": "Ambika is one of Social Venture Partners San Antonio's Fellows from the first class that began in September 2019."},
+   {"org": "Promesa Academy Charter School", "role": "Founder / CEO / Superintendent", "category": "civic", "source_url": "https://thinkglobalschool.org/former-tgs-teacher-ambika-dani-discusses-promesa-academy/", "snippet": "Ambika Dani, founder of Promesa Academy, built a charter school in San Antonio's poorest zip code."}
+  ]
+ },
+ {
+  "donor_id": "b1b37080-22f1-4ef2-8ccf-d645954e04d6",
+  "name": "Mandel, Lauren",
+  "resolved_employer": "President, San Antonio Chapter of Associated General Contractors of America (AGC)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Lauren (Levin) Mandel is President of the San Antonio AGC, a commercial-construction trade association; profile emphasizes government/legislative affairs and community relations. Address 528 Normandy Ave 78209. FEC count 8; specific recipients not retrievable (API rate-limited). Not found in TEC registered-lobbyist lists under 'Mandel.'",
+  "source_url": "https://sanantonioreport.org/construction-jobs-are-san-antonio-and-theyre-building-our-future/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Chapter, Associated General Contractors of America (AGC)", "role": "President", "category": "business", "source_url": "https://sanantonioreport.org/construction-jobs-are-san-antonio-and-theyre-building-our-future/", "snippet": "President of the San Antonio Chapter of Associated General Contractors (AGC), whose mission is to 'continuously advance commercial construction.'"}
+  ]
+ },
+ {
+  "donor_id": "ad0ec1cd-eae1-4b96-9ced-307dace61d23",
+  "name": "Black, Wendy",
+  "resolved_employer": "Founder & President, Footbridge Foundation (animal rescue nonprofit)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Founder/President of Footbridge Foundation, a King William-based 501(c)(3) animal rescue; donor address 431 King William St matches the foundation's neighborhood. FEC count 212 (substantial federal small-dollar giving); specific recipient committees not retrievable via rate-limited API/web, so no policy PAC affiliation confirmed.",
+  "source_url": "https://www.footbridgefoundation.org/our-story",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Footbridge Foundation", "role": "Founder / President", "category": "civic", "source_url": "https://www.footbridgefoundation.org/our-story", "snippet": "Wendy Black created the Footbridge Foundation as a 501(c)3, inspired by walking foster dogs across the footbridge in the King William neighborhood."}
+  ]
+ },
+ {
+  "donor_id": "ac502494-3269-4d31-9748-ae3f208eeb71",
+  "name": "Kaur, Sangeeta",
+  "resolved_employer": "Obstetrician-Gynecologist (MD), Corewell Health / William Beaumont University Hospital, Royal Oak & Troy MI",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Board-certified OB/GYN affiliated with Corewell Health/Beaumont, with offices in Royal Oak and Troy MI; donor address 2560 Black Pine Trail Dr, Troy 48098 matches. Albany Medical College MD. FEC count 0.",
+  "source_url": "https://doctors.beaumont.org/provider/Sangeeta+Kaur/224059",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a90745d2-dd51-4c42-a0d0-04b5e53436c7",
+  "name": "Goomer, Arvinder",
+  "resolved_employer": "Insurance agent, Singh Brokerage (Mount Airy, MD)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Out-of-state ($100) donor listed as an insurance agent at Singh Brokerage in Mount Airy, MD. No public bio, profile, or news mention located beyond the self-reported occupation; distinctive name but nothing corroborating a specific individual online.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a24474cc-624a-4053-a941-ad5f2fe6a4d3",
+  "name": "Cedillo, Rebecca",
+  "resolved_employer": "Urban planner (University Health / Bexar County hospital district); veteran San Antonio planning consultant",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Longtime San Antonio urban-planning professional; registered as a Texas lobbyist in 2007 (Rebecca Quintanilla Cedillo, 239 W. Hollywood, San Antonio 78212). High FEC donation count (53) consistent with an active civic figure; identity corroborated by planner occupation and San Antonio ties.",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2007/2007_Lobby_List-Lobbyist_Only.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Ethics Commission", "role": "Registered lobbyist (2007)", "category": "political", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2007/2007_Lobby_List-Lobbyist_Only.pdf", "snippet": "Rebecca Quintanilla Cedillo, 239 W. Hollywood, San Antonio, TX 78212, registered lobbyist for the 2007 period."}
+  ]
+ },
+ {
+  "donor_id": "a13495b3-a39e-4453-8fd3-d0f19bbef843",
+  "name": "Vohra, Aparna",
+  "resolved_employer": "Senior project/program manager, HCLTech (IT services)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Immediate past president of the Asian American Alliance of San Antonio and an Ambassador on the Asian Center SA Outreach Committee; program/project manager. Supports the Alamo Asian Chamber of Commerce Educational Foundation and ran its YLSA youth leadership program. San Antonio (78255) resident matches donor record.",
+  "source_url": "https://asiancentersa.org/about-us/outreach-committee/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Asian American Alliance of San Antonio", "role": "Immediate past president", "category": "civic", "source_url": "https://asiancentersa.org/about-us/outreach-committee/", "snippet": "Aparna Vohra ... immediate past president of the Asian American Alliance of San Antonio."},
+   {"org": "Asian Center SA (Outreach Committee)", "role": "Ambassador", "category": "civic", "source_url": "https://asiancentersa.org/about-us/outreach-committee/", "snippet": "Aparna Vohra listed as an Ambassador on the Outreach Committee; supports the Alamo Asian Chamber of Commerce Educational Foundation and managed the YLSA youth leadership program."}
+  ]
+ },
+ {
+  "donor_id": "9d7d45d7-7793-4c83-b133-b0dd01c483f4",
+  "name": "Page, Rebecca",
+  "resolved_employer": "Attorney (personal injury / civil litigation), Watts Guerra LLP (now Guerra LLP), San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "St. Mary's Law grad (cum laude, 2017); personal-injury/civil-litigation attorney who joined Watts Guerra in 2012. Member of SAYLA, SATLA, and TTLA. Identity confirmed via firm bio and SAYLA election filing (rpage@wattsguerra.com).",
+  "source_url": "https://guerrallp.com/our-team/rebecca-c-page",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Trial Lawyers Association (SATLA) / Texas Trial Lawyers Association (TTLA) / SAYLA", "role": "Member", "category": "business", "source_url": "https://www.sayla.org/assets/Elections/Rebecca_Page.pdf", "snippet": "Rebecca C. Page, Employer: Watts Guerra; member of SAYLA, SATLA, and TTLA (plaintiff/trial-lawyer professional associations)."}
+  ]
+ },
+ {
+  "donor_id": "97119ffa-4d2a-4223-ab4c-d561a2baa71d",
+  "name": "Beam, Alison",
+  "resolved_employer": "Retired (former career not publicly identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired resident of San Antonio's Monte Vista (78212). High FEC donation count (66) suggests an active small-dollar political donor, but no OpenSecrets/FEC profile, bio, or former-career source could be confirmed for the specific individual, and multiple same-named people exist.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "900fa92a-e3b8-47bb-b3eb-18b3861a823b",
+  "name": "Brown, Kathryn",
+  "resolved_employer": "Owner/CEO/President, Visage Collaborative, Inc. (San Antonio IT / product-development, web design & data analytics firm; woman/minority-owned)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "LinkedIn and BBB/Manta confirm Kathryn Brown as CEO/Owner of Visage Collaborative, Inc. at 4416 Ramsgate St, San Antonio 78230 (matches donor address/employer); UTSA grad, former IDRA math specialist.",
+  "source_url": "https://www.linkedin.com/in/kbrownit/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8ca85dc4-a1ae-4ce1-a317-9834cb3af6f3",
+  "name": "Carrisalez, Albert",
+  "resolved_employer": "Assistant to the President / Director of External Affairs & Executive Director of Governmental Relations, UTSA (public university)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "LinkedIn and UTSA Office of Government Relations pages confirm Albert Carrisalez as UTSA's Director of External Affairs and chief institutional liaison to local/state/federal officials in San Antonio, matching donor occupation and employer.",
+  "source_url": "https://www.utsa.edu/govrel/about.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8892f5b6-dad8-42d1-afec-f49130b8cfa3",
+  "name": "Rajwani, Nimet",
+  "resolved_employer": "Retired (no independently documented prior career for Nimet herself; husband Al Rajwani is a retired 37-year Procter & Gamble executive, now on TX Biomed/BioBridge Global boards)",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Public philanthropy items (South Texas Blood & Tissue, TX Biomed) identify Nimet Rajwani as wife of retired P&G executive Al Rajwani, relocated to San Antonio; consistent with retired donor at downtown 78204 address, but no independent career/bio for Nimet found.",
+  "source_url": "https://magazine.txbiomed.org/issue/summer-2024/celebrating-the-new-animal-care-complex/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "88178e55-69a6-43d9-b37d-78c01e752e3a",
+  "name": "Ruiz, Linda",
+  "resolved_employer": "Owner, LJC Painting LLC (San Antonio painting contractor)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "LinkedIn confirms Linda Ruiz as Owner of LJC Painting LLC in San Antonio, matching donor employer/occupation; the high fec_donation_count (93) could not be positively tied to this specific person given how common the name 'Linda Ruiz' is, so no federal PAC affiliation is asserted.",
+  "source_url": "https://www.linkedin.com/in/linda-ruiz-ljcpainting/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8641510b-80e1-4bd5-8d5a-e169641e2de6",
+  "name": "Guzman, Lorraine",
+  "resolved_employer": "VP Marketing, NatureSweet (San Antonio-headquartered greenhouse tomato / consumer produce company)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Donor record lists her as VP Marketing at NatureSweet, a San Antonio consumer-produce/CPG company; could not confirm the specific Lorraine Guzman via LinkedIn/company pages (multiple same-named individuals; current NatureSweet CMO listed as another person), so identity is unconfirmed.",
+  "source_url": "https://en.wikipedia.org/wiki/NatureSweet",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

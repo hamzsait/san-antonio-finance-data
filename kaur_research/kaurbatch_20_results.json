@@ -1,0 +1,240 @@
+[
+ {
+  "donor_id": "2a368221-2e3a-4779-9c85-7985caeb8b7a",
+  "name": "Miller, Amada",
+  "resolved_employer": "Hands Down (bar, Southtown) / artist",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Amada Claire Miller is a San Antonio artist who founded the 'Hands Down' pop-up series (Flight Gallery, 2019) and opened it as a brick-and-mortar natural-wine/cocktail bar at 1012 S. Presa St. in Southtown on Feb 11, 2022 in partnership with the Empty Stomach Group; the bar closed June 2024. Address, business name, and 'Bar Manager/Owner' occupation all match the donor record. FEC individual-contribution search: no federal PAC or party contributions found. TX Ethics Commission / SA lobbyist registry: not registered, no filings found. Bio/press read: identified as artist and bar founder, no policy-advocacy board seats.",
+  "source_url": "https://sanantonio.culturemap.com/news/restaurants-bars/hands-down-southtown-bar-closing/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "29a3c0b1-83b5-4aed-8b05-6fb971d5e5c9",
+  "name": "Kaur, Dolly",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Out-of-state donor at 3699 Inverness Way, Augusta GA 30907, the same address associated with Harinderjit 'Jit' Singh, CEO of Singh Investment Group (Augusta-based real estate/hotel firm), suggesting a spouse/family relationship within a Sikh-surname (Kaur/Singh) household. Occupation 'Retired.' Could NOT confirm any documented relation to Councilwoman Sukh Kaur; a family tie to the candidate is unverified. FEC search: no federal PAC/party contributions found under this name. TX Ethics Commission / SA lobbyist registry: no filings. No bio page exists for this individual.",
+  "source_url": "https://www.singhinvestment.com/HarinderjitSingh",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "296ab1ea-7750-4ef6-871c-7c70e37a9ad1",
+  "name": "Gomez, Jose",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Very common name at 2003 W. Commerce St., San Antonio 78207 (West Side), occupation 'retired.' Could not confirm the specific individual — the only close public hit is an unrelated Jose 'Andy' Gomez (1946-2019, retired City of San Antonio code officer, now deceased), which is not a match. No unique public bio, employer, or profile could be tied to this donor. FEC search: no distinguishable federal PAC/party contribution records attributable to this specific person. TX Ethics Commission / SA lobbyist registry: no filings. No bio page available.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "279d296d-b441-42d0-ac25-9872f5b100d3",
+  "name": "Beeram, Madhavi",
+  "resolved_employer": "USAA (Executive Director, Enterprise Data & Analytics Solutions)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Madhavi Beeram is a longtime USAA executive in San Antonio — Executive Director of Enterprise Data & Analytics Solutions (later VP, Data & Analytics Engineering), confirmed via The Org, LinkedIn (in/mbeeram), and ZoomInfo; matches donor's 'Executive' occupation and 'USAA' employer. San Antonio residence corroborated by the 'Sri & Madhavi Beeram Foundation,' a San Antonio private family foundation (EIN 81-4788575) she runs with spouse Sri Beeram, focused on education/human-services grantmaking. FEC: donor record shows 59 federal contributions; FEC contributor-name search surfaced no policy-advocacy PACs (no AIPAC/UDP, J Street, oil & gas, defense, or NRA committees identified); full itemized list not retrievable at query time (FEC API rate-limited) but no red-flag PACs appeared. TX Ethics Commission / SA lobbyist registry: not registered. Bio read: tech/data leadership plus family-foundation trustee; no policy-advocacy board seats.",
+  "source_url": "https://theorg.com/org/usaa/org-chart/madhavi-beeram",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Sri & Madhavi Beeram Foundation", "role": "Founder / Trustee", "category": "civic", "source_url": "https://www.causeiq.com/organizations/sri-and-madhavi-beeram-foundation,814788575/", "snippet": "Sri and Madhavi Beeram Foundation is a San Antonio, TX private foundation focused on education, philanthropy/grantmaking and human services."}
+  ]
+ },
+ {
+  "donor_id": "26e6b508-f87a-4490-a9af-a681f7f9e054",
+  "name": "Pelaez, Manny",
+  "resolved_employer": "City of San Antonio (District 8 Council Member) / attorney",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Manny Pelaez, San Antonio City Council District 8 councilman since 2017, attorney (St. Mary's Law), and 2025 mayoral candidate who lost in the May 3, 2025 general election. Small-business/neighborhood attorney; first in-house counsel hire at Toyota Manufacturing. Documented board/leadership roles: Chairman of Brooks (City Base), VIA Metropolitan Transit trustee, and board seats on the Cesar Chavez Legacy & Education Foundation, San Antonio Economic Development Corp, and World Affairs Council. FEC/OpenSecrets search returned no notable federal PAC contributions tied to him. Texas Ethics Commission and City of San Antonio lobbyist-registry searches found no registration under his name (a separate 'Canales-Pelaez, Jennifer' is a registered lobbyist — different person). No pro-Israel, pro-Palestine, oil & gas, or gun affiliations found in public records.",
+  "source_url": "https://sanantonioreport.org/profile/manny-pelaez-san-antonio-mayor-candidate-2025/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council (District 8)", "role": "Council Member", "category": "government", "source_url": "https://ballotpedia.org/Manny_Pelaez", "snippet": "Manny Pelaez has represented San Antonio City Council District 8 since 2017."},
+   {"org": "VIA Metropolitan Transit Authority", "role": "Trustee/board member", "category": "civic", "source_url": "https://sanantonioreport.org/profile/manny-pelaez-san-antonio-mayor-candidate-2025/", "snippet": "Board/leadership roles include Chairman of Brooks City Base and trustee of VIA Metropolitan Transit Authority."}
+  ]
+ },
+ {
+  "donor_id": "262b1582-1284-4250-9749-98e9408d6165",
+  "name": "Moreno, Raquel",
+  "resolved_employer": "NRN Properties / NRN Homes LLC (real estate)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "LinkedIn identifies Raquel Moreno as affiliated with NRN Homes LLC in the San Antonio/Converse area, matching the donor's stated employer 'NRN Properties' and 'Owner' occupation at Converse, TX 78109. Consistent with real estate. FEC donation count of 67 indicates a frequent federal small-dollar donor, but the specific recipient committees could not be retrieved (FEC API rate-limited/HTTP 429); FEC/OpenSecrets and ActBlue web searches surfaced no notable named PAC (e.g., pro-Israel, oil & gas, defense) tied to her. Texas Ethics Commission and City of San Antonio lobbyist-registry searches returned no registration. No policy-advocacy affiliations documented in public records.",
+  "source_url": "https://www.linkedin.com/in/raquel-moreno-4193a555/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "25d4075c-5f69-43a1-bcff-34be7897428a",
+  "name": "ALVARADO, KARLA",
+  "resolved_employer": "HomeNovate LLC (general contractor / home renovation)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Karla Alvarado is Founder/CEO and owner of HomeNovate LLC, a San Antonio construction/home-renovation company at 633 S St Marys St (exact match to donor address 633 South Saint Marys Street, 78205). Corroborated by BuildZoom (home-improvement contractor license, BuildZoom score 94), RocketReach, LinkedIn (Founder/CEO), and a Building Texas Show podcast interview. BBA in Finance/Banking from University of the Incarnate Word; prior roles at Central Metro Realty and other real-estate firms. FEC donation count of 62 indicates a frequent federal small-dollar donor; specific committees could not be retrieved (FEC API rate-limited/HTTP 429), and web FEC/OpenSecrets searches surfaced no notable named PAC. Texas Ethics Commission and City of San Antonio lobbyist-registry searches returned no registration. No policy-advocacy affiliations documented.",
+  "source_url": "https://www.buildzoom.com/contractor/homenovate",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "23d7be2d-2a97-4793-9cba-a1432947a7bb",
+  "name": "Dickson, Zach",
+  "resolved_employer": "Jaeger FC (creative/marketing consultancy)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Zach Dickson is Creative Director at Jaeger FC, a San Antonio-based creative/marketing consultancy (303 El Paso St, Suite 209, San Antonio, TX 78207; co-founder Ricardo Chavira, managing partner Gabe Farias). Confirmed via the firm's own website (jaegerfc.co) team page and his LinkedIn headline; matches donor occupation 'Creative Director' / employer 'Jaeger FC' at a San Antonio 78261 address. He is also a local stand-up comedian/podcast host (separate personal activity, not policy-relevant). FEC/OpenSecrets search returned no notable federal PAC contributions; Texas Ethics Commission and City of San Antonio lobbyist-registry searches found no registration. No policy-advocacy affiliations documented.",
+  "source_url": "https://jaegerfc.co/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "227d30cb-295f-46e7-a402-a7e89dc4909d",
+  "name": "Burress, Steve",
+  "resolved_employer": "Historic Tours of America / Old Town Trolley Tours of San Antonio",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Confirmed as Stephen 'Steve' Burress, Director of Product Development (and acting GM of the San Antonio operation) at Historic Tours of America, parent of Old Town Trolley Tours; started as a Key West tour conductor in 2006 and rose through operations. Company executive-team bio read in full — tourism/sightseeing operator, no board seats or advocacy roles listed. FEC PAC search: no federal PAC contributions found under Steve/Stephen Burress + Historic Tours. TX Ethics Commission lobbyist search: no lobbyist registration found. Employer-fallback industry classification (tour operator).",
+  "source_url": "https://www.historictours.com/executive-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "20ff3778-d53c-4d6e-9334-d71a89b5b7df",
+  "name": "PURI, RAJEEV",
+  "resolved_employer": "Athena Domain, Inc. (President/Owner)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Confirmed as Rajeev Puri, President/Owner of Athena Domain, Inc., a San Antonio real-estate development firm. San Antonio Current documents him co-developing the $56.1M, 292-unit SoFlo/Lone Star District mixed-use project with partner James Schuepbach, partnering with the San Antonio Housing Trust PFC (2020) for a 75-year tax exemption via SF Commercial LP / SF Cevallos MF LP. Bio pages read (SA Current, ZoomInfo; LinkedIn blocked). FEC PAC search: no federal PAC contributions found. TX Ethics Commission lobbyist search: no state lobbyist registration found; not listed among Housing Trust council overseers. Donation consistent with a developer with business before the city.",
+  "source_url": "https://www.sacurrent.com/news/developers-rajeev-puri-james-schuepbach-to-receive-full-property-tax-exemption-for-soflo-apartments-23564335/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Athena Domain, Inc.", "role": "President/Owner, real-estate developer", "category": "business", "source_url": "https://www.sacurrent.com/news/developers-rajeev-puri-james-schuepbach-to-receive-full-property-tax-exemption-for-soflo-apartments-23564335/", "snippet": "Rajeev Puri of Athena Domain is co-developing a $56.1M, 292-unit mixed-use project in San Antonio's Lone Star District and partnered with the San Antonio Housing Trust PFC for a full property tax exemption."}
+  ]
+ },
+ {
+  "donor_id": "207a5271-e35d-4290-adcc-42536b882c76",
+  "name": "Saluja, Gurdip",
+  "resolved_employer": "Bank of America (Manager, Application Development)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Confirmed via ZoomInfo as Gurdip Saluja, Manager of Application Development at Bank of America, address 2707 Gallion Dr, zip 77479 (Sugar Land, not central Houston as the record's city string implies) — matches the donor record exactly. Prior roles at PKC Group North America and L&T India. Out-of-town (suburban Houston) donor to a San Antonio D1 race; Sikh surname noted but no public political/religious affiliation documented. FEC PAC search: no federal PAC contributions found. TX Ethics Commission lobbyist search: no registration found. Industry classified by employer (banking = Finance).",
+  "source_url": "https://www.zoominfo.com/p/Gurdip-Saluja/-2044697540",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "204b3c45-e082-4719-8da5-23eb312ff6b9",
+  "name": "Baker, Bryan",
+  "resolved_employer": "Amazon Business (Senior Account Executive)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "LinkedIn (bryan-baker-6404253a) places Bryan Baker in San Antonio, TX working with Amazon Business, consistent with the record's Senior Account Executive / Amazon Business / 78216 details. Flagged as a very active donor (147 FEC donations): FEC PAC search attempted via FEC.gov and the open-FEC API (rate-limited/HTTP 429) plus targeted web searches — no specific federal PAC (AIPAC/UDP, J Street, oil & gas, defense, NRA) surfaced, and the itemized committee list could not be retrieved, so no affiliation is asserted rather than guessed. TX Ethics Commission lobbyist search: no registration found. Industry classified by employer (Amazon = Technology). Confidence medium because full FEC itemization could not be independently confirmed.",
+  "source_url": "https://www.linkedin.com/in/bryan-baker-6404253a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1ee263de-dfb2-4fcf-8fc3-37f0b46609d1",
+  "name": "Singh, Harinderjit",
+  "resolved_employer": "Singh Investment Group / Singh Investments (real estate & hotel investment firm), Augusta, GA",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Dr. Harinderjit Singh, MD is a retired board-certified vitreo-retinal surgeon (Southeast Retina Center, Augusta GA, 1984-2017) who is now CEO/owner of Singh Investment Group, a privately held Augusta real-estate investment and hotel-management firm (1,400+ rooms under Hilton/IHG/Wyndham flags; listed agent for Guru Hotels, Belair Inn & Suites, etc.). Matches donor: CEO of 'Singh Investments,' Augusta GA 30907; residential address shared with Dolly Kaur suggests a family/household relation to candidate Sukh Kaur. FEC PAC-contribution search: no federal PAC donations surfaced. Texas/City of SA lobbyist search: not registered (out-of-state GA resident). Bio read: ASRS/Healthgrades physician profiles + Singh Investment Group site confirm identity; no policy-advocacy affiliations found.",
+  "source_url": "https://www.singhinvestment.com/HarinderjitSingh",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1e61f0a9-b4b1-482e-b596-340a2dfa8d51",
+  "name": "Haas, Chip",
+  "resolved_employer": "Mexi-Modern LLC (owner); also associated with Chesney Morales Partners (San Antonio architecture/interior-design firm)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Public records tie 'Chip Haass' (b. July 1977) to 204 E Melrose Dr, San Antonio 78212 — the exact donor address — and list him as an Executive at Chesney Morales Partners (a San Antonio architecture/interior-design firm founded by Malcolm Chesney AIA and Richard Morales AIA). Donor of record is 'Business Owner' of Mexi-Modern LLC, a low-profile San Antonio design/import-goods venture (distinct from the unrelated Santa Fe NM 'MexiModern' folk-art brand). Exact nature of Mexi-Modern LLC not independently confirmed online; Retail assigned as a design/goods-business fallback. FEC PAC search: no federal PAC contributions found. TX Ethics Commission / City of SA lobbyist search: not registered. Bio read: no board seats or policy-advocacy roles found.",
+  "source_url": "https://www.instantcheckmate.com/people/chip-haass/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1dd76efb-9490-4042-9aed-d2d8292e40fb",
+  "name": "Larsen, Patti",
+  "resolved_employer": "Patti Larsen Consulting (public affairs / government-relations consultancy), San Antonio",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Patti (Shackelford) Larsen is a San Antonio public-affairs and government-relations consultant, owner/CEO of Patti Larsen Consulting, with prior roles at AT&T, the NBA San Antonio Spurs, Bracewell LLP and CE Group; she sits on the SA Tech Bloc Legacy Board. She is a registered City of San Antonio lobbyist — multiple 2019-2023 registrations on behalf of AT&T (incl. the 'Network Node Power Recovery Fee' matter). This is NOT the Prince Edward Island novelist of the same name. FEC PAC search: her individual federal contribution history is extensive (127 records in donor data), consistent with an active public-affairs professional; no single controlling ideological PAC affiliation surfaced. TX/City-of-SA lobbyist: confirmed registered (City of SA). Bio read: LinkedIn/Tech Bloc corroborate government-relations profession.",
+  "source_url": "https://webapp1.sanantonio.gov/lobbyistsearch/Search.aspx?AgentLink=Patti+Larsen&SDate=4%2F3%2F2019&EDate=4%2F3%2F2023",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio lobbyist registry (client: AT&T)", "role": "Registered lobbyist", "category": "business", "source_url": "https://webapp1.sanantonio.gov/lobbyistsearch/Search.aspx?AgentLink=Patti+Larsen&SDate=4%2F3%2F2019&EDate=4%2F3%2F2023", "snippet": "Registered to advocate before the City of San Antonio on behalf of AT&T's interests, including the Network Node Power Recovery Fee (2019-2023)."},
+   {"org": "San Antonio Tech Bloc", "role": "Legacy Board of Directors (former board member / advisor)", "category": "civic", "source_url": "https://satechbloc.com/board-of-directors/", "snippet": "Listed as 'CEO | Patti Larsen Consulting' among former Tech Bloc board members who remain engaged as direct advisors."}
+  ]
+ },
+ {
+  "donor_id": "1dc897ff-d966-499b-9079-f1bc43dc7382",
+  "name": "Gillian, LUKIN",
+  "resolved_employer": "Incyte Venture Partners, LLC / Aquila Capital Ventures (self-employed investor), San Antonio",
+  "industry": "Venture Capital",
+  "confidence": "high",
+  "evidence": "Donor 'Gillian, LUKIN' (self-employed investor, Alamo Heights 78209) resolves to Lukin T. Gilliland Jr., a San Antonio investor/rancher and longtime Democratic activist-donor; Partner at Incyte Venture Partners LLC, with his own Aquila Capital Ventures (health-care investing) and Hondo Creek Ranch Co. He ran for U.S. House TX-23 in 2006 as a Democrat (self-funding ~$500K). FEC/campaign-finance search: highly active DEMOCRATIC donor — e.g., 2018 cycle $27,306 across 41 gifts (Beto for Texas, DCCC, Doggett, Colin Allred, MJ Hegar, Opportunity First PAC, Texas Victory 2018, etc.), all to Democratic candidates/committees. TX/City-of-SA lobbyist search: not registered. Bio read: LinkedIn (Incyte Venture Partners) + Texas Monthly/Texas Tribune coverage of his 2006 congressional bid corroborate identity and Democratic political profile.",
+  "source_url": "https://www.campaignmoney.com/political/contributions/lukin-gilliland.asp?cycle=18",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Democratic Party / Democratic candidates & PACs", "role": "Major individual donor and former Democratic candidate (U.S. House TX-23, 2006)", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/lukin-gilliland.asp?cycle=18", "snippet": "2018: $27,306 across 41 contributions, all Democratic — Beto for Texas, DCCC, MJ Hegar, Colin Allred, Doggett, Opportunity First PAC, Texas Victory 2018; earlier ran for Congress TX-23 as a Democrat."}
+  ]
+ },
+ {
+  "donor_id": "1d81f4a2-f20d-497f-b02b-f27af4a8c8da",
+  "name": "Singh, Jyot",
+  "resolved_employer": "Blue Husky Group LLC (political/public-affairs consulting firm), Peachtree Corners, GA",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Jyot Singh is the founder of Blue Husky Group, a political/public-affairs consulting firm; he is a Democratic political & fundraising consultant who has worked in 10+ states since the 2016 Hillary Clinton campaign and in Georgia's 2020 elections. Sikh American, SikhLEAD alum, and a 2026 Democratic candidate for Georgia House District 97. Employer, occupation (Owner/Consultant, Founder), and Peachtree Corners GA location all match the donor record. FEC PAC search: no adverse partisan-PAC (AIPAC/J Street/oil-gas/NRA) affiliations surfaced; his 20 federal donations are consistent with a Democratic operative giving to Democratic candidates/committees, but no ideological-PAC membership documented. TX/SA lobbyist registry: not listed (out-of-state GA operative). Bio full read: political consultant, GA House candidate, tied to the SALDEF SikhLEAD network.",
+  "source_url": "https://ballotpedia.org/Jyot_Singh",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Blue Husky Group / Democratic political consulting; 2026 candidate for Georgia House District 97 (D)", "role": "Founder / candidate", "category": "political", "source_url": "https://ballotpedia.org/Jyot_Singh", "snippet": "Jyot Singh, founder of Blue Husky Group, a Democratic political and public-affairs consultant, is running in the Democratic primary for Georgia House District 97 (May 2026)."},
+   {"org": "SALDEF (SikhLEAD) / Sikh American civic network", "role": "SikhLEAD alum / Sikh civic figure", "category": "civic", "source_url": "https://www.facebook.com/saldef/videos/%EF%B8%8F-from-sikhlead-intern-to-georgia-state-candidate-jyot-singhs-journey-reflects-w/1895610771098930/", "snippet": "SALDEF: 'From #SikhLEAD intern to Georgia state candidate, Jyot Singh's journey...' — profiled as a Sikh American civic/political leader."}
+  ]
+ },
+ {
+  "donor_id": "1c69246f-ac1a-4471-a56b-5377b41e27fe",
+  "name": "Stone, Lisa",
+  "resolved_employer": "Keller Williams Heritage (KW Heritage), San Antonio, TX",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Lisa Stone is a licensed Realtor with Keller Williams Heritage in San Antonio, TX (LinkedIn 'Realtor with KW Heritage in San Antonio,' plus KW San Antonio agent directory and Homes.com agent page). Name, occupation (Realtor), employer (KW Heritage), and San Antonio location all match. FEC PAC search: no federal PAC or ideological (AIPAC/J Street/oil-gas/NRA) contributions found. TX Ethics Commission / San Antonio lobbyist registry: not listed. Bio full read: standard real-estate agent profile, no board seats or advocacy roles disclosed. Quiet result — no affiliations beyond occupation.",
+  "source_url": "https://www.linkedin.com/in/lisa-stone-4729929a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "19cc8e63-6498-4606-a057-b3bbe1aae3f5",
+  "name": "Kaur, Jaslin",
+  "resolved_employer": "Sikh American Legal Defense and Education Fund (SALDEF), Senior Manager of Civic Engagement & Community Outreach",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Jaslin Kaur is Senior Manager of Civic Engagement & Community Outreach at SALDEF (Sikh American Legal Defense and Education Fund), a D.C.-based Sikh civil-rights/advocacy nonprofit; she amplifies Sikh American voices and mobilizes Sikh voter participation. She is a former NYC City Council candidate (District 23, Queens, 2021), a Working Families Party/DSA-aligned progressive endorsed by Bernie Sanders and 1199 SEIU, and an organizer with Know Your IX. Name, employer (SALDEF), title, and NY location match the donor record. FEC PAC search: no pro-Israel/pro-Palestine or other ideological-PAC contributions documented; her small federal donations (4) align with progressive Democratic candidates but no specific PAC membership found. TX lobbyist registry: not applicable/not listed (NY resident). Bio full read completed via SALDEF and campaign pages.",
+  "source_url": "https://saldef.org/tag/jaslin-kaur/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Sikh American Legal Defense and Education Fund (SALDEF)", "role": "Senior Manager of Civic Engagement & Community Outreach", "category": "civic", "source_url": "https://saldef.org/tag/jaslin-kaur/", "snippet": "Jaslin Kaur serves as Senior Manager of Civic Engagement and Community Outreach at SALDEF, playing a pivotal role in amplifying Sikh American voices and building bridges across communities."},
+   {"org": "NYC Council District 23 campaign (2021); Working Families Party / DSA-aligned, Bernie Sanders & 1199 SEIU endorsed", "role": "Former candidate / progressive organizer", "category": "political", "source_url": "https://jaslinkaur.nyc/endorsements/", "snippet": "Jaslin Kaur ran for New York City Council in 2021 with backing from Senator Bernie Sanders, 1199 SEIU, and the Working Families Party."}
+  ]
+ },
+ {
+  "donor_id": "197db5f3-b2d2-4bfe-a7f2-7f3998e95801",
+  "name": "Cavazos, Roland",
+  "resolved_employer": "Roland Cavazos DDS PA / Alamo Dental Center, San Antonio, TX",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Roland Cavazos is a general dentist in San Antonio, TX (TX dental license 17650), practicing at Alamo Dental Center, 504 Barclay St, San Antonio 78207, providing family dental care since 1994. Unique name + DDS + San Antonio location match the donor record (Roland Cavazos DDS PA, SA 78283 PO box). FEC PAC search: no federal PAC or ideological contributions found (a separate 'Art Cavazos' WinRed record is a different person). TX Ethics Commission / SA lobbyist registry: not listed (registered lobbyist 'Sergio M. Cavazos' is a different person). Bio full read: standard dentist provider profiles, no board seats or advocacy roles disclosed. Quiet result.",
+  "source_url": "https://www.alamodentalcenter.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]
