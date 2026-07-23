@@ -1,0 +1,242 @@
+[
+ {
+  "donor_id": "e4e62b72-b950-4faf-8492-2fda0b367987",
+  "name": "Singh, Nirvair",
+  "resolved_employer": null,
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Listed as a student in Ashton, MD (20861). 'Nirvair Singh' is a common Sikh name; no public profile could be matched to this specific individual by location/occupation. fec_donation_count 0; no FEC, TX/SA lobbyist, or bio records found.",
+  "source_url": "https://www.192.com/atoz/people/singh/nirvair/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e20daf9a-4038-42bb-bbe2-38588fb08d45",
+  "name": "Smeberg, Ronald",
+  "resolved_employer": "The Smeberg Law Firm, PLLC (founder/managing partner)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Ronald J. Smeberg is a San Antonio bankruptcy/business-law attorney and founder/managing partner of The Smeberg Law Firm, PLLC; licensed in TX ~22 years. Matches occupation 'Partner' and the 78201 San Antonio location. No ideological PAC or lobbyist registration found (fec_donation_count 2).",
+  "source_url": "https://www.smeberg.com/attorney",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e140f571-adde-428d-b9ed-db4c437aca3b",
+  "name": "Garcia, Jarvis",
+  "resolved_employer": "Loud Noises Limited (DBA Paper Tiger) — owner",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Jarvis Ely Garcia is owner of Loud Noises Limited, which does business as Paper Tiger, a live-music venue on the N. St. Mary's Strip in San Antonio (2410 N St Mary's St). Confirmed via Buzzfile business record and LinkedIn; matches occupation 'Owner' and SA 78201 location. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.buzzfile.com/business/Loud-Noises-Ltd-DBA-Paper-Tiger-210-332-5133",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "df7f6383-c70e-45c9-a133-b41e4968e5e9",
+  "name": "Reed, Bonnie",
+  "resolved_employer": "Retired (former San Antonio judge/attorney)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Retired judge Bonnie Reed of San Antonio 78209; licensed by State Bar of Texas 5/28/1979 (St. Mary's law, license now inactive). Prolific small-dollar Democratic donor (243 FEC gifts, 0.9986 Dem lean) via ActBlue and to candidates like Pete Gallego; no ideological/single-issue PAC (AIPAC/UDP, J Street, DMFI, oil & gas, gun, defense) found on either side.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=183921",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Area Foundation", "role": "Volunteer (family, children, seniors committees), since mid-1990s", "category": "civic", "source_url": "https://www.tiktok.com/@saafdn/video/7453214460396817706", "snippet": "Judge Bonnie Reed has been a passionate volunteer with the San Antonio Area Foundation since the mid-'90s, dedicating her time to committees focused on family, children, and seniors."}
+  ]
+ },
+ {
+  "donor_id": "df68421c-345d-4f4b-b9d4-4c34c23167b7",
+  "name": "McDonald, Dylan",
+  "resolved_employer": "Alamo Concrete Products Company (Corporate Counsel)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Dylan John McDonald, in-house/Corporate Counsel at Alamo Concrete Products Company (San Antonio ready-mix/aggregate supplier, a Buzzi Unicem company); State Bar of Texas confirms employer = Alamo Concrete Products Company, Texas Tech JD 2015, admitted 11/2015. Employer/occupation match the donor record. FEC count 2; no ideological PAC or lobbyist registration found.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=%2FCustomsource%2FMemberDirectory%2FMemberDirectoryDetail.cfm&ContactID=346664",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d9269974-2a4f-4c48-ba35-e87d162298e2",
+  "name": "Merck, Jerry and Michelle",
+  "resolved_employer": "SACC, Inc. (heavy/civil construction contractor; Jerry Merck officer/president)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "SACC, Inc. (5431 Crestway Dr, San Antonio 78239) is a heavy/civil construction contractor (clearing, earthwork, utility, concrete, asphalt; water-main construction), founded 1977. Gerald 'Jerry' Merck is an officer/president per LinkedIn and business directories; Michelle Merck is co-donor (spouse). Matches donor occupation 'Construction / SACC Inc.' FEC count 4; no ideological PAC or TX/SA lobbyist registration found (Merck & Co. pharma-PAC hits are unrelated).",
+  "source_url": "https://www.linkedin.com/in/jerry-merck-622b5a78",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d59c0afb-07f7-4670-a5ed-63e35eb48850",
+  "name": "de la Garza, Bernardo",
+  "resolved_employer": "One Thirty SA, LLC (President); Executive VP at IBC Bank",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "San Antonio banking/real-estate professional; LinkedIn lists him as EVP at IBC Bank with 'over a decade of experience in banking and real estate' and a prior role at 'One Thirty' (UTSA 2009-2012). One Thirty SA, LLC is a registered TX entity named for 130 Terrell Rd (a residential building in Alamo Heights/78209, matching his zip), consistent with a real-estate holding entity. No FEC ideological-PAC or lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/bernardo-de-la-garza-92072925/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d588db30-5a55-4ba1-b47b-a29870f958c4",
+  "name": "Covo, Sophie",
+  "resolved_employer": "Empty Stomach (Empty Stomach Hospitality Group) — Operating/Managing Partner",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Sophie Covo Gonzales is an Operating/Managing Partner at Empty Stomach Hospitality, the San Antonio restaurant/bar group behind Paper Tiger, Hot Joy, High Horse, Double Standard, etc.; also former Creative Director at Edible San Antonio. Zip 78201 (1134 W Agarita Ave, Beacon Hill) matches. No FEC ideological-PAC or lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/sophie-covo-gonzales-525787a7/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d52d27ce-1677-40dd-a4bc-9aadbde13f7d",
+  "name": "Shown, William",
+  "resolved_employer": "Oxbow Development Group (CEO/founder) / Silver Ventures (Managing Director of Real Estate)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Bill Shown is CEO/founder of Oxbow Development Group and Managing Director of Real Estate (now titled Chief Creative Officer) at Silver Ventures; led the ~20-year Pearl brewery-district redevelopment. Former real-estate attorney and VP of Acquisitions & Development at Hixon Properties. Zip 78215 / 1803 Broadway is the Pearl/Silver Ventures area. Serves on the Hemisfair Park Area Redevelopment Corporation board.",
+  "source_url": "https://oxbowdevelopment.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Hemisfair Park Area Redevelopment Corporation (HPARC)", "role": "Board member (committee chair)", "category": "civic", "source_url": "https://hemisfair.org/wp-content/uploads/2015/08/Board-Minutes-13-08-09-FINAL.pdf", "snippet": "Bill Shown serves on the board of HPARC, the local government corporation created by the City of San Antonio to master plan and redevelop the 70-acre Hemisfair site; board minutes list him as a committee chair."}
+  ]
+ },
+ {
+  "donor_id": "d004859c-b42b-49fa-9581-131b1b593713",
+  "name": "Bhalla, Ravi",
+  "resolved_employer": null,
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Listed occupation Attorney, employer 'self,' address 49392 Limestone Dr, Macomb MI 48044. No public record (Michigan State Bar, Justia, firm/bio page, or news) confirms a self-employed attorney named Ravi/Ravinder Bhalla in Macomb County MI. The public Ravi Bhalla attorneys (Hoboken NJ ex-mayor; a NY commercial litigator) are explicitly NOT this donor. fec_donation_count 0; no FEC or TX/SA lobbyist records. Legal applied only as generic-occupation fallback; specific person not corroborated.",
+  "source_url": "https://en.wikipedia.org/wiki/Ravinder_Bhalla",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cf3b3fd0-da42-45b2-9629-981455db32d8",
+  "name": "Cortez, George",
+  "resolved_employer": "MTC Inc. (Mi Tierra Cafe / La Familia Cortez Restaurants)",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "MTC Inc. is the corporate entity for Mi Tierra Cafe (800 Dolorosa, San Antonio) — flagship of the multigenerational La Familia Cortez restaurant group (Mi Tierra, La Margarita, Pico de Gallo, Mi Familia). Dun & Bradstreet's MTC Inc. record names George Cortez as an associated principal, corroborating this donor as a member of the Cortez restaurant family. Home address 200 E Myrtle St, 78212. Active Democratic-leaning donor (104 FEC gifts, lean 0.79) but no specific ideological PAC (Israel/oil-gas/gun/defense) and no TX/SA lobbyist registration found.",
+  "source_url": "https://www.dandb.com/businessdirectory/mtcinc.-sanantonio-tx-8126210.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c7921107-b666-4879-bd2b-c5c26b343b64",
+  "name": "Cohen, Howard",
+  "resolved_employer": "Atlantic Pacific Companies LLC (CEO) — Miami-based affordable/workforce multifamily developer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Howard D. Cohen is CEO of Miami-based Atlantic | Pacific Companies (~20 yrs), one of South Florida's most prolific affordable/workforce multifamily housing developers (~$4.1B AUM). Former senior real-estate attorney (Ruden McClosky; Becker & Poliakoff); Cornell BS 1989, U. Miami JD 1993. The 33136 / 161 NW 6th St 'San Antonio' entry is a data artifact — this is Miami FL. fec_donation_count 74; no specific ideological PAC (Israel/oil/gun/defense) corroborated.",
+  "source_url": "https://apcompanies.com/team/howard-cohen/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Atlantic Pacific Companies LLC", "role": "Chief Executive Officer", "category": "business", "source_url": "https://apcompanies.com/team/howard-cohen/", "snippet": "Howard Cohen has served as CEO of Atlantic | Pacific Companies for nearly 20 years, overseeing all affiliated companies and creating strategic partnerships for the affordable/workforce housing developer."},
+   {"org": "Cornell University Center for Real Estate and Finance", "role": "Board of Directors", "category": "business", "source_url": "https://apcompanies.com/team/howard-cohen/", "snippet": "Bio lists Cohen as a member of the Board of Directors of Cornell University's Center for Real Estate Finance."}
+  ]
+ },
+ {
+  "donor_id": "c550f92e-26b9-44fb-97c5-106496b02731",
+  "name": "Kellum, Rose",
+  "resolved_employer": "Eli Lilly and Company (Diabetes Sales Specialist)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Rose Kellum is a diabetes sales specialist at Eli Lilly and Company (pharmaceutical sales); LinkedIn titled 'Rose Kellum - Diabetes Sales at Eli Lilly and Company,' matching the filing. The second occupation/employer on the record ('Physician'/'Dr Daniel Kellum') reflects her spouse, Dr. Daniel H. Kellum, a San Antonio family physician (Kellum Medical Group); 78212 home address corroborates. No ideological PAC or lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/rose-kellum-57302081",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c164d077-7e55-45bd-b2ab-4341bfbd0cd9",
+  "name": "Hawkins, Barton",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Barton 'Kip' Hawkins, 13319 Teagarden Ln, San Antonio 78232 (the filing's '13319 zip' is the street number). Public-records aggregators tie his home address to two entities he appears to own/control — STG Synergies, Inc. and M T H Realty LLC — and to Theresa M. Hawkins (likely spouse). No confirmed occupation, employer bio, or public profile; STG Synergies has no discoverable public profile, so industry left null rather than forcing a guess. No FEC ideological-PAC or lobbyist records found.",
+  "source_url": "https://www.spokeo.com/Barton-Hawkins/Texas/San-Antonio/p1815438021",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c0a4ca49-e987-41dd-8f30-29710444e852",
+  "name": "Malik, Farooq",
+  "resolved_employer": "Signify Holdings, Inc.",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Filing lists occupation 'Manager,' employer 'Signify Holdings,' San Antonio 78230. 'Signify Holdings, Inc.' is a US fintech firm (dba 'Rain'; stablecoin/card-program payments) per Bloomberg, the most literal match to the stated employer (distinct from the Dutch lighting firm Signify N.V. and from Signify Health). Could not definitively confirm this specific San Antonio 'Farooq Malik / Manager' is the same person as the Bloomberg-listed executive (LinkedIn/OpenSecrets blocked); industry set to Finance on an employer basis, low confidence. No ideological PAC or lobbyist records found.",
+  "source_url": "https://www.bloomberg.com/profile/person/24931609",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bf450947-b31e-4139-a90a-c033786168cd",
+  "name": "Hurd, Vanessa and John",
+  "resolved_employer": "Self-employed (nonprofit consulting practice); former CEO of The DoSeum",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Vanessa Lacoss Hurd, founding CEO of The DoSeum children's museum and founding director at Rise Recovery, now runs a nonprofit-executive consulting/philanthropic-advisory practice; public records place her and husband John Hurd at 206 W Agarita Ave, San Antonio 78212, matching the donor's address and 'consultant/self-employed' occupation. No ideological PAC or lobbyist records found.",
+  "source_url": "https://www.claritycgc.org/members/vanessa-lacoss-hurd/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "The DoSeum (San Antonio Museum for Kids)", "role": "Founding CEO (former)", "category": "civic", "source_url": "https://alamocitymoms.com/in-and-around-san-antonio/i-am-a-san-antonio-mom-vanessa-lacoss-hurd-of-the-doseum/", "snippet": "Vanessa served as the Founding CEO of the DoSeum, leading its relocation and $62mm capital campaign to a 70,000 sq ft facility."},
+   {"org": "Clarity Child Guidance Center", "role": "Board Member", "category": "civic", "source_url": "https://www.claritycgc.org/members/vanessa-lacoss-hurd/", "snippet": "Vanessa Lacoss Hurd listed as a board member/leader at Clarity Child Guidance Center, San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "beb9e54b-c205-417d-9951-a95e663276f6",
+  "name": "Ahluwalia, Jaskeerat",
+  "resolved_employer": "Divano Designs (social media advisor); student",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Self-described student and social-media advisor to Divano Designs, a Columbia, MD fine-furniture retailer (founded by Nittoo and Ginny Singh); pursuing a physical-therapy doctorate. Donor location 21044 Columbia MD matches the store area. No FEC contribution history, no lobbyist record, and no public bio confirming a role beyond the generic occupation.",
+  "source_url": "https://divanodesignsus.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bc272361-40d8-4fdc-8659-f2efdfb20bd3",
+  "name": "Singh, Gurvinder",
+  "resolved_employer": "Karta Technologies, Inc. (founder, retired)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Gurvinder P. 'G.P.' Singh, founder of Karta Technologies — grown from a garage startup into San Antonio's largest defense-services contractor (400+ employees), acquired by NCI Information Systems in June 2007; now retired. Donor address 98 Turnberry, San Antonio 78230 and 'Retired' occupation match the retired Karta founder; 'Gurvinder' is G.P.'s full first name (spouse is Parvinder Kaur, a distinct name), confirming this is G.P. Singh himself.",
+  "source_url": "https://tedxsanantonio.com/2011-speakers/gurvinder-p-singh/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Karta Technologies, Inc.", "role": "Founder / former CEO (retired)", "category": "military_defense", "source_url": "https://tedxsanantonio.com/2011-speakers/gurvinder-p-singh/", "snippet": "Built Karta from a garage startup into San Antonio's largest defense contracting firm with 400+ employees; acquired by NCI Information Systems in June 2007, served on the NCIT board through 2010."},
+   {"org": "San Antonio Area Foundation", "role": "Board Vice Chairman", "category": "civic", "source_url": "https://www.sikhnet.com/news/board-vice-chairman-gp-singh-believes-area-foundations-community-impact-will-continue-grow", "snippet": "GP Singh serves as Vice-Chairman on the board of the San Antonio Area Foundation; also sits on boards of Trinity University, Bank of San Antonio, CTRC and the Rapier Educational Foundation."}
+  ]
+ },
+ {
+  "donor_id": "ba3450e0-0ca2-4e4a-8ea1-ba5d4be8498d",
+  "name": "Brown, Robert K",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Retired San Antonio resident; Bexar County property records confirm Robert K. Brown as co-owner of 315 W Lynwood Ave (the exact donation address, a historic Monte Vista home) with partner Dennis B. Karbach. The pair appear together on the McNay Art Museum exhibition Host Committee (arts philanthropy). No public record of a former career or employer found, so industry is left null; Democratic-leaning FEC small-dollar history (13 gifts, lean 1.0). Similarly-named deceased 'Robert Brown' 78212 obituaries are different individuals.",
+  "source_url": "https://blockshopper.com/tx/bexar-county/san-antonio/property/000000375920/315-west-lynwood-avenue",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "McNay Art Museum", "role": "Exhibition Host Committee member (donor/supporter, with Dennis Karbach)", "category": "civic", "source_url": "https://www.mcnayart.org/exhibition/whitfield-lovell-passages/", "snippet": "Host Committee listing: 'Robert Brown and Dennis Karbach.'"}
+  ]
+ },
+ {
+  "donor_id": "ba199a6c-6e1b-4475-a1c4-0044910c806a",
+  "name": "Green, Philip",
+  "resolved_employer": "Cullen/Frost Bankers, Inc. (Frost Bank) — Chairman and CEO",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Phillip D. 'Phil' Green is Chairman and CEO of Cullen/Frost Bankers, Inc. and Frost Bank (CEO since 2016; joined 1980, CFO 1995-2015). Fair Oaks Ranch (78015) residence and CEO occupation match the Frost official bio. Heavily Republican FEC individual-giving history (lean 0.035, 80 gifts); no specific single-issue ideological PAC (pro-Israel, oil/gas, defense, gun) confirmed in public records. Not a registered TX lobbyist.",
+  "source_url": "https://www.frostbank.com/leadership/phillip-d-green",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Cullen/Frost Bankers, Inc. / Frost Bank", "role": "Chairman and Chief Executive Officer", "category": "business", "source_url": "https://www.frostbank.com/leadership/phillip-d-green", "snippet": "Phil Green serves as Chairman and Chief Executive Officer of Cullen/Frost Bankers, Inc., and Frost Bank... He became Chairman and CEO in 2016."},
+   {"org": "Southwest Research Institute", "role": "Vice Chairman of the Board / Investment Committee Chair", "category": "civic", "source_url": "https://www.frostbank.com/leadership/phillip-d-green", "snippet": "Serves as Vice Chairman of the Board of Directors of the Southwest Research Institute and chairs the Investment Committee."},
+   {"org": "Federal Reserve 11th District Federal Advisory Council", "role": "Member", "category": "business", "source_url": "https://www.frostbank.com/leadership/phillip-d-green", "snippet": "Serves on the Federal Reserve Board's Federal Advisory Council for the 11th District."},
+   {"org": "Tobin Center for the Performing Arts", "role": "Board member (former board chair)", "category": "civic", "source_url": "https://www.frostbank.com/leadership/phillip-d-green", "snippet": "Board of Directors, The Tobin Center for the Performing Arts (former board chair)."}
+  ]
+ }
+]

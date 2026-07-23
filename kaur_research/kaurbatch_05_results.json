@@ -1,0 +1,254 @@
+[
+  {
+    "donor_id": "2011e762-7107-4599-a04f-909e7a6524f9",
+    "name": "Walia, Gurvinder",
+    "resolved_employer": "Retail furniture/home furnishings (Divano Designs / Seasons & Reasons Enterprises USA Inc, Columbia MD area)",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Donor's employer strings tie to Divano Designs (a Columbia, MD fine-furniture retailer) and Seasons & Reasons Enterprises USA Inc; self-described 'Partner, retail sales' and 'CEO & Full time Husband.' Multiple people named Gurvinder Walia exist and no single public profile could be confirmed as this specific donor, so identity is low confidence. Address 11520 Manorstone Ln, Columbia, MD 21044.",
+    "source_url": "https://divanodesignsus.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0a0e352e-22df-493a-b3f1-1ce7f4ba404f",
+    "name": "Denton Jr, Lloyd",
+    "resolved_employer": "Co-founder & CEO, Bitterblue Inc. / Bitterblue Investments and Denton Communities (San Antonio real estate development)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Lloyd A. 'Laddie' Denton Jr, co-founder/CEO of Bitterblue, a large San Antonio full-service real estate development company; address 1 Bitterblue Ln matches company HQ. Named 'Owner, Bitterblue Investments' in donor record. Has 39 FEC donations (lean 0.20, Republican-leaning). Not found as a registered TX lobbyist.",
+    "source_url": "https://www.bitterblueinvestments.com/team/lloyd-laddie-denton-jr",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Greater San Antonio Builders' Association", "role": "Past President / VP / Treasurer", "category": "business", "source_url": "https://www.bitterblueinvestments.com/team/lloyd-laddie-denton-jr", "snippet": "Bio lists officer positions incl. Greater San Antonio Builders' Association (president, vice-president, treasurer) and Real Estate Council of San Antonio."},
+      {"org": "Urban Land Institute (ULI) San Antonio", "role": "Long-time member; featured speaker", "category": "business", "source_url": "https://sanantonio.uli.org/events/detail/1D791AFC-ABC7-41A6-9C64-EF636FFD1112/", "snippet": "ULI San Antonio 'Secrets to Success with Bitterblue's Laddie Denton and Scott Teeter'; bio notes 30-year ULI membership."},
+      {"org": "San Antonio Zoo / Saint Mary's Hall Board of Trustees", "role": "Board director / trustee", "category": "civic", "source_url": "https://www.bitterblueinvestments.com/team/lloyd-laddie-denton-jr", "snippet": "Bio: Board of Directors for the San Antonio Zoo; Board of Trustees and Building Program chairman for Saint Mary's Hall."}
+    ]
+  },
+  {
+    "donor_id": "9353a71e-a882-4edf-bbdf-6fd885aaf4b4",
+    "name": "Dawson, Doug",
+    "resolved_employer": "Founder & Executive Director, School Innovation Collaborative (education nonprofit supporting SAISD in-district charter schools)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Doug/Douglas Dawson, education entrepreneur, Teach for America (Dallas) alum, Rice REEP MBA, ex-YES Prep and Texas Education Agency, founder/ED of School Innovation Collaborative -- matches donor occupation 'Education, Education Entrepreneur.' Donor address is Austin 78744, though profiles note he relocated to San Antonio to lead the collaborative, so residence timing creates some ambiguity. 113 FEC donations, near-neutral lean 0.02. Not a registered TX lobbyist.",
+    "source_url": "https://schoolcollaborative.org/team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "School Innovation Collaborative", "role": "Founder & Executive Director", "category": "civic", "source_url": "https://schoolcollaborative.org/team/", "snippet": "Founded nonprofit providing administrative support/autonomy structure for principals at SAISD in-district charter elementary schools."}
+    ]
+  },
+  {
+    "donor_id": "ce89fd19-1bab-454e-9dfb-6bd7d51a10d9",
+    "name": "Gurgiolo, Karla",
+    "resolved_employer": "Executive Director, Mission Heritage Partners / Las Misiones (501(c)(3) friends group of San Antonio Missions National Historical Park)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Karla Gurgiolo is Executive Director of Mission Heritage Partners (dba Las Misiones), the nonprofit friends group that fundraises for and advocates for stewardship of San Antonio Missions National Historical Park; matches donor occupation 'Las Misiones Executive Director, Event Planner,' San Antonio 78212. No FEC PAC contributions or TX lobbyist registration found.",
+    "source_url": "https://missionheritagepartners.org/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Mission Heritage Partners / Las Misiones", "role": "Executive Director", "category": "civic", "source_url": "https://missionheritagepartners.org/about/", "snippet": "Leads 501(c)(3) that advocates for the park's protection and ongoing stewardship and raises preservation funds; involved in the 2015 UNESCO World Heritage designation."}
+    ]
+  },
+  {
+    "donor_id": "5ab41994-f285-411f-84cb-a1f0f6844840",
+    "name": "Holland, Rachel",
+    "resolved_employer": "Meta Platforms -- U.S. Public Policy Communications / Public Affairs (Legal & Regulatory)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Alicia Rachel Holland, San Antonio (zip 78248), is Meta's U.S. Public Policy Communications lead (since Aug 2021); prior roles at Facebook, U.S. House of Representatives (Director of Communications), and Hemisfair Park Area Redevelopment Corp. Occupation 'Public Affairs, Meta' matches exactly.",
+    "source_url": "https://www.linkedin.com/in/aliciarachelholland/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Meta Platforms, Inc.", "role": "U.S. Public Policy Communications / Public Affairs (Legal & Regulatory)", "category": "business", "source_url": "https://www.legistorm.com/person/bio/231131/Alicia_Rachel_Holland.html", "snippet": "LegiStorm: Rachel Holland holds a policy-communications and regulatory-affairs position at Meta Platforms Inc., beginning August 2021."},
+      {"org": "U.S. House of Representatives", "role": "Former Director of Communications", "category": "government", "source_url": "https://www.linkedin.com/in/aliciarachelholland/", "snippet": "Prior government-affairs experience includes a communications directorship in the U.S. House before moving to Facebook/Meta."}
+    ]
+  },
+  {
+    "donor_id": "209d1476-0a59-4acd-887f-f1f1025a3932",
+    "name": "Bajaj, Keerat",
+    "resolved_employer": "Retired -- former career not documented in public records",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as retired at 536 Castano Ave / 40 Longsford, San Antonio 78209; appears in Sukh Kaur's TEC campaign-finance filing. No public bio, LinkedIn, news, FEC, or lobbyist record found to establish a former career or industry. Same-surname matches (Indian Bajaj business family) are unrelated.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003435_20250530_165135.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bd5f211d-9b05-444a-8051-94a50aac1092",
+    "name": "Suri, Gurvendra",
+    "resolved_employer": "Founder & CEO, The Suri Group (advisory/investment); founder of Optimal Solutions Integration, an enterprise SAP/technology consulting firm",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Gurvendra Suri of Southlake, TX (76092) founded Optimal Solutions Integration (1995, Irving TX) and now runs The Suri Group; EY Entrepreneur of the Year 2011, SCORE Sikh Entrepreneur of the Year 2008. Donor FEC data (12 donations, lean 1.0) shows all-Republican federal giving.",
+    "source_url": "https://www.sikhentrepreneur.com/gurvendra-suri/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Republican federal candidates/committees", "role": "Individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/", "snippet": "Donor-dataset FEC aggregate: 12 federal donations, partisan lean 1.0 (all Republican recipients); no specific tracked ideological PAC independently confirmed."}
+    ]
+  },
+  {
+    "donor_id": "9e120e50-6340-4164-bd7b-73529a7190f1",
+    "name": "Sosa, Lionel and Katherine",
+    "resolved_employer": "Self-employed artists (portrait/fine art); both are longtime marketing and Republican political/media consultants",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Lionel Sosa is the San Antonio ad executive who founded Sosa & Associates (largest U.S. Hispanic ad agency) and served as media consultant on multiple Republican presidential campaigns (Reagan, both Bushes); AAPC Hall of Fame. Wife Katherine 'Kathy' Sosa is a San Antonio artist who also worked on George W. Bush's campaigns. Both now work primarily as artists. Donor FEC data: 51 donations, lean 0.38 (mixed) -- consistent with Lionel's later break from Trump.",
+    "source_url": "https://en.wikipedia.org/wiki/Lionel_Sosa",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Republican presidential campaigns (Reagan, G.H.W. Bush, G.W. Bush)", "role": "Hispanic media / marketing consultant", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Lionel_Sosa", "snippet": "Wikipedia: served on the teams of eight national Republican presidential campaigns."},
+      {"org": "Gary Johnson 2016 / later Hillary Clinton", "role": "Hispanic outreach co-chair, then Clinton supporter", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Lionel_Sosa", "snippet": "Wikipedia: in 2016 Sosa criticized Trump's immigration rhetoric, co-chaired Hispanic outreach for Gary Johnson, then supported Hillary Clinton -- matches mixed FEC lean 0.38."}
+    ]
+  },
+  {
+    "donor_id": "81c09731-781f-4cdc-8d91-6e627260c08f",
+    "name": "Wiegand, Jon",
+    "resolved_employer": "McCombs Enterprises (Vice President, Real Estate) / Alamo Capital Advisors LLC (principal & designated broker)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Jon Wiegand is VP of Real Estate at McCombs Enterprises (the Red McCombs family holding company) and principal/designated broker of Alamo Capital Advisors LLC, a San Antonio CRE investment/advisory firm. He was part of the ownership group -- alongside McCombs Enterprises and Ed Cross of San Antonio Commercial Advisors -- that bought the downtown Tower Life Building in May 2022. Address 14546 Brook Hollow, 78232, aligns with his San Antonio broker registration. No TX lobbyist registration and no tracked ideological-PAC federal contributions found.",
+    "source_url": "https://news4sanantonio.com/news/local/mccombs-family-buys-tower-life-building-downtown-san-antonio-texas-iconic",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "McCombs Enterprises", "role": "Vice President, Real Estate", "category": "business", "source_url": "https://www.linkedin.com/in/jon-wiegand-a7985b62/", "snippet": "Jon Wiegand -- Vice President / Real Estate, McCombs Enterprises (Red McCombs family holding company)."},
+      {"org": "Tower Life Building acquisition group (McCombs Enterprises / San Antonio Commercial Advisors)", "role": "Co-buyer via Alamo Capital Advisors", "category": "business", "source_url": "https://news4sanantonio.com/news/local/mccombs-family-buys-tower-life-building-downtown-san-antonio-texas-iconic", "snippet": "The Tower Life building sold in May 2022 to a group including McCombs Enterprises, Jon Wiegand of Alamo Capital Advisors, and Ed Cross of San Antonio Commercial Advisors."}
+    ]
+  },
+  {
+    "donor_id": "5e75247b-85f6-4748-a6d4-57e3b3144766",
+    "name": "Cotton, Inga",
+    "resolved_employer": "School Discovery Network (formerly San Antonio Charter Moms) -- Founder & Executive Director",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Inga Munsinger Cotton is a well-known San Antonio education/school-choice advocate; former practicing attorney (Trinity University BA, UT Austin JD) who founded the San Antonio Charter Moms blog in 2012 and now runs it as the nonprofit School Discovery Network, helping families navigate charter/public school options. Address 537 Abiso Ave, 78209 (Alamo Heights) matches. Also serves on the advisory board of Futuro San Antonio. No FEC PAC contributions and no TX lobbyist registration found.",
+    "source_url": "https://schooldiscoverynetwork.org/about/inga-cotton/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "School Discovery Network / San Antonio Charter Moms", "role": "Founder & Executive Director", "category": "civic", "source_url": "https://schooldiscoverynetwork.org/about/inga-cotton/", "snippet": "Founder and executive director of School Discovery Network (formerly San Antonio Charter Moms), a nonprofit that helps families find schools and advocate for quality education / school choice."},
+      {"org": "Futuro San Antonio", "role": "Advisory board member", "category": "civic", "source_url": "https://sachartermoms.com/about/inga-cotton-founder-executive-director/", "snippet": "Serves on the Advisory board for Futuro San Antonio and volunteers as a judge for FIRST in Texas robotics competitions."}
+    ]
+  },
+  {
+    "donor_id": "dc5fd780-25e8-4b82-ab38-2c9b67bba434",
+    "name": "Ochoa, Albert",
+    "resolved_employer": "Success Realty of Texas LLC -- Broker / Managing Member (also Blue Collar LLC)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Albert Ochoa is the designated broker and managing member of Success Realty of Texas LLC (136 E Mulberry Ave, 78212), a second-generation Realtor across residential, commercial, ranch and land in the San Antonio/Austin markets (MBA University of Dallas, BBA UT Austin; also runs Blue Collar LLC). Donor dataset records 14 FEC contributions at a fully Republican lean (1.0); web searches surfaced no donation to a tracked ideological spectrum PAC. No TX lobbyist registration found.",
+    "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/albert-ochoa/6d1vxprb",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Republican federal candidates/committees", "role": "Individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/", "snippet": "Donor-dataset FEC aggregate: 14 individual contributions, lean 1.0 (all Republican); no specific tracked ideological PAC independently confirmed."}
+    ]
+  },
+  {
+    "donor_id": "fe75e611-f585-453b-a23c-45896c46c6b9",
+    "name": "Khangura, Sajneet",
+    "resolved_employer": "Gastroenterologist (retired) -- formerly Gastroenterology Consultants of San Antonio / GI Alliance",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Donor listed as 'retired' at 205 W Summit Ave, 78212 (Monte Vista). Sajneet Khangura is the applicant of record for that exact property in City of San Antonio HDRC historic cases (Monte Vista Historic District), tying the address to Dr. Sajneet K. Khangura, MD, a San Antonio gastroenterologist. The Kaur filing lists her occupation as 'retired,' consistent with the donor record; some clinical listings persist online, creating minor ambiguity about retirement status. No FEC PAC contributions and no TX lobbyist registration found.",
+    "source_url": "https://gialliance.com/sajneet-khangura/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f1921eac-fbff-4a26-9d7b-d2d78020857c",
+    "name": "Yantis, Blkae",
+    "resolved_employer": "Mosaic Land Development (President) -- San Antonio land developer",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Blake Yantis (donor name recorded as 'Blkae', a typo) is President of Mosaic Land Development, a San Antonio full-service land-development firm (Tres Laurels ~1,000-lot project, The Frame at Med Center). Donor occupation 'Mosaic, Real estate' and San Antonio 78231 location match; same household as the separate 'Yantis, Blake and Jennifer' record.",
+    "source_url": "https://therealdeal.com/texas/2023/05/18/mosaic-plans-1000-homes-in-san-antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f0af5678-70d5-413e-b977-12d8898d9b24",
+    "name": "Seiterle, Laurence",
+    "resolved_employer": "Owner, Zurich International Properties Inc. -- downtown San Antonio commercial real estate / historic redevelopment",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Laurence P. Seiterle is owner/principal of Zurich International Properties (founded 1979 by his father Joseph Seiterle), a downtown-core commercial real estate and historic-renovation firm at 118 Broadway, San Antonio -- matches donor address and occupation exactly.",
+    "source_url": "https://www.linkedin.com/in/laurence-seiterle-7a9a1635/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ee279baf-d83a-434a-9ad9-b462509f2e9c",
+    "name": "Kellum, Alexander",
+    "resolved_employer": "Medical Scribe, Kellum Medical Group (San Antonio family-practice group)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Occupation given as medical scribe at Kellum Medical Group, a documented San Antonio family-practice group (multiple clinics). The employer is well-corroborated; no independent public profile for Alexander Kellum himself was found, so personal identity confirmation is limited.",
+    "source_url": "https://www.kellummedical.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "edc7bfc1-68ca-4311-9c96-c491bcef7e17",
+    "name": "Kaur, Ajooni",
+    "resolved_employer": "Etho Fellow, Etho Capital (sustainable/climate-focused investment firm); Economics & Government student at Wesleyan University",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Etho Capital's leadership page lists Ajooni Kaur as an 'Etho Fellow,' a Wesleyan University Economics & Government student with prior experience at Elytra Robotics, StrategyBRIX, and the California State Assembly; based in the SF Bay Area, matching Alameda CA 94501. Note: surname 'Kaur' is the universal Sikh female surname and does NOT establish a family relationship with candidate Sukh Kaur -- no such relationship was documented.",
+    "source_url": "https://ethocapital.com/leadership",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ec2a4fff-8525-4401-a249-9c6ee0daed82",
+    "name": "Speier, Penelope",
+    "resolved_employer": "04ARTS Foundation (arts-education nonprofit serving San Antonio ISD), Executive Director; campaign filing lists 'not employed'",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Penelope Speier is Executive Director of the 04ARTS Foundation, a San Antonio arts-education nonprofit; described as an art historian, painter and longtime arts-education advocate. Address 114 Camp St is a King William art-district condo, consistent with an arts figure; identity match to the 04ARTS director is probable but not documentarily confirmed to this unit. Campaign lists her as 'not employed,' consistent with an uncompensated/volunteer nonprofit leadership role. Donor FEC data: 10 donations, lean 1.0.",
+    "source_url": "https://www.linkedin.com/in/penelope-speier-09471311/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "04ARTS Foundation", "role": "Executive Director", "category": "civic", "source_url": "https://04arts.org/04Arts_Brochure.pdf", "snippet": "04ARTS Foundation brings art from around the world into classrooms of San Antonio ISD students; Speier is its Executive Director and a longtime arts-education advocate."}
+    ]
+  },
+  {
+    "donor_id": "e810f29d-57c0-42b7-a2db-0a938bcb0ae4",
+    "name": "Yantis, Blake and Jennifer",
+    "resolved_employer": "Blake Yantis -- President/owner, Mosaic Land Development (San Antonio land-development firm); Jennifer Yantis -- real estate",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Blake Yantis is President of Mosaic Land Development, a full-service San Antonio land-development company behind projects like the ~300-acre/1,000-lot Tres Laurels on the far West Side and 'The Frame at Med Center.' Occupations 'Real estate, Mosaic' match directly. Same person as the separate 'Yantis, Blkae' record. No ideological PAC or lobbyist registration found.",
+    "source_url": "https://www.linkedin.com/in/blake-yantis-ab97aa80/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e7c7cf0b-3927-4a8d-99b1-77b02cbb0e96",
+    "name": "Bravo, Eduardo",
+    "resolved_employer": "Co-Founder and COO, Irys Technologies, Inc. (San Antonio software/cybersecurity/IT firm)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Eduardo Bravo is co-founder and COO of Irys Technologies (founded 2017 as CityFlag), a San Antonio software/cybersecurity company. Holds a BBA in International Business from University of the Incarnate Word and chairs the 2026 San Antonio Chamber Cybersecurity Council. Occupation and location match directly. No ideological PAC or lobbyist registration found.",
+    "source_url": "https://www.irystechnologies.com/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Chamber of Commerce", "role": "2026 Cybersecurity Council Chair", "category": "business", "source_url": "https://www.sachamber.org/councils/cybersecurity-council/", "snippet": "Bravo is the 2026 Cybersecurity Council Chair for the San Antonio Chamber of Commerce."}
+    ]
+  },
+  {
+    "donor_id": "e527c24e-8fbf-4bed-9acd-5672dfee0034",
+    "name": "Amato, Charles",
+    "resolved_employer": "Chairman and Co-Founder, SWBC (diversified financial-services firm, San Antonio)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Charlie Amato co-founded SWBC in 1976 and is its Chairman; a major San Antonio business/civic figure and part-owner of the San Antonio Spurs. Public FEC/state records show bipartisan giving (e.g., a 2014 gift to Democrat Pete Gallego and to the Republican Party of Texas), consistent with the record's mixed lean (0.15). No pro-Israel/pro-Palestine, gun, oil-and-gas, or defense ideological PAC ties surfaced. No TX lobbyist registration found.",
+    "source_url": "https://www.tsus.edu/regents/bios/amato.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas State University System Board of Regents", "role": "Regent (gubernatorial appointment)", "category": "political", "source_url": "https://www.tsus.edu/regents/bios/amato.html", "snippet": "Amato serves on the Texas State University System Board of Regents by gubernatorial appointment."},
+      {"org": "Texas Business Leadership Council", "role": "Chairman", "category": "business", "source_url": "https://www.swbc.com/about-swbc/press/article/charlie-amato-of-swbc-elected-chairman-of-the-texas-business-leadership-council", "snippet": "Amato was elected Chairman of the Texas Business Leadership Council, a statewide business-policy advocacy group."},
+      {"org": "Alamo Trust / Remember the Alamo Foundation", "role": "Board member", "category": "civic", "source_url": "https://www.thealamo.org/alamo-trust/governance/charlie-amato", "snippet": "Amato sits on the Alamo Trust governance board."}
+    ]
+  }
+]

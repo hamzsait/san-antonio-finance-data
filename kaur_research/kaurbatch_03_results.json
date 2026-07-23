@@ -1,0 +1,246 @@
+[
+ {
+  "donor_id": "8e83d82d-ebd0-4630-92e4-4853aa8a2d87",
+  "name": "Adelman, David",
+  "resolved_employer": "AREA Real Estate LLC (founder/principal) — prominent downtown San Antonio mixed-use developer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "David M. Adelman founded AREA Real Estate in 2011; well-documented downtown/near-north-side San Antonio developer (Creamery/Borden Dairy, Rich-Book building, large mixed-use portfolio) matching the 1221 Broadway 78215 office. Past president of Temple Beth-El congregation 2016-2018 (religious/communal leadership, kept out of policy-advocacy scope per instructions). No ideological/balanced-spectrum PAC contributions found in FEC/OpenSecrets searches.",
+  "source_url": "https://sanantonioreport.org/san-antonio-developer-david-adelman-i-love-to-see-things-improve/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8b83954f-f20f-4193-9bed-5aa1eb26df09",
+  "name": "Brown, Caroline",
+  "resolved_employer": "Brown & McDonald PLLC — San Antonio land-use/zoning/environmental law firm (co-founder & shareholder); resolves to Caroline McDonald",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Donor 'Caroline Brown, Attorney/Shareholder, Brown & McDonald' resolves to Caroline McDonald, co-founder and shareholder at Brown & McDonald PLLC, a San Antonio land-use/zoning/environmental practice that self-describes as a 'Lobbyist & Land Use Law Practice'; the campaign-finance record appears to have conflated first name 'Caroline' with firm name 'Brown.' Reported in public records as a registered City of San Antonio land-use lobbyist alongside partner Ken Brown. No PAC affiliations in the balanced-spectrum ideological categories.",
+  "source_url": "https://www.linkedin.com/in/caroline-mcdonald-293851127/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of San Antonio lobbyist registry (Brown & McDonald PLLC)",
+    "role": "Registered municipal land-use/zoning lobbyist (firm co-founder)",
+    "category": "political",
+    "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx?FirmLink=Brown+and+McDonald+PLLC&SDate=6%2F30%2F2021&EDate=6%2F30%2F2025",
+    "snippet": "Brown & McDonald PLLC is a self-described 'Lobbyist & Land Use Law Practice'; both firm partners appear as registered City of San Antonio lobbyists representing developers on zoning/plan-amendment matters."
+   }
+  ]
+ },
+ {
+  "donor_id": "87304d14-75fa-4003-825c-f49c86371a43",
+  "name": "Subramaniam, Kausi and Murali",
+  "resolved_employer": "Kalalaya Indian Performing Arts — Kausi Subramaniam is founder/artistic director (Bharatanatyam & Carnatic music school)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Kausi Subramaniam founded Kalalaya (2010), one of San Antonio's Bharatanatyam/Carnatic music schools; San Antonio Women's Hall of Fame inductee and SABJ 40-Under-40, with a mechanical-engineering background. Joint donation with husband Murali (his occupation not independently confirmed). No PAC/lobbyist affiliations found.",
+  "source_url": "https://kalalaya-sa.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7c464b69-6156-4573-9a35-dcec5dc55022",
+  "name": "Shields, Andrea",
+  "resolved_employer": "Self-employed illustrator — Andrea Shields Illustration (invitations, stationery, hand-painted watercolor)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Andrea Shields runs a San Antonio illustration/stationery business (andreashields.com); shares 325 Wildrose Dr 78209 with John Shields (McCombs Enterprises), likely spouse. No PAC or lobbyist-registry affiliations documented.",
+  "source_url": "https://www.andreashields.com/pages/contact",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "77714b5f-e8e8-445b-bcda-938969208109",
+  "name": "McMurry, Doug",
+  "resolved_employer": "McMurry Communications (co-owner, government relations, since 2022); former Executive VP of San Antonio Chapter, Associated General Contractors (AGC) 1994-2022",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Doug McMurry (BA Government, UT Austin 1982) led the San Antonio Chapter of Associated General Contractors as Executive VP 1994-2022 and served as treasurer of the AGC Political Action Committee; now co-owner/government-relations professional at McMurry Communications and co-author of '100 Years of Building San Antonio.' AGC PAC is a construction trade PAC (recorded as a business/political affiliation), not one of the ideological balanced-spectrum categories.",
+  "source_url": "https://www.mcmurrycommunications.com/meet.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Associated General Contractors (AGC), San Antonio Chapter / AGC PAC",
+    "role": "Former Executive VP (1994-2022); AGC PAC treasurer; now government-relations consultant",
+    "category": "business",
+    "source_url": "https://www.mcmurrycommunications.com/meet.html",
+    "snippet": "Led the San Antonio AGC chapter as Executive VP for ~28 years and served as treasurer of the AGC construction-industry political action committee; now provides government-relations services via McMurry Communications."
+   }
+  ]
+ },
+ {
+  "donor_id": "6d2f62f5-2a43-4c4f-8f0b-bedaeb5f5c78",
+  "name": "Michael Cortez, Heidi Busmail and",
+  "resolved_employer": "BHDC / HBDC Marketing (full-service marketing, graphic design & signage firm), owners",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Heidi Busmail and Michael Cortez own BHDC/HBDC Marketing at 4434 Center Gate St, San Antonio 78217 (address matches donor record exactly); firm founded 2003 doing branding, PR, design and signage. No FEC PAC, lobbyist, or advocacy records found.",
+  "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/graphic-designer/hbdc-marketing-llc-0825-1000148977",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6c9dc59b-aa45-4176-b6e5-57374d7d2f52",
+  "name": "Alvarez and Ruiz, Felipe and Laura",
+  "resolved_employer": "PermaChef USA (chef/professional uniform & apparel manufacturer-retailer); Felipe Alvarez is Principal/CEO",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Felipe Alvarez is Principal/CEO of PermaChef USA, a chef/professional apparel company; company location 20923 Pearl Harvest, San Antonio 78259 matches the donor record. Laura Ruiz is his spouse. No FEC PAC, lobbyist, or advocacy records found.",
+  "source_url": "https://permachefusa.com/pages/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3e1bce8c-db4e-445b-b2f0-9d76f59cf447",
+  "name": "Avelar and Olivo, Luis and Daniella",
+  "resolved_employer": "DG Pro Solutions LLC (home remodeling — bathrooms & kitchens); Luis Avelar is CEO",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Luis Avelar (LinkedIn, San Antonio) is CEO of DG Pro Solutions LLC, a home-remodeling company specializing in bathroom and kitchen upgrades; Daniella Olivo is his spouse. No FEC PAC, lobbyist, or advocacy records found.",
+  "source_url": "https://dgprosolutions.com/about-dg-pro-solutions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "350fbe6a-cc70-41ba-9dce-b6e69108985f",
+  "name": "Shields, John",
+  "resolved_employer": "McCombs Enterprises (Red McCombs diversified real estate/investment holding company), Business Development",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Business Development role at McCombs Enterprises appears in public records under 'Joseph Shields' (UT Austin McCombs BBA, in role since 2014) — likely the same person filed as John; McCombs Enterprises is the Red McCombs family holding company (real estate, energy, auto, sports). Spouse likely Andrea Shields (San Antonio illustrator, same 325 Wildrose Dr address). Name discrepancy lowers confidence. No FEC PAC or lobbyist records found.",
+  "source_url": "https://theorg.com/org/mccombs-enterprises/org-chart/joseph-shields",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2d9b3721-76b2-4134-b9cb-837b5312708f",
+  "name": "Remolina and Benitez, Sergio and Blanca",
+  "resolved_employer": "Self-employed chef / culinary educator — faculty at Culinary Institute of America (CIA) San Antonio; former restaurateur",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Sergio Remolina is a verified San Antonio chef and culinary educator: CIA San Antonio faculty (former Director of Latin Cuisine Studies 2014-2017), trained in Mexico and France, chef-owner of prior San Antonio ventures. Blanca Benitez is his spouse. No FEC PAC, lobbyist, or advocacy records found.",
+  "source_url": "https://www.ciachef.edu/cia-bios/sergio-remolina/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2814a2b5-1fd0-41aa-8534-7fb88473c846",
+  "name": "Stein, Vivian and Craig",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired couple at 2 W Oaks Ct, San Antonio 78213; Craig Stein and Vivian Stein appear in public records at this address, but former careers are not documented in public sources. 15 FEC donations noted in the record but no ideological single-issue PAC surfaced. (Occupation listed only as 'retired'; no discoverable prior-career profile, so no industry fallback asserted.)",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "02856304-3ed9-48e8-9c7c-bf75fb07dc70",
+  "name": "Aneja, Jagjit",
+  "resolved_employer": "Roshni Foods (Accounting/CFO/President) — South Asian food brand (spices, frozen foods, groceries) based in Maryland",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Out-of-state MD donor; Jagjit Kaur Aneja lives in Silver Spring/Ashton MD 20861 and is affiliated with the family-run Roshni Foods (Aneja family). Punjabi-community food company; no policy-advocacy affiliation or PAC record found.",
+  "source_url": "https://b2bmap.com/roshni-foods",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ac4cd453-4b81-4cdf-9660-04e2716758ef",
+  "name": "Carey, Chad",
+  "resolved_employer": "Empty Stomach Group / SA Empty Plate LLC — San Antonio restaurateur (Hot Joy, Barbaro, The Monterey, Bar Bamboosh)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Well-documented San Antonio restaurateur and founder of Empty Stomach Group; former real-estate developer who moved into hospitality after 2008. No PAC, lobbyist registration, or policy-advocacy affiliation found.",
+  "source_url": "https://www.starchefs.com/profiles/chad-carey",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4e5b2584-72db-4040-bbbf-2830ae75df02",
+  "name": "Lifshutz, James",
+  "resolved_employer": "Lifshutz Companies LP — principal/developer; owner of Blue Star Arts Complex, Flats at Big Tex, Hot Wells project",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Prominent San Antonio real-estate developer; principal of Lifshutz Companies (78205), owner of the Blue Star Arts Complex. FEC records show Democratic-leaning individual giving (e.g., contributions to Doggett for Congress); no single-issue/ideological PAC (pro-Israel, oil/gas, etc.) documented.",
+  "source_url": "https://sanantonioreport.org/tag/james-lifshutz/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ed8ac65e-e9e7-4103-b974-715d279b82e0",
+  "name": "Barros, Marco",
+  "resolved_employer": "Marco Barros Management — business development & governmental affairs consultant; former president/CEO San Antonio Area Tourism Council",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Longtime San Antonio tourism/hospitality figure; retired ~2020 as president/CEO of the San Antonio Area Tourism Council, now a governmental-affairs/business-development consultant. Ran for City Council D9 (2017 runoff, lost to John Courage); served on the Airport Advisory Commission. No Texas Ethics Commission or City of San Antonio lobbyist registration surfaced despite targeted searches; no ideological PAC found.",
+  "source_url": "https://sanantonioreport.org/with-retirement-near-tourism-leader-marco-barros-looks-to-the-future/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1f38b20f-958f-4ae3-a139-7a28d94f78d8",
+  "name": "Ortiz, Cristina",
+  "resolved_employer": "Investment advisor listed at Martin Capital Advisors (San Antonio RIA); donor record also links her to Empty Stomach Group / VIBRAS restaurant group",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Record occupation is investment advisor/manager at Martin Capital Advisors, an established San Antonio registered investment advisory firm. She does not appear on Martin Capital's current staff page, and no independent public bio, LinkedIn, or news profile could tie a Cristina Ortiz (78251) specifically to Martin Capital or Empty Stomach Group/VIBRAS, so identity is not independently corroborated. Classified by listed employer/occupation (Finance) per fallback; no PAC or lobbyist ties found.",
+  "source_url": "https://martincapital.com/our-people/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7e9b5587-b512-4d20-b4f3-0b49cb9e8126",
+  "name": "Andrade, Hope",
+  "resolved_employer": "President & CEO, The Alamo Trust (named Oct 2025); former Texas Secretary of State (2008-2012); partner, Andrade-Van de Putte & Associates and Go Rio San Antonio River Cruises; Frost Bank board",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Genuine public figure: Esperanza 'Hope' Andrade, prominent San Antonio Republican, first Latina Texas Secretary of State (appointed by Gov. Rick Perry), former chair of the Texas Transportation Commission and Texas Workforce Commission commissioner. Now President/CEO of the Alamo Trust; serves on Frost Bank, Southwest Research Institute, Great Springs Project boards and the Texas Hispanic Policy Foundation. No ideological-category advocacy (Israel/Palestine, oil/gas, gun, defense) documented, so none recorded despite her strong Republican profile.",
+  "source_url": "https://en.wikipedia.org/wiki/Esperanza_Andrade",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fa6ee8b7-a857-4355-a6ba-09e6a5df18b1",
+  "name": "Brown, Ken",
+  "resolved_employer": "Attorney/partner, Brown & McDonald PLLC (San Antonio land use, zoning & development law); registered City of San Antonio municipal lobbyist",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Kenneth W. Brown, State Bar of Texas member since 1989 (St. Mary's Law), partner at Brown & McDonald PLLC at 100 NE Loop 410, 78216 — a self-described 'Lobbyist & Land Use Law Practice.' Confirmed as a registered City of San Antonio lobbyist representing developers on zoning changes and plan amendments before city officials (notable given the donation to a sitting councilmember). Firm partner is Caroline McDonald (also a registered lobbyist); the record's 'Caroline Brown' appears to be a conflation. Municipal land-use lobbying is recorded as a political affiliation but does not map to the ideological balanced-spectrum categories.",
+  "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx?FirmLink=Brown+and+McDonald+PLLC&SDate=6%2F30%2F2021&EDate=6%2F30%2F2025",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of San Antonio lobbyist registry (Brown & McDonald PLLC)",
+    "role": "Registered municipal land-use/zoning lobbyist (firm partner)",
+    "category": "political",
+    "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx?FirmLink=Brown+and+McDonald+PLLC&SDate=6%2F30%2F2021&EDate=6%2F30%2F2025",
+    "snippet": "Kenneth W. Brown appears in the City of San Antonio lobbyist registry as a registered lobbyist for Brown & McDonald PLLC, representing developers on zoning changes and plan amendments before city officials."
+   }
+  ]
+ },
+ {
+  "donor_id": "f30b2bb3-c547-41de-9932-64d3ae15a2d0",
+  "name": "Kaur, Natasha",
+  "resolved_employer": "Anesthesiologist, Verdugo Hills Anesthesia Medical Group / USC Verdugo Hills Hospital (Glendale/La Canada Flintridge, CA)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Natasha Kaur, MD, board-certified anesthesiologist practicing in Glendale CA with Verdugo Hills Anesthesia Medical Group, affiliated with USC Verdugo Hills Hospital — matches the 'VHH / Verdugo Anesthesia' employer and La Canada Flintridge 91011 address. Out-of-state CA donor. Shares the surname Kaur with candidate Sukh Kaur; no public record documents any family relationship, so none is asserted. No PAC or lobbyist activity found.",
+  "source_url": "https://uscvhh.org/doctors/natasha-kaur-md",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "de428af6-0f12-4f9a-9e87-c0e16d90360f",
+  "name": "Stevens, Johnny",
+  "resolved_employer": "President/owner, FJM General, Inc. (Wichita, KS); associated with roughly a dozen Kansas corporate entities",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Johnny W. Stevens listed as President of FJM General, Inc., a Wichita, KS for-profit corporation (Kansas corporate records via Corporationwiki); public records tie him to about a dozen Kansas companies. Out-of-state KS business owner. The specific line of business of FJM General is not publicly stated, so classified as Self-Employed (owner/president). No PAC, lobbyist, or ideological affiliation found; not to be confused with 'Johnny Steven' (Genesis Health Clubs) or Kansas politician John Stevens.",
+  "source_url": "https://www.corporationwiki.com/Kansas/Wichita/fjm-general-inc/30280552.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

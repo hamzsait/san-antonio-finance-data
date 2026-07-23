@@ -1,0 +1,254 @@
+[
+ {
+  "donor_id": "d74887c7-2223-4a50-bc8f-0e4f3c0dedc7",
+  "name": "Kowalski, Greg",
+  "resolved_employer": "The RK Group (President & CEO) — family-owned San Antonio catering/hospitality and event-management company",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Greg Kowalski, son of founder Rosemary Kowalski, has led The RK Group as President/CEO since ~1979; runs 4,000+ events/year and 15+ hospitality brands. FEC records list contributor 'Greg Kowalski / The RK Group' in San Antonio, confirming identity.",
+  "source_url": "https://www.therkgroup.com/about-us/team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Republican candidates & committees (Nikki Haley for President, NRCC, Republican Party of Texas, Tony Gonzales Victory Fund, Jake Ellzey, Monica De La Cruz)", "role": "individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=KOWALSKI+GREG&contributor_state=TX", "snippet": "FEC individual-contribution records show Greg Kowalski (employer 'The RK Group') gave $6,600 to Nikki Haley for President (2023), $10,000 to Republican Party of Texas and $10,000 to Tony Gonzales Victory Fund (2022), plus NRCC and multiple GOP House candidates. No AIPAC/J Street/DMFI/oil-gas/gun/defense PAC contributions found."}
+  ]
+ },
+ {
+  "donor_id": "d1f63ccd-a4c9-4661-aeb8-208652fc1fd2",
+  "name": "lll, Edward E.",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired resident of Camp Street Residences (114 Camp St, a downtown condo conversion in 78204). Could not confirm the specific individual or former career; surname garbled by OCR (likely a suffix). No FEC ideological-PAC records or lobbyist registration found.",
+  "source_url": "https://www.har.com/camp-street-residences/highrise_1054",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b5fb1ed2-a7c1-46d5-87d8-9269f5576725",
+  "name": "Guerrero, Emma",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Public records list an Emma Guerrero (b. 1944) at 3915 Skylark Ave, San Antonio TX 78210, matching the donor address exactly. Retired; no former career, employer, board seat, or ideological-PAC/lobbyist record found. Quiet local donor.",
+  "source_url": "https://www.clustal.org/people-search/g/emma-guerrero/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b15638cc-2a0e-4852-bdfd-c43a0c94a11a",
+  "name": "Kanyusik, Margaret & Bill",
+  "resolved_employer": "Retired (both listed 'Not Employed' on FEC records)",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "Retired San Antonio (78212) couple with an extensive FEC small-dollar donation history, matching donation_count 87 and partisan_lean 1.0. Donations are consistently to Democratic candidates/committees via ActBlue (Beto O'Rourke, Roland Gutierrez, Colin Allred, James Talarico, Al Gross, Kim for Congress, Win The Era PAC). No AIPAC/J Street/oil-gas/gun/defense single-issue PACs; no lobbyist registration.",
+  "source_url": "https://www.campaignmoney.com/political/contributions/bill-kanyusik.asp?cycle=20",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Democratic candidates & committees (via ActBlue)", "role": "recurring small-dollar donor", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/bill-kanyusik.asp?cycle=20", "snippet": "Bill Kanyusik, San Antonio 78212, 'Not Employed', gave to ActBlue, Win The Era PAC (Democrat), and Kim for Congress in 2019; Margaret Kanyusik's FEC record shows recurring gifts to Beto, Roland Gutierrez for Texas, Colin Allred Victory Fund, Talarico for Texas, and Al Gross via ActBlue."}
+  ]
+ },
+ {
+  "donor_id": "a6ceb9aa-26d2-49c0-b2f1-e94ef9f6256a",
+  "name": "Kowalski, Greg",
+  "resolved_employer": "The RK Group (President & CEO) — family-owned San Antonio catering/hospitality and event-management company",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Same person as donor d74887c7 (Greg Kowalski, The RK Group, PO Box 1361 San Antonio). President/CEO of The RK Group since ~1979; FEC lists him as a San Antonio RK Group donor.",
+  "source_url": "https://www.therkgroup.com/about-us/team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Republican candidates & committees (Nikki Haley for President, NRCC, Republican Party of Texas, Tony Gonzales Victory Fund, Jake Ellzey, Monica De La Cruz)", "role": "individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=KOWALSKI+GREG&contributor_state=TX", "snippet": "FEC records show Greg Kowalski / The RK Group gave $6,600 to Nikki Haley (2023), $10,000 to Republican Party of Texas and $10,000 to Tony Gonzales Victory Fund (2022), plus NRCC and GOP House candidates. No ideological Israel/Palestine/gun/oil/defense PAC activity found."}
+  ]
+ },
+ {
+  "donor_id": "8a25b252-1a92-4e36-ab38-3135eb41d4e2",
+  "name": "Wender, Marty",
+  "resolved_employer": "Charles Martin Wender Real Estate & Investments (founder/owner); veteran San Antonio land developer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Charles Martin 'Marty' Wender, developer of the 3,500-acre Westover Hills master-planned development; 2002 chairman of the Greater San Antonio Chamber of Commerce; zip/employer/address match the 700 E Hildebrand office.",
+  "source_url": "https://www.hjf.org/hmmsa-wender",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Greater San Antonio Chamber of Commerce", "role": "2002 Chairman", "category": "business", "source_url": "https://www.hjf.org/hmmsa-wender", "snippet": "Served as 2002 Chairman of the Greater San Antonio Chamber of Commerce."},
+   {"org": "Mays Cancer Center, UT Health San Antonio", "role": "Chair, Board of Governors", "category": "civic", "source_url": "https://www.hjf.org/hmmsa-wender", "snippet": "Currently chairs the Board of Governors of the Mays Cancer Center at UT Health San Antonio; also served on San Antonio Medical Foundation and Alamo Public Telecommunications Council."}
+  ]
+ },
+ {
+  "donor_id": "82c831f3-4a36-4fa1-94c5-308c9370def8",
+  "name": "McDonald, Caroline",
+  "resolved_employer": "Brown & McDonald PLLC (co-founder, majority shareholder, partner) — land-use/zoning/environmental law and lobbying practice in San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Caroline McDonald co-founded Brown & McDonald PLLC and practices municipal land use, zoning, and environmental law; formerly ~8 years at Brown & Ortiz. She is a registered City of San Antonio lobbyist. FEC lists her (Brown & McDonald, attorney, San Antonio) as a donor, confirming identity.",
+  "source_url": "https://sawoman.com/2025/07/profile-caroline-mcdonald/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio lobbyist registry (Brown & McDonald PLLC)", "role": "registered lobbyist / agent", "category": "business", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx?FirmLink=Brown+and+McDonald+PLLC&SDate=6%2F30%2F2021&EDate=6%2F30%2F2025", "snippet": "City of San Antonio Lobbyist System lists 'Ms. Caroline McDonald (ATTY)' as a registered lobbyist for Brown & McDonald PLLC, representing developer/real-estate clients (Bitterblue, McCombs Enterprises, CBRE San Antonio, etc.) on zoning and plan-amendment matters."},
+   {"org": "Real Estate Council of San Antonio", "role": "Board Member", "category": "business", "source_url": "https://sawoman.com/2025/07/profile-caroline-mcdonald/", "snippet": "Profile lists her as a Board Member of the Real Estate Council of San Antonio."},
+   {"org": "YWCA of San Antonio", "role": "Board Member", "category": "civic", "source_url": "https://sawoman.com/2025/07/profile-caroline-mcdonald/", "snippet": "Profile lists her as a Board Member of the YWCA of San Antonio."},
+   {"org": "San Antonio Bar Association, Environmental Law Section", "role": "President", "category": "civic", "source_url": "https://sawoman.com/2025/07/profile-caroline-mcdonald/", "snippet": "Profile lists her as President of the San Antonio Bar Association's Environmental Law Section."},
+   {"org": "Political candidates (bipartisan)", "role": "individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=MCDONALD+CAROLINE&contributor_state=TX", "snippet": "FEC records show Caroline McDonald (Brown & McDonald, attorney) gave to Democrats via ActBlue (Roland Gutierrez for Texas 2023, Viagran for Congress 2022) and to Republican Mark Teixeira for Congress (2026). No AIPAC/J Street/DMFI/gun/oil PAC activity found."}
+  ]
+ },
+ {
+  "donor_id": "747b38b3-be9a-45f4-ab68-a57f8376deba",
+  "name": "Wender, Rene",
+  "resolved_employer": "Charles Martin Wender Real Estate & Investments (family firm); civic philanthropist",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Rene Lynn (Mandel) Wender, San Antonio native who married developer Marty Wender in 1969; shares the 700 E Hildebrand real-estate firm and address. No independent political/PAC profile found beyond joint civic philanthropy.",
+  "source_url": "https://www.alamo.edu/nvc/news-events/news/2026/may/wender-vision/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Northwest Vista College (Rene & Marty Wender Endowed Scholarship)", "role": "Donor/namesake", "category": "civic", "source_url": "https://www.alamo.edu/nvc/news-events/news/2026/may/wender-vision/", "snippet": "The Wenders established the Rene and Marty Wender Endowed Scholarship; NVC named a campus road 'Wender Way' in 2023 in their honor."}
+  ]
+ },
+ {
+  "donor_id": "725a5517-35a1-466c-a857-f2cd91d1d364",
+  "name": "Vexler, David",
+  "resolved_employer": "Monterrey Iron & Metal (VP / Account Services) — fourth-generation family-owned San Antonio metal-recycling company (est. 1916)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "David Vexler is a senior-leadership member (VP, Account Services) of the Vexler family's Monterrey Iron & Metal recycling business in San Antonio; brother of CEO Jordan Vexler. No personal FEC record found (the only FEC 'David Vexler' is an unrelated Ohio physician); his father Jack M. Vexler gave $600 to Sen. Cornyn.",
+  "source_url": "https://monterreymetalrecycling.com/about-us/leadership-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6abcf57e-db71-40a5-945a-689f23739a60",
+  "name": "Bhatia, Gurmit",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported retired, Cypress TX (10910 Elmwood Ridge Dr, 77433). No distinguishing public profile, employer, or PAC/lobbyist record located after all three searches. Quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5d3d9b06-57be-4bed-b4f0-87bc86b0df17",
+  "name": "Singh, Rupinder",
+  "resolved_employer": "Physician (Internal Medicine / Hospital Medicine), Cypress TX",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Rupinder Singh, MD, physician practicing in Cypress TX (multiple medical directory listings — Healthgrades, Vitals, WebMD — confirm physician in Cypress). Address 14107 Ashland Landing Dr, Cypress TX 77429 matches self-reported occupation 'Physician'.",
+  "source_url": "https://www.healthgrades.com/physician/dr-rupinder-singh-34qpm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "54209cd2-feca-4888-b8cd-a6160bb2e2ce",
+  "name": "Fertitta, Tilman",
+  "resolved_employer": "Chairman/CEO of Landry's Inc. and Fertitta Entertainment (restaurants, casinos, Golden Nugget); owner of the Houston Rockets; U.S. Ambassador to Italy since 2025",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Tilman Fertitta, Houston billionaire, CEO of Landry's Inc. at 1510 West Loop South (matches zip 77027); major Republican donor and Trump appointee (Ambassador to Italy).",
+  "source_url": "https://en.wikipedia.org/wiki/Tilman_Fertitta",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Republican federal committees/candidates", "role": "Major donor", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/tilman-fertitta.asp?cycle=20", "snippet": "2020-cycle FEC contributions include $100,000 to the Scalise Leadership Fund, plus Cornyn Majority Committee, Trump Victory, and NRSC; predominantly Republican, with a smaller bipartisan share. No pro-Israel, oil & gas, gun, or defense single-issue PAC contributions found."},
+   {"org": "U.S. Government (Dept. of State)", "role": "U.S. Ambassador to Italy and San Marino", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Tilman_Fertitta", "snippet": "Nominated by President Trump; serving as U.S. Ambassador to Italy since May 2025."}
+  ]
+ },
+ {
+  "donor_id": "53c5005f-bc94-4841-af1e-dd718c853db0",
+  "name": "Singh, G.P.",
+  "resolved_employer": "Retired — founder & former CEO of Karta Technologies Inc. (San Antonio defense-IT contractor, acquired by NCI 2007)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Gurvinder P. 'G.P.' Singh, founder of Karta Technologies, grew it to 400+ staff as 'the largest San Antonio based defense contractor for professional services'; now retired at 98 Turnberry Way (same address as fellow Kaur donor Parvinder Kaur, likely spouse). PhD Drexel, ex-UTSA/Southwest Research Institute.",
+  "source_url": "https://tedxsanantonio.com/2011-speakers/gurvinder-p-singh/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Karta Technologies Inc.", "role": "Founder & former CEO", "category": "military_defense", "source_url": "https://tedxsanantonio.com/2011-speakers/gurvinder-p-singh/", "snippet": "from a one-man, garage operation to more than 400 professionals — creating the largest San Antonio based defense contractor for professional services"},
+   {"org": "San Antonio Area Foundation", "role": "Board member / former Vice-Chairman", "category": "civic", "source_url": "https://tedxsanantonio.com/2011-speakers/gurvinder-p-singh/", "snippet": "Currently serving on five boards, Singh holds positions with Trinity University, the San Antonio Area Foundation, the Rapier Educational Foundation, the Cancer Therapy & Research Center, and the Bank of San Antonio"}
+  ]
+ },
+ {
+  "donor_id": "41ed97b9-db58-45e9-a0e8-3e40cee7c36c",
+  "name": "Singh, Bhajneet",
+  "resolved_employer": "Papillon (Papillon Eastern Imports) — Owner; family-run clothing/import retail business, La Canada Flintridge CA",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Bhajneet Singh Malik, owner of family clothing/import business Papillon in La Canada Flintridge CA (USC/Copenhagen Business School grad, ex-Gap merchandise planner). LinkedIn and business records confirm name, business, and location match.",
+  "source_url": "https://www.linkedin.com/in/bhajneet-singh-malik-73b8a92a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3961bd51-0341-49bc-95de-c413445a482c",
+  "name": "Bonilla, Henry",
+  "resolved_employer": "Partner and federal lobbyist at The Normandy Group LLC (Washington DC government-relations firm); former U.S. Representative for Texas's 23rd District (1993-2007)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Henry Bonilla, former 7-term U.S. Rep (TX-23) and House Appropriations member, joined The Normandy Group as partner in 2007; registered federal lobbyist. Name/employer match the donor record. Not found on TX Ethics Commission state lobbyist list (federal lobbyist).",
+  "source_url": "https://www.opensecrets.org/revolving-door/henry-bonilla-r/summary?id=70948",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "The Normandy Group LLC", "role": "Partner / registered federal lobbyist", "category": "political", "source_url": "https://www.opensecrets.org/federal-lobbying/firms/lobbyists?cycle=2023&id=D000043473&year=2024", "snippet": "Bonilla is a partner and registered federal lobbyist at The Normandy Group, which filed federal LDA lobbying disclosures; firm spent ~$2.5M with 10 lobbyists in 2023."},
+   {"org": "U.S. House of Representatives (TX-23)", "role": "Former Congressman (R), 1993-2007", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Henry_Bonilla", "snippet": "Represented Texas's 23rd district for 14 years and served on the House Appropriations Committee."}
+  ]
+ },
+ {
+  "donor_id": "393b250f-e72f-4c71-be84-6e2ff8cfba1f",
+  "name": "Ahluwalia, Tajinder",
+  "resolved_employer": "Seasons & Reasons Enterprises USA Inc. / Divano Designs (furniture retail, Columbia MD) — self-reported partner/retail sales",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Tajinder Ahluwalia, Columbia MD 21044 resident (confirmed via public records); self-reported partner/retail-sales at Divano Designs, a Columbia MD furniture retailer. Location matches, but the Divano About page (founders Nittoo/Ginny Singh) does not independently name Tajinder, so the specific business role is not corroborated beyond self-report.",
+  "source_url": "https://www.officialusa.com/names/Tajinder-Ahluwalia/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3542d844-147e-48f9-934d-f22c02530335",
+  "name": "Shown, William",
+  "resolved_employer": "CEO of Oxbow Development Group and Managing Director of Real Estate for Silver Ventures, Inc.; lead developer of the Pearl district in San Antonio",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Bill (William) Shown, Managing Director of Real Estate at Silver Ventures and CEO of Oxbow Development Group, oversees the Pearl Brewery redevelopment; former real-estate attorney. Employer/role and San Antonio location match the donor record.",
+  "source_url": "https://sanantonioreport.org/silver-ventures-pearl-future-development-equity/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Hemisfair Park Area Redevelopment Corporation", "role": "Chairman", "category": "civic", "source_url": "https://urbanland.uli.org/development-business/food-fed-vision-san-antonios-pearl-complex", "snippet": "Shown serves as Chairman of the Hemisfair Park Area Redevelopment Corporation, a City of San Antonio local government corporation, in addition to leading Pearl development for Silver Ventures/Oxbow."}
+  ]
+ },
+ {
+  "donor_id": "30490223-e843-460d-b1a5-11b43a369d22",
+  "name": "McKnight, Kimberly",
+  "resolved_employer": "HealthTrust Workforce Solutions (HCA Healthcare subsidiary) — Registered Nurse / Program Manager",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "LinkedIn and Indeed confirm a Kimberly McKnight at HealthTrust Workforce Solutions (an HCA Healthcare staffing subsidiary) in San Antonio, matching the stated employer, occupation, and 78248 location. No ideological-PAC contributions or lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/kimberly-mcknight-5b169332/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2eca9cfc-6781-4cd8-a1af-2e8505d1a865",
+  "name": "Mery, George",
+  "resolved_employer": "Elegant Limousine and Charter (President & CEO) — chauffeured/executive ground-transportation company, 5157 Blanco Rd, San Antonio",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "George Mery is President/CEO of Elegant Limousine and Charter (est. 1986), HQ at 5157 Blanco Road — matching the donor address exactly. No public advocacy profile beyond his transportation-company role.",
+  "source_url": "https://www.linkedin.com/in/george-mery-721b8811a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2bbea3d6-4589-4274-982b-0b7067663abe",
+  "name": "Singh, Gurpaul",
+  "resolved_employer": "Asset Essentials, LLC (San Antonio) — CEO; former executive at Karta Technologies",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Gurpaul Singh, CEO of San Antonio-based Asset Essentials LLC; holds a medical degree, joined Karta Technologies in 1999 managing a 100-person tech-training team, exited on NCI's acquisition. Firm bio and LinkedIn confirm name/title/city. Distinct from donor 53c5005f (Karta founder G.P. Singh).",
+  "source_url": "https://assetessentials.com/our-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Area Foundation", "role": "Board member", "category": "civic", "source_url": "https://assetessentials.com/our-team/", "snippet": "Board member, San Antonio Area Foundation"},
+   {"org": "San Antonio Medical Foundation", "role": "Board member", "category": "civic", "source_url": "https://assetessentials.com/our-team/", "snippet": "Board member, San Antonio Medical Foundation"},
+   {"org": "SA2020", "role": "Former Vice Chair", "category": "civic", "source_url": "https://assetessentials.com/our-team/", "snippet": "Former Vice Chair of SA2020 (community growth initiative)"}
+  ]
+ }
+]

@@ -1,0 +1,247 @@
+[
+ {
+  "donor_id": "0cb90716-12ff-49dc-968e-de65fc8733b1",
+  "name": "Polunsky, Allan",
+  "resolved_employer": "Polunsky Beitel Green, LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Allan B. Polunsky, prominent San Antonio (78257) real estate attorney and founder/managing partner of Polunsky Beitel Green, LLP; board-certified in residential and commercial real estate law since 1983. Extensive Republican-gubernatorial-appointed state service (274 FEC donations, GOP-leaning). Identity confirmed by firm bio, zip, and occupation matching donor record.",
+  "source_url": "https://www.mortgagelaw.com/our-team/allan-polunsky/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Board of Criminal Justice", "role": "Member (1987-2000), Chairman (1995-2000)", "category": "civic", "source_url": "https://www.mortgagelaw.com/our-team/allan-polunsky/", "snippet": "Texas Board of Criminal Justice: Member (1987-2000); Chairman (1995-2000) — the death-row Polunsky Unit is named for him."},
+   {"org": "Texas Public Safety Commission", "role": "Chairman (2007-2016)", "category": "civic", "source_url": "https://www.mortgagelaw.com/our-team/allan-polunsky/", "snippet": "Texas Public Safety Commission: Chairman (2007-2016); also served on Finance Commission of Texas and chaired the San Antonio Zoning Commission."}
+  ]
+ },
+ {
+  "donor_id": "0aa440ec-2d01-4685-8753-9a4c243e7b72",
+  "name": "Feik, JJ",
+  "resolved_employer": "Feik Enterprises, LLC",
+  "industry": "Venture Capital",
+  "confidence": "medium",
+  "evidence": "JJ (John) Feik, President of Feik Enterprises, LLC and Principal of T&J Ventures, LLC (both since 2014), self-described in the Venture Capital & Private Equity industry; former Sr. Director of Business Development at DPT Laboratories. Member of the prominent San Antonio Feik family (John W. Feik of DFB Pharmaceuticals; the family endowed UIW's Feik School of Pharmacy). 'Self-employed' donor record matches his running the family enterprise. Alamo Heights (78209).",
+  "source_url": "https://contactout.com/JJ-Feik-3840960",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a835c4b-f64a-4b94-adda-7b8bd2aba024",
+  "name": "Embrey, Trey",
+  "resolved_employer": "Embrey (Embrey Partners)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Trey Embrey, President & CEO of Embrey / Embrey Partners (named CEO 2017), a major San Antonio-based multifamily real-estate developer; inducted into the San Antonio Business Hall of Fame (2022). Identity confirmed by firm bio, occupation, and 78209 address. Also gave to San Antonio SAFE PAC (4/3/2023) and to Mayor Ron Nirenberg (2022) per city campaign-finance filings.",
+  "source_url": "https://www.embrey.com/team/trey-embrey/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Embrey Partners, Ltd.", "role": "President & CEO; firm registered as a City of San Antonio lobbying client", "category": "business", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx?ClientLink=Embrey+Partners%2C+Ltd.", "snippet": "Embrey Partners, Ltd. appears as a registered client in the City of San Antonio municipal lobbyist system; Trey Embrey heads the firm. (Note: he himself is not a registered TX state lobbyist.)"}
+  ]
+ },
+ {
+  "donor_id": "0879e6ae-002b-44ae-8706-8a03b4a99be5",
+  "name": "de la Garza, Reyna",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as a homemaker at 130 Terrell Rd, San Antonio 78209 (Terrell Hills/Alamo Heights area); donor record notes 63 federal contributions with a strongly Democratic lean (provided metric, not independently citable). Could not corroborate her specific identity, spouse, or any documented household/lobbyist/PAC ties in public records despite FEC, lobbyist, and web searches. A quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "075d8e92-c3c0-4133-9214-0164bd3ab808",
+  "name": "Orozco, Eduardo",
+  "resolved_employer": "ISI City Smart Lights / ISI Automation Int'l, Inc.",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Eduardo Orozco, owner/President of ISI Automation Int'l, Inc. and founder of ISI City Smart Lights (San Antonio, 78216/78205), a smart-lighting and building-automation technology vendor (AI-driven lighting control, security/AV). The firm has done downtown/Alamodome lighting work, making it a plausible city vendor/contractor. Identity confirmed via company pages and LinkedIn. No pro-Israel/Palestine, oil/gas, gun, or defense affiliations found.",
+  "source_url": "https://citysmartlights.org/about.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0692b3dc-b2ba-4937-8506-c412550c1d6c",
+  "name": "Kaur, Ajooni",
+  "resolved_employer": "Student/N/A",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Self-reported student in Ashton, MD (zip 20861), a DC-suburb near the University of Maryland. Shares the surname Kaur with the candidate and gives from out of state, consistent with a personal/family relation, but no public record confirms identity or any relationship. No uniquely-matching public profile found.",
+  "source_url": "https://ugst.umd.edu/ugstdeanslist-spring24.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0663197b-534b-4c0d-87f2-01afd752f442",
+  "name": "Macon, Larry",
+  "resolved_employer": "Akin Gump Strauss Hauer & Feld (retired)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "R. Laurence 'Larry' Macon, longtime San Antonio attorney (Akin Gump Strauss Hauer & Feld; earlier Cox Smith Matthews) and multiple-time Guinness World Record holder for most marathons run in a year. San Antonio 78212 PO box and 'retired' occupation match the well-documented BigLaw partner now retired from active practice.",
+  "source_url": "https://alcalde.texasexes.org/2013/01/larry-macon-just-wont-stop-running",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "064ed4f4-809f-41e0-b04a-07b441a24ef0",
+  "name": "Dickson, Zach",
+  "resolved_employer": "Jaeger FC",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Zach Dickson is Creative Director at Jaeger FC, a downtown San Antonio consultancy (public affairs/government relations, PR/marketing, entertainment) co-founded by actor Ricardo Chavira and public-affairs veteran Gabe Farias. His 303 El Paso St, 78207 address is consistent with the firm's downtown location; donor fields (occupation 'Jaeger FC' / employer 'Creative Director') are swapped as noted.",
+  "source_url": "https://www.sahcc.org/member-news-san-antonio-based-actor-ricardo-chavira-and-public-affairs-professional-gabe-farias-launch-jaeger-fc-a-consultancy-firm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "043dbe81-92be-4b55-8f1f-970fb6403747",
+  "name": "Kothman, Jeffrey",
+  "resolved_employer": "Texas Towing",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Jeff/Jeffrey Kothman is President/Owner of Texas Towing (also VP of Texas Towing South) in the San Antonio/Adkins, TX area, with 15+ years in the towing/trucking industry; also linked to Jkoth Properties LLC and formerly Alanis Towing Corp. Address 326 Big Oak Dr, Adkins TX matches (listed zip 79101 is a likely data error for the Adkins/78101 area).",
+  "source_url": "https://www.zoominfo.com/p/Jeffrey-Kothman/2370555194",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "040ab07b-2c2e-4922-ba09-e54cc34d8d71",
+  "name": "Manuelle, Mark",
+  "resolved_employer": "Brass Monkey",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Mark Manuelle is the owner of Brass Monkey, a bar/nightclub (est. 2012) at 2702 N St Mary's St on San Antonio's St. Mary's Strip, matching the donor's self-reported employer and 78212 address. Local coverage (San Antonio Current / The Paisano) identifies him as the venue's owner and decision-maker on programming.",
+  "source_url": "https://paisano-online.com/11397/arts-life/jimmy-eat-wednesday/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "31929444-25c8-401b-a18a-6d8b0dca03fc",
+  "name": "Cabanilla, Laura",
+  "resolved_employer": "USAA",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Laura Cabanilla is Corporate Impact / Corporate Responsibility (DEI) Director at USAA (financial services, San Antonio); St. Mary's University + UTSA grad, prior community-relations roles at Wells Fargo and the Women's Sports Foundation. She also helped establish LJC Painting, a woman/minority-owned SA painting company, with her sister — explaining the 'Construction/LJC Painting' occupation tags. Identity matches SA/78230 area.",
+  "source_url": "https://www.stmarytx.edu/2023/usaa-alumna/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "LJC Painting", "role": "Co-founder / owner (with sister)", "category": "business", "source_url": "https://ljcpainting.com/about/", "snippet": "Woman- and minority-owned San Antonio commercial/residential painting company Cabanilla helped establish; accounts for her 'construction' employer tag. No policy-advocacy role."}
+  ]
+ },
+ {
+  "donor_id": "bbf62352-2067-4fd6-887c-5ff689fd6eda",
+  "name": "Castillo, Lori",
+  "resolved_employer": "NatureSweet (NS Brands)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Lori Castillo, MBA, is VP of Marketing/Communications at NatureSweet, the San Antonio branded greenhouse-tomato/produce company (consumer packaged goods). Prior roles at Procter & Gamble (CoverGirl) and JPMorgan Chase; Ohio State MBA, Texas A&M BA. Clear identity match. Industry-label note: NatureSweet is a produce grower/CPG brand; 'Retail'/consumer-goods is the closest taxonomy fit.",
+  "source_url": "https://sawoman.com/2024/05/lori-castillo/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Public Radio", "role": "Board of Directors, Chair (appointed Jan 2023)", "category": "civic", "source_url": "https://naturesweet.com/naturesweet-vice-president-texas-public-radio/", "snippet": "Appointed to chair the statewide nonprofit public-radio board; documented civic leadership role."}
+  ]
+ },
+ {
+  "donor_id": "926592f7-f4cf-4071-af54-8ad47dc7d071",
+  "name": "GONZALEZ, SONIA",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Sonia Araceli Gonzalez is a Capital Partner at Linebarger Goggan Blair & Sampson (major TX government-debt/tax-collection law firm holding municipal contracts, incl. San Antonio/Bexar County). JD Thurgood Marshall 2001; manages Bexar County-area governmental clients. State Bar of Texas confirmed. No personal lobbyist registration surfaced in TX Ethics Commission searches, though her firm has a heavy municipal-contract/lobbying presence.",
+  "source_url": "https://www.lgbs.com/attorney/sonia-a-gonzalez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "South Texas Business Partnership (formerly South San Antonio Chamber of Commerce)", "role": "Board of Directors; Governmental Affairs Committee member", "category": "civic", "source_url": "https://www.lgbs.com/attorney/sonia-a-gonzalez/", "snippet": "Serves on the SoTx board and its Governmental Affairs Committee per her firm bio; documented business/civic governmental-affairs role."}
+  ]
+ },
+ {
+  "donor_id": "37c492a0-94f0-45fb-9cd2-fd15c6376542",
+  "name": "Sutterfield, Kristi",
+  "resolved_employer": "Greater San Antonio Builders Association (GSABA)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Kristi Sutterfield is Executive Vice President (CEO function) of GSABA, a homebuilder trade association representing ~750 member companies across 22 counties that actively lobbies on housing fees/regulations. Prior: Exec Director of Texas Association of Builders and Greater Fort Worth Builders Association. Historically a TX-registered lobbyist (TEC ID 00052556, appears in 2006 & 2008 lobby lists). Industry = Nonprofit/Advocacy (trade association) with homebuilder/real-estate-development interest.",
+  "source_url": "https://sawoman.com/2023/05/kristi-sutterfield-building-success-through-relationships-passion-and-drive/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Greater San Antonio Builders Association (GSABA)", "role": "Executive Vice President (chief staff executive)", "category": "business", "source_url": "https://www.sabuilders.com/gsaba-staff/", "snippet": "Leads homebuilder trade association with an active Government Affairs program advocating at San Antonio City Hall on development fees/regulation; Sutterfield historically registered as a TX lobbyist (TEC ID 00052556)."}
+  ]
+ },
+ {
+  "donor_id": "ac22ed5b-8baf-4ac4-897d-77a3523216e3",
+  "name": "Singh, Jasleen",
+  "resolved_employer": "Altair Law, LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Jasleen Singh is an associate/trial attorney at Altair Law, a San Francisco plaintiffs' personal-injury firm; JD Thomas R. Kline School of Law (Drexel) 2014, admitted in CA and NJ. Out-of-state (SF 94105) donor, fec_count 0. First-gen South Asian American attorney active in professional/community bar organizations.",
+  "source_url": "https://altairlaw.com/jasleen-singh",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "South Asian Bar Association of Northern California (SABA-NC)", "role": "Board of Directors", "category": "civic", "source_url": "https://www.southasianbar.org/board-of-directors", "snippet": "Serves on SABA-NC board; also formerly involved with Sikh American Legal Defense and Education Fund (SALDEF) and co-founded SALUTE. Professional/community civic roles, no partisan-issue PAC ties found."}
+  ]
+ },
+ {
+  "donor_id": "928f70ba-e80d-4701-b728-ee22fc4ef8f4",
+  "name": "Nakpodia, Shokare",
+  "resolved_employer": "The Mighty Group / DreamVoice",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Well-known San Antonio creative entrepreneur; Lagos-born founder of The Mighty Group advertising/marketing agency (est. SA 2002), plus offshoot DreamVoice LLC (2011) which produces Maverick Music Festival, and founder of the DreamWeek diversity/civic summit. Lives at 2406 MLK Dr, 78203, matching donor record.",
+  "source_url": "https://sawoman.com/2025/01/guy-to-know-shokare-nakpodia/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "DreamWeek San Antonio", "role": "Founder", "category": "civic", "source_url": "https://dreamweek.org/tag/shokare-nakpodia/", "snippet": "Founder of DreamWeek, a civic-dialogue summit celebrating diversity that hosts community events on topics including gun control, abortion rights, civic engagement, and immigration."}
+  ]
+ },
+ {
+  "donor_id": "7404632f-def3-4f92-9e07-1061395341a4",
+  "name": "Varney, William",
+  "resolved_employer": "URBANherbal",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Founder/owner of URBANherbal, an herbal apothecary/retail shop at 137 E Woodlawn Ave in the Monte Vista neighborhood of San Antonio (matches donor record); former owner of Fredericksburg Herb Farm (sold 2007); botanist, chef, and author of 'The Urban Herbal'. Data shows 147 federal donations strongly Democratic-leaning, but no specific ideological PAC could be confirmed in public search.",
+  "source_url": "https://www.urbanherbal.com/aboutwilliamvarney/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5cbc2e13-8d54-4463-9ccf-de747bff4784",
+  "name": "Sood, Priti",
+  "resolved_employer": "Kaiser Permanente",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Priti Kaur Sood is a cardiologist at Kaiser Permanente in Maryland/Washington DC; MD from University of Maryland Baltimore (2001), Harvard MPH. Out-of-state donor (Ellicott City, MD 21042). Gubernatorial appointee to the Maryland Board of Physicians. Shares the Sikh surname Kaur with the candidate.",
+  "source_url": "https://www.operationinternational.org/team-members/priti-kaur-sood",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Maryland Board of Physicians", "role": "Member (gubernatorial appointee)", "category": "civic", "source_url": "https://www.operationinternational.org/team-members/priti-kaur-sood", "snippet": "Nominated by the governor of Maryland to serve on the Maryland Board of Physicians (state medical licensing/regulatory board)."}
+  ]
+ },
+ {
+  "donor_id": "58c5a2ae-1cc9-48f5-b39a-db97b8482ebf",
+  "name": "Parra, Eduardo",
+  "resolved_employer": "Parra & Co",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Eduardo J. Parra, PE, is co-founder/CEO of Parra & Co, a family-owned civil engineering firm (downtown SA, Rand Building; TX Board of Professional Engineers firm F-17744) doing municipal site-civil, drainage, stormwater and utility work. Served ~6 years on the SAWS Board of Trustees (Secretary), concluding Dec 2024. Lives at 28 Grantham Glen, 78257, matching donor record.",
+  "source_url": "https://www.parracompany.com/team/eduardo-parra/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Water System (SAWS) Board of Trustees", "role": "Trustee / Secretary (2018-2024)", "category": "political", "source_url": "https://www.saws.org/parra-wraps-up-six-successful-years-on-saws-board/", "snippet": "Wrapped up six years on the SAWS Board of Trustees as Secretary in Dec 2024 — a former city water-utility board member (relevant given his firm's municipal engineering work and donation to a sitting councilmember)."},
+   {"org": "OPERA San Antonio", "role": "Chairman", "category": "civic", "source_url": "https://www.ushcc.com/eduardo-parra/", "snippet": "Serves as Chairman of OPERA San Antonio and advisor to the Brackenridge Park Conservancy board."}
+  ]
+ },
+ {
+  "donor_id": "48cbac81-efad-4ce5-bdea-2b14096e564d",
+  "name": "Whitmire, Tyler",
+  "resolved_employer": "City Fund (donor 'CFA' = California Charter Schools Association, prior role)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Tyler Whitmire is a Partner at City Fund (education-reform philanthropy/advocacy), based in Sacramento CA (matches donor record). The donor employer 'CFA' resolves to the California Charter Schools Association, where she founded the community-organizing wing. Brown University grad, ~20 years in education-policy advocacy and organizing. Her seat on the board of Futuro San Antonio corroborates the San Antonio-race donation.",
+  "source_url": "https://city-fund.org/about-us/our-team/tyler-whitmire/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "California Charter Schools Association", "role": "Founder of community-organizing wing", "category": "political", "source_url": "https://city-fund.org/about-us/our-team/tyler-whitmire/", "snippet": "Founded the community-organizing division of the California Charter Schools Association, transforming it into 'a powerful political force at both the state and local levels' — charter-school/education-reform advocacy."},
+   {"org": "Futuro San Antonio", "role": "Board member", "category": "civic", "source_url": "https://city-fund.org/about-us/our-team/tyler-whitmire/", "snippet": "Serves on the boards of Futuro San Antonio, AZ Leads, and Charter Schools Now."}
+  ]
+ }
+]

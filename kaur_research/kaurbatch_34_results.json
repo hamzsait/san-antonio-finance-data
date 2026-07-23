@@ -1,0 +1,240 @@
+[
+ {
+  "donor_id": "4050d708-0aaa-47c5-9c7a-fa1fd99d04bc",
+  "name": "Gill, Monique",
+  "resolved_employer": "Research Scientist at Providence Center for Outcomes Research and Education (CORE), Portland OR",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "PhD (UCLA) research scientist at Providence CORE studying health equity/social determinants; LinkedIn, TheOrg, and Providence blog all confirm Portland location, Research Scientist title, and Providence employer matching the donor record.",
+  "source_url": "https://blog.providence.org/center-for-outcomes-research-education/how-healthcare-experiences-impact-preventative-mammography-an-interview-with-cores-monique-gill",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3bf0e3e0-24b0-493b-844f-fa8e1e1ef1c1",
+  "name": "Rau, Seth",
+  "resolved_employer": "Senior Advisor to the CEO, Chicago Public Schools; formerly Director of Legislative & Strategic Partnerships at San Antonio ISD",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Education-policy/government-affairs professional (Tufts BS); currently Senior Advisor to the CPS CEO. Prior role as SAISD's legislative director (2017-2021) explains the San Antonio ties and repeat Kaur giving; matches Chicago 60607 and 'Senior Advisor to the CEO' occupation.",
+  "source_url": "https://www.linkedin.com/in/sethrau/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio ISD", "role": "Director of Legislative & Strategic Partnerships (education advocacy)", "category": "civic", "source_url": "https://www.texaspolicy.com/wp-content/uploads/2019/03/Seth-Rau-bio-and-headshot.pdf", "snippet": "Led advocacy for passage of SB 1882 and HB 1081; worked with state/federal legislators and education advocates on behalf of SAISD."}
+  ]
+ },
+ {
+  "donor_id": "3bebf391-2936-4903-b644-36125cf46d52",
+  "name": "Rosenauer, Lea",
+  "resolved_employer": "President & CEO, Girls Inc. of San Antonio (nonprofit)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Longtime nonprofit executive (20+ yrs; prior Project MEND, Girl Scouts, National MS Society), CEO of Girls Inc. of San Antonio since 2014; exact name, title, and San Antonio location match the donor record.",
+  "source_url": "https://www.girlsincsa.org/who-we-are/our-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Girls Inc. of San Antonio", "role": "President & CEO", "category": "civic", "source_url": "https://theorg.com/org/girls-inc-of-san-antonio/org-chart/lea-rosenauer", "snippet": "President & CEO of Girls Inc. of San Antonio, a girl-empowerment nonprofit; named 2018 Nonprofit Senior Manager of the Year by SA Business Journal. Not a registered TX/SA lobbyist."}
+  ]
+ },
+ {
+  "donor_id": "38bf0b58-ef44-45ae-ace6-cd6cffb26c64",
+  "name": "Hull, Melody",
+  "resolved_employer": "Retired (former career not identifiable in public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retiree at 324 W Rosewood Ave in the Alta Vista/Monte Vista area of San Antonio 78212; no matching public profile, obituary, bio, FEC ideological-PAC record, or TX/SA lobbyist registration found (the TEC 'Sherri M. Hull' lobbyist entry is a different person).",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "30342459-18ad-4f85-8151-49480d1ad2dc",
+  "name": "M, Amar",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-employed ('IC') in Chicago's West Loop (60661); only a single-letter last name 'M' is recorded, making identity impossible to confirm. No public profile, FEC ideological-PAC record, or lobbyist registration could be corroborated.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2ff93b18-339c-4ae2-bc32-cf6e00e1e7d7",
+  "name": "Miele, Alexandra",
+  "resolved_employer": "Colorado Concern (Chief of Staff)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Alexandra R. Miele is Chief of Staff at Colorado Concern, a Denver business/economic-policy advocacy coalition. Born and raised in San Antonio, UTSA MBA/BA (corroborates the SA-race donation); prior Policy Advisor at The Office of Charles Butt (HEB philanthropy). Employer, occupation, and CO 80216 address all match the firm's HQ at 2950 Brighton Blvd.",
+  "source_url": "https://www.coloradoconcern.com/team/alexandra",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Colorado Concern", "role": "Chief of Staff", "category": "business", "source_url": "https://www.coloradoconcern.com/team/alexandra", "snippet": "Chief of Staff at Colorado Concern; 'accomplished policy and political affairs professional... influencing legislative outcomes.'"},
+   {"org": "The Office of Charles Butt", "role": "Policy Advisor (former)", "category": "civic", "source_url": "https://www.coloradoconcern.com/team/alexandra", "snippet": "Previously served as a Policy Advisor at The Office of Charles Butt, aligning philanthropy with policy."}
+  ]
+ },
+ {
+  "donor_id": "2d813103-5a68-4e4a-b4f2-d23b9a8ee34d",
+  "name": "Ortega, Lisa",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm the specific Lisa Ortega at 1624 El Monte Blvd, 78201 (occupation listed 'n/a'; no public profile). FEC pattern (86 donations, 0.88 Dem lean) indicates a prolific small-dollar Democratic/ActBlue-style donor, but no individual record could be matched to this exact person, so no industry assigned.",
+  "source_url": "https://www.opensecrets.org/donor-lookup",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2d626784-00b7-4c4c-bcc4-fa8def502e33",
+  "name": "S., Trey",
+  "resolved_employer": "Self-reported lawyer (employer listed 'Gauntlet'); unconfirmed",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor lists occupation 'Gauntlet' / employer 'Lawyer' (fields appear swapped). 8150 West Hausman Rd, 78249 is the Farm Haus luxury apartment complex (a residence, not a firm). With only first name 'Trey' and last initial 'S.', the specific individual and the 'Gauntlet' employer could not be confirmed, so no industry assigned despite the self-reported lawyer occupation.",
+  "source_url": "https://www.yelp.com/biz/farm-haus-luxury-rental-homes-san-antonio-2",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2caa5dd6-646b-44ed-806e-1ba845ffe86c",
+  "name": "Williams, Joann",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, 18619 Surreywood, 78258. 'Joann Williams' is a very common name with no distinguishing public profile; former career could not be identified, so no industry assigned. No FEC ideological-PAC records or TX/San Antonio lobbyist registration could be tied to this specific person.",
+  "source_url": "https://www.opensecrets.org/donor-lookup",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2b6e7d86-e65b-487b-9d50-145b15e78a56",
+  "name": "McLornan, Sarah",
+  "resolved_employer": "Retired; civic board member (Carver Development Board) (retired)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Sarah Magill McLornan, 115 Paloma Dr, 78212 (retired), wife of prosthodontist Dr. Paul McLornan. Director of the Carver Development Board (nonprofit funding the Carver Community Cultural Center) and served on the City of San Antonio Tricentennial Commission. Address/zip and retired status corroborate identity; prolific Democratic donor (178 FEC gifts, 1.0 lean) but no specific ideological PAC (pro-Israel/Palestine/gun/oil) record found.",
+  "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/sarah-magill-mclornan/139500814.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "The Carver Development Board", "role": "Director / board member", "category": "civic", "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/sarah-magill-mclornan/139500814.aspx", "snippet": "Sarah McLornan listed as Director for The Carver Development Board (501c3 supporting the Carver Community Cultural Center)."},
+   {"org": "City of San Antonio Tricentennial Commission", "role": "Member", "category": "civic", "source_url": "https://www.guidestar.org/profile/74-2480343", "snippet": "Sarah M. McLornan, Carver Development Board member, affiliated with the Tricentennial Commission of the City of San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "2abc0aab-6bec-47d5-8deb-eae3b938a9f0",
+  "name": "Bartlett, Jennifer",
+  "resolved_employer": "Trinity University (part-time/adjunct English faculty, First Year Experience program)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Adjunct English instructor in Trinity University's First Year Experience program; taught the publishing class that founded the 'High Noon' student literary journal. Zip 78212 is the Trinity campus area, matching occupation 'Trinity University'/'Faculty'.",
+  "source_url": "https://www.trinity.edu/directory/jbartlet",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "299d4816-960d-4270-9a7e-62ccbc37f824",
+  "name": "CUELLAR, RICK",
+  "resolved_employer": "One Track Vision LLC (founder/CEO; Latino-culture film & media production)",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Founder/CEO of One Track Vision LLC in San Antonio (zip 78212 matches address); runs Fiesta SATX Film Festival, Latinhearts Walk of Fame and the Lift Latinhearts Production Fund (501c3). Prior FEC record lists him as 'One Track Vision / Producer' in 78212 giving to ActBlue, corroborating identity.",
+  "source_url": "https://rocketreach.co/rick-cuellar-email_4801783",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio Arts Commission", "role": "Former Commissioner (appointed by City Council, ~4 years)", "category": "civic", "source_url": "https://rocketreach.co/rick-cuellar-email_4801783", "snippet": "Former member of the City of San Antonio Arts Commission appointed by city council, where he served for four years."},
+   {"org": "Lift Latinhearts Production Fund (501c3)", "role": "Founder", "category": "civic", "source_url": "https://rocketreach.co/rick-cuellar-email_4801783", "snippet": "Founder of the Lift Latinhearts Production Fund, a 501c3 nonprofit elevating contributions of Americans of Latino descent."}
+  ]
+ },
+ {
+  "donor_id": "27efb9ae-072b-4771-9ff3-0e75dfe34483",
+  "name": "Maresch, Justin",
+  "resolved_employer": "Eternal Eden Landscape & Design (landscape design specialist)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Eternal Eden is a San Antonio residential/commercial landscape design & installation company; its site references a designer 'Justin' knowledgeable in landscaping enhancements, drainage and native-plant water conservation, matching the donor's occupation/employer. No independent individual profile beyond the firm's mentions.",
+  "source_url": "http://eternaledentx.com/san-antonio-tx/landscape-design/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "27656bf1-fdac-4423-a68a-dd78bbf82903",
+  "name": "Brake, P Joseph",
+  "resolved_employer": "Retired (former career not identifiable in public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public-records listing shows a Joe P (Paul J) Brake in San Antonio zip 78216, consistent with the donor address, but no employment/career history or bio could be confirmed, so no industry assigned.",
+  "source_url": "https://www.spokeo.com/Joe-Brake/Texas/San-Antonio/p2018021023048696312151698729305",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "20002e75-af5c-400b-80d3-084868679725",
+  "name": "Aneja, Harvinder",
+  "resolved_employer": "Bank of America (teller)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Public-records listing confirms a Harvinder Aneja in Silver Spring, MD, matching the donor's out-of-state address; occupation (Bank of America teller) is from the donation record. An out-of-Texas small donor to the Kaur race.",
+  "source_url": "https://radaris.com/p/Harvinder/Aneja/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1f90140c-a59e-42eb-b2a6-046e934d2c14",
+  "name": "Lebus, Sherry",
+  "resolved_employer": "Retired (former career not identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public records place a Sherry Lebus (b. 1944) at 239 Pinewood Ln, San Antonio, matching the donor address; listed as retired. No former occupation, employer, or advocacy affiliation could be confirmed in public records.",
+  "source_url": "https://www.officialusa.com/names/Sherry-Lebus/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "195a62d0-f768-4a15-a19a-af55ea1ebe72",
+  "name": "Lopez, Myca",
+  "resolved_employer": "Promesa Academy Charter School (Special Education Coordinator)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Employer Promesa Academy is a confirmed K-5 charter school at 603 Merida St, San Antonio 78207, with a special-education program; donor listed as Special Education Coordinator. No individual bio/profile for Myca Lopez found; occupation and employer are consistent and verifiable, but the specific person is not independently profiled.",
+  "source_url": "https://www.promesaacademy.org/specialeducation",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1318c651-b24b-4cd8-a6b1-fbbca178d00e",
+  "name": "Jones, Bryant",
+  "resolved_employer": "Education Leaders of Color (EdLoC) — Chief Impact Officer; education strategy/finance consultant (Barus Hall Advising)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Bryant Weinberg Jones resides in Providence, RI (matches zip 02906); career in public-education policy and philanthropy (founding Chief Investment Officer of Boston Schools Fund, Program Officer at Fidelity Foundations, EdLoC Chief Impact Officer). Harvard Kennedy School MPA, Brown MA in Urban Education Policy. EdLoC is a national education-equity advocacy nonprofit.",
+  "source_url": "https://www.pahara.org/fellow/bryant-weinberg-jones",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Education Leaders of Color (EdLoC)", "role": "Chief Impact Officer", "category": "civic", "source_url": "https://www.pahara.org/fellow/bryant-weinberg-jones", "snippet": "Leadership roles supporting high-performing school growth and statewide education policy; national education-equity advocacy organization."},
+   {"org": "Boston Preparatory Charter School / Montessori Community School of RI / Onward", "role": "Board member", "category": "civic", "source_url": "https://www.pahara.org/fellow/bryant-weinberg-jones", "snippet": "Board service listed in Pahara fellow bio (education-focused governance boards)."}
+  ]
+ },
+ {
+  "donor_id": "10fae5c9-fd84-4e7c-bc49-d55d46939345",
+  "name": "Wurzburg, Jeff",
+  "resolved_employer": "Norton Rose Fulbright US LLP (Partner, healthcare regulatory attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Jeff Wurzburg is a Partner (promoted 2025) at Norton Rose Fulbright in San Antonio/DC, a healthcare regulatory/litigation lawyer; former attorney at HHS Office of General Counsel and DoD, and earlier worked for Sen. Evan Bayh and Rep. Henry Waxman. SA Business Journal 40 Under 40. No pro-Israel/Palestine, gun, oil-gas, or defense-PAC affiliation and no TX/SA lobbyist registration found in public records.",
+  "source_url": "https://www.nortonrosefulbright.com/en-us/people/1016686",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "State Bar of Texas, Health Law Section Council", "role": "Chair-Elect (2025-2026)", "category": "civic", "source_url": "https://www.nortonrosefulbright.com/en-us/people/1016686", "snippet": "Chair-Elect of the State Bar of Texas Health Law Section Council; leadership roles in American Health Law Association and ABA Health Law Section."}
+  ]
+ },
+ {
+  "donor_id": "0ff298ff-3c69-4b2e-9901-eeb0f9da004a",
+  "name": "Pena, Greg",
+  "resolved_employer": "Naturaleza Celestial (co-owner; gift/specialty store, Historic Market Square)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Greg Pena is listed on LinkedIn as Co-Owner of Naturaleza Celestial, a gift/specialty store at 514 W Commerce St, San Antonio 78207 (Historic Market Square), matching the donor's employer and address. No advocacy/PAC or lobbyist affiliations found.",
+  "source_url": "https://onsanantonio.com/directory/naturaleza-celestial-san-antonio-tx-90274/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

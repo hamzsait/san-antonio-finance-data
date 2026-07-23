@@ -1,0 +1,234 @@
+[
+  {
+    "donor_id": "c2ab03f5-4392-49a8-97d1-4e294b7cdd08",
+    "name": "Farias, Joey",
+    "resolved_employer": "Get Fit SATX (fitness trainer)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donation filing lists occupation 'Fitness Trainer' at Get Fit SATX, a small San Antonio training business (owner of record is Athena Farias). Multiple unrelated 'Joey Farias' exist in San Antonio (a plumber, a pro pickleball player); could not confirm which individual, and fitness training does not map cleanly to the taxonomy.",
+    "source_url": "https://www.linkedin.com/in/athena-farias-983b5722/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c140ae11-b999-4a0f-8d20-2489172bd810",
+    "name": "Leddy, Charles",
+    "resolved_employer": "Presidian Hospitality / Presidian Hotels and Resorts (owner & CEO)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Charles Leddy is owner/CEO of Presidian Hospitality, a San Antonio-based hotel investment and management company (13 Hilton/Marriott/Hyatt/IHG/boutique hotels), formerly at McKinsey and Starbucks; Darden MBA. Matches employer string and San Antonio location.",
+    "source_url": "https://www.presidian.com/team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c0dce262-f5ee-403b-8294-de84c89d4ab4",
+    "name": "Chan, Weiting",
+    "resolved_employer": "retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Self-reported retired; address given as Richmond, TX (record has a zip/city inconsistency: field zip 19418 vs listed 77047 vs Richmond). No public profile or former career could be confirmed for this specific person; common name.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c0a4145c-2edf-4838-bea0-6a821b762e35",
+    "name": "Capoor, Abhinav",
+    "resolved_employer": "Namakor Holdings (Partner/Principal, private equity)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Abhinav Capoor is a Partner/Principal at Namakor Holdings, a private-equity firm making manufacturing/industrial investments; previously Sunsar Capital Management, Wipro Consulting, Raymond James; BBA Symbiosis, MS Brown. Unique name + 'Namakor' + Principal title match filing.",
+    "source_url": "https://namakorholdings.com/team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bf137c1c-c675-461b-bd38-e6d680dfacee",
+    "name": "Reddy, Krishna",
+    "resolved_employer": "Meritz Reddy Law (Meritz | Reddy, PLLC) - attorney/founding partner, litigation & mediation",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Krishna Reddy is a founding partner and personal-injury litigator/mediator at Meritz | Reddy, PLLC in San Antonio (office 78209; residence 78231); UT Austin and St. Mary's Law; licensed in TX and federal district courts. Matches 'Meritz reddy' / Attorney filing.",
+    "source_url": "https://mrlawtx.com/krishna-reddy/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bee87aed-c559-4868-824b-00ac243c95f3",
+    "name": "Biffle, Kim",
+    "resolved_employer": "Owner, Biffle Event Productions LLC (event production/management); also Chief Experience Officer at the Witte Museum and former CEO of Alamo Angels",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Kimberly Biffle owns Biffle Event Productions LLC at 300 East Basse Rd #1110, San Antonio 78209 (matches donor address); an event-management firm serving nonprofit fundraisers and corporate events. Also a longtime Witte Museum external-affairs executive.",
+    "source_url": "https://www.linkedin.com/in/kim-biffle-a0152521/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "becf812b-69b5-47f7-83ee-3d4c77181793",
+    "name": "Biedenharn, Charlie",
+    "resolved_employer": "Co-owner/manager, Bakery Lorraine; owner of JAC Bakery LLC, San Antonio",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Charlie Biedenharn co-founded and co-owns Bakery Lorraine (with pastry chefs Jeremy Mandrell and Anne Ng); JAC Bakery LLC is his San Antonio bakery entity in the 78209 area, consistent with the donor's business-owner/bakery occupation.",
+    "source_url": "https://www.linkedin.com/in/charlie-biedenharn-0b97b055/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bde63951-1745-4763-ba84-2a5ff58463c0",
+    "name": "Whitacre, Edward",
+    "resolved_employer": "Retired Chairman/CEO of AT&T (formerly Southwestern Bell/SBC) and former Chairman/CEO of General Motors (retired)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Edward E. 'Ed' Whitacre Jr., nationally prominent SA telecom/auto executive; corporate records list him as manager of Edli, LLC at 155 Bushnell Ave, San Antonio 78212 (matches donor address). Longtime Republican donor/fundraiser.",
+    "source_url": "https://en.wikipedia.org/wiki/Edward_Whitacre_Jr.",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "ExxonMobil", "role": "Former board member", "category": "oil_gas", "source_url": "https://www.sacurrent.com/news/former-mansion-of-ed-whitacre-ex-ceo-of-atandt-and-general-motors-hits-the-market-in-san-antonio-37266125/", "snippet": "He held leadership positions including president of Boy Scouts of America and as a board member of ExxonMobil."},
+      {"org": "Republican Party (fundraising)", "role": "Donor / fundraiser (hosted political fundraising events)", "category": "political", "source_url": "https://www.sacurrent.com/news/former-mansion-of-ed-whitacre-ex-ceo-of-atandt-and-general-motors-hits-the-market-in-san-antonio-37266125/", "snippet": "The Mediterranean-style mansion where he hosted political fundraising events... Whitacre is identified publicly as a Republican and 'veteran Republican fundraiser.'"}
+    ]
+  },
+  {
+    "donor_id": "bd4a4aa0-d879-4cfb-b15a-32eac83ca2f5",
+    "name": "Feik, John",
+    "resolved_employer": "President/COO, DFB Pharmaceuticals (and DPT Laboratories, Healthpoint Biotherapeutics); principal of Feik Enterprises LLC",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "John W. Feik is a San Antonio pharmaceutical executive (DFB Pharmaceuticals) and philanthropist (Feik School of Pharmacy at UIW; John & Rita Feik Foundation); business addresses tie to 78209, matching donor. Serves on biotech boards (StemBioSys, ExThera Medical).",
+    "source_url": "https://www.stembiosys.com/johnfeik",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Canseco for Congress (Republican)", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/10/elec-SAN-ANTONIO-TX-10-part6.html", "snippet": "John W. Feik, President of DFB Pharmaceuticals (78209), contributed $500 (05/04/2010) and $1,000 (06/28/2010) to Canseco for Congress."}
+    ]
+  },
+  {
+    "donor_id": "bd34fcbb-7663-4017-9aef-47b88d3296f1",
+    "name": "Aneja, Jaspreet",
+    "resolved_employer": "Partner / Chief Operating Officer, Roshni Foods Ltd (Indian food products/spices & condiments company), Fulton, MD",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Jaspreet Aneja is listed as COO/partner of Roshni Foods, a consumer food-products (spices/condiments) company; donor address 11518 Iager Blvd, Fulton, MD 20759 aligns with Roshni Foods' Maryland base. No public political/advocacy record found.",
+    "source_url": "https://www.linkedin.com/in/jaspreet-aneja-6717792a8/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bb668ff7-6844-46c9-993e-4be3c906bdac",
+    "name": "Kaur, Sunit",
+    "resolved_employer": "Banjaras, Inc. — South Asian refrigerated/dry-goods wholesale distributor, Sugar Land TX (President/owner)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "CorporationWiki lists Sunit Kaur as President of Banjaras, Inc., a South Asian wholesale food distribution company est. 2002 serving TX/LA/AR/OK. Zip 77479 is Sugar Land (record's 'Houston' label is the metro). Shares surname with candidate but no documented relationship.",
+    "source_url": "https://www.corporationwiki.com/Texas/Houston/sunit-kaur/38242340.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b80a275f-fe76-4302-8c5f-4247ff3dc3fb",
+    "name": "Garza, Ray",
+    "resolved_employer": "On Par Golf (founder/owner), golf instruction; PGA coach; former Harlandale ISD golf coach",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Ray Garza Jr., San Antonio native, Texas Lutheran golf scholarship, founded On Par Golf in 2018 (Mission Del Lago/Cedar Creek/Northern Hills) and the Flamingo Club youth-golf nonprofit; lives near SA in Floresville. Self-employed per record. 44 FEC donations noted but specific recipients not verifiable, so no political affiliation asserted.",
+    "source_url": "https://onpargolf.net/?page_id=99",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The Flamingo Club (501(c)(3))", "role": "Founder", "category": "civic", "source_url": "https://onpargolf.net/?page_id=99", "snippet": "Garza founded the Flamingo Club, a 501(c)(3) nonprofit providing golf equipment and course access to San Antonio youth, awarding over $50,000 to date."}
+    ]
+  },
+  {
+    "donor_id": "b63f1636-8ee2-4491-8798-f9554ddd04bb",
+    "name": "Newman, Steve",
+    "resolved_employer": "Sencha LLC, San Antonio (business owner) — business type unconfirmed",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Sencha LLC is listed as a San Antonio company (D&B), and the record gives occupation 'Sencha llc'/'Business owner' at 78210, but the nature of the business and the specific individual could not be confirmed from public records. Multiple unrelated Steve Newmans exist.",
+    "source_url": "https://www.dnb.com/business-directory/company-profiles.sencha_llc.5546022e9d5fbfd72c4beff165d4e6c8.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b1efaeab-bb3f-4af2-bdc8-522c8fee83da",
+    "name": "Zachry, David",
+    "resolved_employer": "Zachry Corporation / Zachry Group, San Antonio — CEO/President",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "David S. Zachry, P.E., third-generation CEO/President of Zachry Corporation (Zachry Group), the San Antonio construction/engineering dynasty founded 1924 by grandfather H.B. Zachry; Texas A&M civil engineering, UT-Austin MBA, U.S. Army veteran. Matches record's 'President, Zachry Corporation, SA.'",
+    "source_url": "https://engineering.tamu.edu/news/2015/10/zachry-corporation-ceo-david-zachry-elected-artba-chairman.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "American Road & Transportation Builders Association (ARTBA)", "role": "Elected Chairman / executive committee & board", "category": "business", "source_url": "https://engineering.tamu.edu/news/2015/10/zachry-corporation-ceo-david-zachry-elected-artba-chairman.html", "snippet": "Zachry Corporation CEO David Zachry was elected chairman of ARTBA, the national road- and transportation-construction industry association."},
+      {"org": "Southwest Research Institute", "role": "Board of Directors", "category": "civic", "source_url": "https://docs.house.gov/meetings/GO/GO29/20151208/104279/HHRG-114-GO29-Bio-ZachryD-20151208.pdf", "snippet": "Congressional testimony bio lists Zachry on the board of directors for Southwest Research Institute and the Texas A&M Civil Engineering Advisory Council."}
+    ]
+  },
+  {
+    "donor_id": "b0923f80-f7fa-4887-86f1-3729577f0589",
+    "name": "Kowalski, Bekki",
+    "resolved_employer": "The RK Group, San Antonio — Special Project Manager (Kowalski family; hospitality/catering)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Bekki Kowalski is part of the Kowalski family that owns The RK Group, San Antonio's largest catering/hospitality firm (founded 1946); she is a Special Project Manager and wife of President/CEO Greg Kowalski, documented as a family supporter of the Briscoe Western Art Museum.",
+    "source_url": "https://briscoemuseum.org/legacy2024/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ad40dbb3-a192-4279-9a1e-654835c981ae",
+    "name": "Feldmann, Suzanne",
+    "resolved_employer": "CHEF (Culinary Health Education for Families) — founder/CEO; retired Sept 2023; formerly CEO of Goldsbury Foundation (16 yrs)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Suzanne Mead Feldmann, Terrell Hills/78209; 30+ yrs in philanthropy; founder/CEO of San Antonio nutrition nonprofit CHEF, former Goldsbury Foundation CEO, chair of CHRISTUS Children's Hospital Foundation Board. UT-Austin journalism grad.",
+    "source_url": "https://www.chefsa.org/suzanne-mead-feldmann/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "CHRISTUS Children's Hospital Foundation", "role": "Board Chair", "category": "civic", "source_url": "https://www.chefsa.org/suzanne-mead-feldmann/", "snippet": "She serves as the current chair of the CHRISTUS Children's Hospital Foundation Board; previously chaired the $86M capital campaign for The Children's Hospital of San Antonio."}
+    ]
+  },
+  {
+    "donor_id": "ad113ed0-c54e-4d89-bea7-9c2a9c48612c",
+    "name": "Harper, Micah",
+    "resolved_employer": "Exquisite Properties, LLC — Broker/CEO (licensed attorney and real estate broker)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Micah Harper, San Antonio/78204; owner-broker and CEO of Exquisite Properties LLC, described in listings as an attorney/broker; repeatedly named a Texas Monthly Five Star Real Estate Agent. No FEC records (count 0).",
+    "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/micah-harper/gjk6s7zb",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ab7ac681-c929-4bd3-a9c4-b99300f596ac",
+    "name": "Diaz, Reynaldo",
+    "resolved_employer": "Reynaldo Diaz Accident Injury Attorney PC — personal-injury attorney (solo practitioner)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Reynaldo L. Diaz Jr., San Antonio/78212 (308 W Josephine St); solo personal-injury trial lawyer, 35+ yrs, UH Law 1986, TX Bar #165644, Super Lawyers 2021-24. Frequent political donor (150 FEC contribution records) consistent with a plaintiff/trial-lawyer profile, but no specific ideological PAC (AIPAC/J Street/oil-gas/gun) confirmed for him.",
+    "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=165644",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aa4ee29e-ee1d-474e-b4ab-bd8b8237b5fc",
+    "name": "Hoefer, Katy",
+    "resolved_employer": "Motion Industries — inside sales / account representative (industrial parts distributor)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Likely Kaitlyn ('Katy') Hoefer, Account Representative at Motion (Motion Industries), a national industrial-parts/MRO distributor; matches employer and inside-sales occupation. Categorized by employer (B2B sales/distribution); no public profile beyond LinkedIn. No FEC records (count 0).",
+    "source_url": "https://www.linkedin.com/in/kaitlyn-hoefer-402305170",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aa2335fd-4c76-4c45-b75c-9da244bb1a24",
+    "name": "Villanueva, John",
+    "resolved_employer": "Midnight Swim (DJ/cocktail bar, St. Mary's Strip) — operator/part-owner; also DJ/music producer",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "John Michael Villanueva, San Antonio; part-owner/operator of Midnight Swim, a DJ music and cocktail bar on the St. Mary's Strip (bar named after his DJ collective). FEC count of 7 not individually confirmed to him given the common name.",
+    "source_url": "https://www.sacurrent.com/food-drink/midnight-swim-new-digital-music-and-cocktail-bar-opening-on-st-marys-strip-this-weekend-21883936/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

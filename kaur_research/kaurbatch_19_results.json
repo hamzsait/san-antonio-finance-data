@@ -1,0 +1,252 @@
+[
+  {
+    "donor_id": "53558dfd-6e12-4e15-8d67-0d39d83f836b",
+    "name": "Baker, Kirsten",
+    "resolved_employer": "Wound Evolution - Wound Care and Hyperbaric Medicine",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Kirsten Baker, PA-C, is a certified physician assistant at Wound Evolution wound-care clinic in San Antonio; San Antonio native, Mercer PA program grad 2017. Employer name matches 'Would Evolution Clinic' typo and 78216-area practice.",
+    "source_url": "https://www.woundevolution.com/providers/kirsten-baker-pa-c/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "52c995d3-2e80-4167-971c-c6b6854b2353",
+    "name": "Kellum, Kristin",
+    "resolved_employer": "Phyllis Browning Company",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Kristin Kellum is a licensed San Antonio luxury realtor with Phyllis Browning Company (11+ years licensed, SABJ Top Luxury / Platinum Top 50 recognition). Matches given employer and occupation exactly.",
+    "source_url": "https://www.phyllisbrowning.com/realestate/agent/kristin-kellum/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4f8cbf99-b19e-4549-8568-3ffc38528660",
+    "name": "Bell, Seth",
+    "resolved_employer": "Law Office of Seth K. Bell",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Seth K. Bell is a San Antonio attorney (est. 2011, office 7801 Broadway, 78209) practicing estate planning, probate, real estate, and oil & gas transactions; certified mediator, licensed TX real estate agent, Fellow of the Texas Bar Foundation. Oil/gas is a transactional practice area, not a policy affiliation.",
+    "source_url": "https://www.sethkbell.com/attorney-profile/seth-k-bell-esq/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4ebf620d-b1bd-4458-abac-1cabccee4910",
+    "name": "Kinder DeBauche, Katie",
+    "resolved_employer": "Kinder+DeBauche",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Katie Kinder DeBauche, CFRE, is Co-Founder and Principal of Kinder+DeBauche, a nonprofit fundraising/advocacy consulting firm; career built at San Antonio Symphony, Food Bank, Public Library Foundation, Witte Museum; SABJ 2024 40 Under 40. Matches employer and 'Principal' title.",
+    "source_url": "https://www.kinderdebauche.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Mayor's Commission on the Status of Women (San Antonio)",
+        "role": "Appointed commissioner (2015)",
+        "category": "civic",
+        "source_url": "https://www.kinderdebauche.com/",
+        "snippet": "Appointed to the Mayor's Commission on the Status of Women in 2015; firm bio and civic profile document her local civic-institution work."
+      }
+    ]
+  },
+  {
+    "donor_id": "4d7769c0-531f-4fd7-92fd-3f1edccad904",
+    "name": "Vann, Richard",
+    "resolved_employer": "Texas Towing",
+    "industry": "Transportation",
+    "confidence": "high",
+    "evidence": "Towing Manager at Texas Towing, San Antonio (ZoomInfo profile lists Richard Vann, Towing Manager, r***@texastowing.com), matching filing occupation. No PAC or lobbyist records found.",
+    "source_url": "https://www.zoominfo.com/p/Richard-Vann/7438756451",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4bd7c89e-ce92-4bd2-800a-3948713e9967",
+    "name": "Ramos, Fernanda",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported homemaker at 207 E Mulberry Ave, 78212; no public bio, FEC PAC history, or lobbyist registration located. Quiet-outcome donor.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4905d219-a066-446f-80ae-4eed3a5cd43e",
+    "name": "Alavi, Kamil",
+    "resolved_employer": "GrayStreet Partners",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Partner at GrayStreet Partners (San Antonio real-estate/energy private investment firm); prior Societe Generale M&A group, AB Math/Econ from University of Chicago. Confirmed via GRI Club and Equilar profiles. No board/advocacy or PAC records surfaced.",
+    "source_url": "https://www.griclub.org/member-profile/real-estate/usa/kamil-alavi_6376",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4629fcda-3d3b-40d8-9ae5-3ed940351461",
+    "name": "Lopez, Sarah",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not uniquely resolve; 'Sarah Lopez' at 78201 returns hundreds of statewide name matches and no distinguishing occupation. Source record flags a federal-donation history (donation_count 36, partisan_lean ~0.95) but FEC individual records were inaccessible during research, so no org-level affiliation could be corroborated.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "45131cad-af6e-4ee6-9bbe-6eb7bb1499c4",
+    "name": "ESSEX, PHILLIP",
+    "resolved_employer": "Essex Properties",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Phil Essex is a third-generation licensed real estate broker and owner of Essex Properties, a San Antonio brokerage/advisory firm (also Texas Rural Capital, GetSomeLand.com); Platinum Top 50 Realtor 2017-18. Firm address/zip (78260) matches donor record.",
+    "source_url": "https://philessex.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Essex Properties", "role": "Owner / Broker", "category": "business", "source_url": "https://philessex.com/", "snippet": "Phil is a third-generation licensed real estate broker, land developer, owner of Essex Properties, Texas Rural Capital, and GetSomeLand.com."}
+    ]
+  },
+  {
+    "donor_id": "44841941-c53d-4679-99cc-59fa846405a7",
+    "name": "Gonzalez, Erika",
+    "resolved_employer": "STAAMP Allergy (South Texas Allergy and Asthma Medical Professionals)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Erika Gonzalez, MD is CEO/President and co-founder of STAAMP Allergy, board-certified allergist/immunologist and USAF Medical Corps veteran (Major); prominent San Antonio physician and civic/business leader. No ideological/pro-Israel/pro-Palestine/gun/oil PAC or TX lobbyist registration found.",
+    "source_url": "https://sawoman.com/2025/03/women-to-watch-dr-erika-gonzalez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Board member; Chairwoman 2020-2021 / Immediate Past Chairwoman", "category": "business", "source_url": "https://sanantonioreport.org/hispanic-chambers-erika-gonzalez-wants-to-keep-small-businesses-healthy/", "snippet": "Served on the Board of Directors and as the 2020/2021 Chairwoman for the San Antonio Hispanic Chamber of Commerce."},
+      {"org": "Con Corazon SA", "role": "Founder", "category": "civic", "source_url": "https://sawoman.com/2025/03/women-to-watch-dr-erika-gonzalez/", "snippet": "Founded the nonprofit Con Corazon in 2020 to address health disparities/inequities and emergency preparedness in San Antonio."},
+      {"org": "Small Business for America's Future", "role": "Co-Chair", "category": "business", "source_url": "https://www.staampallergy.com/about", "snippet": "Currently Co-Chair for Small Business for America's Future, a national small-business policy advocacy group."}
+    ]
+  },
+  {
+    "donor_id": "3e46ecca-43e1-46c2-8300-52a7d7f33fa2",
+    "name": "Mantle, Kent",
+    "resolved_employer": "Elegant Limousine & Charter",
+    "industry": "Transportation",
+    "confidence": "high",
+    "evidence": "Kent Mantle is Executive Partner & General Manager at Elegant Limousine & Charter, a San Antonio/Austin chauffeur transportation company (est. 1989). Matches donor's employer and GM title. No PAC or TX lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/kent-mantle-3351058/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Elegant Limousine & Charter", "role": "Executive Partner & General Manager", "category": "business", "source_url": "https://www.zoominfo.com/p/Kent-Mantle/1632288603", "snippet": "Kent Mantle is Executive Partner & General Manager at Elegant Limousine and Charter, San Antonio."}
+    ]
+  },
+  {
+    "donor_id": "3733d70f-09ca-4e05-a64a-a08400eb994a",
+    "name": "Wright, Wayne",
+    "resolved_employer": "Wayne Wright LLP (Wayne Wright Injury Lawyers)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "A. Wayne Wright is founder of Wayne Wright LLP, a San Antonio personal-injury law firm he founded in 1996 (offices across TX and other states, $500M+ recovered). Firm address on W I-10 (78201) matches donor record. No ideological PAC or TX lobbyist registration found.",
+    "source_url": "https://waynewright.com/about-wayne-wright/wayne-wright-founder/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Wayne Wright LLP", "role": "Founder / Attorney", "category": "business", "source_url": "https://waynewright.com/about-wayne-wright/", "snippet": "Firm founded in 1996 by Wayne Wright; personal injury law firm headquartered in San Antonio."}
+    ]
+  },
+  {
+    "donor_id": "36c4383d-05ba-4c7d-ae54-ac9ac654a959",
+    "name": "Chhabra, Arun",
+    "resolved_employer": "University of Texas Medical Branch (UTMB) - Department of Neurology",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Arun Chhabra is a UTMB neurologist (Assistant Professor; Chief of Neurology / Stroke Medical Director, UTMB Clear Lake & League City); 5927 Almeda Rd is a UTMB Houston clinic address matching employer.",
+    "source_url": "https://www.utmb.edu/neuro/faculty/arun-chhabra",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3462cff3-5144-4034-b231-b41ceda504a1",
+    "name": "Patel, Suraj",
+    "resolved_employer": "Crossover Investments, LLC (Houston)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Suraj V. Patel, President/Owner of Crossover Investments LLC (an investment firm, also dba '3created 3D Printing Services'); public records confirm residence at 5227 Norborne Ln, Houston 77069, matching donor address. Not the NY congressional candidate of the same name.",
+    "source_url": "https://www.buzzfile.com/business/3created-3d-Printing-Services-281-537-2221",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "33570b4a-73ae-4885-b60a-6afc0085cf9c",
+    "name": "Khanuja, Parvinder",
+    "resolved_employer": "Ironwood Cancer & Research Centers (Ironwood Physicians, PC)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Parvinderjit Singh Khanuja, oncologist and founder/managing partner of Ironwood Cancer & Research Centers (Arizona's largest oncology group); Paradise Valley AZ resident; prominent Sikh-American philanthropist and art collector.",
+    "source_url": "https://en.wikipedia.org/wiki/Parvinderjit_Singh_Khanuja",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Phoenix Art Museum", "role": "Trustee", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Parvinderjit_Singh_Khanuja", "snippet": "Serves as a trustee of the Phoenix Art Museum and spearheaded a permanent Sikh art gallery there."},
+      {"org": "Five Rivers Foundation (5 Rivers Family Foundation)", "role": "Founder / Board member", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Parvinderjit_Singh_Khanuja", "snippet": "Founder/board member of the Five Rivers Foundation, which provides scholarships to underrepresented students and supports social/heritage causes."},
+      {"org": "Select Medical Holdings", "role": "Board of Directors", "category": "business", "source_url": "https://www.selectmedical.com/corporate-governance/board-of-directors/parvinderjit-s-khanuja/", "snippet": "Listed as a member of the board of directors of Select Medical, a national rehabilitation and critical care company."}
+    ]
+  },
+  {
+    "donor_id": "3301c22f-370a-4daf-aed6-577789ff375d",
+    "name": "Venegas, Francisco",
+    "resolved_employer": "Grupo La Gloria (Chef Johnny Hernandez restaurant group)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Francisco Venegas is Chief of Staff of Grupo La Gloria, Chef Johnny Hernandez's San Antonio restaurant/culinary group (La Gloria, The Fruteria, Burgerteca); UIW business grad; local D1-area donor. 1401 S Flores matches La Gloria/Southtown.",
+    "source_url": "https://www.linkedin.com/in/franciscomvenegas/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "31fc4ade-056b-4ed9-a395-35ddca047a86",
+    "name": "Kamath, Suren",
+    "resolved_employer": "Southwest Diagnostic (SW Diagnostic Building, Inc.) - imaging center",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Suren Kamath is owner/president of Southwest Diagnostic, a multi-modality imaging center at 88 Briggs, Ste 260, San Antonio TX 78224 (matches donor address); also a licensed Texas attorney (State Bar member) in real estate/healthcare/construction law. No PAC, lobbyist, or ideological (pro-Israel/Palestine, oil-gas, gun) records found.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/suren-kamath/29696142.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Southwest Diagnostic / S W Diagnostic Building, Inc.", "role": "Owner / President", "category": "business", "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/suren-kamath/29696142.aspx", "snippet": "Suren Kamath listed as President of S W Diagnostic Building, Inc., San Antonio, at 88 Briggs - a diagnostic imaging center."}
+    ]
+  },
+  {
+    "donor_id": "31d53d7d-da91-4a4f-b94d-c31a71cc852b",
+    "name": "Hernandez, Jessica",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name with occupation listed NA; multiple Jessica Hernandez individuals in San Antonio (dietitian, realtors, county IT) but none corroborated to 411 E Cevallos, 78204 (Southtown/King William). Identity not resolvable; no FEC, lobbyist, or advocacy records tied to this address.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2faf6097-aaa5-4394-9688-131119c203ea",
+    "name": "Cheever, Jean",
+    "resolved_employer": "Self-employed investor / Managing Partner, 501BIO LLC",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Jean Cheever of the San Antonio Cheever/Broadway Bank family; CPA, ex-Bristol-Myers Squibb finance exec, Broadway Bank board director and StemBioSys audit/governance chair; Managing Partner of 501BIO LLC (matches 501 Terrell Road address). Also Broadway theatre producer and UT Austin Theatre Director's Council founding member. No PAC, lobbyist, or tracked ideological (pro-Israel/Palestine, oil-gas, gun) records found.",
+    "source_url": "https://www.stembiosys.com/cheever",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Broadway Bank", "role": "Board of Directors", "category": "business", "source_url": "https://www.stembiosys.com/cheever", "snippet": "Serves on the Board of Broadway Bank, San Antonio's largest independently owned bank founded by her family."},
+      {"org": "StemBioSys, Inc.", "role": "Director / Chair of Audit-Governance Committee", "category": "business", "source_url": "https://www.stembiosys.com/cheever", "snippet": "Chair of Audit/Governance Committee at StemBioSys; 16 years in life-sciences finance at Bristol-Myers Squibb."},
+      {"org": "UT Austin Department of Theatre and Dance", "role": "Founding member, Director's Council", "category": "civic", "source_url": "https://www.stembiosys.com/cheever", "snippet": "Founding member of the Director's Council for the University of Texas at Austin Department of Theatre and Dance; endowed a theatre scholarship."}
+    ]
+  },
+  {
+    "donor_id": "2d636add-f4f2-42cb-8d0f-e039bde8ea3b",
+    "name": "Hasslocher, James",
+    "resolved_employer": "Frontier Enterprises / Jim's Restaurants",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "James 'Jimmy' Hasslocher, owner/president of Frontier Enterprises (Jim's Restaurants, Frontier Burger), the San Antonio restaurant company his father Germano 'Jim' Hasslocher founded in 1947 (father died 2015). Occupation and 78209 address consistent. A 2008 $500 donation to McCain by a 'Jim Hasslocher/Frontier Enterprises' exists but is ambiguous between father and son, so not attributed here. No lobbyist or tracked ideological records found.",
+    "source_url": "https://en.wikipedia.org/wiki/Jim%27s_Restaurants",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Frontier Enterprises / Jim's Restaurants", "role": "Owner / President", "category": "business", "source_url": "https://en.wikipedia.org/wiki/Jim%27s_Restaurants", "snippet": "Family-owned San Antonio restaurant company (Jim's Restaurants, Frontier Burger); Jimmy Hasslocher is president/owner and son of founder."}
+    ]
+  }
+]

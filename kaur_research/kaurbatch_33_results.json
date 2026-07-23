@@ -1,0 +1,235 @@
+[
+ {
+  "donor_id": "846f4357-c99f-491d-83ca-ae88f8f02cc3",
+  "name": "Rosales, Henry",
+  "resolved_employer": "America's Walking Club / AVA (CEO & Executive Director)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Henry Rosales is CEO/Executive Director of America's Walking Club (formerly American Volkssport Association, AVA), a nonprofit that relocated its national HQ to San Antonio's King William area; a Tarleton State grad and former collegiate track athlete. Matches donor's 'President/CEO, Americas Walking Club', San Antonio.",
+  "source_url": "https://sanantonioreport.org/americas-walking-club-ava-san-antonio-ivv-olympiad/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "America's Walking Club (AVA)", "role": "CEO / Executive Director", "category": "civic", "source_url": "https://ava.org/ava-leadership-team/", "snippet": "Rosales leads AVA, the national walking/volkssport nonprofit headquartered in San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "84209e1a-f10f-42ce-8b96-8e4a24f8c989",
+  "name": "Mendez-Gonzales, Melanie",
+  "resolved_employer": "MMG Media LLC / ¿Qué Means What? (founder, content creator); host of KLRN's ¡SALUD!",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Melanie Mendez-Gonzales is a San Antonio Latina content creator/media personality who founded the ¿Qué Means What? blog (2011) and runs MMG Media LLC; hosts KLRN's ¡SALUD! (2025 Telly Award). Matches donor's 'MMG Media LLC, Entrepreneur', 78216.",
+  "source_url": "https://quemeanswhat.com/latina-blogger-san-antonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Luminaria (San Antonio public-art nonprofit)", "role": "Board member", "category": "civic", "source_url": "https://www.conferencesforwomen.org/speakers/melanie-mendez-gonzales/", "snippet": "Serves on the board of Luminaria, a nonprofit championing San Antonio's creative community through public art; also on the San Antonio Hispanic Chamber Leadership Committee."}
+  ]
+ },
+ {
+  "donor_id": "8203541d-db90-4907-9ff8-59e6484ee11a",
+  "name": "Cheatham Smith, Tinsley",
+  "resolved_employer": "Zachry Group — Director of Community Investment and Philanthropy",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Tinsley Cheatham Smith is Director of Community Investment and Philanthropy at Zachry Group, the San Antonio-based construction/engineering firm; TCU finance grad, Leadership San Antonio alumna. Matches donor's 'Director, Zachry', 78209.",
+  "source_url": "https://www.linkedin.com/in/tinsley0901/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "815e4a58-dd4b-4f81-a8e9-eb074d6f71b1",
+  "name": "Singh, Parambir",
+  "resolved_employer": "Perficient, Inc. — Director, Clinical Operations Solutions (Healthcare & Life Sciences BU)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Param(bir) Singh is Director of Clinical Operations Solutions in the Healthcare & Life Sciences business unit at Perficient, a global digital/IT consultancy, with ~22 years consulting experience. Matches donor's 'Director, Perficient', San Antonio 78255.",
+  "source_url": "https://blogs.perficient.com/2022/05/04/people-of-perficient-meet-param-singh-director-of-clinical-operations-solutions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "810d6b43-c6a7-41bc-ba0b-500747ea8edf",
+  "name": "lazarus, james",
+  "resolved_employer": "Retired (holds a PhD); former career not documented",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public records confirm a retired James Lazarus (PhD) at 631 E Guenther St, San Antonio, TX 78210, matching the donor's address exactly. Identity corroborated by address, but no reliable source establishes his former profession/industry.",
+  "source_url": "https://clustrmaps.com/person/Lazarus-2alq2q",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "783cefab-dfdf-4bad-a9eb-aa043434c84a",
+  "name": "Berrier, R",
+  "resolved_employer": "Ralph Michael Berrier — self-employed San Antonio business owner/entrepreneur (manager/agent of 100 Probandt, LLC; associated with Berrier Motor Co, LB Clay Street LLC at same address)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Property/business records show 202 Lavaca St, San Antonio 78210 is owned by Ralph Michael Berrier, a self-employed entrepreneur who serves as manager/agent for LLCs registered at that exact address; matches donor's 'Self / Entrepreneur' occupation and address.",
+  "source_url": "https://www.city-data.com/bexar-county/L/Lavaca-Street-1.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "77c49ffa-795d-4569-8c08-58a7a9e45bc3",
+  "name": "Foy, Nicole",
+  "resolved_employer": "Vice President / Director of Communications, Texas Biomedical Research Institute (San Antonio); former San Antonio Express-News medical/science reporter",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Nicole F. Foy is the communications lead (VP/Director of PR) at Texas Biomed, a San Antonio biomedical research nonprofit; listed as media contact and formerly an Express-News science reporter. Matches donor's 'Texas Biomed / Comms' and 78212 SA location.",
+  "source_url": "https://www.txbiomed.org/news-press/media-contacts/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7486e870-ceab-4819-b9a9-abfc43e45d5f",
+  "name": "Kilby, Mitchell",
+  "resolved_employer": "Corporate Counsel / Director, Legal at Medable, Inc. (clinical-trial technology company); attorney based in San Antonio; UT School of Law J.D., former TX Attorney General and Rackspace attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Mitchell Kilby is an in-house attorney (Corporate Counsel/Director Legal) at Medable, based in San Antonio, per LinkedIn and professional listings; matches donor's 'Medable / Attorney' and 78201 SA location.",
+  "source_url": "https://www.linkedin.com/in/mitchell-kilby-34a8298/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "69f07e7b-75ab-4db6-b588-36d712306cc1",
+  "name": "Kaye, Rebecca",
+  "resolved_employer": "Chief of Staff (formerly Senior Director of Policy & Strategic Projects), Guilford County Schools, Greensboro, NC",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Rebecca Kaye is a senior administrator/Chief of Staff for Guilford County Schools in Greensboro NC, cited in local news presenting district policy to the school board; matches donor's occupation and 27403 Greensboro location.",
+  "source_url": "https://greensboro.com/news/local/education/sustainability-guilford-schools-leed-buildings-recycling-curriculum-kaye/article_c516b2c8-d7b4-11ed-b8f9-3ba8330c0dfd.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "66bd7f18-8c4e-45b5-b852-8a3d078e1537",
+  "name": "Moll, William",
+  "resolved_employer": "Retired broadcasting executive — former President/CEO of KLRN Public Television and Clear Channel Television, KENS-TV, WNBC-TV; TAB 2012 Pioneer Broadcaster of the Year (retired)",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "William G. Moll is a retired San Antonio broadcasting executive (KLRN, Clear Channel Television, KENS-TV) who sits on numerous SA civic boards; retired career and 78209 SA location match the donor's 'retired' record.",
+  "source_url": "https://tabshow.org/william-g-moll/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Association of Broadcasters (TAB) / National Association of Broadcasters (NAB)", "role": "Former Board Chair (TAB 1984); twice-elected NAB board member, first HDTV Committee chair", "category": "business", "source_url": "https://tabshow.org/william-g-moll/", "snippet": "TAB Board Chair (1984): Led efforts defeating proposed Texas legislative advertising taxes ... National Association of Broadcasters: Twice elected to the board; chaired the first High Definition Television Committee (1986)."},
+   {"org": "Greater San Antonio Chamber of Commerce; San Antonio Area Foundation; United Way of San Antonio & Bexar County; University of the Incarnate Word; Tobin Center for the Performing Arts", "role": "Board member / director", "category": "civic", "source_url": "https://tabshow.org/william-g-moll/", "snippet": "Moll serves on multiple boards including ... Greater San Antonio Chamber of Commerce, San Antonio Area Foundation, United Way of San Antonio & Bexar County, University of the Incarnate Word, Tobin Center for the Performing Arts."}
+  ]
+ },
+ {
+  "donor_id": "651c02a0-d645-41cb-8bc4-a73c1e87fe43",
+  "name": "Lozano, Robert",
+  "resolved_employer": "Bristol Myers Squibb — Senior Territory Business Manager (pharmaceutical sales rep), San Antonio",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Pharma sales rep for Bristol Myers Squibb in San Antonio; BMS lists a 'Senior Territory Business Manager - San Antonio (Texoma)' role matching his exact title and 78210 location. Specific individual not independently confirmed, so categorized by employer/occupation.",
+  "source_url": "https://www.ziprecruiter.com/c/Bristol-Myers-Squibb-Company/Job/Senior-Territory-Business-Manager-San-Antonio-(Texoma)/-in-San-Antonio,TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5f9d3937-a562-401e-b114-00a7a73d7197",
+  "name": "Saud, Daniel",
+  "resolved_employer": "Washington State University — Director of International Programs (undergraduate international admissions/recruitment), Pullman, WA",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Daniel Saud, Ed.D., joined WSU Office of International Programs as Director; matches donor's 'Educator'/'WSU' occupation and Pullman 99163 zip. Vanderbilt Ed.D.; prior international-admissions roles at several universities. No FEC/PAC or lobbyist records found.",
+  "source_url": "https://news.wsu.edu/announcements/daniel-saud-joins-international-programs-director/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5c28ac78-343c-4244-b37c-c17f28e84e01",
+  "name": "Campbell, Disa",
+  "resolved_employer": "Retired (former career not documented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired San Antonio resident at 535 Tara Dr (78216 area), approx. age 76 per public-records aggregators. Former occupation could not be confirmed; a San Antonio Report tag page exists for the name but contained no retrievable bio. No FEC/PAC or lobbyist records found.",
+  "source_url": "https://cocofinder.com/name/disa-campbell",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5b7f13a9-28bf-4bd7-9474-7462c0300996",
+  "name": "Brown, Kathryn",
+  "resolved_employer": "Self-employed (occupation listed as 'Rocker'/musician)",
+  "industry": "Entertainment",
+  "confidence": "low",
+  "evidence": "Donor lists occupation 'Rocker' and employer 'Self' at 8331 Setting Moon, 78255. A Kathryn Brown resident is associated with that address in public records, but the prominent San Antonio 'Kathryn Brown' (CEO of tech firm Visage Collaborative, 78230) is at a different address/field and cannot be confidently matched. Classified by self-reported occupation as self-employed musician.",
+  "source_url": "https://clustrmaps.com/person/Rivera-bh3q1j",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "519803ae-e9d6-4fe9-af29-90671ca07136",
+  "name": "Sutterfield, Kristi",
+  "resolved_employer": "Greater San Antonio Builders Association (GSABA) — Executive Vice President (functions as CEO of the homebuilders trade association)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "EVP/top staff leader of GSABA, the residential-construction trade association representing ~750 member companies across 22 counties; formerly executive director of Greater Fort Worth Builders Association and Texas Association of Builders. Leads GSABA government-affairs/lobbying on housing regulation. A 'Kristi Sutterfield' appears in the 2008 TEC lobbyist registry (Austin), plausibly her, but not independently confirmed for current cycles.",
+  "source_url": "https://sawoman.com/2023/05/kristi-sutterfield-building-success-through-relationships-passion-and-drive/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Greater San Antonio Builders Association (GSABA)", "role": "Executive Vice President (chief staff officer)", "category": "business", "source_url": "https://www.sabuilders.com/gsaba-staff/", "snippet": "Kristi Sutterfield serves as executive vice president of GSABA, filling the CEO function and leading staff serving 750 member companies representing more than 10,000 people in residential construction; works with local, state and federal officials on industry regulation and government affairs."},
+   {"org": "Texas Housing Conference (Texas Affiliation of Affordable Housing Providers)", "role": "Director", "category": "business", "source_url": "https://sawoman.com/2023/05/kristi-sutterfield-building-success-through-relationships-passion-and-drive/", "snippet": "Director of the Texas Housing Conference for the Texas Affiliation of Affordable Housing Providers; focuses on affordable-housing advocacy and barriers to homeownership."}
+  ]
+ },
+ {
+  "donor_id": "4e114f20-306f-46a8-93a0-b8e5e1696fbb",
+  "name": "Takkar, Sonia",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as unemployed in Ellicott City, MD (21042); gave $100 to Kaur. No public bio, no FEC record (fec_donation_count 0), and no Texas lobbyist registration found; could not confirm a specific individual among several same-named people, so identity unresolved.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4dcd9d2f-2079-4f85-aa67-298d0eb46b83",
+  "name": "Beldon, Bradford",
+  "resolved_employer": "Beldon Roofing Company, San Antonio (third-generation owner/CEO; sold the company March 2026)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Bradford D. Beldon, third-generation owner/CEO of Beldon Roofing Co. (HQ 5039 West Ave, San Antonio 78213 — matches donor address); UT-Austin BBA 1986. FEC search shows industry/GOP giving (e.g., $250 to National Roofing Contractors RoofPAC 2014; family gave to Rep. Will Hurd) and a slight-Republican lean (0.40); no AIPAC/pro-Israel, oil & gas, NRA, or defense ideological PAC contributions found.",
+  "source_url": "https://sanantonioreport.org/arizona-based-roofing-firm-purchases-san-antonio-company-beldon/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Beldon Roofing Company", "role": "Owner / CEO (third generation)", "category": "business", "source_url": "https://sanantonioreport.org/arizona-based-roofing-firm-purchases-san-antonio-company-beldon/", "snippet": "San Antonio's Beldon Roofing announces change in ownership; Brad Beldon sold the third-generation family firm."},
+   {"org": "National Roofing Contractors Association RoofPAC", "role": "Contributor", "category": "business", "source_url": "https://www.city-data.com/elec2/14/elec-SAN-ANTONIO-TX-14-part7.html", "snippet": "Bradford D. Beldon of Beldon Roofing Co. (President) donated $250 to the National Roofing Contractors Association Roof PAC on 10/13/2014."}
+  ]
+ },
+ {
+  "donor_id": "49f344c3-d2b2-4875-895a-3c0587c24c58",
+  "name": "Mueller, Marissa",
+  "resolved_employer": "SAMMinistries (homeless-services nonprofit), Case Manager",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Marissa Mueller is a Case Manager at SAMMinistries in San Antonio (since ~2016), an interfaith homeless-services nonprofit — matches donor occupation/employer and San Antonio location. No FEC record (count 0) and no Texas lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/marissa-mueller-555a125b/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "48d2dca4-e547-445b-9d87-0ad16e53474b",
+  "name": "Kindel, Aaron",
+  "resolved_employer": "BASIS.ed (BASIS Charter Schools management org), Phoenix; education executive (later Superintendent, Great Hearts Texas)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Aaron Kindel is an education executive associated with BASIS.ed (BASIS Charter Schools) in Arizona — LinkedIn/ZoomInfo show him as a BASIS.ed executive (VP; described as CEO in 2020 sources) who later became Superintendent at Great Hearts Texas; matches donor employer 'BASIS.ed', occupation 'Education', Phoenix AZ. No FEC record (count 0) and no Texas lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/aaron-kindel-94b16414a",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "43c8a636-f6f5-4dd2-923e-fae293b579ed",
+  "name": "Nebelung, Suzanne",
+  "resolved_employer": "Worcester Academy (private school), fundraiser / Director of Annual Giving",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Suzanne (Singh) Nebelung served as Director of Annual Giving at Worcester Academy, a private school in Worcester, MA — matches donor employer 'Worcester Academy' and occupation 'Fundraiser'; she lives in Sutton, MA and is now Director of Veterinary Annual Giving at Tufts Medicine. No FEC record (count 0) and no Texas lobbyist registration found.",
+  "source_url": "https://giving.worcesteracademy.org/campaigns/WAfamilies/supporters",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]
