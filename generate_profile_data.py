@@ -87,6 +87,17 @@ CANDIDATE_CYCLES = {
     'jones':  [{'label': '2025 Mayoral Run', 'election_year': 2025, 'start_year': None, 'end_year': None}],
     # Sakib Shaikh: lost the 2025 D8 general; unlisted profile ships later.
     'shaikh': [{'label': '2025 Run', 'election_year': 2025, 'start_year': None, 'end_year': None}],
+    # Sukh Kaur (D1): won the June 10, 2023 runoff over incumbent Mario Bravo;
+    # re-elected in the June 7, 2025 runoff over Patty Gibbons. Mid-year date
+    # bounds split at the runoffs; post-June-2025 money (next-cycle) appears
+    # only in the all-time default view.
+    'kaur': [
+        {'label': '2023 Run', 'election_year': 2023,
+         'start_year': None, 'end_year': None, 'end_date': '2023-06-30'},
+        {'label': '2025 Re-election', 'election_year': 2025,
+         'start_year': None, 'end_year': None,
+         'start_date': '2023-07-01', 'end_date': '2025-06-30'},
+    ],
 }
 
 # Earliest contribution_year included in a profile (default 2018 = start of
@@ -187,16 +198,29 @@ def find_filer(cur, slug: str):
 
 
 def build_year_clause(cycle):
-    """Return (extra_sql, extra_params) for filtering by cycle start/end year."""
+    """Return (extra_sql, extra_params) for filtering by cycle start/end year.
+
+    Optional 'start_date'/'end_date' ('YYYY-MM-DD') take precedence over the
+    year bound on that side — SA cycle boundaries fall mid-year (May/June
+    elections; the cap cycle restarts after the runoff), and a whole-year
+    split would bucket post-runoff money into the finished campaign.
+    date_iso is ISO text so lexicographic compare is date compare.
+    """
     clauses = []
     params = []
     # CAST is load-bearing: contribution_year has TEXT affinity, and SQLite
     # ranks any TEXT above every number, so an uncast comparison silently
     # passes/fails whole cycles.
-    if cycle['start_year'] is not None:
+    if cycle.get('start_date') is not None:
+        clauses.append("cf.date_iso >= ?")
+        params.append(cycle['start_date'])
+    elif cycle['start_year'] is not None:
         clauses.append("CAST(cf.contribution_year AS INTEGER) >= ?")
         params.append(cycle['start_year'])
-    if cycle['end_year'] is not None:
+    if cycle.get('end_date') is not None:
+        clauses.append("cf.date_iso <= ?")
+        params.append(cycle['end_date'])
+    elif cycle['end_year'] is not None:
         clauses.append("CAST(cf.contribution_year AS INTEGER) <= ?")
         params.append(cycle['end_year'])
     return clauses, params
@@ -388,14 +412,18 @@ def build_cycle_data(cur, candidate_fragment, cycle, by_year_data):
         })
 
     # ── Build year_range string ───────────────────────────────────────────────
-    if cycle['start_year'] is None:
+    if cycle.get('start_date') is not None:
+        start_str = cycle['start_date'][:4]
+    elif cycle['start_year'] is None:
         # Use earliest year from by_year data
         years = [int(y['year']) for y in by_year_data if y['total'] > 0]
         start_str = str(min(years)) if years else "?"
     else:
         start_str = str(cycle['start_year'])
 
-    if cycle['end_year'] is None:
+    if cycle.get('end_date') is not None:
+        end_str = cycle['end_date'][:4]
+    elif cycle['end_year'] is None:
         end_str = "present"
     else:
         end_str = str(cycle['end_year'])
