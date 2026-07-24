@@ -1,0 +1,222 @@
+[
+ {
+  "donor_id": "36a1af37-8add-4c20-9ad3-9a2d9e50612b",
+  "name": "Cisneros, Jessica",
+  "resolved_employer": "Immigration attorney (self); former Democratic candidate for Texas's 28th congressional district (2020, 2022)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Occupation (Attorney, Self) and Laredo, TX 78040 location match Jessica Cisneros, the Laredo-born immigration attorney who twice ran for TX-28 vs. Rep. Henry Cuellar. Exact home-address confirmation unavailable, so identity is corroborated but not certain.",
+  "source_url": "https://en.wikipedia.org/wiki/Jessica_Cisneros",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [{"org": "Texas 28th Congressional District (Democratic primary)", "role": "Democratic candidate for U.S. House, 2020 and 2022", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Jessica_Cisneros", "snippet": "American attorney and a former Democratic candidate for Texas's 28th congressional district in 2020 and 2022; born and raised in Laredo, Texas."}]
+ },
+ {
+  "donor_id": "3683be03-cdf9-4c79-af3b-04b7080505c8",
+  "name": "Gutierrez, Felipe",
+  "resolved_employer": "One Safe Place (Fort Worth family-violence nonprofit), VP of Development & Engagement; president of Tarrant County Stonewall Democrats",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Fort Worth (76107) LGBTQ advocate and Democratic activist; leads Tarrant County Stonewall Democrats and works at nonprofit One Safe Place. Location, self-described 'Texas Stonewall Dems' role, and high FEC donation count (125) all align.",
+  "source_url": "https://dallasvoice.com/gutierrez-calls-out-w-durable-goods-owners-for-homophobic-facebook-post/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [{"org": "Tarrant County Stonewall Democrats", "role": "President", "category": "political", "source_url": "https://dallasvoice.com/gutierrez-calls-out-w-durable-goods-owners-for-homophobic-facebook-post/", "snippet": "Felipe Gutierrez, president of Tarrant County Stonewall Democrats, shared a screen-cap of Stephanie Wright's post..."}]
+ },
+ {
+  "donor_id": "34062f07-236e-4719-84dd-e8881b4d4f42",
+  "name": "Alaniz Bernal, Elyse",
+  "resolved_employer": "San Antonio nonprofit executive (President/CEO of Any Baby Can of San Antonio; former Executive Director, Susan G. Komen San Antonio) — donation-time occupation listed as Not Employed",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Distinctive name matches the San Antonio nonprofit leader Elyse Alaniz Bernal; the 'Not Employed' occupation likely reflects a between-roles period, as she publicly announced leaving Any Baby Can. No policy-advocacy affiliations documented.",
+  "source_url": "https://www.crunchbase.com/person/elyse-alaniz-bernal",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "311287b0-acc0-415c-8225-26abf0e7bf40",
+  "name": "Gonzales, Marina Jordana",
+  "resolved_employer": "Gonzales Wolff Business Solutions, CEO/Managing Partner (consulting); attorney (J.D.); former CEO San Antonio Hispanic Chamber of Commerce and former President/CEO of Child Advocates San Antonio (CASA)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Occupation (Consultant, Gonzales Wolff Business Solutions) and San Antonio 78218 location exactly match Marina Jordana Gonzales, J.D., who co-founded the firm with former Bexar County Commissioner Kevin Wolff.",
+  "source_url": "https://sanantonioreport.org/marina-gonzales-hispanic-chamber-kevin-wolff-consulting/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [{"org": "San Antonio Hispanic Chamber of Commerce", "role": "Former President & CEO", "category": "business", "source_url": "https://sanantonioreport.org/marina-gonzales-hispanic-chamber-kevin-wolff-consulting/", "snippet": "San Antonio Hispanic Chamber CEO Marina Gonzales departs... joined former Bexar County Commissioner Kevin Wolff in a consulting firm, Gonzales Wolff Business Solutions."}]
+ },
+ {
+  "donor_id": "27e5d422-cb41-464c-bdee-456b6774561f",
+  "name": "Djeto, Maurice",
+  "resolved_employer": "Self-employed in-home care / home help provider",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "No public profile could be corroborated to this San Antonio (78220) individual; search hits are not confirmable to this donor. Industry inferred solely from the stated occupation (home help provider = in-home care).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "25b104ec-cd45-49a4-ba89-fd23ae3259b6",
+  "name": "Harig, Randy",
+  "resolved_employer": "Texas Research and Technology Foundation (TRTF) / VelocityTX — President & CEO (retired Dec 2023)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "J. Randolph 'Randy' Harig was President/CEO of the Texas Research and Technology Foundation (TRTF), a San Antonio bioscience/tech economic-development nonprofit, and founder of its VelocityTX innovation hub on the East Side (District 2). 78209 location matches.",
+  "source_url": "https://www.stmarytx.edu/2020/trtf-entrepreneurship/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [{"org": "Centro 21", "role": "Former member and chairman", "category": "civic", "source_url": "https://www.acg.org/asa/speakers/j-randolph-randy-harig", "snippet": "former member and chairman of Centro 21 (a San Antonio City Council appointed task force directed to promote downtown growth)"}]
+ },
+ {
+  "donor_id": "24f0d624-c152-408b-9256-559dbf44f533",
+  "name": "Preston-Werner, Theresa",
+  "resolved_employer": "Preston-Werner Ventures — co-founder/director (philanthropic funding collaborative for climate, health, livelihoods); anthropologist, investor, philanthropist",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Theresa Preston-Werner (PhD anthropology, Northwestern; wife of GitHub co-founder Tom Preston-Werner) co-directs Preston-Werner Ventures and is a philanthropist; she is Secretary/Chair of Development Committee at Global Fund for Women and publicly described as founder/board chair of 128 Collective, a progressive climate philanthropy. Ross, CA 94957 address consistent.",
+  "source_url": "https://www.globalfundforwomen.org/team/theresa-preston-werner/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [{"org": "Global Fund for Women", "role": "Secretary and Chair of Development Committee", "category": "civic", "source_url": "https://www.globalfundforwomen.org/team/theresa-preston-werner/", "snippet": "Secretary and Chair of Development Committee at Global Fund for Women"}]
+ },
+ {
+  "donor_id": "15dc319c-ad65-429a-ac23-104138c62f12",
+  "name": "Morales, Christopher",
+  "resolved_employer": "Self-employed (specific business not publicly confirmed)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Common name; could not conclusively confirm a specific Christopher Morales at the 78230 zip. FEC donation count 36 recorded on the donation but no distinguishing public profile found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0aebb8f8-ad41-4265-8d01-4b1c81befd03",
+  "name": "Rodriguez, Ruben",
+  "resolved_employer": "Owner, Ruben's Food Truck (self-reported; specific San Antonio truck not independently confirmed)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Self-reported as owner of 'Ruben's Food Truck' at an East Side (78220) address. Common name; searches surfaced other San Antonio 'Ruben's' food businesses but none confirmably tied to this individual. No FEC PAC or lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "09bbb4f5-a96c-4958-a84d-adf0fa5b8f9b",
+  "name": "Lopez, Steven",
+  "resolved_employer": "Lopez Law Firm, PLLC — owner/personal-injury trial attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Steven A. Lopez is a San Antonio personal-injury trial attorney and owner of Lopez Law Firm (Baylor Law; UT Austin); Texas Super Lawyers Rising Star. High FEC count (186) and Democratic partisan lean (0.86) consistent with documented progressive civic memberships. Firm address 2686 Lockhill Selma Rd, 78230 matches donation record.",
+  "source_url": "https://lopezlawtx.com/steven-a-lopez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [{"org": "MOVE Texas", "role": "Volunteer/serves with", "category": "civic", "source_url": "https://lopezlawtx.com/steven-a-lopez/", "snippet": "Lopez serves with MOVE Texas, St. Mary's Law School Advocacy Team, New Leaders Council - San Antonio, YMCA of Greater San Antonio, and St. Francis Catholic Church."}, {"org": "New Leaders Council - San Antonio", "role": "Member", "category": "civic", "source_url": "https://lopezlawtx.com/steven-a-lopez/", "snippet": "Lopez serves with MOVE Texas, St. Mary's Law School Advocacy Team, New Leaders Council - San Antonio, YMCA of Greater San Antonio, and St. Francis Catholic Church."}, {"org": "Texas Trial Lawyers Association", "role": "Member", "category": "business", "source_url": "https://lopezlawtx.com/steven-a-lopez/", "snippet": "Member, Texas Trial Lawyers Association; Member, San Antonio Trial Lawyers Association; Member, Mexican American Bar Association"}]
+ },
+ {
+  "donor_id": "523fde84-51b6-4637-84cd-169f85dd58cb",
+  "name": "Reyes, Steven",
+  "resolved_employer": "Band Director / Director of Bands at Global Evangelism Inc. (San Antonio-based religious nonprofit / EIN 74-1764843 operating as Cornerstone Church)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Employer 'Global Evangelism Inc.' is a real San Antonio 501(c)(3) religious nonprofit (Cornerstone Church). Could not confirm this specific Steven Reyes among many in the Converse/SA area; occupation and employer taken from filing and corroborated only insofar as the org exists.",
+  "source_url": "https://projects.propublica.org/nonprofits/organizations/741764843",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9c12240e-2edd-44d9-988f-8b2cf02c4865",
+  "name": "Gatlin-McDavid, Le Reta",
+  "resolved_employer": "Community organizer / Right 2 Justice Organizer with the Texas Organizing Project (TOP); also DFC Project Coordinator at WestCare Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Le Reta Gatlin-McDavid is documented as an organizer with the Texas Organizing Project (progressive community-organizing nonprofit) and later a TOP board member; UTSA/St. Philip's alumna. East Side 78219 location is consistent with TOP's SA base.",
+  "source_url": "https://legacy.organizetexas.org/contact-us/about-top/staff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [{"org": "Texas Organizing Project (TOP)", "role": "Organizer / Right 2 Justice Organizer (later board member)", "category": "political", "source_url": "https://legacy.organizetexas.org/contact-us/about-top/staff/", "snippet": "Le Reta served as a Right 2 Justice Organizer at Texas Organizing Project, a statewide progressive community-organizing nonprofit."}]
+ },
+ {
+  "donor_id": "8cdf7dcb-3409-4842-b6ff-13dde862887c",
+  "name": "Ochoa, Lyssa",
+  "resolved_employer": "Founder, CEO & President of The SAVE Clinic (San Antonio Vascular and Endovascular Clinic); board-certified vascular surgeon; formerly of Peripheral Vascular Associates (PVA)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Lyssa Ochoa is the founder/CEO of the SAVE Clinic and a vascular surgeon focused on reducing diabetes-related amputations on San Antonio's South Side; previously practiced at Peripheral Vascular Associates. 78209 location fits.",
+  "source_url": "https://thesaveclinic.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [{"org": "Center for Health Equity in South Texas (CHEST)", "role": "Co-founder", "category": "civic", "source_url": "https://sanantonioreport.org/nonprofit-coalition-disease-south-san-antonio-lyssa-ochoa/", "snippet": "Ochoa helped establish CHEST, a nonprofit coalition aimed at breaking cycles of disease and reducing health disparities on San Antonio's South Side."}]
+ },
+ {
+  "donor_id": "22f500d3-b6d9-47d4-b082-ed78d322f05a",
+  "name": "GOODMAN, WILLIAM",
+  "resolved_employer": "Solo-practitioner attorney, Law Office of William F. Goodman (wills, trusts, probate, family, contracts); UT Law 1979",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "William F. Goodman is a San Antonio sole-practitioner attorney; his P.O. Box 12467, San Antonio 78212 matches the filing exactly, and he practices probate/family/contracts law in the 78212 area.",
+  "source_url": "https://www.avvo.com/attorneys/78212-tx-william-goodman-147051.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [{"org": "San Antonio LGBT Chamber of Commerce", "role": "Business member (Attorney at Law listing)", "category": "business", "source_url": "https://business.salgbtchamber.com/list/member/william-f-goodman-attorney-at-law-san-antonio-134", "snippet": "William F. Goodman - Attorney at Law is listed in the San Antonio LGBT Chamber of Commerce business member directory."}]
+ },
+ {
+  "donor_id": "5d1fcd0b-5a59-4c67-826c-295605707c72",
+  "name": "Urbina, Esperanza",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Occupation listed as Not Employed; no public profile, news, FEC, or lobbyist records located for an Esperanza Urbina in San Antonio (78218). A quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "25aec580-7592-4602-ad41-d39438746b28",
+  "name": "Stewart, Jimmy",
+  "resolved_employer": "Live Nation (director/filmmaker, per stated occupation)",
+  "industry": "Entertainment",
+  "confidence": "low",
+  "evidence": "Could not confirm the specific individual; name collides with the late actor James 'Jimmy' Stewart, which dominates search results. No public profile, FEC PAC record, or lobbyist registration found for a Sherman Oaks (91423) filmmaker by this name. Employer 'Live Nation' is the only signal, so industry is a generic employer fallback.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "03ec32d3-4fce-4061-a37f-078dc1c2d418",
+  "name": "Driscoll, Stephen P",
+  "resolved_employer": "Self-employed performer/actor (Actors Equity member; former MIT dance instructor, Opera Company of Boston choreographer, pro-wrestling promoter/owner of NewPro Wrestling)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "UMass Amherst donor profile identifies Stephen P. Driscoll, an Actors Equity actor residing in Pembroke, MA 02359 (matches address/occupation exactly); recently played Shylock at UMass.",
+  "source_url": "https://umass.myplannedgift.org/meet-our-donors/stephen-driscoll",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [{"org": "Massachusetts Democratic Party", "role": "Executive committee member; Chair of LGBT outreach", "category": "political", "source_url": "https://umass.myplannedgift.org/meet-our-donors/stephen-driscoll", "snippet": "Executive committee member and chair of LGBT outreach of the Massachusetts Democratic Party."}]
+ },
+ {
+  "donor_id": "4bef2551-287a-46b0-aa1a-8ddcad03a661",
+  "name": "Garcia, Robert",
+  "resolved_employer": "Robert Garcia CPA, PLLC (owner/CPA, #IhaveaCPAguy) — small-business tax/accounting firm, San Antonio",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Robert Garcia CPA, PLLC is a San Antonio CPA firm at 4523 Echo Grove, 78259 (exact address match), founded 2013, serving micro/small businesses. No federal PAC contribution or Texas lobbyist registration found.",
+  "source_url": "https://www.ihaveacpaguy.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f8e3bd13-a661-47a3-aebf-21433f7122c0",
+  "name": "Niño, Teresa",
+  "resolved_employer": "VP for University Relations, UT San Antonio (formerly Executive Director, DHS Office of Partnership & Engagement; HHS communications under Clinton and Obama administrations)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Well-documented public figure: UTSA VP for University Relations, prior DHS/HHS/USCIS communications leadership, inducted into San Antonio Women's Hall of Fame Class of 2024. San Antonio 78212 and DHS/UTSA occupation match.",
+  "source_url": "https://www.utsa.edu/today/2024/03/story/nino-browning-nash-inducted.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [{"org": "The Latino Cancer Institute (TLCI)", "role": "Director (board)", "category": "civic", "source_url": "https://latinocancerinstitute.org/directors/teresa-nino/", "snippet": "Director at The Latino Cancer Institute; her board service aims to help guide the organization towards better research, care, treatments and cures for Latinos with cancer."}]
+ },
+ {
+  "donor_id": "f817b024-e91f-4cf0-b5d1-c929a16ba4b3",
+  "name": "Metcalfe, Riley",
+  "resolved_employer": "South San Antonio ISD (teacher, per stated occupation)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "No public profile, staff-directory listing, LinkedIn, FEC PAC record, or Texas lobbyist registration confirmed for this specific individual. Classified by generic occupation only (K-12 teacher, South San Antonio ISD); San Antonio 78212 address consistent but not independently corroborated.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

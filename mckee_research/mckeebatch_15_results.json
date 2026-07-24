@@ -1,0 +1,303 @@
+[
+ {
+  "donor_id": "9eb70465-2d78-430e-97f7-add9c554e8d5",
+  "name": "Davis, Ariana",
+  "resolved_employer": "Literacy Coalition of Central Texas (Quality Assurance Coordinator)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Categorize-by-employer fallback: occupation (Quality Assurance Coordinator, non-profit) and named employer are consistent with the Literacy Coalition of Central Texas, an adult/family literacy nonprofit; Killeen, TX 76549 resident. No individual public profile found to further corroborate.",
+  "source_url": "https://literacyctx.org/about-literacy-coalition/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "880d16e4-647b-45dc-9473-6be6b330aeb0",
+  "name": "Savino, Monica",
+  "resolved_employer": "Savino Architecture LLC (principal architect)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Registered Texas architect and principal of Savino Architecture LLC, 1120 E Crockett St, San Antonio 78202 (matches donor address exactly); LEED-certified preservationist active in Dignowity Hill / East Side historic work.",
+  "source_url": "https://www.linkedin.com/in/monica-savino-50586b2a4",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Conservation Society of San Antonio",
+    "role": "Chair, Yturri-Edmunds Homestead",
+    "category": "civic",
+    "source_url": "https://www.saconservation.org/hpm/",
+    "snippet": "Monica Savino... serves the community as the Chair for the historic Yturri-Edmunds Homestead for the Conservation Society."
+   },
+   {
+    "org": "City of San Antonio Historic and Design Review Commission (HDRC)",
+    "role": "District 2 appointee",
+    "category": "civic",
+    "source_url": "https://www.saconservation.org/hpm/",
+    "snippet": "serves as the City Council District 2 appointee to the City's Historic and Design Review Commission."
+   },
+   {
+    "org": "Dignowity Hill Neighborhood Association Architectural Review Committee",
+    "role": "Founder",
+    "category": "civic",
+    "source_url": "https://www.saconservation.org/hpm/",
+    "snippet": "she also serves on several community and civic-based organization boards including the founder of the Dignowity Hill NA Architectural Review Committee."
+   }
+  ]
+ },
+ {
+  "donor_id": "804ea4c9-f2de-43db-9d74-bfe3e921f7b7",
+  "name": "Renteria, Justin",
+  "resolved_employer": "City of San Antonio (Director of Policy); previously staff for District 1 Councilman Roberto Trevino",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Listed as Director, Policy at the City of San Antonio (justin.renteria@sanantonio.gov); previously staff/contact for District 1 Councilman Roberto Trevino's office, matching the donor's employer strings and San Antonio location.",
+  "source_url": "https://www.zoominfo.com/p/Justin-Renteria/-1700500004",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6fb39af3-48c8-4d05-938c-3927c1d65f68",
+  "name": "Galvan, Eva",
+  "resolved_employer": "UT Health San Antonio (UTHSCSA) — radiation oncologist / Assistant Professor",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Eva M. Galvan, MD is a radiation oncologist and Assistant Professor of Radiation Oncology at UT Health San Antonio / Mays Cancer Center (7701 Wurzbach Rd matches the donor address); MD from UTHSCSA 2015.",
+  "source_url": "https://providers.uthscsa.edu/providers/eva-m-galvan-1275910390/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b3f485cb-f2c7-44d5-a554-86b3b9f2f47d",
+  "name": "Nguyen, Christine",
+  "resolved_employer": "Clinical Pathology Laboratories (Lab Assistant) / Kooth (Peer Support Specialist)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Categorize-by-employer fallback: self-reported occupations Lab Assistant and Peer Support Specialist; employers Clinical Pathology Laboratories (San Antonio diagnostics lab) and Kooth (digital mental-health platform). Common name; no individual public profile found to corroborate the specific person.",
+  "source_url": "https://www.yelp.com/biz/clinical-pathology-laboratories-san-antonio-9",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "211297a4-c82b-43b8-a0c1-245f07c9b05e",
+  "name": "Ward, Thomas",
+  "resolved_employer": "Circle K (Customer Service Representative)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Categorize-by-employer fallback: self-reported customer service representative at Circle K (convenience-store chain) in El Paso. Common name; no public profile, FEC PAC record, or lobbyist registration found.",
+  "source_url": "https://workwithus.circlek.com/global/en/job/CIKCGLOBALR601450EXTERNALENGLOBAL/Customer-Service-Representative",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "698e32bf-0c45-461b-9f55-058463e3d78c",
+  "name": "Solano, Viviano",
+  "resolved_employer": "Bexar County (Juvenile Detention Center)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Self-reported employer Bexar County, working at the Bexar County Juvenile Detention Center (600 Mission Rd, San Antonio), a public juvenile-corrections facility. No individual public profile, FEC PAC record, or lobbyist registration found to further corroborate.",
+  "source_url": "https://bexarcountyjails.org/bexar-county-juvenile-detention-center/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dbe86f06-357c-4911-ae33-c3be2e98c042",
+  "name": "Ardiente, Nicolette",
+  "resolved_employer": "Asian Texans for Justice (Community Engagement Manager); previously Visit San Antonio",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Community Engagement Manager at Asian Texans for Justice (statewide nonpartisan AAPI civic nonprofit); San Antonio-based Democratic organizer, Seton Hall IR grad, ran for Northside ISD Place 6 and Alamo Colleges District 6. Identity corroborated by multiple public bios and news profiles.",
+  "source_url": "https://tx.emergeamerica.org/alumna/nicolette-ardiente/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Asian Texans for Justice",
+    "role": "Community Engagement Manager",
+    "category": "civic",
+    "source_url": "https://www.asiantexansforjustice.org/team",
+    "snippet": "Nicolette Ardiente serves as Community Engagement Manager at Asian Texans for Justice, a statewide non-partisan nonprofit that connects Asian Texans to civic power."
+   },
+   {
+    "org": "Bexar County Young Democrats",
+    "role": "Inaugural President (Sept 2021-present)",
+    "category": "political",
+    "source_url": "https://tx.emergeamerica.org/alumna/nicolette-ardiente/",
+    "snippet": "She serves as the President of the Bexar County Young Democrats."
+   },
+   {
+    "org": "Asian American Democrats of South Texas",
+    "role": "President (May 2022-present)",
+    "category": "political",
+    "source_url": "https://sanantonioreport.org/profile/nicolette-ardientenorthside-isd-place-6-candidate/",
+    "snippet": "Asian American Democrats of South Texas: President (May 2022-Present)."
+   },
+   {
+    "org": "Bexar County Democratic Party",
+    "role": "Precinct Chair & Voter Registration Committee Co-Chair (Aug 2020-present)",
+    "category": "political",
+    "source_url": "https://sanantonioreport.org/profile/nicolette-ardientenorthside-isd-place-6-candidate/",
+    "snippet": "Bexar County Democratic Party: Precinct Chair and Voter Registration Committee Co-Chair (August 2020-Present)."
+   },
+   {
+    "org": "Philippine American Chamber of Commerce - Greater San Antonio (PACC-GSA)",
+    "role": "Board Member",
+    "category": "business",
+    "source_url": "https://www.paccgsa.org/blog/nicolette-m-ardiente-newly-elected-board-member-of-the-philippine-american-chamber-of-commerce-greater-san-antonio-pacc-gsa",
+    "snippet": "Nicolette M. Ardiente: Newly Elected Board Member of the Philippine American Chamber of Commerce - Greater San Antonio."
+   }
+  ]
+ },
+ {
+  "donor_id": "b544adf6-340d-4ebb-8563-ead984de2ab6",
+  "name": "Hernandez, Denise",
+  "resolved_employer": "City of San Antonio — Council District 2 office (aide to Jalen McKee-Rodriguez)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation across filings (Aide/Council Aide/Policy Aide/City Council Aide) and employer 'Jalen McKee-Rodriguez / City of San Antonio' point to a staff aide in the candidate's own D2 office; her sustained small-dollar giving (2022-2026) is consistent with an office staffer. City staff directory was not independently accessible; no FEC PAC donations or TX lobbyist registration found.",
+  "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D2",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "87a3962f-9c75-4adb-89a9-d43d94a30747",
+  "name": "SEAN, ZELIBANOS",
+  "resolved_employer": "SHI International Corp. (Sales)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Name is reversed (given name Sean, surname Zelibanos); employer 'SHI' matches SHI International Corp., a large IT/software reseller, with a Sales occupation. Address is Manor, TX 78653 (Austin metro); the '13504' in the record is the street number, not a zip. No individual bio profile, FEC PAC donations, or TX lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/company/shi-international-corp-",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "31cb66eb-a6e1-4d0e-a953-fe5857607090",
+  "name": "Taylor, Silla",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reports Not Employed at 393 Montecillo Ct, Walnut Creek, CA 94595. A 'Silla P. Taylor, LAc' acupuncturist is listed in Oakland, CA (~15 mi away); the uncommon first name suggests a possible match but the Walnut Creek address could not be tied to that practice, so identity is not confirmed. No FEC PAC donations or lobbyist registration found.",
+  "source_url": "https://providers.sharecare.com/doctor/silla-taylor-xfwn6",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ad61faff-d4c3-48b8-bd85-095a219e95fa",
+  "name": "Waters, Lindsey",
+  "resolved_employer": "St. Luke's Baptist Hospital (Baptist Health System), San Antonio — RN",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Self-reported RN at St. Luke's Baptist Hospital, a Baptist Health System facility in San Antonio's South Texas Medical Center; donor resides in San Antonio 78244. No individual nurse-registry/bio profile confirming the specific person located; no FEC PAC donations or TX lobbyist registration found.",
+  "source_url": "https://www.baptisthealthsystem.com/locations/detail/st-lukes-baptist-hospital/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8d951d97-284d-4510-aed6-3b3150b9bd90",
+  "name": "Smith, Andrew",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed occupation 'Unemployed/Not Employed' in Scotch Plains, NJ 07076. 'Andrew Smith' is an extremely common name with no distinguishing occupation/employer/bio to corroborate a specific individual. No public profile, FEC PAC history, or lobbyist record identifiable. A quiet, unidentifiable result.",
+  "source_url": "https://www.spokeo.com/Andrew-Smith/New-Jersey",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3ad2d5c1-9789-429f-b369-82f0e42d7d2a",
+  "name": "Gopal, Sohil",
+  "resolved_employer": "Pima Heart and Vascular (Medical Scribe); now DO resident physician",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Distinctive name plus Arizona healthcare footprint corroborates: LinkedIn 'Sohil Gopal' earned an MS/bioengineering at University of Arizona (Tucson, near Sierra Vista), a pre-med path consistent with a medical-scribe role at a cardiology practice, and is now a DO resident physician. Employer Pima Heart & Vascular is a large AZ cardiovascular group with a Sierra Vista clinic. No PAC or lobbyist activity found.",
+  "source_url": "https://www.linkedin.com/in/sohil-gopal-do-118270158",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ea118c5c-4370-4d68-935f-609e48bd7b22",
+  "name": "Acosta-Driscoll, Lisa",
+  "resolved_employer": "Yakima School District (Eisenhower High School) — high school counselor",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Named on the Eisenhower High School counseling center staff page as a school counselor in the Yakima School District, matching donor occupation 'High School Counselor' and Yakima, WA location. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://eisenhower.ysd7.org/counseling/counseling-center",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d5b4b1c5-55ac-4cba-9dfc-88d1a414fefd",
+  "name": "Unden, Colton",
+  "resolved_employer": "UTSA (student/intern); ran for San Antonio City Council D1 in 2019",
+  "industry": "Student",
+  "confidence": "high",
+  "evidence": "Colton Unden is a documented San Antonio civic/political figure who ran for City Council District 1 in 2019 (then an 18-year-old barista); donor record now lists him as a UTSA Student/Intern at a downtown San Antonio address, consistent with the same local individual. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://sanantonioreport.org/incumbents-newbies-and-potential-surprises-enter-city-council-race/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "San Antonio City Council (District 1)",
+    "role": "Candidate for public office (2019)",
+    "category": "political",
+    "source_url": "https://news4sanantonio.com/news/beyond-the-podium/san-antonio-election-2019-city-council-candidate-profiles",
+    "snippet": "Colton Unden listed among the 2019 candidates for San Antonio City Council District 1; reported as an 18-year-old barista running for the seat then held by Roberto Trevino."
+   }
+  ]
+ },
+ {
+  "donor_id": "9d878c06-e177-491f-8184-576d119850c0",
+  "name": "Loseff, Mia",
+  "resolved_employer": "Texas Housers (Texas Low Income Housing Information Service) — South Texas Regional Director; later Local Progress",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "South Texas Regional Director at Texas Housers, San Antonio; organizes public-housing tenants and low-income families on housing policy. Matches donor employer/occupation and San Antonio location. Later became Housing Program Coordinator at Local Progress.",
+  "source_url": "https://texashousers.org/2021/10/26/texas-housers-south-texas-regional-director-mia-loseff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Housers (Texas Low Income Housing Information Service)",
+    "role": "South Texas Regional Director",
+    "category": "civic",
+    "source_url": "https://texashousers.org/2021/10/26/texas-housers-south-texas-regional-director-mia-loseff/",
+    "snippet": "Texas Housers new South Texas Regional Director Mia Loseff knows community leads the march to real change; organizes tenants and low-income families in San Antonio on housing policy."
+   },
+   {
+    "org": "Local Progress",
+    "role": "Housing Program Coordinator",
+    "category": "political",
+    "source_url": "https://localprogress.org/progress_staff/mia-loseff/",
+    "snippet": "Local Progress staff page lists Mia Loseff; Local Progress is a movement of local elected officials fighting for racial and economic justice (later role, after Texas Housers)."
+   }
+  ]
+ },
+ {
+  "donor_id": "c55744ec-7bec-4e91-9bdc-11aecf2b8332",
+  "name": "Knuth, Meagan",
+  "resolved_employer": "Meagan Knuth Law (self-employed attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Meagan Ann Knuth is a Texas-licensed solo attorney (Meagan Knuth Law) practicing criminal defense/family/immigration in the Dallas area; St. Mary's University School of Law. Matches donor 'Lawyer / Self' occupation and North Texas (Allen, 75013) location.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=373129",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3ee5eaf2-bb52-4dee-938a-be688180f7e9",
+  "name": "Brown, Jen",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reported Not Employed at 133 Lotus Ave, San Antonio 78210. 'Jen/Jennifer Brown' is a very common name; no public profile could be uniquely tied to the address. No confident identification; no FEC PAC or TX lobbyist record found.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f7de4867-d5ec-4499-b736-f322fe35affe",
+  "name": "Cain, Valerie",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reported Not Employed at 2006 Layton St, Pasadena, CA 91104. 'Valerie Cain' is a common name; a Pasadena aggregator record exists but no public profile (occupation/affiliation) could be corroborated for the specific individual. No confident identification; no FEC PAC or lobbyist record found.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

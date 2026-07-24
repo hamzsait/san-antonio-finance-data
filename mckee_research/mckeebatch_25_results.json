@@ -1,0 +1,234 @@
+[
+ {
+  "donor_id": "41582db9-a1ba-460a-858c-8c75c59c246d",
+  "name": "McDonald, Chante",
+  "resolved_employer": "Case manager at CHS (health/human-services provider) in the Navarre, FL area",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'Case manager' at 'CHS' in Navarre, FL panhandle. CHS most plausibly Comprehensive Health Services / Children's Home Society; could not confirm the specific individual online, but case-manager role places her in health/human services.",
+  "source_url": "https://en.wikipedia.org/wiki/Comprehensive_Health_Services",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3e019caf-3b16-4a7e-995b-c6736622fe05",
+  "name": "Plaza, Josue",
+  "resolved_employer": "Not employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "San Antonio (78218) donor listed as Not Employed with a very high recurring small-dollar federal donation count (118) and a fully Democratic-leaning giving pattern; no public bio, news, FEC-itemized PAC record, or lobbyist registration found to further identify the individual.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3b5c32a3-ad69-414f-a755-175bc5a51dfa",
+  "name": "Kaufmann, Bear",
+  "resolved_employer": "Chief Scientist / CTO at ALL Power Labs (biomass gasification power generation), Emeryville CA",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Confirmed via firm staff page and LinkedIn: Bear Kaufmann is Chief Scientist at ALL Power Labs in Emeryville/Berkeley, developing biomass gasifier control systems and biochar research; B.S. Environmental Studies-Earth System Science, SF State. Matches zip 94608/employer.",
+  "source_url": "https://www.allpowerlabs.com/about-us/apl-staff/bear-kaufmann",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3b1f8f91-c3cb-47a6-8f23-cd0a1b7287a8",
+  "name": "Bozada, John",
+  "resolved_employer": "Attorney and founder of Bozada PC (business/litigation/real estate law), San Antonio; adjunct professor at St. Mary's Univ. School of Law; Of Counsel at George Salinas Injury Lawyers",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "John Robert Bozada II: Yale Law (2003), UT Austin Plan II/BBA, former federal clerk, ex-GC of Kell Munoz Architects, founder of Bozada PC. Matches 78212 PO box and 'Attorney/Bozada PC'. No PAC or lobbyist record found.",
+  "source_url": "http://www.bozadapc.com/johnbozada",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3acc139b-9f06-4756-8a05-755fe2edcc34",
+  "name": "Rose, Grace",
+  "resolved_employer": "Grace Rose Gonzales — Principal/designer at Grace PG Design Group LLC (design-build/architectural design firm), San Antonio",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Grace Rose Gonzales founded Grace PG Design Group (2005) doing city/county/private design work; studied architectural design at Univ. of Houston. Matches 1442 W Lynwood / 78201 and 'Principal, Grace PG Design Group'. Politically active Democrat.",
+  "source_url": "https://www.sacurrent.com/news/glitter-political-grace-rose-gonzales-is-designing-a-path-to-chair-bexar-countys-democratic-party-23961288/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Bexar County Democratic Party", "role": "2020 candidate for party chair (advanced to runoff)", "category": "political", "source_url": "https://www.sacurrent.com/news/glitter-political-grace-rose-gonzales-is-designing-a-path-to-chair-bexar-countys-democratic-party-23961288/", "snippet": "Grace Rose Gonzales... a candidate for Bexar County Democratic Party chair, advancing to a runoff with 27% of Super Tuesday votes."},
+   {"org": "San Antonio Cultural Arts Board", "role": "Chair (six years)", "category": "civic", "source_url": "https://www.sacurrent.com/news/glitter-political-grace-rose-gonzales-is-designing-a-path-to-chair-bexar-countys-democratic-party-23961288/", "snippet": "Served as chair of the Cultural Arts Board for six years as an arts advocate."}
+  ]
+ },
+ {
+  "donor_id": "3aa517c6-4898-43cf-abb3-856960f5051a",
+  "name": "Garcia, Paola",
+  "resolved_employer": "Teacher, Brush High School (Fort Morgan, CO)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Donor record lists teacher at Brush High School in Fort Morgan, CO (zip 80701). No public profile found to confirm the specific individual; classified by stated occupation/employer.",
+  "source_url": "https://en.wikipedia.org/wiki/Brush_High_School_(Colorado)",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "39150418-f453-4583-80be-72093724a6dc",
+  "name": "Hoover, Elizabeth",
+  "resolved_employer": "Political consultant; co-founder of 270 Strategies and founder/managing partner of Higher Ground Labs",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Elizabeth 'Betsy' Hoover, Chicago (Lincoln Park, 60657), was National Digital Organizing Director for the 2012 Obama campaign, co-founded Democratic firm 270 Strategies (2013), and founded political-tech incubator Higher Ground Labs (2017). Employer, zip, occupation and 108-donation history all consistent with a prolific Democratic political operative.",
+  "source_url": "https://highergroundlabs.com/people/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "270 Strategies", "role": "Co-founder", "category": "political", "source_url": "https://www.influencewatch.org/for-profit/270-strategies/", "snippet": "270 Strategies is a left-of-center political consulting firm founded by veterans of Barack Obama's campaigns; Betsy Hoover was among its founders."},
+   {"org": "Higher Ground Labs", "role": "Founder & Managing Partner", "category": "political", "source_url": "https://highergroundlabs.com/people/", "snippet": "Betsy co-founded Higher Ground Labs in 2017, an incubator/accelerator investing in Democratic political technology."}
+  ]
+ },
+ {
+  "donor_id": "37686d0f-51b4-41f8-9a94-18f9d108b6d6",
+  "name": "Palma, Bianca",
+  "resolved_employer": "Realtor, Coldwell Banker (Killeen, TX)",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Donor record lists realtor at Coldwell Banker in Killeen, TX (zip 76549). Coldwell Banker's Killeen office confirmed, but no public agent profile found to verify this specific individual; classified by stated occupation/employer.",
+  "source_url": "https://www.coldwellbanker.com/tx/killeen/offices/coldwell-banker-realty/oid-P00400000FDdqgmY6uuWoQSE5oIF9nrVyAh4CuCr",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3298be99-0a86-4d6d-92bc-df4f07c6f9e4",
+  "name": "Lowry, Margaret",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor record lists 'Not Employed' at an Austin address (Scioto Ct, 78747, South Austin/Onion Creek area). Multiple same-named individuals appear in Austin; could not corroborate the specific person or any career history. No FEC PAC or lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "31e381ca-3c9e-4415-9bd5-b5665aec871c",
+  "name": "Castillo, Christine",
+  "resolved_employer": "Retired Division Chief, Bexar County District Clerk's Office; 2026 candidate/elected Bexar County District Clerk (Government, retired)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Christine 'Chris' Castillo, 59, lifelong South Side San Antonio resident (78221 is South Side), spent 33 years at the Bexar County District Clerk's Office, retiring in 2019 as Division Chief. Democrat, LGBTQ+ candidate who won the 2026 District Clerk race. 'Not Employed' status, South Side zip, and 0.78 partisan lean with 43 FEC donations all consistent.",
+  "source_url": "https://sanantonioreport.org/profile/christine-chris-castillo-2026-candidate-for-bexar-county-district-clerk/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "LGBTQ+ Victory Fund", "role": "Endorsed candidate", "category": "civic", "source_url": "https://victoryfund.org/candidate/christine-castillo/", "snippet": "Castillo would be the first out LGBTQ+ member elected as Bexar County District Clerk; endorsed by the LGBTQ+ Victory Fund."},
+   {"org": "Stonewall Democrats of San Antonio", "role": "Endorsed candidate", "category": "political", "source_url": "https://www.tpr.org/government-politics/2026-05-27/bexar-county-voters-toss-another-district-clerk-swapping-in-christine-chris-castillo", "snippet": "Her campaign was backed by the LGBTQ+ Victory Fund and the Stonewall Democrats of San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "2c8ceddc-d95b-4198-b179-1bee23805cc2",
+  "name": "Brooks, Sydell",
+  "resolved_employer": "City of San Antonio — District 1 council office (aide to former Councilman Roberto Treviño; later District 1 Director of Development & City Planning)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Municipal government staffer in San Antonio's District 1 office; occupation/employer on the filing (Council Aide, Roberto Treviño) matches her public City of San Antonio District 1 role.",
+  "source_url": "https://wiza.co/d/city-of-san-antonio/e672/sydell-brooks",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2c5512e7-3d8f-4634-997c-8e1aec434c84",
+  "name": "GARZA, Adela",
+  "resolved_employer": "North East ISD (NEISD) teacher, San Antonio",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Public-school teacher per filing; could not confirm a specific online profile (many Garzas at NEISD). The FEC candidate 'ELECT ADELA GARZA' (H2TX34055) is a Rio Grande Valley/TX-34 congressional figure — a different person, not this NEISD teacher.",
+  "source_url": "https://www.neisd.net/staff-directory/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2c1116d6-7a99-446e-8eda-2768de65b43f",
+  "name": "Cisneros, Roland",
+  "resolved_employer": "Military (cyber security)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Filing lists occupation 'Cyber Security' and employer 'Military' in San Antonio (78258), a major military-cyber hub (JBSA/16th Air Force). No specific public profile confirmed; classified by stated military employer.",
+  "source_url": "https://www.tpr.org/military-veterans-issues/2025-10-20/texas-cyber-command-launches-at-ut-san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "27bd6843-b111-4ffa-80ff-9527d46f1c13",
+  "name": "Cabrera, Lauren",
+  "resolved_employer": "Self-employed financial educator (Honolulu, HI)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Out-of-state donor in Honolulu; occupation 'Financial Educator', self-employed. Multiple 'Lauren Cabrera' profiles exist in Hawaii (e.g., a Hawaii News Now media executive) but none confirmed as a self-employed financial educator; identity not verified.",
+  "source_url": "https://www.spokeo.com/Lauren-Cabrera",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "21e8a81e-9849-4040-bf3b-c22aa04a548f",
+  "name": "Holley, Chaunice",
+  "resolved_employer": "U.S. Army registered nurse (Brooke Army Medical Center, San Antonio)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "LinkedIn 'Chaunice Holley, MSN, RN, CSN — US Army' and references to nurse work at Brooke Army Medical Center in San Antonio match the filing's occupation (Registered Nurse) and employer (US Army).",
+  "source_url": "https://www.linkedin.com/in/chaunice-holley/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "214ca055-abed-4e4f-948b-79531286faf3",
+  "name": "MartinezHiggins, Yvonne",
+  "resolved_employer": "Government (self-reported employer); occupation 'Safety' suggests a safety officer/coordinator role — specific individual not confirmable",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Could not distinguish this specific person among 500+ 'Yvonne Martinez' records in Texas; no unique public profile matched the 78209 address, government-safety role, or a distinctive donation pattern. Industry taken from self-reported employer 'Government.'",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1f62de31-d774-4bc0-8245-447e8faca391",
+  "name": "Perez, Raymond",
+  "resolved_employer": "Rice Gorton Pictures, Ltd — a Los Angeles film/TV production payroll & production-accounting company (Perez listed as 'Assistant Accountant')",
+  "industry": "Entertainment",
+  "confidence": "low",
+  "evidence": "Employer is a documented entertainment-industry (film/TV) production-accounting firm; the specific 'Raymond Perez' (common name, Van Nuys) could not be individually confirmed. Industry classified via employer fallback.",
+  "source_url": "https://la411.com/listing/rice-gorton-pictures-ltd",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1f3468df-6361-49e9-8c07-b4516e390ea4",
+  "name": "Ricci, Dad",
+  "resolved_employer": "COMPETE / 'Compete Digital' — Partner & Director of Sales at a Democratic political digital-media/consulting firm; also Modesto City Council member (District 3). ('Dad' is a placeholder first name; individual is Chris Ricci)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Employer 'Compete Digital,' 'Partner' title, and 1113 Mills Ave / Modesto 95350 all match Chris Ricci, Partner/Director of Sales at COMPETE (political media firm) and elected Modesto City Council District 3 member; 'Dad' is a placeholder first name.",
+  "source_url": "https://competeeverywhere.com/who-we-are/meet-the-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "COMPETE (competeeverywhere.com)", "role": "Partner, Director of Sales", "category": "political", "source_url": "https://competeeverywhere.com/who-we-are/meet-the-team/", "snippet": "Chris Ricci — Partner, Director of Sales; worked with social media teams for CA-21 and Josh Harder's CA-10 campaign and on texting campaigns for Democratic candidates."},
+   {"org": "City of Modesto", "role": "City Council Member, District 3", "category": "political", "source_url": "https://www.modestogov.com/730/District-3---Chris-Ricci", "snippet": "Chris Ricci is the City Council Member for Modesto's District 3 and a Partner at the digital marketing firm COMPETE Digital."}
+  ]
+ },
+ {
+  "donor_id": "1ed8f05d-2ae4-4225-a822-7ae827f0082b",
+  "name": "Suggs, David",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Address 5020 Gene Cernan Dr, Kirby/San Antonio 78219 appears in people-finder records for a 'David Suggs,' but the specific individual (a recurring small-dollar Democratic-leaning donor, fec_count 9) could not be uniquely confirmed via a public bio. Self-reported occupation 'Not Employed.'",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "18712b40-690a-4c30-80d3-15e645707e73",
+  "name": "Abshire, Anthony",
+  "resolved_employer": "Hazlehurst City School District, Mississippi — teacher (self-reported)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Hazlehurst City School District (MS) is a real, documented public school district near Pearl/Jackson; the specific teacher 'Anthony Abshire' could not be individually confirmed in staff directories from public search. Industry classified via employer fallback.",
+  "source_url": "https://en.wikipedia.org/wiki/Hazlehurst_City_School_District",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

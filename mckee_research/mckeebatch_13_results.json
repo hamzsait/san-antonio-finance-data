@@ -1,0 +1,235 @@
+[
+ {
+  "donor_id": "7534fa2e-b70e-488d-ab36-d67e64fd17b3",
+  "name": "Lavalliere, Christina",
+  "resolved_employer": "Administrative assistant/bookkeeper, Austin Independent School District (per filing); Buda TX resident",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Filing-provided employer is Austin ISD (admin assistant/bookkeeper), Buda 78610. No independent public profile, news, or record found under this name; identity rests on the filing itself.",
+  "source_url": "https://www.austinisd.org/directory",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7451c78a-0236-4588-932e-541f03d21eb7",
+  "name": "Mack, Robert",
+  "resolved_employer": "ESI Processing Specialist, ProSearch Strategies (enterprise eDiscovery / legal data analytics firm), Valley Village CA",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Employer ProSearch Strategies is a Los Angeles-based eDiscovery/legal data analytics company; an ESI Processing Specialist processes electronically stored information for litigation. Robert Mack is a very common name in CA; no individual LinkedIn/bio or PAC record confirmed for this specific person.",
+  "source_url": "https://www.prosearch.com/services/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6eede627-c9ea-41be-af30-984624198ab8",
+  "name": "D RICHMOND, MATTHEW",
+  "resolved_employer": "Assembly worker, Toyota (Toyota Motor Manufacturing Texas, San Antonio)",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Filing lists Toyota assembly worker at 1819 Montana St, San Antonio 78203. No individual public profile, FEC PAC record, or lobbyist registration found. Very likely the SAME person as donor 5b15f2f6 (identical name, Toyota assembly, 1819 Montana St 78203) — probable duplicate record.",
+  "source_url": "https://pressroom.toyota.com/facility/toyota-motor-manufacturing-texas/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6e814797-a757-469d-9d34-78f138042fb8",
+  "name": "Yglesias, Joseph",
+  "resolved_employer": "Environmental consultant/guide (Certified Texas Master Naturalist; conservation contract work) and U.S. Navy veteran, retired 2019",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Joseph 'Joedy' Yglesias, San Antonio LGBTQ and environmental activist, Navy veteran (linguist/cryptologist, retired 2019), Certified Texas Master Naturalist; ran for San Antonio River Authority board in 2023. Filing lists 'Not Employed' but he does contract environmental/conservation work. No lobbyist registration found.",
+  "source_url": "https://sanantonioreport.org/meet-the-candidates-san-antonio-river-authority-board/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio River Authority – Environmental Advisory Committee", "role": "Co-chair", "category": "civic", "source_url": "https://sanantonioreport.org/meet-the-candidates-san-antonio-river-authority-board/", "snippet": "Co-chair of the environmental advisory committee for the San Antonio River Authority"},
+   {"org": "Latino Outdoors", "role": "Outings leader", "category": "civic", "source_url": "https://sanantonioreport.org/meet-the-candidates-san-antonio-river-authority-board/", "snippet": "Outings leader for Latino Outdoors"}
+  ]
+ },
+ {
+  "donor_id": "6bc70d88-2366-48e4-8f27-fcbf3168dec5",
+  "name": "Seitsinger, Rachel",
+  "resolved_employer": "Billing assistant, American Institutes for Research (nonprofit social-science research organization), San Antonio",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Filing lists billing assistant at American Institutes for Research (AIR), a nonpartisan nonprofit research org, San Antonio 78256. A LinkedIn profile exists for Rachel Seitsinger but its full content could not be read; no PAC or lobbyist record found.",
+  "source_url": "https://www.linkedin.com/in/rachel-seitsinger",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6ac6b627-5710-4513-b2b8-45fb90e3eacd",
+  "name": "Mata, Raul",
+  "resolved_employer": "Lower Colorado River Authority (LCRA), Engineer Associate I",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Engineer at LCRA, the statutory public river/utility authority headquartered at 7707 S IH-35, Austin (78744) — his listed work address. Employer, occupation and address align; no personal public profile found. High FEC donation count (141, partisan_lean 1.0) is consistent with small-dollar recurring Democratic (ActBlue-style) giving, not tracked PAC activity.",
+  "source_url": "https://en.wikipedia.org/wiki/Lower_Colorado_River_Authority",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6859943b-24b7-4ed0-a918-1bf347b69b62",
+  "name": "Rodriguez, Vanessa",
+  "resolved_employer": "Self-Employed (specific business not identifiable)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Common name; self-employed at 249 Claremont Ave, San Antonio 78209 (Alamo Heights area). No public profile, business, bio, lobbyist record, or itemized PAC contribution could be tied to this specific individual. High FEC count (101, partisan_lean 0.78) suggests a small-dollar recurring donor but identity not confirmable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "66a0417f-448e-449e-a810-dce95b48649b",
+  "name": "Medlong, Jesse",
+  "resolved_employer": "DLA Piper (Of Counsel) — sustainability, climate change and environmental litigation attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Jesse Colin Medlong, CA Bar #294536, attorney at global firm DLA Piper focused on sustainability/ESG and climate litigation; 10-year Navy veteran (two Persian Gulf deployments); has advised sovereign nations in UN climate negotiations. Listed address San Leandro, CA 94577 matches his SF Bay Area base.",
+  "source_url": "https://www.dlapiper.com/en-us/people/m/medlong-jesse-colin",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Atlantic Council", "role": "Named expert (foreign-policy think tank)", "category": "civic", "source_url": "https://www.atlanticcouncil.org/expert/jesse-medlong/", "snippet": "Listed as a named expert with the Atlantic Council."},
+   {"org": "BACK@YOU", "role": "Board of Directors", "category": "civic", "source_url": "https://www.dlapiper.com/en-us/people/m/medlong-jesse-colin", "snippet": "Board of Directors, BACK@YOU (nonprofit serving unhoused citizens in St. Louis)."}
+  ]
+ },
+ {
+  "donor_id": "6621cafe-e192-4f25-b005-b441168325b8",
+  "name": "Bobbitt, Lynn",
+  "resolved_employer": "Brackenridge Park Conservancy — Executive Director (2015-2021), later Director of Development & Community Outreach",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Lynn Osborne Bobbitt, longtime San Antonio nonprofit/historic-preservation leader; ran the Brackenridge Park Conservancy; lives in the King William historic district (410 King William St, 78204) matching her listed address. Past President of the San Antonio Conservation Society; helped create San Antonio Missions National Historical Park.",
+  "source_url": "https://www.tclf.org/sites/default/files/microsites/sanantonio2017/bobbitt.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Conservation Society", "role": "Former President", "category": "civic", "source_url": "https://www.tclf.org/sites/default/files/microsites/sanantonio2017/bobbitt.html", "snippet": "President of the San Antonio Conservation Society, where she helped establish the San Antonio Missions National Historical Park."},
+   {"org": "Brackenridge Park Conservancy", "role": "Executive Director / Director of Development", "category": "civic", "source_url": "https://brackenridgepark.org/leadership/", "snippet": "Executive Director of The Brackenridge Park Conservancy; advises the City of San Antonio on development in Brackenridge Park."}
+  ]
+ },
+ {
+  "donor_id": "656d6857-d039-4a03-9f06-2a280f0442c9",
+  "name": "Dillard, Porter",
+  "resolved_employer": "Dillard Architect Group, PLLC (founder/principal); previously CPS Energy Director of Facilities, Fleet & Security (retired)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Porter C. Dillard Jr., registered Texas architect (Reg. #8228); founded Dillard Architect Group in 2007 after retiring from CPS Energy where he was Director of Facilities; prior years as VP of a San Antonio architecture firm. Public records place him at 4142 Briarcrest St, San Antonio 78247 — his exact listed address.",
+  "source_url": "http://www.dillardarchitectgrp.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "633ee19c-f56c-40ba-bf03-f0b3c953ca71",
+  "name": "OMOWALE, DEBORAH",
+  "resolved_employer": "Self-reported \"Not Employed.\" A notable same-named public figure (Deborah Omowale Jarmon, CEO of SAAACAM) exists but is not confirmed as this record.",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Campaign form lists her as Not Employed at 6743 Congressional Blvd (78244, NE side). The distinctive surname 'Omowale' and a co-donor (Sandra Ogogor) tied to SAAACAM raise a possible link to SAAACAM CEO Deborah Omowale Jarmon, but the 'Not Employed' occupation and mismatched zip (the CEO is a King William resident) leave the match unconfirmed.",
+  "source_url": "https://saaacam.org/leadership/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "601b77bb-1534-42a6-869d-4f993cf619b5",
+  "name": "CANTU-DONALDSON, JULIETTE",
+  "resolved_employer": "Director of Purchasing at SPFM, L.P. — a San Antonio-based drugstore/pharmacy and drug-sundries wholesale company",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "SPFM, L.P. is a San Antonio pharmacy/drug-wholesale firm (classified under Drug Stores & Pharmacies by business directories). Her self-reported role of Director of Purchasing fits a company of that size; no separate public profile surfaced, but employer and role are consistent. Note: SPFM is a San Antonio drugstore/pharmacy company, not 'Sun Pacific Farming.'",
+  "source_url": "https://www.dnb.com/business-directory/company-profiles.spfm_lp.e0a5e8a5a3bf2ddc880cc2b798426b89.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5fc751d4-ba56-4ac2-9bcb-c0d41eb68418",
+  "name": "Ogogor, Sandra",
+  "resolved_employer": "Self-reported \"Business owner / Self.\" Publicly documented as Sandra Flores Ogogor, Office Manager at the San Antonio African American Community Archive & Museum (SAAACAM) and a UTSA graduate student.",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Distinctive surname; the only Sandra Ogogor documented in San Antonio is Sandra Flores Ogogor, SAAACAM office manager and UTSA grad student. She self-reported 'Business owner/Self' on the campaign form, which may reflect a side venture distinct from her museum role. Identity match is strong on name/city; reported occupation differs from her public role.",
+  "source_url": "https://saaacam.org/leadership/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5ef5cb30-b9ae-44fe-bbfd-5310dfbd072e",
+  "name": "Gutierrez, Raul",
+  "resolved_employer": "Teacher, Galena Park Independent School District (Houston-area district)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Employer confirmed as a real public school district (Galena Park ISD, Harris County). Common name; the specific individual could not be pinned to a public staff-directory entry, so classification relies on the stated employer. Donor is in the Houston area (77547) giving small recurring amounts to a San Antonio D2 councilman, consistent with ActBlue-style recurring giving.",
+  "source_url": "https://www.galenaparkisd.com/employment/hrs/staff-directory",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5b15f2f6-fb6e-437b-874d-45bad136cc0c",
+  "name": "Richmond, Matthew",
+  "resolved_employer": "Assembly worker, Toyota — Toyota Motor Manufacturing Texas (Tundra/Sequoia plant, South San Antonio)",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "'Toyota' + 'Assembly' identifies Toyota Motor Manufacturing Texas, the automotive assembly plant in south San Antonio; donor lives at 1819 Montana St (78203, Denver Heights). No public profile (line worker, common name), so classified via employer fallback. Same address as record 'D RICHMOND, MATTHEW' (6eede627) — corroborates a single individual / probable duplicate.",
+  "source_url": "https://en.wikipedia.org/wiki/Toyota_Motor_Manufacturing_Texas",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4b9dd6fe-fc8a-4b08-be0e-b6c83c5669e2",
+  "name": "Thomas, Saige",
+  "resolved_employer": "Self-employed fashion/portrait photographer and fashion-show producer; U.S. Air Force retiree (2021)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Air Force veteran who moved to San Antonio in 2010, retired 2021, now a fashion photographer and Executive Producer of Texas Fashion Week; SA/Converse area matches donor address. Listed as 'Not Employed' on the filing but is in fact self-employed.",
+  "source_url": "https://voyagesanantonio.com/interview/life-work-with-saige-thomas-of-san-antonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Fashion Industry Initiative (501c3) / Texas Fashion Week", "role": "Vice President / Executive Producer", "category": "civic", "source_url": "https://texasfashionindustry.org/member-saige-thomas/", "snippet": "serves as Vice President of the Texas Fashion Industry Initiative and Executive Producer of Texas Fashion Week"}
+  ]
+ },
+ {
+  "donor_id": "45d79acc-506b-48e8-9a04-da509be5c464",
+  "name": "Macias, Megan Joy",
+  "resolved_employer": "Texas Organizing Project — Texas 4 All Campaign Coordinator / Statewide Electoral Strategy Coordinator (progressive political organizer)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "San Antonio-based Democratic political organizer at Texas Organizing Project; prior work on Sri Kulkarni for Congress, Julian Castro's 'Julian For The Future,' and San Antonio ISD; UTSA geography grad. Occupation 'Consultant' and partisan_lean 1.0 consistent with a professional progressive campaign staffer.",
+  "source_url": "https://www.linkedin.com/in/meganjoymacias/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Organizing Project", "role": "Texas 4 All / Statewide Electoral Strategy Coordinator", "category": "political", "source_url": "https://www.linkedin.com/in/meganjoymacias/", "snippet": "Texas 4 All Campaign Coordinator at Texas Organizing Project"}
+  ]
+ },
+ {
+  "donor_id": "44af1102-3f2c-467a-887a-567f07d5db2a",
+  "name": "Brown, Evelyn",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired; 'Evelyn Brown' is a very common name and no public profile could be tied specifically to the 527 Burnet St, 78202 individual. The high fec_donation_count (297) could not be independently verified against this specific person. No employer or former career documented.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "44aa28e6-bd05-4581-b38d-ace904ad6933",
+  "name": "Lopez, Miguel",
+  "resolved_employer": "AF Trucking (office manager / self-employed) — small trucking carrier",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Self-reported office manager at AF Trucking, a small motor carrier; multiple 'AF Trucking' USDOT carriers exist in the FMCSA SAFER database but the specific Buda, TX entity could not be pinned. No public personal profile beyond the trucking employer; industry assigned by employer fallback.",
+  "source_url": "https://safer.fmcsa.dot.gov/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4156d829-4484-4e8a-a8d5-212c02ceb4ec",
+  "name": "Calderon, Ariel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed as Not Employed at 4811 Luz Ave, 78237. No public profile, bio, FEC PAC record, or lobbyist registration found for this specific person; other 'Ariel' Calderon results in San Antonio did not match. Quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

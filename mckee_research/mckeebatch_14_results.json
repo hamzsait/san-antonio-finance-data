@@ -1,0 +1,260 @@
+[
+ {
+  "donor_id": "3f635de4-cc3d-44cd-9124-975e4a724abd",
+  "name": "Matias, Mason",
+  "resolved_employer": "U.S. Renal Care",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Registered/Regional Dietitian Manager at U.S. Renal Care (Greater Houston region); MBA Texas A&M, BS UT Austin; prior RD at H-E-B and Sodexo. Matches occupation 'Dietitian' and employer 'US Renal Care'; Shiner TX 77984 is a plausible South-Central TX base.",
+  "source_url": "https://www.zoominfo.com/p/Mason-Matias/3607909187",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "39ca612c-56f4-4394-a52a-5982358f785c",
+  "name": "Gloria, Jessie",
+  "resolved_employer": "Arc Initiatives",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "San Antonio-based digital strategist; LinkedIn/ZoomInfo show Manager of Digital Engagement at National Committee for Responsive Philanthropy and prior Digital Strategist at Texas Organizing Project. Matches occupation 'Digital Strategist' and progressive public-affairs firm Arc Initiatives; zip 78209 (SA) consistent. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/jessie-gloria-502969169",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "316466f0-8392-4f8e-8503-4664b032e78f",
+  "name": "Karuru, Mercy",
+  "resolved_employer": "OpusCare of Texas",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Palliative Care Liaison / marketing & business development at OpusCare of Texas (San Antonio hospice), now Sr. Rep/Business Development at Guiding Light Hospice; BA Psychology UT San Antonio. Matches occupation 'Marketing', employer 'Opuscare', San Antonio 78240.",
+  "source_url": "https://www.linkedin.com/in/mercykaruru/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2ed2286c-8cfd-442e-93c9-1229e98589a5",
+  "name": "Mengrone, Maria",
+  "resolved_employer": "San Antonio ISD (SAISD)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Listed as SAISD teacher, zip 78207 (West Side San Antonio). No distinct public profile, FEC PAC record, or lobbyist registration found; identity not corroborable beyond stated occupation/employer.",
+  "source_url": "https://www.saisd.net/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2ec688b9-f2cd-4ca1-9622-88db3c88ab1a",
+  "name": "Montano, Michael",
+  "resolved_employer": "Cotchett, Pitre & McCarthy LLP (litigation attorney; San Antonio-based)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Ninth-generation San Antonian, Stanford Law/Yale, antitrust & privacy litigator at Cotchett Pitre & McCarthy; former policy advisor to Mayor Julian Castro and San Antonio City Council candidate. Matches donor zip 78215. No AIPAC/J Street/oil-gas/gun/defense-PAC records or TX lobbyist registration found.",
+  "source_url": "https://lawtally.com/lawyers/michael-montano/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Truman National Security Project",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://lawtally.com/lawyers/michael-montano/",
+    "snippet": "Professional affiliations list him as a member of the American Bar Association, American Constitution Society, and the Truman National Security Project (center-left national security leadership org)."
+   }
+  ]
+ },
+ {
+  "donor_id": "2c0de53c-8bf2-438e-9d7e-745cba171521",
+  "name": "Cagigal, Gonzalo",
+  "resolved_employer": "U.S. Social Security Administration, Office of Inspector General (OIG)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Gonzalo Cagigal II, MSA, Senior Auditor at SSA OIG, Dallas-Fort Worth metro (McKinney, TX 75071), MS in Accounting, 2014 fraud-detection award. Matches donor occupation/employer/location. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/gonzalo-cagigal-ii-msa-01305969/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "27542a46-bf90-45bd-a181-46f91afe59be",
+  "name": "Stewart, Chris",
+  "resolved_employer": "San Antonio City Council (staff aide); also student",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Listed as a student and City Council staff aide in zip 78248 (far north-central San Antonio). No unique public profile corroborated; 'Chris Stewart' is a common name with no distinguishing FEC, lobbyist, or bio record tying to this individual.",
+  "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D2",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "21cf492e-e21d-4312-aa3a-b29cda683b9b",
+  "name": "Ewing, Matt",
+  "resolved_employer": "Down Ballot Climate Partners, LLC (Co-Founder/CEO; self-employed consultant)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Oakland-based self-employed consultant matches Matt Ewing, Co-Founder/CEO of Down Ballot Climate Partners (a left-of-center political consulting/advocacy firm) and co-founder/managing director of Swing Left; prior roles at MoveOn.org, New Organizing Institute, SolarCity, Rewiring America. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/mattewing/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Swing Left",
+    "role": "Co-Founder / Managing Director",
+    "category": "political",
+    "source_url": "https://en.wikipedia.org/wiki/Swing_Left",
+    "snippet": "Ewing was one of the founders of Swing Left, a Democratic Party-aligned fundraising and voter mobilization organization, and served as managing director."
+   },
+   {
+    "org": "Down Ballot Climate Partners, LLC",
+    "role": "Co-Founder / CEO",
+    "category": "civic",
+    "source_url": "https://www.influencewatch.org/for-profit/down-ballot-climate-partners-llc/",
+    "snippet": "Left-of-center consulting firm and for-profit political advocacy organization directing funding to local candidates to advance environmental policies; co-founded by Matt Ewing."
+   }
+  ]
+ },
+ {
+  "donor_id": "1eef9e53-4149-4a4a-9f51-f978a65e0537",
+  "name": "Frederick, Richard",
+  "resolved_employer": "Tobin Center for the Performing Arts (Director of Resident Company and Community Engagement)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Richard 'Rick' Frederick is Director of Resident Company and Community Engagement at the Tobin Center for the Performing Arts in San Antonio; a theatre artist (actor/director/producer) with prior roles as Managing Director of AtticRep and at the McNay Art Museum. Matches occupation/employer/location. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/rick-frederick-b3918b13/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "16c5b9cc-f0bf-4203-be0c-c2f1e19d1ef1",
+  "name": "Whitehead, Charles",
+  "resolved_employer": "ASP Cares (specialty pharmacy), San Antonio",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Employer ASP Cares is a San Antonio specialty/compounding pharmacy chain; occupation 'community liaison' fits a pharmacy outreach role. No public profile located for this individual; zip 78320 does not match San Antonio (78320 is Aransas Pass area), so identity is unconfirmed. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.aspcares.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1070485d-a545-4cc1-936b-d72258143a8b",
+  "name": "M Acevedo, Ariadne",
+  "resolved_employer": "Futuro Media Group (Development Officer); donor form lists 'Not Employed'",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Spokeo lists Ariadne Acevedo at 1701 Fremont St, Laredo, TX 78043 — matching donor's 1719 Fremont St, 78043. Futuro Media bio describes 'Ari' Acevedo as a Development Officer, a self-identified 'fronteriza' with a decade in nonprofit and political fundraising. Address + name + border identity corroborate. Donation record self-reports 'Not Employed,' so she may have been between roles at time of gift. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.futuromediagroup.org/our-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a07e726-0c47-46df-830f-607ca8dfe8a1",
+  "name": "Mesquiti, Alfred",
+  "resolved_employer": "DeckSavvy, LLC (Founder & CEO); also Chief Storyteller at Active Capital",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "LinkedIn/Crunchbase/San Antonio Report confirm Alfred Mesquiti is Founder & CEO of DeckSavvy LLC, a San Antonio pitch-deck/presentation consultancy — matching donor's self-employed / 'Decksavvy LLC' entry. Also serves as Chief Storyteller for VC firm Active Capital. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.crunchbase.com/person/alfred-mesquiti",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "08b09625-e6c4-450a-b6ed-ac352a5c1b37",
+  "name": "Kyle, Hudson",
+  "resolved_employer": "RAICES (Refugee and Immigrant Center for Education and Legal Services)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Hudson Robert Kyle, UT Law '18, Equal Justice Works Fellow who stayed on as staff immigration attorney at RAICES in San Antonio; State Bar of Texas member. Matches occupation (Attorney), employer (RAICES), and San Antonio 78212 location.",
+  "source_url": "https://www.equaljusticeworks.org/fellows/hudson-kyle/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "08002d5b-3a2c-4615-8d2e-59dee725d27c",
+  "name": "King, Alisha",
+  "resolved_employer": "U.S. Department of Veterans Affairs (VA), San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Alisha E. King (Emmett), MD, psychiatrist/sleep medicine in San Antonio, affiliated with Audie Murphy VA Medical Center; UTMB Galveston medical degree. Matches occupation (Psychiatrist), employer (VA), and 78209 (Alamo Heights) area.",
+  "source_url": "https://www.doximity.com/pub/alisha-king-md",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "05760618-0e1d-4689-b58b-2584727c9528",
+  "name": "Cole, Dette",
+  "resolved_employer": "D'Ette Cole Design Solutions (self-employed); owner of Good Goods, Dignowity Hill",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "D'Ette Cole, longtime interior designer/antiques dealer (co-founded Uncommon Objects, Austin), runs D'Ette Cole Design Solutions and opened Good Goods home-decor shop in Dignowity Hill (East Side, near 78208). Matches occupation (interior designer), self-employed status, and East Side location.",
+  "source_url": "https://www.dettecole.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fddc0836-efa6-4792-9bb5-00ea44ac85a5",
+  "name": "Castillo, Arlinda",
+  "resolved_employer": "Northside Independent School District (NISD)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Occupation 'Teacher' at NISD in zip 78254 is consistent with a Northside ISD educator; no distinct public profile, FEC PAC record, or lobbyist registration found for this individual.",
+  "source_url": "https://www.nisd.net/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f9a52c50-f567-4568-b980-df8589618a83",
+  "name": "Reiffert, Valerie",
+  "resolved_employer": "Radical Registrars",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Co-founder and Executive Director of Radical Registrars, a San Antonio 501(c)(3) voter-registration/civic-engagement nonprofit; B.A. Mass Comm (Texas State); listed as San Antonio New Leaders Council member. No FEC PAC or TX lobbyist record found.",
+  "source_url": "https://radicalregistrars.org/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Radical Registrars",
+    "role": "Co-founder & Executive Director",
+    "category": "civic",
+    "source_url": "https://radicalregistrars.org/about/",
+    "snippet": "Valerie Reiffert (she/her/ella)... Co-founder and Executive Director; voter registration and civic engagement nonprofit born out of 2020 San Antonio protests, registered 1,000+ Bexar County residents."
+   },
+   {
+    "org": "New Leaders Council - San Antonio",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://www.newleaderscouncil.org/chapter/san-antonio/",
+    "snippet": "Valerie Reiffert is listed among members of the San Antonio chapter of the New Leaders Council."
+   }
+  ]
+ },
+ {
+  "donor_id": "f08fe42a-8d1d-4595-aa4b-7399c8ff2e4a",
+  "name": "Hill, Amanda",
+  "resolved_employer": "AV Technical Support Inc. (AVTS)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Employer 'AVTS' matches AV Technical Support Inc., a San Antonio full-scale event-production/AV-labor company; 'project coordinator' role is plausible but identity not uniquely corroborated (common name). No FEC PAC or TX lobbyist record found.",
+  "source_url": "https://www.avtechnicalsupport.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e8fd5be3-44b8-49b9-a7e5-d3b324624642",
+  "name": "Maldonado, Steven",
+  "resolved_employer": "3Strands Global Foundation (PROTECT Texas program); now NALCAB",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Steven-Alfonso Maldonado served as Implementation Coordinator at PROTECT Texas-3Strands Global Foundation (3SGF, anti-human-trafficking nonprofit) in San Antonio; matches donor occupation 'Implementation coordinator' and employer '3SGF,Nonprofit'. Now Senior Program Manager at NALCAB, San Antonio.",
+  "source_url": "https://theorg.com/org/national-association-for-latino-community-asset-builders/org-chart/steven-alfonso-maldonado",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c3b8410c-d0d9-4334-993d-a92699717cc0",
+  "name": "Ramos, Arlene",
+  "resolved_employer": "U.S. Department of Defense (logistics specialist)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Donor listed as DOD logistics specialist in Converse, TX 78109. Several Arlene Ramos profiles exist in the DoD/defense-logistics space, but none could be uniquely tied to the Converse address, so identity is corroborated only by employer=DOD and logistics occupation. No FEC PAC donations, lobbyist registration, or advocacy affiliations found. (Federal-employee logistics role, not a defense-contractor exec/board/owner/lobbyist, so no military_defense affiliation applies.)",
+  "source_url": "https://www.linkedin.com/in/arlene-ramos-7a2b9528/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

@@ -1,0 +1,253 @@
+[
+ {
+  "donor_id": "e41b18c5-cdb2-4455-9fd2-bab5592d44b4",
+  "name": "Nirenberg, Ron",
+  "resolved_employer": "City of San Antonio (Mayor 2017-2025, term-limited)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Ron Nirenberg was Mayor of San Antonio 2017-2025 (former District 8 councilman); sitting public official at time of filing. Zip 78231 and 'Mayor / City of San Antonio' match exactly.",
+  "source_url": "https://ballotpedia.org/Ron_Nirenberg",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio", "role": "Mayor (2017-2025)", "category": "political", "source_url": "https://ballotpedia.org/Ron_Nirenberg", "snippet": "Ron Nirenberg served as the mayor of San Antonio, Texas between 2017 and 2025; previously represented District 8 on City Council."}
+  ]
+ },
+ {
+  "donor_id": "e05a62a5-ea2a-4825-8682-70c2d1b916ff",
+  "name": "Guerrero, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Multiple same-named individuals in San Antonio (a real-estate trainer/broker, a health-insurance advisor, others). Could not confirm which 'Michael Guerrero' at 78229 filed as 'Self Employed'; no distinguishing public profile tied to this address. No FEC PAC or TX lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "de46765e-87e6-4e44-9553-6d0b6b6d318b",
+  "name": "Greer, Lynn",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Lynn Greer of Reno, NV 89509 (Lakeridge area), listed as not employed. FEC/city-data records show a Lynn Greer at Reno 89509, 'not employed', making a $100 ActBlue donation (2020) - a small-dollar Democratic pattern consistent with donating to a Democratic council candidate; corroborates identity via zip + employment status. No tracked-spectrum PAC or TX lobbyist records.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-RENO-NV-20-part65.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d8bc7326-112b-4f99-a47f-009157dff8cd",
+  "name": "Hollis, Nicolas",
+  "resolved_employer": "Coherent Cyber LLC (President & CEO); filing listed 'Not Employed'",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Nicolas Hollis of San Antonio is President & CEO of Coherent Cyber LLC (cybersecurity) and a board member of the World Affairs Council of San Antonio; a 'Nick Hollis' is placed at 720 Ivy Ln 78209 (household with Liecie Hollis). Strong location + civic-tie match. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/nicolas-hollis-b4a17716",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Coherent Cyber LLC", "role": "President & CEO", "category": "business", "source_url": "https://rocketreach.co/nicolas-hollis-email_6079353", "snippet": "Nicolas Hollis, based in San Antonio, TX, is President and CEO at Coherent Cyber LLC."},
+   {"org": "World Affairs Council of San Antonio", "role": "Board Member", "category": "civic", "source_url": "https://wacofsa.org/about/", "snippet": "Nick Hollis is a Board Member of the World Affairs Council of San Antonio, a nonpartisan foreign-affairs education organization."}
+  ]
+ },
+ {
+  "donor_id": "d32442ef-2157-4f9a-a06b-51d62d6f6430",
+  "name": "Flores, Joseph",
+  "resolved_employer": "Lifestyles Unlimited (real-estate investment education) - Mentor",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Filing lists occupation 'Mentor' at 'Lifestyles Unlimited,' a real-estate investment education company; role and employer are internally consistent (Lifestyles Unlimited uses 'mentors' to coach real-estate investors). Round Rock 78665 is within their Central Texas footprint. Specific individual not independently confirmed (common name). No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.lifestylesunlimited.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cbf698f6-2e8b-488c-8043-a9ccc14e48b3",
+  "name": "Gatlin, Robert",
+  "resolved_employer": "Supervisor at Krucial (Krucial Rapid Response / Krucial Staffing), a San Antonio-based medical/emergency staffing agency",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Donor lists occupation 'Supervisor' at 'Krucial'; Krucial Rapid Response is a San Antonio medical-staffing organization, matching the 78219 San Antonio location. No individual public profile for this Robert Gatlin; shares the 3666 Versailles household with LeReta Gatlin-McDavid. Classified by employer fallback.",
+  "source_url": "https://krucialrr.org/services/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cb9eb23d-79db-4c56-b971-3eb9a65520b8",
+  "name": "Preston-Werner, Tom",
+  "resolved_employer": "Co-founder of GitHub; Co-founder & General Partner, Preston-Werner Ventures (angel/venture fund, Ross, CA)",
+  "industry": "Venture Capital",
+  "confidence": "high",
+  "evidence": "Well-documented tech entrepreneur: co-founded GitHub (2008, sold to Microsoft for $7.5B in 2018) and now runs Preston-Werner Ventures, an early-stage tech venture fund. Also co-founded 128 Collective Foundation funding environmental/climate causes. Address matches Ross, CA 94957.",
+  "source_url": "https://pwv.com/team/tom-preston-werner/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "128 Collective Foundation", "role": "Co-founder", "category": "civic", "source_url": "https://www.influencewatch.org/person/thomas-preston-werner/", "snippet": "Co-founded 128 Collective Foundation (2019) funding environmental/climate-change and left-of-center social-justice initiatives; documented left-of-center philanthropic giving."}
+  ]
+ },
+ {
+  "donor_id": "bc6840d6-3c7f-4623-8e93-803db7c884b9",
+  "name": "Trey Martinez Fischer, Texas Friends of",
+  "resolved_employer": "Campaign/officeholder committee of Texas State Rep. Trey Martinez Fischer (D-San Antonio, House District 116)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "'Texas Friends of Trey Martinez Fischer' is the political committee/campaign account of Democratic Texas State Representative Trey Martinez Fischer of San Antonio; a political-committee donor, not an individual. Address 104 Babcock, San Antonio 78201 is a campaign account.",
+  "source_url": "https://ballotpedia.org/Trey_Martinez_Fischer",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House of Representatives (District 116)", "role": "Campaign committee of the Democratic officeholder", "category": "political", "source_url": "https://ballotpedia.org/Trey_Martinez_Fischer", "snippet": "Trey Martinez Fischer is a Democratic member of the Texas House representing District 116 (San Antonio); this committee is his campaign account."}
+  ]
+ },
+ {
+  "donor_id": "ba3c88dd-d588-4185-b6d3-65f988b15f7e",
+  "name": "Mitchell, Sheralyn",
+  "resolved_employer": "Retired (former career undocumented) (retired)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor is retired (occupation/employer both 'Retired'), residing at 3651 Tuscany Dr, San Antonio 78219, sharing the household with Willie Mitchell (likely spouse). No public profile, FEC PAC record, or lobbyist registration found; former career undocumented.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b5e9394b-0244-4c7b-917b-ee1ea858e888",
+  "name": "Holt, Peter John",
+  "resolved_employer": "Chairman, CEO & Managing Partner of Spurs Sports & Entertainment (San Antonio Spurs); CEO of HOLT CAT (Caterpillar heavy-equipment dealer)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Peter J. Holt (son of Peter M. Holt) is chairman/CEO/managing partner of Spurs Sports & Entertainment and CEO of HOLT CAT, the largest U.S. Caterpillar dealership; 206 Crescent St, San Antonio 78209 matches his San Antonio ties. Holt family are major Republican donors; FEC shows extensive federal giving (some totals attach to father Peter M. Holt, so family conflation is possible).",
+  "source_url": "https://en.wikipedia.org/wiki/Peter_Holt",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Alamo Trust, Inc.", "role": "Governance / board member", "category": "civic", "source_url": "https://www.thealamo.org/alamo-trust/governance/peter-j-holt", "snippet": "Peter J. Holt is listed on the Alamo Trust governance page as a member of its leadership/board overseeing the Alamo."},
+   {"org": "HOLT CAT (Caterpillar dealership)", "role": "CEO", "category": "oil_gas", "source_url": "https://publicintegrity.org/politics/spurs-owner-brings-the-heat-in-political-money-game/", "snippet": "HOLT CAT sells and rents Caterpillar equipment including heavy-duty engines used for oil exploration; the Holts are longtime major GOP donors (over $600K to Rick Perry, $250K to Restore Our Future)."}
+  ]
+ },
+ {
+  "donor_id": "afb0b3f7-da93-4651-b70b-b596732ccd54",
+  "name": "Calvillo, Robert",
+  "resolved_employer": "San Antonio ISD (SAISD) - Texas ACE 21st Century CCLC Coordinator / grant administrator",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Robert E. Calvillo is a TX ACE Coordinator and grant administrator at San Antonio ISD, running the district's 21st Century Community Learning Centers afterschool program; occupation, employer (SAISD), and East-Side zip 78223 all corroborate.",
+  "source_url": "https://schools.saisd.net/page/rcalvillo1-Home",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "abb2a95d-12a7-4b19-a6bf-9b4db72e8a6d",
+  "name": "Parral, Araceli",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer on the filing and no public profile could be confirmed for an Araceli Parral in San Antonio; listed address (215 Coca Cola Pl, 78219) corresponds to a Coca-Cola facility site. Cannot confirm the specific individual. FEC/lobbyist searches returned no match.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aa09d3b2-a199-4f3f-b442-ce4a424c2357",
+  "name": "Petty, Keely",
+  "resolved_employer": "Self-employed - Founder/CEO of a mental-wellness coaching/counseling & consulting firm; mental health advocate",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Keely Holland Petty (2025 SA Women's Hall of Fame inductee) is founder/CEO of a mental-wellness coaching/counseling firm serving BIPOC faith communities, based on San Antonio's East Side; 'Self' employer and zip 78218 corroborate.",
+  "source_url": "https://sawomenshalloffame.org/members/2025-inductees/keely-holland-petty/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "National Alliance on Mental Illness (NAMI)", "role": "Board member", "category": "civic", "source_url": "https://sawomenshalloffame.org/members/2025-inductees/keely-holland-petty/", "snippet": "Board Seats: ... NAMI (National Alliance on Mental Illness)."},
+   {"org": "Center for Health Care Services Foundation", "role": "Board member", "category": "civic", "source_url": "https://sawomenshalloffame.org/members/2025-inductees/keely-holland-petty/", "snippet": "Board Seats: Center for Health Care Services Foundation."},
+   {"org": "WestCare Foundation (Texas)", "role": "Texas Training Coordinator, Trauma-Informed Ministry Model", "category": "business", "source_url": "https://sanantonioreport.org/where-i-work-ella-austin-community-center-keely-petty/", "snippet": "mental health training coordinator for the national health organization WestCare based out of the Ella Austin Community Center on the East Side."}
+  ]
+ },
+ {
+  "donor_id": "a4d03e8a-a0a5-46d9-beb1-ef0962307a7a",
+  "name": "Lucas, Claire",
+  "resolved_employer": "Principal, Peasley Group (Washington, DC); DNC Deputy National Finance Chair; former USAID Senior Advisor (Obama/Biden appointee)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "This is the notable Dr. Claire Lucas of Washington DC (20008) - Principal at Peasley Group, DNC Deputy National Finance Chair and founder/chair of the DNC LGBTQ Council, and Obama/Biden USAID appointee. DC address and Peasley Group role match the filing.",
+  "source_url": "https://clairelucasphd.medium.com/dnc-deputy-national-finance-chair-claire-lucas-of-washington-dc-38f5b25dd301",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Democratic National Committee", "role": "Deputy National Finance Chair; At-Large Member; Chair, LGBTQ Council", "category": "political", "source_url": "https://clairelucasphd.medium.com/dnc-deputy-national-finance-chair-claire-lucas-of-washington-dc-38f5b25dd301", "snippet": "Deputy National Finance Chair, Democratic National Committee (DNC); At-Large Member, DNC; Chair, LGBTQ Council, DNC."},
+   {"org": "U.S. Agency for International Development (USAID)", "role": "Senior Advisor for Public-Private Partnerships (Obama/Biden Presidential Appointee, SES)", "category": "political", "source_url": "https://clairelucasphd.medium.com/dnc-deputy-national-finance-chair-claire-lucas-of-washington-dc-38f5b25dd301", "snippet": "Senior Advisor for Public-Private Partnerships at USAID during the Obama/Biden Administration (Senior Executive Service level)."},
+   {"org": "LGBTQ+ Victory Fund", "role": "Team member / supporter", "category": "political", "source_url": "https://victoryfund.org/team/dr-claire-lucas-2/", "snippet": "Dr. Claire Lucas - LGBTQ+ Victory Fund; prolific fundraiser supporting the LGBTQ Victory Institute and Fund."},
+   {"org": "Kidsave", "role": "Board of Trustees", "category": "civic", "source_url": "https://www.kidsave.org/claire-lucas-kidsave-board/", "snippet": "Dr. Claire Lucas Joins Kidsave's Board of Trustees."}
+  ]
+ },
+ {
+  "donor_id": "a3824dbc-47e1-40f1-92e7-e042a97b13d8",
+  "name": "Hollis, Liecie",
+  "resolved_employer": "Realtor, Phyllis Browning Company (former publicist); filing listed 'Not Employed'",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Liecie Hollis is a San Antonio realtor (Phyllis Browning Co.) and former publicist active in civic groups; shares the 720 Ivy Ln (78209) household with Nicolas Hollis. Identity well-corroborated though the filing's 'Not Employed' occupation conflicts with her current realtor role.",
+  "source_url": "https://www.phyllisbrowning.com/realestate/agent/liecie-hollis/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Brackenridge Park Conservancy", "role": "Party in the Park Committee Chair; supporter", "category": "civic", "source_url": "https://www.brackenridgepark.org/visit-the-park/events/2022-party-in-the-park", "snippet": "she served as a Party in the Park Committee Chair for the Brackenridge Park Conservancy ... supports ... Brackenridge Park Conservancy."},
+   {"org": "San Antonio Public Library Foundation", "role": "Supporter", "category": "civic", "source_url": "https://www.phyllisbrowning.com/realestate/agent/liecie-hollis/", "snippet": "She supports the San Antonio Public Library Foundation, Brackenridge Park Conservancy and World Affairs Council."}
+  ]
+ },
+ {
+  "donor_id": "a120eb5e-5a78-4246-9914-f28d1639789b",
+  "name": "Gatlin-McDavid, LeReta",
+  "resolved_employer": "Filing self-reports 'COSA' (City of San Antonio) / 'Chief of Operations' (not independently confirmed); documented publicly as a Bexar County community organizer with the Texas Organizing Project and a Drug Free Communities coordinator at WestCare Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "LeReta Gatlin-McDavid appears on the Texas Organizing Project staff page as a Bexar County Right2Justice organizer/board member (progressive 501(c)(4)); also documented as a WestCare Foundation DFC project coordinator. Shares 3666 Versailles, 78219 with Robert Gatlin. Her self-reported 'COSA / Chief of Operations' employer could not be independently corroborated. Same person as 'McDavid, Re' resolved in batch 04.",
+  "source_url": "https://toptx.org/staff/lereta-gatlin-mcdavid/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Organizing Project (TOP)", "role": "Bexar County Right2Justice organizer / board member", "category": "civic", "source_url": "https://toptx.org/staff/lereta-gatlin-mcdavid/", "snippet": "TOP staff page lists LeReta Gatlin-McDavid as a Bexar County organizer for the Texas Organizing Project, a progressive community-organizing 501(c)(4) headquartered in San Antonio."},
+   {"org": "WestCare Foundation", "role": "Drug Free Communities (DFC) Project Coordinator", "category": "business", "source_url": "https://www.zoominfo.com/p/Le-Gatlin-mcdavid/3918627013", "snippet": "Public professional records describe LeReta Gatlin-McDavid as a DFC Project Coordinator at WestCare Foundation, a behavioral-health/substance-abuse-prevention nonprofit."}
+  ]
+ },
+ {
+  "donor_id": "9e797b84-f1e5-4626-b4f1-a74c913a1ad2",
+  "name": "Rodriguez, Elijah",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reports as Unemployed at 303 Covington Rd, 78220 (East Side), sharing a household with Jacob/Faith Rodriguez. No distinctive public profile, FEC PAC record, or TX lobbyist registration ties to this specific individual; 'Elijah Rodriguez' is a common name.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "97935a78-4a89-4522-878d-f7b7aa21d57e",
+  "name": "Scott, Jeffrey",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor at 120 Sunway, Hollywood Park, 78232, with no occupation or employer reported on the filing. No confirmable public profile, FEC PAC contribution, or TX lobbyist registration for this specific Jeffrey Scott; the name is very common.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "957f6c43-ba51-4cd1-8a93-927a5238634e",
+  "name": "Mitchell, Willie",
+  "resolved_employer": "Retired (former career undocumented) (retired)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor self-reports Retired at 3651 Tuscany Dr, 78219, sharing the household with Sheralyn Mitchell (likely spouse). A well-known 'Willie Mitchell' (retired NFL player) exists but cannot be confirmed as this donor; former career not documented. No FEC PAC or TX lobbyist record for this individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "93ea42e0-4d4c-4e30-a59e-32225f231af3",
+  "name": "Douglass III, Clifton",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP - Managing Partner of the San Antonio office and Management Committee chair (property-tax collection / government law firm); filing self-reports 'Attorney / Self'",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Clifton F. Douglass III, San Antonio attorney (St. Mary's J.D.), manages Linebarger's San Antonio office and chairs the firm's Management Committee. Residence 606 Garraty Rd, 78209 (Terrell Hills) matches an affluent senior attorney; occupation 'Attorney' matches. Distinctive full name confirms identity.",
+  "source_url": "https://www.lgbs.com/attorney/clifton-f-douglass-iii/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Linebarger Goggan Blair & Sampson, LLP", "role": "Managing Partner, San Antonio office / Management Committee chair", "category": "business", "source_url": "https://www.lgbs.com/attorney/clifton-f-douglass-iii/", "snippet": "Firm bio: Clifton F. Douglass III 'manages Linebarger's San Antonio law office and serves on the firm's Management Committee'; formerly SVP/General Counsel of First State Savings Association (1983-1987)."},
+   {"org": "Texas Ethics Commission (registered lobbyist)", "role": "Registered lobbyist (2005)", "category": "business", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2005/2005_Lobby_List-Lobbyist_Only.pdf", "snippet": "TEC 2005 lobbyist list shows Clifton F. Douglass III registered as a lobbyist, 711 Navarro Ste 300, San Antonio 78205, TEC ID 00054959."},
+   {"org": "Civic/charitable boards (American Cancer Society, Big Brothers-Big Sisters, Santa Rosa Children's Hospital, Witte Museum)", "role": "Director / advisory director", "category": "civic", "source_url": "https://www.lgbs.com/attorney/clifton-f-douglass-iii/", "snippet": "Firm bio notes Douglass has served as a director or advisory director for numerous San Antonio civic and charitable organizations including the American Cancer Society, Big Brothers-Big Sisters, Santa Rosa Children's Hospital, and the Witte Museum."}
+  ]
+ }
+]

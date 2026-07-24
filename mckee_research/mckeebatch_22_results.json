@@ -1,0 +1,230 @@
+[
+ {
+  "donor_id": "9d2670e4-2277-451a-ba01-2c629fb12937",
+  "name": "Magruder, Ian",
+  "resolved_employer": "Landed, Inc (Head/Director of Partnerships 2016-2022; later Rewiring America)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "San Francisco-based Head of Partnerships at Landed Inc, a shared-equity down-payment-assistance startup for educators and essential workers; SF zip 94117 matches. Later joined electrification nonprofit Rewiring America.",
+  "source_url": "https://www.linkedin.com/in/ianmagruder/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9a729cd1-0c30-4692-a45a-2c7cfbc5deae",
+  "name": "Crayton, Breane",
+  "resolved_employer": "KIPP San Antonio (teacher, charter school network)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "People-search records confirm a Breane Crayton in San Antonio, TX; occupation/employer (teacher at KIPP charter schools) consistent. No individual bio, PAC, or lobbyist record found; classified by employer.",
+  "source_url": "https://kipptexas.org/our-schools/san-antonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "99473481-7ecf-4e87-9b39-df6511051e03",
+  "name": "OHara, Jonathan",
+  "resolved_employer": "Live Nation Entertainment (Senior Director/Director, Content Production)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "LA-area Live Nation content-production director; Sunland CA 91040 matches. Donor-listed 'creative director' aligns with his content/creative production role. FEC lean Democratic; no PAC or lobbyist records found.",
+  "source_url": "https://www.zoominfo.com/p/Jonathan-Ohara/1984888310",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "98843a9c-7f54-42dc-8da4-fbbb2eba6c8e",
+  "name": "Levy, Allexis",
+  "resolved_employer": "Enlyte (workers'-comp medical management / cost-containment; Mitchell|Genex|Coventry parent) — recruiter",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Could not corroborate the specific individual in public records. Employer Enlyte is a workers'-compensation medical-management/cost-containment company; classified by employer only. San Antonio 78253 (Culebra) consistent with donor address.",
+  "source_url": "https://www.enlyte.com/markets/workers-compensation",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "97fcd08d-2230-4118-a875-c36cad256667",
+  "name": "Dominguez, Mike",
+  "resolved_employer": "MUFG (Mitsubishi UFJ Financial Group) — finance",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Many same-named individuals; could not confirm the specific person. Employer MUFG is a global bank and occupation 'Finance' places him in the banking/finance sector; classified by employer only. Prolific small-donor pattern (122 donations) noted but no PAC or TX lobbyist record found.",
+  "source_url": "https://www.mufgamericas.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9754e3b4-d2ee-4536-a102-96a419fb9252",
+  "name": "Almaguer, Jonathan",
+  "resolved_employer": "Marriott (hospitality)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Could not confirm the specific person; multiple Jonathan Almaguers exist and none tie to a San Antonio Marriott hospitality role at zip 78227. Classified by stated employer/occupation only.",
+  "source_url": "https://www.linkedin.com/pub/dir/Antonio/Almaguer/us-0-United-States",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "971d621d-2a25-4d07-a9e8-23d347b414b5",
+  "name": "Townsend, Jamal",
+  "resolved_employer": "Synergy One Lending, Inc. - Loan Officer (NMLS #908199), San Antonio, TX",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Mortgage loan officer at Synergy One Lending in the San Antonio area (NMLS #908199), matching stated employer/occupation. No PAC or lobbyist records found.",
+  "source_url": "https://pro.experience.com/pages/jamal-townsend",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "94b7a9c8-5f4a-4e57-a512-6cf2e3540ad7",
+  "name": "Gonzales-Wolfe, Frankie",
+  "resolved_employer": "Self-employed political consultant; also Chief of Staff, Bexar County Commissioners Court; 2019 San Antonio City Council District 8 candidate",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Well-documented San Antonio political/campaign consultant (50+ campaigns), transgender-rights activist, 2019 D8 council candidate, and Bexar County political staffer. Ballotpedia and multiple news profiles confirm identity.",
+  "source_url": "https://ballotpedia.org/Frankie_Gonzales-Wolfe",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "LGBTQ Victory Fund", "role": "Endorsed candidate (2019 SA City Council D8)", "category": "civic", "source_url": "https://outinsa.com/victory-fund-endorses-trans-candidate-frankie-gonzales-wolfe-for-city-council-district-8/", "snippet": "Victory Fund endorsed trans candidate Frankie Gonzales-Wolfe for City Council District 8 as one of its endorsed openly LGBTQ candidates."},
+   {"org": "Democratic campaigns / Bexar County Democratic Party", "role": "Political consultant / Chief of Staff", "category": "political", "source_url": "https://www.linkedin.com/in/frankie-gonzales-wolfe-4b7857102", "snippet": "Worked on 50+ local, state and national Democratic campaigns; served as Chief of Staff at Bexar County Commissioners Court and consultant to the Bexar County Democratic Party."}
+  ]
+ },
+ {
+  "donor_id": "9411d65b-0ed1-4b79-a191-473a259b647d",
+  "name": "Bruce, Aurora",
+  "resolved_employer": "Zachry Construction Corporation - Field Engineer",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "LinkedIn profile for Aurora Bruce based in Fort Worth, TX (matches zip 76137) is consistent with a field engineer at Zachry Construction (a San Antonio-based construction/engineering firm). No PAC or lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/aurorabruce",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "93cbccca-0ae5-4501-bd57-4c4842fee102",
+  "name": "Mosley, Audrey",
+  "resolved_employer": "St. Philip's College (Alamo Colleges) - Assistant Professor, Speech (Communication and Learning)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Confirmed in the St. Philip's College catalog as Audrey L. Mosley, Assistant Professor of Speech (B.A. Southern University; M.Ed. Clarion University of PA; M.A. Trinity University), matching stated employer/occupation. No PAC or lobbyist records found.",
+  "source_url": "https://myspccatalog.alamo.edu/content.php?catoid=177&navoid=11456&print=",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "92176e2d-0acd-42fb-b6ba-e23e6e767eec",
+  "name": "Pfeister, Bert",
+  "resolved_employer": "Former President & CEO, Respite Care of San Antonio (nonprofit for medically fragile/foster children) — retired after 15 years",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Bert Pfiester (spelling varies) led Respite Care of San Antonio for 15 years, expanding bed capacity and opening the Najim, H-E-B and Tracy Wolff respite homes before retiring; now volunteers with SNIPSA. Address 144 E French Pl, 78212 matches the CEO profile (retired).",
+  "source_url": "https://78209magazine.com/in-the-loop/the-buzz-8",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Respite Care of San Antonio", "role": "Former President & CEO (15 years)", "category": "civic", "source_url": "https://78209magazine.com/in-the-loop/the-buzz-8", "snippet": "Bert Pfiester served as president and CEO of Respite Care of San Antonio for 15 years, increasing bed spaces to serve more children in harm's way before his retirement."}
+  ]
+ },
+ {
+  "donor_id": "90a6783d-2572-4dd8-8b58-7cb851027e4d",
+  "name": "Stokes, Trevor",
+  "resolved_employer": "Civil engineer at Kimley-Horn (national engineering/planning consulting firm), San Antonio",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Filing lists Trevor Stokes as a civil engineer at Kimley-Horn in San Antonio (78209). Kimley-Horn's San Antonio office does land development/transportation civil engineering; could not locate a distinct public profile for this individual, so classified by employer. FEC lean 1.0 across 20 donations indicates a consistent Democratic small-donor pattern; no federal PAC or advocacy affiliations found.",
+  "source_url": "https://www.kimley-horn.com/location/san-antonio-tx/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8c52b617-4cf8-46c6-827b-b8c4e46ab17e",
+  "name": "Mendoza, Cöelis",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing self-reports occupation and employer as 'Not Employed' (119 Elbel Ln, San Antonio 78220). No public profile, news, professional listing, FEC PAC record, or TX lobbyist entry discoverable under this name; identity cannot be corroborated beyond the filing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8ba86b42-905d-48c6-a123-4a360c3fa128",
+  "name": "Gonzalez, Veronica",
+  "resolved_employer": "Communications strategist at Emyan Strategies, a San Antonio full-service PR/marketing firm (branding, PR, digital, community relations)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Veronica Gonzalez, APR, PCM, is listed in communications/marketing/PR at Emyan Strategies, a San Antonio communications firm; matches filing occ 'Comms strategist'/employer 'Emyan Strategies' (78261). No FEC PAC or TX lobbyist registration found under this name.",
+  "source_url": "https://www.linkedin.com/in/veronica-j-gonzalez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "89ed8290-08b3-4524-9e0c-22f1355204a7",
+  "name": "Kelly, Kristi",
+  "resolved_employer": "Administration at Chesapeake Sprinkler Company (fire-sprinkler/fire-protection contractor), Purcellville, VA",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Kristi Kelly of Purcellville, VA (20132) is listed as admin at Chesapeake Sprinkler, a fire-protection/sprinkler contractor. Public contribution records show small Democratic-leaning donations (ActBlue; Pete Buttigieg's Win the Era PAC in 2020), consistent with the FEC lean 0.64 / 60-donation small-donor pattern. No advocacy-org roles or TX lobbyist registration (out-of-state donor).",
+  "source_url": "https://www.city-data.com/elec2/20/elec-PURCELLVILLE-VA-20-part3.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "875e2c59-5602-4700-b563-ab00672ce407",
+  "name": "ogogor, ekenechukwu",
+  "resolved_employer": "University Health System (San Antonio) — clinical pharmacist, Materials Management",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Ekene O. Ogogor, RPh (NPI 1144657305), is a clinical pharmacist in Materials Management at University Health System, San Antonio — matches filing (RPh, University Hospital, 78208 East Side). Educated at St. Louis College of Pharmacy.",
+  "source_url": "https://www.linkedin.com/in/ekene-ogogor-2bb368a0/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "81735edf-7c54-417c-8d41-d267b05d224c",
+  "name": "Gradney, Tony",
+  "resolved_employer": "Gradney Group, LLC — Founder/CEO (Tony G's Soul Food, Chelsea's Catering, Blimpie, Paradies Lagardere airport concession)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Tony Gradney founded Tony G's Soul Food (East Side San Antonio, 915 S Hackberry) in 2016; 25+ yrs food & beverage; known for 'second chance' hiring (National Development Council Business of the Year). Filing employer 'Tony Gs' and self-employed status match.",
+  "source_url": "https://www.brooksgives.org/board-of-directors/tony-gradney",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "NAACP San Antonio Branch", "role": "Vice-President", "category": "civic", "source_url": "https://www.brooksgives.org/board-of-directors/tony-gradney", "snippet": "Board Positions: Vice-President of the NAACP San Antonio Branch"},
+   {"org": "Brooks Gives Back", "role": "Board Member", "category": "civic", "source_url": "https://www.brooksgives.org/board-of-directors/tony-gradney", "snippet": "Brooks Gives Back Board Member"}
+  ]
+ },
+ {
+  "donor_id": "805336fa-c4f2-4e52-9ae6-5bc8ee5c5408",
+  "name": "Green, Leah",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Out-of-state donor (Cleveland Heights, OH 44118) to a San Antonio council race; filing self-reports Not Employed. FEC lean 1.0 across 30 donations indicates an active small-dollar Democratic donor, but the specific individual could not be uniquely identified among several same-named people. No PAC or lobbyist affiliations found.",
+  "source_url": "https://www.city-data.com/elec2/08/elec-CLEVELAND-OH-08-part1.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7b8924b5-5daa-4b86-96e0-3a836a272f66",
+  "name": "Espinoza, Ruben",
+  "resolved_employer": "Swedish Health Services (Providence Swedish), Seattle — supply chain management",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Filing lists supply-chain-mgmt role at Swedish Health, Seattle (98101, First Hill / 1221 1st Ave). Swedish/Providence has supply-chain roles at that campus, so employer is credible, but the specific Ruben Espinoza could not be confirmed among many same-named profiles. Industry assigned by employer. No PAC/lobbyist ties found.",
+  "source_url": "https://providenceswedish.jobs/job-function/supply-chain/jobs/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7b17530e-5f09-45d2-8f99-0c2cc7749c78",
+  "name": "and Joe Reyes, Sandra",
+  "resolved_employer": "Fabio's Jewelry (Seguin, TX) — retail manager",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Fabio's Jewelry is a family-owned jewelry store (est. 1979) in Seguin, TX, near the donor's Schertz (78154) address; filing occupation 'retail manager / Fabio's jewelry' corroborates the store, though the Reyes surname on the specific person was not independently confirmed. No PAC/lobbyist ties found.",
+  "source_url": "https://www.yelp.com/biz/fabios-jewelry-seguin",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

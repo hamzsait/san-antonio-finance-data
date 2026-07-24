@@ -1,0 +1,253 @@
+[
+ {
+  "donor_id": "afa15302-1e34-4d12-88be-caf7b1f89c37",
+  "name": "Hinojosa Jr, Ed",
+  "resolved_employer": "Opportunity Home San Antonio (formerly San Antonio Housing Authority) — President & CEO",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Ed Hinojosa Jr. was named permanent President/CEO of SAHA (rebranded Opportunity Home San Antonio) in July 2021 after ~17 years at the agency, including 12 as CFO; a well-documented public figure. Board voted to end his contract in June 2024. Occupation 'President' and employer 'San Antonio Housing Authority' match.",
+  "source_url": "https://homesa.org/hinojosa-ceo/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8a7bd1aa-4eac-43ff-a181-e944100306f6",
+  "name": "schaffer, christen",
+  "resolved_employer": "Carroll Hall (Brooklyn event venue & botanic garden) — Co-Founder / gardener",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Christen Ann Schaffer, Brooklyn resident at 24 Conselyea St (zip 11211), is co-founder of Carroll Hall, an award-winning Brooklyn event space and botanic garden; donation occupation 'gardener'/employer 'Carroll Hall' corroborate. Address and employer both match public records.",
+  "source_url": "https://www.zoominfo.com/p/Christen-Schaffer/7285492095",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "66137910-c3a9-4539-8263-1f32005406a7",
+  "name": "Towe, Candice",
+  "resolved_employer": "Teach For America — Head of Development / Senior Managing Director, Donor & Staff Experiences (San Antonio)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Candice Towe is a fundraising/development leader at Teach For America (San Antonio region), an education nonprofit; occupation 'Fundraising, Senior Manager' and employer match. FEC shows a small $5 contribution to Beto for Texas (2018) — a candidate gift, not a policy-advocacy PAC affiliation.",
+  "source_url": "https://rocketreach.co/candice-towe-email_13902980",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2f14f238-6549-48be-aae3-c26a7c117a2b",
+  "name": "Mata Jr, Raul",
+  "resolved_employer": "Lower Colorado River Authority (LCRA) — Engineer Associate I",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Employer-fallback: LCRA is a Central Texas public electricity/water/environmental utility headquartered in Austin. Donation lists occupation 'Engineer Associate I' and employer 'LCRA' with an Austin 78744 address consistent with an LCRA employee. No individual public profile located beyond the stated occupation/employer.",
+  "source_url": "https://www.lcra.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "21865612-1b9b-48b2-bad2-392bd7ac996f",
+  "name": "barton, cary",
+  "resolved_employer": "Barton Benson Jones PLLC — Retired Member (commercial real estate attorney) (retired)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "J. Cary Barton is a founding, now retired, member of Barton Benson Jones PLLC at 745 E. Mulberry Ave Ste 550, San Antonio; Baylor (BA 1962), Harvard Law (LLB 1965), TX bar 1965, Board Certified in Commercial Real Estate Law. Firm bio and donation address/employer match exactly.",
+  "source_url": "https://bartonbensonjones.com/attorneys/j-cary-barton/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5450e359-171e-412f-9172-aef01509b5cc",
+  "name": "Rangel, Julian",
+  "resolved_employer": null,
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'Student' at 2608 Museum Way, Fort Worth 76107 (a residential apartment complex in the Cultural District). No unique public profile could be corroborated; 'Julian Rangel' is common in Texas and no LinkedIn/school record ties this specific person to the address.",
+  "source_url": "https://www.zillow.com/b/2608-museum-way-fort-worth-tx-5Y5KfM/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "177a26dd-e305-4aa8-aed9-83196e22b5b7",
+  "name": "Bailey Smith, Alyssa",
+  "resolved_employer": "H-E-B (grocery retailer) — Digital/Content Manager",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Alyssa Bailey Smith is a Content Manager at H-E-B in San Antonio, Texas A&M graduate. Occupation/employer match donor record exactly. No FEC PAC or TX lobbyist records found; no policy-advocacy affiliations documented.",
+  "source_url": "https://www.linkedin.com/in/alyssabailey/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e172aa34-d5fd-413a-b085-0b8207bf7d07",
+  "name": "Insler, Brielle",
+  "resolved_employer": "Düable (branding/communications agency) — Partner & Creative Director",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Partner/Creative Director at Düable, a San Antonio brand + communications agency serving advocacy groups and nonprofits (clients incl. Texas Organizing Project, Susan G. Komen, Any Baby Can). Documented Democratic political consultant (previously worked on Julián Castro for President 2020). No pro-Israel, pro-Palestine, energy, or gun advocacy records found.",
+  "source_url": "https://www.linkedin.com/in/brielleinsler",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Con Corazón",
+    "role": "Secretary (Board of Directors)",
+    "category": "civic",
+    "source_url": "https://concorazonsa.org/about/board/",
+    "snippet": "Board page lists Brielle Insler as Secretary of Con Corazón, a San Antonio arts nonprofit — recorded as a documented civic board seat only; not a policy-advocacy or religious body, and no political/religious inference drawn."
+   }
+  ]
+ },
+ {
+  "donor_id": "39054bef-69f1-4578-a723-12777706e21a",
+  "name": "Martinez, Analicia",
+  "resolved_employer": "Not Employed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Public-records aggregators place an Analicia Martinez (approx. age 30) at 20730 Highland Hollow Ln, Houston 77073, a multi-resident single-family home; two family businesses (ICM Martinez Enterprises, Martinez Grants and Non-profit Services) registered there. Occupation self-reported 'Not Employed.' No distinguishing public professional profile, FEC PAC, or TX lobbyist record found.",
+  "source_url": "https://clustrmaps.com/persons/Analicia-Martinez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e399a687-52da-4483-9700-d62d74cf589f",
+  "name": "Prather, Savannah",
+  "resolved_employer": "CVS Health / CVS Caremark — Supervisor / Manager",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Self-reported as a Supervisor/Manager at CVS/Caremark (CVS Health) in San Antonio 78230; CVS Caremark operates a San Antonio facility (6950 Alamo Downs Pkwy, 78238). No individual public profile could be corroborated for this specific person; classified by employer fallback. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.cvshealth.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b17c3e79-4111-40f2-88d7-106c14903f9e",
+  "name": "Lavalliere, Tahina",
+  "resolved_employer": "Ascension Seton / Ascension Medical Group Seton Women's Health - Kyle (Registered Medical Assistant, women's health)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Registered Medical Assistant in women's health at Ascension Seton in Kyle, TX 78640; occupation/employer match the Ascension Seton Women's Health - Kyle clinic. No public profile beyond occupation; identity consistent with Kyle zip and employer.",
+  "source_url": "https://healthcare.ascension.org/locations/texas/txaus/kyle-ascension-medical-group-seton-womens-health-kyle",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9088ec9f-8628-42f3-8640-1a88ae5bb5ca",
+  "name": "Garza, Elizabeth",
+  "resolved_employer": "San Antonio ISD (SAISD) — teacher",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Public-school teacher at San Antonio ISD, resides 78216. Common name; no distinguishing public profile confirmed. Classified by stated occupation/employer (teacher, SAISD).",
+  "source_url": "https://www.saisd.net/page/teach",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1bcf073c-670c-46dd-afd0-922a2d570371",
+  "name": "Carranza, Kristian",
+  "resolved_employer": "Political strategist / community organizer; Democratic nominee for Texas House District 118 (2024, 2026). Former DNC regional director.",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Confirmed as the Kristian Carranza who was Democrats' 2024 nominee for Texas House District 118 (San Antonio Southside) and is running again in 2026. McCollum HS alumna, raised in the district; ex-DNC regional director who worked on Clinton, Gina Ortiz Jones and Wendy Davis campaigns. San Antonio Southside residence matches 78221 donor location.",
+  "source_url": "https://sanantonioreport.org/profile/kristian-carranza/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas House District 118 (Democratic candidate)",
+    "role": "2024 and 2026 Democratic nominee/candidate",
+    "category": "political",
+    "source_url": "https://sanantonioreport.org/profile/kristian-carranza-2026-candidate-for-texas-house-district-118/",
+    "snippet": "Kristian Carranza is Democrats' candidate in the competitive Southside Texas House District 118 race; she lost to GOP incumbent John Lujan by ~3 points in 2024 and is running again in 2026."
+   },
+   {
+    "org": "Democratic National Committee",
+    "role": "Former regional director",
+    "category": "political",
+    "source_url": "https://sanantonioreport.org/profile/kristian-carranza/",
+    "snippet": "A longtime political strategist who worked as a regional director for the DNC and on campaigns for Hillary Clinton, Gina Ortiz Jones and Wendy Davis."
+   }
+  ]
+ },
+ {
+  "donor_id": "f27b470a-acdc-407b-9190-a39932b9422a",
+  "name": "Beckham, Christie",
+  "resolved_employer": "South San Antonio ISD (SSISD) — teacher",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Public-school teacher at South San Antonio ISD, resides 78203. No distinguishing public profile found; classified by stated occupation/employer (teacher, SSISD).",
+  "source_url": "https://www.southsanisd.net/staff/teachers",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a2341767-3b56-4f9d-aa76-a4dcd5e19dd3",
+  "name": "Keeton, Jamilyn",
+  "resolved_employer": "MOVE Texas (progressive youth voter-registration nonprofit) — Director of Operations at time of donation; since ~2024 COO at TEAMability",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Spent nearly 6 years at MOVE Texas rising through Operations Associate, Manager of Operations, Director of Operations and Director of Finance Operations; MOVE Texas is HQ'd in San Antonio, matching donor's 78222 location. LinkedIn post confirms departure from MOVE Texas; now COO at TEAMability (San Antonio nonprofit).",
+  "source_url": "https://www.linkedin.com/posts/j-keeton_after-almost-6-years-at-move-texas-today-activity-7226631435137269760-eyEJ",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "MOVE Texas",
+    "role": "Director of Operations / Director of Finance Operations",
+    "category": "civic",
+    "source_url": "https://www.linkedin.com/in/j-keeton",
+    "snippet": "Held multiple operations roles over nearly 6 years at MOVE Texas, a progressive nonprofit focused on youth voter registration and civic engagement across Texas."
+   }
+  ]
+ },
+ {
+  "donor_id": "3592709e-5a68-42ed-835d-4412f1d5cb30",
+  "name": "Gatlin, ARielle",
+  "resolved_employer": "GE (General Electric / GE Aerospace, Cincinnati OH) — accountant",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Filing lists an accountant at GE in Cincinnati zip 45202 (34 W 6th St #1004); GE Aerospace is HQ'd in Cincinnati. No independent public profile located to corroborate; classified by stated occupation (accountant) and employer.",
+  "source_url": "https://information.com/people/arielle-gatlin/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b0e9a3ad-22eb-46fd-b8c8-959dbf7488b3",
+  "name": "Trynoski, Helena",
+  "resolved_employer": "U.S. Department of Veterans Affairs — Management Analyst",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Federal civil servant (Management Analyst) at the Department of Veterans Affairs, residing in Kyle TX 78640 (same household as donor Tahina Lavalliere). No political-advocacy profile found.",
+  "source_url": "https://www.linkedin.com/in/danielle-trynoski-53969459/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8e3c4954-e890-4843-9b48-5a3b7632e07a",
+  "name": "Guajardo, Victoria",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists occupation and employer both as 'Not Employed'; resides at 204 Ira Ave, San Antonio TX 78209 (Alamo Heights area). No public profile, FEC PAC record, or lobbyist registration located.",
+  "source_url": "https://www.redfin.com/sitemap/TX/78209/street/Alamo+Heights+Blvd",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f00ed6f2-79fd-4be9-bedd-8716a2390824",
+  "name": "Grimes, George",
+  "resolved_employer": "Self-employed / manufacturer's representative (Assembly Solutions); semi-retired",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Public records place George E. Grimes (b. Oct 1948, ~76) at the exact filing address 415 Parland Place, San Antonio TX 78209, listed as a manufacturer's representative at Assembly Solutions; matches the 'Self / Not Employed' filing entry (semi-retired). No FEC PAC or lobbyist record found.",
+  "source_url": "https://www.simplecontacts.com/state/TX/San-Antonio/Parland-Place",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "db3dabdd-c4cf-4eef-9443-9ac0e744443d",
+  "name": "Long, James",
+  "resolved_employer": "San Antonio ISD (SAISD) — Teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Filing lists a teacher employed by San Antonio ISD, residing at 2508 Tampico St, San Antonio TX 78207 (West Side, within SAISD boundaries). Common name; no distinguishing independent profile, FEC PAC record, or lobbyist registration located. Classified by stated occupation/employer.",
+  "source_url": "https://www.saisd.net/page/about-saisd",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

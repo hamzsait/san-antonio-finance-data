@@ -1,0 +1,163 @@
+[
+ {
+  "donor_id": "185b5c15-6bf8-425f-8267-d3ddf768b4cc",
+  "name": "Gibbs, Katherine",
+  "resolved_employer": "City of San Antonio - Chief Equity Officer, Office of Equity (2019-2021)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "The City of San Antonio had exactly one Chief Equity Officer during 2021 (the donation year): Zan Gibbs, who served March 2019 until Sept 2021. 'Katherine' is likely the formal/legal name for 'Zan' Gibbs - same title, employer, year, and 78210 East/South Side address (1006 Kayton Ave). No balanced-category PAC or TX lobbyist affiliation found.",
+  "source_url": "https://sanantonioreport.org/city-of-san-antonios-equity-office-building-the-scaffolding-for-greater-inclusion/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "17e2bb60-00a9-41bf-8f7c-ce5d3f6de64d",
+  "name": "Retiz, Sarita",
+  "resolved_employer": "FedEx Express - courier",
+  "industry": "Transportation",
+  "confidence": "low",
+  "evidence": "Categorize-by-employer fallback: self-reports as a courier at FedEx Express, Wellesley Hills, MA 02481 (an out-of-state address, unusual for a local San Antonio council donor). No public footprint (news, LinkedIn, bio, FEC PAC, or TX lobbyist records) could confirm the specific individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "10ac57a1-69f1-49f3-afee-d3366b7224e0",
+  "name": "Sanchez, Joel",
+  "resolved_employer": "Joel Sanchez LLC (self-reported consultant)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Categorize-by-employer fallback: self-reports as a consultant (Joel Sanchez LLC), Austin 78741. 'Joel Sanchez' is an extremely common name; despite a strongly Democratic FEC donation pattern (140 gifts), the specific individual could not be matched to any single public bio, named consulting firm, or TX lobbyist registration.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "10aab803-f793-44a0-9bc0-8b8909abac54",
+  "name": "Linson, Joe",
+  "resolved_employer": "Chelsea's Catering & Bar Service, San Antonio - VP of operations & business development; also founder of JEL and Associates (management consulting)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Joe Earl Linson (UT Dallas BA 1979, U.S. Army 1st Cavalry) is VP of operations/business development at Chelsea's Catering & Bar Service - the exclusive caterer for San Antonio's Convention Center and Alamodome - and runs JEL and Associates (community outreach/governmental advocacy). San Antonio 78254 address matches. Not a registered TX lobbyist; no balanced-category PAC affiliation found.",
+  "source_url": "https://epps.utdallas.edu/joe-earl-linson/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Food Bank", "role": "Past chairman", "category": "civic", "source_url": "https://epps.utdallas.edu/joe-earl-linson/", "snippet": "Past chairman, Food Bank of San Antonio and South Texas"},
+   {"org": "Valero Texas Open (golf tournament)", "role": "Past chairman", "category": "civic", "source_url": "https://epps.utdallas.edu/joe-earl-linson/", "snippet": "Past chairman, Valero Texas Open golf tournament"}
+  ]
+ },
+ {
+  "donor_id": "106737cb-506d-455a-b87e-dd7af78a8f4a",
+  "name": "Gonzalez, Lupita",
+  "resolved_employer": "The Thrive Advisory - founder/CEO (racial-equity & organizational-change consulting)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Lupita Gonzalez, San Antonio-based CEO/founder of The Thrive Advisory (est. 2013), a racial-equity and organizational-change consultancy; former Director of Public Policy at Hispanic Federation (NYC). Matches self-employed/Thrive Advisory occupation and 78209 SA location. No balanced-category PAC or TX lobbyist affiliation found.",
+  "source_url": "https://thethriveadvisory.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "10654c10-c369-4450-9bfc-388b7563ea07",
+  "name": "ONeill, Tiffany",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Not Employed' at 609 E Carson St, East Side 78208. Multiple Tiffany O'Neills exist in San Antonio but none could be uniquely tied to this address; the specific individual cannot be confirmed. No FEC PAC or TX lobbyist record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0c119d1b-aa65-4581-a26f-e61559a5bd75",
+  "name": "Gonzalez, Ariel",
+  "resolved_employer": "PSJA ISD (Pharr-San Juan-Alamo Independent School District) - teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Categorize-by-employer fallback: self-reports as a teacher at PSJA ISD, Mission TX 78574 (Rio Grande Valley). PSJA ISD is a real district, but no independent public record confirms this specific individual, so classification rests on the self-reported occupation/employer. No FEC PAC or TX lobbyist record found.",
+  "source_url": "https://www.psjaisd.us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0b97e899-5856-4cd8-a33f-0a6a78e30e6a",
+  "name": "Castillo, Teri",
+  "resolved_employer": "City of San Antonio - City Council member, District 5 (elected official; formerly worked ~6 years for San Antonio ISD)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Confirmed as Teri Castillo, San Antonio City Council member for District 5 (West Side, 78207), who assumed office June 15, 2021 and was re-elected through 2025. A fellow elected official; the 'edu'/'isd' occupation reflects her prior SAISD employment at the time of the 2021 donation. A trained urban historian who champions housing justice.",
+  "source_url": "https://ballotpedia.org/Teri_Castillo",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council (District 5)", "role": "Council Member (elected official)", "category": "political", "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D5/Biography", "snippet": "Teri Castillo represents District 5 on the San Antonio City Council; a trained urban historian who worked for San Antonio ISD for six years before her election, championing housing justice and infrastructure equity."}
+  ]
+ },
+ {
+  "donor_id": "09dc9c8d-2beb-4d60-9712-eb2dd6801116",
+  "name": "Cixon, Dawn",
+  "resolved_employer": "ConnectAbility (Warm Springs Foundation), San Antonio disability-services nonprofit - Executive Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Almost certainly Dawn Dixon (donor record 'Cixon' is a likely misspelling), Executive Director of ConnectAbility in San Antonio; 25 yrs in rehabilitation/social services, formerly President/CEO of Any Baby Can of San Antonio for 14 yrs. Employer, 'Nonprofit' occupation, and San Antonio 78247 location all corroborate. No balanced-category PAC or TX lobbyist affiliation found.",
+  "source_url": "https://myconnectability.org/who-we-are/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0962c1ce-a01c-40b4-9d85-619b9805d736",
+  "name": "A Thompson, Michael",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Not Employed' in San Antonio 78222 (East Side). 'Michael Thompson' is an extremely common name; no distinguishing occupation, employer, or public record allows positive identification. No confirmable FEC PAC or TX lobbyist activity.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "08f8ff0a-32f9-43c4-9789-a1b8d09c1519",
+  "name": "ORDOQUI, ARTURO",
+  "resolved_employer": "Points of Light (national civic/volunteerism nonprofit) - former Director/Senior Director of product; later nonprofit-tech/Salesforce consultant (Impactology Consulting LLC)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Arturo Ordoqui, a nonprofit/civic-tech (Salesforce ecosystem) leader who worked at Points of Light 2011-2016 as Director/Senior Director of product; chaired a San Antonio Tricentennial (2018) volunteer-service initiative. Donor record's 'Points of Light'/'Director'/78215 San Antonio matches his career (his Points of Light tenure predates the 2022 donation date). Points of Light is a nonpartisan volunteerism org, not policy advocacy. No balanced-category PAC or TX lobbyist affiliation found.",
+  "source_url": "https://www.signalhire.com/profiles/arturo-ordoqui's-email/173819649",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "06f33bb2-5f80-421a-8d06-c90b5e68e5b0",
+  "name": "Marshall, Shelley",
+  "resolved_employer": "Siege Media (content-marketing/SEO agency) - Senior SEO Manager at time of donation; later SEO Manager at Socratik",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Shelley Marshall, San Antonio-based SEO leader with 13+ yrs experience; was Senior SEO Manager at Siege Media (matches donor employer/occupation), later moved to Socratik. 78247 location, employer, and role all corroborate. No balanced-category PAC or TX lobbyist affiliation found.",
+  "source_url": "https://www.linkedin.com/in/shelley-marshall-seo/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0647ff5d-2aae-470f-8378-42b6fb0481ba",
+  "name": "Reynoso, Dalila",
+  "resolved_employer": "Texas Jail Project (jail-oversight/criminal-justice-reform nonprofit) - East Texas / lead mental health advocate",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Dalila Reynoso is a well-documented Tyler, TX activist; joined Texas Jail Project 7/1/2020 as an East Texas advocate focused on criminal-justice reform, immigration (287g), and mental-health issues; formerly program administrator at Justice For Our Neighbors East Texas; ran for Smith County JP Precinct 1 in 2026. Matches Tyler 75702 address and occupation. Criminal-justice/immigration advocacy is not one of the balanced categories tracked here.",
+  "source_url": "https://www.texasjailproject.org/staff/dalila-reynoso/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Jail Project", "role": "East Texas / lead mental health advocate", "category": "civic", "source_url": "https://www.texasjailproject.org/staff/dalila-reynoso/", "snippet": "Her work centers on criminal justice reform and mental health advocacy within the jail system... invited to testify at a U.S. Congressional hearing on 287(g) about how routine interactions with law enforcement have turned jails into deportation pipelines across East Texas."}
+  ]
+ },
+ {
+  "donor_id": "02a42630-a546-4b6e-9533-f0f41b995e01",
+  "name": "Stokes, Trevor",
+  "resolved_employer": "Kimley-Horn (national engineering/planning firm), San Antonio office - civil engineer",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Categorize-by-employer fallback: no individual public profile located, but the stated occupation (civil engineer) and employer (Kimley-Horn, which has an active San Antonio office) are consistent with the 78215 downtown San Antonio address. No FEC PAC or TX lobbyist record found.",
+  "source_url": "https://www.kimley-horn.com/location/san-antonio-tx/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

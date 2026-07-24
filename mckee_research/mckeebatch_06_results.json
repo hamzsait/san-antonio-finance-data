@@ -1,0 +1,234 @@
+[
+ {
+  "donor_id": "8fc1cc77-36b2-4e70-b878-a7606832ee39",
+  "name": "Gillespie, Kimberly",
+  "resolved_employer": "Greater Love Missionary Baptist Church (clergy/pastor)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Self-reported pastor at Greater Love Missionary Baptist Church (San Antonio 78210), a church whose documented senior pastor is Rev. Dr. L. J. Gillespie, Sr.; surname matches but Kimberly Gillespie could not be independently confirmed as a named leader. Donor resides in Schertz (78154).",
+  "source_url": "https://www.chamberofcommerce.com/business-directory/texas/san-antonio/baptist-church/2000348797-greater-love-missionary-baptist",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7e98befe-7aec-490c-bffd-66a043007118",
+  "name": "Brougham, Kamprem",
+  "resolved_employer": "Retired (formerly U.S. Department of the Treasury)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "LinkedIn profile identifies Kamprem Brougham as retired from the U.S. Department of the Treasury, located in San Antonio, matching the donor's 'Retired' occupation and 78210 address. Distinctive name aids identification.",
+  "source_url": "https://www.linkedin.com/in/kamprem-brougham-7a0912218/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7d91f17c-8ee3-4db7-a931-cbdc3bc888b4",
+  "name": "Leal, Richard",
+  "resolved_employer": "Atlas Body Shop (owner / general manager)",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Richard Leal is documented at Atlas Body Shop, a family-owned San Antonio collision/auto body shop; LinkedIn lists him as General Manager and BBB lists a Richard Leal as President, consistent with the donor's 'Owner' self-description and 78259 location. Common name, so identity is probable but not certain.",
+  "source_url": "https://www.linkedin.com/in/richard-leal-79371369/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7914dd15-d140-4240-a6b4-fd95be10d334",
+  "name": "Amphlett, Luke",
+  "resolved_employer": "San Antonio ISD (Burbank High School teacher); labor organizer",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Well-documented San Antonio public figure: SAISD/Burbank High teacher and labor organizer who chairs the Consultation Team and sits on the Executive Council of the San Antonio Alliance (AFT Local 67), and ran for the SAISD District 4 school board with Texas AFT endorsement. Matches donor's SAISD teacher occupation and 78210 address.",
+  "source_url": "https://www.sanantonioalliance.org/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Alliance of Teachers and Support Personnel (AFT Local 67 / Texas AFT)", "role": "Consultation Team Chair / Executive Council member", "category": "civic", "source_url": "https://www.sanantonioalliance.org/about", "snippet": "Amphlett chairs the Consultation Team for the San Antonio Alliance of Teachers and Support Personnel (AFT-affiliated) and serves on the Alliance's Executive Council; Texas AFT contested his placement on leave for union activity."},
+   {"org": "SAISD Board of Trustees, District 4 (candidate)", "role": "School board candidate (Texas AFT-endorsed)", "category": "political", "source_url": "https://www.mobilize.us/texasaft/event/379030/", "snippet": "Luke Amphlett ran for SAISD District 4 with a Texas AFT / San Antonio Alliance union block walk and endorsement."}
+  ]
+ },
+ {
+  "donor_id": "7833dbf3-64d1-46e8-894e-9059ce33855d",
+  "name": "Marmolejo, Justin",
+  "resolved_employer": "University of Texas at San Antonio (UTSA), Office of Sponsored Projects — Assistant Director (post-award research administration)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Justin G. Marmolejo is Assistant Director in UTSA's Office of Sponsored Projects, confirmed via UTSA directory, openpayrolls, and a UT System Employee Advisory Council listing; matches donor's 'Research Administration / UTSA' occupation. Resides in Seguin (78155), a reasonable commute.",
+  "source_url": "https://openpayrolls.com/employee/justin-g-marmolejo-4340",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "750d9e1d-b707-4fd2-b24a-b2e787fbd074",
+  "name": "Miller, Byron",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired individual in NE San Antonio (78244). 'Byron Miller' is a very common name; a same-named San Antonio attorney exists but is a different zip and not retired, so no confirmed identity. No FEC ideological-PAC records or TX lobbyist registration found for this specific person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "73f58eae-55cc-4790-8f16-8f82fd821322",
+  "name": "Shaikh, Sakib",
+  "resolved_employer": "SA Luxury Realty (Managing Partner); realtor / small-business owner; 2025 San Antonio City Council District 8 candidate",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Self-employed San Antonio realtor and small-business owner; Managing Partner at SA Luxury Realty who ran for San Antonio City Council District 8 in 2025 (lost the May 3, 2025 general). 'Self/Self' occupation and 78240 (NW SA, within D8) are consistent. TEC records are his own candidate campaign-finance filings, not lobbyist registration; not a registered lobbyist.",
+  "source_url": "https://sanantonioreport.org/profile/sakib-shaikh-2025-san-antonio-city-council-district-8-candidate/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council District 8 (2025 candidate)", "role": "Candidate", "category": "political", "source_url": "https://ballotpedia.org/Sakib_Shaikh", "snippet": "Sakib Shaikh ran for election to the San Antonio City Council to represent District 8; lost in the general election on May 3, 2025."}
+  ]
+ },
+ {
+  "donor_id": "70bf9ebf-f68f-4c8e-8d1e-8090c589e8a7",
+  "name": "Rodriguez, Sylvia",
+  "resolved_employer": "Hobby Lobby (sales associate)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Sales associate at Hobby Lobby, West Side San Antonio (78207); part of a household donor cluster at 2021 Santiago. 'Sylvia Rodriguez' is a very common name and no public record confirms the specific individual; industry assigned via categorize-by-employer fallback. No FEC ideological-PAC records or TX lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6e9d6e48-37dc-4b0c-9c70-340d8eee1661",
+  "name": "Gillespie, Kalyn",
+  "resolved_employer": "Student",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Student in Schertz (78154), same household address as donor Kimberly Gillespie. No public record found for this specific individual. No FEC or TX lobbyist records (not expected for a student).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6b5a28ed-c161-4d63-8b50-c0341952b1bb",
+  "name": "Castro, Joaquin",
+  "resolved_employer": "U.S. House of Representatives (U.S. Rep., TX-20)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Confirmed U.S. Rep. Joaquin Castro (D, TX-20), San Antonio. Occupation 'Congressman / US House' matches. On Israel/Palestine he holds a liberal-Zionist / two-state posture: engaged with J Street and Democratic Majority for Israel, while also publicly urging a ceasefire and expressing concern over U.S. weapons sales to Israel.",
+  "source_url": "https://castro.house.gov/media-center/press-releases/congressman-castro-urges-cease-fire-in-israeli-palestinian-conflict-concerned-with-weapons-sale-to-israel",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "J Street / Democratic Majority for Israel", "role": "Participated in webcasts with pro-Israel groups as HFAC-chair candidate", "category": "liberal_zionist", "source_url": "https://mondoweiss.net/2020/10/battle-simmers-over-palestinian-voices-in-d-c-as-dems-do-damage-control-on-rabins-heroism/", "snippet": "Castro, a leading candidate for chair of House Foreign Affairs, held webcasts with Israel lobby groups J Street and Democratic Majority For Israel, discussing bringing a greater array of voices including Palestinian voices."},
+   {"org": "U.S. House of Representatives", "role": "Congressman (public policy position)", "category": "pro_palestine_advocacy", "source_url": "https://castro.house.gov/media-center/press-releases/congressman-castro-urges-cease-fire-in-israeli-palestinian-conflict-concerned-with-weapons-sale-to-israel", "snippet": "Official press release: 'Congressman Castro Urges Cease Fire in Israeli-Palestinian Conflict, Concerned with Weapons Sale to Israel'; has stated the occupation and de-facto annexation are unjust and unsustainable."}
+  ]
+ },
+ {
+  "donor_id": "662cfd52-5ca0-45df-99a1-ef68b835b784",
+  "name": "Lovely, Howard",
+  "resolved_employer": "Unemployed (military veteran / small real-estate investor)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Self-reported 'Unemployed' at 1002 E 24 Street Rd, Greeley, CO 80631. Matches Howard Lovely Jr., a U.S. military veteran who bought a Greeley, CO home via a VA loan and builds a small real-estate portfolio; the distinctive Greeley location is a strong corroborator. No PAC or lobbyist records found.",
+  "source_url": "https://themortgagereports.com/18128/va-loan-howard-lovely-jr-personal-story",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6000bc26-87ab-46e3-93c4-1ca4ab58f5de",
+  "name": "Adair, Ashley",
+  "resolved_employer": "University of Texas at San Antonio (UTSA) — Recruiter (self-reported)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Self-reported UTSA recruiter; home address (12836 Huntsman Lake Dr, 78249) is adjacent to the UTSA campus, consistent with the employer. A San Antonio LinkedIn 'Ashley Adair' exists but lists a different employer, so identity is not fully confirmed. Industry classified by self-reported employer. No PAC/lobbyist/advocacy records found.",
+  "source_url": "https://www.linkedin.com/in/adairashley/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e3098f7-6148-4513-bac2-82a737fa47a2",
+  "name": "Rodriguez, Ruben",
+  "resolved_employer": "Self-employed (nature of business unknown)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Self'/'Self' at 2021 Santiago, San Antonio, TX 78207 (part of a household donor cluster with Sylvia and Melissa Rodriguez). 'Ruben Rodriguez' is an extremely common San Antonio name; no specific individual could be confirmed. No PAC/lobbyist/advocacy records tied to this person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "57557920-018d-4618-bda7-fd896d1dec1d",
+  "name": "Mahoney, Steve",
+  "resolved_employer": "SA Bar Management LLC — managing partner/owner; owner of Tucker's Kozy Korner (historic East Side jazz bar), George's Keep, Francis Bogside, and others",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Confirmed as the San Antonio bar developer who reopened Tucker's Kozy Korner in Nov 2019 through his SA Bar Management group; 'Tuckers' in the record matches. Well-documented local nightlife operator (78232). No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://sanantonio.culturemap.com/news/restaurants-bars/11-21-19-tuckers-kozy-korner-reopens-steve-mahoney-hours-menu-east-side/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "SA Bar Management LLC", "role": "Managing partner / owner", "category": "business", "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/stephen-j-mahoney/36925481.aspx", "snippet": "Stephen Mahoney listed as manager for SA Bar Management, LLC, the group behind Tucker's Kozy Korner and other San Antonio nightspots."}
+  ]
+ },
+ {
+  "donor_id": "486be305-1541-4c79-a3f2-87f3f2955ca7",
+  "name": "Mackey, Willis",
+  "resolved_employer": "Retired; former Superintendent, Judson ISD; appointed CPS Energy board trustee (2018)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Confirmed as Dr. Willis R. Mackey, retired Judson ISD superintendent (2007-2015) in northeast San Antonio; the 78154 (Schertz/Judson ISD area) address corroborates. Appointed to the CPS Energy board of trustees by City Council in April 2018. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://sanantonioreport.org/divided-council-confirms-willis-mackey-to-cps-energy-board/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "CPS Energy Board of Trustees", "role": "Trustee (southeast quadrant seat)", "category": "civic", "source_url": "https://sanantonioreport.org/divided-council-confirms-willis-mackey-to-cps-energy-board/", "snippet": "San Antonio City Council confirmed Willis Mackey to the CPS Energy board by an 8-3 vote on April 5, 2018, citing his organizational-management experience as a former school superintendent."}
+  ]
+ },
+ {
+  "donor_id": "435aaa9c-cb39-4305-9925-52f378cba150",
+  "name": "Daniels, Michelle",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported retired, San Antonio 78220 (East Side). 'Michelle Daniels' is an extremely common name; no specific individual could be corroborated. No FEC/PAC, no TX lobbyist registration, no policy-advocacy bio found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "40031217-e804-4e64-91cb-791310f49983",
+  "name": "Rodriguez, David",
+  "resolved_employer": "Manager, Bill Miller Bar-B-Q (San Antonio BBQ restaurant chain)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Self-reported manager at Bill Miller Bar-B-Q, San Antonio 78220. 'David Rodriguez' is a very common name and the specific individual could not be uniquely confirmed; classified via categorize-by-employer fallback (restaurant chain = Hospitality). No FEC/PAC, no TX lobbyist registration, no policy-advocacy bio found.",
+  "source_url": "https://www.billmillerbbq.com/careers/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3c9e9e41-8125-48c8-a0e4-bc38912569aa",
+  "name": "Pirani, Fiyyaz",
+  "resolved_employer": "Founder/CEO of Analyte Health (STDcheck.com, HealthLabs.com, PaternityLab.com); founder of Raven Scanner; President of Piranha Holdings LLC",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Houston serial tech/health entrepreneur; founder & CEO of Analyte Health, a direct-to-consumer online medical/lab-testing company. 'CEO/Self' occupation and Houston 77099 (Wilcrest Dr / Stafford) address match his Piranha Holdings / Analyte base. No FEC/PAC contributions surfaced; no TX lobbyist registration found.",
+  "source_url": "https://www.crunchbase.com/person/fiyyaz-pirani",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3a60a682-6839-4235-9dfb-02f96537ff73",
+  "name": "Shaikh, Sakib",
+  "resolved_employer": "American Payroll Association (Business Analyst) — as self-reported",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Self-reported Business Analyst at the American Payroll Association (a San Antonio-based nonprofit professional membership org), Boerne 78015. A locally prominent 'Sakib Shaikh' ran for SA City Council District 8 in 2025, but his public bio lists occupation as realtor/small-business owner and a San Antonio D8 residence (not Boerne), so it is unclear whether this is the same person; classified by stated employer fallback. No FEC/PAC or TX lobbyist registration; no documented Israel/Palestine/oil-gas/gun/defense advocacy.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "38ce3ac7-b605-4b02-91e5-73a6fef36f1f",
+  "name": "Rodriguez, Melissa",
+  "resolved_employer": "Unemployed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported unemployed, San Antonio 78207 (West Side); address 2021 Santiago is a household cluster with Sylvia and Ruben Rodriguez. 'Melissa Rodriguez' is a very common San Antonio name and no specific individual matching this address/occupation could be corroborated. No FEC/PAC, no TX lobbyist registration, no policy-advocacy bio found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

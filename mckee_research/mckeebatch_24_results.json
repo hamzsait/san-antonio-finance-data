@@ -1,0 +1,246 @@
+[
+ {
+  "donor_id": "5b524fe9-98c8-4c0a-96e8-3a9db45c33a9",
+  "name": "Chowoe, Moima",
+  "resolved_employer": "Pabst Brewing Company (community/experiential-events lead)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Community/social-impact & experiential-events lead at Pabst Brewing (HQ relocated to San Antonio); LinkedIn 'Event Specialist / experiential curation,' 2023 Notley Fellow. Corroborated by San Antonio location, Pabst employer, and community-engagement role.",
+  "source_url": "https://www.sacurrent.com/arts/pb-art-new-corporate-citizen-pabst-steps-up-as-a-platform-for-san-antonio-creatives-26143719",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5a8f5f74-5f85-45b9-b688-e6d92c5eae02",
+  "name": "Haughton, Andre",
+  "resolved_employer": "KIPP Texas Public Schools (charter-school principal)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Dr. Andre Haughton is a career charter-school administrator (KIPP Houston teacher, Houston ISD AP, KIPP principal); Baytown TX 77521 address sits in the Houston metro, consistent with KIPP Houston/Texas employment.",
+  "source_url": "https://www.facebook.com/ScarrittBennettCenter/posts/were-thrilled-to-welcome-dr-andre-haughton-principal-of-kipp-public-schools-nort/10157665814201218/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "595feb64-1142-4902-b483-891deba14cc4",
+  "name": "Hill, Grace",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retiree in San Antonio 78219 with 6 FEC donations (Democratic-leaning aggregate); common name could not be tied to a specific individual, former career unknown, and no specific ideological-PAC affiliation could be documented.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "57b8db5f-27df-4103-9413-3d765c9d4519",
+  "name": "Garcia, Jeniffer",
+  "resolved_employer": "Southwest Key Programs (case manager)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Case manager at Southwest Key Programs, a nonprofit serving immigrant children, at its Avondale AZ site; occupation/employer/location all match a real Southwest Key Avondale role, but the common name could not be confirmed to a specific individual (categorized by employer).",
+  "source_url": "https://www.linkedin.com/jobs/view/case-manager-at-southwest-key-programs-3699505139",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5722762c-d8bd-42c3-93c9-ec7c802590d0",
+  "name": "Benitez, Celina",
+  "resolved_employer": "City of Mount Rainier, MD (Mayor)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Celina R. Benitez is the sitting Mayor of Mount Rainier, Maryland (elected 2021; first Latina mayor; prior Ward 1 councilmember 2017-2021), matching the donor's occupation, employer, and MD address exactly.",
+  "source_url": "https://www.mountrainiermd.org/273/Office-of-the-Mayor",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "City of Mount Rainier, MD",
+    "role": "Mayor (elected official; former Ward 1 Councilmember)",
+    "category": "civic",
+    "source_url": "https://www.mountrainiermd.org/273/Office-of-the-Mayor",
+    "snippet": "Celina Benitez is the 23rd Mayor of the City of Mount Rainier, elected in 2021, and the city's first Latina mayor."
+   }
+  ]
+ },
+ {
+  "donor_id": "550ecb54-123e-46df-ba07-67fb5402cb5a",
+  "name": "Vazquez, Luis",
+  "resolved_employer": "San Antonio Express-News (Producer)",
+  "industry": "Media",
+  "confidence": "low",
+  "evidence": "Occupation 'Producer' at employer 'Express news' points to the San Antonio Express-News (Media); zip 10950 is a data artifact, actual address is San Antonio 78249. Could not confirm the specific individual — a different Luis Vazquez (SA restaurateur/podcaster) is the more prominent public match, so identity is unconfirmed.",
+  "source_url": "https://en.wikipedia.org/wiki/San_Antonio_Express-News",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "52eeb8dc-5fcc-4da6-a31c-f5b479ba506b",
+  "name": "Tinney, Lea Ann",
+  "resolved_employer": "North East ISD (NEISD) teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Teacher at NEISD (North East Independent School District, San Antonio); employer confirmed as a real SA school district. No public bio or notable roles found; single FEC donation.",
+  "source_url": "https://www.neisd.net/staff-directory/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "52a2615b-4863-4400-8bd8-a915f3eefb78",
+  "name": "Beams, Sarah",
+  "resolved_employer": "Goldbelt Frontier LLC (analyst)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Analyst at Goldbelt Frontier, a federal government-services contractor (Alaska Native Corp subsidiary, SBA 8(a); medical logistics/healthcare support/business analysis, NAICS 541990). A Sarah Beams in the San Antonio metro with business-development/analyst background at Goldbelt matches. Employment at a defense-adjacent contractor is not itself a political affiliation, and no documented advocacy/board role was found, so none recorded.",
+  "source_url": "https://www.goldbeltfrontier.com/who-we-are/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5287f025-9d3f-445c-baaf-f6e2aa73278e",
+  "name": "Pathak, Ram",
+  "resolved_employer": "Thomas Jefferson High School (San Antonio ISD) teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Teacher at Jefferson High School, San Antonio (SAISD); employer confirmed as a real SA high school. No FEC donations and no public bio or notable roles found.",
+  "source_url": "https://en.wikipedia.org/wiki/Thomas_Jefferson_High_School_(San_Antonio)",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5284d320-4282-41ae-ae0d-3db0c28a29d9",
+  "name": "Villarreal, Armando",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Not Employed', San Antonio 78259. Many same-named individuals in San Antonio (physician, tree-service owner, retired federal civil servant, deceased persons); could not confirm which is this donor. High FEC count (91) with a mixed partisan lean (0.37), but no identity-corroborated PAC or advocacy affiliation found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5247e6d1-4ceb-4699-be9b-8f2881086589",
+  "name": "Townsend, Joyce",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Not-employed prolific small-dollar Democratic donor (fec_partisan_lean 0.90). Real address is 15662 Robin Ridge, San Antonio 78248 (the 15662 'zip' is a data artifact). Common name; specific individual could not be uniquely confirmed in public records.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4f14b7aa-3413-4796-bee8-cfd7a0ba9146",
+  "name": "Cortez, Lauren",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Not-employed small-dollar Democratic donor in Castroville, TX 78009 (fec_partisan_lean 1.0). Common name; no uniquely identifying public bio, FEC PAC record, or lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4a95499a-0429-4021-b3fd-f6e5bbd953d2",
+  "name": "Herrera, Joe",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired donor at 210 Sharer St, San Antonio 78208; mixed federal giving pattern (fec_partisan_lean 0.53). 'Joe Herrera' is a very common San Antonio name and the specific retiree could not be distinguished from other same-named individuals; former career unknown (retired).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4a5be32e-4ddc-4e6b-a914-7d284e3613df",
+  "name": "Amerson, James",
+  "resolved_employer": "St. Paul United Methodist Church (Senior Pastor)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Rev. James Patrick Amerson is Senior Pastor of St. Paul United Methodist Church, San Antonio's oldest historic African American (East Side) congregation; matches listed employer, clergy occupation, and 78203 location. Clergy role mapped to Nonprofit / Advocacy; church role is not documented policy lobbying.",
+  "source_url": "https://www.linkedin.com/in/james-amerson-95a997ba/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "49c908ff-c2b0-40c4-a6a2-2b027ae86f0e",
+  "name": "Cisneros, Lucrecia",
+  "resolved_employer": "WestCare Texas (WestCare Foundation)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Lucrecia Cisneros is publicly associated with WestCare Foundation Texas in San Antonio, a behavioral-health/substance-use treatment nonprofit; matches listed employer and 78208 East Side location. Employed in an administrative/case-worker capacity.",
+  "source_url": "https://publicallies.org/sanantonio/become-an-ally/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "48bf7b59-52ae-427b-b561-cb77d16070b3",
+  "name": "SEFCOVIC, CHRISTOPHER",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Pueblo, CO (81006) individual with no occupation or employer on the donation record. No FEC PAC history, no lobbyist registration, and no professional bio could be tied to this specific person; only an obituary family-listing surfaced. Identity unresolvable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "476a5123-6a1e-47dd-9d8d-5d9a6ab674e1",
+  "name": "Harig, John",
+  "resolved_employer": "Texas Research and Technology Foundation (TRTF) / VelocityTX, President & CEO (retired Dec 2023)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "John Randolph 'Randy' Harig, President & CEO of the Texas Research and Technology Foundation (TRTF), a San Antonio economic-development/innovation nonprofit; home address 108 Geneseo Rd, San Antonio 78209 matches the donor record. ~40-yr medical-industry background; led TRTF/VelocityTX innovation hub, retired Dec 2023. No FEC ideological-PAC or TX lobbyist registration found.",
+  "source_url": "https://sanantonioreport.org/texas-research-and-technology-foundation-plans-innovation-center/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Research and Technology Foundation (TRTF)",
+    "role": "President & CEO (retired Dec 2023)",
+    "category": "business",
+    "source_url": "https://sanantonioreport.org/texas-research-and-technology-foundation-plans-innovation-center/",
+    "snippet": "TRTF CEO John Randolph 'Randy' Harig led the foundation's downtown/East Side innovation center and VelocityTX; a bioscience/tech economic-development nonprofit."
+   }
+  ]
+ },
+ {
+  "donor_id": "45aac436-11ae-4e5a-a3bf-b98feb82e081",
+  "name": "Fleischer, Joe",
+  "resolved_employer": "Self-reported entertainment-industry executive (specific company unconfirmed)",
+  "industry": "Entertainment",
+  "confidence": "low",
+  "evidence": "Address 2022 Casual Ct, Simi Valley CA 93065 corroborates a Joseph Fleischer, but the self-reported employer is only the generic word 'Entertainment' (Exec). Could not confirm a specific company or that this is the Live Nation exec of the same name (who is based in Beverly Hills). Industry assigned via employer-string fallback only. No FEC ideological-PAC or lobbyist record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4358a1c5-21ba-47cd-a279-dd0b9ba7a06a",
+  "name": "Halabi, Lior",
+  "resolved_employer": "Mazal Group (Marketing Director) / founder, Share Media Agency",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Lior Halabi, Miami marketing director at Mazal Group (personal-care product/'private-label' manufacturer, 2701 Biscayne Blvd matches donor address) and founder of Share Media Agency; also founder/CEO of Israel Tech Week and the Miami-Israel Collective, and a 2023 candidate for Miami District 2 Commissioner; per bio, a former political advisor in the Israeli Knesset. No US FEC ideological-PAC donations or TX lobbyist registration found.",
+  "source_url": "https://sharemediaagency.com/israel-tech-week-by-lior-halabi-share-media/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Israel Tech Week / Miami-Israel Collective",
+    "role": "Founder & CEO",
+    "category": "civic",
+    "source_url": "https://sharemediaagency.com/israel-tech-week-by-lior-halabi-share-media/",
+    "snippet": "Founded Israel Tech Week and the Miami-Israel Collective, a business/tech-ecosystem initiative bridging Israeli startups with Florida's tech market. Documented Israel-connected business leadership; no evidence of AIPAC-style US policy advocacy."
+   }
+  ]
+ },
+ {
+  "donor_id": "415a0c88-1e3a-4336-a35a-9eee52702e74",
+  "name": "Alvarez, Daniel",
+  "resolved_employer": "Methodist Healthcare System (San Antonio)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Daniel Alvarez employed at Methodist Healthcare System, San Antonio (zip 14811 is a data artifact; real address 78231). A LinkedIn record confirms a Daniel Alvarez at Methodist Healthcare System San Antonio (listed there as purchasing/teletracking, vs the donation's 'Nurse'); common name, so role not fully pinned. Employer = Methodist Healthcare, industry Healthcare. 70 FEC donations lean Democratic (small-dollar/ActBlue pattern) but no specific named ideological PAC; no lobbyist registration.",
+  "source_url": "https://www.linkedin.com/in/alvarez-daniel-mkt-sanantonio-8b051638/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

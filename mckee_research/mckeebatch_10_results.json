@@ -1,0 +1,238 @@
+[
+ {
+  "donor_id": "ced76933-2ad5-4c18-a305-345d66a86071",
+  "name": "Miranda, Brianna",
+  "resolved_employer": "New Day Resiliency Center (a program of Sunny Glen Children's Home) — Purchasing Clerk",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Employer New Day Resiliency Center is a Rio Grande Valley nonprofit program of Sunny Glen Children's Home serving trafficking/abuse survivors, consistent with the Rio Hondo / PO Box 896 location; could not independently corroborate the specific individual Brianna Miranda beyond the stated occupation/employer.",
+  "source_url": "https://www.sunnyglen.org/ministries/new-day-resiliency-center/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "75d5169c-6e11-4afd-aaf1-18b73a7d0db3",
+  "name": "Plummer, Shirleta",
+  "resolved_employer": "Retired / Not Employed",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Retired San Antonio resident in zip 78219; FEC records show small-dollar Democratic giving ($25 to Hillary for America 2016; $50 recurring PAC gifts 2026), matching the 149-donation, partisan-lean-1.0 profile. No lobbyist registration or tracked advocacy-PAC affiliations found.",
+  "source_url": "https://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part64.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ff8b5217-9800-4642-b6da-40944b777697",
+  "name": "Harig, Randy",
+  "resolved_employer": "Texas Research & Technology Foundation (TRTF) / VelocityTX — President & CEO (retired Dec 2023)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "J. Randolph 'Randy' Harig, President/CEO of the nonprofit Texas Research & Technology Foundation and founder of the VelocityTX innovation hub, headquartered at 1305 E Houston St, San Antonio 78205 — an exact match to the donor address; 40-year medical-industry background, retired from TRTF Dec 2023. No lobbyist registration or tracked advocacy-PAC affiliations found.",
+  "source_url": "https://www.stmarytx.edu/2020/trtf-entrepreneurship/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "df2795bb-5ad4-462f-ba94-34b3c7e94d08",
+  "name": "Wilmoth, Maggie",
+  "resolved_employer": "Maggie Wilmoth Real Estate LLC / Keller Williams San Antonio — Senior Broker Associate",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Licensed San Antonio real estate broker; Senior Broker Associate at Keller Williams and owner of Maggie Wilmoth Real Estate LLC, matching the 'real estate Broker / self' occupation. No lobbyist registration or tracked advocacy-PAC affiliations found.",
+  "source_url": "https://www.kwsanantonio.com/our-agents/maggie-wilmoth/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cf89336c-fee5-4977-a339-f66a014f8678",
+  "name": "HiLL, TiGER",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as Not Employed at 7151 Western Trail Dr, San Antonio 78244; only a small residential FEC footprint (2 donations). No public profile could be confirmed for this specific individual — searches surfaced only the unrelated 'Tiger Hill Partners' lobbying firm and 'Tiger PAC'. No lobbyist registration or tracked advocacy-PAC affiliations found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c89224fa-73a6-448a-b073-27ddcb0374e4",
+  "name": "Blankenship, Luke",
+  "resolved_employer": "Pride Center San Antonio — Director/Manager of Development and Communications (Apr 2021–Mar 2023); since Mar 2023 at GLSEN",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Luke Blankenship led development & communications at Pride Center San Antonio (LGBTQ nonprofit) Apr 2021–Mar 2023, matching the Feb 2023 gift; prior Exec Director of St Pete Pride. Corroborated by TheOrg/GLSEN profile.",
+  "source_url": "https://theorg.com/org/glsen/org-chart/luke-blankenship",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b9a0034d-1111-42f4-aab5-571f381c5cd6",
+  "name": "Forbrich, Christopher",
+  "resolved_employer": "Owner/President of Forbrich & Associates, LLC — IT/computer services & management consulting firm, San Antonio, TX",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Christopher (Chris) Forbrich, San Antonio, owns Forbrich & Associates LLC (computer/IT services per BBB); UTSA Information Systems degree. Past roles include BlackBrush Oil & Gas (as employee, not exec) and Bexar County Democratic Party — no exec/board oil-gas role, so no oil_gas affiliation recorded.",
+  "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/computer-services/forbrich-associates-llc-0825-1000131789",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a4dfe8c4-4e7b-4530-bbfe-392828a59efe",
+  "name": "Bocquin, Karen",
+  "resolved_employer": "Solo-practice attorney (family law / child custody), San Antonio, TX; TX Bar admitted 1986",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Karen Bocquin is a solo attorney whose office at 4413 Hall Park Dr, San Antonio 78218 exactly matches the donor address; licensed ~39 years (TX Bar 1986), family-law practice.",
+  "source_url": "https://www.avvo.com/attorneys/78218-tx-karen-bocquin-115929.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "99acc7bb-6014-406b-84c6-32105273cdba",
+  "name": "Jose Torres, Rafael",
+  "resolved_employer": "Systems Developer at Hudson Energy Services (retail electricity/gas provider, part of Just Energy) — a software/IT role, not an oil-gas exec role",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Could not confirm the specific individual's public profile (LinkedIn inaccessible; multiple same-named people). Occupation 'Systems Developer' at an energy retailer indicates a technology/IT role; per guidance this is Technology/Energy-adjacent, not oil_gas — no oil_gas affiliation without exec/board/owner documentation.",
+  "source_url": "https://hudsonenergy.net/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "90e85872-4a4b-42f9-9ede-d06a5b157022",
+  "name": "Albarran, Rebecca",
+  "resolved_employer": "Public servant, County of Ventura / Simi Valley, CA (specific role not confirmed)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Occupation 'Public Servant' / employer 'County of Ventura' places her in Government. A 2016 Ventura County record lists a Rebecca Albarran as a Simi Valley polling-place election clerk (registered Democrat) — a plausible but not definitive identity match. No federal PAC or TX lobbyist records.",
+  "source_url": "https://clerkrecorder.venturacounty.gov/wp-content/uploads/2015/12/podr014_publication-12-1-16.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "878492e6-c2b9-4f0e-a476-46ad9aa3c810",
+  "name": "Siegel, Michael",
+  "resolved_employer": "Ground Game Texas (Political Director & General Counsel); civil rights attorney; Austin City Council (District 7)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Mike Siegel, progressive civil rights attorney, co-founder/political director of Ground Game Texas, former Democratic TX-10 congressional nominee (2018, 2020), now Austin City Council D7. Austin resident (1905 Aggie Lane, 78757) matches address. No Israel/Palestine, gun, oil/gas, or defense affiliations documented.",
+  "source_url": "https://ballotpedia.org/Mike_Siegel",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "855dea12-9032-4c2f-b18a-d41ea5d7047c",
+  "name": "Rose, R P",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as Not Employed, Sherman Oaks CA 91423, zero FEC donation history. No public profile could confirm this specific individual; multiple unrelated persons named Rose surfaced. Identity unconfirmed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "75f81a6d-3318-41b2-a888-592fe1f92775",
+  "name": "Van de Putte, Vanessa",
+  "resolved_employer": "Dixie Flag & Banner Company (President & CEO)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "President & CEO of Dixie Flag & Banner Company, the well-known San Antonio family flag business (founded 1958 by Henry P. Van de Putte); now minority- and woman-owned under her leadership. Fourth-generation family member; part of the Van de Putte family (ex-TX Sen. Leticia Van de Putte's family). No policy-advocacy affiliations documented.",
+  "source_url": "https://www.dixieflag.com/pages/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5f53faae-aa62-492c-8727-21317a56d845",
+  "name": "Linson, Joe",
+  "resolved_employer": "JEL & Associates (Founder; management consulting / governmental advocacy); also VP at Chelsea's Catering (Convention Center/Alamodome caterer)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Joe Earl Linson, San Antonio-based founder of JEL & Associates, a management consulting firm focused on community outreach and governmental advocacy; also VP of operations at Chelsea's Catering. Past chairman of the San Antonio Food Bank and Valero Texas Open. 'Self-Employed' matches his consulting firm; SA location matches. Zip not independently confirmed. No Israel/Palestine, gun, oil/gas, or defense affiliations documented.",
+  "source_url": "https://epps.utdallas.edu/joe-earl-linson/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "561a5007-6cc1-439e-a4ac-8d59b3bdb56d",
+  "name": "Gonzalez, Analco",
+  "resolved_employer": "OCI Group / Our Community Inc. (Managing Partner, JD/MBA); social-purpose consulting, government relations & lobbying firm",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "H. Analco Gonzalez, managing partner of OCI Group (Our Community Inc.), a San Antonio Latino/woman-owned social-purpose consulting firm doing government relations and lobbying; he is himself a registered Texas Ethics Commission lobbyist (Government Affairs, SA address). No pro-Israel, pro-Palestine, gun, oil/gas, or defense PAC/advocacy affiliations documented.",
+  "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/h-analco-gonzalez-81369",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Ethics Commission — Registered Lobbyist",
+    "role": "Registered lobbyist (Government Affairs), via OCI Group / Our Community Inc.",
+    "category": "political",
+    "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/h-analco-gonzalez-81369",
+    "snippet": "H. Analco Gonzalez is listed as a registered Texas lobbyist (government relations) through his firm OCI Group / Our Community Inc."
+   }
+  ]
+ },
+ {
+  "donor_id": "4f864ec0-cdd1-42e8-ac14-9dcc5a7b98be",
+  "name": "Mahoney, Steve",
+  "resolved_employer": "Owner of Tucker's Kozy Korner (historic East Side jazz/live-music bar, 1338 E Houston St); principal of SA Bar Management group (George's Keep, Francis Bogside, Blue Box, etc.)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Steve Mahoney reopened and owns Tucker's Kozy Korner at 1338 E Houston St via his SA Bar Management group; address and ownership match donor record exactly.",
+  "source_url": "https://sanantonio.culturemap.com/news/restaurants-bars/11-21-19-tuckers-kozy-korner-reopens-steve-mahoney-hours-menu-east-side/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "35e9ea1a-2efb-4053-9154-8f9e119ea13c",
+  "name": "Travieso, Olivia",
+  "resolved_employer": "Co-founder & Partner, OCI Group (San Antonio government relations/public affairs firm serving public, private, nonprofit clients in TX and Mexico); also co-founder of OCI Development (affordable housing)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Olivia Travieso is co-founder/partner of OCI Group, a public affairs & government relations firm; MPA from UT-Austin LBJ School; appointed to Port San Antonio Board of Directors. Firm-bio and Port SA bio corroborate identity.",
+  "source_url": "https://www.oci-group.com/olivia",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "26dbc4dd-80de-442d-9f19-549e03e3fd4b",
+  "name": "Doty, Mark",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Public records show a Mark A. Doty (b. ~1948) at 147 Caleta Beach, San Antonio 78232, matching the donor address, but no public professional/advocacy profile beyond a generic retiree/not-employed record; specific person and any affiliations unconfirmed.",
+  "source_url": "https://radaris.com/p/Mark/Doty/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "213d5135-a19c-4c7e-af0f-966dc19b0bf7",
+  "name": "Bishop, Jeff",
+  "resolved_employer": "Co-founder & (former) CEO, Key Capture Energy (utility-scale battery/BESS storage IPP, launched 2016); joined Vision Ridge Partners as Operating Partner in 2025. Renewable energy storage, not fossil fuels.",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Jeff Bishop is co-founder and CEO of Key Capture Energy, a grid-scale battery storage developer (Rice/UChicago Booth MBA; prior roles at Brookfield Renewable and EDP Renewables). Bio and company sources corroborate; no fossil-fuel/oil_gas affiliation found.",
+  "source_url": "https://vision-ridge.com/team/jeff-bishop/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "StoragePAC (Energy Storage Association Political Action Committee)",
+    "role": "Co-host of StoragePAC launch reception",
+    "category": "political",
+    "source_url": "https://www.keycaptureenergy.com/key-capture-energys-jeff-bishop-co-hosts-storagepac-launch-party/",
+    "snippet": "Jeff Bishop co-hosted an evening reception for the Energy Storage Association's Political Action Committee (StoragePAC), a renewable/energy-storage industry advocacy PAC. Note: this is clean-energy-storage policy advocacy, not fossil-fuel (oil_gas) or defense; recorded as 'political' because no contested-spectrum taxonomy category applies."
+   }
+  ]
+ },
+ {
+  "donor_id": "1df9abb4-7c9e-4ad6-b24b-61cfd5691cdf",
+  "name": "Williams, Charles",
+  "resolved_employer": "Retired barber and entrepreneur; founder of Williams Barber College and multiple East Side businesses (beauty supply, catering, car wash) (retired)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Charles E. Williams Sr. (b. 1937), first African American to buy property on W.W. White Rd, founded Williams Barber College and multiple businesses; the city named Charles Williams Pl after him and the TX House honored him (HR 1816, 87R). Donor address 4514 Charles Williams Pl matches; retired status consistent, though exact person vs. family member not fully certain.",
+  "source_url": "https://www.kens5.com/article/news/local/outreach/make-sa-great/people-who-make-san-antonio-great-barber-and-entrepreneur-charles-williams/273-573005211",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

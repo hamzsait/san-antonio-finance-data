@@ -98,6 +98,19 @@ CANDIDATE_CYCLES = {
          'start_year': None, 'end_year': None,
          'start_date': '2023-07-01', 'end_date': '2025-06-30'},
     ],
+    # Jalen McKee-Rodriguez (D2): won the June 5, 2021 runoff over incumbent
+    # Jada Andrews-Sullivan; re-elected outright May 2023 and May 3, 2025.
+    # First 3-tab profile (elected under the old 2-year terms).
+    'mckeerodriguez': [
+        {'label': '2021 Run', 'election_year': 2021,
+         'start_year': None, 'end_year': None, 'end_date': '2021-06-30'},
+        {'label': '2023 Re-election', 'election_year': 2023,
+         'start_year': None, 'end_year': None,
+         'start_date': '2021-07-01', 'end_date': '2023-06-30'},
+        {'label': '2025 Re-election', 'election_year': 2025,
+         'start_year': None, 'end_year': None,
+         'start_date': '2023-07-01', 'end_date': '2025-06-30'},
+    ],
 }
 
 # Earliest contribution_year included in a profile (default 2018 = start of
@@ -173,6 +186,7 @@ OFFICE_OVERRIDE = {
     'jones':  'Mayor of San Antonio',
     'galvan': 'San Antonio City Council · District 6',
     'kaur':   'San Antonio City Council · District 1',
+    'mckeerodriguez': 'San Antonio City Council · District 2',
     'shaikh': 'San Antonio City Council · 2025 District 8 Candidate',
 }
 

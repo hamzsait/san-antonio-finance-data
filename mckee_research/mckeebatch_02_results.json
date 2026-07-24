@@ -1,0 +1,242 @@
+[
+  {
+    "donor_id": "383bf725-2de5-48b2-ae27-b34b7a247932",
+    "name": "Blanton, Stewart",
+    "resolved_employer": "U.S. Department of Veterans Affairs, Human Resources (retired)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "LinkedIn profile 'Stewart Blanton - Department of Veterans Affairs' matches the FEC-reported employer 'Dept. VA' and occupation 'HR'; record lists him as retired. San Antonio 78213. Frequent small Democratic-leaning individual donor (23 FEC gifts) but no PAC-org affiliation documented.",
+    "source_url": "https://www.linkedin.com/in/stewart-blanton-7a235624",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fcd0b11e-a2b9-4c13-a98d-00fe8bc7f3d3",
+    "name": "Goodman, John",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Self-reports 'Not Employed' on FEC filings; resides 1122 Garraty Rd in the affluent 78209 (Alamo Heights/Terrell Hills) area; high-frequency Democratic-leaning federal donor (93 FEC gifts). 'John Goodman' is an extremely common name and no public profile could be uniquely tied to this specific individual/address, so identity and career are unconfirmed.",
+    "source_url": "https://www.city-data.com/elec2/14/elec-SAN-ANTONIO-TX-14-part7.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fb0ed814-bfa6-41de-960e-91c79d420cf2",
+    "name": "McGee, Michael",
+    "resolved_employer": "College of the Mainland (Executive Director of Human Resources / VP Administrative Services)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "ZoomInfo and College of the Mainland records confirm Michael McGee as Executive Director of HR / VP Administrative Services at College of the Mainland (community college, Texas City); Webster TX 77598 is adjacent. No FEC federal PAC record (fec_count 0), no TX lobbyist registration.",
+    "source_url": "https://www.zoominfo.com/p/Michael-Mcgee/15536571908",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "db1583c8-4951-408e-b200-21e495e0cf36",
+    "name": "Haskell, George",
+    "resolved_employer": "Mailgun Technologies (by Sinch) - Director of Sales Operations; also founder of ApproveThis",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Apollo.io and LinkedIn confirm George Haskell as Director of Sales Operations at Mailgun (San Antonio HQ), matching FEC employer 'Mailgun Technologies' and occupation 'Management'; also founder of SaaS product ApproveThis. San Antonio 78210. No FEC federal PAC record (fec_count 0), no TX lobbyist registration.",
+    "source_url": "https://www.apollo.io/people/George/Haskell/5b1947baa6da9830c7946fda",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d832acf8-bdea-4846-b04f-ae3bffad6a45",
+    "name": "Stropshire, Stanley",
+    "resolved_employer": "The Big Bib BBQ (owner/founder) - barbecue restaurant, San Antonio",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Record name is a misspelling of Stanley Shropshire, founder/owner of The Big Bib BBQ; employer and the 104 Lanark Dr address match the restaurant, which he started in 2000 and expanded across San Antonio and New Braunfels.",
+    "source_url": "https://www.thebigbib.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The Big Bib BBQ", "role": "Owner/Founder", "category": "business", "source_url": "https://www.thebigbib.com/about", "snippet": "Stanley Shropshire began The Big Bib BBQ in a car wash on the Eastside of San Antonio in 2000, opening the first brick-and-mortar location in 2010."}
+    ]
+  },
+  {
+    "donor_id": "d75e9695-77df-45e6-b4d0-4c1e78979302",
+    "name": "Cabello Havrda, Melissa",
+    "resolved_employer": "Law Office of Melissa Cabello Havrda, PLLC (disability attorney); San Antonio City Councilmember, District 6 (2019-2025)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as San Antonio City Councilmember for District 6 (2019-2025) who ran for Mayor in 2025; a practicing disability attorney and small-business owner operating the Law Office of MCH, matching occupation/employer in the record.",
+    "source_url": "https://ballotpedia.org/Melissa_Cabello_Havrda",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio City Council (District 6)", "role": "Councilmember (2019-2025); 2025 mayoral candidate", "category": "political", "source_url": "https://ballotpedia.org/Melissa_Cabello_Havrda", "snippet": "Melissa Cabello Havrda represented District 6 on the San Antonio City Council from June 2019 until June 2025 and ran for Mayor of San Antonio in 2025."}
+    ]
+  },
+  {
+    "donor_id": "cd6d3e1f-e7be-4e2d-ae20-371e4f3e5627",
+    "name": "Josefowitz, Nicholas",
+    "resolved_employer": "SPUR (Chief Policy Officer) - Bay Area urban-policy think tank; also MTC commissioner and former BART Board director",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Well-documented public figure: Chief Policy Officer at SPUR, member of the Metropolitan Transportation Commission and WETA, former BART Board director (2014-2018), and 2018 California State Senate candidate; SF Pacific Heights location (94115) matches.",
+    "source_url": "https://www.spur.org/about/staff/nick-josefowitz",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "SPUR", "role": "Chief Policy Officer / executive", "category": "civic", "source_url": "https://www.spur.org/about/staff/nick-josefowitz", "snippet": "Nick Josefowitz is Chief Policy Officer at SPUR, a think tank advancing sustainable and equitable policy across the San Francisco Bay Area."},
+      {"org": "Metropolitan Transportation Commission (MTC) / BART Board", "role": "MTC commissioner; former BART Board director (2014-2018)", "category": "civic", "source_url": "https://mtc.ca.gov/sites/default/files/documents/2023-01/Nick_Josefowitz.pdf", "snippet": "Serves on the MTC and WETA; previously served on the BART Board from 2014-2018 leading a $3.5 billion infrastructure bond."}
+    ]
+  },
+  {
+    "donor_id": "c64e8b39-1fdc-4a83-8336-8275f63591ba",
+    "name": "Michael and Brenna, Nava",
+    "resolved_employer": "Michael Alexander Nava - attorney (insurance defense/torts/commercial), Shavano Park TX; joint donation with spouse Brenna Nava",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Michael Alexander Nava is a licensed Texas attorney (insurance defense/torts/commercial) based in Shavano Park; Brenna G. Nava is his spouse associated with the 78230 Shavano Park/San Antonio area, matching the joint donor record. Record lists occupation/employer as 'Self.' Brenna's occupation not separately documented in public records.",
+    "source_url": "https://lawyers.justia.com/lawyer/michael-alexander-nava-281491",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bacb4857-7d5a-46d0-beaa-1a04a488e567",
+    "name": "Perez, Jezzika",
+    "resolved_employer": "Founder, The Jezzika Lee Perez Tax Group LLC (tax preparation & accounting firm), San Antonio TX",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Confirmed accountant and firm founder; firm address 11230 West Ave Suite 2207, San Antonio TX 78213 matches donor location exactly. MPA from Texas A&M-Kingsville, prior federal government and Big 4 accounting experience, adjunct accounting professor.",
+    "source_url": "https://jezzikaperez.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio LGBT Chamber of Commerce", "role": "Member business (The Jezzika Lee Perez Tax Group LLC listed in member directory)", "category": "business", "source_url": "https://business.salgbtchamber.com/list/member/the-jezzika-lee-perez-tax-group-llc-635", "snippet": "Directory listing: 'The Jezzika Lee Perez Tax Group, LLC' appears as a member of the San Antonio LGBT Chamber of Commerce business directory."}
+    ]
+  },
+  {
+    "donor_id": "aef61965-06dd-416b-9537-29c87f4bdaae",
+    "name": "Marquez, Nicholas",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Two plausible Schertz TX candidates could not be disambiguated to the specific donor: a Nicholas Marquez who is a RE/MAX Corridor real estate associate in Schertz, and a Nick Marquez who owns a Schertz bar. 'Self/Self' occupation is consistent with a self-employed proprietor but no record ties either to the 555 Ginsberg Dr address. No FEC or TX lobbyist records found.",
+    "source_url": "https://www.remax.com/real-estate-agents/nicholas-marquez-schertz-tx/102038131",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "97bea8c2-9fe4-4194-993a-b29c1e655e9f",
+    "name": "Luke and Amie, Owens-Bragg",
+    "resolved_employer": "Luke Owens-Bragg: commercial real estate agent, Lockwood Realty Group; co-founder, Lockwood Capital Group (San Antonio real estate investment)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Luke Owens-Bragg is a San Antonio commercial real estate agent/investor (Lockwood Realty Group, co-founder Lockwood Capital, in investment sales since 2005); Amie is his wife. Unusual hyphenated surname is a strong unique match; family and San Antonio location consistent with donor address in 78257.",
+    "source_url": "https://www.lockwoodcapgroup.com/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "790f4678-05fa-4446-ac9c-1e747f697b9a",
+    "name": "Lovely Jr, Howard",
+    "resolved_employer": "Owner, Lovely Real Estate Investments LLC (rental property); part-time mobile notary; Air Force veteran on disability income",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Published personal-finance profile identifies Howard Lovely Jr as an Air Force veteran (aircraft mechanic 1985-1991) in Greeley CO who owns rental properties there and operates Lovely Real Estate Investments LLC while relying on disability income; matches Greeley CO 80631 location and 'Not Employed' occupation. No FEC or lobbyist records found.",
+    "source_url": "https://themortgagereports.com/18128/va-loan-howard-lovely-jr-personal-story",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "67cce1fd-1a3e-45a3-9e37-c084790144a1",
+    "name": "Pino, Catherine",
+    "resolved_employer": "D&P Creative Strategies LLC (co-founder & co-CEO)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Catherine Pino, co-founder/co-CEO of D&P Creative Strategies (Bethesda MD, 'Business Owner') - prominent Latina Democratic donor-activist and DEI/legislative strategy consultant; identity matches employer, occupation, and location exactly.",
+    "source_url": "https://www.dpcreativestrategies.com/catherine-pino",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Poder PAC", "role": "Founder", "category": "political", "source_url": "https://www.dpcreativestrategies.com/catherine-pino", "snippet": "established Poder PAC, the first-of-its-kind political action committee dedicated to increasing Latina representation in Congress"},
+      {"org": "UnidosUS Action Fund", "role": "Board Member", "category": "civic", "source_url": "https://www.linkedin.com/in/catherine-m-pino-a498556/", "snippet": "Catherine M Pino - Board Member - UnidosUS Action Fund"},
+      {"org": "GLAAD", "role": "Board of Directors", "category": "civic", "source_url": "https://www.facebook.com/LatinoGLBTHistory/photos/catherine-pino-is-the-co-founder-and-principal-of-dp-creative-strategies-along-w/755293674530417/", "snippet": "memberships to the Boards of Directors for several organizations, including the Congressional Hispanic Caucus Institute, and currently for GLAAD"},
+      {"org": "Victory Institute", "role": "Board Member", "category": "civic", "source_url": "https://www.dpcreativestrategies.com/catherine-pino", "snippet": "Board Memberships include Victory Institute and the Victory Campaign Board."}
+    ]
+  },
+  {
+    "donor_id": "5b43ba58-1374-4fb3-b97e-2dadd3bffd94",
+    "name": "collins III, edward e.",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Corroborated as a prolific San Antonio (78204) small-dollar Democratic donor listed 'not employed' in FEC records; matches zip, employment status, and heavy Democratic pattern (156 FEC donations, 0.94 lean). No public bio/profile beyond donor records.",
+    "source_url": "https://city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part36.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "55e37806-57b9-4135-8ce2-0f80373b89d4",
+    "name": "Dyer, Chad",
+    "resolved_employer": "Former CIO of Sequoia Capital (retired 2020); technology operations for venture capital firms",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Chad Dyer, technologist with ~25 years in tech operations for VC firms, most recently CIO of Sequoia Capital, left in 2020 and resides in the San Francisco Bay Area (94127) - matches 'Retired' occupation and location; now an impact-investing / economic-justice advocate.",
+    "source_url": "https://justeconomyinstitute.org/all_fellows/chad-yer/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Just Economy Institute", "role": "Fellow", "category": "civic", "source_url": "https://justeconomyinstitute.org/all_fellows/chad-yer/", "snippet": "Chad Dyer is a Fellow at the Just Economy Institute, promoting financial activism and community connection to accelerate a Just Transition to a new economy."}
+    ]
+  },
+  {
+    "donor_id": "55b4faa5-35a1-4abb-89e7-e448e3cc0be4",
+    "name": "Patrick and Mardi, Christensen",
+    "resolved_employer": "P.W. Christensen, PC / Law Office of Patrick W. Christensen (solo-practitioner attorney; real estate / commercial / administrative law), San Antonio",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Joint donation from Patrick Williams Christensen, a San Antonio solo-practitioner attorney (self-employed, real estate/commercial/administrative law) and his wife Mardi; residence 78212, law office at 310 S St Mary's St 78205. Name, location, and 'Self/Self' employment match; he appears in the City of San Antonio lobbyist registry.",
+    "source_url": "https://lawyers.justia.com/lawyer/patrick-williams-christensen-275523",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio Lobbyist Registry", "role": "Registered municipal lobbyist (activity 2021-2025)", "category": "political", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx?FirmLink=Patrick+W.+Christensen&SDate=2%2F22%2F2021&EDate=2%2F22%2F2025", "snippet": "Patrick W. Christensen appears in the City of San Antonio Lobbyist System search results as a registered lobbyist with activity in the 2021-2025 window."}
+    ]
+  },
+  {
+    "donor_id": "543222e7-5da1-4ee9-b802-29bb7a21283a",
+    "name": "McDavid, Kennith",
+    "resolved_employer": "Delivery/distribution driver, Southern Glazer's Wine & Spirits (record lists 'Seven Glazers,Self')",
+    "industry": "Transportation",
+    "confidence": "low",
+    "evidence": "Occupation 'Driver' with employer 'Seven Glazers' matches Southern Glazer's Wine & Spirits, which runs union distribution drivers in San Antonio; specific individual not independently confirmed. Classified by employer/occupation fallback.",
+    "source_url": "https://jobs.southernglazers.com/posting/distribution-driver-class-a---union/29394/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4b2f2fb7-c384-43bc-9205-d532e8a5d627",
+    "name": "Sims, Bruce",
+    "resolved_employer": "Contract IT project manager and San Antonio ISD educator",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Occupations 'IT Project Manager,Educator' with employers 'Contract,SAISD'; multiple unrelated 'Bruce Sims' profiles exist so the specific person could not be confirmed. Classified by concrete institutional employer (SAISD). Record shows 24 FEC donations, partisan lean 0.0 (balanced), no PAC affiliation identified.",
+    "source_url": "https://www.saisd.net",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4300c3c4-46e6-4d47-9208-af35c5735c99",
+    "name": "Christopher, Haas",
+    "resolved_employer": "Self-employed; former San Antonio City Councilmember (District 10, 2003-2007)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Christopher 'Chip' Haass, former San Antonio City Councilman (District 10, 2003-2007), tied in public records to the exact donor address 204 E Melrose Dr, 78212; donor record lists occupation/employer as 'Self'.",
+    "source_url": "https://webapp1.sanantonio.gov/archivedagendas/CC02011/5jhw01!.PDF",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio City Council", "role": "Former Councilmember, District 10 (2003-2007)", "category": "political", "source_url": "https://webapp1.sanantonio.gov/archivedagendas/CC02011/5jhw01!.PDF", "snippet": "Councilman Chip Haass - District 10; became the youngest city councilman in San Antonio history when elected in 2003."}
+    ]
+  },
+  {
+    "donor_id": "2f393f27-2faa-416f-afaf-90b124bd758d",
+    "name": "Gershman, Eddie",
+    "resolved_employer": "Data Processor, Alamo Mailing Company (direct-mail services), San Antonio",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Edward Gershman, Data Processor at Alamo Mailing Company, San Antonio - an exact match to the record's occupation and employer. Alamo Mailing is a direct-mail/marketing services vendor.",
+    "source_url": "https://www.linkedin.com/in/edward-gershman-3887b5136/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]
