@@ -1,270 +1,535 @@
 [
-  {
-    "donor_id": "cecb13ed-a723-4377-ba71-72a073195262",
-    "name": "McKee-Rodriguez, Jalen",
-    "resolved_employer": "City of San Antonio (District 2 City Councilman); formerly a teacher at Northeast ISD",
-    "industry": "Government",
-    "confidence": "high",
-    "evidence": "The donor is the candidate himself: Jalen McKee-Rodriguez, sitting San Antonio City Council District 2 councilman (elected June 2021), a former high school teacher. Self-contributions plus cross-gives to allied progressive candidates (Teri Castillo, Kelly Gonzalez).",
+ {
+  "donor_id": "cecb13ed-a723-4377-ba71-72a073195262",
+  "name": "McKee-Rodriguez, Jalen",
+  "resolved_employer": "City of San Antonio (District 2 City Councilman); formerly a teacher at Northeast ISD",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "The donor is the candidate himself: Jalen McKee-Rodriguez, sitting San Antonio City Council District 2 councilman (elected June 2021), a former high school teacher. Self-contributions plus cross-gives to allied progressive candidates (Teri Castillo, Kelly Gonzalez).",
+  "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D2/Biography",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": [
+   {
+    "org": "San Antonio City Council, District 2",
+    "role": "Councilman",
+    "category": "political",
     "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D2/Biography",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "San Antonio City Council, District 2", "role": "Councilman", "category": "political", "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D2/Biography", "snippet": "Official City of San Antonio bio identifies Jalen McKee-Rodriguez as the District 2 Councilman, a former teacher representing the East Side."},
-      {"org": "LGBTQ+ Victory Fund", "role": "Endorsed candidate", "category": "civic", "source_url": "https://victoryfund.org/candidate/jalen-mckee-rodriguez/", "snippet": "Victory Fund candidate page lists McKee-Rodriguez as an endorsed LGBTQ+ elected official."}
-    ]
+    "snippet": "Official City of San Antonio bio identifies Jalen McKee-Rodriguez as the District 2 Councilman, a former teacher representing the East Side."
+   },
+   {
+    "org": "LGBTQ+ Victory Fund",
+    "role": "Endorsed candidate",
+    "category": "civic",
+    "source_url": "https://victoryfund.org/candidate/jalen-mckee-rodriguez/",
+    "snippet": "Victory Fund candidate page lists McKee-Rodriguez as an endorsed LGBTQ+ elected official."
+   }
+  ]
+ },
+ {
+  "donor_id": "7c4a5516-490c-4f23-b846-034aa3a46dfc",
+  "name": "Talarico, James",
+  "resolved_employer": "Texas House of Representatives (State Representative, District 50, Round Rock); 2026 Democratic U.S. Senate candidate",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "James Talarico, Texas State Representative since 2018 and 2026 Democratic U.S. Senate candidate (FEC candidate ID S6TX00479). Round Rock 78665 address matches his residence. Public figure. [EDITORIAL 2026-07-23: AIPAC-stance affiliation removed — Talarico publicly disavowed AIPAC in his 2026 Senate run (Jewish Insider); do not count his giving as pro-Israel support. Owner decision.]",
+  "source_url": "https://house.texas.gov/members/3685",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "7c4a5516-490c-4f23-b846-034aa3a46dfc",
-    "name": "Talarico, James",
-    "resolved_employer": "Texas House of Representatives (State Representative, District 50, Round Rock); 2026 Democratic U.S. Senate candidate",
-    "industry": "Government",
-    "confidence": "high",
-    "evidence": "James Talarico, Texas State Representative since 2018 and 2026 Democratic U.S. Senate candidate (FEC candidate ID S6TX00479). Round Rock 78665 address matches his residence. Public figure.",
+  "affiliations": [
+   {
+    "org": "Texas House of Representatives",
+    "role": "State Representative (District 50)",
+    "category": "political",
     "source_url": "https://house.texas.gov/members/3685",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "Texas House of Representatives", "role": "State Representative (District 50)", "category": "political", "source_url": "https://house.texas.gov/members/3685", "snippet": "Official Texas House member page for Rep. James Talarico."},
-      {"org": "AIPAC (stance)", "role": "Attended a 2019 AIPAC event; in 2026 Senate run publicly disavowed AIPAC and J Street support", "category": "pro_israel", "source_url": "https://jewishinsider.com/2026/01/talarico-who-now-disavows-aipac-attended-groups-event-in-2019/", "snippet": "Jewish Insider: Talarico, who now disavows AIPAC and pledges not to take AIPAC or J Street support in his Senate bid, attended an AIPAC event in 2019 — recorded for transparency, not as an endorsement of the group."}
-    ]
+    "snippet": "Official Texas House member page for Rep. James Talarico."
+   }
+  ]
+ },
+ {
+  "donor_id": "411eb3a7-4230-4606-bade-31be01a658f5",
+  "name": "Watts, Beverly",
+  "resolved_employer": "WestCare Foundation — Chief Officer of Resource Development/Program Support and Senior Vice President for Texas (behavioral health / substance-abuse prevention nonprofit)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Beverly Watts-Davis, senior WestCare Foundation executive over Texas (San Antonio/Laredo) programs; 40+ years in public agencies and nonprofits, San Antonio Women's Hall of Fame inductee. WestCare employer and San Antonio location match the donor record.",
+  "source_url": "https://westcare.com/leadership/senior/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "411eb3a7-4230-4606-bade-31be01a658f5",
-    "name": "Watts, Beverly",
-    "resolved_employer": "WestCare Foundation — Chief Officer of Resource Development/Program Support and Senior Vice President for Texas (behavioral health / substance-abuse prevention nonprofit)",
-    "industry": "Nonprofit / Advocacy",
-    "confidence": "high",
-    "evidence": "Beverly Watts-Davis, senior WestCare Foundation executive over Texas (San Antonio/Laredo) programs; 40+ years in public agencies and nonprofits, San Antonio Women's Hall of Fame inductee. WestCare employer and San Antonio location match the donor record.",
+  "affiliations": [
+   {
+    "org": "WestCare Foundation",
+    "role": "Chief Officer, Resource Development/Program Support; SVP Texas",
+    "category": "business",
     "source_url": "https://westcare.com/leadership/senior/",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "WestCare Foundation", "role": "Chief Officer, Resource Development/Program Support; SVP Texas", "category": "business", "source_url": "https://westcare.com/leadership/senior/", "snippet": "WestCare senior leadership page: Beverly Watts-Davis supervises grant development staff nationally and implements WestCare programs in San Antonio and Laredo."},
-      {"org": "Ella Austin Community Center", "role": "Chair, Board of Directors", "category": "civic", "source_url": "https://westcare.com/leadership/senior/", "snippet": "Bio notes she is current Chair of the Board of the Ella Austin Community Center, a historic East Side San Antonio nonprofit."}
-    ]
+    "snippet": "WestCare senior leadership page: Beverly Watts-Davis supervises grant development staff nationally and implements WestCare programs in San Antonio and Laredo."
+   },
+   {
+    "org": "Ella Austin Community Center",
+    "role": "Chair, Board of Directors",
+    "category": "civic",
+    "source_url": "https://westcare.com/leadership/senior/",
+    "snippet": "Bio notes she is current Chair of the Board of the Ella Austin Community Center, a historic East Side San Antonio nonprofit."
+   }
+  ]
+ },
+ {
+  "donor_id": "c22e4481-941d-49e7-b5aa-468b8dac20d5",
+  "name": "Lopez, Alejandra",
+  "resolved_employer": "San Antonio ISD teacher; President of the San Antonio Alliance of Teachers and Support Personnel (AFT/NEA Local 67)",
+  "industry": "Labor",
+  "confidence": "medium",
+  "evidence": "Profile strongly matches Alejandra Lopez, an SAISD teacher elected President of the San Antonio Alliance of Teachers and Support Personnel (term began 2020) — a politically active union leader who would plausibly give to progressive council candidate McKee-Rodriguez. SAISD employer matches; specific street address not independently confirmed, so identity is probable rather than certain.",
+  "source_url": "https://www.nea.org/professional-excellence/leadership-development/member-spotlight/alejandra-lopez-i-never-forgot-my-union-roots",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "c22e4481-941d-49e7-b5aa-468b8dac20d5",
-    "name": "Lopez, Alejandra",
-    "resolved_employer": "San Antonio ISD teacher; President of the San Antonio Alliance of Teachers and Support Personnel (AFT/NEA Local 67)",
-    "industry": "Labor",
-    "confidence": "medium",
-    "evidence": "Profile strongly matches Alejandra Lopez, an SAISD teacher elected President of the San Antonio Alliance of Teachers and Support Personnel (term began 2020) — a politically active union leader who would plausibly give to progressive council candidate McKee-Rodriguez. SAISD employer matches; specific street address not independently confirmed, so identity is probable rather than certain.",
-    "source_url": "https://www.nea.org/professional-excellence/leadership-development/member-spotlight/alejandra-lopez-i-never-forgot-my-union-roots",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "San Antonio Alliance of Teachers and Support Personnel (AFT/NEA Local 67)", "role": "President", "category": "labor", "source_url": "https://www.sanantonioalliance.org/about", "snippet": "San Antonio Alliance identifies Alejandra Lopez as president of the union representing SAISD teachers and support staff; NEA member spotlight profiles her union leadership."}
-    ]
+  "affiliations": [
+   {
+    "org": "San Antonio Alliance of Teachers and Support Personnel (AFT/NEA Local 67)",
+    "role": "President",
+    "category": "labor",
+    "source_url": "https://www.sanantonioalliance.org/about",
+    "snippet": "San Antonio Alliance identifies Alejandra Lopez as president of the union representing SAISD teachers and support staff; NEA member spotlight profiles her union leadership."
+   }
+  ]
+ },
+ {
+  "donor_id": "aa8d577e-1fa0-4e0b-8cae-028570cf3a6f",
+  "name": "Archer, Christian",
+  "resolved_employer": "Self-employed political consultant; founder of The Archer Group / Adelante Strategy Group (also Brasidas Strategies)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Christian Archer, the well-known San Antonio Democratic political strategist; chief strategist for Mayors Julian Castro and Phil Hardberger and County Judge Nelson Wolff, and ran $1.9B+ in SA city bond campaigns. Matches donor's SA 78212 address and 'Consultant'/'Self' occupation.",
+  "source_url": "https://www.brasidasstrategies.com/your-team/christian-archer",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "aa8d577e-1fa0-4e0b-8cae-028570cf3a6f",
-    "name": "Archer, Christian",
-    "resolved_employer": "Self-employed political consultant; founder of The Archer Group / Adelante Strategy Group (also Brasidas Strategies)",
-    "industry": "Consulting / PR",
-    "confidence": "high",
-    "evidence": "Christian Archer, the well-known San Antonio Democratic political strategist; chief strategist for Mayors Julian Castro and Phil Hardberger and County Judge Nelson Wolff, and ran $1.9B+ in SA city bond campaigns. Matches donor's SA 78212 address and 'Consultant'/'Self' occupation.",
+  "affiliations": [
+   {
+    "org": "The Archer Group / Adelante Strategy Group",
+    "role": "Founder / political consultant",
+    "category": "political",
+    "source_url": "https://www.christianarcher.com/christian-archer/",
+    "snippet": "Founder of the Texas-based Archer Group; long-time chief strategist for Democratic mayors Julian Castro and Phil Hardberger and Bexar County Judge Nelson Wolff."
+   },
+   {
+    "org": "San Antonio municipal bond campaigns",
+    "role": "Campaign manager/strategist",
+    "category": "civic",
     "source_url": "https://www.brasidasstrategies.com/your-team/christian-archer",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "The Archer Group / Adelante Strategy Group", "role": "Founder / political consultant", "category": "political", "source_url": "https://www.christianarcher.com/christian-archer/", "snippet": "Founder of the Texas-based Archer Group; long-time chief strategist for Democratic mayors Julian Castro and Phil Hardberger and Bexar County Judge Nelson Wolff."},
-      {"org": "San Antonio municipal bond campaigns", "role": "Campaign manager/strategist", "category": "civic", "source_url": "https://www.brasidasstrategies.com/your-team/christian-archer", "snippet": "Managed passage of over $1.9 billion in San Antonio city bond referendums (2007-2012) and the $850M 2017 bond."}
-    ]
+    "snippet": "Managed passage of over $1.9 billion in San Antonio city bond referendums (2007-2012) and the $850M 2017 bond."
+   }
+  ]
+ },
+ {
+  "donor_id": "a2c8d107-e60b-4c69-9d37-18cb1a231808",
+  "name": "Trynoski, William",
+  "resolved_employer": "City of San Antonio - Chief of Staff, District 2 City Council Office (prior: policy advisor to District 9 / Councilman John Courage; San Antonio Local Government Corporation; MOVE Texas)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "William Trynoski, Chief of Staff for San Antonio City Council District 2 (Jalen McKee-Rodriguez's own office); previously District 9 policy advisor under Councilman John Courage and worked at the SA Local Government Corporation and MOVE Texas. Matches occupation/employer strings and SA 78254 address (batch zip field garbled).",
+  "source_url": "https://www.zoominfo.com/p/William-Trynoski/5323980667",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "a2c8d107-e60b-4c69-9d37-18cb1a231808",
-    "name": "Trynoski, William",
-    "resolved_employer": "City of San Antonio - Chief of Staff, District 2 City Council Office (prior: policy advisor to District 9 / Councilman John Courage; San Antonio Local Government Corporation; MOVE Texas)",
-    "industry": "Government",
-    "confidence": "high",
-    "evidence": "William Trynoski, Chief of Staff for San Antonio City Council District 2 (Jalen McKee-Rodriguez's own office); previously District 9 policy advisor under Councilman John Courage and worked at the SA Local Government Corporation and MOVE Texas. Matches occupation/employer strings and SA 78254 address (batch zip field garbled).",
+  "affiliations": [
+   {
+    "org": "City of San Antonio, District 2 City Council Office",
+    "role": "Chief of Staff",
+    "category": "government",
     "source_url": "https://www.zoominfo.com/p/William-Trynoski/5323980667",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "City of San Antonio, District 2 City Council Office", "role": "Chief of Staff", "category": "government", "source_url": "https://www.zoominfo.com/p/William-Trynoski/5323980667", "snippet": "Chief of Staff, District 2 City Council Office, City of San Antonio — i.e. staff to the recipient councilman Jalen McKee-Rodriguez; previously District Policy Advisor to Council District 9 (Councilman John Courage)."},
-      {"org": "MOVE Texas", "role": "Former staff", "category": "civic", "source_url": "https://www.zoominfo.com/p/William-Trynoski/5323980667", "snippet": "Prior role at MOVE Texas, a nonpartisan youth civic-engagement / voter registration organization."}
-    ]
+    "snippet": "Chief of Staff, District 2 City Council Office, City of San Antonio — i.e. staff to the recipient councilman Jalen McKee-Rodriguez; previously District Policy Advisor to Council District 9 (Councilman John Courage)."
+   },
+   {
+    "org": "MOVE Texas",
+    "role": "Former staff",
+    "category": "civic",
+    "source_url": "https://www.zoominfo.com/p/William-Trynoski/5323980667",
+    "snippet": "Prior role at MOVE Texas, a nonpartisan youth civic-engagement / voter registration organization."
+   }
+  ]
+ },
+ {
+  "donor_id": "4b2673f4-5cc1-4172-8c7d-6d87cc8c5ae7",
+  "name": "Bernal, Diego",
+  "resolved_employer": "Texas House of Representatives - State Representative, HD-123 (Democrat); attorney, Law Office of Diego Bernal PLLC",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Diego M. Bernal, sitting Democratic Texas State Representative for HD-123 (San Antonio) and former SA City Councilman; attorney (former MALDEF). Public figure matching donor's 'Attorney'/'Self' occupation and SA address. Not a registered lobbyist (sitting legislator).",
+  "source_url": "https://en.wikipedia.org/wiki/Diego_Bernal",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "4b2673f4-5cc1-4172-8c7d-6d87cc8c5ae7",
-    "name": "Bernal, Diego",
-    "resolved_employer": "Texas House of Representatives - State Representative, HD-123 (Democrat); attorney, Law Office of Diego Bernal PLLC",
-    "industry": "Government",
-    "confidence": "high",
-    "evidence": "Diego M. Bernal, sitting Democratic Texas State Representative for HD-123 (San Antonio) and former SA City Councilman; attorney (former MALDEF). Public figure matching donor's 'Attorney'/'Self' occupation and SA address. Not a registered lobbyist (sitting legislator).",
-    "source_url": "https://en.wikipedia.org/wiki/Diego_Bernal",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "Texas House of Representatives (HD-123)", "role": "State Representative (D)", "category": "political", "source_url": "https://ballotpedia.org/Diego_Bernal", "snippet": "Democratic member of the Texas House representing District 123 since 2015; former San Antonio City Council member."},
-      {"org": "Mexican American Legislative Caucus (MALC)", "role": "Member", "category": "political", "source_url": "https://malc.org/members/diego-bernal/", "snippet": "Listed as a member of the Texas Mexican American Legislative Caucus."}
-    ]
+  "affiliations": [
+   {
+    "org": "Texas House of Representatives (HD-123)",
+    "role": "State Representative (D)",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Diego_Bernal",
+    "snippet": "Democratic member of the Texas House representing District 123 since 2015; former San Antonio City Council member."
+   },
+   {
+    "org": "Mexican American Legislative Caucus (MALC)",
+    "role": "Member",
+    "category": "political",
+    "source_url": "https://malc.org/members/diego-bernal/",
+    "snippet": "Listed as a member of the Texas Mexican American Legislative Caucus."
+   }
+  ]
+ },
+ {
+  "donor_id": "688faebf-6f0d-47ac-a638-761f1e84f7c1",
+  "name": "Zainie, Carla",
+  "resolved_employer": "Not employed / retired (former art historian; author of a Nelson Gallery & Atkins Museum bulletin article on East Asian painting)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Distinctive surname; Carla M. Zainie is a prolific San Antonio Democratic donor listed as an A-List monthly giving member of Annie's List (elects progressive Democratic women). Earlier career as an art historian. Occupation reported as unemployed/not employed, consistent with retirement.",
+  "source_url": "https://annieslist.com/donate/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "688faebf-6f0d-47ac-a638-761f1e84f7c1",
-    "name": "Zainie, Carla",
-    "resolved_employer": "Not employed / retired (former art historian; author of a Nelson Gallery & Atkins Museum bulletin article on East Asian painting)",
-    "industry": "Not Employed",
-    "confidence": "medium",
-    "evidence": "Distinctive surname; Carla M. Zainie is a prolific San Antonio Democratic donor listed as an A-List monthly giving member of Annie's List (elects progressive Democratic women). Earlier career as an art historian. Occupation reported as unemployed/not employed, consistent with retirement.",
+  "affiliations": [
+   {
+    "org": "Annie's List",
+    "role": "A-List monthly donor",
+    "category": "political",
     "source_url": "https://annieslist.com/donate/",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "Annie's List", "role": "A-List monthly donor", "category": "political", "source_url": "https://annieslist.com/donate/", "snippet": "Listed in the Annie's List A-List monthly giving club; Annie's List is a Texas org dedicated to electing progressive Democratic women to office."}
-    ]
+    "snippet": "Listed in the Annie's List A-List monthly giving club; Annie's List is a Texas org dedicated to electing progressive Democratic women to office."
+   }
+  ]
+ },
+ {
+  "donor_id": "442e55ef-c49d-46c5-b6ab-b9ca274928d9",
+  "name": "McKee, Jack",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Los Angeles (90036) resident listed as Not Employed; likely a young relative/family member of the candidate (shared McKee surname). No public professional profile confirmable for this specific person; a separate wealthy 'Jack McKee' political donor and an LA freelance video editor are different individuals not matching a Not-Employed 90036 profile.",
+  "source_url": "https://ballotpedia.org/Jalen_McKee-Rodriguez",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "442e55ef-c49d-46c5-b6ab-b9ca274928d9",
-    "name": "McKee, Jack",
-    "resolved_employer": null,
-    "industry": "Not Employed",
-    "confidence": "low",
-    "evidence": "Los Angeles (90036) resident listed as Not Employed; likely a young relative/family member of the candidate (shared McKee surname). No public professional profile confirmable for this specific person; a separate wealthy 'Jack McKee' political donor and an LA freelance video editor are different individuals not matching a Not-Employed 90036 profile.",
-    "source_url": "https://ballotpedia.org/Jalen_McKee-Rodriguez",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": []
+  "affiliations": []
+ },
+ {
+  "donor_id": "da5b0ad1-fd46-47f0-a7c3-e27d679ce22a",
+  "name": "Torres, Rafael",
+  "resolved_employer": "Hudson Energy Services (retail electricity provider), Systems Developer",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "Self-reported on filing as a Systems Developer at Hudson Energy Services, a retail electricity provider, in Plano TX (75025). 'Rafael Torres' is a common name and no external source corroborated this specific individual; classified by employer sector (energy/electricity), though the role itself is an IT/technology function. No PAC, lobbyist, or oil/gas advocacy links found.",
+  "source_url": "https://www.bbb.org/us/tx/houston/profile/electric-companies/hudson-energy-services-llc-0915-90044095",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "da5b0ad1-fd46-47f0-a7c3-e27d679ce22a",
-    "name": "Torres, Rafael",
-    "resolved_employer": "Hudson Energy Services (retail electricity provider), Systems Developer",
-    "industry": "Energy / Environment",
-    "confidence": "low",
-    "evidence": "Self-reported on filing as a Systems Developer at Hudson Energy Services, a retail electricity provider, in Plano TX (75025). 'Rafael Torres' is a common name and no external source corroborated this specific individual; classified by employer sector (energy/electricity), though the role itself is an IT/technology function. No PAC, lobbyist, or oil/gas advocacy links found.",
-    "source_url": "https://www.bbb.org/us/tx/houston/profile/electric-companies/hudson-energy-services-llc-0915-90044095",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": []
+  "affiliations": []
+ },
+ {
+  "donor_id": "a2985e96-e994-404c-b137-5ceb04fb21bf",
+  "name": "Garcia, Joleen",
+  "resolved_employer": "Texas Organizing Project (community organizer); later Director of Policy, City of San Antonio",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed San Antonio (78237) progressive organizer. Longtime community organizer with the Texas Organizing Project (TOP); testified 'Against' SB 2488 (86R) representing TOP; later Director of Policy for City of San Antonio and prior ED of Martinez Street Women's Center. TOP backed McKee-Rodriguez's District 2 campaign, matching the donation pattern.",
+  "source_url": "https://capitol.texas.gov/tlodocs/86R/witlistbill/html/SB02488H.htm",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "a2985e96-e994-404c-b137-5ceb04fb21bf",
-    "name": "Garcia, Joleen",
-    "resolved_employer": "Texas Organizing Project (community organizer); later Director of Policy, City of San Antonio",
-    "industry": "Nonprofit / Advocacy",
-    "confidence": "high",
-    "evidence": "Confirmed San Antonio (78237) progressive organizer. Longtime community organizer with the Texas Organizing Project (TOP); testified 'Against' SB 2488 (86R) representing TOP; later Director of Policy for City of San Antonio and prior ED of Martinez Street Women's Center. TOP backed McKee-Rodriguez's District 2 campaign, matching the donation pattern.",
+  "affiliations": [
+   {
+    "org": "Texas Organizing Project",
+    "role": "Community organizer",
+    "category": "political",
+    "source_url": "https://organizetexas.org/texas-organizing-project-provides-critical-boost-to-progressive-candidates-moves-the-needle-on-police-reform-in-san-antonio-2/",
+    "snippet": "TOP is a progressive grassroots organization that mobilized to support progressive San Antonio candidates including McKee-Rodriguez; Joleen Garcia is a TOP community organizer."
+   },
+   {
+    "org": "Texas Organizing Project",
+    "role": "Witness (Against SB 2488)",
+    "category": "civic",
     "source_url": "https://capitol.texas.gov/tlodocs/86R/witlistbill/html/SB02488H.htm",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "Texas Organizing Project", "role": "Community organizer", "category": "political", "source_url": "https://organizetexas.org/texas-organizing-project-provides-critical-boost-to-progressive-candidates-moves-the-needle-on-police-reform-in-san-antonio-2/", "snippet": "TOP is a progressive grassroots organization that mobilized to support progressive San Antonio candidates including McKee-Rodriguez; Joleen Garcia is a TOP community organizer."},
-      {"org": "Texas Organizing Project", "role": "Witness (Against SB 2488)", "category": "civic", "source_url": "https://capitol.texas.gov/tlodocs/86R/witlistbill/html/SB02488H.htm", "snippet": "Witness list lists 'Garcia, Joleen (Self; Texas organizing project)' registered Against SB 2488."}
-    ]
+    "snippet": "Witness list lists 'Garcia, Joleen (Self; Texas organizing project)' registered Against SB 2488."
+   }
+  ]
+ },
+ {
+  "donor_id": "d35e8453-75bb-4c50-8f69-c6fe07caa010",
+  "name": "Fox, Pamela",
+  "resolved_employer": "Retired (former career not confirmed)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired resident of Webster, TX (77598), sharing the 428 Capano address with fellow donor Nicholas McGee (likely household/relatives). 'Pamela Fox' is a very common name; no public source could confirm her former career or any advocacy/lobbyist/PAC activity for this specific person, so industry is left null.",
+  "source_url": "https://www.xome.com/realestate/TX/Webster/77598/Capano",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "d35e8453-75bb-4c50-8f69-c6fe07caa010",
-    "name": "Fox, Pamela",
-    "resolved_employer": "Retired (former career not confirmed)",
-    "industry": null,
-    "confidence": "low",
-    "evidence": "Retired resident of Webster, TX (77598), sharing the 428 Capano address with fellow donor Nicholas McGee (likely household/relatives). 'Pamela Fox' is a very common name; no public source could confirm her former career or any advocacy/lobbyist/PAC activity for this specific person, so industry is left null.",
-    "source_url": "https://www.xome.com/realestate/TX/Webster/77598/Capano",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": []
+  "affiliations": []
+ },
+ {
+  "donor_id": "cc03d48a-0766-4737-997b-53ad78ec3561",
+  "name": "McGee, Nicholas",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as Not Employed/Unemployed at 428 Capano, Webster TX 77598, an address shared with Pamela Fox (same household). No distinct public profile, FEC record, or lobbyist registration found; consistent with a young household/family member. Not over-classified.",
+  "source_url": "https://nationalpublicdata.com/people/m/nicholas-mcgee/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "cc03d48a-0766-4737-997b-53ad78ec3561",
-    "name": "McGee, Nicholas",
-    "resolved_employer": null,
-    "industry": "Not Employed",
-    "confidence": "low",
-    "evidence": "Listed as Not Employed/Unemployed at 428 Capano, Webster TX 77598, an address shared with Pamela Fox (same household). No distinct public profile, FEC record, or lobbyist registration found; consistent with a young household/family member. Not over-classified.",
-    "source_url": "https://nationalpublicdata.com/people/m/nicholas-mcgee/",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": []
+  "affiliations": []
+ },
+ {
+  "donor_id": "2c1cecff-23d9-40c3-8548-7ab9ac30b919",
+  "name": "Ferari, Kyle",
+  "resolved_employer": "Muñoz & Company (Kell Muñoz), San Antonio architecture and design firm; also a Democratic political fundraiser/bundler",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Kyle Ferari-Muñoz, San Antonio; spouse of Henry R. Muñoz III (Muñoz & Company chairman and former DNC Finance Chair). Employer 'Munoz & Co' at 1017 N Main Ave Ste 300 matches the firm. Documented Democratic donor/bundler and Latino Victory board member; no pro-Israel/oil-gas/gun PAC or TX lobbyist registration found.",
+  "source_url": "https://therevolvingdoorproject.org/person-of-interest/kyle-ferari-munoz/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "2c1cecff-23d9-40c3-8548-7ab9ac30b919",
-    "name": "Ferari, Kyle",
-    "resolved_employer": "Muñoz & Company (Kell Muñoz), San Antonio architecture and design firm; also a Democratic political fundraiser/bundler",
-    "industry": "Architecture",
-    "confidence": "high",
-    "evidence": "Kyle Ferari-Muñoz, San Antonio; spouse of Henry R. Muñoz III (Muñoz & Company chairman and former DNC Finance Chair). Employer 'Munoz & Co' at 1017 N Main Ave Ste 300 matches the firm. Documented Democratic donor/bundler and Latino Victory board member; no pro-Israel/oil-gas/gun PAC or TX lobbyist registration found.",
+  "affiliations": [
+   {
+    "org": "Democratic presidential campaigns (Biden, Buttigieg, Booker 2020)",
+    "role": "Donor / bundler",
+    "category": "political",
     "source_url": "https://therevolvingdoorproject.org/person-of-interest/kyle-ferari-munoz/",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "Democratic presidential campaigns (Biden, Buttigieg, Booker 2020)", "role": "Donor / bundler", "category": "political", "source_url": "https://therevolvingdoorproject.org/person-of-interest/kyle-ferari-munoz/", "snippet": "Contributions of $2,800 each to three 2020 campaigns (Biden, Buttigieg, Booker) and bundling for Biden 2020 and Clinton 2016."},
-      {"org": "Latino Victory", "role": "Board of Directors", "category": "political", "source_url": "https://latinovictory.org/latino-victory-announces-new-board-directors-national-committee/", "snippet": "Kyle Ferari was elected to serve on the Board of Directors of Latino Victory."},
-      {"org": "Muñoz & Company / Henry Muñoz III (DNC)", "role": "Spouse of Henry Muñoz III; firm administrator", "category": "business", "source_url": "https://en.wikipedia.org/wiki/Henry_R._Mu%C3%B1oz_III", "snippet": "Kyle Ferari-Muñoz is the spouse of Henry Muñoz, Democratic National Committee figure and Muñoz & Company chairman."}
-    ]
+    "snippet": "Contributions of $2,800 each to three 2020 campaigns (Biden, Buttigieg, Booker) and bundling for Biden 2020 and Clinton 2016."
+   },
+   {
+    "org": "Latino Victory",
+    "role": "Board of Directors",
+    "category": "political",
+    "source_url": "https://latinovictory.org/latino-victory-announces-new-board-directors-national-committee/",
+    "snippet": "Kyle Ferari was elected to serve on the Board of Directors of Latino Victory."
+   },
+   {
+    "org": "Muñoz & Company / Henry Muñoz III (DNC)",
+    "role": "Spouse of Henry Muñoz III; firm administrator",
+    "category": "business",
+    "source_url": "https://en.wikipedia.org/wiki/Henry_R._Mu%C3%B1oz_III",
+    "snippet": "Kyle Ferari-Muñoz is the spouse of Henry Muñoz, Democratic National Committee figure and Muñoz & Company chairman."
+   }
+  ]
+ },
+ {
+  "donor_id": "1455c5d1-e4d1-4f3b-8907-9619d40d38b4",
+  "name": "Hartman, Gordon",
+  "resolved_employer": "Founder/CEO, The Gordon Hartman Family Foundation & Morgan's Wonderland; former founder of Gordon Hartman Homes / land-development company (largest locally-owned San Antonio homebuilder, sold 2005)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Prominent San Antonio real-estate developer turned philanthropist. Built Gordon Hartman Homes (est. 1983) into San Antonio's largest locally-owned homebuilding/land-development firm before selling in 2005 to found his family foundation and Morgan's Wonderland. Giving Pledge signatory; founded San Antonio FC. Address 1202 W Bitters matches foundation HQ.",
+  "source_url": "https://morganswonderland.org/gordon-hartman-full-bio/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "1455c5d1-e4d1-4f3b-8907-9619d40d38b4",
-    "name": "Hartman, Gordon",
-    "resolved_employer": "Founder/CEO, The Gordon Hartman Family Foundation & Morgan's Wonderland; former founder of Gordon Hartman Homes / land-development company (largest locally-owned San Antonio homebuilder, sold 2005)",
-    "industry": "Real Estate",
-    "confidence": "high",
-    "evidence": "Prominent San Antonio real-estate developer turned philanthropist. Built Gordon Hartman Homes (est. 1983) into San Antonio's largest locally-owned homebuilding/land-development firm before selling in 2005 to found his family foundation and Morgan's Wonderland. Giving Pledge signatory; founded San Antonio FC. Address 1202 W Bitters matches foundation HQ.",
+  "affiliations": [
+   {
+    "org": "Gordon Hartman Homes / Hartman land-development company",
+    "role": "Founder",
+    "category": "business",
     "source_url": "https://morganswonderland.org/gordon-hartman-full-bio/",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "Gordon Hartman Homes / Hartman land-development company", "role": "Founder", "category": "business", "source_url": "https://morganswonderland.org/gordon-hartman-full-bio/", "snippet": "Founded in 1983, grew into the largest locally-owned homebuilding and land-development enterprise in San Antonio before he sold it in 2005."},
-      {"org": "The Gordon Hartman Family Foundation / Morgan's Wonderland", "role": "Founder & CEO", "category": "civic", "source_url": "https://www.gordonhartman.com/our-team/", "snippet": "Sold his homebuilding business in 2005 to establish the foundation aiding children and adults with special needs; created Morgan's Wonderland, the first Ultra-Accessible theme park."},
-      {"org": "Gordon Hartman Family Foundation (lobby client)", "role": "Registered lobby client", "category": "civic", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2021/2021LobbyGroupByClient.pdf", "snippet": "Gordon Hartman Family Foundation (1202 W. Bitters, San Antonio 78216) listed as a Texas Ethics Commission lobby client in 2021 (hired lobbyists; Hartman himself is not a registered lobbyist)."}
-    ]
+    "snippet": "Founded in 1983, grew into the largest locally-owned homebuilding and land-development enterprise in San Antonio before he sold it in 2005."
+   },
+   {
+    "org": "The Gordon Hartman Family Foundation / Morgan's Wonderland",
+    "role": "Founder & CEO",
+    "category": "civic",
+    "source_url": "https://www.gordonhartman.com/our-team/",
+    "snippet": "Sold his homebuilding business in 2005 to establish the foundation aiding children and adults with special needs; created Morgan's Wonderland, the first Ultra-Accessible theme park."
+   },
+   {
+    "org": "Gordon Hartman Family Foundation (lobby client)",
+    "role": "Registered lobby client",
+    "category": "civic",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2021/2021LobbyGroupByClient.pdf",
+    "snippet": "Gordon Hartman Family Foundation (1202 W. Bitters, San Antonio 78216) listed as a Texas Ethics Commission lobby client in 2021 (hired lobbyists; Hartman himself is not a registered lobbyist)."
+   }
+  ]
+ },
+ {
+  "donor_id": "008b6733-623e-4b04-a7cd-ac62a092ec60",
+  "name": "McKee-Rodriguez, Nathan",
+  "resolved_employer": "CVS/Caremark — Clinical Client Operations Consultant / pharmacy benefit management (previously a pharmacy technician)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Husband of the recipient, Councilman Jalen McKee-Rodriguez (D2); they married April 2018 and share the 7362 Monets Gdn address. Works for CVS/Caremark in pharmacy benefit management. No federal PAC or TX lobbyist registration; contribution is a spousal/household gift.",
+  "source_url": "https://www.sacurrent.com/news/san-antonio-councilman-jalen-mckee-rodriguez-and-husband-welcome-new-baby-girl-38059534",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "008b6733-623e-4b04-a7cd-ac62a092ec60",
-    "name": "McKee-Rodriguez, Nathan",
-    "resolved_employer": "CVS/Caremark — Clinical Client Operations Consultant / pharmacy benefit management (previously a pharmacy technician)",
-    "industry": "Healthcare",
-    "confidence": "high",
-    "evidence": "Husband of the recipient, Councilman Jalen McKee-Rodriguez (D2); they married April 2018 and share the 7362 Monets Gdn address. Works for CVS/Caremark in pharmacy benefit management. No federal PAC or TX lobbyist registration; contribution is a spousal/household gift.",
+  "affiliations": [
+   {
+    "org": "Office of Councilman Jalen McKee-Rodriguez (San Antonio City Council, District 2)",
+    "role": "Spouse of the councilman/candidate",
+    "category": "political",
     "source_url": "https://www.sacurrent.com/news/san-antonio-councilman-jalen-mckee-rodriguez-and-husband-welcome-new-baby-girl-38059534",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "Office of Councilman Jalen McKee-Rodriguez (San Antonio City Council, District 2)", "role": "Spouse of the councilman/candidate", "category": "political", "source_url": "https://www.sacurrent.com/news/san-antonio-councilman-jalen-mckee-rodriguez-and-husband-welcome-new-baby-girl-38059534", "snippet": "Councilman Jalen McKee-Rodriguez and husband Nathan married in April 2018; the donation is a spousal/household contribution to the councilman."}
-    ]
+    "snippet": "Councilman Jalen McKee-Rodriguez and husband Nathan married in April 2018; the donation is a spousal/household contribution to the councilman."
+   }
+  ]
+ },
+ {
+  "donor_id": "af0c8679-42f2-440e-a40a-7be5ad09cd2a",
+  "name": "Brown, Akeem",
+  "resolved_employer": "Essence Preparatory Public School (Founder/CEO/Superintendent); Building Excellent Schools (BES) Fellow",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Akeem Brown founded and led Essence Preparatory charter school on San Antonio's East Side (opened 2022); BES Fellow; former interim CEO of San Antonio Growth on the Eastside (SAGE) and former communications/policy director for SA City Council District 2. Zip 78212 / Melrose Pl matches his SA East Side base. Public figure.",
+  "source_url": "https://bes.org/fellows/akeem-brown/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "af0c8679-42f2-440e-a40a-7be5ad09cd2a",
-    "name": "Brown, Akeem",
-    "resolved_employer": "Essence Preparatory Public School (Founder/CEO/Superintendent); Building Excellent Schools (BES) Fellow",
-    "industry": "Education",
-    "confidence": "high",
-    "evidence": "Akeem Brown founded and led Essence Preparatory charter school on San Antonio's East Side (opened 2022); BES Fellow; former interim CEO of San Antonio Growth on the Eastside (SAGE) and former communications/policy director for SA City Council District 2. Zip 78212 / Melrose Pl matches his SA East Side base. Public figure.",
-    "source_url": "https://bes.org/fellows/akeem-brown/",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "Essence Preparatory Public School", "role": "Founder / CEO / Superintendent", "category": "civic", "source_url": "https://sanantonioreport.org/essence-charter-school-east-side-san-antonio/", "snippet": "Founded Essence Prep, a charter school created by and for San Antonio's East Side, approved by the State Board of Education and opened August 2022."},
-      {"org": "San Antonio Growth on the Eastside (SAGE)", "role": "Former Director of Operations / Interim CEO", "category": "civic", "source_url": "https://www.ksat.com/news/local/2021/04/11/leading-sa-akeem-brown-talks-east-side-developments-future-of-education-in-san-antonio/", "snippet": "Served as director of operations and interim CEO of San Antonio Growth on the Eastside, overseeing a $23.7M Promise Neighborhood grant and East Side development."},
-      {"org": "San Antonio City Council District 2", "role": "Former Director of Communications and Policy", "category": "political", "source_url": "https://www.ksat.com/news/local/2021/04/11/leading-sa-akeem-brown-talks-east-side-developments-future-of-education-in-san-antonio/", "snippet": "Previously served as director of communications and policy for San Antonio's City Council District 2 (the district McKee-Rodriguez now represents)."}
-    ]
+  "affiliations": [
+   {
+    "org": "Essence Preparatory Public School",
+    "role": "Founder / CEO / Superintendent",
+    "category": "civic",
+    "source_url": "https://sanantonioreport.org/essence-charter-school-east-side-san-antonio/",
+    "snippet": "Founded Essence Prep, a charter school created by and for San Antonio's East Side, approved by the State Board of Education and opened August 2022."
+   },
+   {
+    "org": "San Antonio Growth on the Eastside (SAGE)",
+    "role": "Former Director of Operations / Interim CEO",
+    "category": "civic",
+    "source_url": "https://www.ksat.com/news/local/2021/04/11/leading-sa-akeem-brown-talks-east-side-developments-future-of-education-in-san-antonio/",
+    "snippet": "Served as director of operations and interim CEO of San Antonio Growth on the Eastside, overseeing a $23.7M Promise Neighborhood grant and East Side development."
+   },
+   {
+    "org": "San Antonio City Council District 2",
+    "role": "Former Director of Communications and Policy",
+    "category": "political",
+    "source_url": "https://www.ksat.com/news/local/2021/04/11/leading-sa-akeem-brown-talks-east-side-developments-future-of-education-in-san-antonio/",
+    "snippet": "Previously served as director of communications and policy for San Antonio's City Council District 2 (the district McKee-Rodriguez now represents)."
+   }
+  ]
+ },
+ {
+  "donor_id": "be4fe937-40cc-44a5-ad37-6656603d0e7d",
+  "name": "Van de Putte, Leticia",
+  "resolved_employer": "Andrade-Van de Putte & Associates (partner/owner, registered Texas lobbying/consulting firm); licensed pharmacist; former Texas State Senator",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Leticia Van de Putte, former Texas State Senator and 2014 Lt. Gov. nominee, pharmacist, and partner with Hope Andrade in Andrade-Van de Putte & Associates. Registered with the Texas Ethics Commission as an active lobbyist (2020, 2023-2026), San Antonio address. Public figure; zip 78213 matches SA.",
+  "source_url": "https://en.wikipedia.org/wiki/Leticia_Van_de_Putte",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "be4fe937-40cc-44a5-ad37-6656603d0e7d",
-    "name": "Van de Putte, Leticia",
-    "resolved_employer": "Andrade-Van de Putte & Associates (partner/owner, registered Texas lobbying/consulting firm); licensed pharmacist; former Texas State Senator",
-    "industry": "Consulting / PR",
-    "confidence": "high",
-    "evidence": "Leticia Van de Putte, former Texas State Senator and 2014 Lt. Gov. nominee, pharmacist, and partner with Hope Andrade in Andrade-Van de Putte & Associates. Registered with the Texas Ethics Commission as an active lobbyist (2020, 2023-2026), San Antonio address. Public figure; zip 78213 matches SA.",
+  "affiliations": [
+   {
+    "org": "Texas Ethics Commission lobbyist registry",
+    "role": "Registered lobbyist",
+    "category": "business",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026LobbyGroupByLobbyist.pdf",
+    "snippet": "Van de Putte, Leticia registered as an active Texas lobbyist for 2026 (112 E. Pecan, Suite 1340, San Antonio, TX 78205); listed in TEC lobbyist rolls across 2020 and 2023-2026."
+   },
+   {
+    "org": "Andrade-Van de Putte & Associates",
+    "role": "Partner / Owner",
+    "category": "business",
+    "source_url": "https://www.txhpf.org/leadership/leticia-van-de-putte/",
+    "snippet": "Co-founded a full-service consulting/lobbying firm with former Texas Secretary of State Hope Andrade."
+   },
+   {
+    "org": "Texas State Senate",
+    "role": "Former State Senator (D-San Antonio); 2014 Lt. Governor nominee",
+    "category": "political",
     "source_url": "https://en.wikipedia.org/wiki/Leticia_Van_de_Putte",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "Texas Ethics Commission lobbyist registry", "role": "Registered lobbyist", "category": "business", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026LobbyGroupByLobbyist.pdf", "snippet": "Van de Putte, Leticia registered as an active Texas lobbyist for 2026 (112 E. Pecan, Suite 1340, San Antonio, TX 78205); listed in TEC lobbyist rolls across 2020 and 2023-2026."},
-      {"org": "Andrade-Van de Putte & Associates", "role": "Partner / Owner", "category": "business", "source_url": "https://www.txhpf.org/leadership/leticia-van-de-putte/", "snippet": "Co-founded a full-service consulting/lobbying firm with former Texas Secretary of State Hope Andrade."},
-      {"org": "Texas State Senate", "role": "Former State Senator (D-San Antonio); 2014 Lt. Governor nominee", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Leticia_Van_de_Putte", "snippet": "Longtime Democratic Texas legislator and 2014 Democratic nominee for Lieutenant Governor."}
-    ]
+    "snippet": "Longtime Democratic Texas legislator and 2014 Democratic nominee for Lieutenant Governor."
+   }
+  ]
+ },
+ {
+  "donor_id": "e4f20b80-0399-45cc-ba84-391aea9a5789",
+  "name": "Galloway, H. Drew",
+  "resolved_employer": "BRIDGE / NEO Philanthropy (Founder & Executive Director); former Executive Director of MOVE Texas / MOVE Texas Action Fund",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "H. Drew Galloway built MOVE Texas from a UTSA student voter-registration group into a leading statewide youth civic-engagement nonprofit, serving as ED until spring 2021; now Founder/ED of BRIDGE, supporting grassroots advocacy funding. San Antonio resident; UTSA College of Public Policy alum. Public figure.",
+  "source_url": "https://sanantonioreport.org/accelerating-change-progressive-leader-drew-galloway-looks-to-nurture-fund-grassroots-groups/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "e4f20b80-0399-45cc-ba84-391aea9a5789",
-    "name": "Galloway, H. Drew",
-    "resolved_employer": "BRIDGE / NEO Philanthropy (Founder & Executive Director); former Executive Director of MOVE Texas / MOVE Texas Action Fund",
-    "industry": "Nonprofit / Advocacy",
-    "confidence": "high",
-    "evidence": "H. Drew Galloway built MOVE Texas from a UTSA student voter-registration group into a leading statewide youth civic-engagement nonprofit, serving as ED until spring 2021; now Founder/ED of BRIDGE, supporting grassroots advocacy funding. San Antonio resident; UTSA College of Public Policy alum. Public figure.",
+  "affiliations": [
+   {
+    "org": "MOVE Texas / MOVE Texas Action Fund",
+    "role": "Former Executive Director",
+    "category": "civic",
+    "source_url": "https://www.ksat.com/news/local/2020/11/24/spring-will-bring-change-of-leadership-ahead-at-move-texas/",
+    "snippet": "Led MOVE Texas, a nonpartisan grassroots youth voter-registration and civic-engagement nonprofit, from its San Antonio origins to a statewide organization; stepped down spring 2021."
+   },
+   {
+    "org": "BRIDGE (fiscally sponsored by NEO Philanthropy)",
+    "role": "Founder & Executive Director",
+    "category": "civic",
     "source_url": "https://sanantonioreport.org/accelerating-change-progressive-leader-drew-galloway-looks-to-nurture-fund-grassroots-groups/",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "MOVE Texas / MOVE Texas Action Fund", "role": "Former Executive Director", "category": "civic", "source_url": "https://www.ksat.com/news/local/2020/11/24/spring-will-bring-change-of-leadership-ahead-at-move-texas/", "snippet": "Led MOVE Texas, a nonpartisan grassroots youth voter-registration and civic-engagement nonprofit, from its San Antonio origins to a statewide organization; stepped down spring 2021."},
-      {"org": "BRIDGE (fiscally sponsored by NEO Philanthropy)", "role": "Founder & Executive Director", "category": "civic", "source_url": "https://sanantonioreport.org/accelerating-change-progressive-leader-drew-galloway-looks-to-nurture-fund-grassroots-groups/", "snippet": "Founder/ED of BRIDGE, working to nurture and fund progressive grassroots advocacy groups."}
-    ]
+    "snippet": "Founder/ED of BRIDGE, working to nurture and fund progressive grassroots advocacy groups."
+   }
+  ]
+ },
+ {
+  "donor_id": "99d30bd1-f993-46d6-8c65-b5168bde84b6",
+  "name": "Marmolejo, Justin",
+  "resolved_employer": "University of Texas at San Antonio (UTSA) — Office of Sponsored Projects, research administration (Senior Research Award Coordinator / Assistant Director, Post-Award Administration)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Justin G. Marmolejo is a UTSA research-administration staffer (Office of Sponsored Projects) and served as Ex-Officio Chair of the UTSA Staff Senate (2022-2025). Address 11500 Huebner Rd, SA 78230 matches (batch zip field garbled). No FEC PAC or lobbyist records found.",
+  "source_url": "https://openpayrolls.com/employee/justin-g-marmolejo-4340",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
   },
-  {
-    "donor_id": "99d30bd1-f993-46d6-8c65-b5168bde84b6",
-    "name": "Marmolejo, Justin",
-    "resolved_employer": "University of Texas at San Antonio (UTSA) — Office of Sponsored Projects, research administration (Senior Research Award Coordinator / Assistant Director, Post-Award Administration)",
-    "industry": "Education",
-    "confidence": "high",
-    "evidence": "Justin G. Marmolejo is a UTSA research-administration staffer (Office of Sponsored Projects) and served as Ex-Officio Chair of the UTSA Staff Senate (2022-2025). Address 11500 Huebner Rd, SA 78230 matches (batch zip field garbled). No FEC PAC or lobbyist records found.",
-    "source_url": "https://openpayrolls.com/employee/justin-g-marmolejo-4340",
-    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
-    "affiliations": [
-      {"org": "UTSA Staff Senate", "role": "Ex-Officio Chair (2022-2025)", "category": "civic", "source_url": "https://www.utsa.edu/staffsenate/About.html", "snippet": "Listed as Ex-Officio Chair of the UTSA Staff Senate; also an alternate member of the UT System Employee Advisory Council."}
-    ]
-  }
+  "affiliations": [
+   {
+    "org": "UTSA Staff Senate",
+    "role": "Ex-Officio Chair (2022-2025)",
+    "category": "civic",
+    "source_url": "https://www.utsa.edu/staffsenate/About.html",
+    "snippet": "Listed as Ex-Officio Chair of the UTSA Staff Senate; also an alternate member of the UT System Employee Advisory Council."
+   }
+  ]
+ }
 ]
