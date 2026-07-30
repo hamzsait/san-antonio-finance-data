@@ -54,21 +54,23 @@ UNLISTED_SLUGS = {"shaikh"}
 
 def og_meta_for(slug: str) -> dict:
     """Social-preview strings for a slug, from the sanantonio_landing.json
-    snapshot (arrives with the phase-3 landing page; generic fallback until
-    then, and always for unlisted profiles)."""
-    landing_path = os.path.join(ROOT, "sanantonio_landing.json")
+    snapshot (generic fallback for unlisted profiles and roster entries the
+    landing lists without stats yet)."""
+    landing_path = os.path.join(SITE_DIR, "sanantonio_landing.json")
     c = None
     if os.path.exists(landing_path):
         with open(landing_path, "r", encoding="utf-8") as f:
             landing = json.load(f)
         c = next((c for c in landing["candidates"] if c["slug"] == slug), None)
 
-    if c is None:
-        return {
+    if c is None or not c.get("raised") or len(c.get("topGroups") or []) < 2:
+        meta = {
             "title": "Candidate Profile — San Antonio Campaign Finance — decode(politics):",
             "desc": "San Antonio city campaign money, decoded donor by donor.",
-            "alt": "San Antonio campaign finance, decoded by decode(politics):",
         }
+        if c is not None:
+            meta["title"] = f"{c['name']} — San Antonio Campaign Finance — decode(politics):"
+        return meta
     g = c["topGroups"]
     return {
         "title": f"{c['name']} — San Antonio Campaign Finance — decode(politics):",
@@ -77,7 +79,6 @@ def og_meta_for(slug: str) -> dict:
             f"Top donor interests: {g[0]['label']} ({g[0]['amt']}) and {g[1]['label']} ({g[1]['amt']}). "
             "Every dollar decoded, donor by donor."
         ),
-        "alt": f"{c['name']} ({c['district']}) — {c['raised']} raised, {c['donors']} donors, decoded by decode(politics):",
     }
 
 
@@ -117,7 +118,6 @@ def make_profile_html(slug: str) -> str:
         new_html.replace("__OG_SLUG__", slug)
         .replace("__OG_TITLE__", og["title"])
         .replace("__OG_DESC__", og["desc"])
-        .replace("__OG_ALT__", og["alt"])
     )
 
     subs = CANDIDATE_TEMPLATE_SUBS if slug in CANDIDATE_SLUGS else OFFICEHOLDER_TEMPLATE_SUBS
