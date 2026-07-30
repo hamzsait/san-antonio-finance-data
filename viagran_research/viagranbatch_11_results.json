@@ -1,0 +1,231 @@
+[
+ {
+  "donor_id": "8f22dcc8-613b-449d-b954-72f7c869ee61",
+  "name": "Van de Putte, Vanesa",
+  "resolved_employer": "Dixie Flag & Banner Company (President/CEO)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Confirmed 4th-generation President/CEO of Dixie Flag & Banner Co., the well-known SA family flag manufacturer/retailer; daughter of chairman Pete Van de Putte and former TX State Sen. Leticia Van de Putte (NOT to be confused with either parent). FEC PAC search: no personal issue-PAC (pro-Israel/oil-gas/gun/defense) donations found. TX Ethics/City lobbyist search: not a registered lobbyist (the registered 'Van de Putte' lobbyist is her mother Leticia). Bio full read (SA Woman profile): led COVID mask pivot for University Health; no board seats/advocacy org memberships documented.",
+  "source_url": "https://sawoman.com/2020/07/role-model-vanessa-van-de-putte-2/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8b82d2e6-f16e-4124-bc04-cc69e2e60291",
+  "name": "Laborde, Frank",
+  "resolved_employer": "Laborde & Associates PC (Frank X. Laborde, CPA, founder/president)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Confirmed Frank X. Laborde, CPA, founder/president of Laborde & Associates PC, a bilingual South Side SA accounting firm founded 1988 at 1518/1526 S Flores St 78204 (matches donor address/occupation). FEC PAC search: 8 federal donations per crosswalk but no issue-specific PAC (pro-Israel/oil-gas/gun/defense) affiliation found via OpenSecrets/FEC/city-data. TX Ethics/City lobbyist search: not registered (the 'Laborde' lobbyist is Blanca Laborde, unrelated). Bio read (firm About/LinkedIn): UTSA grad, family-business tax focus; no policy-advocacy roles. Shares 1526 S Flores address with donor Norma Greenfield-Laborde (household/family).",
+  "source_url": "https://labordecpa.com/?page_id=23",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "82719acd-6f40-4bb4-86fc-de40778f64a5",
+  "name": "Mora, Guadalupe",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Guadalupe Mora, retired, 130 W Hart Ave 78214 (South Side); public-records aggregators confirm a Guadalupe Mora at this address but no former occupation/career, obituary, or org membership could be identified. Same-name individuals abound. FEC PAC search: no matching issue-PAC donations found. TX Ethics/City lobbyist search: no match. Bio full read: no bio page exists for this person. Quiet result.",
+  "source_url": "https://www.zillow.com/homedetails/130-W-Hart-Ave-San-Antonio-TX-78214/26243737_zpid/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "68439b8d-c9ec-45ca-9c6f-e3a379dcb92a",
+  "name": "Jackson, Marisa",
+  "resolved_employer": "Realty San Antonio (Agent Success Manager / VP of Sales, real estate)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Confirmed Marisa Jackson, Agent Success Manager (later VP of Sales) at Realty San Antonio; 4th-generation San Antonian, former NEISD school psychologist turned realtor, Platinum Top 50 honoree. Occupation/employer match donor record. FEC PAC search: no issue-specific PAC donations found. TX Ethics/City lobbyist search: no match. Bio full read (Capital Analytics spotlight): real-estate leadership/coaching; recognized by NAHREP (professional association, not policy advocacy).",
+  "source_url": "https://capitalanalyticsassociates.com/spotlight-on-marisa-jackson-agent-success-manager-realty-san-antonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "National Association of Hispanic Real Estate Professionals (NAHREP)", "role": "Recognized top agent / member", "category": "business", "source_url": "https://capitalanalyticsassociates.com/spotlight-on-marisa-jackson-agent-success-manager-realty-san-antonio/", "snippet": "earned local and national recognition as a top agent by the National Association of Hispanic Real Estate Professionals (NAHREP)"}
+  ]
+ },
+ {
+  "donor_id": "60c51986-68d2-40b0-924e-dfec139c9c30",
+  "name": "Carreon, Teresa",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Teresa Carreon, retired, 225 E Malone Ave 78214 (South Side); has 17 federal donations per crosswalk (consistent with a small-dollar recurring donor) but no former occupation/career, bio, or org membership could be corroborated, and multiple same-named individuals exist. FEC PAC search: no issue-specific PAC (pro-Israel/oil-gas/gun/defense) affiliation surfaced via OpenSecrets/FEC/city-data. TX Ethics/City lobbyist search: no match. Bio full read: no bio page exists. Quiet result.",
+  "source_url": "https://blockshopper.com/tx/bexar-county/zips/78214/streets/teresa?city_id=san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5c521c9f-7f1e-4747-8a5e-e3a5cc5f1cbd",
+  "name": "Valdez, Rebecca",
+  "resolved_employer": "City of Los Angeles, Department of City Planning (Principal City Planner / Division Manager)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "LinkedIn and LA City Planning directories confirm Rebecca Valdez is a Principal City Planner / Division Manager (Training & Communications) at the LA Department of City Planning, matching the donor's occupation, employer and 90042 (Highland Park) location. FEC PAC search: high small-dollar count (194) consistent with ActBlue-style grassroots giving, no pro-Israel/oil/gun/defense PAC contributions found. TX/SA lobbyist registry: not listed. Bio read: role confirmed, no policy-advocacy board seats found.",
+  "source_url": "https://www.linkedin.com/in/rebecca-valdez-136997109/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "50a76d39-5a11-4cef-a486-eeccc6504114",
+  "name": "Chavez-Thompson, Linda",
+  "resolved_employer": "Retired labor leader; former Executive Vice President, AFL-CIO (and former AFSCME executive director, San Antonio Local 2399)",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "San Antonio (78239) donor matches nationally prominent labor leader Linda Chavez-Thompson, longtime AFSCME official in San Antonio and first person of color elected to a top-three AFL-CIO office (EVP 1995-2007); 2010 Democratic nominee for TX Lt. Governor. FEC PAC search: small-dollar Democratic/labor giving (67), no pro-Israel/oil/gun/defense PAC contributions found. TX/SA lobbyist registry: not listed. Bio read confirms labor leadership career. (retired)",
+  "source_url": "https://aflcio.org/about/history/labor-history-people/linda-chavez-thompson",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "AFL-CIO", "role": "Executive Vice President (1995-2007)", "category": "labor", "source_url": "https://aflcio.org/about/history/labor-history-people/linda-chavez-thompson", "snippet": "Chavez-Thompson was elected executive vice president of the AFL-CIO at the federation's 1995 convention... the first person of color to be elected to one of the federation's three highest offices."},
+   {"org": "AFSCME (Local 2399, San Antonio)", "role": "Executive Director / International Vice President", "category": "labor", "source_url": "https://aflcio.org/about/history/labor-history-people/linda-chavez-thompson", "snippet": "She served in a variety of posts with the American Federation of State, County and Municipal Employees (AFSCME) in San Antonio, Texas, and became an international vice president in 1988."}
+  ]
+ },
+ {
+  "donor_id": "4cab3611-c7dc-4d2f-bc31-4f2eed3b95aa",
+  "name": "Corbeil, Lupita",
+  "resolved_employer": "Den-Tex Central, Inc. (Denny's franchisee group) — Vice President of Human Resources",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "LinkedIn, ZoomInfo and Comparably confirm Lupita Corbeil as VP of Human Resources at Den-Tex Central, a San Antonio-based Denny's franchisee, overseeing HR for ~3,000 employees; degree from Texas State-San Marcos. Matches donor occupation/employer/78257 location. FEC PAC search: small-dollar giving (61), no pro-Israel/oil/gun/defense PAC contributions found. TX/SA lobbyist registry: not listed. Bio read: recognized by Out In SA as a 2015 'Most Influential' figure (with partner/Den-Tex owner Dawn Lafreeda).",
+  "source_url": "https://www.linkedin.com/in/lupita-corbeil-5465517/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Out In SA (LGBTQ community publication)", "role": "Named 'Most Influential 2015' honoree", "category": "civic", "source_url": "https://outinsa.com/5511-2/", "snippet": "Most Influential 2015: Dawn Lafreeda and Lupita Corbeil"}
+  ]
+ },
+ {
+  "donor_id": "49de87e2-89a0-48e4-834e-f2d65692ac69",
+  "name": "Valdez, Avelardo",
+  "resolved_employer": "Retired/professor — Dr. Avelardo Valdez, Professor of Social Work & Sociology, USC (formerly Univ. of Houston / UT); researcher on gangs, drugs, violence",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Donor is retired at a Mount Washington/Highland Park LA address (90065); matches Dr. Avelardo Valdez, USC social work/sociology professor (PhD sociology UCLA) known for research on gangs, drug abuse and violence among high-risk Latino populations. LA residence and academic profile align. FEC PAC search: no pro-Israel/oil/gun/defense PAC contributions found. TX/SA lobbyist registry: not listed. Bio read (USC faculty page/CV) confirms academic career. (retired)",
+  "source_url": "https://dworakpeck.usc.edu/academics/faculty-directory/avelardo-valdez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "467f5603-957f-4ebf-9cf7-7d6a8c350138",
+  "name": "Munoz, Rodulfo",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm a specific individual. Donor lists 'Self Employed' at 999 Main Street, San Antonio 78201 — a generic/placeholder-looking address. Multiple same-named San Antonio individuals exist (an attorney Rodolfo R. Munoz, a Green Party figure, litigants) but none corroborated to this donor by occupation/location/donation pattern. FEC PAC search: no pro-Israel/oil/gun/defense PAC contributions tied to this person found. TX/SA lobbyist registry: not listed. Bio read: no confirmable profile. Identity unresolved.",
+  "source_url": "https://law.justia.com/cases/texas/fourth-court-of-appeals/2013/04-13-00439-cv.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "45f82fb8-712b-45ce-9d86-f06193c58518",
+  "name": "Mejia, Patricia",
+  "resolved_employer": "San Antonio Area Foundation (VP of Community Engagement & Impact)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Patricia Mejia, longtime nonprofit executive, VP of Community Engagement and Impact at the San Antonio Area Foundation since 2018 (prior: Methodist Healthcare Ministries, NALCAB, Family Service Association); matches employer 'SA area foundation' and 78201 West Summit location. FEC/PAC search: no pro-Israel/Palestine/oil/gun/defense PAC ties found. TX/SA lobbyist registry: no registration found. Bio full read: community-philanthropy leadership only, no policy-advocacy board tie.",
+  "source_url": "http://www.saafdn.org/About/News/PatriciaMejia.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3f285c88-f41b-48b5-83f0-4730bb013d8e",
+  "name": "Flores, Yvette",
+  "resolved_employer": "Real estate broker, Austin/Westlake (Compass; formerly Realty Austin)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Yvette Flores, licensed Austin-area REALTOR/broker (Broker license 2004, ABoR 'Broker of the Year' 2019), San Antonio native / UTSA grad now in Westlake 78746, matching 407 Ridgwood, Austin. 'Self employed' realty tracks a broker. FEC/PAC search: high donation count but no advocacy/issue-PAC ties surfaced. TX/SA lobbyist registry: none. Bio full read: real estate career only.",
+  "source_url": "https://www.compass.com/agents/yvette-flores/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3716bd67-c563-4b36-88da-c12920ab8cc0",
+  "name": "Carrillo, Freddy",
+  "resolved_employer": "NTT DATA (IT services); Senior Technical Consultant",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Freddy Carrillo, associated with NTT DATA North America (LinkedIn: 'Senior Technical Consultant'; also proposals specialist), San Antonio-area (78223); matches employer 'NTT Data Services' and 'Consultant' occupation. FEC/PAC search: no advocacy PAC ties found. TX/SA lobbyist registry: none. Bio full read: IT/technical consulting and ministry/worship-leader personal note, no policy-advocacy board seat.",
+  "source_url": "https://www.linkedin.com/in/freddy-carrillo-1290428/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "33a53fd5-bea0-485a-88eb-92a1c9e8dd02",
+  "name": "Cortez, Dion",
+  "resolved_employer": "U.S. Army / Texas Army National Guard combat medic (SFC, Alamo DUSTOFF MEDEVAC)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Dion Cortez, career Army/TXARNG combat medic (Desert Storm, Iraq, Afghanistan, Kosovo) with the San Antonio-based C Co 2-149th 'Alamo DUSTOFF'; matches 'Medic/US Army' and San Antonio 78210. Service member, not defense-contractor exec/lobby, so no military_defense affiliation recorded. FEC/PAC search: no PAC ties found. TX/SA lobbyist registry: none. Bio full read: military service record only.",
+  "source_url": "https://devinenews.com/dion-cortez-sfc-a-medic-with-alamo-dustoff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "302edafc-077f-4872-9fb7-4cf5af7e7918",
+  "name": "Myers, Teresa Menendez",
+  "resolved_employer": "Municipal government / political staff — Chief of Staff (per record, to former SA Councilwoman Shirley Gonzales; public profile also shows Chief of Staff at Opportunity Home San Antonio and prior work in Mayor Nirenberg's office)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Teresa Menendez Myers, career San Antonio municipal/political staffer; donation record lists her as Chief of Staff to Shirley Gonzales (D5), consistent with her documented public-sector chief-of-staff roles (Opportunity Home SA; City of SA Mayor's office). FEC/PAC search: no advocacy PAC ties found. TX/SA lobbyist registry: none. Bio full read: governmental/legislative and community-relations roles, no issue-advocacy board seat.",
+  "source_url": "https://homesa.org/employees/teresa-menendez-myers/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "29052394-1181-4591-b417-beaadfa267a8",
+  "name": "Boatwright, Yvette",
+  "resolved_employer": "Realty Austin (co-founder/co-owner and designated broker)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Yvette Francine Boatwright, co-founder (2004) and designated broker of Realty Austin, LLC (78746); UTSA grad, ties to San Antonio. Matches donor occupation 'Real Estate Broker' and Austin 78746 address. FEC search: no confirmed personal pro-Israel/oil-gas/gun/defense PAC contributions (a 'USI Pac -> Yvette4Congress' hit is an unrelated committee, not this person). TX/COSA lobbyist search: no registration found. Bio full read confirmed real-estate career, no policy-advocacy board seats found.",
+  "source_url": "https://www.crunchbase.com/person/yvette-boatwright-db64",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "210e1947-1a49-47ac-be46-20b2340c56b5",
+  "name": "Sanchez, Minerva",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, San Antonio 78259 (River Falls). Very common name; a 'Minerva \"Minnie\" Abrego-Sanchez' appears at 3711 River Falls 78259 in a TEC report (near but not identical to donor's 4002 River Falls), so identity not firmly confirmed and former career unknown. FEC search: no matching PAC contributions found. TX/COSA lobbyist search: none. Bio read: no reliable public profile isolable. Quiet result.",
+  "source_url": "https://prd.tecprd.ethicsefile.com/public/cf/2026/pdfs/ScrubbedReport_101040864.PDF",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1254f370-f8de-446d-bfb1-257258de6141",
+  "name": "Calvillo, Giselle",
+  "resolved_employer": "MIX FIT SA (CEO/owner; personal training & sports-injury-prevention gym, South Side SA)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Giselle Calvillo is CEO/owner of MIX FIT SA at 2655 Flight Nurse, San Antonio 78235 — exact match to donor address/employer. Exercise-science background (TAMU-SA), 16+ yrs in fitness. FEC search: no PAC contributions found. TX/COSA lobbyist search: none. LinkedIn/press bio full read: fitness entrepreneur and 'Public Health Advocacy'/'Exercise Science & Nutrition Specialist'; no partisan or issue-PAC board seats documented.",
+  "source_url": "https://www.mixfitsa.com/press",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0c7f3243-2580-40d1-8dfe-acac2c3fe83a",
+  "name": "Greenfield-Laborde, Norma",
+  "resolved_employer": "Bexar County — Director, Office of Criminal Justice Policy, Planning & Programs / Pretrial Operations Chief",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Dr. Norma Greenfield-Laborde, appointed March 2023 as Director of Bexar County's Office of Criminal Justice Policy, Planning & Programs and Pretrial Operations Chief; PhD Our Lady of the Lake. Matches donor occupation and Bexar County employer exactly (78204). Shares 1526 S Flores address with donor Frank Laborde (household/family). FEC search: no PAC contributions found. TX/COSA lobbyist search: none (public official). Official county bio full read confirms career criminal-justice administrator; no policy-advocacy/issue affiliations documented.",
+  "source_url": "https://www.bexar.org/2128/Dr-Norma-Greenfield-Laborde",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0735d2f8-056c-4f2c-ac04-17bd4e858739",
+  "name": "Rodriguez, Rob",
+  "resolved_employer": "Verde Commercial Real Estate Group, LLC (Broker & Managing Partner, CCIM/MBA)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Rob Rodriguez, CCIM/MBA, Broker & Managing Partner of Verde Commercial Real Estate Group, San Antonio — exact employer match; self-described serial entrepreneur; served 4 yrs on City of San Antonio Planning Commission, chair for 2. FEC search: no confirmed personal PAC contributions found. TX/COSA lobbyist search: no registration located in TEC or SA lobbyist lists (though civic real-estate-development interest noted via Planning Commission role). Bio full read (LinkedIn/Verde/Facebook) documents the commission service below.",
+  "source_url": "https://www.linkedin.com/in/rob-rodriguez-ccim/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio Planning Commission", "role": "Commissioner (4 yrs), Chairman (2 yrs)", "category": "civic", "source_url": "https://m.facebook.com/Verdecommercial/photos/a.112886037013571/256717719297068/?type=3", "snippet": "He served four years on the City of San Antonio's (CoSA) Planning Commission and served as its Chairman for two."}
+  ]
+ }
+]

@@ -1,0 +1,249 @@
+[
+ {
+  "donor_id": "f965156f-aea9-4985-bb58-4623e4c5381f",
+  "name": "Honigblum, Albert",
+  "resolved_employer": "Avant Interests (President) - real estate developer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Al (Albert) Honigblum, President of Avant Interests, San Antonio/Alamo Heights real estate developer (developed Pica Pica Plaza on the South Side); longtime Alamo Heights Planning & Zoning commissioner and elected mayor of Alamo Heights in 2025. Started career in oil & gas in Houston before moving to real estate in 1984. Matches occupation (Real Estate/Partner), employer (Self/Avant Interest) and 78209 zip.",
+  "source_url": "https://sanantonioreport.org/alamo-heights-new-mayor-al-honigblum/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of Alamo Heights", "role": "Mayor (elected 2025); former Planning & Zoning Commission and Architectural Review Board member", "category": "civic", "source_url": "https://sanantonioreport.org/alamo-heights-new-mayor-al-honigblum/", "snippet": "Real estate developer who currently serves on the city's Planning and Zoning Commission; ran unopposed for mayor of Alamo Heights in 2025."}
+  ]
+ },
+ {
+  "donor_id": "16a0d421-5329-4026-a04b-3395f1061656",
+  "name": "Martinez, Walter",
+  "resolved_employer": "San Antonio Community Development Council Inc. (Executive Director); Walter Martinez Consulting LLC (former TX State Rep, retired)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed as Walter Martinez, former Texas State Representative and San Antonio City Councilman (1985-92). Now Executive Director of San Antonio Community Development Council Inc. (SACDC), an affordable-housing nonprofit; records list him as SACDC Executive Director at 3014 Whisper Fern St, San Antonio 78230 - the exact donor address. Also runs Walter Martinez Consulting LLC.",
+  "source_url": "https://ballotpedia.org/Walter_Martinez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House of Representatives / San Antonio City Council / Bexar County Democratic Party", "role": "Former State Representative, former City Councilman, former Bexar County Democratic Party chair", "category": "political", "source_url": "https://ballotpedia.org/Walter_Martinez", "snippet": "Former state representative and city councilman for San Antonio; also chaired the Democratic Party in Bexar County."},
+   {"org": "San Antonio Community Development Council Inc. (SACDC)", "role": "Executive Director", "category": "civic", "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003169_20240710_070330.pdf", "snippet": "Records list Walter Martinez as Executive Director of San Antonio Community Development Council Inc., a nonprofit addressing affordable housing for low-income families."}
+  ]
+ },
+ {
+  "donor_id": "f60faceb-078b-46ba-b553-44e08fccc463",
+  "name": "Benavides, Tamara",
+  "resolved_employer": "ABH Hospitality Management, LLC (Director of Sales & Business Development); subsequently Dual Director of Sales at Sincere Hospitality",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Tamara Benavides, MBA, San Antonio-based hospitality-industry leader with 20+ years' experience; was Director of Sales & Business Development at ABH Hospitality Management, LLC (matches donor occupation/employer), subsequently Dual Director of Sales at Sincere Hospitality. LinkedIn and industry directories corroborate.",
+  "source_url": "https://www.linkedin.com/in/tamara-benavides/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b4126e88-663e-4e2d-b785-e455ebe6de35",
+  "name": "Mendoza, Gilley",
+  "resolved_employer": "Gilley Properties International, LLC / Gilley International Group (founder, real estate developer)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Gilley Mendoza, native San Antonio real estate developer, founder of Gilley Properties International, LLC / Gilley International Group, a South Side-focused development firm (e.g., Villaret Commons near Palo Alto College). Directly matches donor employer and 'real estate development' occupation; South Side focus aligns with Viagran's District 3.",
+  "source_url": "https://www.gilleyinternational.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aa9f50d2-c90b-4384-8a72-f33917a669aa",
+  "name": "Johnson, Jay",
+  "resolved_employer": "Cohen-Esrey (Texas Development Director); also self-employed community housing consultant",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Jay Johnson, Texas Development Director at Cohen-Esrey (Kansas-based developer), leads San Antonio affordable/workforce housing projects in partnership with the San Antonio Housing Trust (e.g., Loma Vista, Lofts at Creekview). Matches donor employer ('Texas at Cohen-Esrey') and occupation.",
+  "source_url": "https://www.linkedin.com/in/jay-johnson-2a81b3b5/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8f38e678-4ed3-47cf-8cb3-d664a92541d8",
+  "name": "Figueroa Jones, Brenda",
+  "resolved_employer": "Coordinator, Southwest ISD (specific individual not independently confirmed)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Donor record lists a coordinator role at Southwest ISD, Saint Hedwig/78152 area. Southwest ISD is a real San Antonio south-side district, but no staff-directory, news, or bio record could be found confirming a 'Brenda Figueroa Jones' there; multiple unrelated 'Brenda Figueroa' entries exist in TX. Classified by stated employer only.",
+  "source_url": "https://www.swisd.net/apps/staff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "835c9800-aa0c-4cc2-8d85-4f310b1e0b31",
+  "name": "Matson, Cynthia",
+  "resolved_employer": "Cynthia Teniente-Matson - President of Texas A&M University-San Antonio (2015-Jan 2023), then President of San Jose State University",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Donor's employer (Texas A&M University-San Antonio, 522 W. Mally Blvd, 78221) and title (President/Administrator) match Dr. Cynthia Teniente-Matson, longtime TAMU-SA president and San Antonio native who led the campus 2015-2023 before becoming SJSU president.",
+  "source_url": "https://en.wikipedia.org/wiki/Cynthia_Teniente-Matson",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas A&M University-San Antonio", "role": "President (2015-2023)", "category": "education", "source_url": "https://en.wikipedia.org/wiki/Cynthia_Teniente-Matson", "snippet": "Cynthia Teniente-Matson was president of Texas A&M University-San Antonio before becoming president of San Jose State University in January 2023."}
+  ]
+ },
+ {
+  "donor_id": "646cef24-6666-4ee8-ad93-4d4a47fdd698",
+  "name": "Anderson, Lisa",
+  "resolved_employer": "Lisa Anderson, PCC - Chief Deputy of Administration, Bexar County (Tax Assessor-Collector's Office)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "LinkedIn and Texas county-officials records identify Lisa Anderson, PCC, as Chief Deputy of Administration for Bexar County (Tax Office), matching the donor's title, employer, and San Antonio 78216 location.",
+  "source_url": "https://www.linkedin.com/in/lisa-anderson-pcc-697a0a33",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Bexar County (Tax Assessor-Collector's Office)", "role": "Chief Deputy of Administration", "category": "government", "source_url": "https://www.linkedin.com/in/lisa-anderson-pcc-697a0a33", "snippet": "Lisa Anderson, PCC, serves as Chief Deputy of Administration at Bexar County, working in the county Tax Office."}
+  ]
+ },
+ {
+  "donor_id": "03528d3b-7627-43dc-8758-07f1feacb05b",
+  "name": "Viagran, Rudolfo",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired San Antonio resident (78240). Shares the distinctive Viagran surname with Councilwoman Phyllis Viagran and gives to her local campaigns, consistent with a family member; however, no public record was found documenting the specific relationship, and former career is unknown, so industry is null.",
+  "source_url": "https://www.smallbusinessdb.com/rodolfo-viagran-san-antonio-tx-78240.htm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e34ebb68-9da5-440c-9859-9a4af56be370",
+  "name": "Carielo, Julissa",
+  "resolved_employer": "Julissa Carielo - President/Co-Founder, DreamOn Group; Founder, Tejas Premier Building Contractor Inc. (design-build general contractor/developer)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Well-known San Antonio Latina developer/contractor. Founded Tejas Premier Building Contractor (2006) and co-founded DreamOn Group (2019), a development/construction/property-management firm; 30+ years design-build experience. Matches donor's 'Business Owner / DreamOn Group' record.",
+  "source_url": "https://dreamongroup.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Honorary Board Member", "category": "business", "source_url": "http://www.sahcc.org/profile/julissa-carielo-2/", "snippet": "Julissa Carielo is listed on the San Antonio Hispanic Chamber of Commerce as an Honorary Board member."},
+   {"org": "DreamOn Group / Tejas Premier Building Contractor Inc.", "role": "President / Founder", "category": "business", "source_url": "https://dreamongroup.com/about-us/", "snippet": "President and co-founder of DreamOn Group (2019) and founder of Tejas Premier Building Contractor (2006), a design-build and general-contracting firm."}
+  ]
+ },
+ {
+  "donor_id": "d9b09445-75bb-4f73-ba85-86cbc24cfd60",
+  "name": "Gerka, Jeannette",
+  "resolved_employer": "REALTOR at Phillips & Associates Realty, San Antonio",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Jeannette Gerka is a licensed real estate agent with Phillips & Associates Realty; office listed in the 78257 (Dominion/La Cantera NW San Antonio) area, matching donor zip. Donor gave no occupation, so identity rests on name+zip match to the realtor listing.",
+  "source_url": "https://www.har.com/jeannette-gerka/agent_sa-807595",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d2bc72ab-6196-4791-b8c1-249232b044db",
+  "name": "Reyna, Marilu",
+  "resolved_employer": "Executive VP, Public Affairs & Communications, BCFS System / FirstDay Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Marilu Reyna is EVP of Public Affairs & Communications for the BCFS System (Baptist Child & Family Services / FirstDay Foundation), matching donor's employer strings and title exactly; 30+ yrs PR/marketing, formerly AVP Communications at Texas A&M-San Antonio. Also a City of San Antonio civic appointee.",
+  "source_url": "https://www.saws.org/people/marilu-reyna/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Port San Antonio", "role": "Board member (appointed)", "category": "civic", "source_url": "https://sanantonioreport.org/saws-marilu-reyna-nomination/", "snippet": "Reyna is an appointed Port San Antonio board member and was nominated by a council committee for a SAWS trustee vacancy."},
+   {"org": "City of San Antonio Bond Oversight Commission", "role": "Appointed member", "category": "civic", "source_url": "https://www.saws.org/people/marilu-reyna/", "snippet": "An appointed member of the City of San Antonio's Bond Oversight Commission."}
+  ]
+ },
+ {
+  "donor_id": "c86a2b4b-fe90-4a68-8a81-2a206d265d5f",
+  "name": "Negley, Carl",
+  "resolved_employer": "Owner/President, Medvolution, Inc. (healthcare management consulting)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Carl Negley, MBA (UTSA), founded Medvolution Inc. in 2013, a healthcare management consulting firm serving physician specialist practices; company HQ 708 Canterbury Hill St, San Antonio 78209 matches donor address exactly. No public evidence ties this Carl Negley to the prominent political Negley family; identity is the Medvolution healthcare owner.",
+  "source_url": "https://www.linkedin.com/in/carl-negley-mba-18a25391/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "UTSA College for Health, Community and Policy (HCAP) Dean's Advisory Council", "role": "Board Chair", "category": "civic", "source_url": "https://hcap.utsa.edu/about/adv-council.html", "snippet": "Carl Negley serves as Board Chair of the HCAP Dean's Advisory Council at UT San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "ab2d2930-6e2b-4a40-b068-fe39f82b0d54",
+  "name": "Rivas, Criselda",
+  "resolved_employer": "President & Producer/CEO, Dave Sims Media (video production/filmmaking), San Antonio",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Criselda 'Crissy' Rivas is President & Producer/CEO of Dave Sims Media, a San Antonio video production firm (donor's 'Davis Sims Media' string is a typo for Dave Sims Media). Former sociologist/activist with UT Austin BA and UTSA MA; produced a documentary on the UFW/Cesar Chavez movement in Texas.",
+  "source_url": "https://davesimsmedia.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a32d57cb-eca8-4c8f-b438-befd95acce26",
+  "name": "Gonzalez, Ayda",
+  "resolved_employer": "President/CEO, AG3 Group, LLC (civil engineering consulting firm)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Ayda Gonzalez, PE, is founder/President-CEO of AG3 Group LLC, a San Antonio civil engineering, survey and construction management firm (~23 yrs experience); Texas A&M BS. Appointed to the VIA Metropolitan Transit Board of Trustees in 2022. High FEC donation count consistent with an active business/civic professional.",
+  "source_url": "https://www.viainfo.net/2022/01/26/two-new-members-join-via-metropolitan-transit-board-of-trustees/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "VIA Metropolitan Transit", "role": "Board of Trustees member (appointed 2022)", "category": "civic", "source_url": "https://www.viainfo.net/2022/01/26/two-new-members-join-via-metropolitan-transit-board-of-trustees/", "snippet": "Ayda Gonzalez, P.E., a local engineer, joined the VIA Metropolitan Transit Board of Trustees."},
+   {"org": "Regional Hispanic Contractors Association", "role": "2019 Luna Award, Outstanding Executive of the Year", "category": "business", "source_url": "https://ag3-group.com/our-team/ayda-gonzalez-pe/", "snippet": "Awarded the Luna Award for Outstanding Executive of the Year by the Regional Hispanic Contractors Association in 2019."}
+  ]
+ },
+ {
+  "donor_id": "985dfde6-bc27-423b-993b-e1c21b6bff96",
+  "name": "Schendel, Mark",
+  "resolved_employer": "VersaTerra (San Antonio land development firm); land acquisition/development professional",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Occupation 'Real estate' and employer 'Versa Terra' match VersaTerra Development, a San Antonio full-service land development firm. Firm bio describes a 'Mark' with 16+ years in land acquisition/development. Home in 78248; firm identity corroborated but individual role not independently pinned to a news byline.",
+  "source_url": "https://vtdevco.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9311cbcf-be6c-4dbe-8b25-e737510f6c19",
+  "name": "Aguillon, Melissa",
+  "resolved_employer": "President/CEO, Aguillon Creative (marketing/advertising/PR agency she founded 2009)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "President/CEO of Aguillon Creative, a certified woman/minority-owned San Antonio marketing firm; UTSA BA + MPA. Exact firm and role match. Serves on San Pedro Playhouse board; formerly on Catholic Charities, SAISD Foundation, Hispanic Chamber, Launch SA boards. Ran for TX House District 123 in the 2015 Democratic special election.",
+  "source_url": "https://aguilloncreative.com/this-is-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House District 123 (2015 special election)", "role": "Democratic candidate", "category": "political", "source_url": "https://www.texastribune.org/2014/11/13/two-san-antonio-democrats-eyeing-villarreals-house", "snippet": "Aguillon, a San Antonio Democrat and PR/marketing professional, ran for the HD-123 seat vacated by Mike Villarreal."},
+   {"org": "San Pedro Playhouse (The Public Theater of San Antonio)", "role": "Board member", "category": "civic", "source_url": "https://aguilloncreative.com/this-is-us/", "snippet": "Firm bio: currently serves on the San Pedro Playhouse Board; previously Catholic Charities, SAISD Foundation, and Hispanic Chamber boards."}
+  ]
+ },
+ {
+  "donor_id": "7e8bc610-b649-474a-b472-19a75fe320f7",
+  "name": "Diaz, Yolanda",
+  "resolved_employer": "Self-employed optometrist, Yolanda G. Diaz OD",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Yolanda G. Diaz, OD practices at 1200 Southeast Military Dr, Ste 112, San Antonio 78214 - the exact donor address. University of Houston College of Optometry grad, 26+ years licensed in Texas; solo practice matches 'Self-Employed.'",
+  "source_url": "https://www.healthcare4ppl.com/physician/texas/san-antonio/yolanda-g-diaz-1801969019.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "722c5293-2616-445c-95e4-606118510de7",
+  "name": "Adkisson, Thomas",
+  "resolved_employer": "Solo-practice attorney (family/real estate/probate law); former Bexar County Commissioner and TX State Rep",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Tommy (Thomas) Adkisson, well-documented San Antonio public figure: served in the Texas House (Democrat) and 16 years as Bexar County Commissioner, Precinct 4 (1998-2014); 2014 county judge and 2015 mayoral candidate. Now practices law and writes for the San Antonio Report. 78223 address is within his former SE-side Precinct 4.",
+  "source_url": "https://ballotpedia.org/Tommy_Adkisson",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Bexar County Commissioners Court, Precinct 4 / Texas House of Representatives", "role": "Former County Commissioner (1998-2014) and State Representative (Democrat)", "category": "political", "source_url": "https://lrl.texas.gov/legeleaders/members/memberdisplay.cfm?memberID=432", "snippet": "Adkisson served in the Texas House (Democrat) and 16 years as Bexar County Commissioner, Precinct 4; ran in Democratic primaries for county judge (2014) and mayor (2015)."}
+  ]
+ },
+ {
+  "donor_id": "70b98b2e-58f7-4639-8d05-3747580ce170",
+  "name": "Harris, Zachary",
+  "resolved_employer": "Self-employed in real estate; Dignowity Hill resident (near-East-Side)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "918 Hays St is in the Dignowity Hill historic district (near Hays Street Bridge). Strong location/name match to 'Zac Harris,' a Dignowity Hill resident appointed to the Historic and Design Review Commission (District 2) in 2019 and a former Planning & Zoning commissioner (2012-2015). Occupation given as real estate/self-employed; identity probable but not fully confirmed.",
+  "source_url": "https://sanantonioreport.org/zac-harris-appointed-to-district-2-spot-on-hdrc/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Historic and Design Review Commission (HDRC)", "role": "Commissioner, District 2 seat (appointed 2019); prior Planning & Zoning commissioner 2012-2015", "category": "civic", "source_url": "https://sanantonioreport.org/zac-harris-appointed-to-district-2-spot-on-hdrc/", "snippet": "Zac Harris, a Dignowity Hill resident, was appointed to the District 2 HDRC seat in 2019 and previously served on planning and zoning commissions (identity match probable given shared neighborhood)."}
+  ]
+ }
+]

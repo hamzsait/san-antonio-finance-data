@@ -1,0 +1,358 @@
+[
+ {
+  "donor_id": "963151f2-f718-4648-a4cc-e7270eac10a9",
+  "name": "Garcia, Authur",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor at 4243 E Pedras Dr, San Antonio 78212 (shares address with 'Garcia, Richard' in same batch, likely household). No occupation or employer in record. Web searches returned multiple same-named 'Arthur Garcia' individuals in San Antonio (including obituaries and people-search records) but none could be corroborated to this specific address/person. No federal PAC contributions found; not in TX lobbyist registry; no public bio located. Single $500 gift 2021-05-27; no FEC history. Quiet result — cannot confirm specific individual.",
+  "source_url": "https://www.legacy.com/us/obituaries/sanantonio/name/arthur-garcia-obituary?id=18507706",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "91ab7765-d5fc-4a75-943f-0ddd9029bb65",
+  "name": "Aelvoet, David",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP (Capital Partner; Managing Partner, Bankruptcy Division)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "David George Aelvoet is a Capital Partner, Managing Committee member, and Managing Partner of the Bankruptcy division at Linebarger Goggan Blair & Sampson (major Texas government tax-collection law firm), SA office at 711 Navarro. Admitted to State Bar of Texas 1993. Donor record (Attorney, Linebarger, Spring Branch TX 78070) matches exactly. Firm bio full-read shows no political/advocacy board seats. FEC record shows 11 contributions with a strongly Democratic partisan lean (0.849); no pro-Israel/pro-Palestine, oil & gas, or gun PAC ties surfaced. Not found in TX Ethics Commission lobbyist registry.",
+  "source_url": "https://www.lgbs.com/attorney/david-g-aelvoet/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Linebarger Goggan Blair & Sampson, LLP",
+    "role": "Capital Partner / Managing Partner, Bankruptcy Division",
+    "category": "business",
+    "source_url": "https://www.lgbs.com/attorney/david-g-aelvoet/",
+    "snippet": "David Aelvoet is a Capital Partner and Managing Committee member; Managing Partner of Linebarger's Bankruptcy division, practicing tax-collection law for three decades."
+   }
+  ]
+ },
+ {
+  "donor_id": "900233fa-0293-424e-ba39-1defcffc9800",
+  "name": "Rodriguez, Ricardo",
+  "resolved_employer": "Law Office of Rick B. Rodriguez, PLLC / Martinez & Associates (attorney)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Donor address '2829 Goliad, San Antonio 78223' is a commercial law address. State Bar of Texas and ZoomInfo confirm attorney Ricardo 'Rick B.' Rodriguez practicing at 2828 Goliad Rd Ste 125, San Antonio 78223 — solo Law Office of Rick B. Rodriguez, PLLC and Counsel at Martinez & Associates (business/commercial/personal-injury litigation; JD St. Mary's, licensed TX 2001). Name + firm address match strongly, though donor record lists no occupation and 'Ricardo Rodriguez' is common — hence medium confidence. Single $500 gift 2021-05-13; no FEC contributions; no federal PAC ties found; not in TX lobbyist registry.",
+  "source_url": "https://www.zoominfo.com/p/Ricardo-Rodriguez/3133959475",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Law Office of Rick B. Rodriguez, PLLC / Martinez & Associates",
+    "role": "Attorney / Counsel",
+    "category": "business",
+    "source_url": "https://www.zoominfo.com/p/Ricardo-Rodriguez/3133959475",
+    "snippet": "Ricardo 'Rick B.' Rodriguez, attorney at 2828 Goliad Rd Ste 125, San Antonio 78223; Counsel at Martinez & Associates, solo Law Office of Rick B. Rodriguez, PLLC."
+   }
+  ]
+ },
+ {
+  "donor_id": "86a093c5-5d4a-4900-984a-d758c0fd942e",
+  "name": "Heller, J. David",
+  "resolved_employer": "The NRP Group (President, CEO & Co-Founder)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "J. David Heller is President, CEO and co-founder of The NRP Group, a top-10 U.S. multifamily developer/builder/manager (50,000+ units built; HQ San Antonio & Cleveland). Donor record (President & CEO, The NRP Group, Boca Raton FL) matches this unique national figure exactly. Full leadership-bio read documents extensive civic/board roles. FEC PAC searches surfaced no direct AIPAC/United Democracy Project or J Street contribution records tied to him; his documented Israel-related ties are institutional/philanthropic board seats (below). Presidentially appointed to U.S. Holocaust Memorial Council (2009) and Ohio Police & Fire Pension Fund Board. Not in TX lobbyist registry.",
+  "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "The NRP Group",
+    "role": "President, CEO & Co-Founder",
+    "category": "business",
+    "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller",
+    "snippet": "President, CEO and co-founder of The NRP Group, a vertically integrated national multifamily developer/builder/manager consistently ranked among the top 10 U.S. developers."
+   },
+   {
+    "org": "Jewish Agency for Israel",
+    "role": "Board member",
+    "category": "pro_israel",
+    "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller",
+    "snippet": "Leadership bio lists Heller as a board member of the Jewish Agency for Israel, the Israel-focused quasi-governmental body facilitating immigration and Israel programs."
+   },
+   {
+    "org": "Jewish Federation of Cleveland",
+    "role": "Board Chairman (2019-2022); past Government Relations Committee chair",
+    "category": "jewish_civic",
+    "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller",
+    "snippet": "Board Chairman 2019-2022 and past chair of the Federation's Government Relations Committee, a policy-advocacy role within the Jewish community."
+   },
+   {
+    "org": "Ohio Jewish Communities",
+    "role": "Past President",
+    "category": "jewish_civic",
+    "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller",
+    "snippet": "Past president of Ohio Jewish Communities, the statewide public-affairs and government-advocacy coalition of Ohio Jewish federations."
+   },
+   {
+    "org": "U.S. Holocaust Memorial Council",
+    "role": "Presidential appointee (2009)",
+    "category": "civic",
+    "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller",
+    "snippet": "Appointed by the President of the United States to the U.S. Holocaust Memorial Council in January 2009."
+   }
+  ]
+ },
+ {
+  "donor_id": "7e181bb8-bb1c-4d46-baf9-42217d52347f",
+  "name": "Christian, David",
+  "resolved_employer": "Law Office of David D. Christian (criminal defense attorney, San Antonio)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Exact address match: David Douglas Christian is a solo/small-firm criminal defense attorney at 1800 McCullough Ave, San Antonio, TX 78212 (State Bar of Texas member ID 201466, licensed 1999, 20+ years criminal defense). Confirms donor's occupation 'Attorney' and self-employed status. No TX lobbyist registration and no notable federal PAC (AIPAC, J Street, oil/gas, gun, defense) contributions found; FEC data reflects only routine small-dollar giving.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=201466",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7d0020f1-71e7-4b1a-b791-1a04910faa25",
+  "name": "Chapa, Cesar",
+  "resolved_employer": "Self (business owner, unspecified)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Donor lists occupation 'Business Owner', employer 'Self', residing at 7325 Palm Park, San Antonio, TX 78223 (South Side). No public profile, business registration, news, LinkedIn, or bio page could be tied specifically to this Cesar Chapa; several unrelated Chapa businesses exist in SA but none confirmed to this person or address. No TX lobbyist registration and no FEC/PAC contributions found (fec_donation_count 0). Industry set to Self-Employed as generic occupational fallback only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7c3bdcaf-0340-4bcb-ad3e-87e64e3b0104",
+  "name": "Wolf, Mark",
+  "resolved_employer": "AHV Communities (Founder & CEO; built-for-rent single-family developer)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Donor self-describes as 'real estate and finance,' self-employed, at 30899 Venturer, Boerne, TX 78015 (zip field 30899 is a data error). Mark Wolf is the San Antonio-based Founder & CEO of AHV Communities, a built-for-rent single-family rental developer (founded 2013; oversaw 2,500+ lots, $500M+ capital commitments; prior roles at Greenlaw Partners and Sicuro Realty Partners). Real-estate/finance profile and SA-area residence strongly match the donor's description, though the property record was not independently cross-linked to confirm identity beyond doubt. No TX lobbyist registration; no notable federal PAC (AIPAC, J Street, oil/gas, gun, defense) contributions surfaced.",
+  "source_url": "https://ahvcommunities.com/about-ahv/team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "AHV Communities",
+    "role": "Founder & CEO",
+    "category": "business",
+    "source_url": "https://ahvcommunities.com/about-ahv/",
+    "snippet": "Mark Wolf is founder and CEO of AHV Communities, a San Antonio-based pioneer in Built-for-Rent single-family rental home communities; oversees acquisitions, strategic partnerships, investor relations and operations."
+   }
+  ]
+ },
+ {
+  "donor_id": "7a061b91-2416-446d-a42f-e9d5c9279578",
+  "name": "Ernst, Colleen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor record lists no occupation or employer, residing at 9368 Huebner Rd, San Antonio, TX 78240. Could not confirm a specific San Antonio person named Colleen Ernst; public matches (Colleen Ernst at Adelanto Healthcare Ventures in Tampa; a PwC Managing Director; obituary records) are in other states and none corroborate this address or a SA identity. No TX lobbyist registration and no FEC/PAC contributions found (fec_donation_count 0). Identity unconfirmed; industry left null.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "78cbe532-80ee-47ce-87ac-08f1cdd0f362",
+  "name": "Hernandez, leticia",
+  "resolved_employer": "True Flavors, LLC (True Flavors Catering / Grupo La Gloria), San Antonio — manager",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Filing lists employer 'true Flavors' with occupation 'manager' at 903 SW 39th St, San Antonio 78237. True Flavors is the San Antonio catering company run by the Hernandez family; Leticia Hernandez is a sibling of chef/owner Johnny Hernandez and is described in the company's public materials as helping run operations since the beginning. Employer name, San Antonio location, and manager role corroborate identity. FEC search shows 142 small-dollar donations consistent with the ActBlue/Democratic conduit pattern (partisan_lean 0.706) but no issue-specific PAC (AIPAC, J Street, oil & gas, gun, defense) contributions were found; TEC lobbyist registry: no match.",
+  "source_url": "https://www.trueflavors.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "True Flavors, LLC (True Flavors Catering)",
+    "role": "Manager / family member (chef Johnny Hernandez's sibling)",
+    "category": "business",
+    "source_url": "https://www.trueflavors.com/about",
+    "snippet": "Chef Johnny, Mark, Denise and Leticia Hernandez are the family behind True Flavors, LLC; siblings 'have kept the kitchen running smoothly since the beginning.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "7534d130-df14-4440-bae7-459330007292",
+  "name": "Hernandez, J W",
+  "resolved_employer": "Hernandez Dental Center (Dr. Joe W. 'J.W.' Hernandez Jr., DDS), self-employed dentist, San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Filing lists occupation 'Dentist,' self-employed, at 1347 Fair Ave, San Antonio 78223 — the exact address of Hernandez Dental Center, run by Dr. Joe W. (J.W.) Hernandez Jr., DDS, a family dental practice operating on the South Side since 1971. Address, occupation, and self-employed status all match. FEC search: 23 small donations, partisan_lean 1.0, consistent with ActBlue/Democratic conduit giving; no issue-specific PAC (pro-Israel, oil & gas, gun, defense) contributions found. TEC lobbyist registry: no match. No board/leadership roles surfaced beyond ownership of his own practice.",
+  "source_url": "https://www.patientconnect365.com/Dentists/Texas/SanAntonio/78223/Hernandez_Dental_Center",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Hernandez Dental Center",
+    "role": "Owner / dentist (DDS)",
+    "category": "business",
+    "source_url": "https://www.patientconnect365.com/Dentists/Texas/SanAntonio/78223/Hernandez_Dental_Center",
+    "snippet": "Hernandez Dental Center, 1347 Fair Ave, San Antonio, TX 78223 — Dr. J.W. Hernandez Jr., DDS; family dental practice serving the area since 1971."
+   }
+  ]
+ },
+ {
+  "donor_id": "733a8b22-8fed-4ad4-b43e-05def70e1170",
+  "name": "Serna, Baltazar",
+  "resolved_employer": "Serna & Serna, P.L.L.C. (Baltazar 'Balt' R. Serna Jr., attorney), San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Filing: attorney, 'Self,' home at 20403 Terrabianca, San Antonio 78258 (far-North SA). Matches Baltazar R. Serna Jr., partner at San Antonio plaintiff/personal-injury and criminal firm Serna & Serna, P.L.L.C. (founded 1992). He also appears in the City of San Antonio lobbyist system and the Texas Ethics Commission lobbyist registry, with subject areas including Business & Commerce, Charitable & Nonprofit Organizations, City Government and County Government. FEC search shows a Baltazar Serna (San Antonio) making ActBlue conduit contributions; 206 total donations, partisan_lean 0.789 — Democratic small-dollar pattern, no issue-specific PAC (AIPAC/J Street/oil & gas/gun/defense) giving found.",
+  "source_url": "https://www.sernaserna.com/attorney/serna-baltazar-r-jr/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Serna & Serna, P.L.L.C.",
+    "role": "Partner / attorney",
+    "category": "business",
+    "source_url": "https://www.sernaserna.com/attorney/serna-baltazar-r-jr/",
+    "snippet": "Baltazar R. Serna Jr. is a partner at Serna & Serna, P.L.L.C., a San Antonio firm handling personal injury, criminal defense, family, and municipal law."
+   },
+   {
+    "org": "Texas Ethics Commission / City of San Antonio lobbyist registry",
+    "role": "Registered lobbyist",
+    "category": "political",
+    "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx",
+    "snippet": "Baltazar R. Serna Jr. appears in the San Antonio lobbyist registry; subject areas include Business & Commerce, Charitable & Nonprofit Organizations, City Government and County Government."
+   }
+  ]
+ },
+ {
+  "donor_id": "6ba1ceb8-db6c-4e9e-8090-1c4174232caa",
+  "name": "Hausman, Laura",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists no occupation or employer; address 9364 Canyon Mist, Helotes-area San Antonio 78023. Public records confirm a Laura (Irwin) Hausman residing in Helotes/San Antonio 78023 (people-search listings), but with no documented occupation, employer, or public bio it cannot be tied to a specific career. Same-named professionals found online are different people not connected to Helotes. FEC search: 47 small donations, partisan_lean 1.0, consistent with ActBlue/Democratic conduit giving; no issue-specific PAC contributions confirmed for this individual. TEC lobbyist registry: no match. Identity confirmed as a Helotes resident but occupation/industry cannot be verified from public records.",
+  "source_url": "https://www.spokeo.com/Laura-Hausman/Texas/San-Antonio/p40153913848",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6574471d-1fae-4b59-80c9-8d2c1030dda5",
+  "name": "Yantis, Jen",
+  "resolved_employer": "Self-employed real estate / homemaker; wife of Blake Yantis (President, Mosaic Land Development; CEO/Principal, Yantis Company civil contractor)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "'12018' is the street number of 12018 Indigo Bend, San Antonio 78230 (NW SA); public records list the residents as Blake Yantis, Jennifer Yantis, and Thomas B. Yantis. Blake Yantis is President of Mosaic Land Dev and CEO/Principal of Yantis Company, the prominent San Antonio civil-contracting/land-development family firm (founded 1965). Jennifer 'Jen' Yantis is his wife; she self-reported occupation 'mom'/homemaker on the donation, but public records list her as self-employed in real estate. Identity firmly tied by exact address match and family records. FEC shows 14 contributions (Dem-leaning); no AIPAC/UDP, J Street, oil-gas, gun, or defense PAC giving surfaced, and no TX/city lobbyist registration.",
+  "source_url": "https://clustrmaps.com/person/Yantis-2agi7o",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "64aa4727-5358-4b6e-9e80-f32ce4d8e071",
+  "name": "Garcia, George",
+  "resolved_employer": "Owner/President, Pronto Sandblasting & Coating and Oil-field Service Company, Inc., 9456 S Presa St, San Antonio 78223",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Donor address 9458 South Presa 78223 sits on the same commercial stretch as 9456 S Presa St, home of Pronto Sandblasting & Coating and Oil-field Service Company, Inc. Public/business records name George G. Garcia as President/owner; the firm was established 1985, employs ~24, and holds a City of San Antonio Sidewalk & Curb Contractor license and other contractor licenses (utility work, concrete & pipe busting, sandblasting/coating, oilfield service). Matches donor occupation 'Business Owner / Self.' No ideological PAC giving or TX/city lobbyist registration found.",
+  "source_url": "https://www.dnb.com/business-directory/company-profiles.pronto_sandblasting_and_coating_and_oil-field_service_company_inc.6e082b849974f9c69d35f1895a0b401c.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Pronto Sandblasting & Coating and Oil-field Service Company, Inc.",
+    "role": "Owner / President",
+    "category": "business",
+    "source_url": "https://www.dnb.com/business-directory/company-profiles.pronto_sandblasting_and_coating_and_oil-field_service_company_inc.6e082b849974f9c69d35f1895a0b401c.html",
+    "snippet": "Pronto Sandblasting & Coating and Oil-field Service Company, Inc. (est. 1985, ~24 employees) at 9456 S Presa St, San Antonio 78223; George G. Garcia listed as President/owner; licensed SA contractor (sidewalk/curb, utility, sandblasting/coating, oilfield service)."
+   }
+  ]
+ },
+ {
+  "donor_id": "643aef54-8c91-4667-b80c-c9bb6a9d340a",
+  "name": "Stevens, Marjorie",
+  "resolved_employer": "Self-employed / business owner (specific business undocumented); wife of Johnny Stevens, a Wichita real estate and golf-course developer",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Donor resides at 9120 Killarney Ct, Wichita, KS 67206 (affluent east Wichita); public records place Johnny W. Stevens on Killarney Ct in that zip. Obituary confirms Marjorie March (Graham) Stevens of Wichita (b. Dec 19, 1943; d. April 1, 2023 — two days after this March 30, 2023 gift), married to Johnny Stevens since 1964. Johnny Stevens is a Wichita real estate/golf-course developer (co-developed Willowbend Golf Club, partner in Hidden Lakes course). Marjorie self-reported 'Business Owner / Self,' but no business in her own name is documented, so industry is a generic Self-Employed fallback. Single FEC contribution; partisan lean 0.0 (all-Republican federal giving) despite this gift to a Democratic SA council candidate — reason for giving undocumented. No lobbyist registration.",
+  "source_url": "https://www.cozine.com/obituaries/marjorie-stevens",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "62542ee4-845b-46e8-94ca-fd8cff00eb1d",
+  "name": "Garcia, Richard",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed at 4243 E Pedras Dr, San Antonio 78212 with no occupation/employer, sharing the address with 'Garcia, Authur' in the same batch (likely a household member). 'Richard Garcia' is an extremely common San Antonio name; the listed street/zip appears garbled and no public profile could be matched to this specific person. Only 2 FEC donations; no ideological PAC giving or lobbyist registration identified. Identity not confirmed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5edce165-4183-4e4c-a02f-f3f41fcc2b99",
+  "name": "Garcia, Ramon",
+  "resolved_employer": "Self-employed (unconfirmed)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Common name in San Antonio; donor lists occupation/employer as 'Self Employed' at 343 Schmeltzer Ln, 78213. Multiple same-named individuals in SA (attorney, physician, food-business owner) but none could be confirmed as this specific self-employed donor via public records. No FEC PAC history (1 lifetime donation, partisan lean 0.0), no TX lobbyist registration, no public bio found. Industry set to Self-Employed per stated occupation only.",
+  "source_url": "https://www.spokeo.com/Garcia-Ramon",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e34af2b-fe7f-4c33-a916-70ec81b913ad",
+  "name": "Vruggink, Matthew",
+  "resolved_employer": "Ojala Holdings (Partner; Dallas real-estate investment/development firm)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Matthew (Matt) Vruggink is a Partner at Ojala Holdings, a Dallas opportunistic real-estate investment/development firm (HQ 2501 N Harwood St, Dallas). Confirmed via LinkedIn, ZoomInfo, Datanyze, and Revere CRE profiles, matching the donor's Dallas location and 'Ojala Holdings' employer string. Prior roles at Fortress Investment Group and Gulfstream Capital; involved in Ojala affordable/attainable-housing projects. No pro-Israel/pro-Palestine, oil & gas, or gun-related PAC affiliations surfaced; FEC shows a modest Democratic lean (3 donations) but no notable ideological PAC. No TX lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/matthewvruggink/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Ojala Holdings",
+    "role": "Partner",
+    "category": "business",
+    "source_url": "https://www.zoominfo.com/p/Matthew-Vruggink/1763858183",
+    "snippet": "Matthew Vruggink is a Partner at Ojala Holdings, a Dallas-based opportunistic real-estate firm generating returns for family-office and high-net-worth investors."
+   },
+   {
+    "org": "Tarrant County Homeless Coalition",
+    "role": "Board Member (former)",
+    "category": "civic",
+    "source_url": "https://fortworthbusiness.com/real-estate/fort-worth-housing-solutions-ojala/",
+    "snippet": "Vruggink, partner with Ojala Holdings, worked on supportive-housing development and has served as a board member of the Tarrant County Homeless Coalition."
+   }
+  ]
+ },
+ {
+  "donor_id": "5cd20220-cb7f-4fea-86d3-b24b48b003ea",
+  "name": "Weisburd, Randy",
+  "resolved_employer": "Atlantic | Pacific Companies (Chief Operating Officer; Miami real-estate firm)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Randy Keith Weisburd is Chief Operating Officer of Atlantic|Pacific Companies, a Miami-based real-estate firm; he oversees Acquisitions, Asset/Property Management, Development, Fund Management, and General Contracting. Confirmed via company team page, LinkedIn, Bloomberg, and FL DBPR real-estate broker license, matching the donor's Miami Beach (33140) location. Serves as Chairman of the University of Miami School of Business Real Estate Advisory Board and is a past Chairman of the Miami Beach Planning Board. No FEC PAC record surfaced (0 FEC donations in donor data) and no pro-Israel/pro-Palestine, oil & gas, or gun PAC affiliation found; not a TX lobbyist (out-of-state).",
+  "source_url": "https://apcompanies.com/team/randy-weisburd/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Atlantic | Pacific Companies",
+    "role": "Chief Operating Officer",
+    "category": "business",
+    "source_url": "https://apcompanies.com/team/randy-weisburd/",
+    "snippet": "Randy K. Weisburd, COO of Atlantic|Pacific Companies, is responsible for the firm's overall strategic plan and day-to-day growth across acquisitions, development, and management."
+   },
+   {
+    "org": "University of Miami School of Business Real Estate Advisory Board",
+    "role": "Chairman",
+    "category": "civic",
+    "source_url": "https://www.herbert.miami.edu/graduate/find-and-compare-programs/real-estate-mba/advisory-council.html",
+    "snippet": "Weisburd serves as Chairman of the University of Miami School of Business Administration Real Estate Advisory Board."
+   },
+   {
+    "org": "City of Miami Beach Planning Board",
+    "role": "Past Chairman",
+    "category": "civic",
+    "source_url": "https://apcompanies.com/team/randy-weisburd/",
+    "snippet": "Weisburd is a past Chairman of the Miami Beach Planning Board and a member of the Urban Land Institute Florida Advisory Board."
+   }
+  ]
+ },
+ {
+  "donor_id": "5a3b25ce-344c-44e4-a418-49eb5fcdf1bc",
+  "name": "Taylor, Julia",
+  "resolved_employer": "Self-employed (unconfirmed)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Donor lists occupation/employer as 'Self Employed' at 7664 Bushland Rd, far-SE Bexar County (78263, China Grove/Adkins area). 'Julia Taylor' is a common name; a San Antonio Julia Taylor appears on people-search/LinkedIn as self-employed but identity could not be confirmed to this specific donor. No FEC PAC history (0 donations), no TX lobbyist registration, no confirmable public bio or business filing. Industry set to Self-Employed per stated occupation only; no political/advocacy affiliations found on either side of the spectrum.",
+  "source_url": "https://www.spokeo.com/Julia-Taylor/Texas/San-Antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

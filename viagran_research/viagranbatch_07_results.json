@@ -1,0 +1,254 @@
+[
+ {
+  "donor_id": "2b0921e8-ae37-4b7f-800d-f6b2c7839d6e",
+  "name": "Dauley, Joel",
+  "resolved_employer": "Dauley Enterprises, Inc. (President/owner) — San Antonio south-side small business, variously listed as general-merchandise/discount and used-merchandise retail (also tagged advertising in one directory)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Joel Dauley (b. ~1956) is confirmed via CorporationWiki as President of Dauley Enterprises, Inc., a TX for-profit corp filed 1995 operating at 707 Moursund/435 W Chavaneaux Rd, San Antonio 78221; residence 859 Contour in Olmos Park 78212 matches the filing. Business categorizations conflict (discount/used-merchandise retail vs. advertising). No ideological PAC contribution or lobbyist registration found.",
+  "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/joel-dauley/32255149.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Dauley Enterprises, Inc.", "role": "President / owner", "category": "business", "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/dauley-enterprises-inc/34333250.aspx", "snippet": "Dauley Enterprises, Inc. was filed as a Domestic For-Profit Corporation in Texas on December 7, 1995; Joel Dauley is listed as President."}
+  ]
+ },
+ {
+  "donor_id": "27b978f3-2816-4eef-8936-85e490a42c7b",
+  "name": "Magee, Robert",
+  "resolved_employer": "MLSA Ventures / Escalera Capital (President & managing principal) — San Antonio real-estate private equity firm (hospitality, commercial, mixed-use)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Robert 'Bobby' Magee is President and managing principal of MLSA Ventures (restructured as Escalera Capital), a San Antonio real-estate private equity firm he launched while a Trinity University student; firm holds ~$500M AUM and acquired the historic La Villita Assembly Building (NIOSA host). 78209 (Terrell Hills area) location fits. No ideological PAC or lobbyist registration found.",
+  "source_url": "https://sanantonioreport.org/la-villita-assembly-building-niosa-new-ownership-mlsa-ventures/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "MLSA Ventures / Escalera Capital", "role": "President & managing principal (real-estate private equity)", "category": "business", "source_url": "https://www.connectcre.com/awards/2024-next-gen-awards/texas/bobby-magee/", "snippet": "Bobby Magee is president of MLSA Ventures, a real-estate private equity firm he founded while at Trinity University; managing principals Bobby Magee and Charles Leddy."}
+  ]
+ },
+ {
+  "donor_id": "21033de0-3880-4d70-8989-5dbe8b4b0a3c",
+  "name": "Meyer, Susan",
+  "resolved_employer": "Retired (per filing; no confirmable public profile)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reports 'Retired' at 9033 Aero, San Antonio 78217, with a high federal small-donor count (150). 'Susan Meyer' is an extremely common name (2,000+ US matches) and no specific individual could be tied to this address; not found in reviewed San Antonio FEC contribution listings. No confirmed advocacy affiliations, PAC, or lobbyist record.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "20201346-3ae7-4999-9d5c-26711a56ffd9",
+  "name": "Rodriguez, Rudy",
+  "resolved_employer": "CRG Community Resource Group, L.L.C. (senior officer/lead consultant) — San Antonio business-development & government-affairs/lobbying consultancy",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Rudolph 'Rudy' F. Rodriguez leads CRG Community Resource Group (est. 2001, minority-owned), a San Antonio business-development and government-affairs/lobbying consultancy; he is a registered City of San Antonio lobbyist and was 2017-2018 Chairman of the West San Antonio Chamber of Commerce. Consultant/Self-Employed occupation and San Antonio location fit; prolific federal donor (217).",
+  "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio Lobbyist Registry", "role": "Registered municipal lobbyist (government-affairs consultant, CRG Community Resource Group)", "category": "political", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx", "snippet": "Rudolph F. Rodriguez appears in the City of San Antonio Lobbyist System as a registered lobbyist/government-affairs consultant."},
+   {"org": "West San Antonio Chamber of Commerce", "role": "Chairman of the Board, 2017-2018", "category": "business", "source_url": "https://www.westsachamber.org/about-the-chamber/", "snippet": "Rudolph 'Rudy' F. Rodriguez served as 2017-2018 Chairman of the Board of the West San Antonio Chamber of Commerce."}
+  ]
+ },
+ {
+  "donor_id": "1e357d98-c881-427e-b1aa-9acc9d2d67b7",
+  "name": "Garza, Elizabeth",
+  "resolved_employer": "Self-employed (per filing; specific individual not confirmable)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reports 'Self Employed' at 4126 Sunrise Terrace, San Antonio 78263 (far southeast side), with zero federal (FEC) contributions. 'Elizabeth Garza' is a very common San Antonio name with multiple LinkedIn profiles; none could be tied conclusively to this address. No PAC or lobbyist record. Classified by generic self-reported occupation only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1a1d72b7-123a-42b1-b1d8-50da2a48444a",
+  "name": "Triesch, Lina",
+  "resolved_employer": "River City Steel & Recycling, Inc. (HR & Safety)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Lina Triesch oversees HR & safety at River City Steel & Recycling (San Antonio scrap-metal/steel recycler at 5326 Roosevelt Ave, matching filing); associated with owner/CEO Justin Newell Triesch at the same address. Classified Energy / Environment (recycling) consistent with co-resident Justin Triesch. No FEC PAC records or TX lobbyist registration found.",
+  "source_url": "https://rivercitysteel.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "19c34beb-2253-486f-a060-bdfc102553ae",
+  "name": "Gutierrez, Lupita",
+  "resolved_employer": "Self-Employed (Lupita Gutierrez Insurance Services)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Lupita Gutierrez runs an independent insurance agency (life/universal life) in San Antonio; occupation 'insurance broker/self-employed' matches. Insurance classified as Finance. Dataset partisan_lean 0.992 (strongly Democratic) and fec_count 22 suggest small-dollar Democratic giving, but common name (Guadalupe/Lupita Gutierrez) could not be tied to a specific individual FEC record, so no political affiliation recorded. No TX lobbyist registration.",
+  "source_url": "https://lupitagutierrez.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "19bbea52-9e57-40cf-9cf7-8ca39b9caee5",
+  "name": "Falic, Leon",
+  "resolved_employer": "Duty Free Americas / Falic Group (President)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Confirmed as Leon Falic, one of three brothers (Simon, Jerome, Leon) who own Duty Free Americas, headquartered at 6100 Hollywood Blvd, Hollywood FL; President of the company and founding member of the Falic Group. The Falic family are documented major pro-Israel political donors and, per AP/Al Jazeera/Times of Israel, gave at least $5.6M to West Bank/East Jerusalem settler organizations. Out-of-state FL donor to a San Antonio council race.",
+  "source_url": "https://www.timesofisrael.com/us-duty-free-owners-give-millions-to-israeli-settlements/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Duty Free Americas / Falic Group", "role": "President / founding member", "category": "business", "source_url": "https://www.tfwa.com/tfwa-world-exhibition-conference/leon-falic-100016107", "snippet": "Leon Falic serves as President of Duty Free Americas and is a founding member of the Falic Group, a global enterprise with operations in 23+ countries including Israel."},
+   {"org": "Falic Family Private Foundation / Segal Foundation for Israel", "role": "family principal / co-founder", "category": "pro_israel", "source_url": "https://www.aljazeera.com/news/2019/7/1/israel-settlements-funded-by-us-duty-free-tycoons", "snippet": "AP investigation: the Falic family (Simon, Jerome, Leon) donated at least $5.6M to settler organizations in the occupied West Bank and East Jerusalem; the brothers are documented major pro-Israel political donors."}
+  ]
+ },
+ {
+  "donor_id": "1654b7b4-31cd-436b-8eac-ff072d6f0f8f",
+  "name": "Pacheco, Leo",
+  "resolved_employer": "State of Texas (former State Representative, HD118)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Confirmed as Leo Pacheco, former Texas House member for District 118 (southern/eastern Bexar County), served Jan 2019-Aug 2021, resigned to teach public administration at San Antonio College. Elected as a Democrat (defeated incumbent Tomas Uresti in 2018 primary); joined the Republican Party in 2025 seeking his old seat. No TX lobbyist registration found.",
+  "source_url": "https://ballotpedia.org/Leo_Pacheco",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House of Representatives (District 118)", "role": "State Representative", "category": "political", "source_url": "https://www.texastribune.org/2021/08/06/leo-pacheco-texas-house-resign-san-antonio/", "snippet": "Leo Pacheco served as the Democratic state representative for HD118 in San Antonio from 2019 until his August 2021 resignation to teach at San Antonio College; later ran again as a Republican in 2025."}
+  ]
+ },
+ {
+  "donor_id": "145ba260-4ad5-454d-9cf2-d73e446537c6",
+  "name": "Yashasim, LLC",
+  "resolved_employer": "Yashasim, LLC (Falic-family real estate entity)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Yashasim, LLC is a Florida LLC (filed 2003, doc L03000017663) at 6100 Hollywood Blvd, 7th Floor, Hollywood FL — the Duty Free Americas headquarters address. Principals are Jerome Falic and Simon Falic; classified as a lessor/manager of nonresidential real estate. Confirmed Falic-family-linked entity; the Falic family are documented major pro-Israel/settlement funders. Out-of-state FL entity donating to a San Antonio council race, paralleling Leon Falic's personal donation.",
+  "source_url": "https://opencorporates.com/companies/us_fl/L03000017663",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Falic family (Duty Free Americas)", "role": "Falic-family-owned entity (members Jerome & Simon Falic)", "category": "business", "source_url": "https://opencorporates.com/companies/us_fl/L03000017663", "snippet": "Yashasim, LLC at 6100 Hollywood Blvd, Hollywood FL lists Simon and Jerome Falic as principals; a Falic-family nonresidential real-estate holding entity at the Duty Free Americas HQ address."},
+   {"org": "Falic family (pro-Israel donor reputation)", "role": "family-linked entity", "category": "pro_israel", "source_url": "https://www.timesofisrael.com/us-duty-free-owners-give-millions-to-israeli-settlements/", "snippet": "Yashasim is owned by the Falic family, documented major pro-Israel donors who gave at least $5.6M to West Bank/East Jerusalem settler groups; this reflects family ownership rather than a documented entity-level advocacy role (linkage noted at medium confidence)."}
+  ]
+ },
+ {
+  "donor_id": "1203d837-92ac-4896-b44e-ccffd488b810",
+  "name": "Mireles, Jesse",
+  "resolved_employer": "Mireles Party Kegs / Mireles Party Ice (owner/co-owner)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Jesse Mireles is owner/co-owner of Mireles Party Kegs (Mireles Party Ice), a San Antonio keg/ice distributor with grocery-store origins; confirmed via SA Report family-business profile and LinkedIn (Jesse Mireles IV, VP & Co-Owner).",
+  "source_url": "https://sanantonioreport.org/san-antonio-mireles-party-ice-family-business/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Mireles Party Kegs (Mireles Party Ice)", "role": "Owner / Co-Owner", "category": "business", "source_url": "https://www.linkedin.com/in/jessemirelesiv/", "snippet": "Vice President and co-owner of the family-run Mireles Party Ice / Party Kegs distributor in San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "11ab47a9-4df1-46b8-b85c-213aa9a1ea60",
+  "name": "Triesch, Justin",
+  "resolved_employer": "River City Steel & Recycling, Inc. (owner/CEO)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Justin Newell Triesch is owner/CEO of River City Steel & Recycling at 5326 Roosevelt Ave, 78214 (matches donor address); grandson of Newell Recycling founder, controlling the scrap-metal/steel recycling facility since the 1990s (also Triesch Ranch LLC). No FEC PAC or TX lobbyist records. Note: the Keurig Dr Pepper LinkedIn is a different Justin Triesch.",
+  "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/justin-newell-triesch/32425199.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "River City Steel & Recycling, Inc.", "role": "Owner / CEO", "category": "business", "source_url": "https://rivercitysteel.com/about-us/", "snippet": "Owner/CEO of the family-owned San Antonio scrap-metal recycling and steel-supply firm at 5326 Roosevelt Ave since the 1990s."}
+  ]
+ },
+ {
+  "donor_id": "0d4ebe39-acd2-4921-8f7c-51dc57c327ea",
+  "name": "Madrigal, Luis",
+  "resolved_employer": null,
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Business Owner / Self' at 2023 Skull Valley, 78245. Could not positively confirm a specific business or record; a Madrigal Premier Services LLC exists in 78245 but at a different address (10142 Maple Ranch), so identity is unconfirmed. No FEC PAC or TX lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0b2baa29-ec61-4d0f-8799-995629542f01",
+  "name": "Crude, Anne",
+  "resolved_employer": null,
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Self-Employed', 1160 Rodalyn Drive, Boerne-area 78006, fec_count 0. No public records, business listing, FEC PAC contributions, or TX lobbyist registration located for this name; identity/employer unconfirmed. A quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "09ef5aaf-2bc3-4f99-92d5-ffbb1332c12a",
+  "name": "Trevino, Enrique",
+  "resolved_employer": "City of San Antonio (council/government aide, per filing)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation 'Aide, Civic Servant' with employer 'Government, City of San Antonio' (259 Kelly Drive, 78214); consistent with a City of San Antonio council/government staffer. High fec_count (89) fits small-dollar federal giving but the specific committee/office is not documented publicly; no TX lobbyist registration found. Classified Government by employer fallback.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0894880d-5a03-42d9-9f43-8c865abc6962",
+  "name": "Bara, Joey",
+  "resolved_employer": "The Bara Group at San Antonio's Finest Realty (Broker/Owner); Jose 'Joey' Bara, veteran-owned SA real estate brokerage",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Jose 'Joey' Bara is Broker/Owner of The Bara Group at San Antonio's Finest Realty, a former SAPD officer who built his real estate career at that firm; 78257 SA location and employer strings match the filing. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.sanantoniosfinestrealty.com/joeybara-TBGbroker/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Police Officers Association (SAPOA) Charitable Donations Committee", "role": "Chairman (~20 years, as former SAPD officer)", "category": "civic", "source_url": "https://www.sanantoniosfinestrealty.com/joeybara-TBGbroker/", "snippet": "Bara, a former San Antonio police officer, served roughly 20 years as Chairman of the SAPOA Charitable Donations Committee."}
+  ]
+ },
+ {
+  "donor_id": "047cfe33-3c7f-4257-a599-e3703de26f81",
+  "name": "Guerra, Heriberto",
+  "resolved_employer": "Avanzar Interior Technologies GP, LLC — Chairman & CEO (Toyota-affiliated auto interior supplier); co-owner of area auto dealerships",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Heriberto 'Berto' Guerra Jr., Chairman/CEO of Avanzar Interior Technologies (Toyota interior supplier on SA South Side), matches employer/address/occupation exactly. Prominent SA businessman: former SBC/AT&T VP of legislative & constituency affairs, Vice Chairman of Vantage Bank, past SAWS board chairman. No pro-Israel/pro-Palestine, oil & gas, gun, or defense PAC/lobbyist records found in target categories.",
+  "source_url": "https://sanantonioreport.org/driven-to-succeed-berto-guerra-has-built-a-local-auto-empire/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Avanzar Interior Technologies GP, LLC", "role": "Chairman & CEO", "category": "business", "source_url": "https://www.linkedin.com/in/heriberto-guerra-b911b8b/", "snippet": "Chairman & CEO of Avanzar Interior Technologies, a Toyota on-site interior supplier in San Antonio."},
+   {"org": "San Antonio Water System (SAWS)", "role": "Chairman, Board of Trustees (public utility, council-confirmed)", "category": "civic", "source_url": "https://sanantonioreport.org/driven-to-succeed-berto-guerra-has-built-a-local-auto-empire/", "snippet": "Served as Chairman of the San Antonio Water System board of trustees."},
+   {"org": "Vantage Bank Texas", "role": "Vice Chairman", "category": "business", "source_url": "https://sanantonioreport.org/driven-to-succeed-berto-guerra-has-built-a-local-auto-empire/", "snippet": "Vice Chairman of Vantage Bank."},
+   {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Past Chair", "category": "business", "source_url": "https://sanantonioreport.org/driven-to-succeed-berto-guerra-has-built-a-local-auto-empire/", "snippet": "Former Chair of the San Antonio Hispanic Chamber of Commerce."}
+  ]
+ },
+ {
+  "donor_id": "038fbeb9-ba7a-4c38-849d-77fea12e4d1f",
+  "name": "Blackburn, Kimberly",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "A Kimberly Blackburn associated with 8100 Broadway St #205, San Antonio 78209 (exact address match) who relocated from Austin/West Lake Hills is documented as a San Antonio Gun Club board member (since 2009) and president of the Women's Shooting League. Filing occupation is 'N/A'; common name so identity is probable, not certain. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://sawoman.com/2014/07/gals-with-guns/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Gun Club", "role": "Board member (since 2009)", "category": "gun_rights", "source_url": "https://sawoman.com/2014/07/gals-with-guns/", "snippet": "Kimberly Blackburn has held a board position with the San Antonio Gun Club since 2009."},
+   {"org": "Women's Shooting League", "role": "President", "category": "gun_rights", "source_url": "https://sawoman.com/2014/07/gals-with-guns/", "snippet": "President of the Women's Shooting League; trap shooter and hunter who organizes instructors and promotes firearms education."}
+  ]
+ },
+ {
+  "donor_id": "c32d8a1b-2ecf-4644-a796-a852230c9234",
+  "name": "McKnight, Yulanee",
+  "resolved_employer": "San Antonio Academy — retired after 22 years as Registrar for the Summer program",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Yulanee H. McKnight, 2023 San Antonio Women's Hall of Fame inductee, retired after 22 years as Summer Registrar at San Antonio Academy; matches occupation/employer strings and SA location. Extensive civic record including District 3 city board appointments. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://sawomenshalloffame.org/members/2023-inductees/yulanee-h-mcknight/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Housing Trust Board", "role": "District 3 Appointee, Secretary", "category": "civic", "source_url": "https://sawomenshalloffame.org/members/2023-inductees/yulanee-h-mcknight/", "snippet": "Served as District 3 appointee and Secretary of the San Antonio Housing Trust Board."},
+   {"org": "Neighborhood Improvements Bond Committee", "role": "District 3 Representative", "category": "civic", "source_url": "https://sawomenshalloffame.org/members/2023-inductees/yulanee-h-mcknight/", "snippet": "District 3 representative on the city's Neighborhood Improvements Bond Committee; also a SAWS Advisory Panel council appointee."}
+  ]
+ },
+ {
+  "donor_id": "2ce74e1a-3f36-4ffd-84a6-7d0cebed1640",
+  "name": "Viagran, Crystal",
+  "resolved_employer": "University of Texas at Austin (filing lists occupation 'Director', employer 'UT Austin') — individual not independently confirmed in public records",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Could not locate any public bio, directory listing, or news record confirming a 'Crystal Viagran' as a director at UT Austin; classified by employer string (UT Austin = Education) with an Austin 78702 address. Likely a relative of Councilwoman Phyllis Viagran but no public source documents the family relationship or any policy affiliation. No FEC PAC or TX lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

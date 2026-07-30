@@ -1,0 +1,233 @@
+[
+ {
+  "donor_id": "b7810e9c-7606-49b5-98fd-9e5a323e3876",
+  "name": "Ortiz, Theresa",
+  "resolved_employer": "Not Employed (retired)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported retired, 1415 Canyon Parke Dr, San Antonio 78232 (North Central SA). 'Theresa Ortiz' is a very common name; searches surfaced only neighboring property listings, no professional profile, prior occupation, or advocacy role for this specific person. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Theresa+Ortiz&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3ca53cb3-a614-4466-90c3-04f931b7d52b",
+  "name": "Cruz, Sylvia",
+  "resolved_employer": "Not Employed (retired)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Retired resident at 7726 Nimrod, San Antonio 78240 (Northwest SA); public-records aggregators confirm a Sylvia Cruz at that exact address, consistent with retiree status. No prior occupation, professional/advocacy profile, FEC PAC giving, or TX lobbyist registration found.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sylvia+Cruz&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f7b8a573-345a-4a8d-b24f-116cf3c16cd2",
+  "name": "Rivera, Raymundo",
+  "resolved_employer": "Rivera Engineering (small owner-operated engineering practice), 1814 N Palmetto Ave, San Antonio 78209",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Self-reported Engineer, employer 'Rivera Engineering,' at 1814 N Palmetto Ave 78209 (near Alamo Heights). Address and firm name indicate a small owner-operated engineering practice; better-known 'Rivera Engineering' firms found online are Austin/Dallas MEP firms, not this one. Classified by stated occupation. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Raymundo+Rivera&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f775443a-84dd-4f6f-b7b6-597cda355c2d",
+  "name": "Brunner, Audrey",
+  "resolved_employer": "SATX Consultants (San Antonio public-affairs / communications firm), 1002 N Flores St, 78212",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Audrey Brunner is tied to SATX Consultants, a San Antonio public-affairs/communications firm whose office address (1002 N Flores St, 78212) exactly matches the donor's listed address; she appears in the firm's #EqualPaySA campaign video alongside principal Marcie Trevino Ripper. Not found as a registered TX lobbyist; no FEC PAC contributions found.",
+  "source_url": "https://services.northsachamber.com/list/member/satx-consultants-24338",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "SATX Consultants", "role": "Consultant / team member (appeared in firm's #EqualPaySA campaign video)", "category": "business", "source_url": "https://www.facebook.com/satxconsultants/videos/equalpaysa/457618105661549/", "snippet": "Facebook video '#EqualPaySA | Audrey Brunner and Marcie Trevino Ripper...' on the SATX Consultants page ties Audrey Brunner to the San Antonio public-affairs consulting firm at 1002 N Flores St."}
+  ]
+ },
+ {
+  "donor_id": "f024326d-0447-4f03-82cf-cd550d262fe5",
+  "name": "Lopez, John & Brenda",
+  "resolved_employer": "Not Employed (retired)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Married retired couple at 107 Langford Pl, San Antonio 78221 (South Side, in Council District 3). Public-records aggregators confirm a John Lopez and Brenda M Lopez at that exact address. No prior occupations, advocacy profiles, FEC PAC giving, or TX lobbyist registrations found.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=John+Lopez&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ea966a6c-5d05-45ad-9638-3bf826720048",
+  "name": "Pruski, Timonthy",
+  "resolved_employer": "CastleRock Communities (residential homebuilder); donation form self-reported 'Self Employed'",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "LinkedIn profile for Timothy Pruski, San Antonio TX, lists employer CastleRock Communities (residential homebuilder), Texas State University-San Marcos alum; zip 78260 (far north SA) consistent. Minor mismatch: LinkedIn shows him as a CastleRock employee while the filing lists 'Self Employed.' No FEC PAC records, no TX lobbyist registration, no board/advocacy roles found.",
+  "source_url": "https://www.linkedin.com/in/timothy-pruski-44b96485/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e76d5b42-9fd5-490e-9637-b8df4db85d71",
+  "name": "Ramirez, Norma",
+  "resolved_employer": "Not Employed (retired)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filing lists occupation Retired, zip 78214 (South Side SA). 'Norma Ramirez' is extremely common in San Antonio; could not confirm the specific individual. No FEC PAC records, no TX lobbyist registration, no public advocacy profile found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cd90bd78-8a0d-42d6-8278-69896e7730d1",
+  "name": "Mendez, Sylvia",
+  "resolved_employer": "San Antonio ISD (SAISD) — substitute teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Filing lists substitute teacher for SAISD, zip 78214 (South Side SA). Employer-based classification is reliable from the filing; the specific individual could not be independently identified (name collides with the historic civil-rights figure Sylvia Mendez). No FEC PAC records, no TX lobbyist registration, no advocacy profile found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cd15a111-57d2-42c5-8e48-80cfa02bed60",
+  "name": "Hernandez, Kristi",
+  "resolved_employer": "City of San Antonio — District 3 council office aide/coordinator (under then-Councilwoman Rebecca J. Viagran)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "City of San Antonio council staff records list a Kristy Hernandez as a District 3 coordinator/aide during Rebecca Viagran's tenure, matching the filing's employer field 'Rebecca J. Viagran.' Municipal employment, not policy advocacy. No FEC PAC records, no TX lobbyist registration.",
+  "source_url": "https://www.sanantonio.gov/Portals/0/Files/Council/Aide/CouncilRoster.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cd004d66-8ed8-40c2-ab51-8d0227372365",
+  "name": "Pena, Ramon",
+  "resolved_employer": "Self-employed business owner (business not identified; 514 W Commerce is a downtown SA address)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Filing lists business owner / self-employed, zip 78207 (West Side SA). Multiple same-named individuals in San Antonio; could not confirm the specific person or the nature of the business at 514 W Commerce. No FEC PAC records, no TX lobbyist registration, no advocacy profile found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c7948335-ba07-418f-9ac6-6d2dd280e3ab",
+  "name": "Castano, Amy",
+  "resolved_employer": "Bexar County (County Court coordinator/administrator)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Amy Castano appears in Bexar County court directories as a county court coordinator, consistent with donor's 'Court Administrator, Bexar County' occupation; a north-side SA resident (78261). No FEC or lobbyist records found.",
+  "source_url": "https://bexarcountycourt.us/court-administration-directory/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c165e67a-eb15-4dcd-81a8-02cd09b82b1b",
+  "name": "Brown, Bill",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as Retired in SE-side SA (78223). 'Bill/William Brown' is extremely common; multiple retirees of this name exist in San Antonio and none could be matched to 78223 with confidence. No FEC or lobbyist records tied to this specific individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bd7951e6-7567-4362-8b51-8f50afa76a01",
+  "name": "Seeligson, Frates",
+  "resolved_employer": "San Antonio River Foundation (Executive Director); also owner/operator, Pajarito Tree Farm",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "The current Frates Seeligson (not the earlier GOP congressman/state rep of the same family): Duke grad and TCU Ranch Management alum, fourth-generation rancher, joined the River Foundation board in 2006, ran Confluence Park, and became Executive Director in 2019; office at 311 W Hollywood matches donor address. A 1996 FEC record shows a $250 gift to the Texas & Southwestern Cattle Raisers Assn PAC under an SA 78209 address (plausibly same person, industry-not-ideological); no other PAC or lobbyist ties found.",
+  "source_url": "https://www.sariverfound.org/frates-seeligson/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio River Foundation", "role": "Executive Director (board member since 2006)", "category": "civic", "source_url": "https://www.sariverfound.org/frates-seeligson/", "snippet": "Joined the board in 2006, became Director of Confluence Park in 2016, and was appointed Executive Director in 2019."},
+   {"org": "Pajarito Tree Farm", "role": "Owner/operator; fourth-generation rancher", "category": "business", "source_url": "https://www.sariverfound.org/frates-seeligson/", "snippet": "Fourth-generation rancher with decades of land-stewardship experience focused on native habitat and agricultural restoration."}
+  ]
+ },
+ {
+  "donor_id": "b97f08ad-c194-417d-830a-27e7a2ec3894",
+  "name": "Marquez, David",
+  "resolved_employer": "Bexar County (Executive Director, Economic & Community Development)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Long-time public official: David Marquez served ~27 years as Bexar County's Executive Director of Economic & Community Development, a San Antonio native who oversaw major projects including the county arena (now Frost Bank Center); alumnus of Trinity University and Texas State. Matches donor occupation exactly. No PAC or lobbyist records found.",
+  "source_url": "https://sanantonioreport.org/bexar-county-economic-leader-on-successful-past-and-hopeful-future/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Bexar County Economic & Community Development", "role": "Executive Director (~27 years)", "category": "civic", "source_url": "https://www.bexar.org/684/Leadership", "snippet": "Longtime county leader in economic development and advanced manufacturing; oversaw building and funding of the county arena (Frost Bank Center)."}
+  ]
+ },
+ {
+  "donor_id": "b4d4a16d-df45-4cde-854a-f3368152ad03",
+  "name": "Lazo, Linda",
+  "resolved_employer": "Linda's De Novo Hair Design / Linda's Beauty Salon (owner-operator hairstylist)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Linda Lazo owns Linda's De Novo Hair Design at 7610 S New Braunfels Ave, San Antonio 78235 — an exact match to donor address and 'Self-Employed' occupation. Nicaraguan immigrant and single mother who built a 30-year South Side salon business; opened a second location at Brooks. No PAC or lobbyist records found.",
+  "source_url": "https://sanantonioreport.org/where-i-work-lindas-beauty-salon/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a918f99e-0732-4ca2-8de0-e2a638189337",
+  "name": "Pelayo, Yvonne",
+  "resolved_employer": "CPS Energy (San Antonio municipal utility) — Human Resources / People & Culture",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Yvonne Pelayo works in Human Resources/People & Culture at CPS Energy, San Antonio's municipal gas & electric utility; a Yvonne Pelayo appears in CPS Energy records. HR role at a municipal utility, not a fossil-fuel-industry affiliation.",
+  "source_url": "https://www.cpsenergy.com/content/dam/corporate/en/Documents/CAC%20Meeting%20Minutes_06%2008%2022.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a695b872-8741-445d-b47f-1ccdefeff00b",
+  "name": "Worth, Mary",
+  "resolved_employer": "Baptist Health System (Tenet Healthcare), San Antonio — Marketing",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Mary Worth held a Manager, Marketing role with Baptist Health System (owned by Tenet Healthcare) in San Antonio per ZoomInfo, matching the donor's occupation (Marketing Manager) and employer. Healthcare-marketing professional; no political/advocacy affiliations found.",
+  "source_url": "https://www.zoominfo.com/pic/baptist-health-system/14668143",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a52f369d-3da3-42bf-a85c-e19aca9152b4",
+  "name": "Lujan, Luz",
+  "resolved_employer": "Abe Joe Lujan Insurance (Farmers Insurance agency), San Antonio — Bookkeeper",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Abe Joe Lujan Insurance is a confirmed San Antonio Farmers Insurance agency (Abe Joe Lujan, 30+ yrs); Luz Lujan is the bookkeeper for this small family insurance agency. Insurance/bookkeeping classified as Finance. No individual public profile beyond this occupation; no FEC or lobbyist records.",
+  "source_url": "https://agents.farmers.com/tx/san-antonio/abe-joe-lujan/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9b541e14-72b7-4b98-b3bf-98a02d7aba93",
+  "name": "McGhee, R. Joy",
+  "resolved_employer": "Corporate trainer/instructor — Alamo Colleges (HPOG/ACCD) and founder of King's Glory Enterprises Inc",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "LinkedIn confirms R. (Renee) Joy McGhee, San Antonio, is a corporate trainer/facilitator/motivational speaker and founder of 'Inspirationally Yours - King's Glory Enterprises Inc,' educated at UTSA; works as a trainer/instructor for Alamo Colleges. King's Glory Enterprises is her own training business. No policy-advocacy, FEC, or lobbyist records.",
+  "source_url": "https://www.linkedin.com/in/renee-joy-mcghee/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9999dc13-2e3b-418d-8795-c5d4965fb597",
+  "name": "Ozuna, Leticia",
+  "resolved_employer": "Cybersecurity/cloud systems engineer (listed at Devo; LinkedIn later shows Accenture Federal Services)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Public figure: former San Antonio City Council D3 member (appointed 2011-2013), former SAWS trustee, and SAISD D3 trustee (2021-2025); 25+ yrs software/systems engineering with an MS in Cybersecurity. Cloud/cybersecurity SME background matches the 'Cloud Engineer, Devo' donor record. No FEC PAC or TX lobbyist records (a registered lobbyist of a similar name is a different person).",
+  "source_url": "https://ballotpedia.org/Leticia_Ozuna",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council, District 3", "role": "Councilwoman (appointed 2011-2013)", "category": "political", "source_url": "https://ballotpedia.org/Leticia_Ozuna", "snippet": "Unanimously appointed to serve as the District 3 councilwoman on the San Antonio City Council."},
+   {"org": "San Antonio ISD Board of Trustees, District 3", "role": "Trustee (2021-2025)", "category": "political", "source_url": "https://sanantonioreport.org/profile/leticia-ozuna-2025-san-antonio-isd-district-3-candidate/", "snippet": "San Antonio ISD Board of Trustees, District 3 (elected 2021)."},
+   {"org": "San Antonio Water System (SAWS)", "role": "Trustee (mayoral appointment)", "category": "civic", "source_url": "https://sanantonioreport.org/profile/leticia-ozuna-2025-san-antonio-isd-district-3-candidate/", "snippet": "Former Trustee for the San Antonio Water System (appointed by the Mayor)."}
+  ]
+ }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "donor_id": "c4d5e399-7984-4a51-9610-4c38212a14e9",
+    "name": "Ortiz, Daniel",
+    "resolved_employer": "Ortiz McKnight PLLC (founding shareholder); formerly Brown & Ortiz, P.C. — municipal land use / zoning / development-permitting attorney",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Land use/zoning attorney licensed in TX since 2004, founding member of Ortiz McKnight PLLC (formed March 2023) and previously shareholder at Brown & Ortiz, P.C. Former Chief of Staff for San Antonio City Council members. Employer strings and 78209 SA location match the filing.",
+    "source_url": "https://www.ortizmcknight.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio Lobbyist Registry", "role": "Registered municipal lobbyist (land use / zoning)", "category": "business", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx", "snippet": "Daniel Ortiz appears in the City of San Antonio Lobbyist System; as a land-use/zoning and government-relations attorney he registers to lobby the City on client development/zoning matters."}
+    ]
+  },
+  {
+    "donor_id": "aeaeb011-0b3c-49e0-b652-38ef250eb70c",
+    "name": "Brown, Leslie",
+    "resolved_employer": "Attorney, United States Air Force / U.S. Government (civilian federal counsel)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Public LinkedIn profile identifies a Leslie Brown as an attorney with the United States Air Force, St. Mary's University School of Law, based in San Antonio — consistent with the filing's occupation 'Attorney' and employer strings 'USAF/US Government' at a 78209 address. Common name, so identity not fully certain.",
+    "source_url": "https://www.linkedin.com/in/leslie-brown-56801517/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aada9712-92fd-4974-8d55-1ea71ef34a98",
+    "name": "Pedrotii, Daniel",
+    "resolved_employer": "Self-Employed, real estate development (per filing; no confirmable public profile)",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Self-reports 'Self-Employed / Real Estate Development' at a Boerne (Kendall County) 78006 address. No public profile could be tied to this specific individual. Note: the well-documented oil & gas 'Daniel A. Pedrotti' is a Corpus Christi geologist (d. 2025) — a different person; no oil & gas affiliation is attributed here to avoid misclassification.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b9b84c4e-53c9-4644-b3c1-57aa2efb849c",
+    "name": "Viagran, Rebecca",
+    "resolved_employer": "South Texas Business Partnership (President & CEO); former San Antonio City Council D3 (2013-2021)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Phyllis Viagran's sister and D3 council predecessor (2013-2021); now President & CEO of the South Texas Business Partnership (regional business/chamber org, formerly South San Antonio Chamber). Ran for US House TX-35 in 2022. No ideological PAC or TX lobbyist registration found.",
+    "source_url": "https://sanantonioreport.org/rebecca-viagran-south-texas-business-partnership/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio City Council, District 3", "role": "Councilwoman 2013-2021 (Phyllis Viagran's predecessor and sister)", "category": "political", "source_url": "https://ballotpedia.org/Rebecca_J._Viagran", "snippet": "Rebecca J. Viagran was a member of the San Antonio City Council representing District 3, assuming office in 2013 and leaving office in 2021."},
+      {"org": "South Texas Business Partnership", "role": "President & CEO", "category": "business", "source_url": "https://southtexaspartnership.org/team/rebecca-viagran/", "snippet": "Rebecca J. Viagran is President and CEO of the South Texas Business Partnership, uniting San Antonio and the South Texas region."}
+    ]
+  },
+  {
+    "donor_id": "fbbe9a24-d075-41a6-a16c-1b7a0fadd7f2",
+    "name": "Ferdin, Joel",
+    "resolved_employer": "Joel's Collision Repair LLC (President/Owner)",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Confirmed as President/owner of Joel's Collision Repair LLC, a family-owned San Antonio auto body/collision repair business (opened 1999, ~40 employees) per Corporationwiki and the company's own About page. His business sought a rezoning for its 3406 Roosevelt Ave location (San Antonio's District 3 — Viagran's district) before City Council. No FEC ideological-PAC donation or Texas lobbyist registration found.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/joel-ferdin/38321199.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Joel's Collision Repair LLC", "role": "President / Owner", "category": "business", "source_url": "https://joelscollision.com/about-us/", "snippet": "The business was opened in 1999 by Mr. Joel Ferdin ... Joel's Collision Center is family owned and operated by the Ferdin family ... employs over 40 highly trained individuals."},
+      {"org": "San Antonio City Council (District 3 rezoning applicant)", "role": "Business owner seeking rezoning at 3406 Roosevelt Ave", "category": "civic", "source_url": "https://citizenportal.ai/articles/7403865/texas/bexar-county/san-antonio/Texas/Bexar-County/San-Antonio/Council-approves-rezoning-for-Joels-Collision-at-3406-Roosevelt-with-conditions-after-heated-public-debate", "snippet": "Council approves rezoning for Joel's Collision at 3406 Roosevelt with conditions after heated public debate."}
+    ]
+  },
+  {
+    "donor_id": "a51ff328-59c6-4450-bc33-bd92b6002900",
+    "name": "Smeberg, Vanessa",
+    "resolved_employer": "Self-employed (internal medicine physician)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Vanessa Bernal Smeberg, MD, board-certified internist/hospitalist in San Antonio 78201, UT Health San Antonio Long School of Medicine (2003), affiliated with Baptist Neighborhood Hospital. Classified by her own occupation; no confirmed policy/advocacy affiliations, no PAC or lobbyist record.",
+    "source_url": "https://www.healthgrades.com/physician/dr-vanessa-smeberg-3gxdx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "944fc16b-34cf-4ccf-ad5d-070487b17989",
+    "name": "Garza, Erick",
+    "resolved_employer": null,
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Common name; a person-search record places an Erick Garza in the 78263 zip, but no specific business, corporate profile, PAC contribution, or lobbyist registration could be identified. Employer fallback (self-employed business owner).",
+    "source_url": "https://freepeoplesearch.com/Garza/Erick/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7eebdac2-8692-4465-8e1f-1761b4e32d83",
+    "name": "Wells, JoAnne",
+    "resolved_employer": "Dailey & Wells Communications, Inc. (co-owner / principal)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Co-owner of Dailey & Wells Communications, the San Antonio public-safety radio firm (L3Harris P25 systems) that holds the City of San Antonio and Bexar County public-safety radio contracts; shares 610 E Market St / firm address with co-owner Richard Wells. Notable as a city vendor donating to a sitting councilmember. No federal FEC PAC contributions or TX lobbyist registration found.",
+    "source_url": "https://sanantonioreport.org/city-council-awards-public-safety-radio-contract-to-dailey-wells/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Dailey & Wells Communications, Inc.", "role": "Co-owner / principal", "category": "business", "source_url": "https://www.ksat.com/news/defenders/2020/01/21/whos-who-of-sa-politicians-accepted-donations-from-business-owners-linked-to-san-angelo-kickback-scheme/", "snippet": "Co-owners Richard and JoAnne Wells... Dailey & Wells Communications holds the public-safety radio contracts for the City of San Antonio and Bexar County."}
+    ]
+  },
+  {
+    "donor_id": "626e9c0a-31ac-43a4-a3c0-8f15ef117ebb",
+    "name": "Walker, Jack",
+    "resolved_employer": "Self-employed (business owner)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Out-of-state donor (Boulder, CO 80303, 4900 Thunderbird Dr) self-reporting as self-employed business owner; could not confirm specific identity, business, or industry beyond generic self-employment. Out-of-state giving to a San Antonio council race is notable but no public profile ties this individual to a specific firm or advocacy org. No confirmed FEC PAC or TX lobbyist record.",
+    "source_url": "https://nationalpublicdata.com/people/w/jack-walker/co/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5f03ce21-d5ee-4c62-a8e9-7069fdb5aeb5",
+    "name": "Wells, Richard",
+    "resolved_employer": "Dailey & Wells Communications, Inc. (President / co-owner)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "President and co-owner of Dailey & Wells Communications, San Antonio public-safety radio/communications contractor (L3Harris Critical P25 networks) holding City of San Antonio and Bexar County radio contracts; same 610 E Market St / firm address as co-owner JoAnne Wells. City-vendor donor to a sitting councilmember. No federal FEC PAC giving or TX lobbyist registration found.",
+    "source_url": "https://sanantonioreport.org/city-council-awards-public-safety-radio-contract-to-dailey-wells/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Dailey & Wells Communications, Inc.", "role": "President / co-owner", "category": "business", "source_url": "https://www.zoominfo.com/pic/dailey--wells-communications-inc/74271382", "snippet": "Richard Wells serves as President of the company... provider of L3HARRIS Critical P25 Networks and support services for federal, military and municipal public-safety networks."}
+    ]
+  },
+  {
+    "donor_id": "28e25f85-b530-46a6-a22f-89e04c9a4d74",
+    "name": "Garcia, Guadalupe",
+    "resolved_employer": "Self-employed (business owner; specific business not confirmed)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "343 Schmeltzer Ln 78213 is a single-family home shared by Guadalupe, Sylvia and Alyssa Garcia, all listing 'Business Owner/Self Employed' — consistent with a family business, though the exact company is not confirmed. A 'G C Garcia Enterprises' (manufacturing, est. 2010) exists in 78213 but at a different address (343 Lemur Dr), so not confirmed as the same entity. No FEC ideological-PAC donation or Texas lobbyist registration found.",
+    "source_url": "https://clustrmaps.com/a/4urnj/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "24d8d234-0020-403f-b8a0-b11dca2a01f9",
+    "name": "Ortiz, Casandra",
+    "resolved_employer": "Self-Employed (no public professional profile located)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-reported 'Self Employed' with no distinct public profile. Shares 9103 Melbrook St, San Antonio 78209 with attorney Daniel Ortiz (Ortiz McKnight/Brown & Ortiz), consistent with being his spouse; could not independently confirm an occupation or employer.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "059cab2e-c241-4fc1-bb5a-2417e4d79ca9",
+    "name": "Garcia, Sylvia",
+    "resolved_employer": "Self-employed (business owner; specific business not confirmed)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Lists 343 Schmeltzer Ln 78213 (same address as Guadalupe and Alyssa Garcia) and occupation 'Business Owner/Self Employed'; likely part of a shared family business but no public profile or specific company confirmed. No FEC ideological-PAC donation or Texas lobbyist registration found. Common name limits corroboration.",
+    "source_url": "https://clustrmaps.com/a/4urnj/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "95e2f68d-a94d-4fc4-9c64-cb9c6024daa1",
+    "name": "Walker, Jack",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Out-of-state donor (Boulder, CO 80302, 733 13th St, near CU-Boulder campus) with no occupation/employer on file. A Boulder 80302 'Jack Walker,' self-employed/consultant, has a small FEC record ($250 to ActBlue, 2014) indicating a Democratic lean, but identity match is unconfirmed and could be a different or the same person as the 80303 'Jack Walker' entry. Cannot resolve employer or industry.",
+    "source_url": "https://www.city-data.com/elec2/14/elec-BOULDER-CO-14-part4.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2f8041a6-cf8d-460e-8bd6-84b220101897",
+    "name": "Marshall, John",
+    "resolved_employer": "San Antonio Police Department (SAPD)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Listed as an SAPD police officer (employer 'City of San Antonio Police'). 'John Marshall' is an extremely common name and SAPD line officers rarely have public bios; no individual-level tie to the police union (SAPOA), CLEAT, any law-enforcement PAC, or a gun-rights organization could be confirmed. No FEC ideological-PAC donation or Texas lobbyist registration found. Classified generically as public-sector employment; not over-attributed.",
+    "source_url": "https://sapoa.org/about/political-action/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f89c20c3-acc1-4088-a591-f0db23fd86a2",
+    "name": "Brown & McDonalrd, PLLC",
+    "resolved_employer": "Brown & McDonald PLLC — San Antonio land use, zoning, environmental, public-utility and economic-incentives law firm (partners Kenneth W. Brown and Caroline McDonald)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Filing name 'Brown & McDonalrd, PLLC' at '100 NE Loop 420, 78216' is a typo for Brown & McDonald PLLC, a land-use/zoning law firm at 100 NE Loop 410, Suite 1385, San Antonio, TX 78216. Partner Kenneth W. Brown is the former co-principal of Brown & Ortiz, P.C. (with Daniel Ortiz).",
+    "source_url": "https://brownmcdonaldlaw.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio Lobbyist Registry", "role": "Firm whose partners (Kenneth W. Brown, Caroline McDonald) are registered municipal lobbyists", "category": "business", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx", "snippet": "Kenneth W. Brown and Caroline McDonald registered as City of San Antonio lobbyists (e.g., 2022 rezoning of YWCA San Antonio's 2318 Castroville Rd site); a land-use firm that lobbies the City on client zoning/development matters."}
+    ]
+  },
+  {
+    "donor_id": "f7279603-4ea8-4192-b483-b190150fee56",
+    "name": "Garcia, Alyssa",
+    "resolved_employer": "Self-employed (business owner; specific business not confirmed)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Same shared family address (343 Schmeltzer Ln, listed 78223) and 'Business Owner/Self Employed' occupation as Guadalupe and Sylvia Garcia. FEC record shows an extensive small-dollar giving history (~80 contributions, fully Democratic-leaning partisan_lean 1.0), consistent with an ActBlue recurring small-donor pattern rather than any single ideological PAC. No candidate/PAC ideological-advocacy affiliation, and no Texas lobbyist registration, could be confirmed. Common name limits identity certainty.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Alyssa+Garcia&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ed54a0a5-4909-4cfe-bad4-6d22e8a1ec3f",
+    "name": "Landrys Restaurants, PAC",
+    "resolved_employer": "Landry's, Inc. (Fertitta Entertainment / Tilman Fertitta) — corporate PAC",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Corporate PAC of Landry's, Inc., the Houston hospitality/restaurant-and-gaming conglomerate solely owned by Tilman Fertitta; Houston 77027 / West Loop South address matches the corporate HQ area. Registered in Texas as Landry's Seafood Restaurants, Inc. PAC (TX state committee). This is a corporate PAC, not an individual donor.",
+    "source_url": "https://www.transparencyusa.org/tx/committee/landrys-seafood-restaurants-inc-pac-43489-gpac/contributions",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Landry's, Inc. / Fertitta Entertainment", "role": "Corporate PAC sponsor", "category": "business", "source_url": "https://www.landrysinc.com/about-us/meet-the-ceo-tilman-fertitta", "snippet": "Tilman Fertitta has been the sole shareholder, chairman and chief executive officer of Landry's since August 2010; Landry's is a Houston hospitality, dining, entertainment and gaming conglomerate."}
+    ]
+  },
+  {
+    "donor_id": "ed054b25-25fc-45a1-a585-e49d1171ea85",
+    "name": "gonzales, shirley",
+    "resolved_employer": "Self (family-owned pawnshop); former San Antonio City Council D5",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Shirley Gonzales, former San Antonio City Council D5 (2013-2021), public figure; small-business owner of a family-owned pawnshop on West Commerce Street (West Side). No ideological PAC or TX lobbyist registration found.",
+    "source_url": "https://ballotpedia.org/Shirley_Gonzales",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio City Council, District 5", "role": "Councilwoman 2013-2021", "category": "political", "source_url": "https://ballotpedia.org/Shirley_Gonzales", "snippet": "Shirley Gonzales was a member of the San Antonio City Council representing District 5, assuming office in 2013 and leaving office in 2021."},
+      {"org": "Family-owned pawnshop (West Commerce Street)", "role": "Owner / small-business operator", "category": "business", "source_url": "https://sanantonioreport.org/shirley-gonzales-district-5-reflection-tenure/", "snippet": "When she first ran in 2013 she wanted to remove barriers to small businesses like hers, a family-owned pawnshop on West Commerce Street."}
+    ]
+  },
+  {
+    "donor_id": "cc821ce6-4e81-4003-a591-a8f10edc49ff",
+    "name": "Worth, Robert",
+    "resolved_employer": "Worth & Associates, LTD. (Founder and Chairman)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Robert L. 'Bob' Worth, Jr., founder/chairman of Worth & Associates (founded 1986), a major San Antonio commercial real-estate development/brokerage firm; former CPA at Ernst & Ernst. 2017 Philip M. Barshop Award. Real-estate-development interest. No ideological (pro-Israel/oil-gas/gun) PAC pattern or TX lobbyist registration surfaced.",
+    "source_url": "https://worthsa.com/team-member/robert-l-worth-jr/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Worth & Associates, LTD.", "role": "Founder and Chairman", "category": "business", "source_url": "https://worthsa.com/team-member/robert-l-worth-jr/", "snippet": "Founder and Chairman of Worth & Associates, LTD. (established 1986); developed over 3 million sq ft of commercial space in South Texas."}
+    ]
+  }
+]
