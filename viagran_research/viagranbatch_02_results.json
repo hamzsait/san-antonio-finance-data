@@ -1,0 +1,237 @@
+[
+  {
+    "donor_id": "c88a277d-e990-4f3a-b2e4-059aff70eee3",
+    "name": "Gomez, Leo",
+    "resolved_employer": "Brooks Development Authority (Brooks)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Leo Gomez, President & CEO of Brooks Development Authority (public/quasi-governmental redevelopment authority on SA's South Side) since 2013; former VP Public & Government Affairs at Spurs Sports & Entertainment and past president of the SA Hispanic Chamber. Zip 78251 and Brooks employer match.",
+    "source_url": "https://livebrooks.com/leo-gomez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "People Powered Action (Beto O'Rourke)", "role": "individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part12.html", "snippet": "Leo Gomez, Brooks Development Authority (zip 78251), gave $100 (3/14/2019) and $20 (3/27/2019) to People Powered Action for Robert 'Beto' O'Rourke."}
+    ]
+  },
+  {
+    "donor_id": "c572aa75-be8b-4df6-a6d6-f28a4a5ae61b",
+    "name": "Cintron, Louis",
+    "resolved_employer": "Huntington Ingalls Industries (formerly); Stratus Technology Integration Services",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Louis Cintron, Systems Engineer / Cloud Hosting Linux Administrator; per ZoomInfo previously held that role at Huntington Ingalls Industries (major defense shipbuilding contractor); Computer Science degree from San Antonio College. Occupation (Linux engineer) and HII employer match. Employment alone did not warrant a military_defense advocacy affiliation; no defense-PAC donations found.",
+    "source_url": "https://www.zoominfo.com/p/Louis-Cintron/1516259319",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c355e9a5-2d80-49c9-bc66-f3bef5496556",
+    "name": "Garcia, Kaitlyn",
+    "resolved_employer": "Self-employed",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-described self-employed business owner in San Antonio (78213). No public profile, business name, FEC record, or lobbyist registration located to corroborate a specific person or business; common name.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b947e6e3-9408-4f76-859a-14466599d64d",
+    "name": "Davila, Linda",
+    "resolved_employer": "Capital Electric / HJD Capital Electric (retired)",
+    "industry": "Construction",
+    "confidence": "low",
+    "evidence": "Retired business owner; employer string 'Capitol Electric' most plausibly matches HJD Capital Electric, a San Antonio Davila-family-founded electrical contractor (founded 1994 by Henry Davila; sold to employees 2020). Surname + city + electrical-company match are suggestive but the specific individual could not be directly confirmed.",
+    "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/electrician/hjd-capital-electric-inc-0825-30926",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a45c1954-5aec-4e5b-a83f-ff1e5df61263",
+    "name": "Gomez, Ernesto",
+    "resolved_employer": "CentroMed (El Centro del Barrio)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Ernesto Gomez, PhD, founder and longtime President & CEO of CentroMed (formerly El Centro del Barrio), a San Antonio federally qualified community health system operating ~27 clinics; former OLLU professor. Occupation (healthcare administrator/CEO) and CentroMed employer match.",
+    "source_url": "https://centromedsa.com/team/ernesto-gomez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a012371f-06c7-42de-a53d-30efb0e3a7fe",
+    "name": "Rodriguez, Johnathan",
+    "resolved_employer": "True Flavors Catering",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Listed as Manager at True Flavors, a San Antonio catering company owned by chef Johnny Hernandez; occupation and employer match record. Common name, no distinct public profile found for this individual.",
+    "source_url": "https://www.trueflavors.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "99028e5d-daa3-406f-b61c-0d6948a9e54b",
+    "name": "Mora, Ernest",
+    "resolved_employer": "Central Electric Enterprises & Co.",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "CFO of Central Electric Enterprises & Co. (San Antonio electrical contractor); a retired banker who joined the family-run firm in 2013. Public records tie an Ernest Mora to 2511 Old Gate Rd, 78230, matching the donor address.",
+    "source_url": "https://rocketreach.co/ernest-mora-email_145016852",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8834491f-8264-4b21-b841-81c61b9ab2e0",
+    "name": "Fallic, Jerome",
+    "resolved_employer": "Duty Free Americas",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Jerome Falic (record misspells as 'Fallic'), CEO of Duty Free Americas; donor address 6100 Hollywood Blvd, Hollywood FL is the DFA headquarters. One of three Falic brothers who own the chain; prominent pro-Israel/settlement funders.",
+    "source_url": "https://www.timesofisrael.com/us-duty-free-owners-give-millions-to-israeli-settlements/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Falic Family Private Foundation", "role": "President and director", "category": "pro_israel", "source_url": "https://www.aljazeera.com/news/2019/7/1/israel-settlements-funded-by-us-duty-free-tycoons", "snippet": "AP investigation found the Falic family donated at least $5.6M to settler organizations in the occupied West Bank and East Jerusalem; Jerome Falic is president/director of the family foundation, which distributed ~$20M to Jewish/pro-Israel causes over a decade."},
+      {"org": "Federal candidates (Canseco for Congress; Menendez for Senate)", "role": "Individual contributor", "category": "political", "source_url": "https://www.city-data.com/elec2/12/elec-BAL-HARBOUR-FL-12.html", "snippet": "FEC records list Jerome Falic (CEO, Duty Free Americas) making 2011 contributions of $2,400 to Canseco for Congress (R) and $2,500 to Menendez for Senate (D)."}
+    ]
+  },
+  {
+    "donor_id": "878cea6d-b43a-42c1-b0b0-b614c3e27b20",
+    "name": "Kaliski, David",
+    "resolved_employer": "Hoblit Darling Ralls Hernandez & Hudlow, LLP",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "David M. Kaliski, San Antonio native attorney (practicing since 2002; Emory undergrad, St. Mary's JD) with Hoblit Darling Ralls Hernandez & Hudlow; State Bar of Texas listing confirms. Bio notes fourth-generation Temple Beth El membership (private religious membership, out of scope; no policy-advocacy role documented).",
+    "source_url": "https://www.zoominfo.com/p/David-Kaliski/6273643024",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "84219963-f615-485f-80e6-06bb2c610a1b",
+    "name": "Vasquez, Jenise",
+    "resolved_employer": "Self (business owner)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-described business owner at 16006 Ponderosa Pass, Helotes; same household as Silvestre Vasquez (Quatro Strategic Solutions, same address). A LinkedIn Jenise Vasquez lists Sr. DMV Consultant at Mission Fed Credit Union, which conflicts with the 'Self/business owner' record, so the specific business is unconfirmed.",
+    "source_url": "https://www.spokeo.com/Silvestre-Vasquez/Texas/San-Antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "78a7e522-5919-4d0d-bf6e-cd19b0a3360e",
+    "name": "Dominguez, Melissa",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "FEC individual records show a Melissa Dominguez, TX 78750 (an Austin ZIP), 'Not Employed' — a prolific small-dollar Democratic donor, consistent with the batch 'Not employed' occupation and high 41-donation count. Address-city mismatch (Austin ZIP vs SA batch) leaves the specific-person match short of high confidence.",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Melissa+Dominguez&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Multiple Democratic committees (Biden for President, Fair Fight Inc. PAC, Jaime Harrison, Mark Kelly, Gary Peters, Amy McGrath)", "role": "recurring small-dollar individual donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Melissa+Dominguez&contributor_state=TX", "snippet": "FEC records list numerous small-dollar contributions from Melissa Dominguez, 78750, Not Employed, to Democratic federal candidates and PACs incl. Fair Fight (2020 cycle)."}
+    ]
+  },
+  {
+    "donor_id": "715dc2de-e22b-451b-a9ac-e2f5d6e5d28b",
+    "name": "Teeter, B. Scott",
+    "resolved_employer": "Bitterblue, Inc.",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "President & Managing Partner of Bitterblue, Inc., a San Antonio commercial/residential real-estate development firm. 25+ yrs land acquisition/development (Lennar, Ryland, Centex); Wharton MBA. Past president Greater San Antonio Builders' Association; member Real Estate Council of San Antonio and Urban Land Institute. FEC confirms identity: 'Teeter, Scott,' San Antonio 78248, Ryland Homes, Land Acquisition & Development.",
+    "source_url": "https://www.bitterblueinvestments.com/team/scott-teeter",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "RickPerry.org Inc (Rick Perry presidential committee)", "role": "individual donor ($1,000, 2011)", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Scott+Teeter&contributor_state=TX", "snippet": "FEC: Teeter, Scott, San Antonio 78248, Ryland Homes / Land Acquisition & Development, $1,000 to RickPerry.org Inc on 2011-08-29."},
+      {"org": "Greater San Antonio Builders' Association / Real Estate Council of San Antonio / Urban Land Institute", "role": "past GSABA president; RECSA & ULI member", "category": "business", "source_url": "https://www.bitterblueinvestments.com/team/scott-teeter", "snippet": "Bio lists board roles at GSABA (president, VP, treasurer), Real Estate Council of San Antonio, and 30-year ULI membership."}
+    ]
+  },
+  {
+    "donor_id": "6f8ce8f8-222b-414e-805b-acb75169aa89",
+    "name": "Garza, Jamie",
+    "resolved_employer": "Self (business owner)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Generic 'Business Owner / Self' at 7664 Burshard Rd, 78263 (far SE San Antonio / Adkins area). Common name; no public professional profile, FEC record, or lobbyist registration confidently tied to this individual. Classified by occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "463db80a-dcf8-42a5-8deb-1095b4fad614",
+    "name": "Bar Yadin, Reuben",
+    "resolved_employer": "United Fashions of Texas (Melrose Family Fashions)",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "CEO of United Fashions of Texas, LLC, operator of Melrose Family Fashions (100+ apparel stores; HQ on Macro Dr, San Antonio 78218 — same street as donor's 2629 Macro Dr). Bar-Yadin family are Israeli-immigrant founders of Melrose; also active in real estate (CBG Commercial Real Estate). FEC lists him at San Antonio 78218/78231, employer CBG/United Fashions.",
+    "source_url": "https://www.linkedin.com/in/reuben-bar-yadin-b978b3b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "United Democracy Project (AIPAC-affiliated super PAC)", "role": "major donor ($25,000 in 2023; $12,500 in 2022)", "category": "aipac_direct", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Bar-Yadin&contributor_state=TX", "snippet": "FEC: Reuben Bar Yadin, San Antonio, CBG Real Estate, contributed $25,000 (2023-06-21) and $12,500 (2022-08-31) to United Democracy Project."},
+      {"org": "AIPAC PAC", "role": "donor ($1,000, 2024)", "category": "aipac_direct", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Bar-Yadin&contributor_state=TX", "snippet": "FEC: Reuben Bar Yadin, San Antonio 78231, CBG / Real Estate Developer, $1,000 to AIPAC PAC on 2024-04-29. Household member Tzipora Bar Yadin also gave $25,000 to United Democracy Project in 2023 and 2024."}
+    ]
+  },
+  {
+    "donor_id": "4207e056-c2d2-4626-8eca-f68efe6e62b7",
+    "name": "Riley, Erika",
+    "resolved_employer": "Self (business owner)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Generic 'Business Owner / Self' at 367 Gilbert Ln, 78213 (near-north San Antonio). Common name; no public professional profile, FEC contribution record, or lobbyist registration confidently matched. Classified by occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "22c58b66-b977-4111-9b4c-1ba8231f17f4",
+    "name": "Vasquez, Silvestre",
+    "resolved_employer": "Quatro Strategic Solutions (principal/owner)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "LinkedIn 'Silver Vasquez, Principal, Quatro Strategic Solutions' (San Antonio) matches the Helotes household and 'Business Owner/Self' occupation; public-affairs/strategic-communications consultant. Career history is heavily oil & gas: former corporate manager external affairs at Hilcorp and communications roles at Chesapeake Energy (past employers, not current advocacy roles). No FEC PAC contributions or lobbyist registration found.",
+    "source_url": "https://www.linkedin.com/in/silver-vasquez-05022842",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1b3cf62e-e4d4-463f-8bd7-f814d95c9afb",
+    "name": "Griffin, James",
+    "resolved_employer": "Killen, Griffin & Farrimond, PLLC",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Founding partner of KGF, a San Antonio land-use/zoning/economic-development/government-relations law firm (J.D. St. Mary's 2007). Registered City of San Antonio lobbyist representing dozens of real estate/development clients (e.g., MPII Inc., Encore Multi-Family, HG Property Management) on land-use/zoning matters before the City. No personal FEC PAC contributions matched.",
+    "source_url": "https://webapp1.sanantonio.gov/lobbyistsearch/Search.aspx?AgentLink=James+Griffin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio Lobbyist Registry", "role": "Registered lobbyist (land use/zoning, representing real estate & development clients before the City incl. the Council)", "category": "political", "source_url": "https://webapp1.sanantonio.gov/lobbyistsearch/Search.aspx?AgentLink=James+Griffin", "snippet": "Agent Mr. James B Griffin, firm Killen, Griffin and Farrimond PLLC; clients incl. MPII Inc., Encore Multi-Family LLC, HG Property Management LP; 'Land Use Issues'/zoning matters."}
+    ]
+  },
+  {
+    "donor_id": "0da42833-7803-4ff5-b585-ae8caeaeedaf",
+    "name": "Bar Yadin, Deborah",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as 'Not employed.' No independent public profile, FEC PAC contributions, or lobbyist registration located. Shares surname and Shavano Park household context with Reuben Bar Yadin (United Fashions of Texas CEO / AIPAC-aligned donor); likely spouse/household member, but no documented individual affiliations.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "03a49158-adc4-44ad-a97c-eb34d2302a76",
+    "name": "Kelly, Tom",
+    "resolved_employer": "Falcon Aviation (as reported; company not independently confirmed in San Antonio)",
+    "industry": "Transportation",
+    "confidence": "low",
+    "evidence": "Self-reported pilot at 'Falcon Aviation.' Could not confirm the specific individual or a San Antonio company by that exact name (only Falcon Crest Aviation Supply is in SA). Common name; no distinctive profile, FEC PAC contributions, or lobbyist registration tied to this person. Zip 78234 is the Fort Sam Houston/Government Hill area. Industry classified from occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c9b99d82-a673-4086-9915-4dac25dbf6ad",
+    "name": "Barton, Kevin",
+    "resolved_employer": "Texas A&M University-San Antonio",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Kevin A. Barton, Ph.D., Instructional Associate Professor of Computer Information Systems at Texas A&M University-San Antonio (information security, security governance, digital forensics); confirmed via university CV, faculty roster, and LinkedIn. Formerly at Our Lady of the Lake University 2008-2013. No FEC PAC contributions or lobbyist registration found.",
+    "source_url": "https://apps.tamusa.edu/course-information/cv/kbarton/Kevin-Barton-CV.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

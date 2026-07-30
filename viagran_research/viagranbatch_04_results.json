@@ -1,0 +1,235 @@
+[
+ {
+  "donor_id": "d7401d32-ed18-4c4e-bbde-da9904d1b174",
+  "name": "Naiser, Derek",
+  "resolved_employer": "Ardurra Group (Central Region Operations Director & Managing Principal; civil/PE)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Derek Naiser, PE, is a registered Texas civil engineer and Managing Principal/Central Region Operations Director at Ardurra Group in San Antonio; ~33 yrs in transportation, water/wastewater and drainage infrastructure. Matches donor employer 'Ardurra' and occupation 'Engineer'.",
+  "source_url": "https://www.linkedin.com/in/derek-naiser-pe-a2447811/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d2b9855c-83ad-47f3-8923-c7c1cb5ee0d3",
+  "name": "Ferdin, Linda",
+  "resolved_employer": "Self-employed (associated with Joel's Collision Repair, a family auto-body business; co-resident Joel Ferdin)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Linda L Ferdin is listed at 2 Walden Elms, San Antonio 78257 (The Dominion) alongside Joel Ferdin; LinkedIn shows a Linda Ferdin as office manager at Joel's Collision Repair. Donor self-reports 'Self employed.' Identity plausible but not fully corroborated.",
+  "source_url": "https://www.linkedin.com/in/linda-ferdin-102933121/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d23f5804-0ad6-4b63-b83a-2b29826abff7",
+  "name": "Garza, Alejandra",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm the specific Alejandra Garza at 7126 Sunrise Terrace, San Antonio 78244 (NE side). Multiple same-named individuals in San Antonio (UTSA grad, LPC therapist, others); none tied to this address/occupation ('Self Employed'). Identity unresolved. Shares household address with 'Garza, Fernanda' in this batch.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c57c9e2a-c090-4bf1-8d25-d5fc86f3f0e4",
+  "name": "Acuna, Mark",
+  "resolved_employer": "Martinez & Associates, PLLC (trial attorney; personal injury / labor-employment / commercial litigation)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Mark Anthony Acuna is a Texas- and New Mexico-licensed trial attorney (25+ yrs) at Martinez & Associates, 2828 Goliad Rd Ste 125, San Antonio 78223 — matching the donor address 2829 Goliad, 78223. Donor occupation blank but address ties directly to the law firm.",
+  "source_url": "https://www.avvo.com/attorneys/78223-tx-mark-acuna-1804967.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c1fc6f4f-243d-466a-adc7-bd5b0ad6f8cb",
+  "name": "Gonzalez, Mary",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Address parses to 11703 Bridge Hampton, a residential home in the far-West-Side 78251 zip of San Antonio. 'Mary Gonzalez' is an extremely common name; no occupation/employer given and no public profile could be tied to this specific person. 0 FEC donations. Identity not confirmed.",
+  "source_url": "https://blockshopper.com/tx/bexar-county/cities/san-antonio/streets/bridge-hampton",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c0583706-b07c-46e0-a396-7f23324d626a",
+  "name": "Blackburn, Paul",
+  "resolved_employer": "Blackburn Properties (real estate developer/investor)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Paul Blackburn owns Blackburn Properties, a San Antonio real estate firm established 1995 at 8100 Broadway (78209); public filings show a multi-property portfolio held across holding companies in Bexar and nearby counties. Occupation, employer, and address all match. No TX/city lobbyist registration or ideological PAC giving found.",
+  "source_url": "https://www.linkedin.com/in/paul-blackburn-2844959/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bf240827-7119-4140-ba58-22d0905805a1",
+  "name": "Rodriguez, Marc",
+  "resolved_employer": "The Offices of Marc A. Rodriguez / Texas Lobby Partners (government-relations lobbyist)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Marc A. Rodriguez is a founding partner of Texas Lobby Partners, a registered Texas lobbyist for 26+ years based at exactly 1122 Colorado St., Suite 2399, Austin 78701 (address matches). Former City of San Antonio intergovernmental-relations manager and Greater SA Chamber VP; clients include Apple, TikTok, CPS Energy, City of San Antonio, SAWS, and Bexar County. 131 FEC donations consistent with a career lobbyist; no specific ideological PAC identified.",
+  "source_url": "https://www.officesofmarcarodriguez.com/whoweare",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Ethics Commission lobbyist registry", "role": "Registered lobbyist (government-relations consultant, 13+ consecutive TX legislative sessions)", "category": "political", "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/marc-a-rodriguez-27635", "snippet": "Marc A. Rodriguez, registered Texas lobbyist, office at 1122 Colorado St., Suite 2399, Austin 78701; clients including Apple, CPS Energy, City of San Antonio."},
+   {"org": "U.S. Hispanic Chamber of Commerce", "role": "Past Chairman", "category": "business", "source_url": "https://www.officesofmarcarodriguez.com/whoweare", "snippet": "He held the position of Past Chairman of the U.S. Hispanic Chamber of Commerce and served on Greater Austin/San Antonio Hispanic Chamber boards."}
+  ]
+ },
+ {
+  "donor_id": "bd27d70e-502e-4911-88c9-c49ca2963126",
+  "name": "Kowalski, Rosemary",
+  "resolved_employer": "Catering by Rosemary / The RK Group, founder (retired; deceased 2023 at age 100)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Rosemary Kowalski was the well-known San Antonio founder of Catering by Rosemary, which grew into The RK Group hospitality/catering empire (HemisFair '68 contract; catered for U.S. presidents, Pope John Paul II, Queen Elizabeth II). Texas Business Hall of Fame 2004; noted local philanthropist. Resided at Towers Park Lane, 78209 (alive at the 2021 donation date; died 2023).",
+  "source_url": "https://sanantonioreport.org/san-antonio-catering-legend-rosemary-kowalski-dies-at-100/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Area Foundation / San Antonio civic philanthropy", "role": "Longtime philanthropist and civic benefactor", "category": "civic", "source_url": "https://saafdn.org/an-icon-in-philanthropy-remembering-rosemary-kowalski/", "snippet": "Remembered as 'An Icon In Philanthropy,' Rosemary Kowalski was a major San Antonio civic and charitable benefactor."}
+  ]
+ },
+ {
+  "donor_id": "b4ca0396-3e51-4f00-b1e2-3de0a1005ea6",
+  "name": "Walker, Sophie",
+  "resolved_employer": "Homemaker",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Out-of-state donor listing herself as a homemaker in Boulder, CO. A 'Sophie Walker' (with husband Jack Walker) is a longtime Boulder arts philanthropist/Community Foundation Boulder County partner since 1992, but the 4900 Thunderbird Dr identity could not be firmly tied to that profile; reason for giving to a San Antonio D3 race is undocumented.",
+  "source_url": "https://www.commfound.org/blog/community-partner-profile-sophie-and-jack-walker/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b484de21-a0cd-4e3a-a405-2c2515ba54bc",
+  "name": "Teeter, Sandra",
+  "resolved_employer": "Owner/manager, Acton Academy San Antonio LLC & SST Wash LLC",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "CorporationWiki lists Sandra Teeter as manager of Acton Academy San Antonio LLC (a private micro-school) and SST Wash LLC, both registered at 15522 Clover Ridge, San Antonio 78248 — an exact address match to the donor record.",
+  "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/sandra-teeter/107337990.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b0d954cc-82ed-407a-b80e-0dcdc99d4078",
+  "name": "Morgan, Jefferyphillip",
+  "resolved_employer": "CEO, The Morgan Group, Inc. (Houston multifamily developer)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "'Jefferyphillip Morgan' resolves to (J.) Philip Morgan, third-generation CEO of Houston-based apartment developer Morgan Group; donor address 5606 South Rice Ave 77081 is the company HQ. Wharton grad, has led development/acquisition of 16,000+ units worth $3.8B+.",
+  "source_url": "https://www.morgangroup.com/our-team/philip-morgan/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "National Multifamily Housing Council (NMHC)", "role": "Member", "category": "business", "source_url": "https://www.morgangroup.com/our-team/philip-morgan/", "snippet": "Bio lists him as a member of the National Multifamily Housing Council, the multifamily industry's trade/advocacy body."},
+   {"org": "National Association of Home Builders (NAHB)", "role": "Multifamily Leadership Board member", "category": "business", "source_url": "https://www.morgangroup.com/our-team/philip-morgan/", "snippet": "Bio lists membership on NAHB's Multifamily Leadership Board, a homebuilding industry group."}
+  ]
+ },
+ {
+  "donor_id": "ad71ac52-050a-42b3-8b0d-b7b70da0df00",
+  "name": "Morgan, Kathryn",
+  "resolved_employer": "Executive, The Morgan Group, Inc.",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "FEC records list Kathryn Morgan of Houston zip 77057 (matches donor 77057) as an 'Executive' employed by 'The Morgan Group, Inc.,' confirming a tie to the same firm as Philip Morgan (donor 11); a $2,500 2024 gift to the multifamily-industry NMHC PAC.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Kathryn+Morgan&contributor_city=Houston",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "National Multifamily Housing Council PAC", "role": "Donor ($2,500, Nov 2024)", "category": "business", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Kathryn+Morgan&contributor_city=Houston", "snippet": "FEC shows a $2,500 contribution to the NMHC PAC, the multifamily housing industry trade PAC; no ideological/AIPAC/oil-gas/defense/gun PAC giving surfaced."}
+  ]
+ },
+ {
+  "donor_id": "aa9e9bad-3d1b-4b64-8f59-ea332ea719ec",
+  "name": "Martinez, Joe",
+  "resolved_employer": "Owner, R&J Saloon (R&J Saloon LLC), San Antonio",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Self-employed owner of R&J Saloon, a South Side sports bar/saloon at 4910 S Flores St 78214 (opened Nov 2017); LinkedIn profile 'Joe Martinez – R&J Lounge/Saloon' and R&J Saloon LLC listing corroborate the address and role.",
+  "source_url": "https://business.southtexaspartnership.org/list/member/r-j-saloon-llc-4247.htm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a894b4d1-7e5d-44cc-ad96-0857ff3c5473",
+  "name": "Bernal, Diana",
+  "resolved_employer": "Not Employed (retired)",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Retired/Not Employed San Antonio resident, zip 78250, confirmed in FEC records as a prolific small-dollar Democratic donor (ActBlue, Talarico for Texas, Beto O'Rourke's Powered by People, Allred for Texas) with dozens of recurring sub-$50 gifts through 2025-2026. No ideological-PAC (AIPAC/J Street/oil-gas/gun) giving and no lobbyist registration found.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Diana+Bernal&contributor_city=San+Antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a20c30f5-0039-482d-b730-a02fe792cf19",
+  "name": "GMG Health Systems, LTD",
+  "resolved_employer": "GMG Health Systems, Ltd. (operating name Gonzaba Medical Group), a San Antonio multi-specialty medical/primary-care group",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Corporate donor at 720 Pleasanton Rd is GMG Health Systems, Ltd., which does business as Gonzaba Medical Group, a South Side San Antonio physician group (primary care, radiology, PT, lab, occupational medicine) founded 1986; principal William Gonzaba, ~$43.7M revenue. No related PAC or Texas/City lobbyist registration found.",
+  "source_url": "https://www.dnb.com/business-directory/company-profiles.gmg_health_systems_ltd.fe86ac82d7d20ebf2455dc92229eadff.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a17e2304-42c1-44d1-890f-82926039ff7c",
+  "name": "Garza, Fernanda",
+  "resolved_employer": "Self-employed (nature of work undetermined)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-employed San Antonio resident, 7126 Sunrise Terrace, zip 78244 (shares household address with 'Garza, Alejandra' in this batch). No matching FEC federal contributions and no distinguishing public profile, bio, or lobbyist registration could be confirmed for this specific person; multiple same-named individuals exist.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Fernanda+Garza&contributor_city=San+Antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9e7dc442-2412-4677-8699-bc9627a260a1",
+  "name": "Huffman, Burdette",
+  "resolved_employer": "The Blue Ox Group (Houston commercial real estate brokerage) — Managing Partner/EVP; formerly Managing Partner at Lamb Communities (manufactured-housing/multifamily)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Burdette Huffman is a Houston commercial real estate broker/developer (~20 yrs experience, $750M+ in manufactured-housing, land, retail and industrial deals), Managing Partner/EVP of The Blue Ox Group and adjunct real estate professor at Rice University's Jones School; the donor's listed employer 'Lamb Communities' is a Texas/Louisiana manufactured-housing community operator where he was a managing partner. No ideological-PAC giving or lobbyist registration found.",
+  "source_url": "https://theblueoxgroup.com/our-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9e4c95ea-3393-4512-a79a-0abcb252d308",
+  "name": "Hausman, Harry",
+  "resolved_employer": "Owner/Principal, Hauser Holdings & HLH Development (real estate development), Helotes/San Antonio",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Real estate developer in the 78023 (Helotes/far NW San Antonio) area; FEC lists him as Owner of Hauser Holdings / Principal of HLH Development. Trustee of the Hausman Family Foundation and City of SA lobbyist client via Hunters Pond LLC on a TIRZ matter. FEC donations ($9,600 across 5 gifts) went to Democrats Roland Gutierrez and Henry Cuellar.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Harry+Hausman",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Hunters Pond LLC", "role": "Client/contact (registered lobbying representation)", "category": "business", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx?ClientLink=Harry+Hausman", "snippet": "Listed as 'Hunters Pond LLC (c/o Harry Hausman)' represented by Killen, Griffin and Farrimond on a City of San Antonio TIRZ (Tax Increment Reinvestment Zone) matter."},
+   {"org": "Hausman Family Foundation", "role": "Trustee", "category": "civic", "source_url": "https://www.causeiq.com/organizations/hausman-family-foundation,934063054/", "snippet": "Private San Antonio grantmaking family foundation; Harry Hausman listed as one of three trustees alongside Hunter Hausman and Heather Love."}
+  ]
+ },
+ {
+  "donor_id": "9dc4cc63-577a-4898-85a9-a5d9bad63ec7",
+  "name": "Garcia, Cesar",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed only as 'Self Employed'; address 7126 Rockly Dr parses to Leander but the 78239 zip is northeast San Antonio (Windcrest area) — an unresolved discrepancy. No FEC contribution or public profile could be matched to a Cesar Garcia at zip 78239 among the many same-named individuals; identity unconfirmed.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_zip=78239&contributor_name=Garcia",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9db7c5dc-eea3-47be-84c0-169bc1720cb4",
+  "name": "Sanchez, Christine",
+  "resolved_employer": "USAA (Senior Digital Product Manager / Senior Strategic Innovation Advisor)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Corroborated to a USAA (San Antonio) professional whose title history matches the donor occupation strings exactly — 'Senior Digital Product Manager' (2016-2022) and Senior (Strategic) Innovation Advisor (2022+); publicly profiled under surname Zaragoza (apparent name change), UTSA BBA. Digital-product/innovation role at USAA supports a Technology classification.",
+  "source_url": "https://www.signalhire.com/profiles/christine-sanchez's-email/196498265",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

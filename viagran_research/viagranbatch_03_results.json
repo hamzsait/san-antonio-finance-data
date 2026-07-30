@@ -1,0 +1,239 @@
+[
+ {
+  "donor_id": "d41a8b19-694c-421e-ba1f-d029932473b0",
+  "name": "Gonzalez, H. Analco",
+  "resolved_employer": "OCI Group (Our Community Inc.) - Co-Founder & Managing Partner; also OCI Development",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Co-founder/managing partner of OCI Group, a San Antonio government-relations/public-affairs consulting firm (est. 2009); registered Texas lobbyist. Adjunct professor at OLLU. Location/occupation match donor record.",
+  "source_url": "https://www.oci-group.com/analco",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+    {"org": "Texas Ethics Commission (registered lobbyist)", "role": "Registered lobbyist", "category": "business", "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/h-analco-gonzalez-81369", "snippet": "H Analco Gonzalez listed as a Texas Lobbyist; leads OCI Group's government relations and public policy initiatives."},
+    {"org": "The Alliance of Latina/o Leadership & Policy (ALLP)", "role": "Board member", "category": "civic", "source_url": "https://www.oci-group.com/analco", "snippet": "Bio lists board membership on The Alliance of Latina/o Leadership & Policy and the National Alliance of Hispanic Families."}
+  ]
+ },
+ {
+  "donor_id": "74773fe2-482c-4acc-bd73-30000271eccc",
+  "name": "Fernandez, Anita",
+  "resolved_employer": "OCI Group (Our Community Inc.) - Co-Founder & Partner",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Co-founder/co-owner and partner at OCI Group public-affairs consulting firm; former Chief of Staff to a Texas State Representative. Sits on University Health Board of Managers and Community First Health Plans board. Location/occupation match.",
+  "source_url": "https://www.oci-group.com/anita",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+    {"org": "University Health / Community First Health Plans", "role": "Board of Managers / Board member", "category": "civic", "source_url": "https://www.oci-group.com/anita", "snippet": "Bio lists board roles on University Health Board of Managers and Community First Health Plans, plus founding board of Texas Women in Trades."}
+  ]
+ },
+ {
+  "donor_id": "12c7fe2b-1e08-48ed-a2b4-1b38e0770ccb",
+  "name": "Barratachea, Elizabeth",
+  "resolved_employer": "Bexar Facts (Executive Director/co-founder) & SATX Consultants (COO) - public affairs/polling",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Liza (Elizabeth) Barratachea: COO of SATX Consultants and ED/co-founder of Bexar Facts poll; 20+ yrs public affairs (ex-VP San Antonio Chamber, ex-Gov. Perry policy analyst). Elected San Antonio River Authority board director (2024). Zip 78216 matches.",
+  "source_url": "https://www.bexarfacts.org/team/liza-barratachea/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+    {"org": "San Antonio River Authority", "role": "Board Director (Bexar County At-large), elected 2024", "category": "political", "source_url": "https://ballotpedia.org/Liza_Gonzalez_Barratachea", "snippet": "Liza Gonzalez Barratachea is a member of the San Antonio River Authority representing Bexar County At-large, assumed office Jan 1, 2024."}
+  ]
+ },
+ {
+  "donor_id": "20414f20-29e0-4f36-a6c7-cf309b38fb76",
+  "name": "Gonzalez, Jane",
+  "resolved_employer": "MEDwheels Inc. - Founder, President/CEO & Owner (woman/minority-owned medical equipment & non-emergency medical transport)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Jane Salazar Gonzalez, San Antonio native, founded MEDwheels in 2005 after 20 yrs in corporate finance; woman- and minority-owned medical equipment/transport business. Owner occupation and San Antonio location match.",
+  "source_url": "https://medwheels.com/jane-gonzalez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "94e44bbe-89ab-45d6-ab27-22b48597b434",
+  "name": "Stewart, Hamilton",
+  "resolved_employer": "Self-employed (writer / court reporter); also listed as student",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "No public profile found matching this individual at 78214. Self-reported as self-employed writer/court reporter and student; categorized by occupation only. Identity not corroborated beyond the donation record.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2caf19d0-0ab5-4a5c-8a16-5d17bd4a9fed",
+  "name": "Bara, Joey",
+  "resolved_employer": "Retired (former career not identified in public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired donor with a Helotes PO Box (78023). Public-records databases show multiple 'Joey Bara' individuals in Texas (Muleshoe, San Angelo, Corinth); none could be tied to this Helotes retiree, and no bio or occupation is available. No PAC or lobbyist records found.",
+  "source_url": "https://www.spokeo.com/Joey-Bara/Texas",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "faa0e1e9-c368-44e7-b1d4-f9123ea0d4df",
+  "name": "Armstrong, Brenda",
+  "resolved_employer": "Possibly Brenda Dever-Armstrong, CEO/owner of The Next Horizon (senior/veteran care advisory) - not confirmed",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor at 2510 Inwood View Dr, 78248. A Brenda Dever-Armstrong runs 'The Next Horizon' senior-care advocacy business in the same Inwood/78248 area (business address 66 Inwood Heights Dr N), and people-search sites list a 'Brenda D Armstrong' at the donor's street. Same zip and neighborhood suggest a possible match, but differing street addresses and middle initials (D vs L) mean identity is not confirmed. No PAC or lobbyist records found.",
+  "source_url": "https://nexthorizonlocators.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f9fa3bf4-e13a-4712-a55c-98e85291a516",
+  "name": "Adams, Charisse",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor at 614 Many Oaks St, 78232. Multiple 'Charisse Adams' appear in public records across TX/CA (e.g., a LinkedIn profile tied to Tessie Cleveland Community Services Corp, likely California); none could be corroborated to this San Antonio address by occupation or other detail. No PAC or lobbyist records found. Shares the 614 Many Oaks St address with donor Harry Adams (likely same household).",
+  "source_url": "https://radaris.com/p/Charisse/Adams/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f40c1956-b580-4ca6-86e3-8962f846e35a",
+  "name": "Serna, Deborah Jean",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor at 20403 Terrabianca, 78258. Several Deborah/Debbie/Debra Serna records exist in San Antonio and elsewhere (one a realtor associated with Engel & Voelkers in Florida, another a San Antonio resident); none could be matched to this specific 78258 person or a confirmed occupation. No PAC or lobbyist records found.",
+  "source_url": "https://unmask.com/Debbie-Serna/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f2dec6d6-711a-4619-9906-6f6555fb8046",
+  "name": "Gonzaba, William",
+  "resolved_employer": "Founder, President & CEO, Gonzaba Medical Group / GMG Health Systems, Ltd.",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. William 'Bill' Gonzaba, family-medicine physician (practicing ~60 years) who founded and leads Gonzaba Medical Group, a prominent South-Side San Antonio senior-care/primary-care system headquartered at 720 Pleasanton Rd, 78214 - exactly matching the donor record. Clinical assistant professor at UT Health San Antonio; numerous chamber and medical-society honors.",
+  "source_url": "https://www.gonzaba.com/doctors/gonzaba-william-md-founder-ceo/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+    {"org": "Gonzaba Medical Group / GMG Health Systems, Ltd.", "role": "Founder, President & CEO", "category": "business", "source_url": "https://www.gonzaba.com/doctors/gonzaba-william-md-founder-ceo/", "snippet": "President & Chief Executive Officer of Gonzaba Medical Group; family-medicine physician who founded the San Antonio health system operating multiple senior/primary-care locations."}
+  ]
+ },
+ {
+  "donor_id": "eed49ff3-467d-4b7d-b19a-402a9597d7af",
+  "name": "Slay-Barber, Doris",
+  "resolved_employer": "Career public educator (41+ yrs, Northside ISD); teaches technology to seniors; listed as Manager of Lone Oak Village LLC",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "San Antonio Women's Hall of Fame president (2023-2025), lifelong SA resident, St. Mary's University Distinguished Alumna and University Trustee; long public-education career. FEC/OpenSecrets web search surfaced no itemized PAC giving; not in TEC lobbyist registry.",
+  "source_url": "https://sawomenshalloffame.org/about/doris-slay-barber/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+    {"org": "Texas Business & Professional Women / Business Women of San Antonio", "role": "Past President / officer", "category": "civic", "source_url": "https://sawomenshalloffame.org/about/doris-slay-barber/", "snippet": "officer positions with the Texas Business & Professional Women's Foundation, Texas Business Women of San Antonio ... all focused on scholarship fundraising"},
+    {"org": "LBJ Women's Campaign School", "role": "Officer/supporter", "category": "civic", "source_url": "https://sawomenshalloffame.org/about/doris-slay-barber/", "snippet": "officer positions with multiple nonprofits: ... the LBJ Women's Campaign School"}
+  ]
+ },
+ {
+  "donor_id": "ed17f701-a828-4f2f-9dab-70fa04cf0abc",
+  "name": "stein, jessica",
+  "resolved_employer": "Customer Business Lead (sales) at Mars, Inc.",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "LinkedIn 'Jessica Stein - Customer Business Lead at Mars' with UTSA education and San Antonio location matches employer 'Mars' and occupation 'sales'; consistent with consumer-packaged-goods account sales for Mars/Mars Wrigley. FEC/OpenSecrets web search surfaced no identifiable ideological-PAC record for the 78204 individual; not in TEC lobbyist registry.",
+  "source_url": "https://www.linkedin.com/in/jessica-stein-39a297b9/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ec186c82-04e9-4c37-8995-33fd511c12b4",
+  "name": "Bernal, Frank",
+  "resolved_employer": "Retired (former career not publicly identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Common name with many same-named San Antonio individuals; could not confirm the specific retiree at zip 78250. FEC web search returned no identifiable itemized PAC recipients for him (donor record notes a strongly Democratic-leaning federal giving pattern); not in TEC lobbyist registry.",
+  "source_url": "https://www.spokeo.com/Frank-Bernal",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e5f607b1-14ff-4913-bb3f-5c31103edf10",
+  "name": "Adams, Harry",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Very common name; multiple Harry Adams in San Antonio (a deceased attorney, a Stream Realty broker, others). No occupation on the donor record. FEC web search surfaced no identifiable itemized PAC record tied to the 78232 individual; not in TEC lobbyist registry. Shares the 614 Many Oaks St address with donor Charisse Adams (likely same household).",
+  "source_url": "https://www.spokeo.com/Harry-Adams/Texas",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e42ff08f-bd62-4961-b19b-1c0a51221b31",
+  "name": "Van de Putte, Henry",
+  "resolved_employer": "President & CEO, Meals on Wheels Central Texas (formerly Regional CEO, American Red Cross of the Texas Gulf Coast, 2018-2022)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Henry P. Van de Putte III, son of former TX State Sen. Leticia Van de Putte; St. Mary's University grad; prior roles at Dixie Flag Mfg (family company) and Central Catholic HS; career nonprofit executive now leading Meals on Wheels Central Texas. FEC/OpenSecrets web search surfaced no itemized ideological-PAC recipients; not in TEC lobbyist registry.",
+  "source_url": "https://www.mealsonwheelscentraltexas.org/about-us/henry-van-de-putte",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+    {"org": "Van de Putte political family", "role": "Son of former TX State Senator Leticia Van de Putte (D-26)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Leticia_Van_de_Putte", "snippet": "Leticia Van de Putte and her husband Pete have six children: Nichole, Vanessa, Henry, Gregory, Isabella and Paul"}
+  ]
+ },
+ {
+  "donor_id": "e35b7525-047e-43b1-8526-7a86bcc47f58",
+  "name": "Embrey, Walter",
+  "resolved_employer": "Founder & Chairman, Embrey Partners, Ltd. (Embrey), major San Antonio multifamily real-estate developer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Walter M. Embrey Jr., native San Antonian, UT-Austin BBA Finance 1968; founded Embrey Investments (now Embrey Partners) in 1974, developed 50,000+ apartment homes/50M+ sq ft; SA Business Hall of Fame 2022. Address/occupation/employer all match the firm at 1020 NE Loop 410.",
+  "source_url": "https://texasbusiness.org/walter-embrey/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+    {"org": "National Multifamily Housing Council / RECSA (Real Estate Council of San Antonio)", "role": "Leadership roles / founding member", "category": "business", "source_url": "https://texasbusiness.org/walter-embrey/", "snippet": "served in leadership roles with ... the National Multifamily Housing Council ... and was a founding member of RECSA"},
+    {"org": "Republican National Committee", "role": "Donor", "category": "political", "source_url": "http://www.city-data.com/elec2/96/elec-SAN-ANTONIO-TX-96-part4.html", "snippet": "Walter M. Embrey made a $250 contribution to the Republican National Committee (RNC) on September 17, 1996. No AIPAC/pro-Israel, pro-Palestine, oil/gas or gun PAC ties found; not a registered TX lobbyist (only Celeste and Ty Embrey appear on TEC lists)."}
+  ]
+ },
+ {
+  "donor_id": "e093df2d-0022-4199-bdfd-d46163aeb140",
+  "name": "Martinez, Jessica Diego",
+  "resolved_employer": "Office manager / comptroller-paralegal at Martinez & Associates, PLLC (San Antonio personal-injury law firm)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Jessica Martinez is listed as office manager at Martinez & Associates, PLLC, a San Antonio personal-injury firm; occupation 'Paralegal/comptroller' and employer string match exactly. Only 2 FEC donations; a dedicated FEC-contribution search surfaced no identifiable federal PAC activity, and no TX Ethics Commission lobbyist registration exists for her.",
+  "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawfirm/martinez-and-associates-pllc/1ffcf981-bf83-49a7-839a-f4132b399857.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dbdc0f8e-13a3-4f2e-8125-5786b78cc8e5",
+  "name": "Cohen, Kenneth",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Hollywood FL (zip 33019) donor with 214 FEC donations, indicating a prolific small-dollar/recurring giver, but 'Kenneth Cohen' is a very common name and no occupation/employer was provided. FEC line-items could not be retrieved (FEC API rate-limited, OpenSecrets blocked) so identity, industry and partisan/ideological lean are unconfirmed; no AIPAC/pro-Israel, pro-Palestine, oil-gas, gun or defense PAC ties could be verified either way.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d9b0f765-bcc1-4da9-a63f-f72de6c4b047",
+  "name": "Garcia, Abel",
+  "resolved_employer": "Self-employed (nature of business unknown)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed as Self Employed with 218 FEC donations (heavy recurring small-dollar donor pattern), but 'Abel Garcia' is a very common name and the record has conflicting geography (zip 78121 is the St. Hedwig/Floresville area southeast of San Antonio, while the location string says Leander). Cannot confirm the specific individual or side; no verifiable public profile or PAC affiliations.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d9131ef8-815e-450b-abab-3d11334dce88",
+  "name": "Teeter, Scott",
+  "resolved_employer": "Likely Scott Teeter, President & Managing Partner of Bitterblue (San Antonio-area land/real-estate investment & development firm); self-described 'Business Owner / Self'",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Best match is Scott Teeter, President & Managing Partner at Bitterblue (San Antonio-metro real-estate development; ex-Heartwood/Centex/Lennar land developer, Wharton MBA), which fits a SW-Austin (78736) exec donating to a San Antonio council race. Not confirmed: a second Austin 'Scott Teeter' owns Teeter's Courier Service, and only 1 FEC donation exists, so identity is not certain. FEC-contribution search returned no identifiable line-item; not a registered TX lobbyist.",
+  "source_url": "https://www.linkedin.com/in/scott-teeter-7ba1427/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

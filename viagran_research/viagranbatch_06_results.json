@@ -1,0 +1,243 @@
+[
+ {
+  "donor_id": "53f60f6f-5d2f-4d7d-9d63-34709f0b207c",
+  "name": "GArcia, Emma",
+  "resolved_employer": "Self-Employed (no specific business identified)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Listed as Self Employed. Address is internally inconsistent — '629 Rockly Drive, Leander, TX 78239': Rockly Drive at ZIP 78239 is in NE San Antonio, not Leander (78641). 'Emma Garcia' is an extremely common name and could not be uniquely corroborated to a single individual. The very high FEC donation count (246) with a 'Self Employed' occupation fits the signature of small-dollar recurring ActBlue giving to Democratic committees rather than large ideological-PAC checks; however, itemized committee records could not be retrieved (FEC API rate-limited), so no specific PACs were verified. No AIPAC/UDP, J Street, oil & gas, gun, or defense PAC activity confirmed. No TX lobbyist registration; no public bio to read.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Emma+Garcia&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "528596ca-1e01-4699-9046-d27f229ab3b9",
+  "name": "Mireles, Melinda",
+  "resolved_employer": "Mireles Party Kegs / Mireles Party Ice (San Antonio beverage & ice retail; co-owner with husband Jesus 'Jesse' Mireles)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Melinda Mireles is co-owner/operator of the Mireles family business with husband Jesus 'Jesse' Mireles. Per San Antonio SBDC profiles, 'Mireles Party Ice, owned and operated by Jesus \"Jesse\" Mireles and wife, Melinda,' began as a neighborhood grocery that became the largest keg distributor in San Antonio before expanding into ice manufacturing (first plant 2001). Mireles Party Kegs (3630 Culebra Rd) sells draft-beer kegs and ice — a small beverage/retail business. FEC count 0; no PAC activity. No TX lobbyist registration. Quiet outcome.",
+  "source_url": "https://americassbdc.org/mireles-ice-plant-manufacture-350-tons-daily/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "51e4c013-4fe0-410d-9c3e-c6c61efbbb8b",
+  "name": "Tips, Robert",
+  "resolved_employer": "Mission Park Funeral Chapels, Cemeteries & Crematories (co-owner / President & CEO) — Robert D. 'Dick' Tips",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Robert 'Dick' Tips is co-owner and President/CEO of Mission Park Funeral Chapels & Cemeteries, the largest family-owned funeral service provider in Texas (PO Box 14000 / South Side SA matches the filing). A major Republican donor: $187,796 to Gov. Greg Abbott's PAC 'Texans for Greg Abbott' (2002-2024); in June 2025 Abbott appointed him to the Texas Historical Commission (term to 2031). Known for local historic-preservation work. No AIPAC/pro-Israel/oil-gas/gun ideological PAC pattern surfaced; giving is Texas GOP establishment. No TX Ethics Commission lobbyist registration found.",
+  "source_url": "https://gov.texas.gov/news/post/governor-abbott-appoints-six-to-texas-historical-commission",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Mission Park Funeral Chapels, Cemeteries & Crematories", "role": "Co-owner / President & CEO", "category": "business", "source_url": "https://www.missionparks.com/about-us/about-mission-park", "snippet": "Robert 'Dick' Tips and wife Kristin Tips are co-owners; he built Mission Park into the largest family-owned funeral service provider in Texas."},
+   {"org": "Texas Historical Commission", "role": "Commissioner (appointed by Gov. Abbott, June 2025, term to Feb 1 2031)", "category": "political", "source_url": "https://gov.texas.gov/news/post/governor-abbott-appoints-six-to-texas-historical-commission", "snippet": "Governor Abbott appointed Dick Tips, owner of Mission Park Funeral Chapels & Cemeteries, to the Texas Historical Commission."},
+   {"org": "Texans for Greg Abbott (Abbott campaign PAC)", "role": "Major individual donor ($187,796, 2002-2024)", "category": "political", "source_url": "https://www.keranews.org/government/2025-09-10/texas-funeral-service-commission-texas-legislature-kristin-tips-scott-bingaman-lobbying", "snippet": "Robert Tips donated $187,796 to Abbott's PAC between 2002 and 2024; the Tipses are longtime Abbott donors."}
+  ]
+ },
+ {
+  "donor_id": "51cdd92b-5ea7-4f6b-8e60-fd86c362a1a6",
+  "name": "Ernst, John",
+  "resolved_employer": "Self-employed contractor (no registered firm identified)",
+  "industry": "Construction",
+  "confidence": "low",
+  "evidence": "Occupation 'Contractor', employer 'Self'; 9386 Huebner Rd, San Antonio 78240. Categorize-by-employer fallback: no public bio, LinkedIn, firm page, or TDLR/business listing could be matched to this specific individual beyond the generic self-employed contractor occupation. Classified by industry only (Construction). FEC count 81 — no ideological-PAC activity surfaced. No TX lobbyist registration. Quiet outcome.",
+  "source_url": "https://www.ethics.state.tx.us/search/lobby/LobbySimpleSearch.php",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "503ce024-fb7a-41e0-8238-6288f121ae32",
+  "name": "Poppoom, Nancy",
+  "resolved_employer": "Nancy Poppoon — affordable-housing consultant associated with Louis Poppoon Development & Consulting, Ltd. (LPDC), a San Antonio LIHTC/affordable-multifamily developer",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "'Poppoom' is a transcription of the surname 'Poppoon.' The filing (Affordable Housing Consultant, Self-Employed, San Antonio 78229) matches the Poppoon family firm Louis Poppoon Development & Consulting, Ltd. (office at 1618 Lockhill Selma, 78229), an affordable/tax-credit multifamily developer led by Stephen J. Poppoon. Nancy Poppoon appears in San Antonio Housing Trust Public Facility Corporation records tied to affordable-housing matters. Her precise LPDC title is not published, hence medium confidence. FEC count 0; no TEC/City of SA lobbyist registration found.",
+  "source_url": "https://www.lpdevelop.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Louis Poppoon Development & Consulting, Ltd. (LPDC)", "role": "Affordable-housing consultant (Poppoon-family LIHTC/affordable multifamily development firm)", "category": "business", "source_url": "https://www.lpdevelop.com/", "snippet": "LPDC is a San Antonio affordable/tax-credit multifamily developer (projects incl. Majestic Ranch for Opportunity Home, Bear Springs for the Housing Authority of Bexar County); Nancy Poppoon appears in SA Housing Trust PFC records on affordable-housing matters."}
+  ]
+ },
+ {
+  "donor_id": "502c5eac-4279-47a7-b6f4-81b602d5624c",
+  "name": "Marsh, charles",
+  "resolved_employer": "Entrada Development (San Antonio real estate; office at 8023 Vantage Dr / Callaghan Tower, 78230)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Occupation 'Real Estate' with employer 'Entrada Development' at 8023 Vantage Drive, a Class A office building (Callaghan Tower) in 78230. Entrada is a San Antonio real-estate development/investment name; the industry classification is solid but 'Charles Marsh' is a common name with no personal bio page found, so identity confidence is medium. FEC record shows 214 contributions but itemization was rate-limited; general OpenSecrets/FEC searches surfaced no ideological/PAC (AIPAC/UDP/J Street/DMFI, oil & gas, gun, defense) tie to this specific person. Not found in TX Ethics Commission lobbyist lists (2021-2026).",
+  "source_url": "https://www.loopnet.com/Listing/8023-Vantage-Dr-San-Antonio-TX/4053385/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ec6920f-b256-4b37-8dcc-215ea056de68",
+  "name": "Cude, Joshua",
+  "resolved_employer": "Cude Engineers (M.W. Cude Engineers, L.L.C.) — President & CEO",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Listed as 'Engineer / Self-Employed' at ZIP 78006 (Boerne). Joshua (Josh) Michael Cude is President & CEO of Cude Engineers, a San Antonio civil-engineering, land-planning and surveying firm founded 1980 (offices in San Antonio, Austin, San Marcos, Laredo). Per the firm's leadership page he holds a B.S. in Civil Engineering from UTSA, became Managing Partner in 2011, then President and CEO; CorporationWiki lists him as President of M.W. Cude Engineers, L.L.C. Identity corroborated by engineer occupation + San Antonio/Boerne-area location + firm ownership (explaining the 'Self-Employed' descriptor). Full bio: no board seats, civic org, or ideological/PAC memberships. FEC count 2; no ideological-PAC activity. No TX lobbyist registration. Quiet outcome.",
+  "source_url": "https://www.cudeengineers.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4e6d381b-b916-4dc2-8fab-b9e4cabd7d65",
+  "name": "Oneil, Rebecca",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Shares household address (854 Fawnway, San Antonio 78260) with Casey O'Neil — spouse/household donor pattern. No occupation or employer in the record and no independent public profile could be found tying Rebecca O'Neil to any employer or organization. FEC count 2; no ideological/PAC (any side) activity surfaced. Not found in TX Ethics Commission lobbyist lists. Industry left null (no generic occupation to fall back on). Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ae2d473-bc97-4836-88f5-1ef8e7caeade",
+  "name": "Oneil, Casey",
+  "resolved_employer": "Glacier Homes / Glacier Custom Homes (President, San Antonio Operations, per record); co-founder of Ramey & O'Neil Custom Builders, San Antonio",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Record lists 'President, San Antonio Operations at Glacier Homes' (Glacier Custom Homes builds custom/on-your-lot homes in San Antonio and DFW). Casey O'Neil is publicly documented as co-founder of Ramey & O'Neil Custom Builders; his firm About page describes 20+ years in land acquisition, entitlement and development and work for a national homebuilder securing San Antonio parcels — consistent with the Glacier leadership role. Homebuilding/land-development classified as Real Estate. The Glacier-record-to-Ramey&O'Neil identity link is strong but inferential, hence medium. Not in TX Ethics Commission lobbyist lists; FEC count 4 with no ideological-PAC footprint surfaced.",
+  "source_url": "https://www.rameyoneil.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "47813b52-bf47-43d0-848b-98676af5f2c0",
+  "name": "Belmares, Niki",
+  "resolved_employer": "Homemaker",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported occupation/employer is Homemaker (78222, SE side San Antonio). A LinkedIn profile lists a 'Niki Belmares' as an HR Director in San Antonio, but that conflicts with the self-reported homemaker status and identity could not be confirmed to the same person, so it is not attributed. FEC count 0; no PAC/ideological contributions found. No TX lobbyist registration. No public bio confirming affiliations. Quiet outcome.",
+  "source_url": "https://www.linkedin.com/in/niki-belmares-384424145",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3ecea8cd-c228-4a9a-ad41-956842aaa4f1",
+  "name": "Yantis, Jennifer",
+  "resolved_employer": "Montessori School of San Antonio (teacher; also Board Vice Chair)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Self-reported occupation Teacher/Montessori school (78230, NW San Antonio near the school). The Montessori School of San Antonio's public site lists 'Jen Yantis' as Board Vice Chair, corroborating a genuine board leadership role. FEC: 14 small-dollar donations consistent with ActBlue-style Democratic-candidate giving; no ideological single-issue PAC (AIPAC/UDP, J Street, DMFI, oil/gas, gun, defense) contributions found. No TX lobbyist registration.",
+  "source_url": "https://www.montessorisa.org/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Montessori School of San Antonio", "role": "Board Vice Chair", "category": "civic", "source_url": "https://www.montessorisa.org/about-us", "snippet": "The school's Board of Trustees page lists 'Jen Yantis: Board Vice Chair.'"}
+  ]
+ },
+ {
+  "donor_id": "3a80228a-f739-49d7-8613-d3fcdc57cc8b",
+  "name": "Garza, Julio",
+  "resolved_employer": "Self-employed business owner (nature of business undetermined)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reported Business Owner / Self (78222, SE side San Antonio, Holly Hill). No resolving public profile, firm bio, or news coverage identifying the specific individual or his business. FEC count 0; no PAC/ideological contributions. No TX lobbyist registration. Categorize-by-employer fallback (generic self-employed business owner).",
+  "source_url": "https://www.ethics.state.tx.us/search/lobby/LobbySimpleSearch.php",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "37edef98-b2e6-4131-9d2d-66d2e3ec21bf",
+  "name": "Atlantic Pacific Communities, LLC",
+  "resolved_employer": "Atlantic | Pacific Companies (development arm 'Atlantic Pacific Communities') — Miami/Boca Raton-based multifamily & affordable/workforce housing developer, owner, manager and general contractor operating in TX incl. San Antonio",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Corporate donor. Atlantic Pacific Communities is the development/GC arm of Atlantic | Pacific Companies (founded 1970; HQ Boca Raton, major Miami office at the filing address 161 NW 6th St, Miami 33136). CEO/owner Howard D. Cohen; Kenneth Naylor is President-Development. The firm develops affordable and workforce multifamily housing across FL, GA, TX and CA and has a San Antonio footprint (e.g., Vista at Silver Oaks with Opportunity Home San Antonio and the City of San Antonio). No FEC PAC record for the entity and no TX lobbyist registration surfaced under the firm name.",
+  "source_url": "https://apcompanies.com/team/howard-cohen/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Opportunity Home San Antonio / City of San Antonio (Vista at Silver Oaks)", "role": "Affordable/workforce multifamily developer partnering with the SA public housing agency and the city on local projects", "category": "business", "source_url": "https://apcompanies.com/", "snippet": "Atlantic Pacific collaborated on Vista at Silver Oaks with OCI Development, Opportunity Home San Antonio, the City of San Antonio, PNC Bank and Stellar Bank — an affordable-housing developer with a direct San Antonio development interest before the city."}
+  ]
+ },
+ {
+  "donor_id": "3357ae77-cc0c-4949-a921-2f324c9c3d83",
+  "name": "Teeter, Sandra",
+  "resolved_employer": "Sandra Teeter — residential real-estate / homebuilding executive (VP of Sales, Coventry Homes; prior GM of Zillow Offers, Division President Liberty Home Builders, Director of Property Operations at Roc360)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Public records tie 7501 Loasa Cv, Austin (The Foothills, SW Austin ~78735/78736) to the Sandra Teeter whose career is entirely in residential real estate/homebuilding: VP of Sales for Coventry Homes' San Antonio team, formerly GM of Zillow Offers, Division President/VP Operations at Liberty Home Builders, and Director of Property Operations at Roc360. This is a DIFFERENT person from the Sandra Teeter who managed Acton Academy San Antonio, LLC (SA 78248, education) — the Austin Loasa Cove address matches the real-estate executive, so the two are not conflated. Filing occupation 'Business Owner/Self' is a mild mismatch with an employed VP title, hence medium confidence. FEC count 0; no TX Ethics Commission record found.",
+  "source_url": "https://www.linkedin.com/in/sandra-teeter/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "312d5b7e-eaf8-4d32-a308-199176af3f82",
+  "name": "Tips, Kristin",
+  "resolved_employer": "Mission Park Funeral Chapels, Cemeteries & Crematories (co-owner, President & funeral director)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Kristin Tips is co-owner, president and funeral director of Mission Park Funeral Chapels (operates 12+ funeral homes/cemeteries across San Antonio); wife/business partner of Robert 'Dick' Tips. Gov. Abbott appointed her Presiding Officer (chair) of the Texas Funeral Service Commission after seven years as a commissioner. She testified on at least four bills in the 2025 legislative session, including measures capping damages in suits against funeral homes; a former TFSC executive director alleged she used state resources to lobby, but she is NOT a registered TX Ethics Commission lobbyist for 2025. No AIPAC/pro-Israel/oil-gas/gun ideological PAC pattern found; the household's political giving is Texas GOP (Abbott).",
+  "source_url": "https://www.keranews.org/government/2025-09-10/texas-funeral-service-commission-texas-legislature-kristin-tips-scott-bingaman-lobbying",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Mission Park Funeral Chapels, Cemeteries & Crematories", "role": "Co-owner / President & funeral director", "category": "business", "source_url": "https://sawoman.com/2019/09/its-all-about-life/", "snippet": "Kristin Tips is president and funeral director of Mission Park Funeral Chapels, which operates more than a dozen locations across San Antonio."},
+   {"org": "Texas Funeral Service Commission", "role": "Presiding Officer / Chair (appointed by Gov. Abbott)", "category": "political", "source_url": "https://www.keranews.org/government/2025-09-10/texas-funeral-service-commission-texas-legislature-kristin-tips-scott-bingaman-lobbying", "snippet": "Tips serves as Presiding Officer of the Texas Funeral Service Commission after Abbott appointed her; she testified on at least four 2025 bills, including measures capping damages against funeral homes."}
+  ]
+ },
+ {
+  "donor_id": "312d2d4d-8768-4ba3-903b-c5fcf3544e97",
+  "name": "Riley, Charles",
+  "resolved_employer": "Law Offices of Charles Riley, P.C. / Riley & Riley, Attorneys at Law (Charles Anthony 'Charlie' Riley), 320 Lexington Ave, San Antonio 78215",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Charles Anthony 'Charlie' Riley (Texas bar since 2003, UT Austin) is a San Antonio plaintiff-side attorney; he joined his father Darby Riley in 2003 and they formed Riley & Riley in 2010 (personal injury, consumer protection/wrongful foreclosure, real estate, probate) at 320 Lexington Ave, 78215 — matching the filing. Identity high-confidence; the ideological-PAC read is medium because FEC itemization was rate-limited and OpenSecrets/city-data searches returned no ideological PAC. His 282-donation FEC history is consistent with trial-lawyer/Democratic small-dollar giving, but no specific AIPAC/pro-Israel/oil-gas/gun/defense PAC was confirmed. No TX lobbyist registration. (His father Darby Riley is a known local peace/justice activist; those affiliations are NOT attributed to Charles.)",
+  "source_url": "https://rileylawfirm.com/charles-riley/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Law Offices of Charles Riley, P.C. / Riley & Riley, Attorneys at Law", "role": "Attorney / owner (personal injury & consumer plaintiff practice)", "category": "business", "source_url": "https://rileylawfirm.com/charles-riley/", "snippet": "Charles 'Charlie' Riley joined his father in San Antonio in 2003 and formed Riley & Riley in 2010, focusing on personal injury, wrongful foreclosure, insurance claims, and real estate litigation."}
+  ]
+ },
+ {
+  "donor_id": "30bb4630-ae9b-4451-9666-4e7fd3c90b73",
+  "name": "Trevino, Josie",
+  "resolved_employer": "Retired / Self Employed (former career undetermined)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported Retired / Self Employed (78214, South Side San Antonio, Lorraine St). Ordinary long-term Viagran supporter who gave across 2021-2025. No resolving public profile (a Josie Trevino obituary 1926-2024 appears to be a different person given the 2021-2025 donation span). FEC: 9 small-dollar donations consistent with ActBlue-style Democratic-candidate giving; no ideological single-issue PAC contributions found. No TX lobbyist registration. Quiet outcome.",
+  "source_url": "https://www.ethics.state.tx.us/search/lobby/LobbySimpleSearch.php",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "309a1134-a5d2-4f3f-90f8-99b3b3ac3984",
+  "name": "Serna, Baltazar",
+  "resolved_employer": "Serna & Serna, P.L.L.C. (attorney/name partner) — Baltazar Serna Jr., 237 W Travis St, San Antonio 78205",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Baltazar Serna Jr. is a San Antonio attorney (Serna & Serna, P.L.L.C., 237 W Travis St #100, 78205; personal injury, criminal, family, municipal law and lobbying). He is a registered lobbyist at BOTH the Texas Ethics Commission (business/commerce, nonprofit orgs, city government) and the City of San Antonio Lobbyist System, and heads a federal lobbying firm (OpenSecrets: 'Serna, Baltazar Jr,' 4 clients / $238,200 in 2025). He holds multiple public/civic board seats (Alamo Regional Mobility Authority, prior VIA/MPO). FEC shows a $2,000 contribution to Roger Williams for U.S. Congress (R) in 2016; no AIPAC/pro-Israel/oil-gas/gun ideological PAC pattern surfaced. His high FEC count is consistent with a lobbyist/attorney's broad candidate giving.",
+  "source_url": "https://www.opensecrets.org/federal-lobbying/firms/summary?id=F315041",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Ethics Commission (state lobbyist registry)", "role": "Registered lobbyist (business/commerce, nonprofit orgs, city government)", "category": "political", "source_url": "https://www.ethics.state.tx.us/search/lobby/LobbySimpleSearch.php", "snippet": "Baltazar R. Serna Jr. maintains active Texas lobbyist registration covering Business & Commerce, Charitable/Nonprofit Organizations, and City Government."},
+   {"org": "City of San Antonio Lobbyist System", "role": "Registered municipal lobbyist", "category": "political", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx?FirmLink=Baltazar+R.+Serna,+Jr.", "snippet": "Baltazar R. Serna, Jr. appears as a registered lobbyist in the City of San Antonio Lobbyist System."},
+   {"org": "Federal lobbying (OpenSecrets firm 'Serna, Baltazar Jr')", "role": "Federal lobbyist / firm principal (4 clients, $238,200 in 2025)", "category": "business", "source_url": "https://www.opensecrets.org/federal-lobbying/firms/summary?id=F315041", "snippet": "Serna, Baltazar Jr is a lobbying firm hired by 4 clients in 2025 for a total of $238,200."},
+   {"org": "Alamo Regional Mobility Authority", "role": "Board member (appointed by Bexar County Commissioners Court; prior VIA/MPO/Hispanic Chamber boards)", "category": "civic", "source_url": "https://elections.bexar.org/2085/Mr-Baltazar-Serna-Jr", "snippet": "Board Member of the Alamo Regional Mobility Authority; previously served on the MPO Policy Board, VIA Metropolitan Transit Board, and Hispanic Chamber of Commerce board."},
+   {"org": "Roger Williams for U.S. Congress (R-TX)", "role": "Individual donor ($2,000, 2016)", "category": "political", "source_url": "https://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part42.html", "snippet": "Baltazar Serna, Law Offices of Serna & Serna, contributed $2,000 to Roger Williams for U.S. Congress Committee on 06/28/2016."}
+  ]
+ },
+ {
+  "donor_id": "2e64cd46-c6df-479a-877b-319ca13d5023",
+  "name": "Gomez De La Sierra, Gerardo",
+  "resolved_employer": "Altamira Capital Management LLC (Founder & Principal) — San Antonio alternative-investment / managed-futures firm (CFTC-registered CTA/CPO, NFA member)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Gerardo Gomez de la Sierra is founder and Principal of Altamira Capital Management LLC, a San Antonio alternative-investment manager specializing in managed futures, forex and options; began his career at Merrill Lynch. Firm HQ and his employer strings all match the filing (Principal, Altamira Capital Management, 100 NW Loop 410, San Antonio 78216). No FEC itemized/PAC contributions (count 0) and no TX Ethics Commission lobbyist registration found.",
+  "source_url": "https://money.usnews.com/financial-advisors/advisor/gerardo-gomez-de-la-sierra-5859366",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2c975217-1fa4-4da3-bbd6-33cd14ef1a54",
+  "name": "Honigblum, Blake",
+  "resolved_employer": "Abiso Development, LLC (member/registered agent/director; also Abiso Real Estate, LLC and Abiso Real Estate Services, LLC), San Antonio",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "OpenCorporates and Bizapedia confirm Blake Honigblum as member/registered agent/director of Abiso Development, LLC (120 Austin Hwy Ste 105, San Antonio) and related Abiso Real Estate entities. Documented commercial real-estate development footprint: subdivided ~12 acres at Alamo Ranch & Lone Star Pkwy into four plats (2017), a proposed 30,000-sq-ft retail/restaurant center leased via CBRE, and a Lidl store site (San Antonio Report). Commercial real-estate industry well corroborated. Not listed in TX Ethics Commission registered-lobbyist lists; no City of SA lobbyist tie surfaced. FEC count 0; no PAC/ideological activity found. LinkedIn was inaccessible so board seats could not be fully read.",
+  "source_url": "https://opencorporates.com/companies/us_tx/0802365325",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]
