@@ -1,0 +1,240 @@
+[
+ {
+  "donor_id": "f7590578-f68c-4e39-8a2d-683661341844",
+  "name": "Garcia, Victoria",
+  "resolved_employer": "Valero Services, Inc. — in-house counsel (Employment & Labor and Immigration)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Victoria Maria Garcia, licensed Texas attorney, located at Valero Services, Inc., 1 Valero Way, San Antonio; practice areas Employment & Labor and Immigration. Donor employer 'Valero' + 'Lawyer' occupation match; she is in-house counsel at the San Antonio oil refiner.",
+  "source_url": "https://lawyers.justia.com/lawyer/victoria-garcia-1477095",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Valero Energy Corporation", "role": "In-house counsel (Employment/Labor & Immigration)", "category": "oil_gas", "source_url": "https://lawyers.justia.com/lawyer/victoria-garcia-1477095", "snippet": "Located at Valero Services, Inc., 1 Valero Way, San Antonio, TX; practice areas Employment & Labor and Immigration. Valero is a major oil refiner. Employment-based tie; no individual ideological-PAC record found."}
+  ]
+ },
+ {
+  "donor_id": "f1573341-45dc-4cd7-8c2e-5f0d2f702d95",
+  "name": "Haley, Sarah",
+  "resolved_employer": "Root Inc. (Root Insurance) — Senior Data Analyst, San Antonio",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Senior/Sr. Data Analyst at Root Inc. (Root Insurance, insurtech) in San Antonio; UTSA M.S. (2019-20); prior roles at USAA and Ledger Investing. Matches donor's Root Inc / Data Analyst / SA profile. No PAC or lobbyist records found.",
+  "source_url": "https://rocketreach.co/sarah-haley-email_34433774",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d98ff8a0-9d16-4783-b99a-5cd4ebf52e59",
+  "name": "Goldberg, Steven",
+  "resolved_employer": "Not Employed (likely retired; former career not confirmed)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No Steven Goldberg found in FEC at zip 78209; the only Goldberg on FEC at 78209 is Patricia C. Goldberg (retired, small-dollar ActBlue/Democratic giving) — a likely household member, not the donor. A separate Steven Goldberg (retired USAA actuary) exists at nearby 78230 with mixed PAC/party giving 1992-2018, but the zip mismatch means identity cannot be confirmed. No lobbyist registration found.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Goldberg&contributor_zip=78209",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c64598a2-0fb8-4495-a8e4-7946d72302db",
+  "name": "Cherkinsky, Joshua",
+  "resolved_employer": "Cherktek Consulting, LLC — CEO (federal/DoD contract consulting firm, Service-Disabled Veteran-Owned Small Business), Colorado Springs CO",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "CEO/Managing Partner of Cherktek Consulting (defense/federal contract consulting, SDVOSB); U.S. Air Force Academy grad (2003), active-duty comptroller, Air Force Reserve Financial Management Officer; former Raytheon EWI intern. Out-of-state (Colorado) donor. No lobbyist or ideological-PAC records found.",
+  "source_url": "https://cherktek.com/leadership",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Cherktek Consulting, LLC / U.S. Air Force Reserve", "role": "CEO (defense-contract consulting) & Financial Management Officer", "category": "military_defense", "source_url": "https://cherktek.com/leadership", "snippet": "Service Disabled Veteran Owned Small Business providing federal contract consulting to the Department of Defense; founder is a USAFA graduate and Air Force Reserve Financial Management Officer and speaker at the American Society of Military Comptrollers."}
+  ]
+ },
+ {
+  "donor_id": "ad508fd2-3d51-425c-8924-d41e31430d31",
+  "name": "Garcia, Mary",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retiree at 319 Spaatz St, San Antonio 78211; shares address with John Garcia (likely spouse/relative). 'Mary Garcia' is an extremely common San Antonio name and no specific person, former career, or public profile could be corroborated. No FEC PAC ties or lobbyist registration found.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Mary+Garcia&contributor_zip=78211",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9a9465de-da46-41db-92a6-7c87f7ee66fc",
+  "name": "Ocanas, Gilberto",
+  "resolved_employer": "Ocañas Group (Founder/CEO, public-affairs & political consulting firm); also Senior Advisor to Dentons",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Gilberto S. Ocañas of San Antonio (7 Champions Run, 78258 matches donor), veteran Democratic political operative: DNC National Latino Presidential Campaign director (2000), managed Texas statewide and multiple presidential campaigns. CEO of Ocañas Group and Senior Advisor at Dentons.",
+  "source_url": "https://lpbp.org/director/gilberto-s-ocanas/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Democratic Party / DNC", "role": "National Latino Presidential Campaign director (2000), DNC regional field director; $14,750 in 2016 all to Democratic candidates/committees", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/gilberto-ocanas.asp?cycle=16", "snippet": "Total: $14,750 across 26 transactions; all contributions went to Democratic candidates and committees."},
+   {"org": "Mi Familia Vota", "role": "Board member", "category": "civic", "source_url": "https://lpbp.org/director/gilberto-s-ocanas/", "snippet": "Board member, Mi Familia Vota (voter engagement organization)."},
+   {"org": "Environmental Defense Fund – Texas Advisory Board", "role": "Board member", "category": "civic", "source_url": "https://lpbp.org/director/gilberto-s-ocanas/", "snippet": "Board member, Environmental Defense Fund Texas Advisory Board."},
+   {"org": "Latino Public Broadcasting", "role": "Director", "category": "civic", "source_url": "https://lpbp.org/director/gilberto-s-ocanas/", "snippet": "Gilberto S. Ocañas listed as a director of Latino Public Broadcasting."}
+  ]
+ },
+ {
+  "donor_id": "92fd5741-a9b8-432c-891b-d6081a3841ad",
+  "name": "Garcia, John",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retiree at 319 Spaatz St, San Antonio 78211; same address as Mary Garcia (likely married/related couple). 'John Garcia' is an extremely common name; no specific person, former career, or public profile could be confirmed. No FEC PAC ties or lobbyist registration found.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=John+Garcia&contributor_zip=78211",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8d11ce98-b8e0-4d72-8738-91e55e8555f2",
+  "name": "Cantu, Chris",
+  "resolved_employer": "Self-Employed (consultant)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Self-employed consultant, San Antonio 78221 (123 Creath Place); public-record directories show a Chris/Christopher Cantu at 78221 addresses but consulting specialty could not be pinned to the specific individual. 105 FEC donations noted; no ideological PAC (AIPAC/UDP, J Street, oil/gas, gun, defense) tie surfaced — pattern consistent with small-dollar ActBlue giving. No Texas/City lobbyist registration.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part46.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6c3133f2-0118-479e-bd93-7635d189e9c6",
+  "name": "Cannon, Frank",
+  "resolved_employer": "Cannon Contracting (self-employed general contractor)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Donor address 16371 Laredo Rd, San Antonio 78221 exactly matches the business listing for 'Cannon Contracting' (16371 Laredo, San Antonio TX 78221). Frank H. Cannon is a San Antonio general contractor with residential building/plumbing permits on file (BuildZoom); also linked to Canco Construction. This is NOT the national conservative operative Frank Cannon (American Principles Project) — different person; address/occupation corroborate a local builder. No FEC PAC ties or lobbyist registration found.",
+  "source_url": "https://www.buildzoom.com/contractor/frank-h-cannon",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "648c5378-4b69-43f5-a599-74cee06df2b7",
+  "name": "Strickland, John",
+  "resolved_employer": "San Antonio Zoo (self-reported \"SA Zoo\"; role unconfirmed)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Employer string 'SA Zoo' most plausibly = San Antonio Zoo, a 501(c)(3) nonprofit; Bandera 78003 is a plausible commute. Not found on the Zoo's public Board of Directors or executive/management pages, so the exact 'Director' role could not be corroborated. Not in TX lobbyist registry; FEC PAC check inconclusive due to same-name noise and API rate limiting.",
+  "source_url": "https://sazoo.org/about/board-of-directors/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "63660dc3-2d87-402b-a823-bd795716b4a9",
+  "name": "Jimenez, Brian",
+  "resolved_employer": "Energy Transfer — Sr. Director, Pipeline Integrity",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Brian G. Jimenez, Sr. Director of Pipeline Integrity at Energy Transfer since 2014; B.S. Mechanical Engineering, Texas A&M; Greater Houston area (Katy, TX 77493 matches donor). Oversees gas/hazardous-liquids pipeline integrity programs.",
+  "source_url": "https://theorg.com/org/energy-transfer-equity-l-p/org-chart/brian-jimenez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Energy Transfer LP", "role": "Sr. Director, Pipeline Integrity (executive)", "category": "oil_gas", "source_url": "https://theorg.com/org/energy-transfer-equity-l-p/org-chart/brian-jimenez", "snippet": "Senior Director of Pipeline Integrity at Energy Transfer, a major oil & gas pipeline company. Employment-based tie; no individual ideological-PAC record confirmed for this person."}
+  ]
+ },
+ {
+  "donor_id": "54ae26bd-72f2-4234-b0b4-4af5997fbc23",
+  "name": "American Federation of State, County, and Municipal Employees",
+  "resolved_employer": "American Federation of State, County, and Municipal Employees (AFSCME) — national public-sector labor union, Washington, DC 20036",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "This is AFSCME itself, the national public-sector union (HQ on L St NW, DC 20036 matches donor address), not an individual. Its federal political arm is AFSCME P.E.O.P.L.E., Qualified (AFSCME-PQ); AFSCME federal contributions in the 2024 cycle totaled ~$17.7M per OpenSecrets.",
+  "source_url": "https://www.opensecrets.org/orgs/american-fedn-of-state-county-municipal-employees/summary?id=D000000061",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "AFSCME P.E.O.P.L.E. / AFSCME-PQ", "role": "AFSCME's national federal political action committee (voluntary member contributions funding federal/state/local candidates)", "category": "political", "source_url": "https://www.afscme.org/afscme-people", "snippet": "PEOPLE is AFSCME's political action committee... the vehicle for AFSCME members to make their voices heard in the electoral arena at the federal level."},
+   {"org": "AFSCME", "role": "national public-sector labor union representing 1.4M+ state/county/municipal workers", "category": "civic", "source_url": "https://www.opensecrets.org/orgs/american-fedn-of-state-county-municipal-employees/summary?id=D000000061", "snippet": "AFSCME's contributions in the 2024 cycle were $17,699,629; lobbying in 2024 was $2,760,000."}
+  ]
+ },
+ {
+  "donor_id": "434640e2-34fe-4098-8a4c-36bda405205f",
+  "name": "Garza, Martha",
+  "resolved_employer": "Retired (former career not confirmed)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, 1318 W Craig Pl, San Antonio 78201. Multiple distinct 'Martha Garza's exist in San Antonio (OB-GYN, nurse practitioner, immigration attorney) — none corroborated to the retiree at 78201, and no prior career is publicly identifiable for this specific person. No distinguishable FEC record tied to this zip; no lobbyist registration found.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Martha+Garza&contributor_zip=78201",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2e4fe5e8-ae11-42a3-9096-ad849898722d",
+  "name": "Garza, Natalie",
+  "resolved_employer": "Self-employed (consultant)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Self-employed consultant, 435 W Summit Ave, San Antonio 78212 per filing. No public profile could be corroborated to this individual/zip (LinkedIn 'Natalie Garza' hits are unrelated people). Not found in Texas Ethics Commission registered-lobbyist lists (2021-2026) or San Antonio lobbyist searches; no bio/firm page exists to read. Industry assigned by occupation fallback.",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2557857c-5561-477d-b50c-69d0d363451d",
+  "name": "Mott, Richard",
+  "resolved_employer": "Lennar — Vice President, Land Development",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Richard Mott, VP Land Development at Lennar (national homebuilder); listed as Lennar's contact for a New Braunfels subdivision; donor residence New Braunfels 78132 matches. Real-estate land-development role. No FEC record confirmably tied to this specific person (same-name hits are other states).",
+  "source_url": "https://www.zoominfo.com/p/Richard-Mott/5757189147",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "83c25a82-341c-49e2-8959-7b9e316efd15",
+  "name": "Lyke, Zack",
+  "resolved_employer": "City of San Antonio — municipal government / public-affairs staff (council-aide role per filing)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Zachary 'Zack' Lyke, San Antonio public-affairs professional: former Chief of Staff to Mayor Ron Nirenberg and Communications Director for Councilman Courage (District 9); later external-affairs role at Dalkia Solutions. Donor occupation 'Council Aide / City of San Antonio' consistent with municipal-government role. No FEC PAC or lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/zack-lyke-2592a2179/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio (Mayor's Office / City Council)", "role": "Chief of Staff to Mayor Nirenberg; council/comms aide", "category": "political", "source_url": "https://www.linkedin.com/in/zack-lyke-2592a2179/", "snippet": "Former Chief of Staff for the Office of Mayor Ron Nirenberg and Communications Director for Councilman Courage, District 9, City of San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "7455565e-bd80-4271-8b97-e4a083db2849",
+  "name": "Gennero, Alma",
+  "resolved_employer": "Northside Independent School District (NISD) — teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Public school teacher, employer NISD, 9011 Timber Fork, San Antonio 78250 (Northside ISD service area). 'Gennero' is uncommon and no separate public bio/board/advocacy profile exists (quiet outcome, consistent with a rank-and-file classroom teacher). Not in TEC lobbyist lists; no FEC PAC ties surfaced.",
+  "source_url": "https://www.nisd.net/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "230c84b1-8425-4968-ae49-79b1670eb873",
+  "name": "Andazola, Pete",
+  "resolved_employer": "Elite Plumbing Solutions LLC (Owner / Master Plumber), Helotes",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Pete Andazola is Owner/Responsible Master Plumber of Elite Plumbing Solutions, whose business address is 13810 French Park, Helotes, TX 78023 — the exact address on the donation record. Prior co-owner of Pronto Rooter Inc. Donor occupation was blank but identity confirmed via matching address + plumbing-contractor profile.",
+  "source_url": "https://www.linkedin.com/in/pete-andazola-a80328a1/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Elite Plumbing Solutions LLC", "role": "Owner / Master Plumber", "category": "business", "source_url": "https://www.zoominfo.com/p/Pete-Andazola/2773093390", "snippet": "Pete Andazola, Owner and Master Plumber at Elite Plumbing Solutions, 13810 French Park, Helotes, TX 78023."}
+  ]
+ },
+ {
+  "donor_id": "0ccfe8c2-e4fe-4116-871c-4a4105837194",
+  "name": "Andazola, Evelyn",
+  "resolved_employer": "Self-Employed (marketing) — same Helotes address as Pete Andazola (likely spouse/relative); possible alternate Valero marketing role unconfirmed",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Donor self-reported Self-Employed / Marketer at 13810 French Park, Helotes (same address as Pete Andazola/Elite Plumbing — likely spouse/relative doing marketing for the family plumbing firm). Conflicting web identity: a 'Evelyn Andazola' appears as a Valero sulfur marketing manager on LinkedIn/ZoomInfo; could not confirm same person, so deferring to self-reported Self-Employed classification.",
+  "source_url": "https://www.linkedin.com/in/evelyn-andazola-5982b0322",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "90155379-aa22-4b45-a36e-50fdc77c034d",
+  "name": "Mungia, Eddie",
+  "resolved_employer": "Pearson (self-reported; occupation 'Data') — not matched to the councilman's documented council-staff career; likely a relative/namesake or an unverified outside job",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Candidate Edward 'Eddie' Mungia's full public record (city bio, San Antonio Report, LinkedIn, Ballotpedia) shows a ~decade-long career entirely as a District 4 council staffer, with NO mention of Pearson or a data role. No Pearson-employed Mungia found. The 'Pearson/Data' donor at 9303 Conde Dr (78224, SW-side D4) is therefore either a same-named relative or the candidate reporting an outside/earlier employer — unresolved. Classified by self-reported employer (Pearson = education publishing/data → Education); if confirmed to be the councilman, industry would be Government.",
+  "source_url": "https://sanantonioreport.org/profile/edward-mungia-2025-san-antonio-city-council-district-4-candidate/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "donor_id": "9cca44b6-74d0-4af2-a556-d09b4888b00e",
+    "name": "Quintero, Eddie",
+    "resolved_employer": "Real estate agent, CENTURY 21 Scott Myers Realtors (San Antonio)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Licensed Realtor with CENTURY 21 Scott Myers Realtors, San Antonio; agent-profile pages confirm name + employer matching the donor's self-reported occupation/employer. Donor address is Bulverde, TX 78163 (the '32540' zip field appears to be a data artifact).",
+    "source_url": "https://eddiequintero.c21.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8f5cebc3-1dcf-4ed9-93f4-d02c5bf5ffa9",
+    "name": "Gutierrez, Gloria",
+    "resolved_employer": "Not Employed (self-reported)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reports as Not Employed at 9115 Blockade Dr, San Antonio 78240; high federal small-dollar donation count (228) is consistent with a prolific ActBlue-style small-dollar donor, but 'Gloria Gutierrez' is a very common name and no specific public profile could be confirmed. No TEC lobbyist match; no flagged ideological PAC tie surfaced.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=GLORIA+GUTIERREZ&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8eb72407-ecb4-43f8-be14-bfd862353dd5",
+    "name": "Urby, Dolores",
+    "resolved_employer": "Physical medicine & rehabilitation physician (physiatrist), likely retired",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Donor 'Dolores Urby', Retired, 9445 Rochelle, San Antonio 78240. The surname 'Urby' is rare in San Antonio and Dr. Dolores Contreras Urby, MD is a physiatrist in the 78240 area (UT Health San Antonio, 1987), making a retired-physician match plausible on rare-surname + first-name + zip; exact residential match not fully confirmed. No TEC lobbyist match; no flagged PAC tie found.",
+    "source_url": "https://npiprofile.com/npi/1356390744",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8bcf927d-0d2a-41da-9a18-756cbd13fe0f",
+    "name": "Whiting, William",
+    "resolved_employer": "Not Employed (self-reported)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reports as Not Employed at 2203 Sun Wood St, San Antonio 78232; federal donation count (82) is consistent with a recurring small-dollar donor, but 'William Whiting' is a common name and no specific public profile could be confirmed. No TEC lobbyist match; no flagged ideological PAC tie surfaced.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=WILLIAM+WHITING&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8ae4ba0b-120c-497d-a297-42769612d211",
+    "name": "Sekguchi, Jackie",
+    "resolved_employer": "Texas Mutual Insurance Company (Community Affairs Manager)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Jackie Quintero Sekiguchi (donor name misspelled 'Sekguchi') is Community Affairs Manager at Texas Mutual Insurance Company, a Texas workers' compensation insurer; occupation and employer match exactly, and public bios place her in the Austin/Pflugerville area (donor zip 78660). Her named community roles are corporate-philanthropy/civic, not policy-advocacy PACs.",
+    "source_url": "https://www.texasmutual.com/agents/pr/jackie-sekiguchi",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "865ec782-4a5e-4355-9b1c-065469168529",
+    "name": "Rodriguez, Sylvia",
+    "resolved_employer": "American Laundry Distributors, Inc. (commercial laundry/dry-cleaning equipment distributor); occupation 'Assistant'",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Employer 'American Laundry Distributors' matches a real San Antonio commercial-laundry-equipment distributor in zip 78218, the same zip as the donor's address (3646 Highcliff, 78218). Corporate records list a 'Sylvia Rodriguez' who served as a director/secretary of the company; common San Antonio name so identity is corroborated by employer+zip rather than a personal profile.",
+    "source_url": "https://opencorporates.com/companies/us_tx/0800820289",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7d0da7ba-39aa-4fa1-92db-186e0016b700",
+    "name": "Requejo Jr, Ricardo",
+    "resolved_employer": "City of San Antonio - City Council District 4 staff (Council Aide / District Director)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Ricardo Requejo Jr is a City of San Antonio Council District 4 staffer (District Director / communications aide) who worked under D4 Councilwoman Adriana Rocha Garcia and previously for Mayor Ron Nirenberg; occupation ('Council Aide'), employer ('City of San Antonio'), and the D4 connection all corroborate. Donating to Edward Mungia, a former 9-year D4 staffer under Rocha Garcia, is consistent with a council-office colleague.",
+    "source_url": "https://www.linkedin.com/in/ricardo-requejo-jr/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "689fd260-81d0-46ec-878f-1ac8da1a3bbd",
+    "name": "Urby, Rodolfo",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor is retired at 9445 Rochelle, San Antonio 78240; public-records aggregators associate the 'Urby' family with that 78240 area. A Dr. Rodolfo Urby, MD (family medicine) exists in San Antonio, but that physician appears to still practice and no source ties the specific retired donor at 9445 Rochelle to the medical career. Identity/former-career not confidently confirmed, so no industry is asserted. No TEC lobbyist match; no flagged PAC tie found.",
+    "source_url": "https://health.usnews.com/doctors/rodolfo-morales-urby-3056736",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5db043a7-4412-45aa-b8b7-a3d02e8bff2d",
+    "name": "Araiza, Pedro",
+    "resolved_employer": "Araiza & Associates, Inc. (owner) — insurance & tax brokerage",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Pedro 'Pete' Araiza owns Araiza & Associates, Inc., an independent insurance/tax brokerage at 3926 Parkway Dr, San Antonio 78228 (in business since ~1984); donor's zip, occupation (insurance broker), employer, and street address all match the firm's listed address.",
+    "source_url": "https://araizainsurance.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "57746229-7f75-4653-b819-28a87e0be63b",
+    "name": "Veliz, MaryEllen",
+    "resolved_employer": "DSPolitical (VP of Business Development) — Democratic political digital-advertising firm",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "MaryEllen Veliz is VP of Business Development at DSPolitical, a Democratic political advertising firm; San Antonio native, UTSA grad, former Deputy Chief of Staff/District Director to U.S. Rep. Lloyd Doggett (D-TX). Zip 78216, San Antonio, and 'DSPolitical' employer match her public profile.",
+    "source_url": "https://www.dspolitical.com/maryellen-veliz/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "DSPolitical", "role": "Vice President of Business Development", "category": "political", "source_url": "https://www.dspolitical.com/maryellen-veliz/", "snippet": "VP of Business Development at DSPolitical, a Democratic political digital-advertising firm; 'experienced political operative with a demonstrated history of advancing progressive change.'"},
+      {"org": "Office of U.S. Rep. Lloyd Doggett (D-TX)", "role": "former Deputy Chief of Staff / District Director", "category": "political", "source_url": "https://www.dspolitical.com/maryellen-veliz/", "snippet": "Previously served as Deputy Chief of Staff to U.S. Representative Lloyd Doggett (D-Texas)."},
+      {"org": "Annie's List", "role": "board member", "category": "political", "source_url": "https://www.dspolitical.com/maryellen-veliz/", "snippet": "Board service with Annie's List (Texas org recruiting/funding Democratic women candidates)."},
+      {"org": "Planned Parenthood South Texas", "role": "board member", "category": "political", "source_url": "https://www.dspolitical.com/maryellen-veliz/", "snippet": "Board service with Planned Parenthood South Texas."},
+      {"org": "New Leaders Council", "role": "board member", "category": "civic", "source_url": "https://www.dspolitical.com/maryellen-veliz/", "snippet": "Board service with New Leaders Council (progressive leadership development org)."},
+      {"org": "Truman National Security Project", "role": "2021 Political Partner", "category": "political", "source_url": "https://www.dspolitical.com/maryellen-veliz/", "snippet": "2021 Political Partner for the Truman National Security Project."}
+    ]
+  },
+  {
+    "donor_id": "4a933b1f-a5d8-4e6c-8d69-9b57a08ba6df",
+    "name": "Escalante, Nicole",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Public-records lookups place a Nicole Escalante at 6300 Rustling Way, San Antonio 78249 — an exact match to the donor's address and zip; donor self-reports 'Not Employed' and no professional/public profile was found. No TEC lobbyist match; no flagged PAC tie found.",
+    "source_url": "https://nationalpublicdata.com/people/e/nicole-escalante/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "48a4648b-876e-4e18-9e1e-de675f02d7e6",
+    "name": "Murray, Amanda",
+    "resolved_employer": "U.S. Air Force — clinical psychologist (Little Rock AFB area)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Donor self-reports as a clinical psychologist employed by the USAF, at 4611 Woodlawn Dr, Little Rock, AR 72205 (near Little Rock AFB); 'Amanda Murray' is a common name and no specific public profile could be independently corroborated, though occupation/employer/location are internally consistent. Out-of-state donor to a San Antonio council race, likely a personal connection. No TEC lobbyist match; no flagged PAC tie found.",
+    "source_url": "https://www.psychologytoday.com/us/therapists/ar/little-rock-afb",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "485d0962-f663-4dfd-ba03-36e292c714f8",
+    "name": "Arango, Juan",
+    "resolved_employer": "Encotech Engineering Consultants, Inc. — VP of Marketing & Business Development",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Juan Arango is VP of Marketing and Business Development at Encotech Engineering Consultants, a boutique MEP/structural engineering firm; listed donor address (10600 Jollyville Rd, Austin) is Encotech's Austin office, corroborating occupation 'Marketing' and employer.",
+    "source_url": "https://theorg.com/org/encotech-engineering-consultants/org-chart/juan-arango",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "44e1fdce-4a34-405a-aaf8-66c2afe795af",
+    "name": "De La Garza, Nadia",
+    "resolved_employer": "City of San Antonio — council district office communications/aide staff",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Nadia De La Garza is a City of San Antonio council-office communications staffer (LinkedIn: Director of Communications, District 6 - Ric Galvan), consistent with donor occupation 'Council Aide' and City of San Antonio employer; same-name/same-employer match though exact council office not independently confirmed. No TEC lobbyist match; no flagged PAC tie found.",
+    "source_url": "https://www.linkedin.com/in/nadiadelagarza/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "40c14618-895a-47ca-ad34-0797c2d9ca7b",
+    "name": "Solano, Andrew",
+    "resolved_employer": "Self-employed political consultant (San Antonio); has served as San Antonio City Council chief of staff and political consultant to the San Antonio Spurs",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Andrew Solano is a San Antonio political consultant/operative — political consultant to the Spurs on Project Marvel, past staffer to multiple SA council members and Mayor liaison, and campaign manager for a mayoral campaign; matches donor 'Consultant / Self Employed' in San Antonio.",
+    "source_url": "https://sabookfestival.org/staff-board/andrew-solano/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Truman National Security Project", "role": "Political Partner", "category": "political", "source_url": "https://sabookfestival.org/staff-board/andrew-solano/", "snippet": "Bio notes Andrew is a Political Partner with the Truman National Security Project, a national-security leadership network."}
+    ]
+  },
+  {
+    "donor_id": "403ab00c-ee06-496b-ad3f-c54eb523ae8e",
+    "name": "Coronado, Lauren",
+    "resolved_employer": "VIA Metropolitan Transit — Projects Administrator / community engagement",
+    "industry": "Transportation",
+    "confidence": "high",
+    "evidence": "Lauren Coronado works in community engagement at VIA Metropolitan Transit (San Antonio's public transit agency), matching donor occupation 'Projects Administrator' and employer; also an Alpha Delta Pi alumnae leader and Ronald McDonald House SA board member (charitable, not policy-advocacy — out of scope).",
+    "source_url": "https://www.linkedin.com/in/laurencoronado10/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3f0b82c0-1bb8-41fe-87ea-6cafc77210eb",
+    "name": "Allred, Sarah",
+    "resolved_employer": "Valero Energy Corporation (Government Affairs Specialist/Analyst)",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Sarah Allred is a Government Affairs Specialist/Analyst at Valero Energy (San Antonio HQ); occupation 'Analyst' and employer 'Valero' match, and Helotes (78023) is a San Antonio suburb consistent with a Valero HQ employee. MBA from UTSA.",
+    "source_url": "https://www.linkedin.com/in/sarah-allred-136a1554/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Valero Energy Corporation", "role": "Government Affairs Specialist / Analyst", "category": "oil_gas", "source_url": "https://www.linkedin.com/in/sarah-allred-136a1554/", "snippet": "Sarah Allred holds the position of Government Affairs Specialist at Valero Energy, an oil-refining company, based in San Antonio, Texas — a policy/government-affairs role at a major fossil-fuel company."}
+    ]
+  },
+  {
+    "donor_id": "2bec53dd-4e6c-43c9-9efa-2cf3564e5e9d",
+    "name": "Burford, Barbara",
+    "resolved_employer": "Wells Fargo (VP, Philanthropy & Community Impact, greater San Antonio market)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Barbara Ankamah Burford is VP of Philanthropy and Community Impact for Wells Fargo covering the San Antonio market; occupation 'Community Relations' and employer 'Wells Fargo' match, San Antonio (78232) consistent. Prior 15 yrs City of San Antonio econ dev/housing and SA Hispanic Chamber.",
+    "source_url": "https://homesa.org/employees/barbara-ankamah-burford/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Opportunity Home San Antonio (housing authority)", "role": "Commissioner (board)", "category": "civic", "source_url": "https://homesa.org/employees/barbara-ankamah-burford/", "snippet": "Profile hosted on Opportunity Home San Antonio identifies Barbara Ankamah Burford with a Commissioner title, tied to her Wells Fargo housing-affordability philanthropy work."},
+      {"org": "Asset Funders Network, San Antonio Area Chapter", "role": "Chair", "category": "civic", "source_url": "https://assetfunders.org/regional-chapter/san-antonio/", "snippet": "Burford serves as Chair of the San Antonio Area Chapter of the Asset Funders Network in her Wells Fargo community-impact capacity."}
+    ]
+  },
+  {
+    "donor_id": "283af2e2-9cf9-466f-9121-eaa3237633c4",
+    "name": "Smith, Samantha",
+    "resolved_employer": "State of Texas (attorney)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Donor is an attorney employed by the State of Texas in San Antonio (78217). 'Samantha Smith' is an extremely common name; multiple TX-licensed attorneys share it and no single record could be confirmed to this specific zip/individual. Employer/occupation support a Government (state-employed attorney) classification as a fallback. No TEC lobbyist match; no flagged PAC tie found.",
+    "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2217c413-fa98-4737-a938-cb7e2d2f9662",
+    "name": "Gonzalez, Amanda",
+    "resolved_employer": "Vortex Realty (real estate agent)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Amanda Gonzalez is a licensed Texas real estate agent; Vortex Realty (San Antonio-based brokerage, TREC-licensed) and a HAR.com agent listing for Amanda Gonzalez corroborate the occupation/employer. Castroville (78009) is within Vortex Realty's service area. No further public profile or policy footprint found.",
+    "source_url": "https://www.har.com/amanda-gonzalez/agent_gonzaleza",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

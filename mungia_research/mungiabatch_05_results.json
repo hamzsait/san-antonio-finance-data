@@ -1,0 +1,238 @@
+[
+ {
+  "donor_id": "889bbbc0-ea15-40ae-8611-e881c2613add",
+  "name": "Dehlinger, Debra",
+  "resolved_employer": "Retired (former career not identified)",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "Debra J. (Saffold) Dehlinger, Bexar County resident; public records list her at 123 Hermine Blvd, San Antonio, TX 78212 — exact address match. Retired; former career not identifiable.",
+  "source_url": "https://www.ancientfaces.com/person/debra-j-saffold-dehlinger-birth-1949/98712717",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "769f00fb-863d-4032-a970-8427064ab4be",
+  "name": "Garcia, Danielle",
+  "resolved_employer": "U.S. Department of Housing and Urban Development (HUD)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Self-reported federal government employee at HUD, San Antonio (78209). Multiple people named Danielle Garcia are tied to HUD nationally; could not confirm this specific SA individual, but employer/occupation are consistent with a HUD staffer.",
+  "source_url": "https://www.linkedin.com/in/danielle-d-garcia/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6acd8c5d-f89b-45bf-ba09-df034840e566",
+  "name": "Acevedo, Joseph",
+  "resolved_employer": "Law Office of Joseph Acevedo (attorney)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Solo-practice attorney; the Law Office of Joseph Acevedo is an established San Antonio firm (30+ yrs; personal injury/criminal/family) at 1700 Buena Vista St; donor home 514 W Lynwood 78212. Occupation/employer match; two attorneys (Sr. and Jr.) share the name.",
+  "source_url": "https://josephacevedolaw.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "62297aef-cc9d-4e7c-9930-640a94bef6a8",
+  "name": "Johnson, Edie",
+  "resolved_employer": "LOL Liquors (bookkeeper)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Self-reported bookkeeper for LOL Liquors, a San Antonio retail liquor store chain. Employer confirmed as a real business; no individual public record found to corroborate the specific person.",
+  "source_url": "https://lolliquors.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4e3ce351-ae05-46e3-9e21-4c5ef5b4371e",
+  "name": "Sifuentes, Herlinda",
+  "resolved_employer": "Retired (former Southwestern Bell); operations director at nonprofit HISPA",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor listed Retired at 1201 Rigsby Ave 78210. A well-documented SA Herlinda Sifuentes was a 1968 Edgewood/Chicano student-walkout participant with a long Southwestern Bell career, now operations director at nonprofit HISPA; plausible match but not confirmed to the Rigsby address.",
+  "source_url": "https://www.nbcnews.com/news/latino/forgotten-history-chicano-student-walkouts-changed-texas-inequities-remain-n1090071",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "HISPA, Inc.", "role": "Operations Director (retired volunteer/staff)", "category": "civic", "source_url": "https://www.linkedin.com/in/herlinda-sifuentes-106b8761/", "snippet": "Herlinda Sifuentes - Operations Director at HISPA, Inc. ... HISPA, a non-profit that connects youth with professional role models. (Identity to this donor is unconfirmed.)"}
+  ]
+ },
+ {
+  "donor_id": "41e9d0c8-2f20-421b-8dc9-9e6ef6891e1d",
+  "name": "Monsivais, Jessica",
+  "resolved_employer": "Southwest Airlines (Flight Attendant)",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Donor record lists occupation Flight Attendant / employer Southwest Airlines at a San Antonio 78201 address; no distinct public bio located to add detail, but occupation/employer are concrete.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "41808302-137f-4522-a09d-2f88ec8cc215",
+  "name": "Esquivel, Scott",
+  "resolved_employer": "McJam Inc (part-owner; operates Creswell's Wrecker / Bexar Towing); founder of Parqking Solutions and DEST",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "San Antonio businessman, Highlands HS grad and USMC veteran; part-owner of Bexar Towing and Creswell's Wrecker (operated by McJam Inc, matching the employer string), founder of Parqking Solutions and DEST EV company.",
+  "source_url": "https://reyfeo76.org/royal-court/scott-esquivel",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Rey Feo LXXVI (Rey Feo Consejo Educational Foundation)", "role": "Day Minister / court member and sponsor", "category": "civic", "source_url": "https://reyfeo76.org/royal-court/scott-esquivel", "snippet": "Scott Esquivel - Day Minister, Rey Feo LXXVI ... part-owner of Bexar Towing and Creswell's Wrecker ... founded Parqking Solutions ... donated and sponsored events for the Rey Feo Organization."}
+  ]
+ },
+ {
+  "donor_id": "3d422193-e06a-4f8a-9407-7eac23725363",
+  "name": "Garza, Meghan",
+  "resolved_employer": "Baylor Scott & White Health (Nurse) — likely",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Donor record lists occupation Nurse / employer 'Baylor'; consistent with Baylor Scott & White Health, the region's major hospital system. No individual profile confirmed for this specific person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3ac876da-db58-4b85-a97a-dfcb78edcbd9",
+  "name": "Flores, Elda",
+  "resolved_employer": "Retired (former career not identifiable)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reports Retired at a San Antonio 78242 address; no obituary, bio, or former-career record could be confirmed for this specific individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "39a69037-5493-4ca0-ae88-8e7d9f30ab1c",
+  "name": "Miller, Brannon",
+  "resolved_employer": "Chism Strategies (Managing Partner) — Democratic political consulting/polling firm",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Managing Partner at Chism Strategies, based in San Antonio; U. of Mississippi public-policy grad with prior roles at Mississippi Democratic Trust, SEIU, and Elaine Marshall for Senate. Chism is a full-service political consulting firm working to elect Democrats.",
+  "source_url": "https://rocketreach.co/brannon-miller-email_111259249",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Chism Strategies", "role": "Managing Partner", "category": "political", "source_url": "https://rocketreach.co/brannon-miller-email_111259249", "snippet": "Brannon Miller, based in San Antonio, TX, is currently a Managing Partner at Chism Strategies ... a full-service political consulting firm that focuses on helping elect Democrats and advance progressive causes; prior roles at Mississippi Democratic Trust, SEIU and Elaine Marshall For Senate."}
+  ]
+ },
+ {
+  "donor_id": "382f469b-97f5-4b6d-8fcf-0f971f4be856",
+  "name": "Mora, Alejandra",
+  "resolved_employer": "The (Bexar County) Health Collaborative — Data Analyst",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "LinkedIn and ZoomInfo confirm Alejandra Mora as a Data Analyst at The Bexar County Health Collaborative, a San Antonio public-health nonprofit; matches donor's employer and occupation.",
+  "source_url": "https://www.linkedin.com/in/alejandra-mora-842191272",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "264ae3d0-e489-4eca-9ef2-dcc0446925c6",
+  "name": "Harry, Alan",
+  "resolved_employer": "Telecom Staffing, LLC — OSP (outside plant) Engineer",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Employer is a real San Antonio firm (Telecom Staffing LLC, founded 2005, specializes in OSP telecom design/drafting) and 'OSP Engineer' is a role it staffs; individual not independently confirmed by name.",
+  "source_url": "https://telstaf.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "10fa6ba3-ff43-4609-83a4-d4b77e140ae0",
+  "name": "Braeutigam, Rita",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported Not Employed, Boerne, TX 78006. No public professional profile, FEC PAC history, or former career identifiable to corroborate the specific individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7e18fe22-7835-4618-9efb-a77a7dff850f",
+  "name": "Ramirez, Frank",
+  "resolved_employer": "City of San Antonio (LGC / Local Government Corporation) — Council Aide",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Well-known San Antonio Democratic political staffer: former Texas House and SA City Council staffer and 2021/2022 candidate for Texas House District 118, whose campaign base (SW Military Dr, 78221) matches donor's Southside 78221 address.",
+  "source_url": "https://sanantonioreport.org/profile/frank-ramirez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House District 118 campaign (Democratic Party)", "role": "Candidate / former legislative and council staffer", "category": "political", "source_url": "https://sanantonioreport.org/profile/frank-ramirez/", "snippet": "Frank Ramirez is a Democratic challenger for Texas House District 118... a former staffer in the Texas House and on the San Antonio City Council."}
+  ]
+ },
+ {
+  "donor_id": "a400cd1f-02cb-4feb-b356-bdc21e53f994",
+  "name": "Hernandez, John",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer in donor record; 'John Hernandez' is a very common name and no candidate could be uniquely corroborated to the 811 Division Ave, 78225 address.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9dc8c501-b837-4012-88ca-a269a3cb3f83",
+  "name": "Murillo, Marinella",
+  "resolved_employer": "San Antonio AFL-CIO — labor officer (Area VP, Central Labor Council); AFGE; retired 40-yr federal (SBA/HUD)",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Marinella Garcia-Murillo is a San Antonio labor-federation leader: Labor Union Area Vice-President on the SA Central Labor Council of the AFL-CIO and AFGE Council 222 leader, retired from a 40-year federal career (SBA/HUD); also a San Antonio Housing Trust board member.",
+  "source_url": "https://sahousingtrust.org/marinella-murillo/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio AFL-CIO / Central Labor Council", "role": "Labor Union Area Vice-President; executive officer", "category": "labor", "source_url": "https://texasaflcio.org/sanantonio/about-us", "snippet": "Marinella Murillo... Labor Union Area Vice-President... serves on the San Antonio Central Labor Council of the AFL-CIO."},
+   {"org": "San Antonio Housing Trust", "role": "Board Member", "category": "civic", "source_url": "https://sahousingtrust.org/marinella-murillo/", "snippet": "Marinella serves as a Board Member at San Antonio Housing Trust."}
+  ]
+ },
+ {
+  "donor_id": "8300b79f-5cd2-4d43-b786-332b3be9d1c3",
+  "name": "Claudio, Thelma",
+  "resolved_employer": "Certified Occupational Therapy Assistant (COTA) at San Antonio State Hospital",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation COTA at San Antonio State Hospital (a state psychiatric hospital); no independent public bio located to further corroborate this specific individual, but employer/occupation are concrete and consistent.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6e1cacbf-32f3-4c13-802f-f20405e9cc01",
+  "name": "Ramos, Liz",
+  "resolved_employer": "Self-employed American Sign Language (ASL) interpreter",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reported self-employed ASL interpreter, San Antonio 78249 (address 11911 Flaming Star; zip field '11911' is garbled). No public profile located to confirm the specific person; occupation is a real trade so categorized as self-employed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5eac92ee-5212-4499-bde4-26daffe22a96",
+  "name": "Buckley, Kyle",
+  "resolved_employer": "City of San Antonio (Director/Policy; policy staff, listed as Council Aide/LGC)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Public records list a Kyle Buckley as Director, Policy at the City of San Antonio (sanantonio.gov email), consistent with a city policy/council staff role in San Antonio 78201.",
+  "source_url": "https://www.zoominfo.com/p/Kyle-Buckley/11373806773",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio", "role": "Director, Policy / policy staff", "category": "civic", "source_url": "https://www.zoominfo.com/p/Kyle-Buckley/11373806773", "snippet": "Kyle Buckley, Director, Policy at City of San Antonio, Texas; email k***@sanantonio.gov."}
+  ]
+ },
+ {
+  "donor_id": "4738dd83-26f2-4281-bf68-7fdb8531ac91",
+  "name": "Vale, Kathleen",
+  "resolved_employer": "Retired; former CEO of Hope Medical Supply, Inc. (durable medical equipment), 1984-2017",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Very likely Kathleen Weir Vale, retired former CEO of San Antonio's Hope Medical Supply and past board chair of the San Antonio Symphony; a documented SA Democratic donor. Retired status and SA profile match; donor address zip 78216 differs from prior FEC listings (78212/78209), so identity is probable not certain. (retired)",
+  "source_url": "https://sawoman.com/2018/09/kathleen-weir-vale/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Obama Victory Fund 2012", "role": "individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Kathleen+Weir+Vale", "snippet": "Kathleen Weir Vale, CEO Hope Medical Supply, San Antonio TX 78212, contributed $250 to Obama Victory Fund 2012 on 2011-09-27 (FEC individual contribution record). No AIPAC/oil-gas/gun/defense PACs found."},
+   {"org": "San Antonio Symphony", "role": "Chair, Board of Directors (former)", "category": "civic", "source_url": "https://theorg.com/org/san-antonio-symphony/org-chart/kathleen-weir-vale", "snippet": "Kathleen Weir Vale serves as Chair of the San Antonio Symphony's board of directors."}
+  ]
+ }
+]

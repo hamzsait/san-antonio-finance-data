@@ -201,6 +201,7 @@ OFFICE_OVERRIDE = {
     'kaur':   'San Antonio City Council · District 1',
     'mckeerodriguez': 'San Antonio City Council · District 2',
     'viagran': 'San Antonio City Council · District 3',
+    'mungia': 'San Antonio City Council · District 4',
     'shaikh': 'San Antonio City Council · 2025 District 8 Candidate',
 }
 
