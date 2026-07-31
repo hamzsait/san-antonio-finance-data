@@ -1,0 +1,246 @@
+[
+ {
+  "donor_id": "3ba39118-0b70-4ebf-8ed8-c6dd493caf0c",
+  "name": "Maebius, Jed",
+  "resolved_employer": "City of San Antonio (Mayor/Council office; LGC = local government corporation)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Career City Hall staffer (mayor's liaison to council); FEC lists 'Jed Maebius', San Antonio TX, employer 'San Antonio City Council Member'. Matches D4 council-aide donor profile.",
+  "source_url": "https://www.linkedin.com/in/jed-maebius-2b493512/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "ActBlue / Democratic committees", "role": "individual donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=maebius", "snippet": "Jed Maebius, San Antonio TX, gave via ActBlue earmarked to Mark Kelly for Senate, Progressive Turnout Project, DNC, and Colin Allred for Senate. No ideological/single-issue PACs (AIPAC, oil-gas, gun) found."}
+  ]
+ },
+ {
+  "donor_id": "8e163917-bc86-4391-bd95-61355682ea7d",
+  "name": "Jimenez, Della",
+  "resolved_employer": "Visit San Antonio",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "FEC record 'JIMENEZ, DELLA', 2139 Harry Dr, San Antonio 78224 — exact address match. Small recurring donor. Employer Visit San Antonio (destination-marketing/tourism org), role Customer Experience Representative.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=della+jimenez&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "ActBlue / Democratic committees", "role": "small-dollar donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=della+jimenez&contributor_state=TX", "snippet": "Consistent ~$15 monthly ActBlue contributions 2024-2026, earmarked to Dem Turnout 2024 and Castro for Congress. No single-issue/ideological PACs found."}
+  ]
+ },
+ {
+  "donor_id": "7a871d4d-70ab-4708-a4ec-3ddd6d6761d0",
+  "name": "Macon, Larry",
+  "resolved_employer": "Akin Gump Strauss Hauer & Feld LLP (300 Convent St; longtime San Antonio trial attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "R. Laurence 'Larry' Macon, veteran San Antonio board-certified civil trial/appellate attorney (and Guinness marathon record holder). 300 Convent St is Akin Gump's San Antonio office, his longtime firm.",
+  "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/r-laurence-larry-macon/ac49b27d-a162-45a5-8d5b-ce2e69a60528.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Bipartisan congressional candidates", "role": "individual donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=macon&contributor_state=TX&contributor_city=SAN+ANTONIO", "snippet": "R. Laurence Macon gave to both Democratic (Castro, Cuellar) and Republican (Tony Gonzales, John Lujan) congressional campaigns — cross-partisan candidate giving; no AIPAC/oil-gas/gun/defense PACs found. No TEC lobbyist registration found."}
+  ]
+ },
+ {
+  "donor_id": "6a04c68f-5bb0-49cd-9525-f2eaab990fc8",
+  "name": "Kiefaber, Edward",
+  "resolved_employer": "Self (real estate investor; entities incl. 602 Delaware Development LLC, SA Vantage Properties LLC)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Edward F Kiefaber, 9 Grandburg Circle, San Antonio 78218 — exact address match. Real-estate investor with multiple property-holding LLCs and recorded mortgages; appears on SA building permits.",
+  "source_url": "https://elementix.com/investors/tx/edward-kiefaber",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "141f5ebc-047c-43a0-9f4b-cfb0c2248fa9",
+  "name": "Douglass, Cliff",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Clifton F. 'Clif' Douglass III, partner managing Linebarger's San Antonio office (firm Management Committee), 112 E Pecan St Ste 2200, 78205 — exact address match. Texas Bar since 1983.",
+  "source_url": "https://www.lgbs.com/attorney/clifton-f-douglass-iii/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "American Cancer Society; Big Brothers-Big Sisters; Santa Rosa Children's Hospital; Witte Museum", "role": "director / advisory director", "category": "civic", "source_url": "https://www.lgbs.com/attorney/clifton-f-douglass-iii/", "snippet": "Firm bio: serves or has served as director/advisory director for numerous San Antonio civic and charitable organizations. No political-advocacy PAC ties or TEC lobbyist registration found."}
+  ]
+ },
+ {
+  "donor_id": "ffb045ae-1c9d-45c5-b05a-6e6f632e96b7",
+  "name": "Orossco, Patrick",
+  "resolved_employer": "City of Somerset (Alderperson); OA Partners LLC (real estate investor)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Patrick Orosco is an elected Alderperson for the City of Somerset, TX (Bexar County), matching the donor's Somerset 78069 location; also a real estate investor via OA Partners LLC. 'Orossco' is a spelling variant of Orosco.",
+  "source_url": "https://directory.tml.org/profile/individual/109064",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of Somerset, TX", "role": "Alderperson (City Council member)", "category": "political", "source_url": "https://directory.tml.org/profile/individual/109064", "snippet": "Patrick Orosco serves as an elected alderperson representing the City of Somerset in Bexar County, Alamo region."},
+   {"org": "OA Partners LLC", "role": "Real estate investor/principal", "category": "business", "source_url": "https://elementix.com/investors/tx/patrick-orosco", "snippet": "Associated with OA PARTNERS LLC; real estate activity in Somerset (78069) and Brownsville."}
+  ]
+ },
+ {
+  "donor_id": "fdc9f946-db63-4885-9c47-4116ff7a8dd3",
+  "name": "Pete, Sally",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported retired, San Antonio 78251. No public profile, FEC PAC record, or lobbyist registration found beyond the generic 'Retired' occupation.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f979518f-70ca-40e9-a14d-1409ce3ce0af",
+  "name": "Krulevitch, Peter",
+  "resolved_employer": "BioLark (subcutaneous drug-delivery medical-device company)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Peter Krulevitch is CEO of BioLark, a subcutaneous drug-delivery medical-device company; based in San Antonio, formerly Janssen/J&J. Public records confirm Peter A. Krulevitch at a San Antonio 78212 address matching the donor.",
+  "source_url": "https://www.linkedin.com/in/peter-krulevitch-394a308a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "efaaf200-76bf-416a-8c54-4a042c3d1fec",
+  "name": "Lynch, Connor",
+  "resolved_employer": "Self-Employed",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reported self-employed, San Antonio 78217. A 'Connor Lynch - Self-employed' LinkedIn profile (media/podcast production) exists but could not be confirmed as this San Antonio individual. No FEC PAC or lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/connortlynch/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e45e963d-f603-47dd-bfa2-b1013bfb3eee",
+  "name": "Cantu, Adelita",
+  "resolved_employer": "UT Health San Antonio School of Nursing",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Adelita G. Cantu, PhD, RN, FAAN, Associate Professor at UT Health San Antonio School of Nursing; nationally known public-health nurse and climate/health advocate. No FEC PAC or lobbyist registration found.",
+  "source_url": "https://psr.org/bios/adelita-g-cantu-phd-rn-faan/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Alliance of Nurses for Healthy Environments (ANHE)", "role": "Board of Directors member", "category": "civic", "source_url": "https://psr.org/bios/adelita-g-cantu-phd-rn-faan/", "snippet": "Board of Director member of the Alliance of Nurses for Healthy Environments; focused on climate/environmental-health advocacy."},
+   {"org": "City of San Antonio Climate & Equity Taskforce / Climate Action and Adaptation Plan", "role": "Member/participant", "category": "civic", "source_url": "https://psr.org/bios/adelita-g-cantu-phd-rn-faan/", "snippet": "Participant in the San Antonio Climate Action and Adaptation Plan and member of San Antonio's Climate and Equity Taskforce."},
+   {"org": "Physicians for Social Responsibility (PSR)", "role": "Featured bio / affiliated advocate", "category": "civic", "source_url": "https://psr.org/bios/adelita-g-cantu-phd-rn-faan/", "snippet": "Profiled by PSR for environmental-justice and climate-health advocacy work."}
+  ]
+ },
+ {
+  "donor_id": "e135155c-a62f-48e2-b994-19bc175c7f26",
+  "name": "Robles, Laureen",
+  "resolved_employer": null,
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Listed as self-employed Pastor in 78228 (West Side SA). No specific church, ministry, or public profile could be confirmed; no matching FEC or ethics records. A local 'Robles' ministry (Last Chance Ministries) exists but is a different person.",
+  "source_url": "https://am630theword.com/churchdirectory?denomination=3327",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d7196ec6-ebf5-4fcb-bd80-8afc6443417f",
+  "name": "Arriola, Angelica",
+  "resolved_employer": "Self-Employed",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Self-employed Consultant in 78201. No verifiable public profile matching this person/location; an Angelica Arriola at TxDOT (Austin) is a different location/role and not a confirmed match. No FEC/ethics records found.",
+  "source_url": "https://www.zoominfo.com/p/Angelica-Arriola/1895459889",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d1218db6-cbb7-464d-a483-758c51f53002",
+  "name": "Esquivel, Lucinda",
+  "resolved_employer": "USAA",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Reported as a Director at USAA (financial services/insurance), 78255 (far NW SA near USAA operations). Employer string is specific; USAA has many director-level roles in San Antonio. Could not locate an individual LinkedIn/bio page or any FEC/ethics records to add detail.",
+  "source_url": "https://www.usaajobs.com/search-jobs?k=&l=San+Antonio%2C+TX&orgIds=1207",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d06149b2-e3c8-4abf-9b9a-ba5988f347f4",
+  "name": "Torres, Lupe",
+  "resolved_employer": "League of United Latin American Citizens (LULAC)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed San Antonio-based LULAC national leader: National Vice President for the Southwest and Immediate Past Texas State Director; also National VP for Women; LULAC member since 1974 (Council 648, San Antonio). Former San Antonio Housing Authority commissioner. Name, title, and employer all match the donor record.",
+  "source_url": "https://lulac.org/womensconference23/speakers/torres/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "League of United Latin American Citizens (LULAC)", "role": "National Vice President for the Southwest (Immediate Past Texas State Director; National VP for Women; member LULAC Council 648, San Antonio, since 1974)", "category": "civic", "source_url": "https://lulac.org/womensconference23/speakers/torres/", "snippet": "Lupe Torres serves as National Vice President for the Southwest for LULAC and is the Immediate Past Texas State Director; a member since 1974 of LULAC Council 648 in San Antonio, she is also national vice president for women for LULAC."}
+  ]
+ },
+ {
+  "donor_id": "caf1a120-7383-40cd-b535-6f54a980b43a",
+  "name": "Branch, James",
+  "resolved_employer": "City of San Antonio (City Council Aides Corporation, LGC) - Council office",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Confirmed as a San Antonio City Council chief of staff / council aide; aides are employed by the City Council Aides Corporation (a Local Government Corporation, 'LGC', as of June 1, 2021). 78212 address matches an inner-SA council-staff residence. No FEC/ethics records found.",
+  "source_url": "https://www.ksat.com/news/local/2026/07/07/council-staffer-mayor-accused-of-leaking-info-departs-city-hall/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a7dd034c-c487-4ea4-8793-ff9e5e37a51a",
+  "name": "Jimenez, Ricardo",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as Retired, uses a PO Box (78283) with no street address; multiple men named Ricardo Jimenez exist in San Antonio and no single public profile could be corroborated to this donor. No PAC, lobbyist, or bio record confirmable.",
+  "source_url": "https://www.cyberbackgroundchecks.com/detail/ricardo-j-jimenez/pidnppappzalzxbyblqgqlz",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a10b1588-f6b4-43e7-9de1-5e65c3c9a4ab",
+  "name": "Fuentes, Noah",
+  "resolved_employer": "San Antonio River Authority",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Confirmed as Government Affairs Specialist at the San Antonio River Authority (public river/watershed authority), a government legislative-liaison role; matches donor occupation and employer. Previously Bexar County CCDV Coordinator and a Communication Specialist for Castro for Congress; UIW graduate.",
+  "source_url": "https://www.zoominfo.com/p/Noah-Fuentes/3752906866",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Castro for Congress (Joaquin Castro)", "role": "Former Communication Specialist (prior employment)", "category": "political", "source_url": "https://www.zoominfo.com/p/Noah-Fuentes/3752906866", "snippet": "Bio notes he 'was a Communication Specialist for Castro for Congress' earlier in his career; documented as prior campaign employment, not a personal donation."}
+  ]
+ },
+ {
+  "donor_id": "953d75c5-b0ef-4b43-ab8f-abd301dea40b",
+  "name": "Uribe, Sandra",
+  "resolved_employer": "Keller Williams Heritage Realty (Sandra Uribe Realty Group)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Licensed San Antonio realtor (TX license #658801) with Keller Williams Heritage; born/raised in SA and works the NW side (SeaWorld, Northwest Vista, La Cantera, Helotes) consistent with 78250 address. UTSA BBA in Management. No development-firm, PAC, or lobbyist ties found.",
+  "source_url": "https://sandrauribe.kw.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9197c51d-aa21-4d87-8d87-19912612c60b",
+  "name": "Salas, Ana",
+  "resolved_employer": "GDC Marketing & Ideation",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Employer GDC Marketing & Ideation is a San Antonio full-service advertising/branding/PR agency (221 W Poplar St). No public profile confirming the specific individual Ana Salas or her accountant role was found; industry classified by employer sector per fallback.",
+  "source_url": "https://www.gdc-co.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8eba1414-add6-428d-812f-6a09e9eff776",
+  "name": "Castro, Rosie",
+  "resolved_employer": "Retired (formerly Palo Alto College, interim dean of student affairs 2008-2013)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Maria del Rosario 'Rosie' Castro (b. 1947), veteran San Antonio Chicana political activist, founding member and Bexar County chair of La Raza Unida Party, and mother of Julian and Joaquin Castro; West Side (78228) resident. Retired from Palo Alto College; served as interim D7 councilperson in 2023.",
+  "source_url": "https://en.wikipedia.org/wiki/Rosie_Castro",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Raza Unida Party", "role": "Founding member / Bexar County chairwoman", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Rosie_Castro", "snippet": "'involved in several prominent groups, such as ... the Raza Unida Party'; served as Bexar County party chair and ran for City Council in 1971."},
+   {"org": "Committee for Barrio Betterment", "role": "Member/organizer", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Rosie_Castro", "snippet": "Named among the prominent groups she was involved with in San Antonio Chicano civil-rights organizing."},
+   {"org": "Mexican American Youth Organization (MAYO)", "role": "Member", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Rosie_Castro", "snippet": "Listed among her organizational affiliations in the Chicano movement."},
+   {"org": "Texas Organizing Project", "role": "Affiliated activist", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Rosie_Castro", "snippet": "Listed among her later civic/advocacy affiliations alongside Latinas Represent and AARP."}
+  ]
+ }
+]

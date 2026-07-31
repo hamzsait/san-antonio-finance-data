@@ -1,0 +1,224 @@
+[
+ {
+  "donor_id": "b39eb690-9a3b-4512-9a3e-fc7b7aa6e010",
+  "name": "Saldana, Jessica",
+  "resolved_employer": "H-E-B",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Self-reported Project Manager/Marketing at H-E-B (San Antonio grocery retailer), zip 78224 on the Southwest Side. No public profile could be confirmed for this specific individual; multiple people named Jessica Saldana exist in the area. Industry assigned by employer fallback (H-E-B = Retail).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c81644de-c0c2-4c7e-a69e-8f531e42c5e5",
+  "name": "Martinez, Gloria",
+  "resolved_employer": "Hogan Property Company (Hogan Real Estate Services)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "A licensed Texas real estate sales agent 'Gloria S Martinez' in San Antonio is publicly listed as sponsored by broker Michael Alan Hogan of Hogan Properties Company, matching the donor's stated occupation (Real Estate Agent) and employer (Hogan Properties). Gloria Martinez is a common name in San Antonio; separate individuals (a 2026 Bexar County District Clerk candidate; an SAISD principal) appear to be different people. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://licensee.io/real-estate/451087-gloria-s-martinez-tx/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6fb4968e-1c9f-4932-8538-f6c66d26f8e3",
+  "name": "Zertuche, Cristina",
+  "resolved_employer": "San Antonio Independent School District (SAISD)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Self-reported Teacher at SAISD (zip 78250). No SAISD staff or LinkedIn profile could be confirmed for this specific individual; a same-named clinical social worker appears in a Psychology Today directory but could not be confirmed as the same person. Industry assigned by stated occupation (SAISD teacher = Education).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0b501425-0481-4557-8ae7-914d20a9a09a",
+  "name": "Jimenez, Jessica",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor record lists no occupation or employer; address is 23826 Padauk Tree Trail, Katy, TX 77493 (Houston metro, far outside District 4). Jessica Jimenez is a very common name and no specific individual could be corroborated by location, occupation, or donation pattern. Industry left null per instructions (no confirmable public profile).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f2beb645-a23b-450f-908e-9db4e4aca660",
+  "name": "Heller, David",
+  "resolved_employer": "The NRP Group (President, CEO & Co-Founder)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "J. David Heller is President, CEO and Co-Founder of The NRP Group, one of the largest U.S. multifamily developers (HQ San Antonio/Cleveland), actively developing thousands of apartment units in San Antonio — consistent with a donation to a San Antonio council candidate. Boca Raton, FL residence (zip 33432) matches. His published bio lists extensive Jewish communal board leadership: Board Chairman of the Jewish Federation of Cleveland (2019-2022), plus board service on the Jewish Agency for Israel, the American Jewish Joint Distribution Committee, and a 2009 appointment to the U.S. Holocaust Memorial Council. Only the Federation chairmanship is recorded as an affiliation (federations operate community-relations/advocacy arms); the Jewish Agency, JDC and Holocaust Council roles are overseas-humanitarian, immigration, or memorial/education service with no policy-advocacy component and are out of scope per pipeline rules. No FEC PAC contributions in tracked categories and no TX lobbyist registration found.",
+  "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Jewish Federation of Cleveland", "role": "Board Chairman (2019-2022); longtime officer/Executive Committee member", "category": "jewish_civic", "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller", "snippet": "Bio lists him as Board Chairman of the Jewish Federation of Cleveland (2019-2022) and a longtime Federation officer and Executive Committee member."}
+  ]
+ },
+ {
+  "donor_id": "f1c6ba6d-9075-42b9-a88b-140424739b3c",
+  "name": "Aguirre Rodriguez, Mari",
+  "resolved_employer": "Opt In Experts (Founder & President; self-employed consultant)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Mari Aguirre-Rodriguez is a San Antonio consultant, Founder/President of Opt In Experts, with prior public/community affairs roles at Rackspace, City of San Antonio, and Alamo Colleges; she served as interim San Antonio City Council member (D7, 2014) and ran for D7 in 2015. San Antonio location and 'Consultant / Self-Employed' occupation match. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/mariaguirrerodriguez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d5eeabfe-2eee-4292-a599-b970465e5c8d",
+  "name": "Tahir, Anwar",
+  "resolved_employer": "Association of Convenience Store Retailers (President); small-business owner",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Anwar Tahir is President of the San Antonio-based Association of Convenience Store Retailers (ACSR, 300+ store members), a convenience-store trade association, and a small-business owner. He leads several community groups (past president Asian American Alliance of San Antonio; president of the Pakistan Association, Alflah Muslim Society, and a Texas Muslim Democrats SA chapter) and sits on a Small Business Economic Development initiative and the District Attorney's Advisory Committee. TX Ethics Commission searches did not surface Tahir or ACSR as a registered lobbyist (the larger, separate Texas Retailers Association does lobby but is a different entity). No FEC PAC contributions found.",
+  "source_url": "https://asiancentersa.org/about-us/outreach-committee/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d18964af-4e9c-49ad-a138-0d5f2b3f6cbb",
+  "name": "Saldana, Paul",
+  "resolved_employer": "Saldaña Public Relations (President & Principal)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Paul M. Saldaña is President/Principal of Saldaña Public Relations, an Austin-based public affairs, government relations and political consulting firm; he was Chief of Staff/campaign director for former Austin Mayor Gus Garcia and an Austin ISD board trustee (D6, 2015-2017). Manchaca, TX (78652, greater Austin) residence and 'PR Consultant / Saldana PR' occupation match. No FEC PAC contributions or TX lobbyist registration surfaced under his name.",
+  "source_url": "http://www.saldanapublicrelations.com/our-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b9c9160c-cbb2-4a9e-a23a-93f7ac39f137",
+  "name": "Perez, Judy",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported Not Employed at 959 W Villaret Blvd, San Antonio 78224. Judy Perez is a common name; no public profile could be corroborated to this specific individual by zip/occupation. No FEC PAC contributions, no TX lobbyist registration, and no policy-advocacy affiliations found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b6634d50-9884-41ce-b8a3-01cd59f83a58",
+  "name": "Shakil, Sarah",
+  "resolved_employer": "CAARS, Inc.",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "LinkedIn and San Antonio Report confirm Sarah Shakil as CEO of CAARS Inc., a San Antonio computer-aided-dispatch management company serving the towing industry; CAARS is a member of the Southwest Tow Operators Association, and the 78260/Vista Bella location matches. Classified Transportation (towing/dispatch services); could alternatively read as Technology given the dispatch-software nature (hence medium confidence). She served on the city's Small Business Advisory Council (civic, not a tracked policy category). No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/sarah-shakil-697031b5/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b24955bf-cd92-4c3b-ad8c-7c20ef180d11",
+  "name": "Yantis, Mike",
+  "resolved_employer": "Yantis Land, LLC",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Mike Yantis Jr. is founder/principal of Yantis Land, LLC, a San Antonio single-family land-development firm he started in 2020 after 22 years as President/CEO of Yantis Company (third-generation civil-construction firm founded 1965). Occupation 'CEO'/employer 'Yantis Land' and 78231 location match; shares address 227 Wellesley Loop with Colleen Yantis (M/I Homes), corroborating a household. No FEC PAC contributions in tracked categories, no TX lobbyist registration, and no policy-advocacy affiliations documented.",
+  "source_url": "https://jmyantis.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a839bdea-8adf-4493-826d-f9b27e0b0e14",
+  "name": "Koontz, Bart",
+  "resolved_employer": "Koontz Corporation",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Bart C. Koontz is founder, President and CEO of Koontz Corporation, a San Antonio real-estate development/construction firm (formed 1997 with Red McCombs; 9M+ sq ft commercial and 6,000+ multifamily units developed). Occupation 'CEO', employer 'Koontz Corporation', and 903 Basse Rd / 78212 address match exactly. A prior $1,000 contribution to John McCain 2008 appears in public records, but this is not one of the tracked advocacy categories. No TX lobbyist registration and no pro-Israel/pro-Palestine/oil-gas/gun/defense affiliations documented.",
+  "source_url": "http://www.koontzcorp.com/about/leadership/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a1f34f15-cfc5-4548-b8a0-d5334176c6dd",
+  "name": "Lilia Gibson, Rosa",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Confirmed as attorney at Linebarger's San Antonio office at 112 E Pecan St Ste 2200, 78205 (matches donor address). St. Mary's University JD 1997; delinquent-tax attorney since 2003, partner since 2006 (managed the Bexar County docket), SA office manager from 2016, promoted to Managing Partner of the Houston office in Jan 2026. Community roles are education-foundation focused (President, Northside Education Foundation), none relevant to the tracked policy spectrums. Although Linebarger as a firm has extensive registered-lobbyist activity, Rosa Lilia Gibson herself does not appear on the TX Ethics Commission registered-lobbyist lists (2023/2025/2026 checked). No FEC PAC federal contributions found.",
+  "source_url": "https://www.lgbs.com/attorney/lilia-gibson/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "710b8af9-73ef-493f-ba42-b5018019111d",
+  "name": "Tavares, Barbara",
+  "resolved_employer": "R.H. Shackelford, Inc. (RHSI Engineering and Project Management)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Senior Construction Manager at RHSI (R.H. Shackelford, Inc.), a San Antonio engineering/construction project-management and inspection firm; occupation 'Construction Manager' and employer 'RHSI' match. A public case study describes her joining RHSI in 2010, establishing company protocols, and managing City of San Antonio street-maintenance inspection projects, with 25+ years of construction-industry experience. Not listed on the TX Ethics Commission lobbyist registry; no FEC PAC contributions or policy-advocacy affiliations found.",
+  "source_url": "https://www.rakenapp.com/case-studies/barbara-tavares-case-study",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "70048dd6-87ec-4ab0-ba51-bb249a739059",
+  "name": "Pelaez, Diana",
+  "resolved_employer": "Alamo Colleges District (likely; unconfirmed for this specific individual)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Donor record has blank occupation/employer; multiple people named Diana Pelaez exist in San Antonio. Best public match is a Diana Pelaez who is faculty at Alamo Colleges District (BA Trinity University, MA UTSA; prior teaching at Texas A&M-San Antonio and area ISDs). Public bios of former D8 Councilman Manny Pelaez state he met his wife Diana at Trinity University and that she is a teacher — consistent with the Trinity-educated teacher profile, and the 78256 zip is within his NW-side area — but no single authoritative source confirms the 78256 donor is either his wife or the Alamo Colleges faculty member, so identity remains unconfirmed. Industry classified Education on the teacher/faculty corroboration, low confidence due to unresolved identity. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.zoominfo.com/p/Diana-Pelaez/13979451093",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6b5a04aa-d947-4976-a47b-6dc96fba7ad7",
+  "name": "Pearsall, Brian",
+  "resolved_employer": "Lowe's",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "No public profile located for this specific individual beyond the self-reported occupation/employer on the donation record (occupation 'SALES', employer 'LOWES'). Categorized by employer: Lowe's is a home-improvement retail chain (Retail). No FEC PAC contributions, no TX lobbyist registration, and no policy-advocacy affiliations found.",
+  "source_url": "https://www.lowes.com/store/TX-San-Antonio/2480",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "677591ce-0413-40c5-81d5-8875b33edc71",
+  "name": "Lopez, Nicholas",
+  "resolved_employer": "BBCW Holdings LLC",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed as CEO of BBCW Holdings LLC, a Texas LLC incorporated 11/16/2022, at 165 Scenic Bluffs Dr, Boerne, TX 78006. BBCW Holdings is a generic holding company with no public description of its line of business, and no public bio/LinkedIn ties this specific Nicholas Lopez to a distinguishable industry (the Boerne-area 'The Lopez Group' real estate team is led by Phillip Lopez, not Nicholas). Could not confirm a specific industry. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://texas-biz.com/co/bbcw-holdings-llc",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5f143043-3c90-47d9-b52f-53a4a43dcc7e",
+  "name": "Yantis, Colleen",
+  "resolved_employer": "M/I Homes Inc",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "LinkedIn and ZoomInfo confirm Colleen Yantis as Marketing Manager at M/I Homes (national homebuilder), overseeing sales/marketing for communities across the San Antonio, Boerne and New Braunfels area; prior marketing roles at Century Communities and PulteGroup (both homebuilders). Address 227 Wellesley Loop, San Antonio 78231 matches Mike Yantis of Yantis Land, corroborating a shared household. Homebuilder/residential real estate marketing. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/colleen-yantis-34506a3a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5cdcec31-77e6-48cb-9552-b07637edbea0",
+  "name": "Haass, Jasmin",
+  "resolved_employer": "Cano & Company",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Jasmin (Cortez) Haass is listed as a realtor affiliated with Cano & Company, a San Antonio commercial real estate brokerage/appraisal firm operating since 1989. Occupation and employer match the donor record (Realtor, Cano & Company). No public bio beyond the brokerage roster. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.har.com/cano--and--company/broker_SABORTX-CANO00",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "59196ade-2f8c-4a1b-8752-6e524cf35a1c",
+  "name": "Bustillo, Freddie",
+  "resolved_employer": "Bustillo Enterprises LLC (self-employed management consultant; construction/AEC sector)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Houston-metro (Spring, TX 77379) self-described Management Consultant operating through his own Bustillo Enterprises LLC. Publicly, Freddie T. Bustillo is a Houston-based Client Relations/National Consultant in the built-environment (engineering & construction) sector with ~40 years of experience (Foster CM Group; formerly VP at Hill International and Gilbane Building Company). Location, name, and consultant role align. Professional memberships (CMAA, AAAE, APTA, SMPS, SCUP) are industry-trade groups, not tracked policy-advocacy orgs. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://fostercmgroup.com/overview/leadership/leadership-freddie-bustillo/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

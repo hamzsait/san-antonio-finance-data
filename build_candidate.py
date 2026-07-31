@@ -43,6 +43,7 @@ ROSTER = [
     {"slug": "kaur", "display": "Sukh Kaur", "district": "District 1", "race": "Re-elected June 2025"},
     {"slug": "mckeerodriguez", "display": "Jalen McKee-Rodriguez", "district": "District 2", "race": "Re-elected May 2025"},
     {"slug": "viagran", "display": "Phyllis Viagran", "district": "District 3", "race": "Re-elected May 2025"},
+    {"slug": "mungia", "display": "Edward Mungia", "district": "District 4", "race": "Elected May 2025"},
 ]
 
 # Non-officeholders rendered with candidate framing instead of incumbent

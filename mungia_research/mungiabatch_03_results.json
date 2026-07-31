@@ -1,0 +1,241 @@
+[
+ {
+  "donor_id": "45d65fd8-cfcc-4f55-b19f-177f29c7556a",
+  "name": "Salas, Arthur",
+  "resolved_employer": "Retired (no employer)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired donor in zip 78201 (2126 W Olmos Dr). 'Arthur/Arturo Salas' is very common in San Antonio; could not confirm the specific individual or any professional/advocacy profile beyond the self-reported 'retired' occupation.",
+  "source_url": "https://www.spokeo.com/Arthur-Salas",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1dc40f2e-831d-4052-a7e7-48cd77e2b182",
+  "name": "Shakil, Sohail",
+  "resolved_employer": "J3 Company, LLC",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Project Manager at J3 Company, LLC, a San Antonio civil/public-works and land-development construction firm; UTSA background with prior roles at Texas Sterling, Webber, Ballenger. Name, employer 'J3', and SA location corroborate.",
+  "source_url": "https://rocketreach.co/sohail-shakil-email_804377282",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "148ccb2b-fa97-4c71-84ed-6cd8193de025",
+  "name": "Llano, Mario",
+  "resolved_employer": "VIA Metropolitan Transit",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Government Relations Coordinator at VIA Metropolitan Transit, San Antonio's public transit authority (LinkedIn confirms name, title, SA location). No personal registration found in the Texas Ethics Commission lobbyist lists; government-relations work is his employment role at the public agency.",
+  "source_url": "https://www.linkedin.com/in/mario-llano-8b60b6b0/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "049bf984-fd1e-4278-b238-3e97ca35b851",
+  "name": "Pelaez, Manuel",
+  "resolved_employer": "City of San Antonio (District 8 Councilman, 2017-2025) / attorney",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Donor address 7118 Bella Mist is in the Cresta Bella gated community (78256), inside Council District 8 — the district Manny (Manuel) Pelaez represented and where he resides; combined with his attorney status and active federal-donor record this strongly indicates the donor is Councilman Manny Pelaez, though the exact residential address could not be independently confirmed.",
+  "source_url": "https://ballotpedia.org/Manny_Pelaez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council (District 8) / Pelaez for Mayor 2025", "role": "Councilmember (2017-2025); 2025 mayoral candidate", "category": "political", "source_url": "https://sanantonioreport.org/district-8-councilman-manny-pelaez-launches-2025-mayoral-bid/", "snippet": "Manny Pelaez served as the District 8 City Council representative from June 2017 to June 2025 and ran for San Antonio mayor in 2025."}
+  ]
+ },
+ {
+  "donor_id": "0069b2f9-9b42-47f4-a6b5-d1695bdc9a8c",
+  "name": "Reyna, Ricardo",
+  "resolved_employer": "The Reyna Law Firm",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "President/founder of The Reyna Law Firm in San Antonio, a civil-litigation and personal-injury practice; practicing since 1990, member of the American Board of Trial Advocates and repeatedly listed in Best Lawyers/Super Lawyers. Name + firm + SA attorney status all match.",
+  "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/ricardo-r-reyna/32122323-fe2e-4abd-8452-0fedb1583440.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "71d51f76-6110-4b14-af27-f27612f5c035",
+  "name": "Salas, Tim",
+  "resolved_employer": "City of San Antonio Council Aides (Local Government Corporation)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Council Aide employed by the City of San Antonio Council Aides Corporation (LGC), the entity that employs municipal council staff. No distinguishing public profile confirmed among same-named individuals.",
+  "source_url": "https://www.governmentjobs.com/careers/sanantoniotx/jobs/newprint/4239163",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4cd0ff71-69ef-4f69-97e3-57fd2a91dcfc",
+  "name": "Marck, Eugene",
+  "resolved_employer": "None (retired)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Eugene W. Marck, 345 Argyle Ave (Alamo Heights area, 78209), self-described 'retired' in a Texas Legislature public-comment record. High FEC itemized-contribution count (129) indicates a frequent small-dollar donor, but no specific federal PAC or advocacy record could be confirmed publicly; profession beyond 'retired' unverified.",
+  "source_url": "https://capitol.texas.gov/tlodocs/89R/publiccomments/Meetings/C4792025042810001/InputItems/6dca2e0f-9eb2-4d9c-8fad-d1492f2c705c.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d61c01ac-67ca-459e-a03a-843ea658fc70",
+  "name": "Mungia, Eric",
+  "resolved_employer": "Docucon (document imaging/records-management services)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Manager at Docucon, a San Antonio document-imaging/records-management firm. Candidate Edward Mungia also previously worked at Docucon Imaging Services, consistent with the likely family/shared-employer connection (shares 9303 Conde Dr address with Margarita Mungia). No independent advocacy profile found.",
+  "source_url": "https://sanantonioreport.org/profile/edward-mungia-2025-san-antonio-city-council-district-4-candidate/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "eeec7547-5374-4a4c-9833-f5dbc05f8817",
+  "name": "Felici, Paco",
+  "resolved_employer": "Port San Antonio",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Paco Felici is Chief of Staff & Chief Communications Officer at Port San Antonio (joined 2009 as communications manager). Prior roles: communications director of the Nature Conservancy of Texas and deputy communications director at the Texas Attorney General's office (1993-2008). Career-long PR/public-affairs professional; address matches donor's 78201.",
+  "source_url": "https://www.portsanantonio.us/leadership-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d427a5db-f3d6-4712-9edb-9e5f9e601f63",
+  "name": "Elizondo, William",
+  "resolved_employer": "None (retired optometrist)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. William R. Elizondo, OD, retired optometrist at 740A Barchester Dr (matches donor address 740 Barchester Dr, 78216). Korean War Marine veteran and longtime San Antonio civic leader.",
+  "source_url": "https://guides.mysapl.org/c.php?g=815582&p=6826117",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "League of United Latin American Citizens (LULAC)", "role": "National Health Director (appointed 1963)", "category": "civic", "source_url": "https://guides.mysapl.org/c.php?g=815582&p=6826117", "snippet": "In 1963 he was appointed National Health Director of LULAC, the same year he met President Kennedy."},
+   {"org": "San Antonio Independent School District (SAISD) Board of Trustees", "role": "Board President (four terms)", "category": "civic", "source_url": "https://guides.mysapl.org/c.php?g=815582&p=6826117", "snippet": "His board experience includes four terms as president of the San Antonio Independent School District."},
+   {"org": "Bexar County Hospital District Board of Trustees", "role": "Board member", "category": "civic", "source_url": "https://guides.mysapl.org/c.php?g=815582&p=6826117", "snippet": "His board experience includes service on the Hospital District Board of Trustees."}
+  ]
+ },
+ {
+  "donor_id": "b88e09a5-46f8-43dd-abbb-85ad1b27b39d",
+  "name": "Galindo, Ana",
+  "resolved_employer": "City of San Antonio - Local Government Corporation (LGC)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Listed as a Council Aide employed by the City of San Antonio's Local Government Corporation. No public profile could be confirmed for the specific individual beyond the self-reported occupation/employer; 'Ana Galindo' is a common name in San Antonio.",
+  "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/About/Staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "39f58ab4-9ab0-4c48-8250-61c06c9a6527",
+  "name": "Barshop, Noah",
+  "resolved_employer": "Bexar County (Director of Public Policy)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Director of Public Policy for Bexar County (San Antonio); previously Director of Policy/Communications for San Antonio Councilman Manny Pelaez (D8) and an account manager at a political campaign firm. Part of the prominent SA Barshop family. No FEC PAC contributions or Texas/City lobbyist registration found under his name.",
+  "source_url": "https://www.zoominfo.com/p/Noah-Barshop/3248190532",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Office of San Antonio Councilman Manny Pelaez (D8)", "role": "Former Director of Policy/Communications", "category": "political", "source_url": "https://www.zoominfo.com/p/Noah-Barshop/3248190532", "snippet": "Served as Director of Policy for Councilman Manny Pelaez in the City of San Antonio before joining Bexar County as Director of Public Policy."}
+  ]
+ },
+ {
+  "donor_id": "327eacd0-1e2b-464e-9d66-cbae240ce39d",
+  "name": "Mungia, Margarita",
+  "resolved_employer": "Retired (not employed)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported retired, resides in 78224 (Southwest Side, within D4). Shares the 9303 Conde Dr address with Eric Mungia, strongly suggesting she is a family member of candidate Edward Mungia. No public professional profile, FEC PAC record, or lobbyist registration found.",
+  "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D4/Biography",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e8a00ad-be6f-40c6-a3f7-9590090ae3d5",
+  "name": "Pacheco, Brenda",
+  "resolved_employer": "Retired / Not Employed",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Very likely the Brenda Pacheco profiled by the San Antonio Report as a Mission San Jose neighborhood community activist and descendant of the mission's original settlers; her 78214 zip and E. Huff address match the South Side Mission district. Now retired; has served on City Council District 3 committees. No FEC PAC record or lobbyist registration found.",
+  "source_url": "https://sanantonioreport.org/mission-san-jose-neighborhood-san-antonio-brenda-pacheco/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio (District 3 committees/commissions)", "role": "Community activist / committee member", "category": "civic", "source_url": "https://sanantonioreport.org/mission-san-jose-neighborhood-san-antonio-brenda-pacheco/", "snippet": "Describes herself as a community activist focused on neighborhood quality of life who has served on City Council District 3 committees and commissions and campaigned for infrastructure, South Side colleges and libraries."}
+  ]
+ },
+ {
+  "donor_id": "e81e298a-7b75-413b-af40-f9d919af914a",
+  "name": "Mungia, Edward",
+  "resolved_employer": "City of San Antonio (City Council District 4)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "The candidate himself (self-donation via campaign PO Box in 78227, within D4). Edward Mungia won the open San Antonio City Council District 4 seat in May 2025; longtime D4 council staffer (director of special projects under Adriana Rocha Garcia) and former South San ISD trustee. No separate federal PAC contribution or lobbyist registration found.",
+  "source_url": "https://ballotpedia.org/Edward_Mungia",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council, District 4", "role": "Councilman (candidate/officeholder)", "category": "political", "source_url": "https://ballotpedia.org/Edward_Mungia", "snippet": "Won the D4 City Council seat in May 2025; longtime District 4 council staffer and former South San ISD board trustee."}
+  ]
+ },
+ {
+  "donor_id": "e696ec8e-b10e-4ea7-8975-94211c531e99",
+  "name": "Delgado, Lomeli",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as not employed at 647 Coral Harbor, San Antonio 78251; only public record found is property ownership (Lomeli M Delgado) at that address. No professional, lobbyist, or advocacy profile located. Quiet outcome.",
+  "source_url": "https://blockshopper.com/tx/bexar-county/cities/san-antonio/streets/coral-hbr",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d8ecb552-4917-4c63-81ac-15787e18d3d6",
+  "name": "Villa, David",
+  "resolved_employer": "Retired / Not Employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired resident at 6880 S Loop 1604 W, Von Ormy 78073. No matching professional bio, FEC PAC record, or lobbyist registration found for this specific individual; common name. Quiet outcome.",
+  "source_url": "",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fb840b55-7d54-4c00-91a1-9068921706da",
+  "name": "Rodriguez, Carolina",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Carolina Pena Rodriguez, retired, at 9549 S US Hwy 181, San Antonio 78223 — same address as former Congressman Ciro D. Rodriguez, and documented as his spouse (Carolina Pena). FEC records list her (RODRIGUEZ, CAROLINA P / PENA RODRIGUEZ, CAROLINA, zip 78223) as an active donor.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Carolina+Rodriguez&contributor_city=San+Antonio&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Michelle Vallejo for Congress / Johnny Garcia for Congress", "role": "Individual donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Carolina+Rodriguez&contributor_city=San+Antonio&contributor_state=TX", "snippet": "FEC filings list Carolina P / Pena Rodriguez, zip 78223, RETIRED, giving to Michelle Vallejo for Congress and Johnny Garcia for Congress — Texas Democratic House candidates."}
+  ]
+ },
+ {
+  "donor_id": "af4a5945-5f0d-4d89-bbcb-352a6f4d6e9f",
+  "name": "Rodriguez, Ciro",
+  "resolved_employer": "Retired (former U.S. Representative)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Ciro D. Rodriguez, former U.S. Congressman for TX-23 (2007-2011) and TX-28 (1997-2005) and Texas House member (1987-1997), Democrat, from San Antonio. FEC records tie him to 9549 S US Hwy 181, San Antonio 78223 (address/zip/retired status all match).",
+  "source_url": "https://en.wikipedia.org/wiki/Ciro_Rodriguez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "U.S. House of Representatives (TX-23 / TX-28)", "role": "Former U.S. Representative (Democrat)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Ciro_Rodriguez", "snippet": "Ciro Davis Rodriguez served as U.S. Rep for Texas's 23rd district 2007-2011 and 28th district 1997-2005, and in the Texas House 1987-1997; member of the Democratic Party."},
+   {"org": "Ciro D. Rodriguez for Congress", "role": "Candidate / donor to own committee", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Ciro+Rodriguez&contributor_city=San+Antonio&contributor_state=TX", "snippet": "FEC lists CIRO D. RODRIGUEZ, occupation CONGRESSMAN, employer US HOUSE, zip 78223, self-funding contributions/loans to 'Ciro D. Rodriguez for Congress'."}
+  ]
+ },
+ {
+  "donor_id": "3e7b762b-39f2-45f2-a277-519496f8910b",
+  "name": "Garza, Manuel",
+  "resolved_employer": "Self-Employed (Consultant)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Self-employed consultant at 414 Remolino, San Antonio 78237. FEC individual-contribution records for Manuel Garza, zip 78237, employer SELF, occupation CONSULTANT match the high (251) FEC count via many small recurring ActBlue donations; no Texas or City of San Antonio lobbyist registration found. 'Manuel Garza' is common, so identity confidence is capped at medium.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Manuel+Garza&contributor_city=San+Antonio&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "ActBlue (DCCC, DSCC, Emily's List, individual Democratic campaigns)", "role": "Recurring small-dollar donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Manuel+Garza&contributor_city=San+Antonio&contributor_state=TX", "snippet": "FEC shows Manuel Garza, SELF / CONSULTANT, zip 78237, making numerous small ActBlue contributions earmarked to Democratic committees including DCCC, DSCC, and Emily's List."}
+  ]
+ }
+]

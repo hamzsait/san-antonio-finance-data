@@ -1,0 +1,94 @@
+[
+  {
+    "donor_id": "212a4d23-4f1a-482d-ab28-ff9d3d89b7bf",
+    "name": "Herrera, Jessica",
+    "resolved_employer": "EssilorLuxottica (Senior Manager, Managed Vision Care Services)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "LinkedIn places Jessica L. Herrera in San Antonio, TX as Senior Manager, Managed Vision Care Services at EssilorLuxottica — matches employer, city, and management/'Project Management' role; specific 78223/Buescher Ln address not independently confirmed. Common name, so the FEC count of 40 is aggregated across many people and none could be tied to this specific person.",
+    "source_url": "https://www.linkedin.com/in/jessicalherrera/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1b1cd16d-62f4-4e4c-bc0c-43948e218cfb",
+    "name": "Flores, Vilma",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Public-records aggregators confirm a Vilma Flores at 111 Livingston, San Antonio, TX 78214, matching the donor address exactly. Self-reports Not Employed; no professional bio, no PAC ties, and no TX lobbyist registration found — a quiet ordinary-resident result.",
+    "source_url": "https://nationalpublicdata.com/people/f/vilma-flores/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "18478322-5cab-4b71-ae43-2f34514454b6",
+    "name": "Zumaran, Steven",
+    "resolved_employer": "UT Health San Antonio (University of Texas Health Science Center at San Antonio) — Director of Development",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Rare surname; LinkedIn (Steven Zumarán, Ed.D., San Antonio area) and ZoomInfo list him as Director, Development at UT Health San Antonio, matching donor occupation ('Director of Development'), employer, and 78148 SA metro. University-fundraising role at a public academic health-science center, so Education is the better fit (Healthcare also plausible).",
+    "source_url": "https://www.linkedin.com/in/steven-zumar%C3%A1n-ed-d-2163b679/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1558f186-40e8-47ce-88ec-077358157891",
+    "name": "Bazan, Haydee",
+    "resolved_employer": "Harlandale ISD (retired)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Public records place Haydee Bazan (b. 1952) at 214 Kirkwood, San Antonio 78214; OpenGovPay lists a Haydee Bazan employed by Harlandale ISD (~$32,928, 2017), a south-side San Antonio public school district matching her prior address at 510 Holder Ave 78211. Consistent with 'Retired.' The LSU ophthalmology professor 'Haydee E.P. Bazan' is a different person (New Orleans).",
+    "source_url": "https://opengovpay.com/tx/haydee-bazan/45046039",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "10d06c4a-3630-4ec4-a6ec-13b6a654cec4",
+    "name": "Moya, Crystal",
+    "resolved_employer": "LUMA Residential (Vice President of Operations) — multifamily property-management/development",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Crystal Moya is VP of Operations at LUMA Residential, a multifamily property-management/development company (occupation/employer fields were swapped in the record). Confirmed via LUMA/ZoomInfo/NAA; MBA coursework at UT-Rio Grande Valley ties her to Edinburg 78542. A documented multifamily-industry policy advocate: Chair of the Texas Apartment Association Legislative Committee (testified before the TX House Committee on Urban Affairs) and NAA's 2025 Malcolm N. Bennett Advocate of the Year — an out-of-area, influence-adjacent real-estate donor. No ideological PAC ties found; not in the TX Ethics Commission lobbyist registry (2023-2026).",
+    "source_url": "https://naahq.org/news/spotlight-dallas-crystal-moya-receives-naas-annual-advocacy-recognition",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "LUMA Residential", "role": "Vice President of Operations", "category": "business", "source_url": "https://naahq.org/news/spotlight-dallas-crystal-moya-receives-naas-annual-advocacy-recognition", "snippet": "Crystal Moya is Vice President of Operations for LUMA Residential."},
+      {"org": "Texas Apartment Association", "role": "Chair, Legislative Committee", "category": "business", "source_url": "https://naahq.org/news/spotlight-dallas-crystal-moya-receives-naas-annual-advocacy-recognition", "snippet": "She currently serves as Chair of the Texas Apartment Association's (TAA) Legislative Committee... She has testified before the Texas House of Representatives Committee on Urban Affairs."},
+      {"org": "National Apartment Association", "role": "2025 Malcolm N. Bennett Advocate of the Year; Advocacy Academy 2024", "category": "business", "source_url": "https://naahq.org/news/spotlight-dallas-crystal-moya-receives-naas-annual-advocacy-recognition", "snippet": "In 2025, she received the Malcolm N. Bennett Advocate of the Year award from the National Apartment Association."}
+    ]
+  },
+  {
+    "donor_id": "0d1a2ada-b0fa-4341-8bb5-60207f9fa94f",
+    "name": "Ortiz, Julianne",
+    "resolved_employer": "Aspen Dental (dental hygienist)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Occupation (dental hygienist) corroborated by a San Antonio LinkedIn profile with UT Health San Antonio dental-hygiene education; employer Aspen Dental per donor record. No FEC contributions (count 0; FEC hits were an unrelated 'Ortiz For Congress' committee), no TX lobbyist registration, no advocacy ties — a quiet employer-fallback result.",
+    "source_url": "https://www.linkedin.com/in/julianne-ortiz-10256596/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "06e53d91-ea4f-479a-ae0b-309b58c8e934",
+    "name": "Alvarez-McCurdy, Catherine",
+    "resolved_employer": "Multiverse (Senior Learning Designer) — edtech apprenticeship company",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Catherine Alvarez-McCurdy as Senior Learning Designer at Multiverse (edtech) in NYC; distinctive hyphenated surname matches. Education-focused career: UChicago public-policy student and co-author at UChicago Consortium on School Research, prior data work at ProjectSTEM. Out-of-state (NYC 10010) donor, likely a personal connection. No FEC PAC ties, no TX lobbyist registration, no advocacy affiliations found.",
+    "source_url": "https://www.linkedin.com/in/catherine-alvarez-mccurdy/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "00557daa-597d-4652-882c-d6da5b98210b",
+    "name": "Linares, Melissa",
+    "resolved_employer": "USAA (Manager)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Donor record lists 'Manager' at USAA/Bank in San Antonio 78209 (435 Rockhill Dr); USAA is a San Antonio-HQ'd financial/insurance firm, so Finance is an employer-fallback classification. No independent LinkedIn/bio, TX lobbyist registration, or notable ideological PAC activity could be tied to this specific individual.",
+    "source_url": "https://en.wikipedia.org/wiki/USAA",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

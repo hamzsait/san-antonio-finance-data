@@ -1,0 +1,231 @@
+[
+ {
+  "donor_id": "38951651-fcd4-4564-b778-68f3dbf19e2a",
+  "name": "Navarro, Maximilian",
+  "resolved_employer": "Operational Technologies Corporation (OpTech)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Title 'President' + name + San Antonio (78257) match Maximiliano Navarro III, President of OpTech (founder/chairman is his father Max Navarro). OpTech is a San Antonio diversified technology/technical-services firm with defense/government contracts. Shares 1 Ashley Grn with Irene Navarro (household).",
+  "source_url": "https://theorg.com/org/operational-technologies-corporation/org-chart/maximiliano-navarro-iii",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Operational Technologies Corporation (OpTech)", "role": "President", "category": "military_defense", "source_url": "https://otcorp.com/about-us/", "snippet": "OpTech's government/defense clients include 'The Pentagon, U.S. Army, U.S. Air Force, NASA and U.S. Department of Homeland Security'; early work included the ASVAB military test and Air Force Intelligence Agency contracts. Defense-contractor exec role (business/employment, not documented personal policy advocacy)."}
+  ]
+ },
+ {
+  "donor_id": "18583101-6c0e-4535-a8b5-6d53be3e483e",
+  "name": "Navarro, Irene",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Retired; shares 1 Ashley Grn, San Antonio 78257 with Maximilian Navarro (President of OpTech) — household member. No independent public profile; FEC PAC and TX lobbyist searches quiet.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4c693ee3-57b9-487b-9518-6295ed3db40d",
+  "name": "Vale, Theresa",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Retired, 78228 (West Side). Obituary of daughter Maureen Theresa Vale names mother 'Theresa Vale' and late father Senator Robert Vale. R.L. 'Bob' Vale was a San Antonio TX state Rep/Senator ('Dirty Thirty'/'Killer Bees') who married Theresa (native of England) in 1958 — donor is very likely his widow.",
+  "source_url": "https://lrl.texas.gov/legeleaders/members/memberdisplay.cfm?memberID=489",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Vale family (widow of former TX Senator R.L. 'Bob' Vale)", "role": "Spouse of former state legislator", "category": "political", "source_url": "https://lrl.texas.gov/legeleaders/members/memberdisplay.cfm?memberID=489", "snippet": "R.L. 'Bob' Vale served in the TX House and Senate representing San Antonio; married wife Theresa in 1958. Family/political connection, not the donor's own advocacy role."}
+  ]
+ },
+ {
+  "donor_id": "b0c28563-782a-4500-9e3b-be9d1aa68755",
+  "name": "Hernandez, Yojani",
+  "resolved_employer": "City of San Antonio - District 4 Council Office (Council Aides LGC)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Listed as Council Aide / Director of Constituent Services for San Antonio City Council District 4 — Mungia's own council office (a staffer donating to her own office-holder). Employer strings confirm City of San Antonio / District 4; 78221 South Side residence. No FEC PAC or TX lobbyist record.",
+  "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D4",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bf92d5e6-b004-41de-bea0-73a225cb914d",
+  "name": "Jimenez, Homer",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired, 78224 (South Side). Common name; a San Antonio 'Homer Jimenez' LinkedIn exists but cannot be confirmed as this retired donor. FEC PAC and TX lobbyist searches returned no confirmable match.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6a4c8608-1f5c-4c57-970b-1f2fce7fd5ca",
+  "name": "Jimenez, Joseph",
+  "resolved_employer": "Retired / Not Employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired/Not Employed, Keller TX (DFW area), out-of-district donor. Very common name; no distinguishing public profile found and no FEC PAC or TX lobbyist record tied to this specific person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "efcca18b-d617-4233-8c0e-4dc47cb79c8f",
+  "name": "Valdez, Salvador",
+  "resolved_employer": "City of San Antonio (City Council office / Council Aides LGC)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Salvador 'Sal' Valdez IV, City of San Antonio, listed on LinkedIn as a council aide; occupation, employer (LGC = council-aide local government corporation) and SA 78223 location all corroborate. No FEC PAC or TX lobbyist record.",
+  "source_url": "https://www.linkedin.com/in/salvador-sal-valdez-iv-05351bb/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ed5254c2-9614-4975-bec5-971c4515025c",
+  "name": "Rubiola, Zachary",
+  "resolved_employer": "City of Austin (HR Specialist)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "HR Specialist at City of Austin; Austin 78731 address matches the donor record. Rubiola is a known San Antonio real-estate family name, but this individual is classified on his own public-employee record; no evidence links him to the real-estate business, and no FEC PAC or TX lobbyist record.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ec154d59-0f14-4a1c-94da-be0ff232f57f",
+  "name": "Cavazos, C LeRoy",
+  "resolved_employer": "Localism, Inc. (founder/CEO; government-affairs consulting)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "C. LeRoy Cavazos-Reyna, Founder/CEO of Localism, Inc. (government-affairs/strategy consulting); formerly VP of Government Affairs at the San Antonio Hispanic Chamber and VP Government & International Affairs at the U.S. Hispanic Chamber. Well-documented SA public-affairs figure; 78231 matches. No ideological-PAC contribution or registered-lobbyist filing surfaced.",
+  "source_url": "https://sanantonioreport.org/hispanic-chamber-veteran-returns-san-antonio-boost-minority-businesses/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Every Texan", "role": "Racial Equity Committee Chair", "category": "civic", "source_url": "https://everytexan.org/c-leroy-cavazos-reyna/", "snippet": "Bio page lists him as 'Racial Equity Committee Chair' at Every Texan, a Texas public-policy advocacy organization."},
+   {"org": "Localism, Inc.", "role": "Founder & CEO", "category": "business", "source_url": "https://sanantonioreport.org/hispanic-chamber-veteran-returns-san-antonio-boost-minority-businesses/", "snippet": "Localism, Inc. 'offers a full range of business-related services, including government affairs, strategic planning and diversity work'; certified Hispanic, LGBTQ+, and Disabled-owned business."}
+  ]
+ },
+ {
+  "donor_id": "e6025bbe-501f-4bbe-b5b6-fe5ea8f2c73b",
+  "name": "Zinsmeister, Irene",
+  "resolved_employer": "Northside ISD (NISD)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Irene Zinsmeister appears in NISD board documents (2022-2023) as a Family & Community Liaison at Ross Middle School; NISD employment, the community-school-coordinator role, and Helotes 78023 address all corroborate. No FEC PAC or TX lobbyist record.",
+  "source_url": "https://www.nisd.net/sites/default/files/attachments/board-02-28-23.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dfb97bad-0ea0-4916-9b46-a9121b7c726c",
+  "name": "Cantu, Armando",
+  "resolved_employer": "CARDBoard Project (founder/CEO)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "CARDBoard Project is a 501(c)(3) digital-inclusion nonprofit founded 2016 by Armando Cantu, HQ'd at 4008 Cavalry Dr, Plano TX 75023 — an exact match to the donor's address. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.guidestar.org/profile/81-4431217",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "CARDBoard Project", "role": "Founder / CEO (Executive Director)", "category": "civic", "source_url": "https://thecardboardproject.godaddysites.com/about-us", "snippet": "501(c)(3) founded Nov 2, 2016 by Armando Cantu to bridge the digital gap and educate under-resourced communities about internet access; org address 4008 Cavalry Dr, Plano, TX 75023."}
+  ]
+ },
+ {
+  "donor_id": "d45c504f-e467-418d-843b-3f4b9aa6ee1d",
+  "name": "Benavides, Diana",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, Caddo Mills TX. No public profile, FEC/OpenSecrets PAC record, or TEC lobbyist registration confirmable for this specific person; common name.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d150fb57-9ad4-47ff-827f-e728b39067d9",
+  "name": "Galvez, Juanita",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Public records confirm Juanita Galvez at 5707 Hickory Cyn, San Antonio, TX 78252 (exact donor address), listed as not employed. No employer, FEC PAC, or TX lobbyist affiliations found.",
+  "source_url": "https://www.officialusa.com/names/Juanita-Galvez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bdad3a9b-640c-4763-b0e1-fa68f104cceb",
+  "name": "Dorantes, Julio",
+  "resolved_employer": "La Bahia Restaurant & Cantina (Goliad, TX)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Julio Dorantes works at La Bahia Restaurant & Cantina in Goliad; public records place him at 444 Pettus St, Goliad TX 77963 (exact donor address). Matches the restaurant-server occupation. No FEC PAC or TX lobbyist records.",
+  "source_url": "https://www.linkedin.com/in/julio-dorantes-0710661b6/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b45d6c78-2005-41df-a40f-5a7d429f52fb",
+  "name": "Reyes, Norma",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, San Antonio 78228. 'Norma Reyes' is very common in San Antonio (multiple candidates); none confirmable to 348 Alexander Hamilton, 78228. No FEC PAC or TX lobbyist records tied to this person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b1a1b0d1-6fc6-4f14-b833-e6ca5c9d4a3f",
+  "name": "Alonzo, Gigi",
+  "resolved_employer": "Prodigy Performance Enterprise",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "LinkedIn lists Gigi Alonzo as Job Skills Trainer at Prodigy Performance Enterprise, San Antonio; matches donor employer 'Prodigy Performance' and 'Contract Employment' occupation. Prodigy is a workforce/vocational job-training provider (TWC vocational-rehab contract). No FEC PAC or TX lobbyist record.",
+  "source_url": "https://www.linkedin.com/in/gigi-alonzo-9b4783300/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aea15562-6c59-465a-acaf-1cb05e949845",
+  "name": "Rubiola, Maricela",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Donor self-reports Not Employed at 78209. Rubiola is a well-known SA real-estate family name, but no public record ties this individual to Rubiola Realty; classified on her own record as Not Employed. No inference drawn from surname; no FEC PAC or TX lobbyist record.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a5de648e-e410-4979-bedc-17327f29aa4c",
+  "name": "Baiza Jr., Bobby",
+  "resolved_employer": "Northside ISD (NISD)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "NISD directory and LinkedIn confirm Bobby A. Baiza works at Northside ISD San Antonio (listed as Assistant Principal; donor record occupation 'Teacher, NISD'), 78254. Public education employment. No FEC PAC or TX lobbyist record.",
+  "source_url": "https://www.linkedin.com/in/bobby-baiza-017a7b7a",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a52261ae-b027-4e40-a8ab-774e312e85c5",
+  "name": "Kennick, Michael",
+  "resolved_employer": "United States Air Force (civilian engineer)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Michael Patrick Kennick, 8323 Magdalena Run, Helotes 78023; LinkedIn lists him as a civilian USAF computer/enterprise-architecture engineer. Civilian federal employment = Government (not defense-industry advocacy). No FEC PAC or TX lobbyist record.",
+  "source_url": "https://www.linkedin.com/in/michaelkennick/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9ed03928-7831-4608-a233-8834b4840cff",
+  "name": "Jimenez, Ricardo",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, uses PO Box 83175 (78283) with no street address; 'Ricardo Jimenez' is a very common San Antonio name. Could not corroborate a specific individual, so no industry assigned. No FEC PAC or TX lobbyist record confirmable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]
