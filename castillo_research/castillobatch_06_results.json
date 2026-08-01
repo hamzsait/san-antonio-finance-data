@@ -1,0 +1,250 @@
+[
+ {
+  "donor_id": "b813bffe-2ffc-4371-ae30-0737e146c75c",
+  "name": "Bravenec, Katy",
+  "resolved_employer": "San Antonio Alliance of Teachers & Support Personnel (Local 67) — union organizer",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Lead union organizer for the San Antonio Alliance of Teachers & Support Personnel (matches employer/occupation and 78212 zip near the Alliance area at 501 Shook Ave); later named Texas regional field director running Bernie Sanders' 2020 San Antonio field office. No ideological PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.sacurrent.com/news/bernie-sanders-opens-san-antonio-office-names-local-union-organizer-to-run-it-23067302",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Alliance of Teachers & Support Personnel (Local 67)", "role": "Union organizer / lead organizer", "category": "civic", "source_url": "https://www.sacurrent.com/news/bernie-sanders-opens-san-antonio-office-names-local-union-organizer-to-run-it-23067302", "snippet": "A local union organizer for the San Antonio Alliance of Teachers and Support Personnel was named to run the Sanders field office."},
+   {"org": "Bernie Sanders 2020 presidential campaign (San Antonio)", "role": "Texas regional field director", "category": "political", "source_url": "https://www.sacurrent.com/news/bernie-sanders-opens-san-antonio-office-names-local-union-organizer-to-run-it-23067302", "snippet": "Bernie Sanders opened his San Antonio office and named the local union organizer to run it, rallying volunteers from San Antonio to El Paso."}
+  ]
+ },
+ {
+  "donor_id": "635502b5-10ab-4c5d-9651-16b5e89d93f7",
+  "name": "Reyna, Adrian",
+  "resolved_employer": "San Antonio ISD — U.S. History teacher; Executive Vice President, San Antonio Alliance Local 67",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Third-generation SAISD public school teacher (~15 years) and Executive VP of the San Antonio Alliance of Teachers & Support Personnel (matches SAISD employer and teacher/aide occupation); 2026 Democratic runoff winner for Texas House District 125. No ideological PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://sanantonioreport.org/profile/adrian-reyna-2026-candidate-for-texas-house-district-125/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Alliance of Teachers & Support Personnel (Local 67)", "role": "Executive Vice President; founding member of PODER caucus", "category": "civic", "source_url": "https://www.texasaft.org/policy/funding/san-antonio-alliance-member-adrian-reyna-announces-state-house-run/", "snippet": "He serves as executive vice president of the San Antonio Alliance of Teachers and Support Personnel and is a founding member of PODER, the social justice caucus of the alliance."},
+   {"org": "Texas House District 125 campaign", "role": "Democratic candidate (2026, runoff winner)", "category": "political", "source_url": "https://www.tpr.org/government-politics/2026-05-26/saisd-teacher-labor-activist-adrian-reyna-holds-commanding-early-lead-in-democratic-runoff-for-texas-house-district-125", "snippet": "SAISD teacher, labor activist Adrian Reyna wins Texas House District 125 Democratic runoff by wide margin."}
+  ]
+ },
+ {
+  "donor_id": "e7a91821-632c-4366-af0e-cfda395c2c51",
+  "name": "Casillas, Andrew",
+  "resolved_employer": "Casillas Law Firm, PLLC — principal/corporate attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "San Antonio corporate attorney, founder of Casillas Law Firm PLLC (matches employer/occupation and 78212 address); former Akin Gump commercial litigator, General Counsel for the SA Hispanic Chamber of Commerce, and campaign director for Ron Nirenberg for Mayor. No ideological PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://arcasillas.com/casillas-law-firm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Hispanic Chamber of Commerce", "role": "General Counsel", "category": "business", "source_url": "https://arcasillas.com/casillas-law-firm", "snippet": "He also serves as the General Counsel for the San Antonio Hispanic Chamber of Commerce."},
+   {"org": "Ron Nirenberg for Mayor campaign", "role": "Campaign Director", "category": "political", "source_url": "https://arcasillas.com/casillas-law-firm", "snippet": "He also served as Campaign Director for the Ron Nirenberg for Mayor campaign."},
+   {"org": "Leadership San Antonio (Class 42) / Alexander Briseno Leadership Development Program", "role": "Co-Chair / Tri-Chair", "category": "civic", "source_url": "https://arcasillas.com/casillas-law-firm", "snippet": "Co-Chair, Leadership San Antonio Class 42; Tri-Chair, Alexander Briseno Leadership Development Committee."}
+  ]
+ },
+ {
+  "donor_id": "fe901a98-2ad5-4fa9-96c8-176418d6c271",
+  "name": "Radle, Pati",
+  "resolved_employer": "Retired — co-founder/co-director Inner City Development; former SAISD board president & San Antonio City Council member",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed as Patti Radle: longtime West Side (78207) community leader, volunteer co-director/co-founder of Inner City Development, former SAISD Board of Trustees president (2015-2021) and San Antonio City Council member (2003-2007); 'Retired' status fits her nonprofit/education/local-government career. No ideological PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://sanantonioreport.org/patti-and-rod-radle-building-a-family-out-of-a-west-side-community/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Inner City Development", "role": "Co-founder / volunteer co-director (50+ years)", "category": "civic", "source_url": "https://sanantonioreport.org/patti-and-rod-radle-building-a-family-out-of-a-west-side-community/", "snippet": "Radle and her husband Rod have served for more than 50 years as volunteer co-directors of the nonprofit Inner City Development, a Westside landmark providing food and clothing to families in distress."},
+   {"org": "San Antonio ISD Board of Trustees (District 5)", "role": "Board president (2015-2021), trustee ~12 years", "category": "political", "source_url": "https://sanantonioreport.org/patti-radle-saisd-resignation/", "snippet": "Radle served as SAISD board president for six years, from 2015 to 2021, and retired after 12 years on the board."},
+   {"org": "San Antonio City Council", "role": "Council member (2003-2007)", "category": "political", "source_url": "https://ballotpedia.org/Patti_Radle", "snippet": "She served on the San Antonio City Council 2003-2007."}
+  ]
+ },
+ {
+  "donor_id": "fd78548a-c73d-4486-b687-2ccfb845f426",
+  "name": "Garcia, Larry",
+  "resolved_employer": "Laz Cafe (self-employed), San Antonio, TX",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Donor lists occupation 'Self' and employer 'Laz Cafe' at 367 Saratoga, San Antonio 78213. No public record ties an owner 'Larry Garcia' to a San Antonio 'Laz Cafe', and no LinkedIn/obituary/news profile could confirm this specific individual. Industry assigned by employer-string fallback (cafe = food service). Likely the same person as the other Larry Garcia/Laz Cafe donor in this batch. FEC and TX lobbyist searches returned no matches.",
+  "source_url": "https://www.yelp.com/biz/laz-san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e65ebd15-5b93-47b8-b2c9-c1cd3cbbba34",
+  "name": "Othon, Joanne",
+  "resolved_employer": "Self-employed (unspecified)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor lists occupation 'self' with blank employer at 939 S Frio St, San Antonio 78207 (Peanut Factory Lofts, a residential complex in the Historic Westside). No public profile, LinkedIn, business registration, news mention, or obituary found for 'Joanne Othon' in San Antonio. Unidentifiable beyond a generic self-employed occupation, so industry left null. FEC and TX lobbyist searches returned no matches.",
+  "source_url": "https://www.redfin.com/TX/San-Antonio/Peanut-Factory-Lofts/apartment/177387393",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e1b0d79c-a3dc-44d5-83d6-a1735f07694a",
+  "name": "Madrid, Arturo",
+  "resolved_employer": "Trinity University (retired professor emeritus)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Confirmed as Dr. Arturo Madrid, the Murchison Distinguished Professor of the Humanities at Trinity University, San Antonio (1993-2016, now emeritus), residing near 2420 McCullough (78212, adjacent to Trinity). Founding president of the Tomas Rivera Center, the first national research center for Latino policy studies; National Humanities Medal (1996). 'Retired' matches emeritus status. FEC search surfaced only an unrelated 'Madrid for Congress' committee; no personal ideological-PAC contributions and no TX lobbyist registration found.",
+  "source_url": "https://en.wikipedia.org/wiki/Arturo_Madrid",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Tomas Rivera Center", "role": "Founding President", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Arturo_Madrid", "snippet": "Founded the Tomas Rivera Center, a national research center dedicated to Latino policy studies."},
+   {"org": "Trinity University", "role": "Murchison Distinguished Professor of the Humanities (emeritus)", "category": "civic", "source_url": "https://trinity.edu/directory/amadrid", "snippet": "Norine R. and T. Frank Murchison Distinguished Professor of the Humanities and director of the Mexico, the Americas, and Spain program at Trinity University, San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "d7893c0d-37bb-47aa-ad25-76294b85fb4b",
+  "name": "Espinoza, Salvador",
+  "resolved_employer": "Sierra Club — Distributed Organizing Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Salvador Espinoza, Distributed Organizing Director at the Sierra Club, based in Austin, TX (2705 E 16th St, 78702), an environmental-advocacy organizer with 6+ years in distributed/digital/constituency organizing. Matches donor's stated occupation and employer exactly. FEC and TX lobbyist searches returned no personal matches. LinkedIn page returned an access block (HTTP 999), so full bio read was not completed.",
+  "source_url": "https://www.linkedin.com/in/salvador-espinoza-536981177/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Sierra Club", "role": "Distributed Organizing Director", "category": "civic", "source_url": "https://www.linkedin.com/in/salvador-espinoza-536981177/", "snippet": "Salvador Espinoza - Distributed Organizing Director at Sierra Club, Austin, TX; environmental advocacy for a just transition to clean energy."}
+  ]
+ },
+ {
+  "donor_id": "ce4c8523-423c-4216-9c29-18a4d0deb5cf",
+  "name": "Zivadinovic, Stevan",
+  "resolved_employer": "SAY Si (New Media Director, HIVE New Media Studio)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Stevan Zivadinovic is the New Media Director at SAY Si, a San Antonio youth arts nonprofit, and has directed its HIVE New Media Studio since 2014; new media artist/educator (UTSA). Zip 78210 and occupation 'New media director'/'SAY Si' match exactly. FEC and TX lobbyist searches run and quiet; no policy-advocacy board seats documented.",
+  "source_url": "https://saysi.org/team-member/stevan-zivadinovic/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ccef84ac-3e22-4aad-b76e-ee81441ed91a",
+  "name": "Demanche, Paul",
+  "resolved_employer": "National Association for Latino Community Asset Builders (NALCAB), Program Manager; also housing/planning consultant",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "The garbled occupation 'N/A,Natinal Assocation' resolves to the National Association for Latino Community Asset Builders (NALCAB), a San Antonio-based CDFI/economic-equity nonprofit where Paul DeManche is a Program Manager over Equitable Neighborhood Development and Rural Capacity Building; MIT City Planning graduate. Also a housing/planning consultant who served on the City of San Antonio Housing Trust Joint Transition Committee. Address 1031 W Russell Pl, 78212 matches. FEC and TX lobbyist searches returned no matches.",
+  "source_url": "https://comcap17conference.sched.com/speaker/pdemanche",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "National Association for Latino Community Asset Builders (NALCAB)", "role": "Program Manager (Equitable Neighborhood Development / Rural Capacity Building)", "category": "civic", "source_url": "https://comcap17conference.sched.com/speaker/pdemanche", "snippet": "Program Manager at NALCAB who manages and provides support for NALCAB's Equitable Neighborhood Development and Rural Capacity Building programs."},
+   {"org": "City of San Antonio Housing Trust (Joint Transition Committee)", "role": "Committee member", "category": "civic", "source_url": "https://sanantonioreport.org/san-antonio-city-council-approves-6-new-community-members-to-housing-trust-board/", "snippet": "DeManche, a housing and planning consultant, served on the Housing Trust's Joint Transition Committee and said 'The Trust needs to do everything it can to rebuild the trust [of the community] that it lost over the decades.'"}
+  ]
+ },
+ {
+  "donor_id": "c707905c-4b66-4df3-bb40-b676e6a7fc9f",
+  "name": "De Leon, Diana",
+  "resolved_employer": "Unresolved (donation record blank)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donation record has blank occupation and employer. Multiple distinct 'Diana De Leon' individuals exist in San Antonio (a union organizer at the SA Alliance teachers union, real-estate agents, a student). Public aggregators tie a Diana Deleon to 7035 Pickwell Dr, 78223, but that record does not link to any professional profile, so identity cannot be confirmed. FEC and TX lobbyist searches returned no matches. No affiliation asserted to avoid misattribution.",
+  "source_url": "https://radaris.com/p/Diana/Deleon/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c4bb7a58-e37f-45dd-bb50-56c7798d5b80",
+  "name": "Cramer, Gina",
+  "resolved_employer": "Meta (self-reported 'META'), Data analyst",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Employer 'META' + occupation 'Data analyst' categorized by employer to Technology (Meta Platforms). No public LinkedIn or bio confirming a Gina Cramer as a Meta data analyst at zip 78201 could be located; other same-named people do not match. FEC and TX lobbyist searches run and quiet. Categorize-by-employer fallback used; no advocacy affiliations documented.",
+  "source_url": "https://www.spokeo.com/Gina-Cramer",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ada66b12-e091-4d8b-8a94-818a019d3fef",
+  "name": "Ramirez, Anna",
+  "resolved_employer": "Self-employed (San Antonio); documented contact/leader of River Road Neighborhood Association, 154 Magnolia Dr, 78212",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Donor's address (154 Magnolia Dr, 78212) and name match 'Ana Lucia Ramirez' listed as the River Road Neighborhood Association contact at 154 Magnolia Dr in the City of San Antonio Neighborhood Association Listing. Occupation/employer self-reported as 'Self'; no specific trade found. FEC and TX lobbyist searches returned no matches.",
+  "source_url": "https://www.sanantonio.gov/Portals/0/Files/Planning/NAListing.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "River Road Neighborhood Association", "role": "Association contact / neighborhood leader", "category": "civic", "source_url": "https://www.sanantonio.gov/Portals/0/Files/Planning/NAListing.pdf", "snippet": "Ana Lucia Ramirez listed as River Road NA contact at 154 Magnolia Dr, San Antonio 78212 in the City of San Antonio Planning Dept. Neighborhood Association Listing."}
+  ]
+ },
+ {
+  "donor_id": "ab2e79a3-f762-462d-8b16-f46c4be68297",
+  "name": "Borrego, Grace",
+  "resolved_employer": "U.S. Department of Defense (self-reported; 'Management')",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Categorize-by-employer fallback: no distinguishing public profile found for this common name in San Antonio 78207; identity corroborated only by the self-reported campaign-finance employer 'DOD' and occupation 'Management' (a DoD civilian management role = government employment, not defense-industry advocacy). No public bio or source could corroborate the employment beyond the filing itself, so no affiliation is recorded. FEC and TX lobbyist searches returned no matches.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8acbbf1e-bdcf-42bc-9715-b9b363c4d0fe",
+  "name": "schaffer, christen",
+  "resolved_employer": "Carroll Hall — Co-Founder (event venue & botanic garden, Brooklyn, NY)",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Christen Schaffer is Co-Founder of Carroll Hall, a Brooklyn NY private-event venue built around a botanic garden — consistent with the donor's occupation 'gardener', employer 'Carroll Hall', and listed street address '24 Conselyea St, Brooklyn, NY'. The 78207 (San Antonio) zip appears to be a data-entry artifact; donor is NYC-based. FEC and TX lobbyist searches returned no matches.",
+  "source_url": "https://www.zoominfo.com/p/Christen-Schaffer/7285492095",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "876dd9f7-c10e-4d85-a438-ffabb1c044e5",
+  "name": "Garcia, Larry",
+  "resolved_employer": "Laz Cafe, San Antonio (self-employed)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Self-reported as self-employed at 'Laz Cafe', San Antonio (367 Saratoga, 78210). Could not independently verify Laz Cafe as a distinct registered business; industry inferred from employer string as food-service/hospitality. Likely the same Larry Garcia/Laz Cafe as the other donor record in this batch (78213). FEC and TX lobbyist searches returned no matches.",
+  "source_url": "https://www.yelp.com/biz/laz-san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "85b852f6-08f6-4018-ab2b-445201d516e0",
+  "name": "Garcia, David",
+  "resolved_employer": "Self-employed (David Anthony Garcia, visual/teaching artist; also art teacher at Lackland Elementary)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Resolved to David Anthony Garcia, a working artist/educator whose studio address is listed as 134 Waxwood Lane, San Antonio, TX 78216 — an exact match to the donor's address and self-employed 'Artist' occupation. UTSA BFA 1996; works in ceramics, mixed media, murals; contract artist for the McNay and San Antonio Museum of Art. FEC and TX lobbyist searches run and quiet (a 2018 TEC 'David Garcia' lobbyist is a different Austin consultant). No documented policy-advocacy affiliations.",
+  "source_url": "https://events.getcreativesanantonio.com/artist/david-anthony-garcia/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "829454ac-8ccc-435d-8e9e-406024a8d701",
+  "name": "Briones, Ricardo",
+  "resolved_employer": "The Law Office of Ricardo Briones, P.C. (self / solo attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Ricardo Briones is a San Antonio native solo attorney (family law, criminal defense, personal injury), St. Mary's University School of Law grad, firm founded 2008. State Bar of Texas / firm listing puts his office at 230 W Whittier St, San Antonio, TX — an exact match to the donor address and self-employed 'Attorney' occupation. FEC and TX lobbyist searches run and quiet (a 'Jose L. Briones' lobbyist for Airbnb is a different person). No documented policy-advocacy affiliations.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=301171",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "775277c5-9e24-47a8-9e2c-ad055305ee8f",
+  "name": "Escamilla, John",
+  "resolved_employer": "USAA (Facilities Engineer)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "LinkedIn/ZoomInfo confirm a John Escamilla based in San Antonio, TX employed as a Facilities Engineer at USAA — matching the donor's occupation 'Facility engineer' and employer 'USAA'; UTSA B.S., prior roles at Valero Energy and J&J Maintenance. Zip 11434 is a data artifact of the 11434 Culebra Rd (78253) address. Categorized by employer (USAA, a San Antonio insurer/financial-services firm = Finance). FEC and TX lobbyist searches run and quiet. No documented policy-advocacy affiliations.",
+  "source_url": "https://www.linkedin.com/in/john-escamilla-46538678/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6e425925-aeac-4512-9f16-67ebdbda46ca",
+  "name": "Sanchez, Amy Kastely & Graciela",
+  "resolved_employer": "Self — Amy Kastely (retired Professor of Law, St. Mary's University School of Law; civil-rights attorney) and Graciela Sanchez (Founder & Executive Director, Esperanza Peace & Justice Center)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Joint household donor entry for two notable San Antonians at 233 Lotus Ave (record's 97202 is a data artifact; San Antonio 78202). Amy Hilsman Kastely: longtime St. Mary's law professor and lead counsel in Esperanza et al. v. City of San Antonio (first case recognizing cultural rights in public arts funding). Graciela Sanchez: founder (1987) and executive director of the Esperanza Peace & Justice Center, longtime LGBTQ/Chicana organizer; the center curates Palestine-solidarity programming. Neither is a registered TX lobbyist; no ideological PAC records surfaced. Industry set to Legal to match the record's 'Attorney' occupation.",
+  "source_url": "https://en.wikipedia.org/wiki/Graciela_Sanchez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Esperanza Peace and Justice Center", "role": "Founder & Executive Director (Graciela Sanchez)", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Graciela_Sanchez", "snippet": "In 1987, Sanchez founded the Esperanza Peace and Justice Center, becoming its director in 1988. The organization advocates for LGBTQ rights, basic civil rights, and economic justice."},
+   {"org": "Esperanza Peace and Justice Center — 'Palestinians and Other Occupied Peoples' program", "role": "Program developed/curated by Graciela Sanchez, Director", "category": "palestine_solidarity", "source_url": "https://esperanzacenter.org/who-we-are/meet-us/", "snippet": "she helps develop and curate programs such as CineMujer, Uprooted: Tierra, Gente, y Cultura, Palestinians and Other Occupied Peoples; the center facilitates conversations on issues of colonization, genocide, power, violence, racism, sexism, and homophobia."},
+   {"org": "St. Mary's University School of Law / Esperanza v. City of San Antonio", "role": "Professor of Law and lead counsel for plaintiffs (Amy Kastely)", "category": "civic", "source_url": "https://www.sacurrent.com/news/remember-the-esperanza-lawsuit-2281696/", "snippet": "Amy H. Kastely served as lead counsel representing the plaintiffs in Esperanza et al. v. City of San Antonio, the first case recognizing the importance of cultural rights in public arts funding."}
+  ]
+ }
+]

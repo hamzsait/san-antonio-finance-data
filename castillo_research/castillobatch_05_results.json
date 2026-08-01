@@ -1,0 +1,239 @@
+[
+ {
+  "donor_id": "e63e771d-1aff-4eb1-8033-eb89aacdf4e2",
+  "name": "Arriaga, Daniel",
+  "resolved_employer": "University of Texas at San Antonio (academic advisor)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Academic advisor at UTSA per donor record; a Daniel Arriaga (MPA) LinkedIn documents a UTSA academic-advising/student-success background, consistent with the stated occupation/employer (78217). No political-affiliation records found.",
+  "source_url": "https://www.linkedin.com/in/daniel-i-arriaga/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e3206126-9ac4-4550-9ebd-9905e4ff9c18",
+  "name": "Delgado, Miguel",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed as retired, zip 78228; a common San Antonio name. Could not confirm a specific public profile for this individual (distinct from the Lonesome Rose bar co-owner Miguel Delgado). No FEC PAC, lobbyist, or affiliation records tied to this person. Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e15d0811-df56-41bf-9ec4-cc0a43abd7d9",
+  "name": "Saldaña, Rey",
+  "resolved_employer": "Communities In Schools National (President & CEO)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed: Rey Saldaña, President & CEO of Communities In Schools national office; former four-term San Antonio City Council member (D4, elected at 24) and former chair of VIA Metropolitan Transit. Matches employer/occupation on record. No ideological-PAC or lobbyist records found.",
+  "source_url": "https://www.communitiesinschools.org/leadership/profile/rey-saldana",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Communities In Schools (National)", "role": "President & CEO", "category": "civic", "source_url": "https://www.communitiesinschools.org/leadership/profile/rey-saldana", "snippet": "Rey Saldaña is the President and CEO of Communities In Schools, the national organization that ensures all students are empowered to stay in school."},
+   {"org": "San Antonio City Council (District 4) / VIA Metropolitan Transit", "role": "Former Councilmember (4 terms); former VIA Board Chair", "category": "political", "source_url": "https://ballotpedia.org/Rey_Salda%C3%B1a", "snippet": "He served four terms on the San Antonio City Council, first elected at age 24, and was Chair of the San Antonio Metropolitan Transit Agency - VIA."}
+  ]
+ },
+ {
+  "donor_id": "dce6480b-532d-4825-b3ac-6636fa2486af",
+  "name": "Ramirez, John",
+  "resolved_employer": "United States Postal Service (letter carrier)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "USPS letter carrier per donor record; a very common name and the address field shows an anomalous Aiea, HI street with a TX 78251 zip, so the specific individual could not be uniquely confirmed. Industry assigned by employer (USPS). No FEC PAC or lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bb30ce70-3422-4183-a1b7-12a303febfa4",
+  "name": "Woodhouse, Hillary",
+  "resolved_employer": "Lonesome Rose (co-owner/partner and bartender)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Hillary Woodhouse is a partner in the Lonesome Rose honky-tonk on St. Mary's Strip (address 1914 St Marys St matches), part of the Mama Tried SATX ownership group; previously bartended at The Squeezebox, Esquire Tavern, and The Brooklynite. No FEC PAC or lobbyist records found.",
+  "source_url": "https://www.sacurrent.com/food-drink/honky-tonk-on-the-st-marys-strip-garrett-t-capps-partners-with-owners-for-lonesome-rose-14813515/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Lonesome Rose (Mama Tried SATX)", "role": "Partner / bartender", "category": "business", "source_url": "https://www.sacurrent.com/food-drink/honky-tonk-on-the-st-marys-strip-garrett-t-capps-partners-with-owners-for-lonesome-rose-14813515/", "snippet": "The Lonesome Rose was opened by Andrea Vince, Joey Cano, Miguel Delgado and Danny Delgado along with new partners Hillary Woodhouse and local musician Garrett T. Capps, collectively dubbed Mama Tried SATX."}
+  ]
+ },
+ {
+  "donor_id": "aa9a29a0-3e80-4511-8dfe-ad25c5b390dd",
+  "name": "Guzman, Edward",
+  "resolved_employer": "KB Home (national homebuilder), new-home sales",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Could not confirm the specific Edward Guzman among several same-named San Antonio individuals; categorized by the employer/occupation given in the donor record (Sales at homebuilder KB Home, 78260). No FEC PAC or TX lobbyist records tied to this person.",
+  "source_url": "https://www.satxproperty.com/kb-homes-san-antonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a224ee44-b878-41aa-99ec-3c26286e6802",
+  "name": "Hernandez, Art",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired resident of the Historic Westside (78207). No public profile could be tied to this specific individual (common name; search returned only unrelated San Antonio professionals). No FEC PAC or TX lobbyist records found. Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "964cc356-da7c-4aa4-8a7c-9c2573094ccf",
+  "name": "Codd, Alan",
+  "resolved_employer": "Faust Tavern (partner); also a San Antonio tax preparer",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Self-reported occupation 'Faust' matches Faust Tavern, where San Antonio Current names Alan Codd as a partner. Identity corroborated: TaxBuzz lists tax preparer Alan Codd on Barbara Dr, 78216 (259 Barbara Dr), same street/zip as the donor's 274 Barbara Dr, 78216. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.sacurrent.com/food-drink/faust-tavern-offers-homey-atmosphere-devilish-bargains-and-late-night-scene-2246510/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Faust Tavern", "role": "Partner", "category": "business", "source_url": "https://www.sacurrent.com/food-drink/faust-tavern-offers-homey-atmosphere-devilish-bargains-and-late-night-scene-2246510/", "snippet": "SA Current names Adrea Vince and Alan Codd as partners in Faust Tavern (a correction notes Danny Delgado as owner)."},
+   {"org": "Alan Codd tax preparation (San Antonio)", "role": "Tax preparer", "category": "business", "source_url": "https://www.taxbuzz.com/find-the-best-tax-preparer/texas/san-antonio/alan-codd", "snippet": "Alan Codd is a tax preparer based in San Antonio, Texas, on Barbara Dr, 78216."}
+  ]
+ },
+ {
+  "donor_id": "9133384d-a851-4741-ba91-53c83c840cd7",
+  "name": "Delgado, Monica",
+  "resolved_employer": "Public school teacher (San Antonio area); occupation reported as Teacher",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Donor address (518 Lookout Dr, 78228) and self-reported occupation 'Teacher.' A records aggregator associates this Monica Delgado with an ARD Coordinator role at Francis Scobee Middle School (Southwest ISD), consistent with the teaching occupation, though not independently confirmed. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://sco.swisd.net/apps/staff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "803a1e2a-3eeb-4682-acb1-6e90da8a03ec",
+  "name": "Delgado, Danny",
+  "resolved_employer": "Owner/operator of San Antonio bars & music venues (Hi-Tones, Faust Tavern, Lowcountry, La Botanica, Phantom Room, The Squeezebox, Lonesome Rose, Con Safos)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Self-reported occupation 'Hi Tones' matches Hi-Tones, the St. Mary's Strip bar/music venue Danny Delgado co-founded; SA Current credits him as a prolific San Antonio bar owner. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.sacurrent.com/food-drink/delgado-brothers-refresh-the-strip-with-hi-tones-2242014/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Hi-Tones / Faust Tavern / Lowcountry (San Antonio bars)", "role": "Owner / operator", "category": "business", "source_url": "https://www.sacurrent.com/food-drink/delgado-brothers-refresh-the-strip-with-hi-tones-2242014/", "snippet": "Danny Delgado owns Hi-Tones, Faust and Lowcountry; at 28 he opened Hi-Tones and, with a slew of partners, went on to open Faust Tavern, La Botanica, Phantom Room, Lowcountry, The Squeezebox and Con Safos."}
+  ]
+ },
+ {
+  "donor_id": "78703e0e-8f10-4c57-81fd-0a37f9beb0aa",
+  "name": "Salas Guadalupe, Simon",
+  "resolved_employer": "Good Samaritan Community Services (Chief Executive Officer)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Simon Salas is CEO of Good Samaritan Community Services, a San Antonio West Side nonprofit; donor record lists employer 'Good Samaritan' and San Antonio 78212, matching. Columbia-educated (BA, JD, MPA), joined GSCS 2017 as its 5th CEO.",
+  "source_url": "https://goodsamaritancommunityservices.org/senior-staff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Good Samaritan Community Services", "role": "Chief Executive Officer (prior VP and Board Member 2010-2016)", "category": "civic", "source_url": "https://goodsamaritancommunityservices.org/tag/simon-salas/", "snippet": "Simon Salas, based in San Antonio, is Chief Executive Officer at Good Samaritan Community Services; he became the 5th named CEO of GSCS and previously served as Vice President and Board Member between 2010 and 2016."}
+  ]
+ },
+ {
+  "donor_id": "710749a7-d016-4ab7-a61a-bfeab2d9e76b",
+  "name": "Shaw, Geoffrey",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Only a generic LinkedIn hit ('Geoffrey Shaw - Self Employed') surfaced, with no location confirmation to Helotes/78023; could not corroborate this is the same person, and no public profile for a Helotes Geoffrey Shaw was found. Same-name risk too high to classify. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/geoffrey-shaw-50a170318/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6a656ec5-6b03-42a0-8123-3c8b1c5aa5c0",
+  "name": "Guitron, Isac",
+  "resolved_employer": "El Ojo (bar/music venue on San Antonio's St. Mary's Strip)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Donor occupation field 'El Ojo' matches El Ojo, a San Antonio bar/music venue at 3000 N St Marys (St. Mary's Strip), suggesting Guitron worked there; no public profile confirms the specific individual or his role. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.sacurrent.com/food-drink/el-ojo-latest-st-marys-strip-bar-opens-tonight-13357989",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3d3e9f1c-eaa2-4da0-b368-a3c4f5f1e0f2",
+  "name": "Ramirez, John",
+  "resolved_employer": "USPS (letter carrier)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Donor record lists occupation 'Letter carrier' and employer 'USPS' at an Aiea, HI address (96701); categorized by employer (federal postal service). Common name and no unique public profile found, so identity not individually confirmed beyond the record. Likely the same donor as the other Aiea/USPS record in this batch. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.nalc.org/about/nalc-and-the-u-s-postal-service",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "37732b45-149d-4b2d-a126-82a73eab530c",
+  "name": "Castaneda, Antonia",
+  "resolved_employer": "Retired (Professor Emerita, St. Mary's University; Chicana/feminist historian)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Antonia I. Castañeda, Tejana feminist historian and Professor Emerita at St. Mary's University in San Antonio (Stanford PhD), a founder of Chicana history; donor is 'Retired' at a central San Antonio 78212 address, consistent with the emerita scholar.",
+  "source_url": "https://chicanaschanginghistory.org/dr-antonia-castaneda/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "St. Mary's University (San Antonio)", "role": "Professor Emerita of History", "category": "civic", "source_url": "https://www.stmarytx.edu/about/leadership/professor-emeriti/", "snippet": "Antonia Castañeda is listed among the Professors Emeriti at St. Mary's University, San Antonio."},
+   {"org": "MALCS (Mujeres Activas en Letras y Cambio Social)", "role": "Founding member", "category": "civic", "source_url": "https://chicanaschanginghistory.org/dr-antonia-castaneda/", "snippet": "An activist-scholar and founding member of MALCS, she is a founder of Chicana history and received the 2007 NACCS Scholar of the Year Award."}
+  ]
+ },
+ {
+  "donor_id": "13be988f-c21d-403c-b68c-cad624612244",
+  "name": "Saavedra, Eduardo",
+  "resolved_employer": "Self-employed (nature of business not documented in public records)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Listed as 'Self Employed' at 615 Naylor St, San Antonio 78210. No LinkedIn, business filing, or other public profile could be tied to this specific individual; multiple same-named people exist. No FEC PAC or TX lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "103efaa9-fa83-48b7-bd82-4eff64dba8f0",
+  "name": "Aleman, Enrique",
+  "resolved_employer": "Trinity University — Lillian Radford Endowed Professor of Education; Director, Center for Educational Leadership",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Confirmed as Dr. Enrique Alemán, Jr., Ph.D., education-policy scholar (Critical Race Theory in education, Latina/o/x educational equity); former UTSA education department chair. Matches donor occupation 'Professor/Faculty, Trinity University' in 78201, near West Side D5. No FEC PAC contributions or TX lobbyist registration found (a Steven R. Aleman in the registry is a different person).",
+  "source_url": "https://trinity.edu/directory/ealeman",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Trinity University — Center for Educational Leadership", "role": "Director; Lillian Radford Endowed Professor of Education", "category": "civic", "source_url": "https://trinity.edu/directory/ealeman", "snippet": "Director of the Center for Educational Leadership and the Trinity Tomorrow's Leaders Program; Lillian Radford Endowed Professor of Education."}
+  ]
+ },
+ {
+  "donor_id": "03d7f736-59ab-4d5e-9e29-e62fdec9cfff",
+  "name": "Hoffman, Irma",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as 'Retired, Not Employed' at 3011 White Tail Dr, San Antonio 78228. No public profile, FEC PAC record, or lobbyist registration found for this specific individual; retired with no documented prior affiliation.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7a4dedf6-efd1-4451-b2b2-213bde5e9a31",
+  "name": "Torres, Norma",
+  "resolved_employer": "U.S. Army (logistician); also listed teacher",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Donor record lists U.S. Army logistician/teacher at 110 Edinburg St, 78210. A San Antonio LinkedIn 'Norma Torres — Logistics/Procurement' plausibly matches the logistics occupation but does not confirm Army service; 'Norma Torres' is very common in San Antonio, so identity is not firmly resolved. Ordinary military service treated as Government, not a military_defense affiliation (no defense-contractor tie documented). No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/norma-torres-14259a95/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1113b44e-aeb3-47e8-b4c4-766c16c50fb0",
+  "name": "Dean, Thomas",
+  "resolved_employer": "OKX/Okcoin (Aux Cayes Fintech) — AML/Fraud Compliance Analyst, Investigations",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Thomas Dean Jr., San Antonio, TX — AML/Fraud Compliance Analytics & Investigations specialist at OKX (prior EY), matching donor occupation 'Compliance/Corporate Compliance Investigation, Okcoin/OKX' in 78207. No FEC PAC contributions or TX lobbyist registration found for this individual (the company, not the employee, was subject of a 2025 DOJ AML settlement).",
+  "source_url": "https://rocketreach.co/thomas-dean-jr-email_718430447",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

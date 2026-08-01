@@ -124,6 +124,19 @@ CANDIDATE_CYCLES = {
          'start_year': None, 'end_year': None,
          'start_date': '2023-07-01', 'end_date': '2025-06-30'},
     ],
+    # Teri Castillo (D5): won the June 5, 2021 runoff over Rudy Lopez;
+    # re-elected outright May 6, 2023 and May 3, 2025. Same 3-tab shape as
+    # McKee-Rodriguez/Viagran (2021 class, old 2-year terms).
+    'castillo': [
+        {'label': '2021 Run', 'election_year': 2021,
+         'start_year': None, 'end_year': None, 'end_date': '2021-06-30'},
+        {'label': '2023 Re-election', 'election_year': 2023,
+         'start_year': None, 'end_year': None,
+         'start_date': '2021-07-01', 'end_date': '2023-06-30'},
+        {'label': '2025 Re-election', 'election_year': 2025,
+         'start_year': None, 'end_year': None,
+         'start_date': '2023-07-01', 'end_date': '2025-06-30'},
+    ],
 }
 
 # Earliest contribution_year included in a profile (default 2018 = start of
@@ -202,6 +215,7 @@ OFFICE_OVERRIDE = {
     'mckeerodriguez': 'San Antonio City Council · District 2',
     'viagran': 'San Antonio City Council · District 3',
     'mungia': 'San Antonio City Council · District 4',
+    'castillo': 'San Antonio City Council · District 5',
     'shaikh': 'San Antonio City Council · 2025 District 8 Candidate',
 }
 

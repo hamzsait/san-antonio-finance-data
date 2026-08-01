@@ -1,0 +1,315 @@
+[
+  {
+    "donor_id": "b7adbdf7-d719-444f-9a46-ee3c4bd38576",
+    "name": "Ricardo, Perez",
+    "resolved_employer": "Matheson (trucking/logistics carrier) — truck driver",
+    "industry": "Transportation",
+    "confidence": "low",
+    "evidence": "Very common name; no distinct public profile discoverable beyond stated occupation. Truck driver for Matheson, a freight/logistics carrier; address in Converse, a San Antonio suburb. Classified by employer/occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b76c5bb4-f273-4a4f-a188-6f769608f11e",
+    "name": "Briones, Ricardo",
+    "resolved_employer": "The Law Office of Ricardo Briones, P.C. (solo attorney / self-employed), 230 W Whittier, San Antonio 78210",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Exact match: solo criminal-defense/family-law attorney at 230 W Whittier, San Antonio 78210 (the donor's listed address). Born and raised in San Antonio, UTSA finance grad, St. Mary's law; ~19 yrs practice. Some directory bios note he represented Dream Act students/activists, but no PAC or lobbyist records found.",
+    "source_url": "https://rbrioneslaw.com/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b157387d-ea41-4df4-80c5-38f6942938a8",
+    "name": "Rosales, Rodolfo",
+    "resolved_employer": "Retired Associate Professor of Political Science, University of Texas at San Antonio (UTSA)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Strong match: retired UTSA political scientist in San Antonio, author of 'The Illusion of Inclusion: The Untold Political Story of San Antonio' (Chicano West Side politics) — consistent with a retired D5 donor. Identity not 100% pinned to zip 78201 but occupation 'Retired' + San Antonio + subject-matter fit align. No PAC or lobbyist records.",
+    "source_url": "https://untpress.unt.edu/authors/rosales-rodolfo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b090c45b-40a2-4089-972d-2acd8189de81",
+    "name": "Vanessa, Sánchez",
+    "resolved_employer": "Fundraiser / development staff at an arts nonprofit (per stated occupation)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "Could not confirm a specific individual — common name and a mismatched/garbled zip (94122 is San Francisco, listed against a San Antonio address). Classified by stated occupation only: fundraiser at an arts nonprofit. No PAC or lobbyist records tied to this person.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aec2626f-cf4e-4483-a32d-e49da7f82fb6",
+    "name": "romo, zeke",
+    "resolved_employer": "Executive Director, Our Casas Resident Council, Inc. (San Antonio public-housing homeownership nonprofit)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Exact match: Zeke Romo was Executive Director of Our Casas Resident Council (the donor's listed employer), San Antonio affordable-housing/homeownership nonprofit; joined 2016, ED Dec 2019–Apr 2025. Prior career in Austin workforce development. (Note: he passed away April 2, 2025.) No federal PAC or lobbyist records.",
+    "source_url": "https://www.lisc.org/san-antonio/regional-stories/zeke-romo-a-tribute/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Our Casas Resident Council, Inc.",
+        "role": "Executive Director",
+        "category": "civic",
+        "source_url": "https://www.lisc.org/san-antonio/regional-stories/zeke-romo-a-tribute/",
+        "snippet": "Zeke joined Our Casas in November 2016... became only the second leader of Our Casas in more than two decades, serving as Executive Director creating homeownership opportunities for public housing residents."
+      }
+    ]
+  },
+  {
+    "donor_id": "9933819e-983d-4f60-8d51-c21f7462baf4",
+    "name": "Villasenor, Yadira",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Public records (OfficialUSA/Radaris) confirm a Yadira Villasenor at 139 Nightingale, San Antonio TX 78226, address matches donor record exactly. No political, PAC, or advocacy activity found; consistent with not-employed status on the donation.",
+    "source_url": "https://www.officialusa.com/names/Yadira-Villasenor/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9602354a-ecf4-45fc-acaf-77db93939157",
+    "name": "Galindo, Maureen",
+    "resolved_employer": "Self-employed marriage & family / sex therapist (private practice); housing-justice organizer and perennial candidate",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Maureen Galindo, licensed marriage/family & sex therapist with a private practice and San Antonio housing-justice organizer (fought SoapWorks Apartments demolition downtown). Ran for SA City Council D1 (2025) and advanced from the 2026 TX-35 Democratic primary to the runoff. Downtown/Labor St location and progressive donation to Castillo align; occupation 'Not Employed' fits an organizer/activist profile. Medium confidence — identity match is by location + activist profile, not a hard identifier.",
+    "source_url": "https://sanantonioreport.org/profile/maureen-galindo-2025-san-antonio-city-council-district-1-candidate/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Democratic primary candidate (SA City Council D1 2025; TX-35 Congress 2026)",
+        "role": "Candidate",
+        "category": "political",
+        "source_url": "https://ballotpedia.org/Maureen_Galindo",
+        "snippet": "Maureen Galindo (Democratic Party) ran for the U.S. House to represent Texas' 35th Congressional District, advancing to the May 26, 2026 Democratic primary runoff."
+      },
+      {
+        "org": "Personal political advocacy (documented campaign statements on Israel/Palestine)",
+        "role": "Candidate / activist",
+        "category": "pro_palestine_advocacy",
+        "source_url": "https://www.sacurrent.com/news/politics-and-elections/house-candidate-maureen-galindo-pledges-to-send-american-zionists-to-internment-camp/",
+        "snippet": "Local news coverage of Galindo's congressional campaign reported her making sharply anti-Zionist public statements; documented here as public policy-advocacy positioning, not inferred."
+      }
+    ]
+  },
+  {
+    "donor_id": "9392f4f9-645e-46f1-ac4f-8d5ab10a56b7",
+    "name": "Macias, Megan",
+    "resolved_employer": "Texas Organizing Project (statewide electoral strategy / campaign coordinator)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Megan Joy Macias is a Campaign Coordinator at the Texas Organizing Project (progressive community-organizing nonprofit) in San Antonio; UTSA geography grad. Prior roles include Julian Castro's 'Julian For The Future,' Sri Kulkarni for Congress, and San Antonio ISD. Confirms donor note that 'TOP' = Texas Organizing Project; frequent small-dollar donor fits an organizer.",
+    "source_url": "https://www.linkedin.com/in/meganjoymacias/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Organizing Project",
+        "role": "Campaign Coordinator / Statewide Electoral Strategy Coordinator",
+        "category": "civic",
+        "source_url": "https://www.linkedin.com/in/meganjoymacias/",
+        "snippet": "Megan Joy Macias - Texas 4 All Campaign Coordinator at Texas Organizing Project, San Antonio; previously Julian For The Future and Sri Kulkarni for Congress."
+      }
+    ]
+  },
+  {
+    "donor_id": "913d9d11-5027-401f-aad7-26075b684a9d",
+    "name": "Hubler, Kelly",
+    "resolved_employer": null,
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Could not confirm the specific individual. No public profile discoverable for a Kelly Hubler at 2422 Monterey St, San Antonio 78207 (a similarly named 'Kelly Huber' in results is an unrelated deceased Aetna executive). Industry assigned via the donor's own stated occupation 'Medical' (categorize-by-occupation fallback), not from an identified profile.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "844ebf0e-0842-4976-9f1d-866c661e2e4e",
+    "name": "Katy, Bravenec",
+    "resolved_employer": "San Antonio Alliance of Teachers & Support Personnel (Local 67) union organizer; later Chief of Staff, City of San Antonio Council District 5 (Teri Castillo)",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "Katy Bravenec was a lead organizer for the San Antonio Alliance of Teachers & Support Personnel (SAISD union) and ran Bernie Sanders' 2020 San Antonio field office as Texas regional field director. Later Chief of Staff at the City of San Antonio (Council District 5), confirming the donor note. Employer/occupation on donation ('Union Organizer', San Antonio Alliance) matches. Same person as donor_id 821f2170 (later chief-of-staff record).",
+    "source_url": "https://www.sacurrent.com/news/bernie-sanders-opens-san-antonio-office-names-local-union-organizer-to-run-it-23067302",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "San Antonio Alliance of Teachers & Support Personnel (Local 67)",
+        "role": "Lead / union organizer",
+        "category": "civic",
+        "source_url": "https://www.sacurrent.com/news/bernie-sanders-opens-san-antonio-office-names-local-union-organizer-to-run-it-23067302",
+        "snippet": "The Bernie Sanders campaign tapped Bravenec, a local union organizer for the San Antonio Alliance of Teachers and Support Personnel, to run its newly opened San Antonio field office as Texas regional field director."
+      },
+      {
+        "org": "City of San Antonio, Council District 5 (Teri Castillo)",
+        "role": "Chief of Staff",
+        "category": "political",
+        "source_url": "https://www.zoominfo.com/p/Katy-Bravenec/6204211050",
+        "snippet": "Katy Bravenec - Chief of Staff at City of San Antonio (k***@sanantonio.gov)."
+      }
+    ]
+  },
+  {
+    "donor_id": "821f2170-79b3-4a63-8764-e63b9f087a66",
+    "name": "Bravenec, Katy",
+    "resolved_employer": "City of San Antonio, District 5 Council Office (Chief of Staff to CM Teri Castillo); previously union organizer with San Antonio Alliance of Teachers & Support Personnel (Local 67)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as Chief of Staff for COSA District 5 (Castillo's office) via ZoomInfo and city records at 501 Shook Ave, 78212 matching the donor address. Prior San Antonio Alliance union-organizer role indicated by a 2017 union-organizer job posting using her sanantonioalliance.org email. Same person as donor_id 844ebf0e.",
+    "source_url": "https://www.zoominfo.com/p/Katy-Bravenec/6204211050",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "San Antonio Alliance of Teachers and Support Personnel (Local 67)",
+        "role": "Union organizer",
+        "category": "civic",
+        "source_url": "https://unions.org/union-jobs/2017/26/06/union-organizer-texas/",
+        "snippet": "Union Organizer position for the San Antonio Alliance listed contact katyb@sanantonioalliance.org, indicating Bravenec held an organizing role with the teachers' union."
+      },
+      {
+        "org": "City of San Antonio, Council District 5 (Teri Castillo)",
+        "role": "Chief of Staff",
+        "category": "political",
+        "source_url": "https://www.zoominfo.com/p/Katy-Bravenec/6204211050",
+        "snippet": "Katy Bravenec - Chief of Staff at City of San Antonio (k***@sanantonio.gov)."
+      }
+    ]
+  },
+  {
+    "donor_id": "818d285e-80e7-43b6-8174-f2eedaa02cd4",
+    "name": "Arriaga, Daniel",
+    "resolved_employer": "Academic Advisor, University of Texas at San Antonio (per donor record); LinkedIn shows subsequent role as Program Specialist IV, Institute for a Disaster Resilient Texas (Texas A&M)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "LinkedIn (Daniel I. Arriaga, MPA) corroborates a UTSA academic-advising background matching the donor's stated occupation/employer. An FEC individual-contribution record shows a Daniel Arriaga (San Antonio, UTSA, Academic Advisor) gave $10 to Bernie 2016, closely matching name+employer+occupation.",
+    "source_url": "https://www.linkedin.com/in/daniel-i-arriaga/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Bernie 2016 (Bernard Sanders for President)",
+        "role": "Individual donor",
+        "category": "political",
+        "source_url": "https://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part42.html",
+        "snippet": "FEC record: Daniel Arriaga, San Antonio, employer University of Texas at San Antonio, occupation Academic Advisor, contributed $10 to Bernie 2016 on 04/03/2016."
+      }
+    ]
+  },
+  {
+    "donor_id": "7cd6d236-8392-4059-b0d1-46ff438fb5d2",
+    "name": "Garza, Marti",
+    "resolved_employer": "Organizing Director, Central South Carpenters Regional Council (United Brotherhood of Carpenters)",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "San Antonio native and lifelong labor/community organizer (20+ years in education, healthcare and construction trades); serves as organizing director for the Central South Carpenters Regional Council, matching the donor's stated employer. Recommended to San Antonio City Council in the labor-organization category (Apr 2024).",
+    "source_url": "https://sanantoniotx.v3.swagit.com/videos/303480",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Central South Carpenters Regional Council (United Brotherhood of Carpenters)",
+        "role": "Organizing Director",
+        "category": "civic",
+        "source_url": "https://sanantoniotx.v3.swagit.com/videos/303480",
+        "snippet": "City recommendation describes Marti Garza as a lifelong community and labor organizer, organizing director for the Central South Carpenters' Regional Council, recommended in the labor-organization category."
+      }
+    ]
+  },
+  {
+    "donor_id": "78e13cf5-eeea-4c09-86bf-d052ff3386a7",
+    "name": "Lamborn, George",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Only identifiable as a resident (George L. Lamborn) at 2410 Border Lane, San Antonio 78232, matching the donor address. No occupation/employer stated and no professional profile, FEC PAC record, or lobbyist registration found. Single $1 donation.",
+    "source_url": "https://blockshopper.com/tx/bexar-county/cities/san-antonio/streets/border-ln",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6488aafc-56a0-4ed8-87ed-e4188b194bc1",
+    "name": "Hinojosa, Matteo",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer in donor record; address 3711 Medical Dr, 78229 is in the South Texas Medical Center district. Could not confirm a specific individual named Matteo Hinojosa (searches surfaced only unrelated Hinojosas). No FEC PAC record or lobbyist registration found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "63730f7e-79f7-4886-ad7a-ff40f3a4e210",
+    "name": "Spener, David",
+    "resolved_employer": "Trinity University (Associate Professor of Sociology)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "David Spener is Associate Professor of Sociology at Trinity University San Antonio (PhD UT-Austin 1995, joined 1997); author of books on Texas-Mexico border migration and labor/protest songs. Matches employer 'Trinity University' and Professor occupation.",
+    "source_url": "https://trinity.edu/directory/dspener",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6131ad46-1230-4022-af67-a22af38a50cc",
+    "name": "Townsend, Allen",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Allen Townsend, San Antonio 78225, listed retired/not employed; appears in FEC individual-contribution data as a small recurring ActBlue donor (e.g., $50 to ActBlue 12/23/2019). No professional bio, PAC, or lobbyist record found. High donation count consistent with automated recurring small-dollar giving.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part32.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5da56c01-b8a6-42d0-a32c-800a4a22f93c",
+    "name": "Renteria, Justin",
+    "resolved_employer": "City of San Antonio (Policy Director / City Council District 5 staff)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Occupation 'cosa ccd5' = City of San Antonio City Council District 5. Justin Renteria is listed as a Director of Policy at the City of San Antonio; consistent with being District 5 (Teri Castillo) council staff. No FEC PAC or lobbyist registration found.",
+    "source_url": "https://www.zoominfo.com/p/Justin-Renteria/-1700500004",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5c00c552-ecb3-45f6-a2c3-bcfa5f93bd3a",
+    "name": "Alejandra, Lopez",
+    "resolved_employer": "Teacher, San Antonio ISD; President, San Antonio Alliance of Teachers and Support Personnel (AFT Local 67)",
+    "industry": "Labor",
+    "confidence": "medium",
+    "evidence": "Employer 'San Antonio Ind. School District' + Teacher occupation matches Alejandra Lopez, SAISD teacher and president of the San Antonio Alliance of Teachers and Support Personnel; publicly aligned with CM Teri Castillo. Same-name risk and a garbled zip (30312) reduce confidence.",
+    "source_url": "https://www.sanantonioalliance.org/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "San Antonio Alliance of Teachers and Support Personnel (AFT Local 67)",
+        "role": "President",
+        "category": "civic",
+        "source_url": "https://sanantonioreport.org/author/alejandra-lopez/",
+        "snippet": "Alejandra Lopez, president of the San Antonio Alliance of Teachers and Support Personnel, said the union is grappling with... safe school reopening."
+      }
+    ]
+  },
+  {
+    "donor_id": "5b3f45a0-c8a4-4f85-a82a-0b2c2844407a",
+    "name": "Herrejon, Jaime C",
+    "resolved_employer": "Little Mexico Imports (owner/co-owner), Historic Market Square, San Antonio",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Jaime Herrejon is co-owner of Little Mexico Imports, a family-run Historic Market Square puesto (since 1976) selling Mexican crafts, clothing, and home decor at 514 W Commerce St. Matches employer and Owner occupation. No FEC PAC or lobbyist record found.",
+    "source_url": "https://sanantonioreport.org/san-antonio-historic-market-square-vendors-history-future/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Little Mexico Imports",
+        "role": "Owner / co-owner",
+        "category": "business",
+        "source_url": "https://sanantonioreport.org/san-antonio-historic-market-square-vendors-history-future/",
+        "snippet": "Jaime Herrejon... co-owner of Little Mexico Imports... watched his father sell produce at the Haymarket Plaza... the family added Mexican arts and crafts."
+      }
+    ]
+  }
+]

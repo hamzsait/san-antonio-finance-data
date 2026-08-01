@@ -1,0 +1,235 @@
+[
+ {
+  "donor_id": "677b63d1-b66e-4627-98a1-3460d62b69b6",
+  "name": "Correa, Enrique",
+  "resolved_employer": "Cinderella Bakery (owner)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Enrique (Henry) Correa owns Cinderella Bakery, a 57-year West Side staple at 1261 Saltillo St (matches donor address '1261 Saltio, 78207'); took over the family business from his father Joe. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://news4sanantonio.com/sa-living/food/san-antonio-proud-local-bakery-remains-westside-staple-for-57-years",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "624450e2-428a-4798-8cd9-895651d408e4",
+  "name": "Barnes, James",
+  "resolved_employer": "University of Texas at San Antonio (UTSA) Libraries",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "James Barnes is a Library Services Assistant at UTSA Libraries (B.A. History, M.S. Library & Info Science), matching donor occupation 'Librarian / UTSA'. Distinct from the Austin-based TX-registered lobbyist 'James E. Barnes' (tech clients), who is a different person. No FEC PAC records.",
+  "source_url": "https://lib.utsa.edu/about/staff-directory/james-barnes",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5fd54a96-b31b-41a5-8c7b-b01f886a8fcb",
+  "name": "Kayla, Miranda",
+  "resolved_employer": "Coalition for Tenant Justice / Esperanza Peace and Justice Center (housing organizer)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Kayla Miranda is a prominent San Antonio housing-justice organizer (Director, Coalition for Tenant Justice; Right to the City / Homes for All South leadership; city Building Standards Board appointee), matching donor's 'Advocate / Independent contractor'. No FEC PAC or TX lobbyist records. Zip 78240 differs from her Westside work base but occupation match is distinctive.",
+  "source_url": "https://boldjourney.com/meet-kayla-miranda/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Coalition for Tenant Justice", "role": "Director / organizer", "category": "civic", "source_url": "https://homesa.org/employees/kayla-miranda/", "snippet": "Director of the Coalition for Tenant Justice, an impacted-led collective advancing tenant rights and anti-displacement efforts"},
+   {"org": "Right to the City / Homes for All South", "role": "National leadership / governance committee", "category": "civic", "source_url": "https://boldjourney.com/meet-kayla-miranda/", "snippet": "Elected member of Right to the City national leadership; represents the South with Homes for All"}
+  ]
+ },
+ {
+  "donor_id": "55ca9100-6155-4545-93a2-587f1e10b7e9",
+  "name": "Ayala, Josue",
+  "resolved_employer": null,
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reports as self-employed under his own name with no business name given. Multiple unrelated 'Josue Ayala' individuals found (San Diego county, consultants); could not confirm the specific San Antonio 78225 person or the nature of his self-employment. No FEC PAC or TX lobbyist records tied to him.",
+  "source_url": "https://nextdoor.com/pages/ayalas-small-business-consulting-san-antonio-tx/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4cb3982d-f475-47a3-952e-872469e0a5bf",
+  "name": "Felan, Steve",
+  "resolved_employer": "Jax Collectibles",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Donor self-reports as self-employed at Jax Collectibles, 2410 W. Commerce, 78207 (Westside). A family-owned collectibles/trading-card shop (JAX Collectables) exists in San Antonio, consistent with the self-reported employer, but Steve Felan could not be independently confirmed as owner. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.jaxcollectables.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "370ef2a2-f749-499a-85ce-6cbfa8217940",
+  "name": "Arriaga, Daniel",
+  "resolved_employer": "University of Texas at San Antonio (academic advising)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Daniel Arriaga, MPA, works in academic advising/student success at UTSA in San Antonio (LinkedIn shows MPA and UTSA-area public-service career; later Program Specialist IV at Institute for a Disaster Resilient Texas). Occupation/employer match the donor record; specific zip 78210 not independently confirmed.",
+  "source_url": "https://www.linkedin.com/in/daniel-i-arriaga/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3608ffef-930f-475b-befb-0e7c641bdd2e",
+  "name": "Bravo, Armondo",
+  "resolved_employer": "Retired (former career not identified)",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Retired San Antonio resident; a Texas Ethics Commission / SA campaign-finance form lists an Armando Bravo, retired, at 1554 W Mulberry, 78228 — matching the donor address. Former career not identified, so industry left null per retiree rule. No FEC PAC or lobbyist records found.",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000002982_20230406_173121.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2bf7e145-e17d-4e15-9055-fc268434807f",
+  "name": "TORRES, RICHARD",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reports 'Not Employed' at 78207 (West Side). 'Richard Torres' is an extremely common name (500+ TX matches); could not confirm the specific individual. No FEC PAC or lobbyist records tied to this person.",
+  "source_url": "https://www.spokeo.com/Richard-Torres/Texas",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "25dd293a-dd12-41f7-a780-39ea765c8e39",
+  "name": "Valdez, Amelia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public records confirm an Amelia Valdez at 1635 Potosi St, San Antonio 78207, matching the donor address, but no occupation/employer is listed anywhere and the name is common. No FEC PAC or lobbyist records found. Industry left null.",
+  "source_url": "https://www.spokeo.com/Amelia-Valdez/Texas/San-Antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1fd5a998-d69a-4d48-ab44-14bd499b7970",
+  "name": "Marin, Gerardo",
+  "resolved_employer": "Sana Roots Co",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Gerardo Omar Marin is Chief Learning Officer at Sana Roots Co, a San Antonio 501(c)(3) offering culturally-rooted programs in traditional foodways, land stewardship, and 'healthy movement' (matching donor occupation 'Coach'). He is a member of the Tap Pilam Coahuiltecan Nation, Xarame Clan. Employer and location match exactly. No FEC PAC or lobbyist records found.",
+  "source_url": "https://www.sanarootsco.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Sana Roots Co", "role": "Chief Learning Officer", "category": "civic", "source_url": "https://www.sanarootsco.org/", "snippet": "Gerardo Omar Marin (Chief Learning Officer) - Member of Tap Pilam Coahuiltecan Nation, Xarame Clan; nonprofit strengthening communities through traditional foodways, land stewardship, and healthy movement."}
+  ]
+ },
+ {
+  "donor_id": "1dadd8e1-1c22-4a49-8697-ba5f15ad5567",
+  "name": "Lopez, Joe",
+  "resolved_employer": "Joe's Boxing Gym (owner/coach)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Boxing coach on San Antonio's West Side (78237). Multiple West Side 'Joe's'/Lopez boxing gyms exist (Facebook 'Joes Gym San Antonio', Instagram lopez.boxing.gym); common name so specific individual not fully confirmed. No FEC or lobbyist records.",
+  "source_url": "https://www.facebook.com/joesgymsa/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "17ff9fe3-22a8-47ab-927e-5b41d1c7465a",
+  "name": "Fly, Everett",
+  "resolved_employer": "Everett L. Fly (self-employed landscape architect/architect, everettfly.com)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Everett L. Fly, San Antonio landscape architect/architect; first African American to earn Harvard MLA (1977); awarded National Humanities Medal by President Obama (2014) for documenting Black settlements and historic preservation work with National Park Service/National Trust. Self-employed matches donor record.",
+  "source_url": "https://en.wikipedia.org/wiki/Everett_Fly",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "President's Committee on the Arts and the Humanities", "role": "Member (1994-2001)", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Everett_Fly", "snippet": "Served on the President's Committee on the Arts and the Humanities 1994-2001; long career in historic preservation with the National Park Service and National Trust for Historic Preservation."}
+  ]
+ },
+ {
+  "donor_id": "17279216-36e0-4a72-9613-6b1d2003ecac",
+  "name": "Juarez, Eduardo",
+  "resolved_employer": "Eduardo Juarez Art Law, PLLC (solo practice, juarezartlaw.com)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Self-employed San Antonio attorney running solo art-law practice; former EEOC trial attorney/supervisor (~20 yrs in SA) and DC Public Defender; past President of the National LGBTQ+ Bar Association. Self-employed attorney matches donor record.",
+  "source_url": "https://juarezartlaw.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "National LGBTQ+ Bar Association", "role": "Past President; Chair, Texas LGBTQ+ Law Section", "category": "civic", "source_url": "https://lgbtqbar.org/bar-news/meet-eduardo-juarez-bar-associations-new-president/", "snippet": "Profiled as the LGBTQ+ Bar Association's new president; professional legal-advocacy leadership role."}
+  ]
+ },
+ {
+  "donor_id": "0771cf32-2890-469c-b28a-1623890e7850",
+  "name": "Lagrange, Keta",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired resident of San Antonio's West Side (78207). No identifiable public profile, occupation history, FEC, or lobbyist records found; cannot confirm former career.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "48b1ee5a-db8a-49e3-9617-74cbb296f836",
+  "name": "Gilbert, Christopher",
+  "resolved_employer": "Parman Group (real estate brokerage, San Antonio)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Christopher Gilbert is a licensed real estate agent with Parman Group in San Antonio (email cgilbert@parmangroup.com); firm at 4901 Broadway, 78209, consistent with donor's 78209 Alamo Heights-area address. No FEC or lobbyist records.",
+  "source_url": "https://www.homes.com/real-estate-agents/christopher-gilbert/8srs6h2/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4713045f-8d86-4d57-935b-b73cb5c4231b",
+  "name": "Galindo, Maureen",
+  "resolved_employer": "Self-employed (private-practice marriage & family / sex therapist); housing organizer",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Maureen Galindo, marriage & family/sex therapist and housing organizer displaced ~2018 from Soapworks Apartments (300 Labor St, matches donor address); founded a tenants union there. Ran for SA City Council D1 (2025) and TX-35 U.S. House (2026, D). Campaign filing listed 'Not Employed'; public bio confirms private therapy practice + activism.",
+  "source_url": "https://sanantonioreport.org/profile/maureen-galindo-2025-san-antonio-city-council-district-1-candidate/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "TX-35 U.S. House campaign / public statements", "role": "candidate & activist", "category": "pro_palestine_advocacy", "source_url": "https://www.tpr.org/government-politics/2026-05-20/democrats-threaten-to-expel-tx-35-candidate-maureen-galindo-over-antisemitic-remarks-if-elected", "snippet": "Anti-Israel / anti-Zionist candidate; congressional Democrats condemned her remarks (e.g., proposing to imprison 'American Zionists,' refusing Israel's 'blood money') as antisemitic. She says her criticism targets Zionism and the Israeli government, not Jewish people. Note: publicly condemned as antisemitic tropes, not ordinary advocacy."},
+   {"org": "TX-35 (U.S. House) / SA City Council D1", "role": "Democratic candidate", "category": "political", "source_url": "https://ballotpedia.org/Maureen_Galindo", "snippet": "Ran as a Democrat for San Antonio City Council District 1 (2025) and Texas' 35th Congressional District (2026); lost the primary runoff."},
+   {"org": "Soapworks Apartments tenants union", "role": "founder/organizer", "category": "civic", "source_url": "https://sanantonioreport.org/profile/maureen-galindo-2025-san-antonio-city-council-district-1-candidate/", "snippet": "Built a tenants union after experiencing displacement and helped shape SA's 2019 rent-relief policy process."}
+  ]
+ },
+ {
+  "donor_id": "db1dd0bf-2a80-4e2e-95cf-aea50e32aba9",
+  "name": "Gonzalez, Anahi",
+  "resolved_employer": "Las Bookies Bookkeeping Services, LLC (founder/owner)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Anahi Gonzalez is founder + bookkeeping consultant at Las Bookies Bookkeeping Services LLC, 212 Burcham Ave, San Antonio 78221 (matches donor address exactly); OLLU graduate. No federal PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/anahigonzalez88/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a62f2e15-4923-491a-97f4-5f8b0b71c361",
+  "name": "Tucker, rachell",
+  "resolved_employer": "City of San Antonio (COSA)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Rachell Tucker is a Special Assistant to Council / constituent-services staffer at the City of San Antonio (matches occupation 'Constituent services' and employer 'COSA'). No federal PAC or TX lobbyist records found.",
+  "source_url": "https://www.zoominfo.com/p/Rachell-Tucker/7485005791",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d1b3a4fd-049f-4090-9309-3ed39d9c34c6",
+  "name": "Zimmerman, Sarah",
+  "resolved_employer": "San Antonio ISD (SAISD)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "SAISD teacher named Sarah Zimmerman appears in local news as a San Antonio Alliance (teachers union) member commenting on school closures and back-to-school safety; consistent with donor occupation 'Teacher / SAISD.' 'Sarah Zimmerman' is a common name, so identity is not fully confirmed. No federal PAC or TX lobbyist records found.",
+  "source_url": "https://news4sanantonio.com/news/local/not-until-its-safe-san-antonio-alliance-opposes-districts-back-to-school-plans",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fd8c3a02-32d8-4887-8cdf-80398e3577fa",
+  "name": "Herrejon, Carlos",
+  "resolved_employer": "Retail/grocery business owner (Mexican & Latin American grocery, per directory listing)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Carlos Herrejon listed at 351 Saratoga Dr, San Antonio 78213 (matches donor 361 Saratoga Dr); a Carlos Herrejon business is listed on Superpages as a Mexican & Latin American grocery store, consistent with donor occupation 'Retail business / Owner.' Directory-only corroboration, so medium confidence. No federal PAC or TX lobbyist records found.",
+  "source_url": "https://thatsthem.com/name/Carlos-Herrejon/351-Saratoga-Dr.-San-Antonio-TX-78213",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

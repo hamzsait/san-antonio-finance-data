@@ -1,0 +1,231 @@
+[
+  {
+    "donor_id": "ffa224fb-2b51-4283-8a25-a4bad624e18c",
+    "name": "Cruz, Monica",
+    "resolved_employer": "UTSA Institute for Demographic and Socioeconomic Research (IDSER) - State Data Center Lead and Special Research Associate",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Confirmed on UTSA IDSER team page as Monica Cruz, State Data Center Lead and Special Research Associate; matches filing occupation (Research Associate/Researcher) and employer (UTSA). Research areas: housing, economic development, poverty, employment; legislative liaison for the Texas Demographic Center. Prior roles include Texas Senate legislative aide and City of San Antonio program director.",
+    "source_url": "https://idser.utsa.edu/team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "522cb5df-4fa4-49c0-b48b-19e0d13926ca",
+    "name": "Escobedo, Lance",
+    "resolved_employer": "Texas Lab Management (Analyst); filing also lists Not Employed",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No public profile located for Lance Escobedo of San Antonio (78216). Only the campaign filing's own occupation/employer strings (Analyst at 'Texas Lab Management') are available; the employer type is too ambiguous (clinical vs. environmental vs. scientific lab) to assign a taxonomy label. No FEC PAC or TX lobbyist records found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "083f2f21-d8de-421c-bd26-66b614277295",
+    "name": "Alvarez, John",
+    "resolved_employer": "Zachry Group (counselor per filing); a matching John Alvarez is a Licensed Professional Counselor (LPC #65010, UTSA M.A. Community Counseling) practicing at Thriveworks, 78257",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Filing lists employer 'Zachry' and occupation 'Counselor' at 78255 (far NW San Antonio). A John Alvarez LPC practices in adjacent 78257 (Thriveworks), and a John Alvarez LinkedIn profile references involvement with Zachry Group's 100th anniversary, consistent with an in-house/EAP counselor role. Identity likely the same person; classified Healthcare on the counselor occupation.",
+    "source_url": "https://www.psychologytoday.com/us/therapists/john-alvarez-san-antonio-tx/1520509",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "690cb0cd-d6f3-4e73-8199-902fbce6a82f",
+    "name": "Hernandez, Samuel",
+    "resolved_employer": "Central Market (florist); filing also indicates retired",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "No confirmable individual public profile (Samuel Hernandez is a very common name). Employer-fallback: Central Market (HEB's upscale grocery brand, which operates a floral department) matches the filing's florist occupation, classified Retail. A $20 gift to the San Antonio Professional Firefighters PAC appears under 'Samuel Hernandez of San Antonio' but cannot be tied to this specific donor, so it is not recorded as an affiliation. No TX lobbyist record.",
+    "source_url": "https://www.centralmarket.com/locations/san-antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f71c410d-fbb6-451f-95f7-7e8bc88112bf",
+    "name": "Pineda, Veronica",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Filing provides no occupation or employer. Multiple people named Veronica Pineda exist in San Antonio (e.g., a WellMed employee, an esthetician) but none can be corroborated to the 311 Cass Ave, 78204 address. Identity unresolved; no FEC PAC or TX lobbyist records found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fe91283c-f812-4712-8dfc-21725c0b651b",
+    "name": "Salazar, Mary",
+    "resolved_employer": "Law Office of Mary R. Salazar (solo-practice attorney, San Antonio)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Mary Rachel Salazar is a San Antonio solo-practice attorney (Texas bar #24060546, licensed 2007; family law, civil rights, wills), matching donor's 'Attorney / Self Employed'; common name so identity not fully confirmed to the 78214 residence.",
+    "source_url": "https://lawyers.findlaw.com/texas/san-antonio/4650850_1/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f883da7b-5397-451f-871b-45a8d58f9697",
+    "name": "Davila, Tyler",
+    "resolved_employer": "Garage Cell (San Antonio auto repair shop) - mechanic/technician",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Employer string 'Garage Cell' matches a real San Antonio car-repair business (Texas-incorporated 2011, ~1 employee) per Manta; occupation mechanic/technician aligns. No individual public profile for Tyler Davila found.",
+    "source_url": "https://www.manta.com/c/mhxm8hs/garage-cell",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7655a033-eddb-4e67-82f4-ff92a0a45281",
+    "name": "Bravenec, Eddie",
+    "resolved_employer": "McKnight & Bravenec Law Offices (attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Edward Lorence 'Eddie' Bravenec, San Antonio attorney (real estate, criminal, probate) at McKnight & Bravenec; documented resident of the Monte Vista neighborhood, consistent with donor address 501 Shook Ave, 78212.",
+    "source_url": "https://www.mb-law-firm.com/our-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5f4b02d0-5e85-44af-9432-5a8e07a102b6",
+    "name": "Garcia, Raymond",
+    "resolved_employer": "Jax Collectibles (San Antonio collectibles/memorabilia retail store) - self-employed",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Employer string 'Jax Collectibles' matches a real San Antonio collectibles/sports-memorabilia retail business; occupation 'Retired / Self Employed' aligns with owning a small shop. 'Raymond Garcia' is extremely common and could not be tied specifically to the store.",
+    "source_url": "https://www.facebook.com/JaxCollectibles",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4e20836e-5c4b-4565-be72-1d3525e48fb2",
+    "name": "Galvan, Lourdes",
+    "resolved_employer": "Elected San Antonio River Authority board director; business development specialist, Dependable Business Solutions (donor self-reported retired/not employed)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Lourdes Galvan is the former San Antonio City Council District 5 member (first Hispanic woman elected to D5) and a sitting elected San Antonio River Authority board director (Bexar Co. Dist. 2); longtime Westside/78207 figure and Westside Creeks Restoration supporter, aligning with a donor to the current D5 council member.",
+    "source_url": "https://www.sariverauthority.org/about/board-directors/lourdes-galvan",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio River Authority", "role": "Elected Board Director (Bexar County District 2)", "category": "political", "source_url": "https://www.sariverauthority.org/about/board-directors/lourdes-galvan", "snippet": "She proudly serves a second term as an elected official of the San Antonio River Authority Board, serving as Bexar County District 2 Director."},
+      {"org": "City of San Antonio", "role": "Former City Council Member, District 5", "category": "political", "source_url": "https://lulac.org/womenssummit20/speakers/galvan/", "snippet": "Lourdes Galvan was the first Hispanic woman elected to the City of San Antonio Council, District 5, and is a former San Antonio District 5 councilperson."}
+    ]
+  },
+  {
+    "donor_id": "496e59f7-f46f-440e-9014-d17beb60ac47",
+    "name": "Salazar, Gilbert",
+    "resolved_employer": "Self-employed; DBA Utilities (utility-services business)",
+    "industry": "Construction",
+    "confidence": "low",
+    "evidence": "Self-employed West Side resident (78207) operating under 'DBA Utilities'; no public bio, profile, or news coverage confirming a specific individual. Classified by employer string only.",
+    "source_url": "https://www.sa.gov/Directory/Departments/Finance/About/Divisions/Public-Utilities",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "468c0220-7503-439d-9adf-5c44ea1f9594",
+    "name": "Castillo, Iris",
+    "resolved_employer": "Waitress (employer not listed)",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "West Side resident (303 Cass Ave, 78207) listed as a waitress; common name with no confirmable public profile, FEC, or lobbyist record. Classified by occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "16e8ce6c-0086-447a-8e35-08f1af11c2e4",
+    "name": "Sweeny, Greg",
+    "resolved_employer": "Self-employed artist",
+    "industry": "Entertainment",
+    "confidence": "low",
+    "evidence": "Self-employed artist in Castle Hills (78213). Could not confirm a specific 'Greg Sweeny' artist in public records; the prominent San Antonio artist Gary Sweeney is a different name and not a confirmed match. Classified by occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0f7c79a4-fee2-4049-bf89-ecbb3ef5aea7",
+    "name": "Miranda, Kayla",
+    "resolved_employer": "Housing Justice Organizer, Esperanza Peace and Justice Center; Director, Coalition for Tenant Justice",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Well-documented San Antonio housing/tenant-rights advocate on the Historic Westside; Esperanza Center organizer and Alazan Courts/SAHA resident who helped save 501 public-housing units. Address corroborates San Antonio (zip mis-entered).",
+    "source_url": "https://westsidedefender.wordpress.com/about-2/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Esperanza Peace and Justice Center", "role": "Housing Justice Organizer", "category": "civic", "source_url": "https://westsidedefender.wordpress.com/about-2/", "snippet": "Kayla Miranda is a 'Housing Justice Organizer' reachable at organizing@esperanzacenter.org, tied to the Esperanza Center's Westside housing work."},
+      {"org": "Coalition for Tenant Justice", "role": "Director", "category": "civic", "source_url": "https://boldjourney.com/meet-kayla-miranda/", "snippet": "Director of the Coalition for Tenant Justice, an impacted-led collective advancing tenant rights and anti-displacement for low-income families."},
+      {"org": "Historic Westside Residents Association", "role": "Member / SAHA resident", "category": "civic", "source_url": "https://saheron.com/tag/kayla-miranda/", "snippet": "Member of the Historic Westside Residents Association and a public-housing (SAHA/Alazan Courts) resident active in housing-bond and Right-to-Counsel organizing."}
+    ]
+  },
+  {
+    "donor_id": "09eb4972-6465-40bb-8fdb-82dd0574ba35",
+    "name": "LaGatta, Tom",
+    "resolved_employer": "Splunk (Staff Sales/Solutions Engineer; PhD mathematics); now Principal Architect at Google",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Tom LaGatta as a Splunk Staff Solutions/Sales Engineer on the NYC Strategics team (matching employer 'Splunk' and NY address, 10002), holding a PhD in mathematics; moved to Google as Principal Architect in 2025.",
+    "source_url": "https://www.linkedin.com/in/lagatta/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5e727c48-f189-4950-ad71-57b095f914bf",
+    "name": "Hernandez, Edward",
+    "resolved_employer": "Uber / Microsoft (software engineer)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Donor lists Software/Senior Software Engineer at Uber and Microsoft, San Francisco 94112. 'Edward Hernandez' is extremely common and no single public profile could be confirmed to this exact person; classified by employer fallback (tech firms) only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d4536989-1e22-452c-a876-1093e58d2867",
+    "name": "Samandan, Ramin",
+    "resolved_employer": "Self-employed fine-art photographer / owner, Magical Realism Studio",
+    "industry": "Entertainment",
+    "confidence": "medium",
+    "evidence": "Almost certainly Ramin Samandari (likely data-entry spelling variant), an Iranian-born San Antonio fine-art photographer, San Antonio Art League & Museum Artist of the Year 2023, owner of Magical Realism Studio; matches donor's 'Artist / Self-employed' occupation in San Antonio.",
+    "source_url": "https://sanantonioreport.org/ramin-samandari-san-antonio-art-league-museum-artist-of-the-year/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1d375fa3-e618-4cf5-947c-97f1be67a5e9",
+    "name": "De Leon, Diana",
+    "resolved_employer": "San Antonio Alliance of Teachers & Support Personnel (Local 67) - Union/Lead Organizer",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "LinkedIn and local news confirm Diana De Leon as a Union/Lead Organizer for the San Antonio Alliance (AFT Local 67), the SAISD teachers' union; matches donor's occupation and employer exactly.",
+    "source_url": "https://www.linkedin.com/in/diana-de-leon-638861163/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Alliance of Teachers & Support Personnel (AFT Local 67)", "role": "Union / Lead Organizer", "category": "labor", "source_url": "https://www.linkedin.com/in/diana-de-leon-638861163/", "snippet": "Diana De Leon - Union Organizer - San Antonio Alliance of Teachers and Support Personnel; acted as Alliance spokesperson on SAISD labor/education matters."}
+    ]
+  },
+  {
+    "donor_id": "4608baa1-cec1-40cb-acf7-9b5295b35c4c",
+    "name": "Hurtado, Francisco",
+    "resolved_employer": "Walgreens (Sales)",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "No distinct public profile found for a Francisco Hurtado working in sales at Walgreens in San Antonio (78221); classified by employer fallback (retail pharmacy) only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ffaadc31-e0b4-44c8-90c0-82aa03f02215",
+    "name": "Rasool, Mohammad",
+    "resolved_employer": "Duable (Duable Brand Trust) - Partner / Chief Innovation Officer",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "LinkedIn and ZoomInfo confirm Mohammad Rasool as Partner / Chief Innovation Officer at Duable ('Duable Brand Trust'), a San Antonio branding/marketing agency (website production, branding, collateral, social); matches donor's 'Partner, Dable' entry.",
+    "source_url": "https://www.linkedin.com/in/mohammadrasool/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]
