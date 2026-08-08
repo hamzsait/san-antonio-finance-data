@@ -1,0 +1,242 @@
+[
+ {
+  "donor_id": "25dfc262-e60c-407b-82ce-321f91b5c602",
+  "name": "Rocha, Pedro",
+  "resolved_employer": "Self-employed (cybersecurity)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Cybersecurity professional in far-NW San Antonio (78254); FEC filings list his own name as employer, indicating self-employment. Multiple 'Pedro Rocha' cybersecurity professionals in San Antonio could not be disambiguated, so identity is unresolved but the cyber-security/self-employed profile is consistent.",
+  "source_url": "https://www.linkedin.com/in/alamocybersec/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "15674d41-98a8-4ce3-8ca8-52416a160b1e",
+  "name": "Reinhardt, Erika",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Address 182 Howard St #150 SF is a UPS Store mailbox/registered-agent address; donor listed as 'Not employed' with a single FEC donation. A prominent Erika Reinhardt in SF (Spark Climate Solutions) exists, but her active employment contradicts the 'Not employed'/single-donation record, so identity cannot be confirmed. No match asserted.",
+  "source_url": "https://www.sparkclimate.org/our-team-members/erika-reinhardt",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "105a5b7a-a240-488f-8856-0064c9a3043a",
+  "name": "Benavides, Yvette",
+  "resolved_employer": "Benavides Studio Inc.",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Owner/VP of Benavides Studio Inc. and Benavides Picture Framing (art handling & design, est. 1997) at 1906 S Flores — the exact donation address, the Southtown 'The 1906' arts complex she co-owns with artist-husband Andy Benavides. Also co-founder/director of the S.M.A.R.T. arts-education 501c3 and a CAST Schools board member.",
+  "source_url": "https://www.sacurrent.com/arts/life-in-the-studios-at-south-flores-and-lone-star-2246192",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Benavides Studio Inc. / Benavides Picture Framing", "role": "Owner / Vice President", "category": "business", "source_url": "https://www.yelp.com/biz/benavides-picture-framing-san-antonio-2", "snippet": "Art handling, framing and design business at 1906 S Flores serving San Antonio since 1997."},
+   {"org": "The 1906 (art complex)", "role": "Owner", "category": "business", "source_url": "https://www.1906.studio/business", "snippet": "Southtown arts complex at 1906 S Flores that she co-owns with artist Andy Benavides."},
+   {"org": "S.M.A.R.T. (501c3)", "role": "Co-founder / Director", "category": "civic", "source_url": "https://www.1906.studio/business", "snippet": "Nonprofit that builds community through arts education and practice with working artists."},
+   {"org": "CAST Schools", "role": "Board member", "category": "civic", "source_url": "https://castschools.com/about/board/yvette-benavides/", "snippet": "Listed on the governing board of the CAST Schools career-themed charter network."}
+  ],
+  "interest_tags": "progressive-money"
+ },
+ {
+  "donor_id": "1011d771-7fe7-48c4-920d-375bd293afb2",
+  "name": "Kary, Whelpley",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Name appears reversed/garbled; 'Kary Whelpley' (surname Whelpley) listed as Not Employed at 2492 Chaffee Rd, 78212 (Mahncke Park/Fort Sam area) with zero FEC donations. Other San Antonio Whelpleys suggest a local family, but no occupation, employer, or affiliation could be documented for this donor.",
+  "source_url": "https://www.spokeo.com/Kathryn-Whelpley",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0eae2398-d911-4aa7-87d3-f65a77464c47",
+  "name": "Quintanilla, Jean",
+  "resolved_employer": "Self-employed (nature of business undocumented)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reported occupation and employer as 'SELF'. Address record is internally inconsistent (zip 70066 is Kenner, Louisiana while 1401 Fairview is a Houston TX address), so identity could not be confirmed. No matching individual found in public records, FEC, or TX lobbyist registry.",
+  "source_url": "https://www.fec.gov/data/receipts/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a43060a-00c9-45f1-b38b-035613fa88b3",
+  "name": "Delgado, Roger",
+  "resolved_employer": "Self-employed (nature of business undocumented)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Self Employed'; listed state 'TN' is a typo for TX (78237 is San Antonio's near West Side, consistent with Castillo's District 5). A Roger Delgado appears in San Antonio 78237 people-search records, but no occupation, industry, FEC PAC, or lobbyist affiliation could be confirmed.",
+  "source_url": "https://www.fec.gov/data/receipts/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "097855dd-a7b1-4d69-8050-a0a2b5dc5b52",
+  "name": "Aleman, J Richard",
+  "resolved_employer": "Self-employed attorney",
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'Attorney', employer 'Self Employed', San Antonio 78211. Could not corroborate a 'J. Richard Aleman' in State Bar of Texas Find-A-Lawyer results. No FEC PAC donations or TX lobbyist registration found. Industry assigned from self-reported occupation only.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "03ab9cd7-85ca-46ae-857f-cd189ef7fd4f",
+  "name": "Valdez-Hernandez, Mary",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Not Working', San Antonio 78258 (affluent far-north side). The only public 'Mary Valdez Hernandez' obituary is a woman born 1930 who died in 2016 — not this recent donor — so no identity match. No FEC PAC contributions or TX lobbyist registration found.",
+  "source_url": "https://www.fec.gov/data/receipts/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4503e98d-ac44-4e5c-adb5-d5f4ecd843e3",
+  "name": "Renteria, Justin",
+  "resolved_employer": "City of San Antonio (policy aide/Director of Policy; formerly communications aide to Councilman Roberto Treviño, District 1)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "San Antonio City Council policy staffer; ZoomInfo lists him as Director, Policy at City of San Antonio, and FEC records list employer 'Roberto Trevino, City Council District' / occupation 'Communications.' Donation profile (Bernie 2020, Beto for Texas) is progressive, consistent with a District 5 organizer's donor base.",
+  "source_url": "https://www.zoominfo.com/p/Justin-Renteria/-1700500004",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [],
+  "interest_tags": "progressive-money"
+ },
+ {
+  "donor_id": "a22775ed-b147-4b6a-965f-eb5a48f7e901",
+  "name": "Bravenec, Eddie",
+  "resolved_employer": "McKnight & Bravenec Law Offices (attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Edward L. 'Eddie' Bravenec, San Antonio attorney (UT Law 1999) at McKnight & Bravenec; property records list Edward L. and Katheryne R. Bravenec as the homeowners at the 501 Shook Ave 78212 donor address. Practice includes real estate, probate, contract litigation and federal criminal defense, so classified as Legal (real-estate attorney) rather than Real Estate.",
+  "source_url": "https://www.mb-law-firm.com/our-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3a968afd-990c-4228-8817-d5b93b433fc8",
+  "name": "Camann, Mark",
+  "resolved_employer": "Alamo Community College District (ACCD) - Instructor",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Mark Camann, San Antonio, listed in FEC records as Instructor at ACCD (Alamo Colleges District); FEC shows small-dollar 2024 gifts to Harris Victory Fund and Colin Allred for Senate, a progressive/higher-ed donor pattern. No lobbyist registration found.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Camann&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [],
+  "interest_tags": "higher-education,progressive-money"
+ },
+ {
+  "donor_id": "cd14087f-5179-45b7-83fd-94bb65f71409",
+  "name": "Bravo, Diega",
+  "resolved_employer": "Homemaker",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported as homemaker (employer 'My family') at a Waite Hill, OH address (affluent Cleveland suburb). No FEC PAC contributions, no Texas lobbyist registration, and no public bio/news could corroborate identity; identification remains unconfirmed.",
+  "source_url": "",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ab33ead7-0ded-4766-94d4-acd91fce333a",
+  "name": "Vela, Gene",
+  "resolved_employer": "US Government",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Austin donor (PO Box, 78703) listing employer 'US Government', occupation 'Worker'. A well-known Austin 'Gene Vela' is a former Marine/UT public-affairs grad student acquitted in a 2013 police-standoff/shooting case (Vela v. City of Austin), but identity match to this donor is unconfirmed (name+city only) and that case is not documented gun-rights advocacy. Industry assigned via generic 'US Government' employer only.",
+  "source_url": "https://dockets.justia.com/docket/texas/txwdce/1:2015cv01015/781344",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4c116944-2814-41ab-b0d3-2dec8249742c",
+  "name": "Casar, Gregorio",
+  "resolved_employer": "City of Austin (now U.S. House of Representatives)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Gregorio 'Greg' Casar, Austin City Council member (District 4, 2015-2022) at time of the 2021 donation, zip 78752 / 'City of Austin' / 'Council Member' matches FEC records exactly; now U.S. Rep for TX-35 and Chair of the Congressional Progressive Caucus. FEC shows only Democratic/progressive giving.",
+  "source_url": "https://en.wikipedia.org/wiki/Greg_Casar",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Congressional Progressive Caucus", "role": "Chair", "category": "political", "source_url": "https://www.texastribune.org/2024/12/17/greg-casar-congressional-progressive-caucus-chair/", "snippet": "Casar was elected chair of the Congressional Progressive Caucus, assuming the role in 2025."},
+   {"org": "Austin City Council (District 4)", "role": "Council Member (2015-2022)", "category": "government", "source_url": "https://ballotpedia.org/Gregorio_Casar", "snippet": "Casar served as the first representative of Austin City Council District 4 from January 2015 until February 2022."},
+   {"org": "U.S. House of Representatives (TX-35)", "role": "U.S. Representative", "category": "government", "source_url": "https://casar.house.gov/about", "snippet": "Casar assumed office as U.S. Representative for Texas's 35th district in January 2023."}
+  ],
+  "interest_tags": "progressive-money,political-consulting"
+ },
+ {
+  "donor_id": "49964ff2-2693-457b-b941-b9cbe331624d",
+  "name": "Cuellar, Olga",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Olga Cuellar of 5905 Tom Wooten Dr, Austin 78731 (property records show a Robert & Olga Cuellar living trust at that street). FEC records for Olga Cuellar in zip 78731 list occupation 'Not Employed' and show small ActBlue donations earmarked to Beto for Texas and other Democratic committees, consistent with a Castillo donor.",
+  "source_url": "https://blockshopper.com/tx/travis-county/cities/austin/streets/tom-wooten-dr",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [],
+  "interest_tags": "progressive-money"
+ },
+ {
+  "donor_id": "3db93ede-d7f2-40bf-82b5-421d36db8eeb",
+  "name": "Serda, Marcos",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired individual at 2703 Lake Louise Dr, San Antonio 78228; self-reported 'Self/Retired'. No FEC contributions, no Texas lobbyist registration, and no public bio/obituary/LinkedIn found identifying a prior career, so no industry can be assigned.",
+  "source_url": "https://radaris.com/p/Mark/Serda/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3c3ec492-961a-43ec-8642-53bf967036e2",
+  "name": "Lopez, Joe",
+  "resolved_employer": "Gallista Gallery / Gallista Studio (self-employed artist)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Joe Lopez 'El Gallista' (b.1945), founder of Gallista Gallery and prominent San Antonio Chicano painter; his studio/gallery address 347 Everest Ave, San Antonio 78209 matches the donor address exactly.",
+  "source_url": "https://www.aaa.si.edu/collections/joe-lopez-papers-and-gallista-gallery-records-17356/biographical-note",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Gallista Gallery", "role": "Founder / Artist", "category": "business", "source_url": "https://gallistaart.com/", "snippet": "Founder of Gallista Gallery (1996-2016), cornerstone of San Antonio's Chicano art community; self-employed visual artist known for 'gallo' (rooster) imagery."}
+  ],
+  "interest_tags": "hospitality-entertainment"
+ },
+ {
+  "donor_id": "2c99a223-c904-4cca-a98d-91a640ef7283",
+  "name": "Dean, Thomas",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired donor in Jacksonville FL (32210) with 40 FEC records; 'Thomas Dean' is a common name and no public source corroborated identity, former career, or a distinctive giving pattern. Federal small-dollar giving consistent with the Democratic donor pool but not individually verifiable.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Thomas+Dean&contributor_city=Jacksonville&contributor_state=FL",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0e14a7aa-fdfa-4bc8-b5a8-dff80bb6c024",
+  "name": "Gonzalez, Rene",
+  "resolved_employer": "Esperanza Community Land Trust / Esperanza Peace and Justice Center (General Manager)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "LinkedIn lists Rene A. Gonzalez as General Manager of the Esperanza Community Land Trust (part of the Esperanza Peace and Justice Center network, the West Side SA progressive arts/social-justice nonprofit), matching the donor's employer and occupation.",
+  "source_url": "https://www.linkedin.com/in/rene-a-gonzalez-83ab6b5/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Esperanza Community Land Trust / Esperanza Peace and Justice Center", "role": "General Manager", "category": "civic", "source_url": "https://www.linkedin.com/in/rene-a-gonzalez-83ab6b5/", "snippet": "General Manager of the Esperanza Community Land Trust; bilingual nonprofit program-management professional within the Esperanza social-justice organization."}
+  ],
+  "interest_tags": "progressive-money"
+ },
+ {
+  "donor_id": "4005d54d-7c6a-4c31-b516-d40a51b87a76",
+  "name": "Valdez, Joe",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired donor in downtown San Antonio 78205 with 57 FEC records; 'Joe Valdez' is a very common San Antonio name (multiple obituaries/records) and no public source corroborated identity, former occupation, or a distinctive giving pattern.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Joe+Valdez&contributor_city=San+Antonio&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

@@ -1,0 +1,231 @@
+[
+ {
+  "donor_id": "f725019f-d15c-4f1d-97af-e383befb850d",
+  "name": "J Escobedo, Lance",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported Not Employed at 11835 Petal Drive, San Antonio 78216. No public professional profile, board seat, FEC ideological-PAC record, or Texas lobbyist registration could be confirmed under this name.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Escobedo+Lance",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aa6ec158-7907-442d-a4cc-c84a955bab37",
+  "name": "Henneberger, John",
+  "resolved_employer": "Texas Housers (Texas Low Income Housing Information Service) — co-founder and co-director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed John Henneberger, 2014 MacArthur 'genius' Fellow and co-founder/co-director of Texas Housers (Texas Low Income Housing Information Service), a leading statewide low-income/fair-housing advocacy org; Austin 78703 address and employer string match the donor record exactly.",
+  "source_url": "https://www.macfound.org/fellows/class-of-2014/john-henneberger",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Housers (Texas Low Income Housing Information Service)", "role": "Co-founder and co-director", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/John_Henneberger", "snippet": "Co-founded the Texas Low Income Housing Information Service in 1988 (now Texas Housers) and serves as co-director; 2014 MacArthur Fellow advocating equitable disaster-recovery and affordable-housing policy."}
+  ]
+ },
+ {
+  "donor_id": "95b120ab-346f-4803-892b-da42f89316fb",
+  "name": "Perez, Hector",
+  "resolved_employer": "Solo-practice attorney (immigration), Cerritos, CA",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Occupation 'Attorney', self-employed, at Cerritos, CA 90703; a solo immigration attorney named Hector Perez is listed practicing in Cerritos, CA 90703, matching location and occupation. 'Hector Perez' is a common name, so identity is not conclusively locked. No ideological PAC or Texas lobbyist record found.",
+  "source_url": "https://www.yelp.com/biz/perez-hector-attorney-cerritos",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8a29c7e4-1751-41f4-9908-87a14ae2bb3a",
+  "name": "Briones, Ricardo",
+  "resolved_employer": "The Law Office of Ricardo Briones, P.C. — solo attorney (family/criminal/personal injury)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Confirmed Ricardo Briones, solo attorney at The Law Office of Ricardo Briones, 230 W Whittier, San Antonio (matches donor address); UTSA finance grad, St. Mary's Law, licensed 2008. High FEC count (45) reflects small recurring donations; no ideological PAC or lobbyist ties found.",
+  "source_url": "https://rbrioneslaw.com/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "807413db-c026-468d-9a56-ca714ae0ed6b",
+  "name": "Charley, Lopez",
+  "resolved_employer": "IBEW (International Brotherhood of Electrical Workers) — electrician",
+  "industry": "Labor",
+  "confidence": "medium",
+  "evidence": "Self-reported electrician employed by the IBEW at San Antonio 78245; IBEW electrical-worker locals (Local 60 / Local 500) operate in San Antonio. No distinct public profile beyond the union-electrician occupation; classified by employer. No ideological PAC or Texas lobbyist record found.",
+  "source_url": "https://ibewlu60.org/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "787ede07-91eb-4d8e-aef1-b9c8d6d16661",
+  "name": "Aleman, Enrique",
+  "resolved_employer": "University of Utah (Associate Professor of Educational Leadership & Policy, 2021); later chaired Educational Leadership & Policy Studies at UTSA; now Lillian Radford Professor in Education at Trinity University, San Antonio",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Enrique Alemán, Jr., Latino/Chicano education-policy scholar; was associate professor and AVP for Student Equity & Diversity at the University of Utah (Salt Lake City), matching the Utah address, occupation, and employer in the record. No ideological PAC or Texas lobbyist record found.",
+  "source_url": "https://trinity.edu/directory/ealeman",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "654318f4-0b5a-4c67-acfe-bfbbbcb4606c",
+  "name": "Johnson, Mary",
+  "resolved_employer": "Self-employed clothing designer, San Antonio",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "A San Antonio LinkedIn profile lists a Mary Johnson as a self-employed clothing designer, matching the record's occupation, self-employment, and city. 'Mary Johnson' is an extremely common name, so exact-person confirmation is limited; no ideological PAC or lobbyist record confirmed for this individual.",
+  "source_url": "https://www.linkedin.com/in/mary-johnson-6a143773/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4bf28bf7-a217-4ee9-9083-31868dfd555a",
+  "name": "Tyler, Davila",
+  "resolved_employer": "Technician at 'Garage Cell' (cell-phone repair/service shop), San Antonio",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "No public profile confirmable to this specific individual; the name is common in San Antonio and no found profile matches a cell-phone repair technician. Industry classified by employer/occupation (technician at a cell-phone repair shop). No ideological PAC or Texas lobbyist record found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "48ab8692-9c1b-4dc8-a0f9-f8300c6870c1",
+  "name": "Reyna, Elias",
+  "resolved_employer": "Retired (former career not documented in public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired individual in San Antonio's 78201 (West Kings Hwy area). Public-records aggregators list an Elias Reyna in the 78201 zip, but no former career, ideological PAC, or Texas lobbyist record could be confirmed. Industry left null per no-guess rule (retired, career unknown).",
+  "source_url": "https://unmask.com/Elias-Reyna/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "45678da4-f71c-4839-8ba8-26694393608e",
+  "name": "Munoz, Charles",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Public records match a Charles R. Munoz (age ~74) at 222 Inspiration Dr, San Antonio 78228 — the exact record address — consistent with the 'Not Employed' occupation (likely retired). No ideological PAC, industry employer, or Texas lobbyist registration found for this individual.",
+  "source_url": "https://clustrmaps.com/person/Munoz-29sfu3",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2e8fecf7-4560-4298-a511-dfd4992642a8",
+  "name": "York, Ryan",
+  "resolved_employer": "The Gathering Place (San Antonio arts/project-based public charter school; closed May 2025) — Co-Founder & Co-CEO",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Ryan York is documented Co-Founder/Co-CEO of The Gathering Place, a San Antonio charter school (not a restaurant), which he built with co-founder Asia Klekowicz after a decade in K-12 teaching/leadership; matches donor occupation 'Co-CEO' at 'The Gathering Place'. No ideological PAC or Texas lobbyist record found.",
+  "source_url": "https://teachinglearningleadingk12.podbean.com/e/asiaklekowiczand-ryan-yorkthegatheringplaceanelementaryschool-with-afocuson-project-based-learning-the-arts-and-helpingunderserved-neighborhoods452/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "20c235af-6d7d-4c63-8793-6637113d73c6",
+  "name": "Velazquez, Francisco",
+  "resolved_employer": "Not employed (per filing)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as 'Not Employed' in San Antonio (78213). No distinct public profile could be confirmed; 'Francisco Velazquez' is a very common name and no matching bio, employer, ideological PAC, or Texas lobbyist record was found to corroborate a specific individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4f503822-e94f-4eab-a214-8e2555c2faf2",
+  "name": "Castillo, Elida",
+  "resolved_employer": "Retired (former career not documented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired individual at 947 W Woodlawn Ave, San Antonio 78201, listed as a donor in Teri Castillo's TEC campaign-finance filings. This is NOT the 'Elida Castillo' who is Chispa Texas program director / Mayor of Taft, TX (an active Coastal Bend environmental organizer, not retired, different city). No former occupation, ideological PAC, or Texas lobbyist record documented for the San Antonio retiree.",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003176_20240715_144807.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ba41ef2b-2aac-4a6f-9b07-8722defd2c08",
+  "name": "Sorensen, Sarah",
+  "resolved_employer": "City of San Antonio (public administrator); former San Antonio ISD District 1 Trustee (2021–2025)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Sarah L. Sorensen is a San Antonio ISD District 1 Trustee (2021–2025) and 2025 candidate, VP of the Lavaca Neighborhood Association and founder of Our Schools San Antonio; her home zip 78210 (Lavaca) corroborates identity. Donor occupations (public administrator/City of SA, plus earlier COVID case-investigator and yoga-instructor gigs) fit. No Israel/Palestine, oil/gas, gun, or defense PAC or Texas lobbyist record found.",
+  "source_url": "https://sanantonioreport.org/profile/sarah-sorensen-2025-san-antonio-isd-district-1-candidate/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Our Schools San Antonio", "role": "Founder", "category": "civic", "source_url": "https://sanantonioreport.org/profile/sarah-sorensen-2025-san-antonio-isd-district-1-candidate/", "snippet": "Founder of Our Schools San Antonio, a parent advocacy group pushing for fully funded public schools; also VP of the Lavaca Neighborhood Association."}
+  ]
+ },
+ {
+  "donor_id": "522952d5-9762-4f4d-9b06-826e11921d02",
+  "name": "Lopez, Charles",
+  "resolved_employer": "Harlandale ISD — teacher",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Listed as a teacher at Harlandale ISD (San Antonio 78207). Classified by employer/occupation; no distinct public bio, leadership role, ideological PAC, or Texas lobbyist record could be confirmed for this common name beyond the stated teaching job.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "78fa63d6-0abe-4ef8-adb1-e1d7c4ac1f8a",
+  "name": "valdez, johnny",
+  "resolved_employer": "Recruiter at Cherokee Federal / Cherokee Nation Businesses (government-services contractor)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Cherokee Federal published a profile 'Meet Johnny Valdez: Recruiting and mentoring top talent to support Cherokee Federal clients,' matching the donor's occupation (Recruitment) and employer (Cherokee Nation); Cherokee Federal maintains San Antonio operations. Exact 78225 residence not independently confirmed. No ideological PAC or Texas lobbyist record found.",
+  "source_url": "https://cherokee-federal.com/industry-insights/meet-johnny-valdez-recruiting-and-mentoring-top-talent-to-support-cherokee-federal-clients",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "508f68e7-bff9-4ffd-8bbc-d5a426df9c7c",
+  "name": "Galvan, Ric",
+  "resolved_employer": "Organizer with Texas Rising / Texas Freedom Network (later elected San Antonio City Council District 6 member)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Ric Galvan is a Texas Rising Action / Texas Freedom Network alum and organizer (matches donor occupations 'Deputy Field Organizer, Campus Organizer'); he later won the San Antonio City Council District 6 runoff. Same San Antonio profile and employer. No Israel/Palestine, oil/gas, gun, or defense PAC or Texas lobbyist record found.",
+  "source_url": "https://tfn.org/texas-rising-action-alum-ric-galvan-wins-san-antonio-city-council-district-6/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Freedom Network / Texas Rising", "role": "Organizer (Deputy Field / Campus Organizer)", "category": "civic", "source_url": "https://tfn.org/texas-rising-action-alum-ric-galvan-wins-san-antonio-city-council-district-6/", "snippet": "Texas Rising Action alum Ric Galvan; Texas Rising is the youth organizing program of the Texas Freedom Network (church-state separation, reproductive rights, public education, voting rights)."}
+  ]
+ },
+ {
+  "donor_id": "46dbc704-64d0-488b-88bc-ee1843db05dc",
+  "name": "Clifford, Natalie",
+  "resolved_employer": "Chief of Staff, Northside AFT (San Antonio teachers' union); Harlandale ISD educator",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Listed as Chief of Staff on the Northside AFT 'Meet the Team' page; publicly identified as a Harlandale ISD educator and speaker for PODER, the Social Justice Caucus of the San Antonio Alliance (Local 67). Matches donor occupations (Teacher, Organizer) and employer (Northside AFT). No ideological PAC or Texas lobbyist record found.",
+  "source_url": "https://www.northsideaft.org/meet-the-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Northside AFT (American Federation of Teachers local)", "role": "Chief of Staff", "category": "labor", "source_url": "https://www.northsideaft.org/meet-the-team", "snippet": "Natalie Clifford — Chief of Staff, Northside AFT (San Antonio teachers' union)."},
+   {"org": "PODER — Social Justice Caucus of the San Antonio Alliance (Local 67)", "role": "Educator / advocate", "category": "labor", "source_url": "https://www.facebook.com/AlliancePODER/videos/natalie-clifford-on-cite-release-in-san-antonio/1025528841147758/", "snippet": "Harlandale ISD educator Natalie Clifford speaking on cite-and-release, featured by PODER, the Social Justice Caucus of the San Antonio Alliance."}
+  ]
+ },
+ {
+  "donor_id": "3cf0bc7f-4982-419d-a2e4-c09bbe31599b",
+  "name": "Sanchez, Gustavo",
+  "resolved_employer": "Retired (former career not documented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired donor in West Side San Antonio zip 78207. 'Gustavo Sanchez' is a very common name; no public profile, FEC ideological-PAC record, Texas lobbyist registration, or former-career documentation could be tied to this specific individual. Industry left null per identity-uncertainty rule.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dad24a78-5de5-4394-a8fd-f7b6b58626a4",
+  "name": "FANG, ZIHENG",
+  "resolved_employer": "Backend Engineer, MGM Resorts International (Las Vegas, NV)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Out-of-state donor (Las Vegas, NV 89103) to this San Antonio race; occupation listed as Backend Engineer at MGM Resorts International (fec_donation_count 0). No public profile, FEC ideological-PAC record, or Texas lobbyist registration found to confirm the specific individual; industry classified by occupation (software engineering).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

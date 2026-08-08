@@ -1,0 +1,249 @@
+[
+ {
+  "donor_id": "3fa7bd12-3492-4a77-b210-cbcc92567d01",
+  "name": "Morales, Ray",
+  "resolved_employer": "Retired (former career not documented in public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired donor at 203 Medford Dr, 78209 (Alamo Heights/Terrell Hills area). 'Ray Morales' is a very common San Antonio name; no public record could be tied specifically to this individual to establish a former career, affiliations, or PAC activity.",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003176_20240715_144807.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "32b5d1eb-07a9-4bd1-a815-ac204059e180",
+  "name": "Castillo, Joe",
+  "resolved_employer": "CPS Energy (San Antonio municipal electric/gas utility) — pole setter / lineman",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Self-reported in campaign-finance filings as a CPS Energy pole setter/lineman (also listed Walgreens sales/manager), 303 Cass Ave, 78204. Shares the candidate's surname but no public record documents a family relationship, so none is asserted. No FEC ideological-PAC or lobbyist records found.",
+  "source_url": "https://www.cpsenergy.com/en/construction-and-renovation/pole-attachment-services.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5a03a2f9-f6b6-4c65-85f8-739abffc236c",
+  "name": "Speer, Chuck",
+  "resolved_employer": "Retired (former career not confirmed; a LinkedIn 'Chuck Speer - Retail Sales Rep, SAS Retail Services' exists but could not be confirmed as this individual)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired donor at 453 Drake, 78204, per Teri Castillo TEC filings. Could not confirm the LinkedIn retail-sales match to this specific person; only 5 FEC donations and no PAC or lobbyist records found.",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003176_20240715_144807.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "16916722-afce-47ec-9962-1fe863fe5c24",
+  "name": "Villasenor, Bernie",
+  "resolved_employer": "Currently listed 'Not Employed'; per 2016 FEC filings was a Research Technologist at Southwest Research Institute (SwRI)",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "FEC individual-contribution records show a Bernie Villasenor in 78226 employed as Research Technologist at Southwest Research Institute (SwRI, a nonprofit applied-engineering R&D institute), matching this donor's zip and 139 Nightingale address; high FEC count (296) reflects recurring small-dollar ActBlue giving. No ideological-PAC or lobbyist records found.",
+  "source_url": "https://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part52.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "83e16403-3027-4b05-be82-51142d395fec",
+  "name": "Bravo, Mario",
+  "resolved_employer": "Self-employed environmental consultant (former City of San Antonio Councilman, District 1; former Environmental Defense Fund project manager)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Matches former San Antonio City Council District 1 member Mario Bravo (2021-2023), an environmental consultant whose pre-council career was as a project manager at Environmental Defense Fund working on air quality, climate and health. Address 78201 and occupation 'City Councilman / Environmental Consultant' with employer 'COSA' corroborate. 61 FEC donations consistent with a politically active former official; no ideological/issue-PAC contributions surfaced in FEC/OpenSecrets searches. Not found in Texas Ethics Commission lobbyist registry.",
+  "source_url": "https://sanantonioreport.org/profile/mario-bravo-2023-district-1-city-council-candidate/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council, District 1", "role": "Councilman (2021-2023)", "category": "political", "source_url": "https://ballotpedia.org/Mario_Bravo", "snippet": "Mario Bravo was elected to represent District 1 on the San Antonio City Council in 2021; lost the June 2023 runoff."},
+   {"org": "Environmental Defense Fund", "role": "Project manager (air quality, climate and health)", "category": "civic", "source_url": "https://sanantonioreport.org/district-1-councilman-mario-bravo/", "snippet": "Prior to council, Bravo worked on air quality, climate and health issues for the Environmental Defense Fund and was a longtime environmental advocate."}
+  ]
+ },
+ {
+  "donor_id": "e86f2692-60cd-4b4c-9bff-c4079ae77570",
+  "name": "Sanchez, Leticia",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Donor profile (78207 Westside, 2718 Monterey St, 'Not Employed') matches Leticia Sanchez, co-chairperson of the Historic Westside Residents Association (HWRA), a West Side neighborhood-advocacy group active on housing and historic-preservation issues aligned with Councilwoman Castillo's district. Name is common (a separate LPL financial advisor 'Leticia Sanchez' exists but does not fit this profile). No FEC ideological/issue-PAC contributions surfaced; not in Texas Ethics Commission lobbyist registry.",
+  "source_url": "https://www.sacurrent.com/news/san-antonios-west-side-debates-proposed-buena-vista-historic-district-24907513/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Historic Westside Residents Association (HWRA)", "role": "Co-chairperson", "category": "civic", "source_url": "https://www.sacurrent.com/news/san-antonios-west-side-debates-proposed-buena-vista-historic-district-24907513/", "snippet": "Leticia Sanchez, co-chairperson of the Historic Westside Residents Association: 'We feel that our historic West Side has been overlooked by the city... this historic designation will help the city to see how valuable it is.'"}
+  ]
+ },
+ {
+  "donor_id": "79fa5227-b143-4970-9b13-8b26397ca775",
+  "name": "Miranda, Kayla",
+  "resolved_employer": "Esperanza Peace and Justice Center",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed as Kayla Miranda, San Antonio's first Housing Justice Organizer, a role created for her by the Esperanza Peace and Justice Center; a Westside (78207) resident of the Alazan/Apache Courts who led the campaign to save 501 public-housing units. Occupation/employer strings ('Housing Justice Organizer', 'Esperanza Peace and Justice Center') match exactly. No FEC ideological/issue-PAC contributions surfaced (only 2 FEC donations); not in Texas Ethics Commission lobbyist registry.",
+  "source_url": "https://boldjourney.com/meet-kayla-miranda/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Esperanza Peace and Justice Center", "role": "Housing Justice Organizer", "category": "civic", "source_url": "https://boldjourney.com/meet-kayla-miranda/", "snippet": "Became the city's first Housing Justice Organizer, a position created by Esperanza Peace and Justice Center; helped form San Antonio's first community land trust and writes for La Voz de Esperanza."},
+   {"org": "Right to the City / Homes for All", "role": "Elected national leadership team member (Homes for All South / National Governance Committee)", "category": "civic", "source_url": "https://boldjourney.com/meet-kayla-miranda/", "snippet": "Represents the South in leadership with Homes for All / Right to the City and serves on the Homes for All National Governance Committee."},
+   {"org": "City of San Antonio Building Standards Board", "role": "Appointed member", "category": "civic", "source_url": "https://boldjourney.com/meet-kayla-miranda/", "snippet": "Appointed to the Building Standards Board, a quasi-judicial board in charge of property code."}
+  ]
+ },
+ {
+  "donor_id": "a24da0ba-6951-4900-8995-1ccf15926778",
+  "name": "Ortega, Herlinda",
+  "resolved_employer": "Retired (former career not documented)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired individual at 2505 Saunders, San Antonio 78207 (Westside), consistent with a small-dollar local donor to a D5 Westside campaign. Common name; could not confirm the specific person against any public bio, news, or org-leadership record. No FEC ideological/issue-PAC contributions surfaced; not found in Texas Ethics Commission lobbyist registry; no verifiable bio page.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ec80fc13-61b3-4d50-aae3-acf7e68a2d85",
+  "name": "Commet, David",
+  "resolved_employer": "Self-Employed (unconfirmed)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed as self-employed at 2323 Buena Vista, San Antonio, TX 78212. No confirmable public record could be tied to this exact name; searches returned only similarly-named individuals, none matching the address or a documented occupation. FEC donation count 0; no ideological PAC contributions, no Texas lobbyist registration, and no bio page found.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part169.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "eafce439-3f5a-48a8-a3bb-e5af88de1562",
+  "name": "Sampson, Linebarger",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson LLP",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "The scrambled name plus the Austin PO Box match Linebarger Goggan Blair & Sampson LLP, a major law firm specializing in government debt/tax collection. Transparency USA documents the firm as both a Texas political contributor (~$20,500 in reported contributions through 2025) and a registered Texas lobbyist client, confirming an active state-level lobbying/political role. Entry was filed as 'Self-Employed,' consistent with a partnership entry; unclear whether the donor is the firm, its PAC, or a named partner, hence medium confidence.",
+  "source_url": "https://www.transparencyusa.org/tx/lobbying/client/linebarger-goggan-blair-and-sampson-llp-1",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Linebarger Goggan Blair & Sampson LLP", "role": "Law firm / registered Texas lobbyist client and political contributor", "category": "business", "source_url": "https://www.transparencyusa.org/tx/contributor/linebarger-goggan-blair-and-sampson-llp-1", "snippet": "Linebarger Goggan Blair & Sampson LLP is a government debt/tax-collection law firm listed on Transparency USA as a Texas political contributor and lobbyist client with documented state-level lobbying activity."}
+  ]
+ },
+ {
+  "donor_id": "9783ebc6-70cc-4bab-877d-06276fed0b6a",
+  "name": "Castillo, Amber",
+  "resolved_employer": "SAMMinistries (San Antonio Metropolitan Ministry, Inc.)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Occupation 'Caseworker' at 'SAMMinistries' (San Antonio Metropolitan Ministry, Inc.), a well-documented interfaith nonprofit providing shelter, housing and homeless services in San Antonio. Classification is employer-based. No ideological PAC contributions, Texas lobbyist registration, or leadership/board bio found; identity beyond employer not fully corroborated.",
+  "source_url": "https://www.samm.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "66a6b044-8138-4753-9817-ced6e7a5039e",
+  "name": "Texas Carpenters regional Council, Texas Working Families, Political Action Committee",
+  "resolved_employer": "Texas Carpenters Regional Council (United Brotherhood of Carpenters)",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Documented Texas general-purpose political action committee (GPAC) sponsored by the Texas Carpenters Regional Council, part of the United Brotherhood of Carpenters and Joiners of America; the Brooklyn (77 Sands St) address ties to UBC regional-council operations. Transparency USA lists it as a registered Texas committee reporting contributions and expenditures. This is a labor-union PAC.",
+  "source_url": "https://www.transparencyusa.org/tx/committee/texas-carpenters-regional-council-texas-working-families-political-action-committee-51019-gpac/contributions",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Carpenters Regional Council Texas Working Families PAC", "role": "Union-sponsored general-purpose political action committee", "category": "political", "source_url": "https://www.transparencyusa.org/tx/committee/texas-carpenters-regional-council-texas-working-families-political-action-committee-51019-gpac/contributions", "snippet": "Registered Texas GPAC affiliated with the Texas Carpenters Regional Council (United Brotherhood of Carpenters), reporting political contributions and expenditures in Texas — a labor-union political committee."}
+  ]
+ },
+ {
+  "donor_id": "617c9eb1-b29d-467b-a799-136fcd326934",
+  "name": "Starr, Arlene",
+  "resolved_employer": "Business owner (unconfirmed; shares 7334 Blanco Rd address with Clermont, LLC / David Starr)",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Listed as a 'Business Owner'/'owner' at 7334 Blanco Rd, San Antonio 78216 — the same address as David Starr (same batch) and the offices of Clermont, LLC, a real estate/affordable-housing finance firm. Likely same household as David Starr, but no public record confirms the relationship or documents Arlene Starr's own distinct business/role. Industry tentatively assigned Real Estate via the shared commercial address; specific occupation undocumented. No ideological PACs, Texas lobbyist registration, or advocacy affiliations found.",
+  "source_url": "https://clermontllc.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4c38b6ad-de6e-4cfd-a241-70ebc8745b0b",
+  "name": "Yadin, Deborah",
+  "resolved_employer": "CBG Commercial Real Estate",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Employer listed as CBG Commercial Real Estate, a San Antonio commercial real estate firm founded by Reuben Bar Yadin (a same-address donor in this batch) to manage the family's holdings. Donor 'Deborah Yadin' resolves to Deborah Bar Yadin, associated with the Bar Yadin family. Industry = Real Estate via employer. No Texas lobbyist registration and no oil/gas, gun, defense, pro-Israel or pro-Palestine ideological-PAC contributions found. (Her private family-foundation/communal role is charitable, not policy-advocacy, so it is out of scope per the pipeline's jewish_civic carve-out and is not recorded as an affiliation.)",
+  "source_url": "https://cbgcre.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "48466a0d-472b-4216-b2ff-d2b2f888771e",
+  "name": "Bravenec, Kathryn",
+  "resolved_employer": "City of San Antonio (COSA)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Kathryn ('Katy') Bravenec is a City of San Antonio employee, identified as Chief of Staff for City Council District 5 — Teri Castillo's own council office. Her name appears in Castillo's Texas Ethics Commission campaign-finance filings. Employer 'COSA' = City of San Antonio = Government. No ideological-PAC contributions or lobbyist registration found.",
+  "source_url": "https://www.zoominfo.com/p/Katy-Bravenec/6204211050",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio — Council District 5 office", "role": "Chief of Staff", "category": "civic", "source_url": "https://www.zoominfo.com/p/Katy-Bravenec/6204211050", "snippet": "Katy Bravenec is listed as Chief of Staff at the City of San Antonio (District 5), the council office held by Teri Castillo; she appears in Castillo's TEC campaign-finance filings."}
+  ]
+ },
+ {
+  "donor_id": "436b5613-90ba-4b3c-9b25-ac6620cda1db",
+  "name": "Starr, David",
+  "resolved_employer": "Clermont, LLC",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "David Starr is President & Principal of Clermont, LLC (7334 Blanco Rd #200, San Antonio 78216), a real estate advisory/development firm specializing in tax-exempt bond financing for multifamily/affordable & workforce housing (Vantage Communities platform). Also President since 1999 of nonprofit affordable-housing developers American Opportunity for Housing (AOH) and American Agape Foundation. Appointed Treasurer of the Alamo Regional Mobility Authority (2013). FEC record shows a $1,000 contribution to the local 'Toward Tomorrow PAC' (2012); no pro-Israel, oil/gas, gun, or defense ideological-PAC contributions surfaced. No Texas lobbyist registration found under this name.",
+  "source_url": "https://clermontllc.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Alamo Regional Mobility Authority", "role": "Treasurer (appointed July 2013)", "category": "civic", "source_url": "https://clermontllc.com/about/", "snippet": "Clermont bio: David Starr serves as Treasurer of the Alamo Regional Mobility Authority (appointed July 2013)."},
+   {"org": "American Opportunity for Housing, Inc. (AOH) / American Agape Foundation, Inc.", "role": "President (since 1999)", "category": "business", "source_url": "https://clermontllc.com/about/", "snippet": "Since 1999 Starr has been president of American Opportunity for Housing and the American Agape Foundation, nonprofits that have developed/provided over 15,000 units of affordable housing."}
+  ]
+ },
+ {
+  "donor_id": "412c05f6-218a-4ac5-9eef-2f574035f46e",
+  "name": "Yadin, Reuben",
+  "resolved_employer": "CBG Commercial Real Estate",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Reuben Bar-Yadin is the founder and CEO of CBG Commercial Real Estate, a San Antonio-based firm (est. 1978) located at 4629 Marco St, San Antonio, TX 78218 — matching the donor's address. CBG manages 70+ properties (~3.5M sq ft) across San Antonio and the Rio Grande Valley. No pro-Israel/DMFI/J Street, oil & gas, defense, or gun PAC contributions found on FEC/OpenSecrets; not in Texas Ethics Commission lobbyist registry. His 40 FEC donations were not tied to any documented ideological PAC.",
+  "source_url": "https://cbgcre.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "CBG Commercial Real Estate", "role": "Founder & Chief Executive Officer", "category": "business", "source_url": "https://cbgcre.com/about-us/", "snippet": "CBG is a San Antonio-based real estate firm... initially founded by Reuben Bar Yadin to manage his family's real estate holdings. Leadership: Reuben Bar-Yadin (CEO)."}
+  ]
+ },
+ {
+  "donor_id": "354ecb7e-e4bf-4c26-9845-bcd8ef8a249a",
+  "name": "Sosa, Kathy",
+  "resolved_employer": "Self-employed (artist / marketing & political design consultant)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Confirmed as San Antonio artist Kathy (Katherine) Sosa, wife of adman/GOP consultant Lionel Sosa. Self-employed visual artist known for the 'Huipiles: a Celebration' traveling exhibition and public-art projects; her own bio also describes her as an 'independent marketing and political design consultant.' Documented political roles are Republican-side: creative/marketing work on George W. Bush's 1998 gubernatorial and presidential campaigns; appointed by Gov. George W. Bush to the Children's Trust Fund of Texas Council; appointed by Gov. Rick Perry to the founding board of the Texas Conference for Women. No pro-Israel/Palestine, oil & gas, defense, or gun PAC ties found; not in TEC lobbyist registry.",
+  "source_url": "https://kathysosa.com/?page_id=150",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "George W. Bush gubernatorial (1998) & presidential campaigns", "role": "Campaign creative/marketing consultant", "category": "political", "source_url": "https://kathysosa.com/?page_id=150", "snippet": "She served as 'the only woman on George W. Bush's gubernatorial race in 1998, his presidential campaign' and re-election bid."},
+   {"org": "Children's Trust Fund of Texas Council", "role": "Council member (appointed by Gov. George W. Bush)", "category": "political", "source_url": "https://kathysosa.com/?page_id=150", "snippet": "Children's Trust Fund of Texas Council (appointed by Governor George W. Bush)."},
+   {"org": "Texas Conference for Women", "role": "Founding board member (appointed by Gov. Rick Perry)", "category": "civic", "source_url": "https://kathysosa.com/?page_id=150", "snippet": "Founding Board of The Texas Conference for Women (appointed by Governor Rick Perry)."}
+  ]
+ },
+ {
+  "donor_id": "0cd633f3-6da8-4a70-8d1f-fdfc655272be",
+  "name": "Gres, Anthony",
+  "resolved_employer": "A&A Concepts, LLC",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Anthony Gres, MBA is CEO/President of A&A Concepts, LLC, a San Antonio-based fresh fruit and vegetable processing and distribution company. Identity confirmed via A&A Concepts: same Anthony Gres who twice ran for San Antonio City Council District 5 — the seat Teri Castillo now holds — losing in 2019 (to incumbent Shirley Gonzales) and in the 2021 general election, described in press as a 'West side business owner.' Donor now lists a Cibolo (78108) address. FEC donation count 0; no ideological PAC ties; not in TEC lobbyist registry. Note food-distribution has no exact taxonomy bucket; 'Retail' used as nearest goods/commerce fit.",
+  "source_url": "https://ballotpedia.org/Anthony_Gres",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council District 5 (candidate)", "role": "Candidate, 2019 and 2021 (lost both)", "category": "political", "source_url": "https://ballotpedia.org/Anthony_Gres", "snippet": "Anthony Gres ran for election to the San Antonio City Council to represent District 5 and lost in the general election on May 1, 2021; also ran in 2019 vs. incumbent Shirley Gonzales."},
+   {"org": "A&A Concepts, LLC", "role": "CEO / President / Owner", "category": "business", "source_url": "https://www.linkedin.com/in/anthony-gres-mba-6659b455/", "snippet": "Anthony Gres, MBA — CEO/President at A&A Concepts LLC; fresh fruit and vegetable processor/distributor."}
+  ]
+ },
+ {
+  "donor_id": "47bc85f3-b9db-4d0f-a892-a7192045b139",
+  "name": "Sánchez, Vanessa",
+  "resolved_employer": "Unconfirmed (self-described fundraiser at an arts nonprofit)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Donor lists occupation 'Fundraiser / Not Employed' and employer 'Arts nonprofit / Not Employed' at 910 W Mariposa Dr, San Antonio 78201. Could not corroborate a specific named employer or a public bio to a single confirmed individual — 'Vanessa Sanchez' is a common name (a same-named SF-based dancer/choreographer and a Dr. Vanessa Sanchez MD in San Antonio are distinct people and were excluded). Her 220 FEC donations fit a small-dollar (ActBlue-style) individual-giving pattern, not an org affiliation. No documented board seats, no pro-Israel/Palestine, oil & gas, defense, or gun PAC ties; not in TEC lobbyist registry. Industry assigned by generic occupation only.",
+  "source_url": "https://publicrecords.directory/profiles/vanessa-sanchez.2570045.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

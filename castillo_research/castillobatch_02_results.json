@@ -1,0 +1,350 @@
+[
+ {
+  "donor_id": "8c4ae828-06ea-4a7f-ae46-2af0d1027206",
+  "name": "Lawson, Rosemary",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported Not Employed, 162 Marlena Drive, San Antonio 78213. No public professional profile, FEC PAC record, or TX lobbyist registration could be confirmed for this individual; multiple same-named/similar people exist locally.",
+  "source_url": "https://www.opensecrets.org/donor-lookup",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "30ad141e-a42a-40c0-a4ce-028042e52cf3",
+  "name": "Sharp, Brittany",
+  "resolved_employer": "Martinez Street Women's Center (now Empower House); graduate student, University of Texas at San Antonio",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Social worker at Martinez Street Women's Center (San Antonio near-Eastside women's/reproductive-health nonprofit, now Empower House) and UTSA social-work graduate student; occupation Social Work / employer Martinez Street Women's Center matches donor record. A registered TX lobbyist 'Brittany A. Sharp' in Austin appears to be a different, same-named person and is NOT classified here. No ideological PAC records found.",
+  "source_url": "https://empowerhousesa.org/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": [
+   {
+    "org": "Martinez Street Women's Center (Empower House)",
+    "role": "Social Worker / staff",
+    "category": "nonprofit",
+    "source_url": "https://empowerhousesa.org/",
+    "snippet": "Martinez Street Women's Center, now Empower House, is a San Antonio nonprofit serving women and girls; donor lists occupation as Social Work and employer as Martinez Street Women's Center."
+   }
+  ]
+ },
+ {
+  "donor_id": "7ed3970b-493a-429f-ab3f-d1d0f9e189b0",
+  "name": "Caballero, Roger",
+  "resolved_employer": "Madonna Center, Inc. (Chief Executive Officer)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "CEO of Madonna Center, Inc., a long-standing West Side San Antonio family/community-services nonprofit (1906 Castroville Rd, 78237); previously Executive Director there and program manager at SER National. Confirmed via LinkedIn, ZoomInfo, and Community Impact news. A separate 'Roger Caballero' at Secure Benefits LLC is a different person. No PAC or lobbyist records found.",
+  "source_url": "https://communityimpact.com/san-antonio/north-san-antonio/nonprofit/2023/03/07/security-service-charitable-foundation-donates-2500-to-madonna-center-of-san-antonio/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": [
+   {
+    "org": "Madonna Center, Inc.",
+    "role": "Chief Executive Officer",
+    "category": "nonprofit",
+    "source_url": "https://www.zoominfo.com/p/Roger-Caballero/31574795",
+    "snippet": "Roger Caballero serves as Chief Executive Officer at Madonna Center, Inc., a San Antonio nonprofit; previously Executive Director there and Program Manager at SER National."
+   }
+  ]
+ },
+ {
+  "donor_id": "d3bfdbf4-4b06-48ec-92b7-8d120fc497a0",
+  "name": "Biglin, Brent",
+  "resolved_employer": "Dell Technologies (Principal Interaction/UX Designer, Experience Design Group)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "UX/interaction designer at Dell in San Antonio (Experience Design Group; usability lead for Alienware software), holds MSIS in UX/Information Architecture; confirmed via LinkedIn and personal site biglin.io. Matches donor occupation 'Designer' / employer 'Dell'. No PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/brent-biglin-a31b2972/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "efe60f59-f361-4191-817a-b8d4c5610555",
+  "name": "Gonzales, Robert",
+  "resolved_employer": "National Cab (San Antonio taxi company) \u2014 owner / co-manager",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Owner/co-manager of National Cab, a San Antonio taxicab company; BBB lists a 'Robert Gonzalez' as a Member/principal of National Cab Company, referenced as manager of the National Cab-operated San Antonio Airport Taxi service. Matches donor occupation (Owner, cab drivers/co-manager) and employer. Common name, so identity corroborated by employer match. No PAC or lobbyist records found.",
+  "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/taxi/national-cab-company-0825-90096203",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "fb79e7b0-7169-4c2d-a56e-72a941aecc07",
+  "name": "Castillo, Teresa",
+  "resolved_employer": "Retired / not employed",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Public property/address records confirm a Teresa Castillo (with Joe Castillo) at 303 Cass Ave, San Antonio 78204; campaign filing lists occupation as retired/self, not employed. No public professional profile.",
+  "source_url": "https://blockshopper.com/tx/bexar-county/zips/78204/streets/cass-ave",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "a13c389d-b201-4958-bb7b-fbc29e2d7628",
+  "name": "Mendoza, Mayra",
+  "resolved_employer": "UT Health San Antonio (consultant, per self-reported occupation)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Occupation self-reported as UT Health / consultant at 403 Linares St, San Antonio 78225. Could not corroborate the specific individual against a public profile; classified by employer string only (UT Health = healthcare).",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003176_20240715_144807.pdf",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "e86fe896-ce12-48ef-98b1-f62d2d74e57b",
+  "name": "Morales, Shelia",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Public records confirm a Sheila Morales (b. 1959) at 203 Medford Dr, San Antonio 78209; self-reported occupation retired. A same-named 'HEB senior architect' result appeared but is uncorroborated to this person, so not used.",
+  "source_url": "https://clustrmaps.com/person/Morales-29s1np",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "e07d597f-7127-4c01-b3d3-5a1e865924d4",
+  "name": "Blanco, Joe",
+  "resolved_employer": "CTBC Bank Corp. (USA) \u2014 commercial/corporate banking executive",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Jose (Joe) Blanco, commercial and corporate banking executive at CTBC Bank Corp. (USA), LA metro area; matches self-reported banking-executive occupation and CTBC employer at San Pedro, CA 90731. LinkedIn profile confirms role. No PAC/lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/jose-blanco-510ab324/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "d9ab1245-e4fe-4003-b865-fd93baea9afd",
+  "name": "Amaya, Vickie",
+  "resolved_employer": "Sawillos Corp \u2014 Vice President/co-owner (convenience store / Italian ice & frozen daiquiri shop)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Self-reported self-employed at Sawillos Corp, 421 S General McMullen Dr, San Antonio 78237; public records tie Vickie A Willoughby (VP) and David E Willoughby (President) to Sawillos Corp at that address. Donor name 'Amaya' vs 'Willoughby' differs (possible maiden/married name), but address, first name, and business match. No PAC/lobbyist records.",
+  "source_url": "https://www.bizapedia.com/tx/sawillos-corp.html",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": [
+   {
+    "org": "Sawillos Corp",
+    "role": "Vice President / co-owner",
+    "category": "business",
+    "source_url": "https://www.bizapedia.com/tx/sawillos-corp.html",
+    "snippet": "David E Willoughby serves as President and Vickie A Willoughby as Vice President of Sawillos Corp, a San Antonio convenience store / Italian ice business at 415-421 S General McMullen Dr, 78237."
+   }
+  ]
+ },
+ {
+  "donor_id": "c973a8ff-e5dc-426c-992e-c55a7e3a63c0",
+  "name": "Meritz, Darren",
+  "resolved_employer": "UTSA (Assistant Professor of Practice, The Writing Program)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Darren Meritz is an Assistant Professor of Practice in UTSA's Writing Program (email darren.meritz@utsa.edu), teaching composition for over a decade; BA/MA from St. Mary's University. Matches 78230 San Antonio address and 'Professor/UTSA' occupation.",
+  "source_url": "https://uc.utsa.edu/faculty/profiles/meritz-darren.html",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "b26c539f-ea4a-41d5-abd1-7c801d1a8030",
+  "name": "Giusti, Michael",
+  "resolved_employer": "Self-employed attorney (unconfirmed)",
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Occupation given as self-employed attorney in San Marcos, CA (92069). No public profile, bar record, FEC PAC record, or bio could be confirmed for a 'Michael Giusti' attorney at that location; several similarly-named but distinct people exist (Michael Giusto, Michael E. Guisti of Irvine). Industry assigned from stated occupation only.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "ae0fd077-9ebb-449e-92ee-bd0ff2b260fe",
+  "name": "Norman, Judith",
+  "resolved_employer": "Trinity University (Professor of Philosophy)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Judith Norman is Professor of Philosophy at Trinity University, San Antonio (Nietzsche/Schopenhauer translator), matching 407 E Park Ave 78212 and Trinity occupation. Publicly documented founder/chair of the San Antonio chapter of Jewish Voice for Peace and vocal Palestinian-rights advocate.",
+  "source_url": "https://trinity.edu/directory/jnorman2",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": [
+   {
+    "org": "Jewish Voice for Peace (San Antonio chapter)",
+    "role": "Founder and Chair",
+    "category": "palestine_solidarity",
+    "source_url": "https://theroartrinity.wordpress.com/2023/04/11/judith-norman-connecting-philosophy-and-activism/",
+    "snippet": "She acts as both chair and founder of the San Antonio Chapter for Jewish Voice for Peace, which holds monthly meetings... She is also vocal about Palestinian rights. Having visited Gaza twice... Norman has spoken at panels and protests about Palestinian injustices."
+   }
+  ]
+ },
+ {
+  "donor_id": "a8c597e4-ac80-4f69-aa3f-09f63ea45173",
+  "name": "Judith, Norman",
+  "resolved_employer": "Trinity University (Professor of Philosophy)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Same person as donor ae0fd077 (name entered surname-first; same address 407 E Park Ave 78212, Trinity University). Judith Norman, Professor of Philosophy at Trinity University; founder/chair of the San Antonio chapter of Jewish Voice for Peace and Palestinian-rights advocate. [Affiliations recorded on donor ae0fd077 (canonical name order) only, to avoid duplicate display.]",
+  "source_url": "https://trinity.edu/directory/jnorman2",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "9d49031d-c36a-4c85-ae94-7d9c604a1ad8",
+  "name": "Fuentes Valdez, Alejandro",
+  "resolved_employer": "Restaurant worker (sous chef), employer unknown",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Occupation listed as 'Sous Resturant' (sous chef) in San Antonio 78204; no employer given. No specific public profile, FEC PAC record, or lobbyist registration could be confirmed. Industry assigned from stated restaurant/sous-chef occupation only.",
+  "source_url": null,
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "707a051b-cbe6-4236-93e7-5a7645f1b57f",
+  "name": "Miramontes, Victor",
+  "resolved_employer": "Self Employed (unconfirmed)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Common San Antonio name. A notable Victor Miramontes (CityView/Cisneros Miramontes affordable-housing developer, ex-NADB CEO) exists but is tied to finance/real estate and other zips, not the donor's 78207 near-West-Side address at 1106 Country Court with generic 'Self Employed' occupation. Could not corroborate the notable identity to this specific person, so kept low with industry null per instructions.",
+  "source_url": "https://sanantonioreport.org/cisneros-miramontes-buy-into-minority-owned-bond-firm/victor-miramontes_vice-chairman_cityview1/",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "6aa7e9d9-c797-43d2-8e72-f64985917fa5",
+  "name": "Quintanilla, Yurida",
+  "resolved_employer": "Self-employed (occupation 'SELF')",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "No public profile found for a 'Yurida Quintanilla' in Houston 77006 (Montrose). Occupation and employer both listed as 'SELF' (self-employed). No FEC PAC or TX lobbyist records. Industry inferred from self-employed occupation only.",
+  "source_url": "https://www.idcrawl.com/yadira-quintanilla",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "5d5a6b88-d404-42dd-8005-10e66f5aab3b",
+  "name": "Lace, Cody",
+  "resolved_employer": "Huntington Ingalls Industries (IT/systems analyst); U.S. Army veteran (Signal Support Systems Specialist)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Cody Lace is an Information Systems Technology Analyst / former Help Desk Analyst at Huntington Ingalls Industries; prior Windows Administrator at Rackspace; U.S. Army Signal Support Systems Specialist; degrees from Texas A&M-San Antonio and San Antonio College \u2014 consistent with Converse, TX 78109 address. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.zoominfo.com/p/Cody-Lace/7503336973",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": [
+   {
+    "org": "Huntington Ingalls Industries",
+    "role": "IT Specialist / Information Systems Technology Analyst (employee)",
+    "category": "military_defense",
+    "source_url": "https://www.zoominfo.com/p/Cody-Lace/7503336973",
+    "snippet": "Cody Lace is an Information Systems Technology Analyst at Huntington Ingalls Industries Inc., previously a Help Desk Analyst. Huntington Ingalls is a major U.S. defense shipbuilder \u2014 recorded as employment context only, not advocacy."
+   }
+  ]
+ },
+ {
+  "donor_id": "3bad3be2-b891-4efc-8317-efe299426a8e",
+  "name": "Gonzalez, Maria",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Extremely common San Antonio name; could not confirm the specific individual at 7670 Heathridge, 78250. Listed as Retired. No confirmable FEC PAC or TX lobbyist records tied to this person. Industry set from 'Retired' status only.",
+  "source_url": "https://clustrmaps.com/persons/Maria-Gonzalez/Texas/San-Antonio",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": false
+  },
+  "affiliations": []
+ },
+ {
+  "donor_id": "2d6cd9e8-7c67-4856-896f-4e3de7cde62b",
+  "name": "Castellano, Alfred",
+  "resolved_employer": "Owner/Key Principal, Fred's Fish Fry, Inc. (San Antonio fast-food seafood chain)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Alfred Castellano is the owner and key principal of Fred's Fish Fry, Inc., a San Antonio fast-food chain (founded 1963 with his father, ~16 locations). Dun & Bradstreet lists the company at 1621 Somerset Rd, San Antonio, TX 78211 \u2014 exact match to the donor's address/occupation ('Business Owner, Freds Fish Fry'). No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.dnb.com/business-directory/company-profiles.freds_fish_fry_inc.388a3b9ed419984073a093aba03003cc.html",
+  "searches_run": {
+   "fec_pac": true,
+   "tx_lobbyist": true,
+   "bio_full_read": true
+  },
+  "affiliations": [
+   {
+    "org": "Fred's Fish Fry, Inc.",
+    "role": "Owner / Key Principal",
+    "category": "business",
+    "source_url": "https://www.dnb.com/business-directory/company-profiles.freds_fish_fry_inc.388a3b9ed419984073a093aba03003cc.html",
+    "snippet": "FRED'S FISH FRY, INC. ... 1621 Somerset Rd San Antonio, TX, 78211-3043 ... Alfred Castellano listed as key principal."
+   }
+  ]
+ }
+]

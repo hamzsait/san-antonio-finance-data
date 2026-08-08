@@ -1,0 +1,235 @@
+[
+ {
+  "donor_id": "5add8864-621d-43f9-aa8c-fedd2c5ca6b8",
+  "name": "Taylor, Sheena",
+  "resolved_employer": "NewTek, Inc.",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Sheena Taylor listed as Inside Sales Representative at NewTek, San Antonio TX (software/video tech company); matches occupation, employer, and city exactly.",
+  "source_url": "https://data-lead.com/person/name/Sheena+Taylor/id/447595352/v/9b2fc",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5857842c-6c91-4ed1-9c79-dbec9988f1cc",
+  "name": "Lizbeth, Parra",
+  "resolved_employer": "Texas RioGrande Legal Aid",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Lizbeth Parra Davila, San Antonio attorney; was Managing Attorney/Director of the Tenant Eviction Relief Project at TRLA (matches employer), now St. Mary's Law faculty. Housing/tenant advocacy focus.",
+  "source_url": "http://law.stmarytx.edu/academics/faculty/lizbeth-parra-davila/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Justice Court Section (State Bar of TX)", "role": "Director and Secretary", "category": "civic", "source_url": "http://law.stmarytx.edu/academics/faculty/lizbeth-parra-davila/", "snippet": "Director and Secretary, Texas Justice Court Section; Co-Chair, Community Development and Environmental Justice Taskforce; housing/tenant policy-reform advocate for low-income Texans."}
+  ]
+ },
+ {
+  "donor_id": "491ae0c6-c9a6-4daf-a766-82baa1d16f56",
+  "name": "Jaimes Place, LLC",
+  "resolved_employer": "Jaime's Place (bar/live-music venue)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "1514 W Commerce St is Jaime's Place, a Westside San Antonio bar and live-music/events venue (est. 2020, owner Jaime Macias); the LLC is the operating entity for the bar.",
+  "source_url": "https://www.yelp.com/biz/jaimes-place-san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "48b8c987-ca86-4d86-8807-c06a1c9800e6",
+  "name": "Bravenec, Katy",
+  "resolved_employer": "San Antonio Alliance of Teachers & Support Personnel (Local 67)",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Katy Bravenec associated with San Antonio Alliance Local 67 (SAISD teachers/support-staff union, AFT-affiliated) via organizer contact email katyb@sanantonioalliance.org; matches occupation and employer.",
+  "source_url": "https://www.sanantonioalliance.org/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "San Antonio Alliance of Teachers & Support Personnel, Local 67", "role": "Union Organizer", "category": "civic", "source_url": "https://www.sanantonioalliance.org/about", "snippet": "Union organizer for the elected employee union of San Antonio ISD (AFT-affiliated teachers/support-personnel labor union); organizer contact katyb@sanantonioalliance.org."}
+  ]
+ },
+ {
+  "donor_id": "44d2c34b-40ef-4d5e-bd5b-96a5995faddf",
+  "name": "Perez, Ricardo",
+  "resolved_employer": null,
+  "industry": "Transportation",
+  "confidence": "low",
+  "evidence": "Truck Driver in Converse, TX with no listed employer; extremely common name with multiple unrelated matches, so not identifiable beyond generic occupation. Industry classified from stated occupation only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3aeb8856-8c49-45fa-9ad7-dd26f24cda3b",
+  "name": "Ramirez, Sotero",
+  "resolved_employer": "Scaleworks",
+  "industry": "Venture Capital",
+  "confidence": "medium",
+  "evidence": "Marketing Manager at Scaleworks, a San Antonio B2B SaaS venture-equity firm (2727 Menchaca St, 78228). Employer/location match campaign-finance record; no distinct public personal profile found.",
+  "source_url": "https://www.scaleworks.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3a971a17-25ed-4590-b80c-8a82686a5e25",
+  "name": "Daniel, Arriaga",
+  "resolved_employer": "University of Texas at San Antonio (UTSA)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Daniel Arriaga, MPA (LinkedIn daniel-i-arriaga) — academic advising/student-success at UTSA; FEC shows a Daniel Arriaga, 'Academic Advisor, UTSA,' San Antonio, gave $10 to Bernie 2016, corroborating identity/occupation.",
+  "source_url": "https://www.linkedin.com/in/daniel-i-arriaga/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3882def4-a897-4eee-a2b4-d9868538f8eb",
+  "name": "Rodriguez, Henry",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, no employer, 501 Oakwood 78228. Very common name; could not corroborate that this is the well-known SA LULAC leader Henry/Enrique Rodriguez or identify any former career via address/occupation. Not asserting the LULAC identity without corroboration.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "32f8560c-c699-459f-aa11-f693a21cbae8",
+  "name": "Gould, Sarah",
+  "resolved_employer": "Mexican American Civil Rights Institute (MACRI)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Dr. Sarah Zenaida Gould, PhD, founding/permanent Executive Director of MACRI (appointed 2021); public historian, former lead curator at Institute of Texan Cultures and founding director of Museo del Westside. Board/advocacy roles well documented.",
+  "source_url": "https://www.thcfriends.org/trustees/sarah-zenaida-gould-phd/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Mexican American Civil Rights Institute (MACRI)", "role": "Executive Director", "category": "civic", "source_url": "https://www.prnewswire.com/news-releases/mexican-american-civil-rights-institute-appoints-executive-director-301366651.html", "snippet": "MACRI named Sarah Zenaida Gould, Ph.D. as permanent Executive Director in August 2021; MACRI is a national Mexican American civil rights history museum/archive."},
+   {"org": "Latinos in Heritage Conservation", "role": "Co-founder / former co-chair", "category": "civic", "source_url": "https://www.thcfriends.org/trustees/sarah-zenaida-gould-phd/", "snippet": "Co-founded and formerly chaired Latinos in Heritage Conservation, a national organization focused on historic preservation within Latino communities."},
+   {"org": "Texans for the Arts", "role": "Board member", "category": "civic", "source_url": "https://www.thcfriends.org/trustees/sarah-zenaida-gould-phd/", "snippet": "Serves on the boards of Friends of the Texas Historical Commission and Texans for the Arts, a statewide arts-advocacy organization."}
+  ]
+ },
+ {
+  "donor_id": "30ea4968-38f8-4a20-b6eb-a482e5593d5d",
+  "name": "Trevino, Matteo",
+  "resolved_employer": "San Antonio City Council",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Matteo Trevino appears as a San Antonio City Council District 7 staffer (Policy & Case Manager) in a 2017 D7 newsletter, consistent with 'Council Aide, San Antonio City Council.' Exact current council office not confirmed.",
+  "source_url": "http://www.sanantonio.gov/Portals/0/Files/Council/d7/newsletter/Newsletter_Nov9_2017.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "274adbae-d99d-4222-bde2-008eb98a083d",
+  "name": "Rodriguez, Martin",
+  "resolved_employer": "Self-employed artist; co-founder/gallerist, Un Grito Gallery (Blue Star Arts Complex), UTSA MFA",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Martin C. Rodriguez, New Media/performance artist, listed at 114 Dimmit St, San Antonio TX 78223 - exact address match; self-employed artist and gallery co-founder. No FEC PAC or TX/SA lobbyist records found.",
+  "source_url": "https://events.getcreativesanantonio.com/artist/martin-rodriguez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "26d4b8df-5fc1-47e2-a79b-abf7a852ea02",
+  "name": "Villasenor, Bernardino",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "OpenSecrets/FEC shows 'Bernie Villasenor', not employed, San Antonio 78226, small $25 donation to Beto for Texas (2018) - matches zip and employment status, but no career/employer identifiable. (Distinct from a WWII-vet namesake who died Oct 2, 2018, before the Oct 25 donation.) No PAC or lobbyist records.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "268999de-d543-40b1-bbab-a229d330b29f",
+  "name": "Daliene, Hendon",
+  "resolved_employer": "San Antonio public-school educator (14 yrs elementary/middle); now Director of Programs, Girls on the Run of Bexar County",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Daliene Hendon, San Antonio educator (14 yrs), Director of Programs at Girls on the Run of Bexar County, doctoral student; also serves on SA2020/Mayor's Commission on Education advising Mayor and City Council. Occupation Teacher/Public School TX matches. No PAC or lobbyist records.",
+  "source_url": "https://www.linkedin.com/in/daliene/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Girls on the Run of Bexar County", "role": "Director of Programs", "category": "civic", "source_url": "https://www.linkedin.com/in/daliene/", "snippet": "Daliene Hendon - Director of Programs at Girls on the Run of Bexar County; 14 years as an educator in elementary and middle schools."},
+   {"org": "SA2020 / Mayor's Commission on Education", "role": "Advisory member", "category": "civic", "source_url": "https://cissa.org/get-involved/friends-steering-committee/", "snippet": "Member of the SA2020 Commission on Education, serving in an advisory capacity to the Mayor and City Council on matters affecting education; also Co-Chair of the 2024-2025 Friends Steering Committee for Communities In Schools of San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "23be8c90-21af-4a26-ac3a-f06b396e5696",
+  "name": "Camann, Mark",
+  "resolved_employer": "Alamo Colleges District (community college instructor, San Antonio)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Name 'Mark Camann' appears in Alamo Colleges District faculty context (San Antonio community college system), consistent with donor record occupation 'Instructor' / employer Alamo Community College District; specific discipline not confirmed on a unique bio page. No FEC PAC or lobbyist records.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "211cb85a-1a7a-46fd-8b71-afc0bf103cce",
+  "name": "Valdez Hernandez, Mary Ann",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Multiple 'Mary Ann/Maryann Valdez' and 'Mary Valdez Hernandez' records exist in San Antonio 78207 (Westside), but none uniquely tie to 1635 Potosi St or provide an occupation; consistent with a prior batch's 'Amelia Valdez' at the same address. Not identifiable beyond Not Employed. No PAC or lobbyist records.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1f96a846-b73e-415b-bf79-14ee81efbdc6",
+  "name": "Acosta, Richard",
+  "resolved_employer": "Keller Williams Heritage (realtor); household tie to Dina Contracting Resources LLC",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Richard Acosta is a licensed realtor with Keller Williams Heritage in San Antonio; Dina Contracting Resources LLC (heavy construction equipment rental, 78204/78226) is led by Jennifer Acosta, matching the combined employer string. Real-estate/construction occupation consistent with taxonomy.",
+  "source_url": "https://www.kwsanantonio.com/our-agents/rich-acosta",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "195b93f7-2081-45bc-9049-fabd0f7c4d1c",
+  "name": "Para Davila, Lizbeth",
+  "resolved_employer": "Texas RioGrande Legal Aid (TRLA)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Lizbeth Parra Davila is a licensed Texas attorney (State Bar), Managing Attorney at TRLA in San Antonio, founder/director of the Tenant Eviction Relief Project, and staff attorney/practicing faculty at St. Mary's Law Real Estate Clinic. Matches 'TRLA' occupation and San Antonio location. (Same person as donor 5857842c 'Lizbeth, Parra'.)",
+  "source_url": "https://www.trla.org/journal/tenant-eviction-relief-projectnbsp",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas RioGrande Legal Aid / Tenant Eviction Relief Project", "role": "Managing Attorney / Project Director", "category": "civic", "source_url": "https://www.trla.org/journal/tenant-eviction-relief-projectnbsp", "snippet": "Created the Tenant Eviction Relief Project, a state-wide crisis response team; advocates for legislative and local policy reform on homeowner and landlord-tenant issues important to low-income Texans."}
+  ]
+ },
+ {
+  "donor_id": "11c4938b-bd70-4457-aade-5bb464bb719a",
+  "name": "Olsen, Janice",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed occupation Not Employed; high FEC donation count (98) and strong Democratic lean consistent with an active small-dollar Democratic/ActBlue donor, but no specific individual FEC/OpenSecrets record or former career could be corroborated for a Janice Olsen at 78216. No PAC affiliation documented beyond generic ActBlue-style giving.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0dde96b4-4f2e-4b1d-8e9a-a4edd39137c4",
+  "name": "Frederick, Leslie",
+  "resolved_employer": "Slalom",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "LinkedIn shows a Leslie Frederick as a Senior Software Engineer at Slalom Build, matching the Houston-based 'Software Engineer / Slalom' string. Software-engineering role classified as Technology.",
+  "source_url": "https://www.linkedin.com/in/leslie-frederick/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "09a525d1-8620-47d0-9fef-a23024c1b8ee",
+  "name": "Vidoles, Jesus",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed as Retired on San Antonio's Westside (78207). The surname 'Vidoles' is very rare and returns no public profile, obituary, or career record; no former career could be identified. Industry null per fallback.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

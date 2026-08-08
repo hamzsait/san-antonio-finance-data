@@ -1,0 +1,242 @@
+[
+ {
+  "donor_id": "f1e0af46-e977-4e9c-ad69-835ce322a1d8",
+  "name": "Derozier, Daniel",
+  "resolved_employer": "SagaCity Media, Inc. (digital operations)",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "VP/Director of Digital Operations at SagaCity Media, Houston TX, matching the filing (Sagacity Media, Houston 77004). A politically active Democratic operative (prior Harris County Democratic Party and U.S. Senate roles) with a documented Houston DSA and pro-Palestine advocacy record.",
+  "source_url": "https://keywiki.org/Daniel_Derozier",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Houston DSA (Democratic Socialists of America)", "role": "Co-chair, State and Local Working Group", "category": "political", "source_url": "https://keywiki.org/Daniel_Derozier", "snippet": "served as co-chair of the Houston DSA State and Local Working Group"},
+   {"org": "DSA Jewish Solidarity Caucus", "role": "Member/participant", "category": "palestine_solidarity", "source_url": "https://keywiki.org/Daniel_Derozier", "snippet": "involved with the Democratic Socialists of America's Jewish Solidarity Caucus"},
+   {"org": "Solidarity letter supporting Rep. Ilhan Omar (re: AIPAC influence)", "role": "Signatory", "category": "pro_palestine_advocacy", "source_url": "https://keywiki.org/Daniel_Derozier", "snippet": "signatory to a letter expressing solidarity with Representative Ilhan Omar regarding AIPAC's influence over US lawmakers and foreign policy"}
+  ]
+ },
+ {
+  "donor_id": "fcb0bacf-99bd-4f4d-912c-9c7a53038acd",
+  "name": "Gonzalez, Carlos",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Retired', San Antonio 78207 (near West Side / Historic Westside). Extremely common name; no specific individual confirmable online. No FEC ideological-PAC or TX lobbyist records tied to this person. Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f6699bba-69ff-420b-b9ae-2d85e9d8ca30",
+  "name": "Valdez, Joe",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer on filing; San Antonio 78207. Common name with multiple unrelated matches; could not confirm the specific donor. No Texas lobbyist registration or ideological PAC record confirmed for this individual. Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f16f661d-6c1e-41d2-b44e-3fb543679628",
+  "name": "DeCurtins, William",
+  "resolved_employer": "CNH Industrial (software development)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation 'software development at CNH' (CNH Industrial), San Antonio 78254. Employer/occupation-fallback classification; no personal LinkedIn/bio page located to add further detail. No lobbyist or ideological PAC records found.",
+  "source_url": "https://www.cnh.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e9ec1c56-2d3b-4c0b-9509-149c22bb6af0",
+  "name": "Tuloenzky, Derek",
+  "resolved_employer": "City of San Antonio (COSA)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Occupation/employer 'Cosa' interpreted as City of San Antonio; address 100 Santa Rosa, 78207 is a downtown civic/residential location. Unusual (possibly misspelled) surname returned no online matches, so identity is unverified; industry assigned via employer-fallback only. No PAC or lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e82ea37d-ef86-4ea8-b3b1-9e2cbec0468e",
+  "name": "Spielman, Cynthia",
+  "resolved_employer": "Retired SAISD English teacher; neighborhood-association leader",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Confirmed as the well-known Beacon Hill activist: retired SAISD English teacher, longtime Beacon Hill Area Neighborhood Association leader (former president, board secretary) and Tier One Neighborhood Coalition steering-committee member/forum co-chair; 78201 = Beacon Hill, consistent with 900 W Woodlawn. No FEC ideological-PAC or TX lobbyist records found.",
+  "source_url": "https://t1nc.org/neighbor-helping-neighbor-forum-2/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Beacon Hill Area Neighborhood Association", "role": "Board Secretary / former President", "category": "civic", "source_url": "http://www.beaconhillsanantonio.org/contact", "snippet": "Longtime board leader of the Beacon Hill Area Neighborhood Association; the association's 1978-2019 records were donated in 2013 by its president, Cynthia Spielman."},
+   {"org": "Tier One Neighborhood Coalition (T1NC)", "role": "Steering Committee member / forum co-chair", "category": "civic", "source_url": "https://t1nc.org/neighbor-helping-neighbor-forum-2/", "snippet": "Cynthia Spielman serves on the T1NC steering committee and co-chairs its Neighbor Helping Neighbor Forum."}
+  ]
+ },
+ {
+  "donor_id": "e3430e10-9c1a-4517-99a5-7d0e974e688c",
+  "name": "Bravenec, Katy",
+  "resolved_employer": "San Antonio Alliance of Teachers & Support Personnel (AFT Local 67), union organizer",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Filing employer (union organizer, San Antonio Alliance of Teachers) matches; independently confirmed she later became Chief of Staff at the City of San Antonio D5 (Castillo's office), consistent with the second donor record in this batch. No ideological-PAC or TX lobbyist records found.",
+  "source_url": "https://www.sanantonioalliance.org/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Alliance of Teachers & Support Personnel (AFT Local 67)", "role": "Union Organizer", "category": "civic", "source_url": "https://www.sanantonioalliance.org/about", "snippet": "Employed as a union organizer for the San Antonio Alliance, the SAISD teachers' and support-personnel union."},
+   {"org": "City of San Antonio, City Council District 5 (Castillo office)", "role": "Chief of Staff (later role)", "category": "political", "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D5", "snippet": "Later listed as Chief of Staff at the City of San Antonio (sa.gov email), the D5 office of Councilwoman Teri Castillo."}
+  ]
+ },
+ {
+  "donor_id": "e186c582-7b38-4f84-b9c6-78b58b1e52a9",
+  "name": "Arevalo, Diana",
+  "resolved_employer": "The ALS Association (Managing Director of Advocacy)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed as former Texas State Rep Diana Arevalo (HD-116, 2017-2019), now Managing Director of Advocacy at The ALS Association; registered as a Texas Ethics Commission lobbyist in 2025 with The ALS Association as client; San Antonio-based (78201).",
+  "source_url": "https://en.wikipedia.org/wiki/Diana_Arevalo",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House of Representatives, District 116", "role": "Former State Representative (2017-2019)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Diana_Arevalo", "snippet": "Served in the Texas House from HD-116 (Jan 2017-Jan 2019), sitting on Public Health and Defense & Veterans' Affairs committees."},
+   {"org": "The ALS Association", "role": "Managing Director of Advocacy / registered Texas lobbyist (2025)", "category": "civic", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf", "snippet": "Registered 2025 TEC lobbyist (Managing Director) with The ALS Association as client, leading advocacy across multiple states."}
+  ]
+ },
+ {
+  "donor_id": "e05ebfe0-4e51-4f67-a837-fe783b7f4621",
+  "name": "Sanchez, Leticia",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as Not Employed at 78237; 264 FEC records fit a recurring small-dollar ActBlue donor pattern. 'Leticia Sanchez' is a very common San Antonio name and no public record could be tied to this specific individual; no ideological-PAC or TX lobbyist match. Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d85fea2f-f4d0-4513-a6dc-0d3c341893f1",
+  "name": "Juan, Pina",
+  "resolved_employer": "J.T. Brackenridge Elementary School (San Antonio ISD), teacher",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Filing lists teacher at JT Brackenridge; the school exists as a SAISD elementary in San Antonio, supporting an employer-fallback classification of Education. Could not confirm the specific individual (common name, no public bio); no ideological-PAC or TX lobbyist match.",
+  "source_url": "https://www.saisd.net/o/jtbrack",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d43040d2-e0fc-4f29-97c3-447a3f0ab672",
+  "name": "Bravenec, Katy",
+  "resolved_employer": "City of San Antonio, District 5 council office (Chief of Staff)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Confirmed Chief of Staff for COSA District 5 (Castillo's office); earlier lead organizer at San Antonio Alliance of Teachers (Local 67) and ran Bernie Sanders' 2020 San Antonio field office as Texas regional field director. Same person as the union-organizer donor record in this batch. No ideological-PAC or TX lobbyist records found.",
+  "source_url": "https://www.sacurrent.com/news/bernie-sanders-opens-san-antonio-office-names-local-union-organizer-to-run-it-23067302",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Alliance of Teachers and Support Personnel, Local 67", "role": "Lead/union organizer (former)", "category": "civic", "source_url": "https://www.sacurrent.com/news/bernie-sanders-opens-san-antonio-office-names-local-union-organizer-to-run-it-23067302", "snippet": "She was formerly an organizer for the San Antonio Alliance of Teachers and Support Personnel and served as lead organizer."},
+   {"org": "Bernie Sanders 2020 presidential campaign", "role": "Texas regional field director / San Antonio field office lead", "category": "political", "source_url": "https://www.sacurrent.com/news/bernie-sanders-opens-san-antonio-office-names-local-union-organizer-to-run-it-23067302", "snippet": "Bravenec was tapped by the Sanders campaign to run its San Antonio field office and served as Texas regional field director."}
+  ]
+ },
+ {
+  "donor_id": "cf87dad5-5f3a-4e14-9779-ddb6da42b015",
+  "name": "Perez, Ricardo",
+  "resolved_employer": "Matheson (truck driver; per filing, unverified)",
+  "industry": "Transportation",
+  "confidence": "low",
+  "evidence": "Name too common to confirm the specific individual; no San Antonio Ricardo Perez at Matheson (industrial-gas logistics) could be corroborated. Industry assigned via employer-fallback (truck driver = Transportation). No FEC ideological-PAC or TX lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ccb38e82-eb19-43aa-815c-f002e08281ef",
+  "name": "Hardgrove, Anne",
+  "resolved_employer": "University of Texas at San Antonio (Associate Professor of History)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Anne Hardgrove, Ph.D., is Associate Professor of History at UTSA (South Asia focus); 78212 home zip near downtown is consistent with the faculty listing and address 114 E Huisache Ave. No FEC ideological-PAC or TX lobbyist records found.",
+  "source_url": "https://colfa.utsa.edu/faculty/profiles/hardgrove-anne.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c9255c5e-e4d0-4041-b136-a995c075f270",
+  "name": "Heinz, Yolanda",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "No public record found for a Yolanda Heinz in San Antonio (78207); filing lists occupation as Not Employed. Identity/details could not be independently corroborated. No PAC or lobbyist records found. Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c5aace70-02ce-4c2b-93f9-f3368be3245c",
+  "name": "Hernden, John",
+  "resolved_employer": "Self-employed (real estate investor; San Antonio Note Buyers LLC / Mesquite Development Inc — tentative)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "A San Antonio-based John Hernden is documented as a self-employed real estate investor (President, San Antonio Note Buyers LLC; Mesquite Development Inc), consistent with the 'Self Employed' filing (78213), though multiple John Herndens exist. No FEC ideological-PAC or TX lobbyist records found.",
+  "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/john-hernden/33490118.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c43ac5f0-18e5-4d1e-b864-e8642fa0b266",
+  "name": "Daniel, Arriaga",
+  "resolved_employer": "University of Texas at Austin (research development / programmatic support)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "LinkedIn (daniel-i-arriaga, MPA) shows a research-development/programmatic support role at UT Austin; Del Valle TX address is Austin metro, consistent with 'Research Development at UT Austin'. No FEC ideological-PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/daniel-i-arriaga/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c1569681-4a1a-4ff6-98a8-7238172ed222",
+  "name": "Rodriguez, Manuel",
+  "resolved_employer": "Self Employed",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Common name; multiple 'Manuel Rodriguez' in San Antonio. Cannot confirm the specific 78207 self-employed individual. Industry from stated occupation only. No FEC PAC or TX lobbyist records tie to this person. Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bf702184-194a-4163-bd25-8cd025930033",
+  "name": "Torres, Daniel",
+  "resolved_employer": "National Association of Letter Carriers (union official, per 2016 FEC record; currently Not Employed)",
+  "industry": "Labor",
+  "confidence": "medium",
+  "evidence": "A Daniel Torres at the same 78250 zip appears in a 2016 FEC/City-Data record with occupation 'NALC/Union Official' on an ActBlue donation; the high fec_donation_count (215) is consistent with a recurring small-dollar ActBlue donor. Same name+zip corroborates but is not conclusive. No ideological-PAC or lobbyist records.",
+  "source_url": "http://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part74.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "National Association of Letter Carriers (NALC)", "role": "Union Official (per 2016 FEC filing)", "category": "civic", "source_url": "http://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part74.html", "snippet": "Daniel Torres, zip 78250, occupation 'NALC/UNION OFFICIAL', $25 to ActBlue on 06/10/2016."}
+  ]
+ },
+ {
+  "donor_id": "bf1fb026-09d7-45d1-b225-6246e028bd94",
+  "name": "Gonzalez, Gabriela",
+  "resolved_employer": "University of Texas at San Antonio (Associate Professor of History)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "UTSA COLFA/History faculty pages list Gabriela Gonzalez, Ph.D. (Stanford 2005), associate professor of history (US-Mexico borderlands / Latinx / women's history), matching 'Associate Professor at UTSA'. Common name but institution+rank match strongly; 78258 north-SA address plausible. No FEC ideological-PAC or TX lobbyist records.",
+  "source_url": "https://colfa.utsa.edu/faculty/profiles/gonzalez-gabriela.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bedce056-21e4-46e3-acae-521d95502bbd",
+  "name": "Mazuca, Roland",
+  "resolved_employer": "Retired (former nonprofit Director of Development; City HDRC commissioner)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Roland Garcia Mazuca is a City of San Antonio Historic and Design Review Commission (HDRC) commissioner (in 2021-2024 minutes; voted against VIA Green Line stops) and a Buena Vista/near-West-Side resident, matching 2511 Monterey, 78207. Former nonprofit development/grant-writer career. No FEC PAC or TX lobbyist records.",
+  "source_url": "https://sanantonioreport.org/via-green-line-rapid-bus-san-antonio-hdrc/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Historic and Design Review Commission (HDRC)", "role": "Commissioner", "category": "civic", "source_url": "https://sanantonioreport.org/via-green-line-rapid-bus-san-antonio-hdrc/", "snippet": "'The other commissioner who voted against it was Roland Garcia Mazuca.' — appears in HDRC meeting minutes 2021-2024."}
+  ]
+ }
+]
