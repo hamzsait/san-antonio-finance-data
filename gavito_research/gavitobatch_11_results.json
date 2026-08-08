@@ -1,0 +1,300 @@
+[
+  {
+    "donor_id": "266b69dc-89d2-4f93-b476-edcab943777e",
+    "name": "Herrera, Katie",
+    "resolved_employer": "U.S. Department of Veterans Affairs (social worker)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Social worker employed by the VA; shares the 2727 Sonata Park (78230) address with San Antonio personal-injury attorney Javier Herrera, so almost certainly his spouse. No independent public profile; classified by stated occupation/employer.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "25e5859f-ac22-4614-a1ba-4e1920d88ccd",
+    "name": "Rivera, Victor",
+    "resolved_employer": "Owner/operator, The Texas River Company (San Antonio kayak-rental outfitter)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Donor's employer string 'TX River Company' matches The Texas River Company, a San Antonio kayaking outfitter (Roosevelt/Padre Park, Southside); multiple reviews and coverage name 'Victor' as the operator giving paddling instruction. Occupation self-reported as 'Business Owner.' Recreation/tourism outfitter classified as Hospitality/Events.",
+    "source_url": "https://www.thesanantonioriverwalk.com/listing/texas-river-company/5949/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "25bd7dcf-e1bd-4c8a-90c4-9e30b3fa7133",
+    "name": "Cortez, Sandra",
+    "resolved_employer": "Administrative staff, Benson Enterprises, Inc. (Ingram Park Auto Center dealership group)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Benson Enterprises, Inc. (4114 Pond Hill Rd, San Antonio) is a new/used auto dealership group operating as Ingram Park Auto Center (Chrysler/Dodge/Jeep/Ram, Nissan, Mazda), led by Larry Benson Jr. This is the Tom/Larry Benson auto family, not the Red McCombs orbit. Sandra Cortez is generic admin staff with no public profile; classified by employer (auto retail).",
+    "source_url": "https://www.manta.com/c/mb4z776/benson-enterprises-inc",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "20fa150a-1939-4a92-99bc-c35a74e657a4",
+    "name": "Cortez Haas, Chip",
+    "resolved_employer": "Self-employed lobbyist (clients not confirmed)",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Self-reported on the campaign-finance filing as a self-employed lobbyist, Olmos Park address (204 E. Melrose Dr, 78212). Could not locate a matching registration for 'Chip'/'Cortez Haas'/'Haas' in the Texas Ethics Commission registered-lobbyist lists or the City of San Antonio lobbyist registry via available search, so specific clients are unverified. Lobbying/government-relations classified as Consulting/PR.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1ef935cb-1ad0-41bc-a45d-6da739d84ca5",
+    "name": "Herrera, Javier",
+    "resolved_employer": "Personal-injury attorney, The Herrera Law Firm, Inc.",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Javier L. Herrera is a San Antonio plaintiff's personal-injury/med-mal attorney at the family firm founded by Frank Herrera Jr.; St. Mary's Law JD (2010), Boston College BA, University of Chicago MA in community organizing. Practices with his father and brother. No ideological (Israel/Palestine/gun/oil/defense) PAC affiliation surfaced.",
+    "source_url": "https://www.herreralaw.com/legal-staff/attorney-javier-l-herrera/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Trial Lawyers Association / San Antonio Trial Lawyers Association",
+        "role": "Member",
+        "category": "business",
+        "source_url": "https://www.herreralaw.com/legal-staff/attorney-javier-l-herrera/",
+        "snippet": "Firm bio lists membership in the American Association for Justice, Texas Trial Lawyers Association, and San Antonio Trial Lawyers Association (plaintiff's-bar professional groups)."
+      }
+    ]
+  },
+  {
+    "donor_id": "1ee95b69-6b17-4b2a-82ee-07714724c901",
+    "name": "Martinez, Cynthia",
+    "resolved_employer": "Unknown (retired)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Extremely common name; multiple Cynthia Martinez individuals in the San Antonio/78232 area (obituaries, ISD staff, medical receptionist) but none could be corroborated to this specific retired donor at 16218 Deer Pass, 78232. No occupation beyond 'Retired' available. No PAC or lobbyist records tie to this person.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1bf63128-13ee-4bb2-b192-3a5bd3e4b56e",
+    "name": "Sakai, Peter",
+    "resolved_employer": "Bexar County (County Judge)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Peter A. Sakai, Bexar County Judge (top elected county executive) since Jan 1, 2023; Democrat. Former 225th District Court judge (elected 2006, reelected unopposed) and associate judge of the Children's Court; UT Austin (1976) and UT Law (1979) grad; NCJFCJ 2020 Innovator of the Year. Public figure; fec_count 6 consistent with an individual Democratic donor. No pro-Israel/Palestine, gun, oil-gas, or defense PAC affiliations documented.",
+    "source_url": "https://ballotpedia.org/Peter_Sakai",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Bexar County Commissioners Court",
+        "role": "County Judge (Democrat)",
+        "category": "political",
+        "source_url": "https://www.bexar.org/1127/Bexar-County-Judge-Peter-Sakai",
+        "snippet": "Peter Sakai assumed office as Bexar County Judge on January 1, 2023; previously served as judge of the 225th District Court and as associate judge of the Children's Court."
+      }
+    ]
+  },
+  {
+    "donor_id": "1b661e1c-c167-4522-93e3-d365afc270a9",
+    "name": "Dreiss, Pamala",
+    "resolved_employer": "Dreiss family real-estate/insurance business (self-employed)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Listed as self-employed at 23119 IH-10 West Bldg 8, 78258/78257 — the exact suite occupied by Thomas E. Dreiss Co (a land-subdivision/real-estate firm) and Dreiss Insurance Agency. Shared surname and address strongly tie her to the longtime San Antonio Dreiss real-estate family business, though Pamala's specific role is not separately documented online. No PAC or lobbyist records found.",
+    "source_url": "https://www.ibegin.com/directory/us/texas/san-antonio/thomas-e-dreiss-co-325-e-sonterra-blvd-210/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1add02e1-887c-4ca0-aa8d-9de133a53846",
+    "name": "Harig, J. Randolph",
+    "resolved_employer": "VelocityTX / Texas Research and Technology Foundation (President & CEO)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "J. Randolph 'Randy' Harig, appointed Chairman of TRTF Dec 2016 and President/CEO Sept 1, 2017; founded VelocityTX, a bioscience/cybersecurity innovation accelerator and East Side innovation district (subsidiary of the nonprofit Texas Research & Technology Foundation). 40+ yrs in the medical-device/healthcare industry. Alamo Heights address (78209) consistent. No pro-Israel/Palestine, gun, oil-gas, or defense PAC affiliations documented.",
+    "source_url": "https://www.acg.org/asa/speakers/j-randolph-randy-harig",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Research and Technology Foundation / VelocityTX",
+        "role": "President & CEO",
+        "category": "civic",
+        "source_url": "https://www.stmarytx.edu/2020/trtf-entrepreneurship/",
+        "snippet": "Randy Harig, CEO of the Texas Research and Technology Foundation and its VelocityTX innovation hub, which supports bioscience entrepreneurship in San Antonio."
+      }
+    ]
+  },
+  {
+    "donor_id": "199bde69-ec2e-41d2-94d5-ce467fb2c307",
+    "name": "Albertos, Mercedes",
+    "resolved_employer": "Unknown (retired)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Brownsville, TX (78526) address, ~275 miles from District 7; no public profile, bio, obituary, occupation, or business record located for 'Mercedes Albertos.' No FEC PAC contributions or TX/SA lobbyist registrations found. Identity and industry cannot be confirmed.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "18be0a9c-27ef-4d1d-8e26-b717d52d33ff",
+    "name": "Worth, Mary",
+    "resolved_employer": "Retired (former career unidentified)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as Retired at 270 Terrell Rd, Terrell Hills/78209 (affluent San Antonio enclave). 'Mary Worth' is a common name and no public profile, obituary, business record, or bio could be located to identify a former career, employer, board seat, or any ideological/PAC affiliation. No FEC PAC contributions, no TX/COSA lobbyist registration, and no policy-advocacy org membership found. Quiet outcome; industry not guessed.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1751a2b8-0ae2-49f5-aab7-6ab4539ec330",
+    "name": "Shupp, Derek",
+    "resolved_employer": "DRB Group (DRB Homes)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Derek Shupp, New Braunfels, TX (age ~51), is a Division President/Division Manager at DRB Group (DRB Homes), a national residential homebuilder headquartered in Rockville, MD; prior homebuilder roles include Gehan Homes, Meritage Homes, Toll Brothers, and Brightland Homes. Name, New Braunfels location, and DRB Group employer all match the donor record. Homebuilder division-executive role classified as Real Estate. No PAC/ideological affiliations or lobbyist registration found.",
+    "source_url": "https://www.zoominfo.com/p/Derek-Shupp/15400055931",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "13d3568e-74e5-4b0d-b568-905e0ec9c7b0",
+    "name": "Stead, Aimee",
+    "resolved_employer": "Collier Talent Agency (voice-over artist)",
+    "industry": "Entertainment",
+    "confidence": "medium",
+    "evidence": "Donor gave no occupation/employer. Public records tie 3914 Royal Forest St (78230) to the household of Jimmy Stead and Aimee De La Rosa; Aimee (De La Rosa) Stead is a voice-over artist with Collier Talent Agency (since 2019) with a marketing/sales background. Spouse Jimmy Stead is a Frost Bank group EVP, but classification is by the donor herself: voice-over artist = Entertainment. Address corroboration is strong; occupation confidence medium. No PAC/ideological or lobbyist affiliations found.",
+    "source_url": "https://theorg.com/org/collier-talent-agency/org-chart/aimee-stead-de-la-rosa",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Collier Talent Agency",
+        "role": "Voice-over artist",
+        "category": "business",
+        "source_url": "https://theorg.com/org/collier-talent-agency/org-chart/aimee-stead-de-la-rosa",
+        "snippet": "Aimee (De La Rosa) Stead - Voice Over Artist at Collier Talent Agency; experienced voice-over artist since March 2019 with a background in marketing and sales."
+      }
+    ]
+  },
+  {
+    "donor_id": "112b250d-de49-4a2d-97dc-c4603bca2edc",
+    "name": "Briones, Rolando",
+    "resolved_employer": "Briones Consulting & Engineering, Ltd.",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Rolando Briones is President, Owner, and founder of Briones Consulting & Engineering, Ltd., a San Antonio civil-engineering firm he founded March 15, 2002 (Broadway inside Loop 410); BS from UT Austin, MS from UTSA. Occupation 'Engineer/Self' and 78230 San Antonio profile match. Firm serves public-works and land-development clients in South Texas. His FEC giving history includes a $500 contribution to Rep. Henry Cuellar (D-TX) campaign (2014); no ideological/issue-PAC (Israel, oil/gas, gun, defense) affiliations and no lobbyist registration surfaced. Classified Engineering.",
+    "source_url": "http://www.brionesengineering.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of San Antonio Planning Commission / Zoning Board of Adjustments",
+        "role": "City Council appointee",
+        "category": "civic",
+        "source_url": "http://www.brionesengineering.com/Briones%20Consulting%20and%20Engineering%20Our%20Story.html",
+        "snippet": "Mr. Briones currently serves as a City Council appointee to the City of San Antonio Planning Commission and the City of San Antonio Zoning Board of Adjustments."
+      }
+    ]
+  },
+  {
+    "donor_id": "0fa63fba-cf79-40f5-b68a-d008fa81ef81",
+    "name": "Martinez-Garcia, Nancy",
+    "resolved_employer": "Nancy Martinez-Garcia (home health business owner)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Donor self-reports as a home health business owner (employer string matches her own name). Public records confirm a Nancy Martinez-Garcia on Renner Dr, San Antonio 78201, matching the donor address; a health-administrator LinkedIn profile under the same name is consistent but not definitively linked. Home-health ownership classified as Healthcare. No ideological/PAC affiliations or lobbyist registration found.",
+    "source_url": "https://411.info/people/Nancy-Martinez-Garcia-San-Antonio-TX-129603189",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0f833fdf-900d-4f8d-836d-8e5fa1095115",
+    "name": "Gonzalez, Selsabeel",
+    "resolved_employer": "Advanced Smile Care (general & cosmetic dentist)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Selsabeel 'Selsa' Adham Gonzalez, DMD, general and cosmetic dentist at Advanced Smile Care, 3829 Lockhill Selma Rd #100, San Antonio 78230. Originally from Ottawa, Canada; graduated McGill University Dental School (2010); residency in Advanced Education in General Dentistry at Boston University. No board seats, ideological/PAC, or lobbyist affiliations surfaced. FEC PAC and TX/COSA lobbyist searches negative.",
+    "source_url": "https://health.usnews.com/dentists/selsabeel-gonzalez-1784430",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0eca494f-f74f-4634-aee4-606429db0d96",
+    "name": "Taylor, Jennifer",
+    "resolved_employer": "Self-employed (nature of business undetermined)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Common name; donor lists occupation and employer both as 'Self Employed' at 6055 W. Green Mountain Rd., San Antonio 78266. Numerous unrelated 'Jennifer Taylor' profiles exist in San Antonio (real estate agent, consultant, Visionworks, etc.); none could be reliably tied to the 78266 address. No public profile beyond generic self-employed occupation, so no industry beyond that is inferred. FEC PAC and TX/COSA lobbyist searches negative/inconclusive.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0c2a706a-5127-4e27-856e-2b8689ffb3f7",
+    "name": "Fulghum, Edwin",
+    "resolved_employer": "Sierra Title Company (President, Cameron/Willacy/Kenedy Counties)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Sierra Title Company's Brownsville office directory lists the president of its Cameron, Willacy & Kenedy Counties, Inc. entity as 'Neel Fulghum III' — matching donor Edwin (Neel) Fulghum III, President, Sierra Title, at a Brownsville 78526 address. Sierra Title is a title-insurance/real-estate-closing services firm serving the Rio Grande Valley; classified Real Estate as title-agency work supports (insurance-adjacent). Minor first-name variance (Edwin vs. Neel) noted but role/suffix/location/employer all align. FEC PAC and TX/COSA lobbyist searches negative.",
+    "source_url": "https://www.sierratitle.com/EmployeeDirectory.asp?ID=12",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Sierra Title Company (Cameron, Willacy & Kenedy Counties, Inc.)",
+        "role": "President",
+        "category": "business",
+        "source_url": "https://www.sierratitle.com/EmployeeDirectory.asp?ID=12",
+        "snippet": "Brownsville office directory lists 'Neel Fulghum III' as Cameron, Willacy, & Kenedy Counties, Inc. President."
+      }
+    ]
+  },
+  {
+    "donor_id": "0ae99f29-f4f0-467b-b290-505e81125464",
+    "name": "Puri, Sharu",
+    "resolved_employer": "Athena Domain, Inc. (co-owner)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Athena Domain, Inc. (6002 Camp Bullis Rd, Suite 201, San Antonio 78257 — matches donor address) is a diversified real estate investment and development firm (commercial, mixed-use, retail, medical, Class-A multifamily, master-planned communities). Rajeev Puri is listed as President/Owner; Sharu Puri is co-owner (shared surname/company/address consistent with co-principal, likely spouse). Company is member of Texas Association of Builders. No ideological/PAC or lobbyist affiliations surfaced.",
+    "source_url": "https://www.athenadomain.com/about-us.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Athena Domain, Inc.",
+        "role": "Co-Owner",
+        "category": "business",
+        "source_url": "https://members.texasbuilders.org/builder-directory/Details/athena-domain-inc-729250",
+        "snippet": "Athena Domain, Inc., San Antonio real estate development company; member of the Texas Association of Builders builder directory."
+      }
+    ]
+  },
+  {
+    "donor_id": "0ad7d977-d083-4c52-a866-4d1636305ba0",
+    "name": "Gavito, Marina",
+    "resolved_employer": "USAA (Director, 2019)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "This is the candidate herself, Marina Alderete Gavito, recorded in 2019 as a Director at USAA donating to then-Mayor Ron Nirenberg (2714 Whisper Path, 78230; first gift 2019-04-12). Her documented professional identity is technology/civic-innovation: led cross-departmental teams at Rackspace and USAA, founding Executive Director of Tech Bloc, then Executive Director of SA Digital Connects (digital-divide work). Elected San Antonio City Council D7 June 2023, re-elected May 2025. Classified Technology per her career; note USAA role is financial-services/insurance. Compound surname 'Alderete Gavito' — not to be conflated with 2025 opponent Cynthia Lugo Alderete.",
+    "source_url": "https://marinagavito.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Tech Bloc",
+        "role": "Founding Executive Director",
+        "category": "civic",
+        "source_url": "https://compete.org/marina-alderete-gavito/",
+        "snippet": "Founding Executive Director of Tech Bloc, where she advocated for rideshare while growing membership to over 5,000 people."
+      },
+      {
+        "org": "SA Digital Connects",
+        "role": "Executive Director (former)",
+        "category": "civic",
+        "source_url": "https://marinagavito.com/about",
+        "snippet": "Served as Executive Director of SA Digital Connects, addressing the digital divide in San Antonio and Bexar County with 200+ community organizations."
+      },
+      {
+        "org": "San Antonio City Council, District 7",
+        "role": "Councilwoman",
+        "category": "political",
+        "source_url": "https://sanantonioreport.org/san-antonio-city-council-district-7-runoff-results/",
+        "snippet": "Marina Alderete Gavito claimed victory in the District 7 runoff (June 2023); re-elected 2025."
+      }
+    ]
+  }
+]

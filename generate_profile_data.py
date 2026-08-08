@@ -137,6 +137,17 @@ CANDIDATE_CYCLES = {
          'start_year': None, 'end_year': None,
          'start_date': '2023-07-01', 'end_date': '2025-06-30'},
     ],
+    # Marina Alderete Gavito (D7): won the June 10, 2023 runoff over Dan
+    # Rossiter; re-elected outright May 3, 2025. Two-tab 2023 class, same shape
+    # as Kaur (the other 2023-class member) rather than the 2021 three-tab
+    # members. Files as 'Marina Gavito' despite the compound display surname.
+    'gavito': [
+        {'label': '2023 Run', 'election_year': 2023,
+         'start_year': None, 'end_year': None, 'end_date': '2023-06-30'},
+        {'label': '2025 Re-election', 'election_year': 2025,
+         'start_year': None, 'end_year': None,
+         'start_date': '2023-07-01', 'end_date': '2025-06-30'},
+    ],
 }
 
 # Earliest contribution_year included in a profile (default 2018 = start of
@@ -216,10 +227,59 @@ OFFICE_OVERRIDE = {
     'viagran': 'San Antonio City Council · District 3',
     'mungia': 'San Antonio City Council · District 4',
     'castillo': 'San Antonio City Council · District 5',
+    'gavito': 'San Antonio City Council · District 7',
     'shaikh': 'San Antonio City Council · 2025 District 8 Candidate',
 }
 
 CANDIDATE_MIN_YEAR = {}
+
+# Contribution rows carry the `filer_slug` of whichever member's name was
+# searched at ingest — which includes money that member *gave to other
+# candidates* (D18/D19 in ADD_COUNCIL_MEMBER.md). Unfiltered, those rows are
+# counted as money the member raised: Gavito's five pre-2023 gifts to Nirenberg,
+# Landin, Johnson and Garcia rendered four phantom year-bars for a candidate
+# whose first race was 2023.
+#
+# `recipient` separates them, but NOT by simple equality against the member's
+# name: a member's own money can span several recipient strings (Jones files
+# under both 'Gina Jones' and 'Gina Ortiz Jones'), so an equality test would
+# delete legitimate rows. Register every string that IS this member's own
+# campaign; everything else is excluded from the profile.
+RECIPIENT_ALIASES = {
+    'jones':          {'Gina Jones', 'Gina Ortiz Jones'},
+    'galvan':         {'Ric Galvan'},
+    'kaur':           {'Sukh Kaur'},
+    'mckeerodriguez': {'Jalen McKee-Rodriguez'},
+    'viagran':        {'Phyllis Viagran'},
+    'mungia':         {'Edward Mungia'},
+    'castillo':       {'Teri Castillo'},
+    'gavito':         {'Marina Gavito'},
+    'shaikh':         {'Sakib Shaikh'},
+}
+
+
+def recipient_filter(cur, slug):
+    """(sql_fragment, params) restricting rows to the member's own campaign.
+
+    An unregistered slug is deliberately NOT filtered — silently dropping rows
+    would be worse than the noise — but extra recipient strings are reported
+    loudly so the next member's author registers the real ones.
+    """
+    names = RECIPIENT_ALIASES.get(slug)
+    if not names:
+        found = [r[0] for r in cur.execute(
+            "SELECT DISTINCT recipient FROM campaign_finance "
+            "WHERE filer_slug=? AND txn_type='contribution' AND recipient IS NOT NULL",
+            (slug,)).fetchall()]
+        if len(found) > 1:
+            print(f"  WARNING: slug '{slug}' has {len(found)} recipient strings and no "
+                  f"RECIPIENT_ALIASES entry, so money this member gave to other "
+                  f"candidates is being counted as money raised. Register the "
+                  f"member's own string(s): {found}")
+        return "", []
+    ordered = sorted(names)
+    placeholders = ",".join("?" for _ in ordered)
+    return f" AND cf.recipient IN ({placeholders})", ordered
 
 
 def slugify(name: str) -> str:
@@ -234,9 +294,11 @@ def find_filer(cur, slug: str):
     ).fetchone()
     if not row:
         return None, 0
+    rec_sql, rec_params = recipient_filter(cur, slug)
     n = cur.execute(
-        "SELECT COUNT(*) FROM campaign_finance WHERE filer_slug=? AND txn_type='contribution'",
-        (slug,),
+        "SELECT COUNT(*) FROM campaign_finance cf "
+        "WHERE cf.filer_slug=? AND cf.txn_type='contribution'" + rec_sql,
+        (slug, *rec_params),
     ).fetchone()[0]
     return row[0], n
 
@@ -283,6 +345,13 @@ def build_cycle_data(cur, candidate_fragment, cycle, by_year_data):
         "COALESCE(cf.balanced_amount, cf.amount_real) > 0",
     ]
     base_params = [candidate_fragment]
+
+    # Same own-campaign restriction as the main profile, or the cycle heroes
+    # would disagree with the all-time hero.
+    rec_sql, rec_params = recipient_filter(cur, candidate_fragment)
+    if rec_sql:
+        where_parts.append(rec_sql.replace(" AND ", "", 1).strip())
+        base_params.extend(rec_params)
 
     if year_clauses:
         where_parts.extend(year_clauses)
@@ -508,13 +577,15 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
     # ── Base filter ───────────────────────────────────────────────────────────
     # All queries use this same WHERE clause. Portal year floor is 2016.
     min_year = CANDIDATE_MIN_YEAR.get(slug, 2016)
+    rec_sql, rec_params = recipient_filter(cur, slug)
     BASE_WHERE = f"""
         cf.filer_slug = ?
         AND cf.txn_type = 'contribution'
         AND CAST(cf.contribution_year AS INTEGER) >= {min_year}
         AND COALESCE(cf.balanced_amount, cf.amount_real) > 0
+        {rec_sql}
     """
-    base_params = (slug,)
+    base_params = (slug, *rec_params)
 
     # ── Hero stats ────────────────────────────────────────────────────────────
     hero_row = cur.execute(f"""

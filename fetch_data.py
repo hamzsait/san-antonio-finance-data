@@ -673,6 +673,51 @@ def main() -> int:
     print(f"[scrape] pager: current={current_page}  links={sorted(targets)}"
           + ("  +next-window" if next_window else ""))
 
+    # 3a. Reclaim the TRUE page 1.
+    #
+    # The initial search response and the paginated postback views are sorted
+    # DIFFERENTLY (the search result is ordered by contributor name; the grid's
+    # own paging is ordered by amount). So r1's 500 rows are not the grid's page
+    # 1 — they are a differently-ordered slice that partly overlaps pages 2..N,
+    # and the forward-only walk below never revisits page 1. The rows that sit
+    # on the true page 1 but not in the search response are silently lost.
+    #
+    # Proven on Gavito 2026-08-08: 1,334 of 1,676 rows stored, $484,056.11 of
+    # the portal's $668,610.46 — 338 rows and $183,604.35 (27.5%) missing.
+    # Page 1 is only linkable once we are on another page, so step off to the
+    # first available page and come straight back. Ingest is dedup-by-row_hash,
+    # so the overlap with r1's rows costs nothing.
+    if current_page == 1 and targets:
+        step = min(targets)
+        print(f"[scrape] reclaiming true page 1 (via page {step})")
+        r_step = page_postback(sess, targets[step], last_html)
+        rows_step, _ = parse_rows(r_step.text)
+        run_details(rows_step, r_step.text)
+        all_rows.extend(rows_step)
+        if not args.dry_run:
+            ins, skp = insert_rows(conn, rows_step, slug)
+            ins_total += ins; skip_total += skp
+        visited_pages.add(step)
+        print(f"[scrape]   page {step}: {len(rows_step)} rows")
+
+        _, t_step, _ = find_pager(r_step.text)
+        if 1 in t_step:
+            r_true1 = page_postback(sess, t_step[1], r_step.text)
+            rows_true1, _ = parse_rows(r_true1.text)
+            run_details(rows_true1, r_true1.text)
+            all_rows.extend(rows_true1)
+            if not args.dry_run:
+                ins, skp = insert_rows(conn, rows_true1, slug)
+                ins_total += ins; skip_total += skp
+            print(f"[scrape]   true page 1: {len(rows_true1)} rows")
+            last_html = r_true1.text
+            current_page, targets, next_window = find_pager(last_html)
+        else:
+            print("[scrape]   WARNING: no page-1 link from page "
+                  f"{step}; true page 1 not reclaimed")
+            last_html = r_step.text
+            current_page, targets, next_window = find_pager(last_html)
+
     while True:
         next_page = min(
             (p for p in targets if p not in visited_pages and p > (current_page or 0)),

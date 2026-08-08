@@ -1,0 +1,234 @@
+[
+  {
+    "donor_id": "8cebdd5c-2385-447e-bec7-b72987527a9b",
+    "name": "Hollan, Christine",
+    "resolved_employer": "President/owner, Golden Age Senior Placement (senior-living placement service, San Antonio)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Christine Hollan is President of Golden Age Senior Placement, a San Antonio senior-care/assisted-living placement service; 30+ years in senior care. Matches donor's NW-side 78255/River Ranch location and 'President' occupation.",
+    "source_url": "https://goldenageseniorplacement.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8ce0749c-6ca2-4882-887a-c706fb6f27da",
+    "name": "Rogers, Anthony",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor is retired at 8506 Chivalry, San Antonio 78254. Common name; no public profile or former career could be confirmed for this specific individual, so no industry assigned.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8a9617a0-01bd-4210-a8c4-597ab5e616a7",
+    "name": "Monsisvais, Marina",
+    "resolved_employer": "Founder/CEO, Barracuda PR (boutique public-relations agency, El Paso)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Marina Monsisvais, MBA, is founder/CEO of Barracuda PR in El Paso (matches 79930 El Paso donor address); communications professional, hosts 'State of the Arts' on KTEP, active in El Paso arts nonprofits.",
+    "source_url": "https://barracudapr.com/team/marina/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of El Paso Public Art Committee", "role": "Committee member", "category": "civic", "source_url": "https://www.ktep.org/people/marina-monsisvais", "snippet": "Active in the El Paso non-profit/arts sector including Chalk the Block public art festival, the City of El Paso's Public Art Committee, and Leadership El Paso."}
+    ]
+  },
+  {
+    "donor_id": "85c98ba2-5e6f-46e4-aca5-178baadbb398",
+    "name": "Perez, Joel",
+    "resolved_employer": "CPA; former partner/principal, RSM US LLP (public accounting), San Antonio",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Joel Perez is a San Antonio CPA and former RSM US LLP partner/principal (state & local government practice); 25+ yrs public accounting, SA Business Journal 40-under-40. Occupation/employer/city match the 78260 donor.",
+    "source_url": "https://www.linkedin.com/in/joelperezjr/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7f5bb233-149f-4ea0-abb9-6dcbe00ca56d",
+    "name": "Wiesenthal, Alison",
+    "resolved_employer": "Physician; Chief of Palliative Care & Chair of Rehabilitation Medicine, Brooke Army Medical Center (BAMC), San Antonio",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Alison Wiesenthal, MD, FACP, FAAHPM, is Chief of Palliative Care and Chair of Rehabilitation Medicine at BAMC (first civilian in the role, 2020); double board-certified internal/palliative medicine. Occupation/employer/city match donor. A 2016 FEC individual contribution to Hillary Victory Fund under a same-name physician was found but at zip 78229 (not the donor's 78212), too weak to confirm as the same person, so not recorded.",
+    "source_url": "https://aahpm.org/about-aahpm/person/alison-wiesenthal/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "781aca63-5232-4c08-9c7b-2fc291ec25dd",
+    "name": "Pipoly, Esther",
+    "resolved_employer": "Loss of Life Advocates (LOLA) — owner/founder, grief & bereavement consultant",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Esther Cardenas Pipoly, born/raised in San Antonio, founded Loss of Life Advocates in 2017 after losing her father and husband; a for-profit 'concierge grief consultant' with a prior insurance career. Matches occupation/employer/city (78231).",
+    "source_url": "https://www.lossoflifeadvocates.com/esther-pipoly",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "77a22e32-0121-4e42-8df1-01274ab01ad3",
+    "name": "Hernandez, Gloria",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Self-reported retired; very common name with a generic commercial-strip address (8415 Fredericksburg Rd, 78229). No prior career or public profile identifiable to confirm the specific individual.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "75924407-d74e-4dce-8b6c-83b1c1a0d031",
+    "name": "Dallair, Josephine",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Self-reported retired; no public record, bio, or former-career information located for a Josephine Dallair at the 78216 address. Cannot confirm identity or prior industry.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "72e1159d-7567-494e-afc1-611d9c11ca27",
+    "name": "Velásquez, José",
+    "resolved_employer": "City of Austin — Austin City Council Member, District 3",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "José Velásquez is the Austin City Council member for District 3 (East Austin), in office since Jan 2023. Donor address 2311 Willow, Austin 78702 sits in East Austin/District 3, matching the officeholder and the 'City Council/Councilman, City of Austin' occupation.",
+    "source_url": "https://ballotpedia.org/Jose_Velasquez_(Texas)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Austin City Council", "role": "Council Member, District 3", "category": "political", "source_url": "https://www.austintexas.gov/department/about-council-member-velasquez", "snippet": "Council Member José Velásquez represents District 3 on the Austin City Council; assumed office January 6, 2023."}
+    ]
+  },
+  {
+    "donor_id": "727a853c-e851-4bf6-8fa7-e5a91281b5fd",
+    "name": "Ocampo, Leticia",
+    "resolved_employer": "Gold's Gym (yoga/group-exercise instructor)",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Self-reported yoga instructor at Gold's Gym, Rancho Viejo TX (78575, Rio Grande Valley). No public profile beyond the generic occupation; employer-fallback classification only, identity not independently corroborated.",
+    "source_url": "https://www.goldsgym.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7068f177-06ba-4711-ac05-5a22bcbdc0f6",
+    "name": "Moreno, David",
+    "resolved_employer": "Owner/Managing Partner, RYNO General Contractors, LLC (San Antonio general contractor)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "David Moreno is listed as Owner of RYNO General Contractors, LLC on LinkedIn and business registries; SA-based GC firm (founded 2006), matching donor's stated employer/occupation (businessowner, 78228).",
+    "source_url": "https://www.linkedin.com/in/david-moreno-b7b2121b",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6d270cd7-392a-4098-8edd-2d0508661257",
+    "name": "Manzano, Gloria",
+    "resolved_employer": "Senior Manager, marketing/communications, Amazon Web Services (AWS); prior brand/communications roles at USAA",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Gloria Manzano, San Antonio, is a marketing/communications senior manager at AWS (Amazon) per LinkedIn, formerly USAA brand communications; matches donor's employer 'Amazon', occupation 'Marketing', and 78248 location.",
+    "source_url": "https://www.linkedin.com/in/gloria-manzano-577a2643/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "678a579f-b58f-44e2-8c28-0e3979d45442",
+    "name": "Baumann, James",
+    "resolved_employer": "Chief Lending Officer, United Texas Credit Union (San Antonio)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "James Baumann is Chief Lending Officer at United Texas Credit Union in San Antonio (RocketReach/LinkedIn, and UTCU 'Your Money Matters' segments), matching donor's employer and 'Banker' occupation (78229).",
+    "source_url": "https://rocketreach.co/james-baumann-email_713600150",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Cornerstone Credit Union League PAC", "role": "Individual contributor ($5)", "category": "business", "source_url": "https://dallascitywire.com/stories/543852658-texas-cornerstone-credit-union-league-pac-receives-5-from-james-baumann-of-san-antonio-on-march-24", "snippet": "'Texas Cornerstone Credit Union League PAC receives $5 from James Baumann of San Antonio' — a credit-union industry trade PAC consistent with his banking career (not an ideological PAC)."}
+    ]
+  },
+  {
+    "donor_id": "677e5b7e-151b-4df8-a760-078226502383",
+    "name": "bryden, Anthony",
+    "resolved_employer": "Advisory Solution Consultant, ServiceNow (San Antonio)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Anthony 'Tony' Bryden is an Advisory Solution Consultant at ServiceNow based in San Antonio (LinkedIn), ~15 yrs IT experience, St. Mary's University tie; matches donor's employer and 'Advisory Solution Consultant' title (78240).",
+    "source_url": "https://www.linkedin.com/in/tonybryden/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "651ab4eb-0b59-4e94-b865-d027a654a8cc",
+    "name": "gonzalez, monica",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor self-reports as retired; 'Monica Gonzalez' is an extremely common San Antonio name and no specific individual at 78216 with an identifiable former career could be corroborated in public records.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "64ab9699-81f8-4964-8bea-5d94fc1df0d0",
+    "name": "Coronado, Gil",
+    "resolved_employer": "Retired U.S. Air Force Colonel; former Director, U.S. Selective Service System (retired)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "National figure Col. Gil Coronado, retired USAF Colonel and Clinton-era Selective Service Director, longtime San Antonio resident (Dominion/78257 area), known as 'Padrino' of Hispanic Heritage Month. Zip and SA ties match.",
+    "source_url": "https://en.wikipedia.org/wiki/Gil_Coronado",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hispanic Heritage Month", "role": "Lead advocate / 'Padrino'", "category": "civic", "source_url": "https://sanantonioreport.org/gil-coronado-padrino-hispanic-heritage-month-remembered-san-antonio/", "snippet": "Considered the 'Padrino' (Godfather) of Hispanic Heritage Month for his lobbying to expand the observance from a week to a month; stood beside President Reagan at the 1988 proclamation signing."}
+    ]
+  },
+  {
+    "donor_id": "5c671de0-84f5-4526-83b4-54dfbba4dd42",
+    "name": "Calderon Galdeano, Emily",
+    "resolved_employer": "CEO, Elevate Consulting Group (higher-education/public-policy consulting)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Dr. Emily Calderon Galdeano, CEO of Elevate Consulting Group in San Antonio (78213), higher-ed policy consultant; former Director of Research at Excelencia in Education. Occupation/employer match the filing.",
+    "source_url": "https://www.linkedin.com/in/emilycalderon/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Board of Directors", "category": "business", "source_url": "https://www.sahcc.org/sahcc-welcomes-2021-board-of-directors", "snippet": "Listed among the SAHCC 2021 Board of Directors; profiled by the chamber as a higher-education policy leader."}
+    ]
+  },
+  {
+    "donor_id": "5bc5b7ba-a24e-46db-8158-e612acf529fe",
+    "name": "Ximenes, John",
+    "resolved_employer": "Real estate agent, The Schrader Group (San Antonio residential team)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Real estate agent associated with The Schrader Group, a San Antonio residential team; filing occupation/employer (Real Estate / The Schrader Group) and 78232 north-central SA location are consistent.",
+    "source_url": "https://theschradergroup.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "59887948-5d7f-419c-8277-c61a33c83f5e",
+    "name": "Infante, Monica",
+    "resolved_employer": "Homemaker",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported homemaker at Sable Creek, 78259 (far NE San Antonio). No public professional profile, lobbyist registration, or notable PAC contributions located; common name prevents firmer identity confirmation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "58d84dc8-07e2-4535-a717-bb16a83cfc0b",
+    "name": "Longeria, John",
+    "resolved_employer": "Retired trial attorney/judge; former Texas State Representative (retired)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Address 1807 Peterson Ave, 78224 matches Judge John A. Longoria (filed as 'Longeria'): St. Mary's grad, 40+ yr trial attorney, former Bexar County judge/commissioner, and Texas House member (elected 1992, five terms, Democrat), now retired.",
+    "source_url": "https://www.lawyers.com/san-antonio/texas/john-a-longoria-1704590-a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House of Representatives", "role": "Former State Representative (Democrat)", "category": "political", "source_url": "https://trellis.law/judge/john.a.longoria", "snippet": "Won election to the Texas House in 1992 and served five consecutive terms; also served as Bexar County presiding judge, County Commissioner and County Judge before retiring."}
+    ]
+  }
+]

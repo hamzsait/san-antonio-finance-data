@@ -1,0 +1,235 @@
+[
+ {
+  "donor_id": "cb27bd82-91af-493c-8876-32ccaf92dfe4",
+  "name": "Bird, Bill",
+  "resolved_employer": "Mark Motors (luxury used-car dealership, Boerne/Austin TX); prior co-owner of Mercedes-Benz of Boerne",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Bill Bird co-operated Mercedes-Benz of Boerne (2005-2014) with Ron Heller, then reopened Mark Motors in Boerne in 2016; auto dealer matches donor occupation/employer/Boerne 78006.",
+  "source_url": "https://www.themarkmotors.com/who-is-mark",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c199fb72-597b-4cbf-a2ed-c1ce20189b04",
+  "name": "Choudary, Muhammad",
+  "resolved_employer": "President & co-owner, Mission Wrecker Service (towing/recovery), Converse TX",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Muhammad Choudary and Vernon Oliver bought Mission Wrecker in 2002; he is listed as President/Co-Owner. Matches donor address 4535 FM 1516 N, Converse 78109. (Public reporting notes a guilty plea to conspiracy to commit bribery in a Bexar County towing-contract case.)",
+  "source_url": "https://missionwrecker.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c0e766b9-62e1-4fbb-9af1-a5c173579fd5",
+  "name": "Reddy Gurram, Nandkishore",
+  "resolved_employer": "Interventional cardiologist, Heart & Vascular Institute of Texas; affiliated Baptist/Mission Trail Baptist hospitals, San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Nandkishore R. Gurram, MD FACC, interventional cardiologist in San Antonio with Baptist Medical Center affiliations; matches donor occupation 'Cardiologist' and 'Baptist Medical Network.' No FEC contributor records found.",
+  "source_url": "https://havit.com/our-physicians/nandkishore-gurram/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bf41a132-4a91-41ea-8b36-8298d466b4d5",
+  "name": "Christian, David",
+  "resolved_employer": "Self-employed attorney (specific individual not confirmed)",
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Donor lists occupation 'Attorney,' employer 'Self,' at Doral Crest, San Antonio 78260. Could not confirm against the prominent San Antonio criminal-defense attorney David Douglas Christian (firm-based, different address), so classified by occupation fallback only; identity unconfirmed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b36c9098-f63e-4b4b-a7fb-86b56c238f08",
+  "name": "Rajunov, Leonardo",
+  "resolved_employer": "President, Cultiva Financial (financial services / trade finance & factoring), San Antonio TX (UT-Austin McCombs grad; ex-Booz & Company)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Leonardo 'Lenny' Rajunov is President of Cultiva Financial (San Antonio). FEC shows a 'Rajunov, Leonardo' (employer Credito Real, Cultiva's affiliate) giving small 2018 ActBlue donations earmarked for Beto for Texas — plausibly the same person. Relatives Manuel/Fermin Rajunov (same firm) have AIPAC/pro-Israel donations, which are NOT attributed to Leonardo.",
+  "source_url": "https://www.linkedin.com/in/leonardo-lenny-rajunov-86103b23/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Beto for Texas (via ActBlue)", "role": "individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Leonardo+Rajunov", "snippet": "FEC: RAJUNOV, LEONARDO (employer Credito Real) gave ~$79.50 across four ActBlue transactions in Sept 2018 earmarked for Beto for Texas (Democratic U.S. Senate campaign)."}
+  ]
+ },
+ {
+  "donor_id": "aea8f59f-4f5b-4eb7-bb35-79f6d27d8d4b",
+  "name": "Holland, Luke",
+  "resolved_employer": "Vice President, Copperhead Construction Services LLC (multifamily/commercial renovation & restoration)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "3rd-generation contractor, Texas Tech grad; VP and managing member of Copperhead Construction Services (San Antonio), a multifamily/commercial rehab firm. Firm bio and LinkedIn both match employer_strings and occupation.",
+  "source_url": "http://copperheadtx.com/who-we-are/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ae162d37-8ccf-44dc-a1df-d42e3a082cce",
+  "name": "Banos, Ed",
+  "resolved_employer": "President & CEO, University Health (Bexar County Hospital District), San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Edward Banos became President/CEO of University Health on July 1, 2024, after serving as EVP/COO since 2015; 30+ years in health-care executive leadership. Role and employer match exactly.",
+  "source_url": "https://www.universityhealth.com/news/new-president-ceo",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "acefb307-bb9a-4047-9cd6-c3838ecd0aca",
+  "name": "Hubbert, Raquel",
+  "resolved_employer": "Homemaker / retired (not employed)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Listed as a homemaker at 8651 Terra Dale, San Antonio 78255; the exact name/address appears in San Antonio/TEC campaign-finance disclosure records for prior local contributions, corroborating identity. No FEC PAC contributions, no Texas lobbyist registration, and no ideological affiliations surfaced.",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000002909_20230118_073603.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a43da052-7ef2-4f6c-8303-1a6da3670f8e",
+  "name": "Van de Putte, Gregory",
+  "resolved_employer": "Sales, Southern Glazer's Wine & Spirits (SGWS) — wine/spirits distribution",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Employer string SGWS = Southern Glazer's Wine & Spirits, the largest U.S. wine/spirits distributor with a San Antonio operation; occupation Sales. Surname matches the locally prominent Van de Putte political family (ex-state senator Leticia Van de Putte), but no public record confirms this specific individual's family relationship, so classified by employer only.",
+  "source_url": "https://en.wikipedia.org/wiki/Southern_Glazer's_Wine_and_Spirits",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "972999d4-e71e-40ce-bf63-f993b40e97ff",
+  "name": "Salinas, George",
+  "resolved_employer": "Founding attorney, George Salinas Injury Lawyers / Law Offices of George Salinas PLLC (personal-injury trial law)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Well-known San Antonio personal-injury trial attorney; St. Mary's University and UT Law grad, former Texas Senate policy analyst, Texas Super Lawyer. Firm at 6243 IH-10 West matches location exactly.",
+  "source_url": "https://www.salinastriallaw.com/about-our-firm/our-attorneys/george-salinas/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "853efe34-728d-4f7c-8fa3-808989e38a37",
+  "name": "Schendel, Mark",
+  "resolved_employer": "Executive Vice President, VersaTerra Development (San Antonio land developer; behind the $1.2B Condalia master-planned community)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Mark Schendel is listed as Executive VP of VersaTerra Development on the firm's About page; 16+ yr land acquisition/development pro, prior VP of Land Acquisition for public/private homebuilders. Donor's employer string 'Versa Terra Development' and 78256 NW-SA zip match.",
+  "source_url": "https://vtdevco.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "VersaTerra Development", "role": "Executive Vice President", "category": "business", "source_url": "https://vtdevco.com/about/", "snippet": "Mark Schendel, Executive Vice President — acquisition and development professional with over 16 years in real estate; prior VP of Land Acquisition and Development for public and private home builders."}
+  ]
+ },
+ {
+  "donor_id": "84a96348-ee4a-4b00-8d15-62db2af8c5ed",
+  "name": "Tilma, Cathy",
+  "resolved_employer": "Retired (former decorated Kansas amateur golfer / Wichita State women's golf coach); Council Member, City of Eastborough, KS",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "FEC record shows a Cathy Tilma at the donor's exact zip 67278 (Wichita) gave $1,000 to Kansans for Tiahrt in 2010, corroborating identity. Same-named Cathy Tilma is a Wichita-area civic figure (Eastborough city council) and former Wichita State golf coach. Out-of-state donor to this SA race.",
+  "source_url": "https://www.city-data.com/elec2/10/elec-WICHITA-KS-10-part3.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Kansans for Tiahrt (Todd Tiahrt, R-KS)", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/10/elec-WICHITA-KS-10-part3.html", "snippet": "Cathy Tilma, zip 67278, contributed $1,000 to Kansans for Tiahrt on Aug 2, 2010 (FEC individual-contribution data)."},
+   {"org": "City of Eastborough, KS", "role": "Council Member", "category": "civic", "source_url": "https://www.zoominfo.com/p/Cathy-Tilma/1519620852", "snippet": "Cathy Tilma listed among City of Eastborough (KS) municipal leadership as a council member (city email @eastborough.net)."}
+  ]
+ },
+ {
+  "donor_id": "7ea72b22-7b6f-4fff-a2d1-cb9310b142f5",
+  "name": "Hernandez, Adel",
+  "resolved_employer": "Retired, San Antonio (78228)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Retired San Antonio resident (Royal Court, 78228) and a frequent federal small-dollar donor (batch data: 71 FEC contributions). Party/PAC pattern could not be characterized this session (FEC API rate-limited); no ideological-PAC hits surfaced. The SA arts-community 'Adel Hernandez' (dancer) is a different, younger person.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Adel+Hernandez&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7cdcf130-478c-4da5-bd22-4f2686ee4743",
+  "name": "Reed, Katie",
+  "resolved_employer": "Retired (employer not disclosed)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Occupation 'Retired' with no employer, 78229 (SA Medical Center area, within Northside ISD). Two prominent same-named candidates cannot be distinguished: retired NISD Trustee Katie N. Reed (longest-serving Bexar County public official, retired 2021) and a retired travel agent. Cannot confirm which is the donor.",
+  "source_url": "https://www.nisd.net/reed/about/namesake",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "74388ac2-cdaa-443e-b61a-2f99b39ffafb",
+  "name": "Castillo, Fabian",
+  "resolved_employer": "Owner, Fabian's Construction (family-owned San Antonio general contractor, founded 1986)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Donor's employer string 'Fabian Construction' and 'Owner' occupation match Fabian's Construction, a San Antonio general contracting/tenant-improvement firm. LinkedIn lists 'Fabian Castillo - owner - Self-employed.' Family firm has multiple Fabians; donor listed as Owner.",
+  "source_url": "https://fabiansconstruction.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Fabian's Construction", "role": "Owner", "category": "business", "source_url": "https://www.linkedin.com/in/fabian-castillo-084827b0/", "snippet": "LinkedIn profile: 'Fabian Castillo - owner - Self-employed'; Fabian's Construction is a San Antonio family-owned general contractor founded 1986."}
+  ]
+ },
+ {
+  "donor_id": "6b50ee50-2551-44a5-b0c5-adbc7c2f5f22",
+  "name": "Dreiss, Taylor",
+  "resolved_employer": "Self-employed real estate developer; Dreiss name tied to San Antonio real-estate development (Thomas E. Dreiss & Co.)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Taylor Dreiss is a San Antonio-based developer (zip 78248, Sonterra/Stone Oak area); public records tie the Dreiss name to Thomas E. Dreiss & Co. real estate development. No FEC PAC donations or TX lobbyist registration found.",
+  "source_url": "https://www.corporationwiki.com/p/38lmkh/taylor-dreiss",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e8eb095-c812-4671-ac2e-67550d11ac50",
+  "name": "Rodriguez, Jennifer",
+  "resolved_employer": "The Offices of Marc A. Rodriguez, an Austin government-relations/lobbying firm (1122 Colorado St); donor identified as spouse of owner Marc A. Rodriguez, a registered Texas lobbyist",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Donor listed at the firm's Austin address (1122 Colorado St, 78701). Firm's 'Who We Are' page names Marc A. Rodriguez (owner, government relations consultant) and lists Jennifer Rodriguez as his spouse; the firm is a registered TX lobby shop focused on utility regulation, infrastructure, and urban affairs.",
+  "source_url": "https://www.officesofmarcarodriguez.com/whoweare",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "The Offices of Marc A. Rodriguez", "role": "Affiliated / spouse of owner; donor's stated employer", "category": "political", "source_url": "https://texaslobbypartners.com/marc-a-rodriguez", "snippet": "Marc A. Rodriguez operates a government-relations/lobbying firm and is a registered Texas Ethics Commission lobbyist (appears in TEC lobbyist filings 2015-2023); firm advocates on utility regulation, infrastructure, urban affairs, natural resources."}
+  ]
+ },
+ {
+  "donor_id": "598b3d30-0e13-4e79-92c8-1137247496ce",
+  "name": "Gurram, Venkatsairam",
+  "resolved_employer": "Gurram Properties (Houston), stated as a developer; company/individual could not be independently verified in public records",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Donor self-reports as a 'Developer' at 'Gurram Properties' in Houston's Montrose area (77006). No confirming corporate, FEC PAC, or TX lobbyist record located for this specific individual/company; industry assigned by employer/occupation fallback only.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "586f91ae-c73d-44fc-9f43-213eddaff9dc",
+  "name": "Padilla, David",
+  "resolved_employer": "Manager of Zcap, LLC ('Z Capital'), San Antonio; associated with ~79 LLCs formed over ~11 years (37 active), consistent with a real-estate investment/holding-company operator",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "David Padilla (San Antonio) is listed as Manager of Zcap, LLC; corporate records show him tied to ~79 companies (37 currently active) over an 11-year span, the per-property LLC pattern of a real-estate investor. The '37' figure in the brief matches the count of active entities, not FEC donations. No confirming FEC PAC donation or TX lobbyist registration found.",
+  "source_url": "https://www.corporationwiki.com/p/2fjtr3/david-padilla",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "57cfc227-c1fc-45e1-810d-b913752d1922",
+  "name": "Sánchez Campos, Roger",
+  "resolved_employer": "Dr. Roger S. (Sánchez) Campos, DDS — owner of Campos Family Dental P.C., a general/cosmetic dental practice in San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Roger Sanchez Campos is an ADA-member San Antonio dentist (Campos Family Dental P.C.); donor address is Shavano Park (78249). TEC filing shows he gave $100 to the Texas Dental Association PAC on 12/26/2024 — a professional/industry PAC. No federal ideological PAC donations or lobbyist registration found.",
+  "source_url": "https://www.camposdentalsa.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Texas Dental Association Political Action Committee (TDA PAC)", "role": "Individual contributor ($100)", "category": "business", "source_url": "https://prd.tecprd.ethicsefile.com/public/cf/2025/pdfs/ScrubbedReport_100990883.PDF", "snippet": "Roger Campos (Dr.), a dentist in San Antonio, TX, contributed $100.00 on 12/26/2024, reported in a Texas Dental Association PAC filing with the Texas Ethics Commission — a professional dental-industry PAC."}
+  ]
+ }
+]

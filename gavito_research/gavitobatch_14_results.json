@@ -1,0 +1,251 @@
+[
+ {
+  "donor_id": "d9443978-0dc6-47ef-b0ba-977badd29344",
+  "name": "Yeager, Russell",
+  "resolved_employer": "WGI Inc. (WGI Engineering) — Vice President / Director of Civil Engineering",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Russell Yeager, P.E., is VP/Director of Civil Engineering at WGI who established and led WGI's San Antonio office; UT-Austin civil engineering grad. Employer, occupation, and NW-side location all match.",
+  "source_url": "https://wginc.com/from-vision-to-reality-russell-yeager/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Real Estate Council of San Antonio", "role": "Member", "category": "business", "source_url": "https://wginc.com/from-vision-to-reality-russell-yeager/", "snippet": "WGI bio notes Yeager serves in organizations including the Real Estate Council of San Antonio."},
+   {"org": "South San Antonio Chamber of Commerce", "role": "Member", "category": "business", "source_url": "https://wginc.com/from-vision-to-reality-russell-yeager/", "snippet": "WGI bio notes membership in the South San Antonio Chamber of Commerce."}
+  ]
+ },
+ {
+  "donor_id": "cb11fd0f-4a0b-4716-9929-f050fb22bb5c",
+  "name": "Smith, Elly",
+  "resolved_employer": "The MITRE Corporation — Senior Principal / Portfolio Manager (aviation systems engineer)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Elida 'Elly' Smith is an aerospace/systems engineer (~19 yrs at MITRE, prior Boeing/Continental/Volpe). Port San Antonio bio confirms MITRE employer; she was appointed to the Port SA board by Gavito, matching the donor. Note: donor is also a Gavito board appointee.",
+  "source_url": "https://www.portsanantonio.us/Elly-Smith",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Port San Antonio Board of Directors", "role": "Board member (appointed by Councilwoman Marina Alderete Gavito, Oct 2023)", "category": "civic", "source_url": "https://www.portsanantonio.us/Elly-Smith", "snippet": "Appointed to Port San Antonio's 11-member Board of Directors by San Antonio District 7 Councilwoman Marina Alderete Gavito on October 9, 2023."},
+   {"org": "Women in Aerospace", "role": "Past Board of Directors", "category": "business", "source_url": "https://www.portsanantonio.us/Elly-Smith", "snippet": "Board affiliations include Women in Aerospace (past Board of Directors)."}
+  ]
+ },
+ {
+  "donor_id": "c8278a17-78be-448a-b7fc-498b354ad90c",
+  "name": "Braubach, Robert P",
+  "resolved_employer": "Law Offices of Robert P. Braubach — attorney (international/commercial real estate law)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Board-certified commercial real estate attorney in San Antonio since 1979 (UT Law); office at 106 S St. Mary's St. matches donor address. Dataset shows 10 federal contributions but specific recipient committees could not be retrieved (FEC/OpenSecrets access blocked); no ideological/PAC committees surfaced in accessible searches.",
+  "source_url": "https://www.robertpbraubach.com/about_robert.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Consulate of Belgium (South Texas)", "role": "Honorary Consul; Officier de l'Ordre de Leopold", "category": "civic", "source_url": "https://www.robertpbraubach.com/about_robert.html", "snippet": "Honorary Consul of Belgium for South Texas; awarded Chevalier (2013) and Officier (2020) de l'Ordre de Leopold."},
+   {"org": "Consulate of the Czech Republic (San Antonio/South Texas)", "role": "Honorary Consul (appointed April 2025); prior economic advisor to Czech Embassy", "category": "civic", "source_url": "https://www.robertpbraubach.com/about_robert.html", "snippet": "Honorary Consul of the Czech Republic for San Antonio and South Texas, appointed April 9, 2025."}
+  ]
+ },
+ {
+  "donor_id": "b958bbfc-2d2e-4b76-9ba1-ee1387a4273a",
+  "name": "Nanna, John",
+  "resolved_employer": "Dryden Labs, LLC — Founder (digital agency / web & app development)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "John Dryden Nanna founded Dryden Labs (est. 2015), a San Antonio digital/web-development agency; St. Mary's Univ. MIS grad, IT services/consulting. Employer and San Antonio location match (donor 'zip 12951' is a data artifact of street number 12951 Huebner Rd; actual zip 78230).",
+  "source_url": "https://drydenlabs.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b0a4a661-54bb-441f-aa59-58a64eef0cde",
+  "name": "Aldrete, Eddie",
+  "resolved_employer": "Aldrete Strategic Partners, LLC (founder/CEO; formerly SVP, IBC Bank/International Bank of Commerce)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Well-known San Antonio public-affairs executive; founded Aldrete Strategic Partners (public affairs/communications firm) Jan 2022 after 16 yrs as SVP overseeing IBC Bank's legislative/regulatory affairs. Address & occupation match.",
+  "source_url": "https://texasbordercoalition.org/about/eddie-aldrete/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Border Coalition", "role": "Member/leadership", "category": "business", "source_url": "https://texasbordercoalition.org/about/eddie-aldrete/", "snippet": "Featured on Texas Border Coalition 'About' page as a member; longtime advocate for border trade and USMCA passage."},
+   {"org": "Texas Association of Business", "role": "Secretary, Board of Directors", "category": "business", "source_url": "https://wiza.co/d/texas-association-of-business/e85e/eddie-aldrete", "snippet": "Listed as Secretary, Board of Directors of the Texas Association of Business (statewide chamber/business-policy group)."},
+   {"org": "Hemisfair Conservancy", "role": "Board member", "category": "civic", "source_url": "https://tedxsanantonio.com/2011-speakers/eddie-aldrete/", "snippet": "Bio notes board service with the Hemisfair Conservancy, fundraising arm of San Antonio's Hemisfair Park."}
+  ]
+ },
+ {
+  "donor_id": "af9bf79f-d314-44bb-80d9-1130b8067857",
+  "name": "Denton, Laddie",
+  "resolved_employer": "Bitterblue, Inc. / Denton Communities (co-founder & CEO); full name Lloyd A. 'Laddie' Denton, Jr.",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Co-founder/CEO of Bitterblue, one of San Antonio's largest real-estate development firms; developed/sold 9,000+ acres and 32,000+ lots. Business address 11 Lynn Batts Lane matches donor record.",
+  "source_url": "https://www.bitterblueinvestments.com/team/lloyd-laddie-denton-jr",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ac994df4-817e-481f-b183-81bb50c24170",
+  "name": "Spencer, David",
+  "resolved_employer": "Prytime Medical Devices, Inc. (President & CEO); serial tech/medical-device entrepreneur",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "President/CEO of Prytime Medical Devices (Boerne, TX medical-device maker of ER-REBOA catheter); serial entrepreneur (founded OnBoard Software, co-founded Bank of San Antonio). Boerne 78006 location & CEO occupation match.",
+  "source_url": "https://sanantonioreport.org/techtonics-from-hyper-poor-to-tech-millionaire-david-spencer-finds-fulfillment-with-medical-device-startup/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Emerging Technology Fund Advisory Committee", "role": "Inaugural Chair (appointed by Gov. Rick Perry)", "category": "political", "source_url": "https://sanantonioreport.org/techtonics-from-hyper-poor-to-tech-millionaire-david-spencer-finds-fulfillment-with-medical-device-startup/", "snippet": "Gov. Rick Perry appointed Spencer inaugural chair of the state's $200M Emerging Technology Fund Advisory Committee."},
+   {"org": "Texas Business Leadership Council", "role": "Member", "category": "business", "source_url": "https://www.linkedin.com/in/david-spencer-6732b740/", "snippet": "LinkedIn profile lists affiliation with the Texas Business Leadership Council (statewide business-policy organization)."}
+  ]
+ },
+ {
+  "donor_id": "9eb811ea-20e7-4160-b03d-83e4bd673d42",
+  "name": "Reyes, Russell",
+  "resolved_employer": "Perico's Mexican Restaurant, Inc. (owner/operator)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Owner of Perico's Mexican Restaurant on Bandera Rd, San Antonio (opened ~2002); from a restaurant family (Panchito's). Self-employed occupation & employer string match; note donor zip field 32110 appears erroneous vs. SA location 78230.",
+  "source_url": "https://www.linkedin.com/in/russell-reyes-81a288a2/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9e2c0299-150d-4aae-afb2-480af5aba72a",
+  "name": "Alaniz, Steven",
+  "resolved_employer": "Momentum Physical Therapy & Sports Rehab (CEO)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Steven Alaniz is CEO of Momentum Physical Therapy & Sports Rehab, San Antonio (MPT, Texas Tech Health Sciences Center); firm bio matches occupation/employer. No federal ideological-PAC donations or TX lobbyist registration found.",
+  "source_url": "https://wegetyouhealthy.com/about/meet-the-team/steven-alaniz/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Transplant for Children", "role": "Board member", "category": "civic", "source_url": "https://wegetyouhealthy.com/about/meet-the-team/steven-alaniz/", "snippet": "Serves on the Board at a local non-profit called Transplant for Children."},
+   {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Committee member", "category": "business", "source_url": "https://wegetyouhealthy.com/about/meet-the-team/steven-alaniz/", "snippet": "Serves on multiple committees at the San Antonio Hispanic Chamber of Commerce."}
+  ]
+ },
+ {
+  "donor_id": "965ee4e7-6fe6-493b-96a5-fb10c72ef937",
+  "name": "Vera, Margaret M",
+  "resolved_employer": "Law Offices of Margaret M. Vera (solo attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Solo-practice attorney; State Bar of Texas lists office at 430 W Hildebrand Ave, San Antonio 78212 (exact match to donor address), practice areas Family/Personal Injury/Probate. No federal ideological-PAC donations or TX lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/margaret-vera-49b8b521/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8aa16e76-6c92-4e5f-81ba-cf848efcf0c6",
+  "name": "Schoenbaum, Alan",
+  "resolved_employer": "Alan Schoenbaum PC (attorney/fractional GC); former SVP & General Counsel, Rackspace",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Confirmed as the well-known former Rackspace SVP/General Counsel (2005-2014), later GC at Rev.com and Amelia, now solo/fractional counsel at Alan Schoenbaum PC in Austin (78703 matches). FEC records show donations to Democratic candidates (e.g., Wendy Davis, Doug Jones) but no ideological-PAC or TX lobbyist registration.",
+  "source_url": "https://www.linkedin.com/in/alan-schoenbaum-17b1133/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "CST Brands, Inc.", "role": "Lead Independent Director (2013-2017)", "category": "business", "source_url": "https://people.equilar.com/bio/person/alan-schoenbaum-amelia/1044468", "snippet": "From 2013 until 2017 he served as Lead Independent Director of CST Brands, a Fortune 500 fuel/convenience retailer sold to Circle K."}
+  ]
+ },
+ {
+  "donor_id": "7dd9dc01-1faf-41b4-b78d-0e4940538145",
+  "name": "Bocanegra, Edward",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer provided. Could not confirm the specific person at 6318 Sun View, San Antonio 78238; a same-named Edgewood ISD teacher exists but at a different (78207) address, so identity unverified. No federal ideological-PAC donations or TX lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7c495269-e936-4f2a-8d1a-5013194f33c4",
+  "name": "Shaw, Michelle",
+  "resolved_employer": "Martinez, Dieterich & Zarcone (Senior Trial Attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Michelle Garcia Shaw is a Senior Trial Attorney at Martinez, Dieterich and Zarcone (matches employer string); St. Mary's JD 2005, TX Bar since 2005, insurance-defense/PI litigation.",
+  "source_url": "https://www.linkedin.com/in/michelle-garcia-shaw-959a98272/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "79954f4f-5a3e-48f4-a0b5-7031b3bf7f2c",
+  "name": "Acevedo, Joseph",
+  "resolved_employer": "Law Office of Joseph Acevedo",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Joseph Acevedo runs the Law Office of Joseph Acevedo at 1700 Buena Vista St, San Antonio, TX 78207 (exact address match); criminal defense, family law, personal injury attorney.",
+  "source_url": "https://josephacevedolaw.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "79403e70-03d1-4b21-88ca-1fccab525b85",
+  "name": "DAVILA, ALBERT",
+  "resolved_employer": "Davila Electric Co Inc (owner/president)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Albert Davila (Jr) is owner/president of Davila Electric Co Inc, a San Antonio family-owned electrical contractor since 1980 (matches occupation 'electrician' and employer 'Davila Electric').",
+  "source_url": "https://www.linkedin.com/in/albert-davila-5243178b/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6d83cc66-62cc-47cd-90d6-bdea6ea8db9f",
+  "name": "Kaufman, Bradford",
+  "resolved_employer": "CBRE (Vice President, Advisory & Transaction Services, San Antonio)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Brad (Bradford) Kaufman is a VP in CBRE's San Antonio office focused on office occupier/leasing advisory; joined CBRE 2022, previously Transwestern (matches VP/CBRE).",
+  "source_url": "https://www.cbre.com/people/brad-kaufman",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "629472e2-7476-430f-ad57-e002bee68803",
+  "name": "Moorman, Lewis",
+  "resolved_employer": "Scaleworks (Co-Founder & General Partner; formerly President/Chief Strategy Officer, Rackspace)",
+  "industry": "Venture Capital",
+  "confidence": "high",
+  "evidence": "Native San Antonian, Duke BA/Stanford JD; spent 13 yrs at Rackspace (Board Director, President, Chief Strategy Officer) then co-founded Scaleworks, a SA-based venture-equity firm buying/scaling B2B SaaS companies. Matches occupation 'Software', employer 'Scaleworks', zip 78212.",
+  "source_url": "https://sanantonioreport.org/where-are-they-nowfollowing-rackspaces-impact-on-san-antonio-and-the-tech-world/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Scaleworks", "role": "Co-Founder & General Partner", "category": "business", "source_url": "https://www.crunchbase.com/person/lew-moorman", "snippet": "Lew Moorman is co-founder and General Partner of Scaleworks, a San Antonio-based venture-equity firm investing in B2B SaaS companies."},
+   {"org": "Rackspace", "role": "Former President & Chief Strategy Officer / Board Director", "category": "business", "source_url": "https://sanantonioreport.org/where-are-they-nowfollowing-rackspaces-impact-on-san-antonio-and-the-tech-world/", "snippet": "Moorman spent 13 years at Rackspace as Board Director, President and Chief Strategy Officer as the company grew to $2B in annual sales."}
+  ]
+ },
+ {
+  "donor_id": "53898dd1-46da-40ef-90a4-e936088db24e",
+  "name": "Hill, Justin",
+  "resolved_employer": "Hill Law Firm (Founder / personal injury attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Justin A. Hill founded Hill Law Firm in San Antonio in 2015; personal-injury plaintiff's attorney (Baylor Law JD, Texas A&M BBA). Matches occupation 'Attorney', employer 'Hill Law Firm', zip 78216.",
+  "source_url": "https://www.jahlawfirm.com/justin-hill/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Trial Lawyers Association", "role": "President (2023)", "category": "business", "source_url": "https://www.jahlawfirm.com/justin-hill/", "snippet": "Firm bio lists Hill as President of the San Antonio Trial Lawyers Association (2023)."},
+   {"org": "Texas Trial Lawyers Association", "role": "Board of Directors; Vice-President of CLE", "category": "business", "source_url": "https://www.jahlawfirm.com/justin-hill/", "snippet": "Serves on the TTLA Board of Directors and as Vice-President of Continuing Legal Education."}
+  ]
+ },
+ {
+  "donor_id": "43d8b00c-d783-4d1a-9fb8-bf08077f26d3",
+  "name": "Morales, JD",
+  "resolved_employer": "Wells Fargo (compliance officer)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "No distinct public profile confirmable for this individual (fec_donation_count 0; several unrelated Morales names at Wells Fargo SA). Industry classified by stated employer 'Wells Fargo' + occupation 'Compliance officer' only (employer fallback); person not independently verified.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4104ad71-9860-443c-821c-85395212d3b0",
+  "name": "Reyna, Sylvia",
+  "resolved_employer": "University of Texas at Austin (Assistant Professor of Practice, College of Education)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Sylvia R. Reyna, Assistant Professor of Practice at UT Austin College of Education; longtime SA/TX educator (Associate Superintendent, Edgewood ISD; Chief roles at Dallas & Fort Worth ISD); SA Women's Hall of Fame 2016. Matches occupation 'Educator', employer 'University of Texas at Austin'.",
+  "source_url": "https://www.incarnatewordhs.org/announcement-detail?pk=610965",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "National PTA", "role": "Leadership roles", "category": "civic", "source_url": "https://www.incarnatewordhs.org/announcement-detail?pk=610965", "snippet": "Bio notes 'Leadership roles within the National PTA' and involvement in various civic organizations."}
+  ]
+ }
+]
