@@ -928,7 +928,10 @@ sort orders diverge for that result set), which is why five of seven members
 were affected and Jones and McKee-Rodriguez were not. If you ever touch the
 pager, re-verify against the portal Grand Total, not against row counts.
 
-**D19 — `filer_slug` is the searched member, not the recipient.** A portal
+**D19 — `filer_slug` is the searched member, not the recipient.** *(Fixed on
+the `gavito` branch via `RECIPIENT_ALIASES`; the note stays because the shape
+recurs for every new member — register their recipient string or the generator
+will warn.)* A portal
 search returns every row where the name appears, including contributions the
 member *made to other candidates*. Those rows land under their `filer_slug` and
 are counted as money they raised. The `recipient` column is the discriminator —

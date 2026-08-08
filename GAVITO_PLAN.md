@@ -64,13 +64,15 @@ historical record only). This doc records member-specific facts and deltas.
   **pool 405 → 21 batches**. Spend **$76.89** ($3.66/batch, under the
   $3.70–$4.50 guide band). 0 failures. Applied: 303 resolved, 102 left null,
   89 affiliations added (civic 44, business 28, political 17).
-- **Build (§10):** $391,782 raised, 649 donors, 67.6% employer-affiliated,
-  1,221 contributions, 9 firms with 3+ donors, 69% Dem FEC lean.
+- **Build (§10):** $390,632 raised, 647 donors, 67.5% employer-affiliated,
+  1,216 contributions, 9 firms with 3+ donors, 69% Dem FEC lean.
+  (Pre-recipient-filter figures were $391,782 / 649 / 67.6%; see the
+  recipient-misattribution section below.)
   `Built 2 election cycles` — matches the intended two-tab shape.
-  Cycles: 2023 Run $151,867 / 400 donors / 68.2% empl;
-  2025 Re-election $170,914 / 243 donors / 65.3% empl (delta −2.9 pts).
+  Cycles: 2023 Run $150,717 / 398 donors; 2025 Re-election $170,914 /
+  243 donors.
   Rebuild is byte-identical apart from `generated_at`.
-- **Landing flip (§11):** live card $392K / 649 / 67.6%, 4 topGroups.
+- **Landing flip (§11):** live card $391K / 647 / 67.5%, 4 topGroups.
   The pre-existing placeholder card had `"race": "Elected June 2025"`, which is
   wrong for her — hand-corrected to `"Re-elected May 2025"` (`_update_landing.py`
   rewrites only the stats fields, never `race`).
@@ -114,3 +116,36 @@ per-member gaps are entirely `Interest, Credits, Gains, Refunds, And
 Contributions Returned To Filer` rows, which `sa_normalize` leaves unmapped and
 therefore correctly excludes from contribution totals (viagran $54.56, kaur
 $1,900.00, castillo $1,614.50, galvan $112.50, all matching to the cent).
+
+## Recipient misattribution found and fixed on this branch
+
+A portal name search returns every row the name appears on — including
+contributions the member *made to other candidates*. Those rows carry the
+searched member's `filer_slug`, so they were counted as money raised. Gavito
+had five such rows ($1,150 to Nirenberg, Landin, Johnson and Garcia, all
+pre-2023), which rendered four phantom year-bars for a candidate whose first
+race was 2023.
+
+`recipient` is the discriminator, but **not** by equality against the member's
+name — Jones's own money spans `Gina Jones` (4,482 rows) and
+`Gina Ortiz Jones` (3 rows / $510), so an equality test would have deleted
+legitimate rows. `generate_profile_data.RECIPIENT_ALIASES` registers each
+member's own campaign string(s); unregistered slugs are deliberately left
+unfiltered but warn loudly.
+
+Effect: gavito −$1,150, mckeerodriguez −$510, castillo −$425, viagran −$350
+(including $275 to her sister Rebecca), kaur −$200, galvan −$179; jones and
+mungia unchanged. Her timeline now runs 2023–2026.
+
+## Known issues left alone (pre-existing, not introduced here)
+
+- The stat-card row under the cycle selector does not follow the selected
+  cycle — the hero does, the cards stay all-time. Verified identical on the
+  live Castillo page, and this branch never touches `profile_template.html`.
+- `fec_enrich.py` prints the full request URL on error, which embeds
+  `api_key=` in cleartext, so a 504 storm writes live FEC keys into stdout.
+  Keys are correctly kept out of git via `.env`; only the error output leaks.
+- Six `contribution_type` values remain unmapped by `sa_normalize.py`
+  (loans, credit-card expenditures, returned contributions, committee
+  notices). All are correctly excluded from contribution totals, but they are
+  invisible rather than explicitly categorised.
