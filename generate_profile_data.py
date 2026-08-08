@@ -137,6 +137,17 @@ CANDIDATE_CYCLES = {
          'start_year': None, 'end_year': None,
          'start_date': '2023-07-01', 'end_date': '2025-06-30'},
     ],
+    # Marina Alderete Gavito (D7): won the June 10, 2023 runoff over Dan
+    # Rossiter; re-elected outright May 3, 2025. Two-tab 2023 class, same shape
+    # as Kaur (the other 2023-class member) rather than the 2021 three-tab
+    # members. Files as 'Marina Gavito' despite the compound display surname.
+    'gavito': [
+        {'label': '2023 Run', 'election_year': 2023,
+         'start_year': None, 'end_year': None, 'end_date': '2023-06-30'},
+        {'label': '2025 Re-election', 'election_year': 2025,
+         'start_year': None, 'end_year': None,
+         'start_date': '2023-07-01', 'end_date': '2025-06-30'},
+    ],
 }
 
 # Earliest contribution_year included in a profile (default 2018 = start of
@@ -216,6 +227,7 @@ OFFICE_OVERRIDE = {
     'viagran': 'San Antonio City Council · District 3',
     'mungia': 'San Antonio City Council · District 4',
     'castillo': 'San Antonio City Council · District 5',
+    'gavito': 'San Antonio City Council · District 7',
     'shaikh': 'San Antonio City Council · 2025 District 8 Candidate',
 }
 
