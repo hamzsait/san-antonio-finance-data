@@ -4,6 +4,14 @@ First seat of the council rollout after Mayor Jones. This branch runs the full
 per-member conveyor and doubles as the template plan for every later member
 (swap the slug): the same steps, in the same order, produce a live profile.
 
+> **Superseded as the template (2026-08-08).** Use `ADD_COUNCIL_MEMBER.md`.
+> This doc is kept as the historical Kaur record. Two steps below have drifted
+> and are corrected in that guide: the TEC crosswalk is no longer out of scope
+> (it is mandatory, and skipping it fails silently), and step 3's apply must
+> now glob **every** `*_research/` dir, not just Jones. Later per-member docs
+> that say "same conveyor as KAUR_PLAN.md" should be read against the new
+> guide.
+
 ## Conveyor steps
 
 1. **ETL** — `fetch_data.py --slug kaur --start-year 2016` (detail harvest on
@@ -14,8 +22,10 @@ per-member conveyor and doubles as the template plan for every later member
    existing Jones/Galvan enrichment; preservation block keeps the 19
    enrichment columns through the rebuild).
 3. **Industry rules** — `sa_industry_rules.py` (local filer-reported employer
-   first, then FEC-derived; re-run `jones_research/_apply_jones_results.py`
-   after, since rules reset non-manual resolutions and apply only fills NULLs).
+   first, then FEC-derived; re-run **every** `*_research/_apply_*_results.py`
+   after — not just Jones, which was the only research dir when this was
+   written — since rules reset non-manual resolutions and apply only fills
+   NULLs).
 4. **FEC enrichment** — `fec_enrich.py --workers 8` for the new (unmatched)
    donors; partisan lean + employer strings. Quota-bound, resumable.
 5. **Scrub** — `kaur_research/` ported from `jones_research/` (prep → Opus
@@ -33,7 +43,11 @@ per-member conveyor and doubles as the template plan for every later member
 
 ## Out of scope (tracked, not here)
 
-- TEC state-filings crosswalk (Austin's `texas_contributions_raw` pipeline)
+- ~~TEC state-filings crosswalk (Austin's `texas_contributions_raw` pipeline)
   is not yet ported to SA; profile queries already guard on the table's
-  existence. Port planned as its own branch so every member gets it at once.
+  existence. Port planned as its own branch so every member gets it at once.~~
+  **No longer true** — the crosswalk landed in master with Viagran. Run
+  `sa_tec_crosswalk.py --link-only` after `build_identities`. It is mandatory,
+  and because the profile query still guards on the table's existence, omitting
+  it produces empty TEC data with no error.
 - Remaining 9 council members: same conveyor, one branch each.
