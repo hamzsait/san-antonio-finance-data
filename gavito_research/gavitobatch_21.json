@@ -1,0 +1,72 @@
+[
+ {
+  "donor_id": "07894693-3eb1-449b-a4c1-d2d933484029",
+  "name": "Najvar, Shelby",
+  "zip": "23210",
+  "site_total": 100.0,
+  "gave_to": "Marina Gavito",
+  "occupations": "Management",
+  "employer_strings": "USAA",
+  "locations": "23210 Henness Pass, San Antonio, TX 78255",
+  "first_gift": "2023-03-27",
+  "last_gift": "2023-03-27",
+  "fec_partisan_lean": null,
+  "fec_donation_count": 169
+ },
+ {
+  "donor_id": "0722ae56-6685-4d87-9505-998c6ddf8059",
+  "name": "Johnson, Marcel",
+  "zip": "78006",
+  "site_total": 100.0,
+  "gave_to": "Marina Gavito",
+  "occupations": "Business Development",
+  "employer_strings": "Port San Antonio",
+  "locations": "111 Indigo Bend, Boerne, TX 78006",
+  "first_gift": "2023-02-17",
+  "last_gift": "2023-02-17",
+  "fec_partisan_lean": 0.29069767441860467,
+  "fec_donation_count": 41
+ },
+ {
+  "donor_id": "045a2b9b-a9aa-4b88-82f1-7f945dc307b3",
+  "name": "Chandler, Heather",
+  "zip": "16526",
+  "site_total": 100.0,
+  "gave_to": "Marina Gavito",
+  "occupations": "CEO",
+  "employer_strings": "The IMG Studio",
+  "locations": "16526 Loma Landing, Helotes, TX 78023",
+  "first_gift": "2023-02-15",
+  "last_gift": "2023-02-15",
+  "fec_partisan_lean": 1.0,
+  "fec_donation_count": 1
+ },
+ {
+  "donor_id": "030d8e55-63d3-4e6a-81b8-76b371eac12b",
+  "name": "Maldonado, Ana",
+  "zip": "78249",
+  "site_total": 100.0,
+  "gave_to": "Marina Gavito",
+  "occupations": "Director",
+  "employer_strings": "USAA",
+  "locations": "7630 Eagle Ledge, San Antonio, TX 78249",
+  "first_gift": "2023-03-02",
+  "last_gift": "2023-03-02",
+  "fec_partisan_lean": 1.0,
+  "fec_donation_count": 28
+ },
+ {
+  "donor_id": "0092ce1a-a93e-47de-abb3-384ad23da486",
+  "name": "Gonzalez, Adela",
+  "zip": "18610",
+  "site_total": 100.0,
+  "gave_to": "Marina Gavito",
+  "occupations": "Retired",
+  "employer_strings": "n/a",
+  "locations": "18610 Tuscany Stone, San Antonio, TX 78258",
+  "first_gift": "2023-03-29",
+  "last_gift": "2023-03-29",
+  "fec_partisan_lean": 1.0,
+  "fec_donation_count": 202
+ }
+]

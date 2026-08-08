@@ -1,0 +1,222 @@
+[
+ {
+  "donor_id": "64ce3a85-9912-447a-bc69-2f4b7b3a40fd",
+  "name": "Hamilton, Benjamin",
+  "resolved_employer": "LPA Inc. (architecture/design firm, San Antonio office) - Design Coordinator",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Design Coordinator at LPA Inc. San Antonio since 2015, B.Arch from UT Austin; matches employer, title, and SA location (zip 78248).",
+  "source_url": "https://theorg.com/org/lpa/org-chart/benjamin-hamilton",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "645de223-ed02-4b77-bdeb-892206b5acad",
+  "name": "Borrego, Vianey",
+  "resolved_employer": "University of Texas at Austin, Business & Financial Services (finance/accounting role)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Matches a Vianey Borrego (now Vianey Chavarria) in UT Austin Business & Financial Services, an accounting/finance role in Austin; married-name change and slight title variance keep confidence medium.",
+  "source_url": "https://business.financials.utexas.edu/bfs/about-us/leadership-and-organization",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "63a71083-b963-4fba-8940-64fc872cedf0",
+  "name": "Longoria, Jason",
+  "resolved_employer": "Central Catholic High School, San Antonio - President",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "CCHS class of '96, named School President; prior Director of Advancement, 14 years at AT&T, St. Mary's University grad. Employer, title, and SA area (zip 78023) all corroborate.",
+  "source_url": "https://www.cchs-satx.org/apps/news/article/1576623",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "637f4bca-463c-4fae-95ff-19a28beadff7",
+  "name": "Poppoon, Steve",
+  "resolved_employer": "Louis Poppoon Development & Consulting, Ltd. (real estate developer, multifamily/affordable housing) - President",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "President/attorney of Louis Poppoon Development & Consulting at 1618 Lockhill Selma, San Antonio (exact address/zip 78213 match); 30+ years multifamily development, Syracuse Law grad.",
+  "source_url": "https://www.lpdevelop.com/principals",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "624b777f-84fd-45fc-9909-bd5cbae39826",
+  "name": "McDonald, Dylan",
+  "resolved_employer": "Alamo Concrete Products Company - Corporate/General Counsel (attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Dylan John McDonald, Texas-licensed attorney (Texas Tech Law JD 2015), in-house counsel at Alamo Concrete Products; State Bar office address 6055 W Green Mountain Rd matches donor record (zip 78266).",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=%2FCustomsource%2FMemberDirectory%2FMemberDirectoryDetail.cfm&ContactID=346664",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "60a9164a-eaae-497f-9312-b3da73f5bcb6",
+  "name": "Noriega, Gerry",
+  "resolved_employer": "Gerardo Noriega Architect LLC (GNA Architecture) - President/Principal architect",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Gerardo 'Gerry' Noriega, AIA, is President/Principal of GNA Architecture (Gerardo Noriega Architect LLC), a minority-owned San Antonio firm; Texas A&M B.Arch, 25+ yrs experience. Matches employer and San Antonio location on donor record.",
+  "source_url": "https://www.gn-architect.com/gerry",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5dfc85ba-0c4c-4b9a-9e1e-f47ca38d9513",
+  "name": "Avila, William",
+  "resolved_employer": "Bracewell LLP - public finance partner (municipal bond attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "William T. 'Bill' Avila is a public finance partner in Bracewell LLP's San Antonio office; municipal bond counsel, first Mexican American member of the National Association of Bond Lawyers. Matches employer and city on donor record.",
+  "source_url": "https://bracewell.com/people/william-t-avila",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5de67e63-03be-45be-b95e-c630073b8e73",
+  "name": "Conlin, Brent",
+  "resolved_employer": "Espada Real Estate - Managing Partner (commercial real estate development/investment)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Brent Conlin is Managing Partner of Espada Real Estate (San Antonio) since its 2012 inception; 30+ yrs CRE experience, formerly Trammell Crow Company; Texas A&M BBA and MS in Land & Real Estate Development. Matches employer/role on donor record.",
+  "source_url": "https://espadarealestate.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5d2d54a8-4a0d-48f3-95e7-25bff5a61f75",
+  "name": "Nooner, Sean",
+  "resolved_employer": "Nooner Holdings, Ltd. - President/General Partner (commercial/retail real estate development)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Sean Nooner is principal/general partner of Nooner Holdings, Ltd., a San Antonio (78249) commercial real estate firm; reported ~$32M in retail property along West Loop 1604 N as of 2019 and backs area shopping centers. Matches employer/zip on donor record.",
+  "source_url": "https://finance.yahoo.com/news/investor-backs-san-antonio-shopping-113300631.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5d2ccccf-0e56-4aa7-8ba2-45f21e28883a",
+  "name": "Gavito III, Manuel",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed as retired, PO Box in Brownsville, TX (78523). A Manuel G. Gavito is recorded living in Brownsville, but no former career could be confirmed. Shares surname 'Gavito' with the councilwoman (possible family), but no relationship is documented in public records.",
+  "source_url": "https://www.mylife.com/manuel-gavito/e161234208162",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5c5e97e6-1abd-4792-a302-b9ea6995d414",
+  "name": "Connor, Kristen",
+  "resolved_employer": "Veterans Health Administration (VA), Analyst",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Listed as an analyst with VA/VHA in San Antonio (78255). Very high FEC donation count (93) is consistent with a small-dollar ActBlue recurring donor pattern, but no specific advocacy-PAC or issue-org contribution could be confirmed; identity not distinguishable from same-name individuals elsewhere.",
+  "source_url": "https://www.va.gov/south-texas-health-care/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5b355c2e-b69f-48cd-8723-54f61695079c",
+  "name": "Honigblum, Avery",
+  "resolved_employer": "Self-employed (nature of business not documented)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "People-search records show an Avery E. Honigblum associated with the San Antonio 78209 area as a relative of Albert Honigblum; the donor address 401 Austin Highway is a commercial/business location. No occupation, board, or advocacy affiliation documented in public records.",
+  "source_url": "https://nuwber.com/person/563aa92a98f8a849c1d66e64",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "569f25e6-49cb-4fed-b1cd-426f2df85307",
+  "name": "Shupp, Jessica",
+  "resolved_employer": "Self-employed (nature of business not documented)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "New Braunfels (78130) resident listed as self-employed. Only same-surname business found nearby is Derek Shupp Construction Services LLC (a different person, relationship unconfirmed). No occupation detail, LinkedIn/bio, or advocacy affiliation could be confirmed for Jessica Shupp.",
+  "source_url": "https://bestcompanytexas.com/company/32050304115/derek-shupp-construction-services-llc.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5661301a-8db7-4237-8810-43e8c5c134c7",
+  "name": "Villagomez, Jose",
+  "resolved_employer": "Villagomez Engineering Company (owner/director; Jose Villagomez, P.E.)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Jose Villagomez, P.E., is director/owner of Villagomez Engineering Company, a San Antonio civil/structural engineering firm (est. 2011); Texas A&M graduate. Corroborated by CorporationWiki, Manta, LinkedIn, and TDLR project records. No lobbyist registration or issue-advocacy affiliation found.",
+  "source_url": "https://www.linkedin.com/in/jose-villagomez-p-e-31424272/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "519a4947-8021-48a3-8664-7a48d32c1d74",
+  "name": "Gavito, Manual",
+  "resolved_employer": "Retired (former career not identifiable in public records)",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Matches Manuel G. Gavito of Brownsville, TX, consistent with donor PO Box in Brownsville (78523) and 'Retired' occupation; same person as the 'Gavito III, Manuel' record in this batch and likely a relative of councilwoman Marina Alderete Gavito. Prior profession not documented. No advocacy-PAC or lobbyist affiliation found.",
+  "source_url": "https://www.mylife.com/manuel-gavito/e161234208162",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "509f05b6-0e17-4972-8724-e9e5b9b70b61",
+  "name": "Alvarez, Giselle",
+  "resolved_employer": "Campos Family Dental P.C. (dentist, DDS)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Giselle Alvarez, DDS, is a general/cosmetic dentist at Campos Family Dental in San Antonio; born and raised in Brownsville, UTSA and UTHSCSA grad. Matches employer 'Campos Dental' and San Antonio location.",
+  "source_url": "https://www.camposdentalsa.com/en/doctorslist/2016/11/9/dr-giselle-alvarez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4eae016a-9cbc-4bdd-9a38-1a5004041bfd",
+  "name": "Bagnall, Andrew",
+  "resolved_employer": "Abiso Real Estate Services, LLC (Vice President / TREC-licensed commercial real estate broker)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Andrew Bagnall is a TREC-licensed commercial real estate broker and Vice President at Abiso Real Estate Services in San Antonio (78209 area); listed on LoopNet/HAR/Showcase. Matches employer and zip.",
+  "source_url": "https://www.loopnet.com/listing-contacts/22208489/andrew-bagnall/rdqqvt3b",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4e48304f-f446-4980-abc3-e05ddc001ff9",
+  "name": "Rasamallu, Vamsi",
+  "resolved_employer": "USAA (Software Engineer); also owner of Sunshine Montessori Academy, San Antonio",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Vamsi Rasamallu is a software engineer at USAA (financial services) in San Antonio; LinkedIn/ZoomInfo also list him as owner of Sunshine Montessori Academy. Address 18015 Granite Hill Dr, 78255 matches donor record.",
+  "source_url": "https://www.zoominfo.com/p/Vamsi-Rasamallu/2363899731",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4d7b20bb-5417-437e-8d85-3fd2f270019f",
+  "name": "Noyola, Yulianna",
+  "resolved_employer": "OP 10.33 (Opportunity 10.33), a Brownsville-based anti-poverty organization founded by Mike Hernandez III (Administrative Assistant)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Employer 'OP10.33' resolves to Opportunity 10.33, a Cameron County anti-poverty initiative founded by philanthropist Mike Hernandez III in Brownsville (78526). Individual not separately corroborated online, but employer and Brownsville zip match.",
+  "source_url": "https://m.facebook.com/Opportunity1033/photos/brownsville-tx-named-the-poorest-city-in-america-houston-chronicleaccording-to-u/440434762831758/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4c7d6e69-6d40-415a-b61d-815bfe8879b0",
+  "name": "Conger, Chris",
+  "resolved_employer": "Owner of Smoke Shack BBQ (3710 Broadway), the Pigpen bar, and adjacent meat market; San Antonio chef/entrepreneur",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Chris Conger is the chef-owner of Smoke Shack BBQ at 3710 Broadway (across from the Witte Museum), plus the Pigpen bar and a meat market; formerly cooked at Dallas' SMOKE. Exact address and 'Chef/Entrepreneur, Self' match.",
+  "source_url": "https://www.sacurrent.com/food-drink/chris-conger-opens-the-pigpen-behind-smoke-shack-2495525/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

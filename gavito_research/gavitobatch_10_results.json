@@ -1,0 +1,237 @@
+[
+ {
+  "donor_id": "4b01dbc4-3061-4723-9592-a240d1bbaff6",
+  "name": "Addison, Yvonne",
+  "resolved_employer": "Addison Prime",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "President/founder of Addison Prime, a San Antonio commercial construction project-management/GC firm; UTSA mechanical-engineering grad; matches occ 'President' and NW-side zip 78023. Civic board roles (Workforce Solutions Alamo, UTSA) only; no ideological PAC or lobbyist records.",
+  "source_url": "https://www.workforcesolutionsalamo.org/board-member/yvonne-k-addison/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4a081693-90fd-40bc-b342-a122e516bcbe",
+  "name": "VanDePutte, Henry",
+  "resolved_employer": "Meals on Wheels Central Texas",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Henry P. Van de Putte III, President/CEO of Meals on Wheels Central Texas (matches occ 'Exec Dir', employer 'Meals on Wheels'); previously director of operations at family firm Dixie Flag, tied to the Van de Putte family (ex-Sen. Leticia Van de Putte). No ideological PAC or TEC lobbyist registration found.",
+  "source_url": "https://www.mealsonwheelscentraltexas.org/about-us/article/meals-on-wheels-central-texas-names-henry-van-de-putte-as-new-president-ceo",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "475cd663-4281-4879-a644-df392ab09a60",
+  "name": "Mitchell, Gregory",
+  "resolved_employer": "Silver Eagle Beverages, LLC",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Greg Mitchell is President of Silver Eagle Beverages, San Antonio's Anheuser-Busch beer/beverage wholesale distributor; matches occ 'Management', employer, and Alamo Heights zip 78209. No ideological PAC or TEC lobbyist records found.",
+  "source_url": "https://silvereaglebeverages.com/2024/07/sale-of-silver-eagle-beverages-now-complete/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "45d78440-2678-4659-afa4-7b19b871e3b5",
+  "name": "Galonsky, Moshe",
+  "resolved_employer": "Self (key principal, HM USA Trading, LLC)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Moshe Galonsky, Brownsville TX; listed as key principal of HM USA Trading LLC at 25 Sam Perl Blvd — matching donor's '25 East Sam Pearl Blvd' (wholesale durable goods). Matches occ 'Consultant'/'Self'. No public policy-advocacy profile, ideological PAC, or TEC lobbyist record found; no affiliation inferred from surname.",
+  "source_url": "https://www.mylife.com/moshe-galonsky/e305212680216",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3b29d1ee-ee98-44f7-9d1c-0eeff386995a",
+  "name": "Kelly, Ashley",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired, Austin/West Lake Hills zip 78746; FEC metadata notes 21 donations with partisan_lean 1.0 (consistent Democratic small-dollar giving, likely ActBlue). Common name could not be uniquely corroborated to a specific individual; no specific ideological PAC or TEC lobbyist record identified.",
+  "source_url": "https://www.opensecrets.org/donor-lookup/results?zip=78746",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3a53fa32-4889-4935-b97f-170769e9b08d",
+  "name": "Lovelady, Trevor",
+  "resolved_employer": "Abiso Real Estate Services, LLC",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Confirmed as VP-Leasing / commercial real estate broker at Abiso Real Estate Services in San Antonio via LoopNet, Crexi, and LinkedIn; matches donor occupation and employer. No ideological PAC or TX lobbyist ties found.",
+  "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/trevor-lovelady/j8fz7g5b",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "39c9d0dc-7c42-4130-a837-60270fff9e1c",
+  "name": "Biglari, Shawn",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Person at 8 Inwood Mist, San Antonio 78248 appears in public-records aggregators, but employer 'SB' is too ambiguous to resolve. No public link to Sardar Biglari's Biglari Holdings found; that connection is unsupported by public record. No FEC/PAC or TX lobbyist match confirmed.",
+  "source_url": "https://radaris.com/p/Shawn/Biglari/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "36f7df14-a809-4abc-8a8a-2380b5d8a8df",
+  "name": "Martinez, Sandra",
+  "resolved_employer": "Perfected Claims",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Perfected Claims is a San Antonio-based litigation-support / mass-tort case-acquisition service for law firms; Pearl-district address consistent with donor's 312 Pearl Parkway. Individual 'Sandra Martinez, Consultant' not separately confirmed on team pages (common name). No ideological PAC or TX lobbyist record found.",
+  "source_url": "https://perfectedclaims.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "362ecbad-7dc3-4128-a0cc-e26172545fec",
+  "name": "Sanchez, Jason",
+  "resolved_employer": "San Antonio Police Officers' Association (SAPOA) PAC",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Confirmed as Treasurer of SAPOA (police union) / its PAC via KENS5 contract-negotiation coverage and an ACT4SA ethics-complaint report noting he filed a 2021 Prop B expenditure report. Address matches SAPOA union hall area (410 Loop). No individual TX lobbyist registration confirmed for him personally.",
+  "source_url": "https://act4sa.org/complaint-filed-against-the-san-antonio-police-officers-association-sapoa-for-violating-texas-ethics-commission-rule/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Police Officers' Association (SAPOA) PAC", "role": "Treasurer", "category": "political", "source_url": "https://sapoa.org/about/political-action/", "snippet": "SAPOA PAC 'represents the concerns of police officers and their families to elected officials at all levels of government'; Sanchez identified as its treasurer in coverage of city contract talks and a Prop B campaign-finance filing."}
+  ]
+ },
+ {
+  "donor_id": "360e1411-d382-4757-b31d-aa177f982479",
+  "name": "Gavito, Eugene",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as Retired; shares candidate's married surname (Gavito), suggesting a possible relative, but no public record confirms the relationship. Address shows a city/zip mismatch (listed 'San Antonio' with 78501, a McAllen-area ZIP). No FEC/PAC or TX lobbyist match found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "32d849c8-e19a-4257-b5e5-4b5154194346",
+  "name": "Barrera, Mario",
+  "resolved_employer": "Norton Rose Fulbright US LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Mario A. Barrera, labor & employment attorney ('Of Counsel') in Norton Rose Fulbright's San Antonio office; 30+ yrs, UT Law 1984. Corroborated by firm bio, occupation, and San Antonio location matching zip 78212. No AIPAC/J Street/NRA/oil-gas/defense PAC or TX lobbyist ties found; documented civic board seats only.",
+  "source_url": "https://www.nortonrosefulbright.com/en-us/people/1014812",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Chamber of Commerce", "role": "Board member (2007-2018)", "category": "civic", "source_url": "https://www.nortonrosefulbright.com/en-us/people/1014812", "snippet": "Firm bio lists 'San Antonio Chamber of Commerce Board (2007-2018)' among his community affiliations."},
+   {"org": "SAISD Citizens Oversight Committee", "role": "Chair (2011-2016)", "category": "civic", "source_url": "https://www.nortonrosefulbright.com/en-us/people/1014812", "snippet": "Bio lists 'San Antonio Independent School District Citizens Oversight Committee Chair (2011-2016).'"}
+  ]
+ },
+ {
+  "donor_id": "31b4e919-ad8e-4a83-b6fc-c01c823a97f9",
+  "name": "Douglas, Cliffton",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Clifton F. Douglass III, managing partner of Linebarger's San Antonio office and member of the firm's Management Committee. Occupation 'Managing Partner' and firm match the donor record. Firm is a national government-debt-collection firm with heavy public-contract lobbying; Douglass appears in TEC's 2005 registered-lobbyist list. No tracked-spectrum PAC ties found.",
+  "source_url": "https://www.lgbs.com/attorney/clifton-f-douglass-iii/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Ethics Commission lobbyist registry", "role": "Registered lobbyist (2005)", "category": "political", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2005/2005_Lobby_List-Lobbyist_Only.pdf", "snippet": "Clifton F. Douglass III listed as a registered TX lobbyist (2005) at 711 Navarro Ste 300, San Antonio 78205."}
+  ]
+ },
+ {
+  "donor_id": "3015d5a6-ad15-4271-898d-c354267c392f",
+  "name": "Robertson, Dale",
+  "resolved_employer": "E. Dale Robertson (solo law practice)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "E. Dale Robertson, solo criminal-defense/appellate attorney in Olmito, TX; State Bar record shows exact address 'P O Box 622, Olmito, TX 78575-0622' matching the donor record, licensed since 1976. Self-employed occupation matches. Dataset notes partisan_lean 0.74 but no AIPAC/J Street/NRA/oil-gas/defense PAC or TX lobbyist registration found.",
+  "source_url": "https://lawyers.lawyerlegion.com/texas/e-dale-robertson-28000542",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2b4bd08a-edfa-4865-b0c1-487295f88580",
+  "name": "VELESIOTIS, NICOLE",
+  "resolved_employer": "Santana Group / Integrated Human Capital (IHC)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Nicole Navarro Velesiotis, VP of Santana Group and of Integrated Human Capital (staffing/outsourcing firm), San Antonio; daughter of Santana Group CEO Rosa Santana. Corroborated by firm bio and San Antonio location (78212). No tracked-spectrum PAC or TX lobbyist ties found.",
+  "source_url": "https://www.santanagrp.com/nicole-navarro-velesiotis/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Restore Education", "role": "Board member", "category": "civic", "source_url": "https://www.santanagrp.com/nicole-navarro-velesiotis/", "snippet": "Company bio lists her as a 'Board member of Restore Education' and supporter of San Antonio nonprofits."}
+  ]
+ },
+ {
+  "donor_id": "2a9101b6-c693-405f-8ce9-d9b65390319c",
+  "name": "Gavito, Kristin",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed occupation 'stay at home,' Boerne TX (Bridlewood Trail); shares surname with candidate Marina Alderete Gavito and is likely a relative, but no public profile, employer, FEC PAC record, or TX lobbyist registration could be found. Not conflated with Tory Gavito (unrelated TX activist/attorney).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2a5988ac-2283-4999-8b07-871b77abe5c5",
+  "name": "Petch Wohlfarth, Brittany",
+  "resolved_employer": "Homemaker (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Distinctive compound name matches a San Antonio woman featured in a United Way of San Antonio economic-mobility story. Self-report lists occupation 'Homemaker' (downtown 78205). No employer, board seat, or advocacy role documented; no public-figure spouse found at 237 W Travis. Identity-to-donor match not firmly corroborated. No ideological PAC or TX lobbyist record.",
+  "source_url": "https://www.uwsatx.org/story/brittanys-story/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2968cdac-5fe4-4ccb-957f-a6c3d4b782b4",
+  "name": "Frost, Kelley",
+  "resolved_employer": "Retired (Dr. Kelley Frost, mental-health professional / owner of Frost at Home)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Kelley Frost of Alamo Heights (78209 / 520 Geneseo Rd matches), wife of Pat Frost, President of Frost Bank and member of the T.C. Frost founding family. Licensed mental-health professional and longtime SA philanthropist. 56 FEC donations with a Republican-leaning pattern (partisan_lean 0.74); no specific ideological/foreign-policy PAC identified.",
+  "source_url": "https://78209magazine.com/frost-family-embodies-the-spirit-of-09/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Frost Bank (Cullen/Frost family)", "role": "Family member (spouse of bank president Pat Frost)", "category": "business", "source_url": "https://78209magazine.com/frost-family-embodies-the-spirit-of-09/", "snippet": "Pat Frost serves as President of Frost Bank; the family has shaped San Antonio for over 150 years."},
+   {"org": "Children's Hospital of San Antonio Foundation", "role": "Board member", "category": "civic", "source_url": "https://78209magazine.com/frost-family-embodies-the-spirit-of-09/", "snippet": "Kelley sits on boards including the Children's Hospital of San Antonio Foundation, St. Mary's University, and the Mays Cancer Center."},
+   {"org": "Mays Cancer Center (UT Health San Antonio)", "role": "Board of Governors", "category": "civic", "source_url": "https://cancer.uthscsa.edu/news-and-stories/gift-through-estate-helps-ensure-bright-future", "snippet": "Pat and Kelley Frost were asked in 1999 to serve on the Board of Governors for the cancer center."}
+  ]
+ },
+ {
+  "donor_id": "27e08d8a-c04f-436d-b9d7-0d9d1bbc1356",
+  "name": "Yantis, John",
+  "resolved_employer": "Yantis Land LLC / Yantis Company (San Antonio land-development & civil construction family)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Principal of the multi-generational Yantis civil-construction/land-development family (2806 W Bitters is the firm's SA address; NW-side 78248). FEC records list John M. Yantis Jr., President of Yantis Company, contributing $15,000 to Trump Victory in 2016 — consistent with 70 FEC donations. Exact John-vs-firm mapping leaves identity at medium confidence.",
+  "source_url": "http://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part53.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Trump Victory (Trump/RNC joint fundraising committee)", "role": "Individual donor ($15,000, 2016)", "category": "political", "source_url": "http://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part53.html", "snippet": "John M. Yantis Jr., listed as president of Yantis Company (San Antonio), contributed $15,000 to Trump Victory on 09/28/2016."}
+  ]
+ },
+ {
+  "donor_id": "26f08af3-0452-4042-8a2e-59ccc0e85e67",
+  "name": "Ellis, William",
+  "resolved_employer": "Sirell Properties (Founder & President)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "William T. (Bill) Ellis, Founder/President of Sirell Properties, a San Antonio commercial real-estate firm started in 2013; previously President at Concord Properties and developed The Quarry Golf Club. Fair Oaks Ranch 78015 address matches Sirell's market area. No board/advocacy roles, lobbyist registration, or ideological PAC ties documented.",
+  "source_url": "https://www.sirell.com/william-t-ellis/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "26e94fa1-574a-45ec-b9bc-14372b0f6cbc",
+  "name": "Shah, Umang",
+  "resolved_employer": "Baptist Health System / Baptist Heart & Vascular (interventional cardiologist)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Umang H. Shah, MD, FACC — invasive/interventional cardiologist in San Antonio (NW-side 78248 matches), Vice Chair of the Cardiovascular Service Line for Baptist Health System and Chief of Cardiology at Saint Luke's Baptist Hospital ('Baptist Medical Network' matches). Clinical-leadership roles, not policy advocacy. partisan_lean 1.0 across only 8 FEC donations; no specific ideological PAC identified.",
+  "source_url": "https://www.baptisthealthsystem.com/find-a-doctor/detail/umang-shah-1376582460",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

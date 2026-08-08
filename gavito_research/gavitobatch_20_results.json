@@ -1,0 +1,234 @@
+[
+  {
+    "donor_id": "567844a3-30ea-4f03-aadd-8860b3afe46d",
+    "name": "Rodriguez, Melessa",
+    "resolved_employer": "Marketing Manager (brand marketing), USAA",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Melessa C. Rodriguez, San Antonio native, is a Marketing Manager handling brand marketing at USAA (matches employer + 78209); B.S. Communication Studies/Political Communication, UT Austin; CHCI 2009 congressional intern (Rep. Ruben Hinojosa, TX-15).",
+    "source_url": "https://chci.org/alumni/melessa-c-rodriguez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Congressional Hispanic Caucus Institute (CHCI)", "role": "Alumna, Summer 2009 Congressional Internship (office of Rep. Ruben Hinojosa, D-TX)", "category": "political", "source_url": "https://chci.org/alumni/melessa-c-rodriguez/", "snippet": "Alumni of Summer 2009 Congressional Internship Class, worked for Congressman Ruben Hinojosa, TX-15."},
+      {"org": "SA Hispanic Chamber of Commerce, Latina Leadership Institute", "role": "Steering committee member", "category": "civic", "source_url": "https://www.sahcc.org/sahcc-s-latina-leadership-institute-announces-members-of-2023-class", "snippet": "Serves as a steering committee member of the Latina Leadership Institute, which aims to increase Latinas in leadership."}
+    ]
+  },
+  {
+    "donor_id": "4bd58fcc-ea67-4983-a63c-6562a6085c2d",
+    "name": "Lugalia-Hollon, Michelle",
+    "resolved_employer": "Lead consultant, Layers of Change LLC (also Chief Strategy Officer, Alamo Colleges District; former Director of Policy, Mayor Nirenberg)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Michelle Lugalia-Hollon runs Layers of Change (org-change consulting), matches 78201; Harvard SPH/UChicago; former City of SA mayor's policy director; now Alamo Colleges CSO. Notably joined the San Antonio Report board of directors alongside Marina Gavito.",
+    "source_url": "https://sanantonioreport.org/san-antonio-report-board-michelle-lugalia-hollon-marina-gavito/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Report", "role": "Board of directors member", "category": "civic", "source_url": "https://sanantonioreport.org/san-antonio-report-board-michelle-lugalia-hollon-marina-gavito/", "snippet": "Lugalia-Hollon, Gavito join San Antonio Report board of directors."},
+      {"org": "United Way of San Antonio", "role": "Public Policy Committee Vice-Chair", "category": "civic", "source_url": "https://www.zoominfo.com/p/Michelle-Lugalia-hollon/9996027021", "snippet": "Public Policy Committee Vice-Chair at United Way of San Antonio."}
+    ]
+  },
+  {
+    "donor_id": "466c2579-bed0-4d98-b55b-f996ee7b6f76",
+    "name": "Izaguirre, Melisa",
+    "resolved_employer": "Director of Innovation (Emerging Technologies), USAA Labs",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Melisa Izaguirre is Director of Innovation for emerging technologies at USAA Labs (matches employer 'Usaa' + 'Director Innovation'); 15+ yrs in innovation/UX/marketing. Address '10050 Axis Drive, Boerne' — the '10050' zip field is actually the street number (Boerne 78006).",
+    "source_url": "https://www.linkedin.com/in/melisaizaguirre/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "466a763f-bad3-4fd5-aafd-d6fba471dca8",
+    "name": "Smith, Ash",
+    "resolved_employer": "Finance, Valero Energy Corporation",
+    "industry": "Energy / Environment",
+    "confidence": "low",
+    "evidence": "Employer 'Valero Energy' + occupation 'Finance' corroborated only at the employer level. Best candidate is Ashley Smith, SVP Corporate Development (investor relations/M&A) at Valero in San Antonio, but 'Ash'/'Ashley' identity to this donor and Shavano Park 78230 address are unconfirmed. Per instructions, a finance role at an energy company is an employer fact only; no oil_gas affiliation recorded because executive/board/owner identity is not confirmed (and no lobbyist/advocacy role found).",
+    "source_url": "https://www.linkedin.com/in/ashley-smith-ab79a33/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3f91015b-c539-4746-80b2-5a0013cd8797",
+    "name": "Biffle, Kim",
+    "resolved_employer": "Owner, Biffle Event Productions LLC (event management/fundraising); former VP External Affairs, Witte Museum; former CEO, Alamo Angels",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Kimberly (Kim) Biffle owns Biffle Event Productions in San Antonio (matches employer 'Biffle Events'); career in nonprofit fundraising/external affairs at the Witte Museum and prior CEO of Alamo Angels (angel-investor network).",
+    "source_url": "https://www.linkedin.com/in/kim-biffle-a0152521/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3c1a59ab-961e-4faf-93e6-46df3a4687e5",
+    "name": "Ayala, Marisa",
+    "resolved_employer": "Self-employed event planner",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Self-employed event planner in Helotes, TX 78023 per filing; no distinctive public record (LinkedIn/business listing/news) could be found to confirm the specific individual among many same-named people.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "38cf757e-df8b-48e2-80be-c94a53bc1213",
+    "name": "Torres-Lopez, Francesca",
+    "resolved_employer": "Sinch (Mailgun) - Software Developer / senior software engineering technical leader",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Fran (Francesca) Torres-Lopez is a software developer at Sinch Mailgun in San Antonio, ~14 yrs experience, previously at Cisco and Rackspace; MS Electrical Engineering, St. Mary's University. Matches occupation/employer/city in filing.",
+    "source_url": "https://www.linkedin.com/in/fran-torres-lopez-b138a7a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3858a8f5-6d5b-4685-a418-4617779d6675",
+    "name": "Gonzalez, Melinda",
+    "resolved_employer": "BMI of Texas (Bariatric Medical Institute of Texas) - Physician Assistant (PA-C)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Melinda Verduzco Gonzalez, PA-C, is the physician assistant at BMI of Texas (bariatric surgery practice, San Antonio) focused on patient education; board-certified PA in San Antonio. Home in Helotes 78023 matches filing.",
+    "source_url": "https://bmioftexas.com/our-expert-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "37b15ea5-bfac-4e72-b57c-fcc82355bd9f",
+    "name": "Cortez, John-Michael",
+    "resolved_employer": "Google Fiber - Government & Community Affairs Manager (Texas)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "John-Michael Vincent Cortez, Austin (Mueller/78723) civic/public-affairs professional: Government & Community Affairs Manager at Google Fiber, former Chief of Staff/Special Assistant to Austin Mayor Adler, former CapMetro community involvement, former outreach director for Rep. Lloyd Doggett; UT lecturer. Matches Google 'Manager' + Austin address.",
+    "source_url": "https://everytexan.org/john-michael-vincent-cortez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Every Texan (formerly Center for Public Policy Priorities)", "role": "Board Chair / Board of Directors", "category": "civic", "source_url": "https://everytexan.org/john-michael-vincent-cortez/", "snippet": "Bio lists him as Chair of Every Texan (formerly Center for Public Policy Priorities), a progressive public-policy nonprofit."},
+      {"org": "City of Austin (Office of Mayor Steve Adler)", "role": "Chief of Staff / Special Assistant to the Mayor", "category": "political", "source_url": "https://everytexan.org/john-michael-vincent-cortez/", "snippet": "Served as Chief of Staff and Special Assistant to Mayor Adler, advising on transportation, planning, workforce and affordable housing."},
+      {"org": "Capital Metropolitan Transportation Authority (CapMetro)", "role": "Community Involvement / public affairs", "category": "civic", "source_url": "https://leadershipaustin.org/2015/03/02/impact-profile-john-michael-cortez/", "snippet": "Managed the Community Involvement Team for Austin's CapMetro transit agency; longtime transit/public-affairs figure."}
+    ]
+  },
+  {
+    "donor_id": "367c3f42-50aa-4dae-9ffc-eb9dbd760707",
+    "name": "Robeldo, Michele",
+    "resolved_employer": "Retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Public records tie Michele D. Robledo to 8315 Kingsway, San Antonio 78254 (filing spells it 'Robeldo'), matching the donor address; listed as retired with no identifiable prior career, so industry left null.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "34b76f8a-2cd1-400b-be5c-754a81e99d12",
+    "name": "Thompson, Karen",
+    "resolved_employer": "Unemployed (no career discoverable)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Karen Thompson at 205 Cueva Lane, San Antonio 78232 is a repeat San Antonio municipal-race donor (appears in a City of San Antonio campaign-finance report for Ron Nirenberg, 2019); self-reports as unemployed and no prior career/employer could be corroborated in public records.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000002337_20190531_104340.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2ee80179-2113-4cd6-ac55-883626a2ed59",
+    "name": "Petty, Danielle",
+    "resolved_employer": "Lillibridge Healthcare Services (Ventas subsidiary) - Senior Marketing & Leasing / Senior Leasing Analyst",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Danielle Petty is a Senior Leasing/Marketing specialist at Lillibridge Healthcare Services in San Antonio (per LinkedIn/ZoomInfo), BS from Texas State-San Marcos. Lillibridge is the property-management and leasing subsidiary of Ventas (NYSE:VTR), an S&P 500 REIT, leasing medical office buildings. Classified Real Estate (commercial/medical-office leasing role) rather than Healthcare: her function is leasing/marketing of commercial real estate assets, not clinical/health services.",
+    "source_url": "https://www.linkedin.com/in/danielle-petty-06a76b19/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2ea63353-8da8-4825-8a87-9516bc1f57ba",
+    "name": "Ramirez, Candida",
+    "resolved_employer": "Retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Candida Ramirez at 123 Padgitt Dr, San Antonio 78228, self-reports Retired. No specific individual could be confirmed in public records (common name, many same-named people in San Antonio); no former career/employer discoverable, so industry left null.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "26b422e1-00fd-4280-98c4-7af33788a082",
+    "name": "Zacharias, Emmanuel",
+    "resolved_employer": "Homemaker (self-reported); an unverified lead-database listing shows an 'Emmanuel Zacharias, Owner at Paradigm Design' (Architecture/Planning) in San Antonio, but this conflicts with the homemaker self-report and could not be confirmed as the same person",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor at 18022 Via del Arbol, San Antonio 78257 (Dominion area), self-reported Homemaker. Only public trace of the name is a Wiza scraped listing ('Emmanuel Zacharias, Owner, Paradigm Design, Architecture & Planning, San Antonio') - a low-quality lead-gen source that both conflicts with the homemaker occupation and could not be tied to this address or to any known local business family. No confirmation, so industry left null. Not connected to H.B. Zachry/Zachry Corp (different name/spelling).",
+    "source_url": "https://wiza.co/d/paradigm-design/7108/emmanuel-zacharias",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1d064ce7-15ca-47d3-a1cf-235225ccb136",
+    "name": "Manna, Phillip",
+    "resolved_employer": "Retired - IT Service Management/Telecommunications professional; former Project Portfolio Manager, The Capital Group Companies (retired 2014); earlier Intelogic Trace and Datapoint Corp",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Phillip A. Manna at 9525 Rochelle Rd, San Antonio 78240 (address-confirmed via Nuwber). Retired U.S. Marine Corps Chief Warrant Officer and IT/telecom professional; post-military career in IT service management/project portfolio management (Capital Group, Intelogic Trace, Datapoint). Now a civic volunteer serving on the City of San Antonio Planning Commission Technical Advisory Committee (PCTAC) representing District 7 - directly Gavito's district. Attended St. Mary's University.",
+    "source_url": "https://theorg.com/org/city-of-san-antonio/org-chart/phillip-manna",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio - Planning Commission Technical Advisory Committee (PCTAC)", "role": "Member, District 7", "category": "civic", "source_url": "https://theorg.com/org/city-of-san-antonio/org-chart/phillip-manna", "snippet": "Listed as 'Planning Commission Technical Advisory Committee, D7 at City of San Antonio'; a retired community-leader volunteer serving on the appointed advisory committee for Council District 7."}
+    ]
+  },
+  {
+    "donor_id": "1be46f07-b1cf-49a1-bcf1-7985eed7c9f8",
+    "name": "Ruiz, Margaret",
+    "resolved_employer": "Retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired individual at 222 Melliff Dr, San Antonio 78216. 'Margaret Ruiz' is an extremely common San Antonio name (100+ Spokeo matches); could not corroborate a specific person, prior career, or any affiliation. No former career identifiable, so industry left null.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0ee8ca6b-f501-41f9-b63c-6c511f2e4284",
+    "name": "McLaughlin, John",
+    "resolved_employer": "Self-employed (field unknown)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Listed as 'Self'/self-employed, PO Box 460894, San Antonio 78246 (per Gavito TEC filing, $100 on 8/6/2025). 'John McLaughlin' is a very common name with only a PO box; could not confirm the specific individual, his business field, FEC PACs, or lobbyist registration. Industry is an employer-fallback from the self-employed occupation only.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003509_20260116_081553.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0de419f8-55f2-4fdb-b916-1ea8d76c16db",
+    "name": "Schultz, Robert",
+    "resolved_employer": "RRS Ventures (personal investment vehicle / RRS Ventures Separate Property LLC); self-described investor",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Identity well-corroborated: corporate records list Robert R. Schultz as President/member of RRS Ventures Separate Property LLC at 1022 Navarro St, San Antonio 78205 (exact donor address; also 7373 Broadway/PO Box 691205). RRS Ventures is documented as a San Antonio real estate investor/operator, so industry set to Real Estate (could alternatively be Finance given his 'Investor' self-description). Despite an input-reported 215 federal donations, FEC and OpenSecrets were inaccessible at research time (FEC API 429 ~8h block; OpenSecrets 403), so specific PAC/committee names and partisan leaning could not be retrieved; no corroborated ideological affiliation is recorded without a source.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/robert-r-schultz/32821015.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0d40f72a-01f8-4f8b-89cc-cd0d140b5cde",
+    "name": "Beekley, Philip",
+    "resolved_employer": "Self-employed; USAF retired combat veteran (business field unknown)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-described USAF retired combat veteran, self-employed, 8910 Oakwood Court, San Antonio 78240 (per Gavito TEC filing dated ~9/19/2025). No documented defense-industry executive, board, ownership, or lobbyist role was found, so per instructions no military_defense affiliation is recorded (veteran status alone is insufficient). Could not confirm his specific business; industry is an employer-fallback.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003509_20260116_081553.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0bd92ee2-addd-48d2-84e3-c36c439f0fd5",
+    "name": "Doria, Kathleen",
+    "resolved_employer": "Retired nonprofit development/fundraising professional (formerly Director of Development, Guide Dogs of Texas and Alpha Home; independent consultant, Kathleen Doria LLC)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Filing lists 'Retired' at 2400 McCullough (the '#15558' is a mailbox/suite number, not a zip; actual zip 78212). A Kathleen Doria (age ~72-73, San Antonio) is an independent nonprofit-governance/fundraising consultant (Kathleen Doria, LLC) and former Director of Development at Guide Dogs of Texas and at Alpha Home; age/location/consulting profile align, giving medium confidence. No FEC PAC or Texas lobbyist registration found.",
+    "source_url": "https://www.zoominfo.com/p/Kathleen-Doria/981951425",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

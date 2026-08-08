@@ -1,0 +1,235 @@
+[
+ {
+  "donor_id": "0aa7b7ff-dd1e-46c0-b270-a709a64843c1",
+  "name": "Shipp, Maurine",
+  "resolved_employer": "Clark Hill PLC (senior counsel, tax & estate planning attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Maurine 'Mo' Heinrichs Shipp, board-certified estate planning/probate attorney and senior counsel at Clark Hill's San Antonio office; St. Mary's Law '08. Matches employer, occupation, and 78209 (Alamo Heights) residence.",
+  "source_url": "https://www.clarkhill.com/people/maurine-mo-shipp/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a70952f-eb40-437a-9586-e2dca21367cc",
+  "name": "Abelar, Carlos",
+  "resolved_employer": "Self-employed; co-owner Abelar Incorporated / VP TCL Construction Enterprises (construction project management)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Carlos Javier Abelar, San Antonio, co-owner of Abelar Incorporated and VP of TCL Construction, which did City of San Antonio parks trail projects — consistent with self-employed 'project management' occupation. Exact street-address match to 78237 not independently confirmed.",
+  "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/carlos-javier-abelar/35191183.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Abelar Incorporated / TCL Construction Enterprises", "role": "Co-owner / VP", "category": "business", "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/carlos-javier-abelar/35191183.aspx", "snippet": "Carlos Abelar - Co-Owner for Abelar Incorporated; associated with TCL Construction Enterprises LLC, San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "09011386-7aab-4aaa-8358-153e12f64df9",
+  "name": "Alvarez, Carlos",
+  "resolved_employer": "XPEL, Inc. (VP of Operations, formerly Director of Operations)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Carlos Alvarez, VP/Director of Operations at XPEL (Nasdaq: XPEL, automotive protective-film maker HQ'd in San Antonio); joined 2017, St. Mary's finance degree, Texas A&M-SA MBA. Matches employer, 'Ops Director' occupation, and 78257 (Dominion) executive residence. Note: XPEL is a products manufacturer; 'Technology' is the closest taxonomy fit.",
+  "source_url": "https://people.equilar.com/bio/org/xpel-inc/5640757",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "085f89d8-76c1-4959-8ab3-5292f45e04b8",
+  "name": "Cubeta, Kelli",
+  "resolved_employer": "Cubeta Law Group PLLC (founding partner; business/employment attorney)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Kelli Ann Petronis Cubeta, San Antonio business/employment attorney, founder of Cubeta Law Group and former GC of two public companies. Distinctive name and San Antonio residence (78212, Monte Vista) support the match, but donor record listed no occupation/employer to corroborate directly.",
+  "source_url": "https://www.cubetalaw.com/cubeta-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "04f35705-479f-4433-87f4-62fd056cd7d3",
+  "name": "Jaime, Ivan",
+  "resolved_employer": "Walmart Inc. (Director, Public & Government Affairs, TX/OK)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Ivan Jaime, San Antonio-based Director of Government & Public Affairs for Walmart (joined 2020 after 15 yrs at Union Pacific); registered Texas lobbyist, filer ID 67255. Matches employer, 'Director' title, and 78257 residence.",
+  "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/ivan-jaime-67255",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Walmart Inc.", "role": "Director, Public & Government Affairs / registered Texas lobbyist (filer ID 67255)", "category": "business", "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/ivan-jaime-67255", "snippet": "Ivan Jaime, Director, Public & Government Affairs for Walmart Inc., registered Texas Ethics Commission lobbyist, filer ID 67255 (registered 2022-2026)."},
+   {"org": "Sister Cities International", "role": "Board of Directors", "category": "civic", "source_url": "https://dm.sistercities.org/people/ivan-jaime/", "snippet": "Ivan is deeply involved in community initiatives, recently being elected to the Board of Directors for Sister Cities International."}
+  ]
+ },
+ {
+  "donor_id": "03ef2512-6f10-4cd9-80ca-f64958d6c449",
+  "name": "Guerrero, Joe Anthony",
+  "resolved_employer": "Self-employed (San Antonio); a Joe Anthony Guerrero in San Antonio is listed as a former director of JDT Investments, Inc.",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Listed as self-employed at 1931 N Comal St, 78212 (Tobin Hill). A CorporationWiki record for a 'Joe Anthony Guerrero' in San Antonio ties the name to now-inactive JDT Investments, Inc., but the specific business/occupation cannot be confirmed. Common name; identity only partially corroborated by city + name.",
+  "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/joe-anthony-guerrero/107822871.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "029cca0b-667c-43df-a3f2-3a50da49b564",
+  "name": "Hubbert, Ben",
+  "resolved_employer": "Leadhub (San Antonio marketing/web-development agency serving the trades); Chief Visionary Officer and founder",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Confirmed as founder and Chief Visionary Officer of Leadhub, a San Antonio marketing agency (matches filing title/employer and 78255 NW-side location). Former USAF Combat Controller; founded Champion AC (HVAC) in 2007, sold 2020; founded Leadhub 2010.",
+  "source_url": "https://www.leadhub.net/team-member/ben-hubbert/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Entrepreneurs' Organization (EO) San Antonio", "role": "Member (spotlighted)", "category": "business", "source_url": "https://eosa.wordpress.com/2013/08/23/member-spotlight-ben-hubbert/", "snippet": "EO San Antonio Member Spotlight feature on Ben Hubbert, entrepreneur and founder of Champion AC / Leadhub."}
+  ]
+ },
+ {
+  "donor_id": "00c5e28d-455c-493f-bf4c-8d246431b5b3",
+  "name": "Gurram, Arden",
+  "resolved_employer": "Attorney at Orrick, Herrington & Sutcliffe LLP (per filing); no independent public profile located",
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Filing lists an attorney at Orrick, Herrington & Sutcliffe (Houston, 77006/Montrose). No distinct public profile for 'Arden Gurram' exists — an 'Arden' at Orrick Houston in energy M&A is a different person (Arden Dion). Employer-fallback classification only; specific individual unconfirmed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f836184d-88e5-47dc-b79c-d62fd6902761",
+  "name": "Villarreal, Grace",
+  "resolved_employer": "Retired (former career not confirmed for this specific individual)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed as retired at 3715 Sunshine Ranch, 78228 (west San Antonio). Very common name; a Texas House resolution notes a retired San Antonio elementary-school library assistant named Grace Villarreal, but that cannot be tied to this address. Identity not confirmed; no industry assigned.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "521ffac1-04c8-45d1-afcf-79bd21ff3ce3",
+  "name": "Tovar, Manuel",
+  "resolved_employer": "Affiliated Foods, Inc. (grocery wholesale cooperative); Director of Ethnic Marketing. Formerly Manager, Localized Marketing at H-E-B",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Confirmed via ZoomInfo/LinkedIn as Director of Ethnic Marketing at Affiliated Foods (matches filing title/employer); San Antonio College graduate, prior H-E-B marketing role, San Antonio ties (78230). Affiliated Foods is a grocery-distribution cooperative.",
+  "source_url": "https://www.zoominfo.com/p/Manuel-Tovar/-1951625245",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e9f6eace-bb91-47db-9ff3-8117858b6f0f",
+  "name": "Morris, Adam",
+  "resolved_employer": "HomeVantage Mortgage (Branch Manager / Mortgage Banker), Helotes, TX",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Mortgage banker in Helotes, TX matching self-reported occupation and address; Branch Manager at HomeVantage Mortgage, prior loan-origination business since 2006, Rice University grad and former minor-league player. No FEC PAC donations or TX lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/adam-morris-27833a116/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dab052ca-500f-46c1-ac80-160682c91949",
+  "name": "Smith, Elida",
+  "resolved_employer": "The MITRE Corporation (Senior Principal / Portfolio Manager, aerospace & air-traffic systems engineer)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Elida 'Elly' Smith, MITRE Corp engineer/portfolio manager (aerospace, cybersecurity, robotics); appointed by Councilwoman Marina Alderete Gavito to Port San Antonio's Board of Directors. Occupation and employer match donor record exactly. No FEC PAC donations or TX lobbyist registration found.",
+  "source_url": "https://www.portsanantonio.us/Elly-Smith",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Port San Antonio Board of Directors", "role": "Board member (appointed by D7 Councilwoman Marina Alderete Gavito)", "category": "civic", "source_url": "https://www.portsanantonio.us/Elly-Smith", "snippet": "San Antonio District 7 Councilwoman Marina Alderete Gavito appointed Smith to Port San Antonio's 11-member Board of Directors."}
+  ]
+ },
+ {
+  "donor_id": "74eb5a9d-12ea-41ff-8368-3298feb569dc",
+  "name": "Aguilar, Mabel",
+  "resolved_employer": "Retired (self-reported marketing)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm the specific retired San Antonio (78228) marketing individual; search returned only unrelated Aguilars (e.g., a La Raza program coordinator in San Francisco). Identity unverified, so industry left null. No FEC PAC donations or TX lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3dce75cf-7742-45a1-bce4-1de41406b6d3",
+  "name": "Maron, Oscar",
+  "resolved_employer": "Retired (no employer listed)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public profile located for a retired Oscar Maron at 78201; search surfaced only unrelated San Antonio Oscars (attorneys, a barber shop). Identity and former career unconfirmed, industry null. No FEC PAC donations or TX lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3d4ec575-bb50-40dd-a7ca-cf154e3c636b",
+  "name": "Velasquez, Jane",
+  "resolved_employer": "Retired (no employer listed)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public-records databases confirm a Jane S. Velasquez residing at 5939 Woodridge Rock, San Antonio 78249 (b. 1947, ~78 yrs), consistent with 'Retired' status, but no former career/profession or advocacy profile found. Industry left null. No FEC PAC donations or TX lobbyist registration found.",
+  "source_url": "https://clustrmaps.com/person/Velasquez-8pt0al",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2136dbdb-3a12-4294-99cb-2815d0bbd002",
+  "name": "Vargas, Leticia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer on the filing and 'Leticia Vargas' is very common in San Antonio (a Dr. Leticia Vargas OB/GYN practices at 78212/78224, not confirmably the 78230 Hunters Ridge resident). Could not corroborate the specific individual, so industry left null.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "01282989-f2c0-45b8-b9e4-e0cdd5e8ca41",
+  "name": "Sanchez, Minnie",
+  "resolved_employer": "Retired public school teacher; President, San Antonio Area Retired Teachers Association",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Matches Minnie Abrego-Sanchez, whose LinkedIn lists the exact filing address (3711 River Falls, San Antonio, TX 78259) and role as President of the San Antonio Area Retired Teachers Association; a retired educator. No federal ideological PAC gifts or TEC lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/minnie-abrego-sanchez-382416111/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Area Retired Teachers Association (Texas Retired Teachers Association affiliate)", "role": "President", "category": "civic", "source_url": "https://www.linkedin.com/in/minnie-abrego-sanchez-382416111/", "snippet": "Minnie Abrego-Sanchez - President - San Antonio Retired Teachers Association"}
+  ]
+ },
+ {
+  "donor_id": "aee6f623-1587-4e03-ad9b-4143cbe7e2c5",
+  "name": "Chumbley, MLissa",
+  "resolved_employer": "Retired high-net-worth insurance broker, USAA (retired); longtime Northside ISD trustee",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "M'Lissa Chumbley, 40+ yr USAA insurance/financial services employee (zip 78240 matches), and Northside ISD Board of Trustees member for District 3 from 1995 to May 2023 (Chumbley Elementary is named for her). Only federal PAC activity found is small USAA Employee PAC gifts (2016, non-ideological); no TEC lobbyist registration.",
+  "source_url": "https://ballotpedia.org/M'Lissa_Chumbley",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Northside Independent School District (Bexar County) Board of Trustees", "role": "Trustee, District 3 (1995-2023)", "category": "civic", "source_url": "https://ballotpedia.org/M'Lissa_Chumbley", "snippet": "M'Lissa Chumbley was a member of the Northside Independent School District, representing District 3, assumed office in 1995... left office May 23, 2023."}
+  ]
+ },
+ {
+  "donor_id": "97ed1f8d-f207-4d40-a10d-d64786249a24",
+  "name": "Sanchez, Imelda",
+  "resolved_employer": "Owner / VP of Operations, Henry's Puffy Tacos (family restaurant, San Antonio)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Filing lists occupation 'Restaurant Business Owner / Henry's Puffy Tacos.' Imelda (Lopez) Sanchez is a daughter of founder Henry and serves as VP of Operations of the family-owned San Antonio restaurant (est. 1978). No ideological PAC gifts or lobbyist registration found.",
+  "source_url": "https://www.henryspuffytacos.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7c421579-b9c4-4dde-96df-7075072375c6",
+  "name": "Guadiano, Diana B",
+  "resolved_employer": "Diana G. Guadiano, CPA (self-employed sole proprietor); listed as Director at Holt",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Confirmed as a San Antonio CPA / IRS-registered tax preparer running a sole-proprietor practice (PTIN, TaxBuzz, LinkedIn 'Sole Proprietor'). Filing's 'Director / Holt' role is consistent with a Holt (Cat/Group) finance-director position but could not be independently confirmed. No ideological PAC gifts or TEC lobbyist registration found.",
+  "source_url": "https://rpo.ptin.org/tax-preparers/texas/san-antonio-tx/1575769/diana-guadiano/diana-g-guadiano-cpa",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

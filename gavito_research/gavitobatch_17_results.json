@@ -1,0 +1,231 @@
+[
+  {
+    "donor_id": "f92c3602-6977-411c-aa7e-97df9a96a1a4",
+    "name": "Piedra, David",
+    "resolved_employer": "Cloudflare (Senior Manager, Sales)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "David Piedra was Senior Manager of Mid-Market/Corporate Sales at Cloudflare (2021-2023), matching donor's 'Senior Sales Manager / Cloudflare' occupation; now a sales leader at HashiCorp. Cloudflare tenure and tech-sales role corroborate the San Antonio 78212 donor's employer string.",
+    "source_url": "https://www.linkedin.com/in/davidgpiedra/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e2aa9aee-a1b7-4f6d-af23-693ff57eedcf",
+    "name": "Moreno, Dax",
+    "resolved_employer": "ESO Ventures (Director of Strategic Partnerships / Head of Business Development & Operations)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "San Antonio-area tech-ecosystem leader; director at ESO Ventures (entrepreneurial support org). Prior leadership roles at Rackspace, Tech Bloc, Geekdom, CivTechSA, Peer 1. Location (Boerne/San Antonio 78254) and title match donor record.",
+    "source_url": "https://www.linkedin.com/in/daxmoreno/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Tech Bloc (San Antonio)", "role": "Former leadership role", "category": "civic", "source_url": "https://satechbloc.com/board-of-directors/", "snippet": "Public bios list Dax Moreno among prior leadership at Tech Bloc, the SA civic-tech advocacy org; a local civic-tech affiliation, not an ideological PAC tie."}
+    ]
+  },
+  {
+    "donor_id": "b29823e5-7fce-4c3f-addc-36087ef6693f",
+    "name": "Stahl, Paul",
+    "resolved_employer": "DynaTouch Corporation (VP / Sales & Marketing)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Paul Stahl is VP of Sales & Marketing at DynaTouch (San Antonio IT self-service kiosk firm), matching the 'Sales Manager / DynaTouch' donor string; BBA Marketing from St. Mary's University. Also Chair of the San Antonio Public Library Board of Trustees.",
+    "source_url": "https://rocketreach.co/paul-stahl-email_1555028",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Public Library Board of Trustees", "role": "Chair", "category": "civic", "source_url": "https://sanantonio.primegov.com/meeting/attachment/187536.pdf?name=Stahl_Paul_Redacted.pdf", "snippet": "City board application and multiple SAPL Director's Reports (2016-2022) identify Paul Stahl as Chair of the Library Board of Trustees; a local civic appointment."}
+    ]
+  },
+  {
+    "donor_id": "b1e3309b-7a4f-4cc4-bdd9-228613c1f063",
+    "name": "Clark, Ellen Riojas",
+    "resolved_employer": "UTSA — Professor Emerita, Bicultural-Bilingual Studies (retired)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Ellen Riojas Clark, Ph.D., is Professor Emerita in Bicultural-Bilingual Studies at UTSA (42-year career); UTSA created the Ellen Riojas Clark Endowed Chair in her honor in Dec 2023. Known for Latino education and bicultural-bilingual scholarship. San Antonio 78228 matches.",
+    "source_url": "https://education.utsa.edu/faculty/profiles/riojas-clark-ellen.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9f04f8a4-b372-44a8-8a04-be5daa68651f",
+    "name": "Mason, Robert",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor lists only 'Retired' with no employer or occupation history. 'Robert Mason' is a very common name in San Antonio; no public record could be reliably tied to the 78230 donor. Not resolvable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8569e71d-55e6-4f94-8605-c5060048c4af",
+    "name": "Dailey, Bernadine",
+    "resolved_employer": "Golden Age Senior Placement (RN senior-care consultant; former hospice Executive Director, retired)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Registered nurse and senior-placement consultant at Golden Age Senior Placement, San Antonio; LinkedIn describes ~40 years as a hospice Executive Director in post-acute/hospice care. Occupation and employer match the donor record.",
+    "source_url": "https://www.linkedin.com/in/bernadine-dailey-ab868538/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6ab5c214-a69e-4dfa-9477-a479bfec6070",
+    "name": "Garza, Alma",
+    "resolved_employer": "Alma L. Garza, DDS (self-employed dentist)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Alma L. Garza is a self-employed San Antonio family/cosmetic dentist (DDS, Baylor College of Dentistry 1991); practice at 4118 McCullough Ave, Olmos Park/San Antonio. Matches donor's 'Dentist / Self-employed' in the same city.",
+    "source_url": "https://health.usnews.com/dentists/alma-garza-1753918",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0c40494f-acb9-4e1a-af7d-769cbf240d13",
+    "name": "Pineda, Jesse",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired San Antonio resident (78250, NW side). Common name with many people-search matches; no public profile confirms the specific individual or a prior career, so industry cannot be assigned.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "32e20b48-8b71-4599-99bf-769fa376e0d7",
+    "name": "Nixon, Mark",
+    "resolved_employer": "HCA Healthcare (Senior Director / AVP)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Donor record lists Sr Director/AVP at HCA Healthcare, Nashville TN 37205 (Belle Meade/West Nashville), consistent with an HCA corporate-HQ executive. No individual public bio located, but self-reported employer and title place him in healthcare.",
+    "source_url": "https://careers.hcahealthcare.com/pages/corporate",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fd617a07-69b9-4603-89af-43431046c0fb",
+    "name": "Bodner, Sarah",
+    "resolved_employer": "Homemaker",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported homemaker at 1838 W. Magnolia, San Antonio 78201 (Beacon Hill/Monte Vista). A local 'Sarah Bodner, PhD' executive coach exists on LinkedIn but occupation does not clearly match, so identity is not confirmed and no career industry is assigned.",
+    "source_url": "https://www.linkedin.com/in/sarahbodner/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fb313131-da04-4c8c-921f-725821004093",
+    "name": "Neumann, Esmeralda",
+    "resolved_employer": "Self-employed insurance agent",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Donation record lists her as a self-employed insurance agent in San Antonio 78212. No public professional profile, news, or corporate bio located to confirm this specific individual; industry assigned by stated occupation (insurance) only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f88caa83-9b39-4df2-bd64-1adb76d855f9",
+    "name": "Flores, Marilyn",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as retired in San Antonio 78230. Common name; no public record identifies her former career, and no FEC PAC or Texas lobbyist registry match found. Cannot determine prior industry.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f55be0e0-ce8d-48ae-ae73-3a55893cf14c",
+    "name": "Bombin, Lisa",
+    "resolved_employer": "Unico Communications, Inc. (Founder, President/CEO)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Founder and President/CEO of Unico Communications, a San Antonio PR/communications and special-events firm (HQ at 2222 San Pedro Ave, 78212), specializing in the Hispanic market; producer of the SA Hispanic Chamber of Commerce Annual Gala. Location (78209) and role consistent with the documented PR figure.",
+    "source_url": "https://unicocommunications.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "KLRN Public Television (San Antonio PBS affiliate)", "role": "Board Member", "category": "civic", "source_url": "https://theorg.com/org/klrn-public-television/org-chart/lisa-bombin", "snippet": "Lisa Bombin serves as a Board Member at KLRN Public Television, a PBS affiliate in San Antonio."},
+      {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Producer, Annual Gala", "category": "business", "source_url": "https://unicocommunications.com/about", "snippet": "Serves as producer of the San Antonio Hispanic Chamber of Commerce Annual Gala for the Chamber's 1,800 members."}
+    ]
+  },
+  {
+    "donor_id": "f511168c-c42d-4185-853e-b7d67567b2af",
+    "name": "Cruz, Debra",
+    "resolved_employer": "San Antonio ISD (SAISD) — teacher",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Donation record lists her as a teacher at SAISD, San Antonio 78230. Occupation/employer are specific and consistent; no individual staff-page or bio located to further corroborate, and no FEC PAC or lobbyist registry match found.",
+    "source_url": "https://www.saisd.net/page/teacherstaff-information",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f4985027-8fee-4d44-af6f-af93833a3f29",
+    "name": "Griffith, Laurie",
+    "resolved_employer": "Independent Financial / Independent Bank — San Antonio Market President (banking)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Career commercial banker; served as San Antonio Market President at Independent Financial (Independent Bank), with prior EVP roles at Texas Capital Bank and First National Bank of South Texas; UT Austin BBA in Finance. Boerne 78015 location matches. No FEC PAC or Texas lobbyist registry match found.",
+    "source_url": "https://theorg.com/org/independentbank/org-chart/laurie-griffith",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f1249077-9821-48f6-8301-ffe7fa133f22",
+    "name": "Ruenes, Theresa",
+    "resolved_employer": "Diocese of Dallas (Development)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "Donor record lists Development role at the Catholic Diocese of Dallas, Frisco TX address. Could not independently confirm this specific individual in public records; classifying by employer only (religious nonprofit fundraising). Religious employer noted but not treated as a policy affiliation.",
+    "source_url": "https://dallascatholic.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ea6acd9c-29ff-48c6-af31-6e6217d9a40f",
+    "name": "Molton, Ashley",
+    "resolved_employer": "Texas Creative (Principal & CEO)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Ashley (Molton) Landers is Principal/CEO of Texas Creative, a San Antonio advertising/marketing agency; SA 78217 matches. Named SA Business Journal 40 Under 40 (2023). Serves as board secretary and Policy Subcommittee chair for Methodist Healthcare Ministries.",
+    "source_url": "https://sawoman.com/2024/01/role-model-ashley-landers/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Methodist Healthcare Ministries of South Texas", "role": "Board Secretary / Policy Subcommittee Chair", "category": "civic", "source_url": "https://sawoman.com/2024/01/role-model-ashley-landers/", "snippet": "She is secretary of the Board of Directors and chairs the Policy Subcommittee for Methodist Healthcare Ministries, an organization serving 74 Texas counties."}
+    ]
+  },
+  {
+    "donor_id": "e86d9b4d-836b-4ede-90a1-b6d7f51d6647",
+    "name": "Esparza, Chris",
+    "resolved_employer": "University Health System / Community Medicine Associates (Family Nurse Practitioner)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Christopher Esparza is a Family Nurse Practitioner in San Antonio (NPI 1083193460) affiliated with University Health System (UHS); matches donor occupation and employer. Zip not independently confirmed but occupation/employer align.",
+    "source_url": "https://www.healthgrades.com/providers/christopher-esparza-xypxh2c",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e85f57ba-2506-409c-85de-63928e8afd75",
+    "name": "Chandler, Heather",
+    "resolved_employer": "The IMG Studio (Founder & CEO)",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Heather Angel Chandler founded The IMG Studio (2007), a San Antonio video production/animation firm; former FOX 29 SA and Las Vegas TV reporter. Four Lone Star EMMYs, SA Business Journal 40 Under 40, SA Women's Hall of Fame (2022). Matches donor 78240 SA location.",
+    "source_url": "https://www.linkedin.com/in/heather-angel-chandler-766a6a23/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e4d63c39-fd66-49f0-8a57-de99f20859ee",
+    "name": "Ruiz, Michelle",
+    "resolved_employer": "Gonzaba Medical Group (Provider & Corporate Relations Manager)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Michelle Ruiz is Provider & Corporate Relations Manager at Gonzaba Medical Group, San Antonio (confirmed via org directory); matches donor 'Manager' occupation and employer. Distinct from Dr. Michelle Gonzaba.",
+    "source_url": "https://theorg.com/org/gonzaba-medical-group/offices/hq",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

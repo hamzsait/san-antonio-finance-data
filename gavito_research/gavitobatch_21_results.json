@@ -1,0 +1,57 @@
+[
+ {
+  "donor_id": "07894693-3eb1-449b-a4c1-d2d933484029",
+  "name": "Najvar, Shelby",
+  "resolved_employer": "USAA",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "USAA executive (AVP-level, ~19 yrs financial services) in San Antonio, UTSA-educated; matches donor's USAA employer, San Antonio location, and Management occupation. No PAC or lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/shelby-najvar/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0722ae56-6685-4d87-9505-998c6ddf8059",
+  "name": "Johnson, Marcel",
+  "resolved_employer": "Port San Antonio (Port Authority of San Antonio)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Marcel Johnson, CEcD, is Sr. VP of Talent & Technology Scouting (formerly VP of Business Development) at Port San Antonio since 2010; economic-development career, prior VP for Economic Development at the San Antonio Chamber of Commerce. Employer, San Antonio-area location (Boerne 78006), and 'Business Development' occupation match the donor record.",
+  "source_url": "https://www.linkedin.com/in/marcel-johnson-cecd-82573047/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "045a2b9b-a9aa-4b88-82f1-7f945dc307b3",
+  "name": "Chandler, Heather",
+  "resolved_employer": "The IMG Studio",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Heather Angel Chandler, founder/CEO/President of The IMG Studio, a San Antonio full-service video production, animation and interactive-tech company (multiple Lone Star EMMY wins); former TV news reporter/anchor (FOX 29 San Antonio). Matches donor's CEO + The IMG Studio + San Antonio-area (Helotes 78023) profile. Only civic roles found (Witte Museum trustee, SA Film Commission, Leadership San Antonio) are cultural/civic, not policy advocacy.",
+  "source_url": "https://sanantonioreport.org/producing-visually-immersive-experiences-wins-local-studio-accolades/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "030d8e55-63d3-4e6a-81b8-76b371eac12b",
+  "name": "Maldonado, Ana",
+  "resolved_employer": "USAA",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Donor record lists USAA 'Director', San Antonio 78249. A USAA Strategic Innovation Director named Ana Maldonado appears in San Antonio, but 'Ana Maldonado' is a common name and the profile is auth-gated/unverifiable, so identity could not be independently confirmed to this address. Employer-fallback categorization only; no PAC or lobbyist records found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0092ce1a-a93e-47de-abb3-384ad23da486",
+  "name": "Gonzalez, Adela",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Identity corroborated by exact donor address (18610 Tuscany Stone, San Antonio, TX 78258); listed as Retired. No former career identifiable from public bio/obituary/LinkedIn sources. Her 202 FEC records / partisan_lean 1.0 are consistent with prolific Democratic small-dollar ActBlue giving; FEC OpenFEC API was rate-limited and no specific committee could be cited, and no ideological PAC (Israel/Palestine, oil/gas, guns, defense) tie was surfaced. No lobbyist registration found.",
+  "source_url": "https://www.mineralholders.com/texas/san-antonio/adela-n-gonzalez/4419065",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

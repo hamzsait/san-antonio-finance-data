@@ -1,0 +1,244 @@
+[
+ {
+  "donor_id": "52f1f2ec-9c73-48bc-8ac4-903fb7e0da9b",
+  "name": "Monarres, Yesenia",
+  "resolved_employer": "Stone Ridge Dental (San Antonio) — 'Smile Designer'; affiliated with the practice of Dr. Alfonso Monarres, DDS",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Works at Stone Ridge Dental, a Stone Oak cosmetic/implant dental practice; identified as part of the Monarres practice team. Location (78258, Stone Oak area) matches the practice. No FEC/PAC or Texas lobbyist records found.",
+  "source_url": "https://implantssanantonio.com/team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3f43f116-3189-4e1a-b37c-bbf38cee68ba",
+  "name": "Reddy Gurram, Ashakiran",
+  "resolved_employer": "Veterans Health Administration — internal medicine physician, South Texas VA (Audie Murphy), San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Ashakiran R. Gurram, MD, internist, practices in San Antonio and is affiliated with the South Texas VA Medical Center-San Antonio, matching stated employer (VHA) and 78230 NW-side address. No FEC/PAC or Texas lobbyist records found.",
+  "source_url": "https://doctor.webmd.com/doctor/ashakiran-gurram-f3849ead-60f0-4342-b265-bb0f45e0649b-overview",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "354759c6-319d-4aaf-8c6c-48586eb92996",
+  "name": "Kowalski, Bekki",
+  "resolved_employer": "The RK Group (San Antonio hospitality/catering/events firm) — Director of Special Projects",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Confirmed as Director of Special Projects at The RK Group, an ~80-year-old San Antonio catering/event/hospitality company. Some civic board roles surfaced in search but could not be cleanly separated from another RK Group family member (Jamie Kowalski), so no personal affiliation is asserted. No FEC/PAC or Texas lobbyist records found for her personally.",
+  "source_url": "https://www.therkgroup.com/about-us/team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "348e8410-9794-476d-afef-ee5d2dca2594",
+  "name": "Rodriguez, Jennifer",
+  "resolved_employer": "Attorney / registered Texas lobbyist — Office of Jennifer S. Rodriguez; affiliation with McGuireWoods Consulting LLC, Austin",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Donor is Jennifer Shelley Rodriguez, a Texas attorney and registered Texas Ethics Commission lobbyist based in Austin who has worked at McGuireWoods Consulting LLC and Dan Shelley's lobbying firm. Corroborated by FEC records listing employers 'Office of Jennifer S. Rodriguez,' 'McGuireWoods Consulting,' and 'The Offices of Dan Shelley,' occupation Attorney (10 federal contributions 2009-2024, bipartisan).",
+  "source_url": "https://texaslobby.org/lobbyists/jennifer-shelley-rodriguez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Ethics Commission (registered lobbyist) / McGuireWoods Consulting LLC", "role": "Registered Texas lobbyist and attorney", "category": "political", "source_url": "https://www.transparencyusa.org/tx/lobbying/lobbyist/jennifer-shelley-rodriguez-39096", "snippet": "Jennifer Shelley Rodriguez is a registered Texas lobbyist affiliated with McGuireWoods Consulting LLC, with long-standing TEC registration."}
+  ]
+ },
+ {
+  "donor_id": "31557ee0-84a2-4f5b-b548-f73f375f0e24",
+  "name": "Martin, Kristen Nicole",
+  "resolved_employer": "Unemployed (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported unemployed, San Antonio 78258 (Sonterra/Stone Oak area). Multiple same-named people in TX; could not confirm this specific individual. No FEC, lobbyist, or bio record tied to this person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "30ed0e73-74b5-48ab-8e60-ce748cc52df8",
+  "name": "Gavito, George",
+  "resolved_employer": "Retired law enforcement (former Cameron County Sheriff's Lt. / DEA agent / Port of Brownsville Homeland Security director)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Brownsville, retired; matches the well-documented George Gavito, former chief investigator/Lieutenant for the Cameron County Sheriff's Office (1989 Matamoros/Mark Kilroy case), later a DEA agent and head of security at the Port of Brownsville. Location (Brownsville) and 'retired' status corroborate. No public source found confirming a family relationship to candidate Marina Alderete Gavito; not asserting one.",
+  "source_url": "http://pharrfromheaven.blogspot.com/2012/04/brownsvilles-george-gavito-recalling.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2e2aeca3-402d-4720-b4f2-188b75512ca6",
+  "name": "Beldon, Michael",
+  "resolved_employer": "Chairman, Beldon Roofing / Beldon Group (Beldon Enterprises), San Antonio",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Prominent San Antonio businessman, longtime chairman of Beldon Roofing & Remodeling. Extensive, bipartisan FEC record: gave to Republicans (Henry Bonilla, Lamar Smith) and Democrats (Joaquin Castro). Deep civic history incl. former chairman of the Edwards Aquifer Authority and the San Antonio Chamber of Commerce; served as campaign treasurer for mayors Hardberger, Castro, and Villarreal. Not a registered Texas lobbyist.",
+  "source_url": "https://sanantonioreport.org/author/michael-d-beldon/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Beldon Roofing & Remodeling Co. (Beldon Group)", "role": "Chairman", "category": "business", "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/michael-d-beldon-P3993879.aspx", "snippet": "Michael D. Beldon is listed as Chairman for Beldon Roofing & Remodeling Co."},
+   {"org": "Edwards Aquifer Authority", "role": "Former Chairman", "category": "civic", "source_url": "https://sanantonioreport.org/author/michael-d-beldon/", "snippet": "Michael D. Beldon is the former chairman of the Edwards Aquifer Authority."},
+   {"org": "San Antonio Chamber of Commerce", "role": "Former Chairman", "category": "business", "source_url": "https://sanantonioreport.org/author/michael-d-beldon/", "snippet": "Former chairman of the San Antonio Chamber of Commerce."},
+   {"org": "Municipal mayoral campaigns (Hardberger, Castro, Villarreal)", "role": "Campaign treasurer", "category": "political", "source_url": "https://sanantonioreport.org/author/michael-d-beldon/", "snippet": "Served as treasurer for the mayoral campaigns of former Mayors Phil Hardberger and Julian Castro, and for Mike Villarreal."}
+  ]
+ },
+ {
+  "donor_id": "2c22ca2f-bef2-4b33-8dcf-7dc414ca31b9",
+  "name": "Guerrero, Charlie",
+  "resolved_employer": "Student",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Self-reported student, San Antonio 78212 (Tobin Hill area). Common name; no confirmable public profile, FEC record, or lobbyist registration for this specific individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "28561cb7-d49e-41f6-a797-8dfd91c5e9f9",
+  "name": "Singh Mehat, Inderjit",
+  "resolved_employer": "Owner of BB Shell (Shell-branded gas station / convenience store), operated via Ikonkar Enterprises, LP, San Antonio",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "LinkedIn/ZoomInfo list Inderjit Mehat as Owner of Ikonkar Enterprises, LP in San Antonio; 'BB Shell' is his fuel/convenience retail operation. Address 11219 Jadestone Blvd, 78249 corroborated by public people-search records for the Mehat household at that address. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.zoominfo.com/p/Inderjit-Mehat/11006272745",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "27cde592-4166-46eb-86a2-1dd3f81389ea",
+  "name": "Hogan, Michael",
+  "resolved_employer": "Founder, President & CEO of Hogan Property Company / HomeSpring (multifamily & commercial real estate developer/manager), San Antonio",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Michael A. Hogan founded Hogan Property Company in 1982; HomeSpring (the 'Homespring' in the record) is his residential/multifamily arm. His published bio documents civic real-estate/economic-development roles; residence 78213 and developer profile align. No advocacy-PAC or TX lobbyist record found (FEC itemized list not fully pulled due to API rate-limit).",
+  "source_url": "http://www.hoganre.com/hogan_bio.htm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Capital Improvements Advisory Committee, San Antonio City Council", "role": "First five-year Chairman", "category": "civic", "source_url": "http://www.hoganre.com/hogan_bio.htm", "snippet": "Was the first five year Chairman of the Capital Improvements Advisory Committee for the San Antonio City Council; active on many San Antonio boards over 35 years in economic development and strategic planning."}
+  ]
+ },
+ {
+  "donor_id": "1c46ee11-b47a-431c-b026-53ccb9000aff",
+  "name": "Nichols, James",
+  "resolved_employer": "Founder / CEO of Agave Land & Development (Helotes-area real-estate developer)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "James Nichols founded Agave Land & Development in 2016; company profile and press (The Real Deal, 2024) confirm him as the developer behind projects like the Gabriella condos near Helotes. Address 78023 Helotes matches company base. No FEC PAC or TX lobbyist record found.",
+  "source_url": "https://therealdeal.com/texas/san-antonio/2024/10/30/agave-land-development-brings-condos-to-san-antonio-suburb/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Real Estate Council of San Antonio", "role": "Government Affairs Committee member", "category": "business", "source_url": "https://wiza.co/d/agavedevelopment/857e/james-nichols", "snippet": "Profile lists Nichols as a Government Affairs Committee member for The Real Estate Council of San Antonio and a board member of the South San Antonio Chamber of Commerce."}
+  ]
+ },
+ {
+  "donor_id": "09940a8a-7549-4291-8dd2-1d5025a2a947",
+  "name": "Castillo, Victoria",
+  "resolved_employer": "Personal Shopper / Style Advisor at Saks Fifth Avenue, San Antonio",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Employer and occupation come from the donation record (Saks Fifth Avenue personal shopper, 78248); 'Victoria Castillo' is a common name with no distinctive public profile, board seat, or advocacy role found. FEC shows individual candidate contributions but no advocacy-PAC affiliation could be confirmed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8b543cc6-911f-413e-adc9-b42f2b796026",
+  "name": "Padilla, Javier",
+  "resolved_employer": "Retired attorney (personal injury / insurance law), San Antonio (retired)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Long-time San Antonio personal-injury/insurance attorney licensed with the State Bar of Texas, now retired; residence 78228 matches an SA-area retired lawyer. FEC pattern (19 donations, all-Democratic) fits an individual small donor, not a PAC or lobbyist.",
+  "source_url": "https://lawyers.justia.com/lawyer/javier-padilla-301614",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2ffe5b9a-fd2d-426b-9f85-85a413687eb2",
+  "name": "Robledo, Richard",
+  "resolved_employer": "Retired federal civil servant, HQ AETC (ITP Acquisition Manager), JBSA-Randolph (retired)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms a Richard Robledo who spent ~36 years in Air Force civil service as ITP Acquisition Manager at HQ AETC, JBSA-Randolph, now retired — an ordinary federal civil servant, not a defense-contractor executive, so classified Government per guidance (military_defense category not applicable).",
+  "source_url": "https://www.linkedin.com/in/richard-robledo-365163119/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9fbf2df4-db5e-4e8f-bcd3-f91c1ea4f4c9",
+  "name": "Juarez, Daniel",
+  "resolved_employer": "Physician (self-employed internist), San Antonio",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Occupation listed as self-employed doctor at 78261; a Dr. Daniel Juarez, MD internist practices in San Antonio (affiliated with Methodist Hospital Metropolitan and an independent practice), consistent with a self-employed physician. No FEC PAC or TX lobbyist record found.",
+  "source_url": "https://www.drdanieljuarez.com/team-3",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fa981245-1838-4aba-b79f-5b008f38722f",
+  "name": "Seale, Brandon",
+  "resolved_employer": "Energy executive; former President of Howard Energy Ventures / Howard Energy Mexico (Howard Energy Partners, San Antonio midstream oil & gas)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Well-documented San Antonio energy figure: former President of Howard Energy Mexico and Howard Energy Ventures at Howard Energy Partners, a midstream oil & gas company; also an energy-focused writer/podcast host. Residence 78209 (Alamo Heights area) fits. No TX lobbyist registration or advocacy-PAC record surfaced.",
+  "source_url": "https://www.howardenergypartners.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Howard Energy Partners", "role": "Former President, Howard Energy Ventures / Howard Energy Mexico (midstream oil & gas executive)", "category": "oil_gas", "source_url": "https://www.hartenergy.com/exclusives/operator-spotlight-brandon-seale-howard-energy-mexico-2016-134753", "snippet": "Hart Energy 'Operator Spotlight' profiles Brandon Seale as head of Howard Energy Mexico; Howard Energy Partners is a midstream oil & gas provider headquartered in San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "6169db97-05ff-418c-884d-bcfef0a9c58d",
+  "name": "Cortez, Mike",
+  "resolved_employer": "Co-Owner, La Familia Cortez Restaurants (Mi Tierra / Market Square)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Donor address 218 Produce Row is the HQ of La Familia Cortez Restaurants; Michael 'Mike' Cortez is a third-generation co-owner leading PR/marketing for the family restaurant group. Address + surname + business location corroborate family membership. No FEC PAC or TEC lobbyist hits.",
+  "source_url": "https://lsa42.com/staff/the-cortez-family/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Convention & Visitors Bureau", "role": "Executive Committee member", "category": "civic", "source_url": "https://lsa42.com/staff/the-cortez-family/", "snippet": "Serves on the Executive Committee of the San Antonio Convention and Visitors Bureau and the Downtown Alliance Executive Committee."},
+   {"org": "San Pedro Creek Improvements Project / Restoration Subcommittee", "role": "Subcommittee member", "category": "civic", "source_url": "https://lsa42.com/staff/the-cortez-family/", "snippet": "Member of the San Pedro Creek Improvements Project restoration subcommittee; member of the San Antonio and Texas Restaurant Associations and the Hispanic Chamber of Commerce."}
+  ]
+ },
+ {
+  "donor_id": "496f4aa8-4a42-4ea8-bb52-21c273cfafe1",
+  "name": "Moran, Oscar and Margaret",
+  "resolved_employer": "Retired (former LULAC National Presidents)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Highly distinctive husband-and-wife pairing matches Oscar Moran (LULAC National President 1985-1988) and Margaret Moran (LULAC National President 2010-2012), both San Antonio residents and the only married couple to each lead LULAC. Listed as retired at 78201; identity inferred from the unusual joint-name match, not an address confirmation.",
+  "source_url": "https://lulac.org/about/history/past_presidents/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "League of United Latin American Citizens (LULAC)", "role": "Former National Presidents (Oscar 1985-1988; Margaret 2010-2012)", "category": "civic", "source_url": "https://lulac.org/news/pr/Margaret_Moran_wins_LULAC_presidency/", "snippet": "Margaret Moran of San Antonio won the LULAC presidency, the first time a husband and wife have both served as National Presidents in LULAC history."}
+  ]
+ },
+ {
+  "donor_id": "0ef20828-6a49-477f-a547-392fba18d13f",
+  "name": "Vasquez, Jaime",
+  "resolved_employer": "Managing Shareholder & Board of Directors, Chamberlain Hrdlicka (tax attorney, San Antonio)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Board-certified tax attorney and CPA; Managing Shareholder of Chamberlain Hrdlicka's San Antonio office and a member of the firm's Board of Directors. Firm, city, and 78205 office address corroborate. No pro-Israel/pro-Palestine, energy, or gun/defense PAC affiliations found in FEC/OpenSecrets or the TEC lobbyist registry.",
+  "source_url": "https://www.chamberlainlaw.com/people-jaime_vasquez.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Hispanic National Bar Association Legal Education Fund", "role": "Treasurer", "category": "civic", "source_url": "https://www.chamberlainlaw.com/people-jaime_vasquez.html", "snippet": "Treasurer of the Hispanic National Bar Association Legal Education Fund and San Antonio Co-Coordinator for the State Bar of Texas Tax Court Calendar Call Pro Bono Program."}
+  ]
+ },
+ {
+  "donor_id": "cb7bcd44-face-40a8-94a5-e46b4aed69f8",
+  "name": "Garcia, Noah",
+  "resolved_employer": "Senior Vice President / commercial lender, Vantage Bank Texas, San Antonio",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Noah Garcia is an SVP in commercial lending at Vantage Bank Texas in San Antonio (employer matches; prior roles at Bank of San Antonio and Laredo National Bank). A same-named San Antonio banker has also held civic finance/housing appointments, but the residential address (78254) could not be independently confirmed against the profile.",
+  "source_url": "https://www.linkedin.com/in/noah-garcia-2303b311/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio Mayor's Housing Policy Task Force / SAHA Mirasol Commission", "role": "Appointed advisor/commissioner (banking expertise)", "category": "civic", "source_url": "https://theorg.com/org/san-antonio-hispanic-chamber-of-commerce/org-chart/noah-garcia", "snippet": "A San Antonio banker Noah Garcia was appointed to the Mayor's Housing Policy Task Force and served as a commissioner on a San Antonio Housing Authority (Mirasol) commission; identity match to this donor is probable but not fully confirmed."}
+  ]
+ }
+]

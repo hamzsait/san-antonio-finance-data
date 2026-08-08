@@ -1,0 +1,232 @@
+[
+ {
+  "donor_id": "3694cab2-65ec-4779-bf3f-c7147adb9c40",
+  "name": "Rodriguez, Michael",
+  "resolved_employer": "Happy State Bank (San Antonio market president)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Michael Rodriguez is a San Antonio market president at Happy State Bank (~27 yrs banking; prior BBVA/Lone Star National Bank), matching donor occupation 'Banker'/employer; north-side (78258) residence consistent. No FEC PAC records (count 0).",
+  "source_url": "https://www.linkedin.com/in/michael-rodriguez-7b3a051a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "30499f9f-8f43-4496-96ac-524c94109449",
+  "name": "Garza, Felice",
+  "resolved_employer": "Law Offices of Garcia & Ramirez, P.C. (attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Felice Marie Garza is a San Antonio attorney (immigration/criminal/general practice, ~17 yrs) at the Law Offices of Garcia & Ramirez, P.C., matching donor occupation and employer. FEC individual giving is Democratic-leaning but no specific ideological PAC (AIPAC/J Street/oil-gas/gun) contributions found.",
+  "source_url": "https://www.lawyers.com/san-antonio/texas/felice-garza-168578766-a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2df0fab5-5c34-4629-9a48-9ea2e4dc62a6",
+  "name": "Cavazos, Ramiro",
+  "resolved_employer": "United States Hispanic Chamber of Commerce (President & CEO)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Ramiro A. Cavazos is President & CEO of the U.S. Hispanic Chamber of Commerce (largest Hispanic business-advocacy org) and former 10+ yr CEO of the San Antonio Hispanic Chamber; matches donor occupation/employer and 78231 SA residence. No ideological/AIPAC/oil-gas/gun PAC contributions surfaced; the TX lobbyist registry hit was a different person (Sergio Cavazos).",
+  "source_url": "https://www.ushcc.com/about-the-ushcc/ushcc-team/ramiro-a-cavazos-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "United States Hispanic Chamber of Commerce", "role": "President & CEO", "category": "business", "source_url": "https://www.ushcc.com/about-the-ushcc/ushcc-team/ramiro-a-cavazos-team/", "snippet": "Ramiro A. Cavazos is President and Chief Executive Officer of the United States Hispanic Chamber of Commerce, America's largest business advocacy organization for Hispanics."}
+  ]
+ },
+ {
+  "donor_id": "2cb64412-8760-4a78-9f7c-368f699c27ca",
+  "name": "Aldrete, Cristina",
+  "resolved_employer": "Aldrete Strategic Partners, LLC (managing partner)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Cristina L. Aldrete is managing partner of Aldrete Strategic Partners, a San Antonio public-affairs/strategic-consulting firm, and former President/CEO (2018-2022) of the North San Antonio Chamber of Commerce; matches donor occupation/employer and 78216 SA residence. Distinct from Gavito's unrelated 2025 opponent Cynthia Lugo Alderete. No ideological PAC contributions found.",
+  "source_url": "https://sanantonioreport.org/north-san-antonio-chamber-leader-resigns/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "North San Antonio Chamber of Commerce", "role": "Former President & CEO (2018-2022)", "category": "business", "source_url": "https://sanantonioreport.org/north-san-antonio-chamber-leader-resigns/", "snippet": "Cristina Aldrete resigned as president and CEO of the North San Antonio Chamber of Commerce; under her the chamber began a pro-business scorecard of San Antonio City Council members."}
+  ]
+ },
+ {
+  "donor_id": "2aefd666-2cb9-4c74-9f64-97f712822c43",
+  "name": "Ramirez, Callie",
+  "resolved_employer": "Stone Oak Family Practice (physician assistant)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Callie Ramirez is a family-medicine physician assistant at Stone Oak Family Practice, San Antonio (WebMD/Healthgrades listing), matching donor occupation and employer. No FEC records (count 0); no lobbyist or advocacy affiliations found.",
+  "source_url": "https://doctor.webmd.com/doctor/callie-ramirez-e094a833-b735-4826-8e65-efbf470680ce-overview",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "26a27ed4-d5d8-487e-9a2a-63b11138f375",
+  "name": "Speer, Zachary",
+  "resolved_employer": "Center for Dialectical and Cognitive Behavioral Therapies (LPC therapist)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Zachary Speer, LPC, at the Center for Dialectical and Cognitive Behavioral Therapies (matches 'Center for cog therapies'); therapist directory lists his practice in San Antonio, though donor location string reads Austin 78748. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://therapyfinder.com/therapist/zachary-speer-san-antonio-tx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2304c96c-92ff-4b6d-8052-f68e15e91325",
+  "name": "Silva, Adan",
+  "resolved_employer": "Ariva Contracting LLC (president/owner)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Adan Silva is president/owner of Ariva Contracting LLC (matches 'ARIVA' + 'Owner'), a San Antonio veteran/minority-owned construction firm at 5938 Creekway St, 78247 — an exact match to the donor's address. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/adan-silva-79558853/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1a9d6504-7004-4a8f-9ed9-67d10898eda1",
+  "name": "Casey, Colleen",
+  "resolved_employer": "Phyllis Browning Company (REALTOR)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Colleen Casey, REALTOR with Phyllis Browning Company since 1995, specializing in Monte Vista/Olmos Park/King William (her 116 Bushnell Ave, 78212 address sits in Monte Vista). FEC record shows 192 individual contributions with a fully Democratic lean; no specific ideological/pro-Israel/pro-Palestine PAC or TX lobbyist registration surfaced.",
+  "source_url": "https://www.phyllisbrowning.com/realestate/agent/colleen-casey/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "144dc7a0-f646-4ca6-abe8-9f118c013f5e",
+  "name": "Nichols, James",
+  "resolved_employer": "Agave Land & Development, LLC (managing partner)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "James Nichols is managing partner of Agave Land & Development, LLC, a San Antonio NW-side real estate developer; his firm's Gabriella condo project sits at 10225 Braun Rd — an exact match to the donor address. Public bio lists him as Alamo Angels member, former South San Antonio Chamber board member, and Government Affairs Committee member of The Real Estate Council of San Antonio. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://therealdeal.com/texas/san-antonio/2024/10/30/agave-land-development-brings-condos-to-san-antonio-suburb/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "The Real Estate Council of San Antonio", "role": "Government Affairs Committee Member", "category": "business", "source_url": "https://agavebuilt.com/about", "snippet": "Nichols served as a Government Affairs Committee Member for The Real Estate Council of San Antonio and board member of the South San Antonio Chamber of Commerce."}
+  ]
+ },
+ {
+  "donor_id": "128ac19b-1cca-473e-93fd-93e47946d8ae",
+  "name": "Classen, Billy",
+  "resolved_employer": "Datapoint Surveying and Mapping II, LLC (business development manager)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Billy Classen is business development manager at Datapoint Surveying & Mapping II, LLC (dba Datapoint Engineering), a civil design/land-surveying firm at 12450 Network Blvd, 78249 — matching the donor's '12400 Network Blvd, 78249'. LinkedIn lists him as a volunteer with the Admiral Nimitz Foundation / National Museum of the Pacific War. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://business.sachamber.org/memberdirectory/Details/datapoint-surveying-mapping-ii-llc-3978356",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "09431ed3-ae17-41e6-8d48-9b6a1605f4e2",
+  "name": "Monroe, David",
+  "resolved_employer": "San Antonio Museum of Science and Technology (SAMSAT), founding chair/CEO",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "David Monroe (d. 2025) was a serial tech inventor/entrepreneur (former Datapoint VP of Engineering; founder of e-Watch, PhotoTelesis, Image Data Corp) and founding chair/CEO of SAMSAT at Port San Antonio. Alive at the time of the 2025 council donation. No PAC or lobbyist records found.",
+  "source_url": "https://www.samsat.org/david-monroe",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "071aafd2-fd89-4006-af92-2d0733bcf2db",
+  "name": "Bernal, Joe",
+  "resolved_employer": "Retired — former Texas state representative/senator & State Board of Education member",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Dr. Joe J. Bernal, former Texas state representative/senator (1964-1972), SBOE member, and prominent San Antonio Democrat/civil-rights figure, died Jan 25, 2025 at age 97 — so he was alive for the March 2023 donation. Public records tie him to 6410 Laurelhill Dr, 78229 (matches donor address); FEC lean 1.0 fits his lifelong Democratic profile. Identity plausible but not fully separable from a same-named household member.",
+  "source_url": "https://www.tpr.org/education/2025-01-27/joe-bernal-san-antonio-dies-at-age-97",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "00c68118-2575-4165-8caa-71ecb6bc0997",
+  "name": "Zapata, Ramiro",
+  "resolved_employer": "Zapata Design Associates (ZDA Architecture), founder/architect",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Ramiro O. Zapata, AIA, self-employed architect who founded Zapata Design Associates (ZDA Architecture) in 1989; firm in the 78212 Tobin Hill/Monte Vista area, same as donor residence (139 E Lynwood). Occupation 'Architect / Self Employed' matches. Heavy Democratic-leaning FEC small-donor pattern (74 gifts) but no specific ideological PAC or TX lobbyist registration found.",
+  "source_url": "https://www.zdaarchitecture.com/firm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f4ad286e-b119-47c9-ae63-1f5ca00576f1",
+  "name": "Mason, Bill",
+  "resolved_employer": "Southwest Research Institute (SwRI) — Deputy General Counsel (IP)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Bill Mason is Deputy General Counsel–Intellectual Property at Southwest Research Institute, San Antonio (LinkedIn confirms title/employer). SwRI is a major nonprofit R&D contractor with defense/space work, but Mason's role is IP counsel (employment, not ownership/board/advocacy), so no military_defense affiliation is recorded. No PAC or lobbyist records found (fec_donation_count 0).",
+  "source_url": "https://www.linkedin.com/in/bill-mason-2b737563/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "efd4b6a5-8fe0-4ff5-80a1-5692d809a9c4",
+  "name": "Alonso Jr, Alfonso",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, 78230. A plausible-but-unconfirmed match is Alfonso E. Alonso Jr., a longtime retired San Antonio attorney (St. Mary's J.D. 1968), but his listed office is 78201 and a 78230 residence could not be corroborated, so the specific person is unverified. Heavy Democratic small-dollar FEC pattern (180 gifts); no ideological PAC or TX lobbyist record found.",
+  "source_url": "https://www.martindale.com/attorney/mr-alfonso-e-alonso-jr-1703247/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dd21fd67-2e57-49dc-854f-cc60cdbe99f4",
+  "name": "Reed, James",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Property records confirm James R. (and Katie N.) Reed as homeowners on Ashton Place, San Antonio 78229, consistent with the donor address; listed as retired. Extremely common name — no former career or PAC/lobbyist profile could be confirmed.",
+  "source_url": "https://blockshopper.com/tx/bexar-county/zips/78229/streets/ashton-pl",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d75bb08c-a483-4082-855c-741389696f04",
+  "name": "Czelusta, Nicole",
+  "resolved_employer": "Homemaker (RN, stay-at-home parent)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "RN and stay-at-home parent in the New Braunfels/San Antonio area; former childbirth educator at North Central Baptist Hospital and UIW Student Nurses Association editor. Served as Ball Chair of San Antonio's Red and White Ball (Blood & Tissue Center Foundation). No political-advocacy PAC or lobbyist affiliation found.",
+  "source_url": "https://www.zoominfo.com/p/Nicole-Czelusta/17637564910",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Red and White Ball (Blood & Tissue Center Foundation / BioBridge Global)", "role": "Ball Chair", "category": "civic", "source_url": "https://www.zoominfo.com/p/Nicole-Czelusta/17637564910", "snippet": "Nicole Czelusta listed as Ball Chair at the Red and White Ball, a San Antonio blood/tissue nonprofit fundraiser."}
+  ]
+ },
+ {
+  "donor_id": "c51ba138-819e-4cd4-ad79-7147c9258447",
+  "name": "Arguello, Edward",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired individual in San Antonio 78254; frequent small-dollar donor (70 FEC donations, Democratic-leaning) but no specific person, former career, or ideological-PAC/lobbyist affiliation could be corroborated. Common name.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b7f1f420-4515-422a-8c28-82984af59b53",
+  "name": "Sanchez, Joe Jesse",
+  "resolved_employer": "Retired — former Bexar County Juvenile Probation administrator & SAISD/Harlandale/Edgewood educator",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Retired educator with 45+ years in San Antonio-area school districts and as administrator of Bexar County Juvenile Probation's Juvenile Justice Academy (retired 2018); former Alamo Colleges District Trustee (2017-2020) and 2026 candidate for its District 9 board. Clear match to the San Antonio donor.",
+  "source_url": "https://sanantonioreport.org/profile/joe-jesse-sanchez-2026-candidate-for-alamo-colleges-district-board/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Alamo Colleges District Board of Trustees", "role": "Former Trustee (2017-2020); 2026 District 9 candidate", "category": "civic", "source_url": "https://sanantonioreport.org/profile/joe-jesse-sanchez-2026-candidate-for-alamo-colleges-district-board/", "snippet": "Served as an Alamo Colleges District Trustee from 2017 to 2020; running again for the District 9 board seat."}
+  ]
+ },
+ {
+  "donor_id": "a8a66cbe-3a16-4a73-b0b1-f42a190c6230",
+  "name": "Cisneros, Leticia",
+  "resolved_employer": "RGV, Inc. (real estate investor)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "LinkedIn confirms Leticia Cisneros affiliated with RGV, Inc. in San Antonio; donor self-reported occupation 'real estate investor' with employer 'RGV Inc' — corroborated. No PAC or lobbyist affiliation found.",
+  "source_url": "https://www.linkedin.com/in/leticia-cisneros-52984434/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

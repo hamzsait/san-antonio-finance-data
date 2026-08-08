@@ -1,0 +1,254 @@
+[
+  {
+    "donor_id": "b42428e1-d73f-4fe9-9f92-0080c2f5bd54",
+    "name": "Marina Gavito",
+    "resolved_employer": "SA Digital Connects (formerly USAA, Rackspace, Tech Bloc)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "This is the candidate herself, Marina Alderete Gavito, or the identical civic-tech executive profile. Occupations (Innovation Director/Director/Executive Director) and employers (USAA, SA Digital Connects) match her documented career exactly: founding Executive Director of Tech Bloc, led teams at Rackspace and USAA, and Executive Director of SA Digital Connects before winning the D7 seat in June 2023. Zip 78201 (Monte Vista / West French Place) is her home area. The 2020-2022 gifts recorded here are to OTHER local candidates (Norberto Landin, Ezra Johnson, Adriana Garcia), predating her own council run — i.e., the candidate donating to peers, not a donation to her own campaign. No federal PAC contributions or lobbyist registration found; her only TEC filings are her own candidate/officeholder campaign-finance reports.",
+    "source_url": "https://sanantonioreport.org/profile/marina-alderete-gavito-2023-district-7-city-council-candidate/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Tech Bloc", "role": "Founding Executive Director", "category": "civic", "source_url": "https://compete.org/marina-alderete-gavito/", "snippet": "Founding Executive Director of Tech Bloc; advocated for rideshare and grew membership to 5,000+."},
+      {"org": "SA Digital Connects", "role": "Executive Director", "category": "civic", "source_url": "https://sanantonioreport.org/profile/marina-alderete-gavito-2023-district-7-city-council-candidate/", "snippet": "Executive Director focused on closing the digital divide, partnering with 200+ community organizations on the Community's Digital Plan."}
+    ]
+  },
+  {
+    "donor_id": "f1f011a9-eeab-4bc0-a9e2-962d520f5897",
+    "name": "Patricia Padilla",
+    "resolved_employer": "Metropolitan Health District (San Antonio 'MetroHealth'), retired",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Self-reported as a retired healthcare worker from 'MetroHealth,' which in San Antonio refers to the San Antonio Metropolitan Health District (city public-health department). Could not corroborate the specific individual beyond the donor record — multiple same-named people in San Antonio (a registered dietitian in the same 78228 zip and an unrelated nurse practitioner in McAllen turned up but are different people). No federal PAC contributions and no Texas lobbyist registration found. No professional/bio profile located, so categorized by stated employer/occupation only.",
+    "source_url": "https://www.sa.gov/Directory/Departments/SAMHD",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "abd4843e-7959-4435-a54e-3eaac14f5c3f",
+    "name": "Marisa Flores",
+    "resolved_employer": "State of Texas — Judge, 224th Civil District Court, Bexar County",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as Judge Marisa Flores (State Bar: Marisa Cristina Balderas Flores), presiding judge of the 224th Civil District Court in Bexar County; took office Jan 1, 2023 after her 2022 election, consistent with the 2023-2025 gift window and '78209/District Judge/State of Texas' record. Prior civil-litigation attorney at Begum Pelaez-Prada PLLC; St. Mary's University BBA, University of Oregon JD; SABJ 40 Under 40 (2019). As a Texas state judge she has no FEC filings; no federal PAC contributions and no lobbyist registration found (elected judiciary).",
+    "source_url": "https://sanantonioreport.org/profile/marisa-flores-2026-candidate-for-224th-district-court/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "224th Civil District Court, Bexar County", "role": "Presiding District Judge", "category": "political", "source_url": "https://ballotpedia.org/Marisa_Flores", "snippet": "Assumed office Jan 1, 2023 as judge of the Texas 224th District Court; on the ballot for re-election Nov 2026."},
+      {"org": "Catholic Charities of San Antonio", "role": "Legal Advisory Board member", "category": "civic", "source_url": "https://sanantonioreport.org/profile/marisa-flores-2026-candidate-for-224th-district-court/", "snippet": "Served on the Legal Advisory Board for Catholic Charities of San Antonio and as a board member for the American Red Cross."}
+    ]
+  },
+  {
+    "donor_id": "669f6606-efbc-4c28-ba20-75e59eac662b",
+    "name": "Carrie Ridewood",
+    "resolved_employer": "Self-employed (Casa Brisa); previously M/I Homes, San Antonio division",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Matches Carrie Irwin Ridewood, San Antonio, whose LinkedIn lists her as a 'Business Owner and Team Builder' and who received a Division Excellence award for the M/I Homes San Antonio division (homebuilder), consistent with the 78257 (far NW / Fair Oaks Ranch area) address and 'Self Employed/retired, Casa Brisa' record. 'Casa Brisa' appears to be her own small business; its exact nature is not independently documented, so the real-estate/homebuilding classification (via the M/I Homes tie) is provisional. No FEC federal PAC contributions and no Texas lobbyist registration found. LinkedIn full-text bio could not be read (site returns HTTP 999 to automated fetch).",
+    "source_url": "https://www.linkedin.com/in/carrie-irwin-ridewood-567b0998/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fc393989-a548-48b6-8e80-7813d6e76954",
+    "name": "Juan Sepulveda",
+    "resolved_employer": "Trinity University",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Confirmed as Juan Antonio Sepulveda Jr., Ron Calgaard Distinguished Professor of Practice in political science and Special Advisor for Inclusive Excellence at Trinity University (300 E. Basse Rd / 78209 area matches). Rhodes Scholar (Harvard/Oxford/Stanford Law). Prominent Democratic political figure: Texas state director of Obama for America 2008; Obama administration Executive Director of the White House Initiative on Educational Excellence for Hispanics; Biden-Harris transition (Arts & Humanities team) and Biden appointee to the Commission on Presidential Scholars. No Texas lobbyist registration found; his advocacy footprint is education/broadband policy nonprofits rather than the balanced issue-PAC categories.",
+    "source_url": "https://trinity.edu/news/president-biden-appoints-faculty-member",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Obama administration / Obama for America", "role": "WH Initiative on Educational Excellence for Hispanics Executive Director; 2008 Texas state director", "category": "political", "source_url": "https://trinitonian.com/2021/02/07/trinity-professor-worked-for-biden-transition-team/", "snippet": "Served as Obama's 2008 Texas state director and led the White House Initiative on Educational Excellence for Hispanics; later on the Biden-Harris transition team."},
+      {"org": "Stand for Children", "role": "Chair", "category": "civic", "source_url": "https://stand.org/people/juan-sepulveda/", "snippet": "Board chair of Stand for Children, an education-policy advocacy nonprofit."},
+      {"org": "Benton Institute for Broadband & Society", "role": "Staff/board affiliate", "category": "civic", "source_url": "https://www.benton.org/benton-staffboard/juan-sepulveda", "snippet": "Affiliated with the Benton Institute for Broadband & Society, a broadband-access policy organization."}
+    ]
+  },
+  {
+    "donor_id": "fbebab58-a33c-4544-8974-8a5bbd4f6c38",
+    "name": "Gene Powell",
+    "resolved_employer": "Bitterblue, Inc. / The Powell Companies (retired)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Wm. Eugene 'Gene' Powell of San Antonio, former Chairman of the UT System Board of Regents (2011-2013, appointed by Gov. Rick Perry 2009). In 1987 he formed The Powell Companies (real-estate brokerage) and, with partner Laddie Denton, co-founded Bitterblue, Inc., one of San Antonio's leading real-estate developers. Donor address '19 Bitterblue Lane' directly matches his Bitterblue development identity, strongly corroborating this is the same person. Listed as 'Retired.' Also co-founder of AirStrip Technologies (medical software). Identity confirmed by name, San Antonio location, and the Bitterblue address match.",
+    "source_url": "https://www.utsystem.edu/board-of-regents/former-regents/wm-eugene-powell",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "University of Texas System Board of Regents", "role": "Chairman (2011-2013), Regent (appointed 2009 by Gov. Rick Perry)", "category": "political", "source_url": "https://utsystem.edu/news/2011/02/08/wm-eugene-gene-powell-elected-chairman-of-ut-system-board-of-regents", "snippet": "Wm. Eugene 'Gene' Powell of San Antonio elected chairman of the UT System Board of Regents; appointed to a six-year term by Governor Rick Perry in February 2009."},
+      {"org": "Bitterblue, Inc. / The Powell Companies", "role": "Co-founder / real-estate developer", "category": "business", "source_url": "https://www.crunchbase.com/person/gene-powell-2", "snippet": "In 1987 Powell formed The Powell Companies and, with partner Laddie Denton, formed Bitterblue, Inc., one of San Antonio's leading real estate developers."}
+    ]
+  },
+  {
+    "donor_id": "fb1958b5-f953-45d0-9c74-5e2aac9c16cb",
+    "name": "Oliver Shearer",
+    "resolved_employer": "Self Employed (unconfirmed)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm the specific individual. Listed only as 'Self Employed' with a PO Box (23129, San Antonio 78223). No LinkedIn, business registration, professional profile, FEC contribution record, or lobbyist registration located for an 'Oliver Shearer' in San Antonio. Other same-surname individuals (Jeremy Shearer at H-E-B, Ivor Shearer artist in Houston) are unrelated. Insufficient public information to determine industry or affiliations.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fac839d3-1ea0-4691-9a34-45487e276ee3",
+    "name": "Nancy Poppoon",
+    "resolved_employer": "Louis Poppoon Development & Consulting, Ltd. (LPDC)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Occupation 'Housing Consultant' at 'Louis Poppoon Development' matches Louis Poppoon Development & Consulting, Ltd. (lpdevelop.com), a San Antonio real-estate developer/financial consultant specializing in affordable/multifamily housing (e.g., Bear Springs Apartments rehab, planned 700-unit affordable multifamily). Nancy Poppoon is documented as part of LPDC (family-run firm; Steven/Louis Poppoon also principals). Real-estate-development interest confirmed. No City of San Antonio or Texas Ethics Commission lobbyist registration was found under her name (SA lobbyist system returned 'No Records Found'; the firm name appeared only as a search-link artifact, not an actual registration).",
+    "source_url": "https://www.lpdevelop.com/principals",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Louis Poppoon Development & Consulting, Ltd.", "role": "Housing consultant / principal (family firm)", "category": "business", "source_url": "https://www.lpdevelop.com/", "snippet": "Louis Poppoon Development & Consulting is a San Antonio real-estate developer and financial consultant specializing in affordable-housing development; Nancy Poppoon is listed among LPDC personnel."}
+    ]
+  },
+  {
+    "donor_id": "f980f200-8493-423f-9ee2-5144ba0f9737",
+    "name": "Carmen Gamez",
+    "resolved_employer": "Gamez Law Firm",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Occupation 'Paralegal' at 'Gamez Law Firm' matches the San Antonio personal-injury firm founded 1973 by Joe Gamez. Per the firm's own bio, Carmen (Joe Gamez's wife) joined the firm after nine years of teaching, became a certified paralegal, and still works at the office most days. Identity corroborated by employer, occupation, and San Antonio location. No FEC PAC or Texas Ethics/City lobbyist registration found for her.",
+    "source_url": "https://joegamezlaw.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Gamez Law Firm", "role": "Certified paralegal (spouse of founder Joe Gamez)", "category": "business", "source_url": "https://joegamezlaw.com/", "snippet": "After nine years of teaching and helping at Joe's office, Carmen joined the firm and became certified as a paralegal; both Joe and Carmen still go into the office most days."}
+    ]
+  },
+  {
+    "donor_id": "f05dfd31-1304-4c80-8bc4-622294c7e5f6",
+    "name": "Mark Wohlfarth",
+    "resolved_employer": "The Sabinal Group, LLC",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Mark Wohlfarth is founder/owner of The Sabinal Group, LLC (founded 2005 in San Antonio, co-founded with Danny Benavidez), a firm providing construction project management, scheduling, estimating and code-compliance services (projects include Museo Alameda restoration and the San Antonio Botanical Garden's Sullivan Carriage House). He holds a B.S. in Architecture from UTSA and has 20+ years in construction/architectural services. Identity confirmed by name, company, downtown San Antonio address (238 W Travis St), and title 'Founder & Owner.' No FEC PAC or Texas Ethics/City lobbyist registration found.",
+    "source_url": "https://sabinal-group.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The Sabinal Group, LLC", "role": "Founder & Owner", "category": "business", "source_url": "https://sabinal-group.com/wp-content/uploads/2017/05/Mark_Resume.pdf", "snippet": "Owner of The Sabinal Group, LLC, a San Antonio construction project-management firm; 22+ years providing professional construction and architectural services; B.S. Architecture, UTSA."}
+    ]
+  },
+  {
+    "donor_id": "f03755b9-3e00-4674-8083-f1c660e4e51d",
+    "name": "Mario A. Barrera",
+    "resolved_employer": "Norton Rose Fulbright US LLP",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Confirmed via Norton Rose Fulbright partner/of-counsel bio: Mario A. Barrera is an Of Counsel (formerly partner) labor & employment litigator in the firm's San Antonio office with 30 years' experience, board-certified in labor & employment law by the Texas Board of Legal Specialization (1989), fluent in Spanish. San Antonio/78212 zip and attorney occupation match the donor record. No federal PAC contributions surfaced under his name on FEC/OpenSecrets searches; no Texas Ethics Commission or City of San Antonio lobbyist registration found. Bio lists only civic/business/education board service, no pro-Israel/pro-Palestine/oil-gas/gun/defense advocacy affiliations.",
+    "source_url": "https://www.nortonrosefulbright.com/en-us/people/1014812",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Chamber of Commerce", "role": "Board member (2007-2018)", "category": "business", "source_url": "https://www.nortonrosefulbright.com/en-us/people/1014812", "snippet": "Firm bio lists San Antonio Chamber of Commerce Board service 2007-2018."},
+      {"org": "San Antonio Independent School District Citizens Oversight Committee", "role": "Chair (2011-2016)", "category": "civic", "source_url": "https://www.nortonrosefulbright.com/en-us/people/1014812", "snippet": "Bio: Chair of the SAISD bond Citizens Oversight Committee 2011-2016."}
+    ]
+  },
+  {
+    "donor_id": "eedc9360-96a1-47d1-8600-770c35fef828",
+    "name": "Cristal Rodriguez",
+    "resolved_employer": "Morgan Stanley",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "A Cristal Rodriguez is documented at Morgan Stanley in San Antonio (listed as a Business Service Officer, with prior roles at Merrill Lynch and UBS per RocketReach), consistent with the donor's 'Broker' occupation and Morgan Stanley employer. FINRA BrokerCheck did not surface a specific registered-rep record confirming license, and a similarly named 'Crystal Rodriguez' works as a San Antonio realtor (different spelling) — so identity is probable but not fully corroborated. No FEC PAC contributions and no Texas Ethics Commission / City of San Antonio lobbyist registration found. No policy-advocacy affiliations found. Categorized by employer (financial services).",
+    "source_url": "https://rocketreach.co/cristal-rodriguez-email_848145640",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ee974be8-a117-4e0a-a7d8-83ab0becf39d",
+    "name": "Fernando Reyes",
+    "resolved_employer": "Reyes Automotive Group (RAG)",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "The ambiguous employer 'RAG' resolves to Reyes Automotive Group, a San Antonio Tier One Toyota parts supplier founded/led by Fernando Reyes (also President of Reyes AmTex Automotive, plus Reyes Development/Reyes Properties real estate ventures). The distinctive 'RAG' abbreviation plus exact name match make this the clear referent. Caveat: donor lists occupation 'Manager' (Reyes is founder/president) and a downtown 78205 address (2 Lexington Ave) rather than the company's 1 Lone Star Pass HQ, so it may be the principal self-describing or a related manager — hence medium confidence. Automotive-parts manufacturing has no exact taxonomy bucket; classified under Transportation (automotive). No individual FEC PAC contributions surfaced; no lobbyist registration found. Extensive documented civic/political record noted below.",
+    "source_url": "https://www.tobincenter.org/node/658",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Chairman of the Board (2007-2008)", "category": "business", "source_url": "https://www.tobincenter.org/node/658", "snippet": "Bio: 2007-2008 Chairman, San Antonio Hispanic Chamber of Commerce."},
+      {"org": "Texas Lottery Commission", "role": "Commissioner (appointed by Gov. Rick Perry)", "category": "political", "source_url": "https://www.tobincenter.org/node/658", "snippet": "Appointed by Gov. Rick Perry as a Texas Lottery Commission Commissioner; earlier appointed by Gov. George W. Bush to state boards."},
+      {"org": "Bank of San Antonio", "role": "Director", "category": "business", "source_url": "https://www.tobincenter.org/node/658", "snippet": "Bio lists Director, Bank of San Antonio, among numerous board seats (St. Mary's University, San Antonio Parks Foundation, Fiesta Commission President 2014-2015)."}
+    ]
+  },
+  {
+    "donor_id": "ed265f68-0155-4ecc-a970-922a33179d32",
+    "name": "Vijay Gunuganti",
+    "resolved_employer": "Texas Oncology - Cancer Care Centers of South Texas",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Confirmed: Vijay K. Gunuganti, MD is a board-certified medical oncologist/hematologist at Texas Oncology in San Antonio, adjunct faculty at UT Health San Antonio, principal investigator in US Oncology Research studies, formerly University of Wisconsin faculty. San Antonio/78209 residence and oncologist occupation match. No individual FEC PAC contributions surfaced (FEC search form returned no data via fetch; name-based searches found none); no Texas Ethics Commission or City of San Antonio lobbyist registration. No policy-advocacy affiliations found. Small-dollar household donation with spouse (donor Manj Gunuganti) at same address.",
+    "source_url": "https://texasoncology.com/oncologist/vijay-gunuganti",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ec10e918-c387-4e1a-b5e0-13e63af231f5",
+    "name": "Manj Gunuganti",
+    "resolved_employer": "None (self-reported stay-at-home)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Spouse of donor Vijay Gunuganti at the same 224 Newbury Terrace, 78209 address; classic small-dollar household donation pattern. Donor filing self-reports occupation 'Stay at Home' / employer 'None,' so classified Not Employed. A Manjusha Gunuganti, MD (physiatrist / physical medicine & rehab) practices in San Antonio and could be the same person, but the physician occupation conflicts with the self-reported stay-at-home status, so the medical identity is not confirmed and the filing's self-description is respected. No FEC PAC contributions and no lobbyist registration found. No policy-advocacy affiliations.",
+    "source_url": "https://www.npinumberlookup.org/manjusha-gunuganti-san-antonio-tx-1043243595",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e96ee24b-5ffe-4509-afa1-78c6914b9c7c",
+    "name": "Joanna Rico",
+    "resolved_employer": "CaduceusHealth (healthcare revenue-cycle / practice-management firm)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Occupation 'Medical Financial Services' at 'Caduces Health' matches CaduceusHealth, a healthcare revenue-cycle-management and practice-management company (medical financial operations). No public bio/profile for Joanna Rico of San Antonio 78228 could be located to confirm this specific individual; classification is by employer/occupation. No FEC PAC contributions or Texas/City lobbyist registration found under this name.",
+    "source_url": "https://caduceushealth.com/services",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e67069be-ce2a-4772-b158-46afb25a15c1",
+    "name": "Niels Agather",
+    "resolved_employer": "Self-employed (musician)",
+    "industry": "Entertainment",
+    "confidence": "low",
+    "evidence": "Donor listed occupation 'Musician' / employer 'Self' at 300 West French Pl, Monte Vista, San Antonio 78212. The prominent V. Niels Agather is a Fort Worth oil-family figure (Burnett Oil / Burnett Aviation, former executive director of the Burnett Foundation tied to the Anne Windfohr Marion / Four Sixes Ranch interests). However, that individual is a Fort Worth oil executive, not a self-described San Antonio musician, so I could NOT confirm the San Antonio donor is the same person or is himself in oil & gas. No public bio, FEC PAC record, or lobbyist registration was found tying THIS San Antonio musician to oil & gas; a possible Agather/Burnett family link is plausible but uncorroborated, so no affiliation is recorded.",
+    "source_url": "https://fortworthreport.org/2024/01/28/burnett-foundation-spent-1-billion-on-fort-worth-will-next-generation-of-philanthropists-step-up/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e5d7f410-76c1-4d44-920a-b2d84bc94159",
+    "name": "John Dickson",
+    "resolved_employer": "Bytewhisper Security, Inc. (CEO)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Confirmed: John B. Dickson, CISSP, San Antonio cybersecurity executive; CEO of Bytewhisper Security (AI-security), former Principal at Denim Group (acquired by Coalfire 2021), former U.S. Air Force intelligence/cyber officer (Air Force Information Warfare Center / AFCERT, 1990s). Documented civic leadership: past Chairman of the Texas Lyceum, member Texas Business Leadership Council, and chairman of San Antonio's airport (Air System Development) committee. No PAC contributions surfaced in web/FEC search under a confirmed match, and no Texas/City lobbyist registration found.",
+    "source_url": "https://bytewhispersecurity.com/about.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Lyceum", "role": "Past Chairman", "category": "civic", "source_url": "https://bytewhispersecurity.com/about.html", "snippet": "Past Chairman of the Texas Lyceum (nonpartisan statewide leadership organization)."},
+      {"org": "Texas Business Leadership Council", "role": "Member", "category": "business", "source_url": "https://bytewhispersecurity.com/about.html", "snippet": "Current member of the Texas Business Leadership Council, a statewide CEO business-policy group."},
+      {"org": "U.S. Air Force (AFIWC / AFCERT)", "role": "Former intelligence/cyber officer", "category": "military_defense", "source_url": "https://bytewhispersecurity.com/about.html", "snippet": "Former U.S. Air Force officer who served in the Air Force Information Warfare Center and Air Force Computer Emergency Response Team in the 1990s."}
+    ]
+  },
+  {
+    "donor_id": "e5d788b3-b0c2-4119-8de9-f89266897c80",
+    "name": "Chris Donohue",
+    "resolved_employer": "Marathon Title Company, L.C. (President & CEO)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Confirmed: Christopher T. Donohue is Managing Member / President, CEO & Escrow Officer of Marathon Title Company, L.C., 10101 Reunion Place, San Antonio 78216 (matches donor address). Graduate of University of Connecticut School of Law (the 'Attorney' occupation). Marathon Title is a title-insurance firm serving real-estate/development professionals and lenders (real-estate-adjacent). No FEC PAC contributions or Texas/City lobbyist registration found under a confirmed match.",
+    "source_url": "https://www.linkedin.com/in/christopher-donohue-a8016b151/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e513641a-44e5-4023-86e1-9d4b26861b93",
+    "name": "Patricia Conlin",
+    "resolved_employer": "DRB Homes / DRB Group (Division VP of Sales & Marketing)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Confirmed: Patty (Patricia) Conlin, San Antonio, is Division VP of Sales & Marketing at DRB Homes (DRB Group), a top-20 national homebuilder; prior roles at Toll Brothers, Highland Homes, and Mercedes Homes; B.B.A. in Marketing from UTSA. Employer and title match donor record. No FEC PAC contributions or Texas/City lobbyist registration found under a confirmed match.",
+    "source_url": "https://www.linkedin.com/in/patty-conlin-12ba09b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "DRB Homes / DRB Group", "role": "Division VP of Sales & Marketing", "category": "business", "source_url": "https://www.linkedin.com/in/patty-conlin-12ba09b/", "snippet": "Division VP of Sales and Marketing at DRB Homes, a national (top-20 U.S.) residential homebuilder / real-estate developer."}
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "donor_id": "e484f35c-066a-4323-9a6b-3381ecea7975",
+    "name": "Rodriguez, Derrich",
+    "resolved_employer": "PlainsCapital Bank (SVP / Senior Commercial Loan Officer)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Derrich Rodriguez is Senior Vice President / Senior Commercial Loan Officer at PlainsCapital Bank in San Antonio (joined May 2021 from Amegy Bank; ~two decades of San Antonio banking; BBA finance, Texas State). Matches donor occupation 'Banker', employer 'PlainsCapital Bank', and 78232 San Antonio location. No FEC PAC contributions matched this name; not in Texas Ethics Commission lobbyist rolls. Public bio documents local civic/education board roles only; no tracked ideological affiliations found.",
+    "source_url": "https://plainscapital.com/newsroom/derrich-rodriguez-joins-plainscapital-banks-growing-san-antonio-lending-group/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "St. Anthony Catholic School Board of Trustees", "role": "Chairman", "category": "civic", "source_url": "https://plainscapital.com/newsroom/derrich-rodriguez-joins-plainscapital-banks-growing-san-antonio-lending-group/", "snippet": "He is chairman of the St. Anthony Catholic School Board of Trustees."},
+      {"org": "Rey Feo Consejo Educational Foundation", "role": "Member", "category": "civic", "source_url": "https://plainscapital.com/newsroom/derrich-rodriguez-joins-plainscapital-banks-growing-san-antonio-lending-group/", "snippet": "He is a member of Rey Feo Consejo Educational Foundation."},
+      {"org": "Leadership San Antonio (Class 45)", "role": "Member", "category": "civic", "source_url": "https://plainscapital.com/newsroom/derrich-rodriguez-joins-plainscapital-banks-growing-san-antonio-lending-group/", "snippet": "He is a member of the Leadership San Antonio Class 45."}
+    ]
+  },
+  {
+    "donor_id": "e0e99878-4d69-45c4-826b-be9050d0d2c7",
+    "name": "LLC, Andrew",
+    "resolved_employer": "Andrew Grohe LLC (self-employed petroleum landman)",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Garbled 'Andrew' + 'LLC' + occupation 'Petroleum Landman' / employer 'Self' resolves to Andrew Grohe LLC, a self-employed San Antonio petroleum landman. LinkedIn lists him as 'Andrew Grohe LLC - Petroleum Landman'; his site describes a sole-proprietor land brokerage doing South/Central Texas landwork for 40+ years, Certified Professional Landman (AAPL) since 1997. Industry is oil & gas. No FEC PAC contributions found; not in Texas Ethics Commission lobbyist rolls. No oil_gas affiliation recorded because only the occupation (not an executive/owner/board role in an oil & gas PAC or advocacy org) is documented; AAPL membership is a professional certification, not a policy-advocacy leadership role.",
+    "source_url": "https://www.andrewgrohe.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e004b177-385e-45e4-b98c-9e58eb597bfd",
+    "name": "Kish, Jennifer",
+    "resolved_employer": "Bowling Green State University (Associate Clinical Professor, Doctor of Physical Therapy program)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Jennifer (Jenn) Kish, DPT, PhD, is an Associate Clinical Professor and Director of Admissions for the Bowling Green State University Doctor of Physical Therapy program; prior Texas roles at University of the Incarnate Word, Texas State, and Texas Physical Therapy Specialists (PhD from Texas Woman's University). Matches donor occupation 'Physical Therapist Educator' and employer 'Bowling Green State University'; the San Antonio 78213 address is consistent with her prior Texas ties. No FEC PAC contributions found; not in Texas Ethics Commission lobbyist rolls; no tracked ideological affiliations found.",
+    "source_url": "https://www.linkedin.com/in/jkishpt/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "de1a6984-1792-4226-a32c-b2d4659fcd36",
+    "name": "Torres, Guadalupe V",
+    "resolved_employer": "Retired",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor self-reports as 'Retired' at a 78212 San Antonio address. 'Guadalupe Torres' is an extremely common name in San Antonio; no public record (FEC individual-contribution history, Texas Ethics Commission lobbyist registry, or professional/bio page) could be matched to this specific individual with the given zip/occupation. No tracked affiliations found. Confidence low on identity; industry set to Not Employed based only on the self-reported 'Retired' status.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dc7895b9-f0ed-4b76-8aa9-a1152c172b82",
+    "name": "Volluz, Laura",
+    "resolved_employer": "Pescador Public Strategies, LLC (Managing Partner)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Resolves to Laura Hernandez Volluz, Managing Partner of Pescador Public Strategies, LLC, a San Antonio minority/woman-owned public-affairs and political-marketing firm that markets and brands political candidates and activates Latino voters, describing itself as dedicated to progressive/Democratic candidates and causes. Matches donor's 'Self Employed' occupation and 'Pescador Public Strategies' employer. She does NOT appear in Texas Ethics Commission registered-lobbyist lists (2019-2026) nor as a City of San Antonio registered lobbyist found in searches — she is a political consultant/public-affairs principal, not a registered lobbyist. No individual FEC PAC contributions surfaced. No pro-Israel/pro-Palestine/oil_gas/gun/defense affiliations found.",
+    "source_url": "https://www.pescadorps.com/ourdna",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Pescador Public Strategies, LLC", "role": "Managing Partner", "category": "political", "source_url": "https://www.pescadorps.com/ourdna", "snippet": "San Antonio political-marketing/public-affairs firm that brands and markets political candidates and activates the Latino voter base, dedicated to progressive/Democratic candidates and causes; Laura Volluz is a Managing Partner."}
+    ]
+  },
+  {
+    "donor_id": "d0b1fd1b-d50f-46a8-b0ff-ae0cd3644300",
+    "name": "Villanueva, Valeree",
+    "resolved_employer": "U.S. Department of Justice (federal; Supervisor)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Donor filing lists occupation 'Supervisor' at U.S. Department of Justice / Federal Government, New Braunfels TX 78130. FEC individual-contribution and Texas Ethics Commission lobbyist searches returned no records for this name; no ideological-PAC contributions found. No independent public bio located to further corroborate, but federal DOJ employment is consistent with a Government industry classification.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cd1367ac-e1c0-433b-81fd-3c6f669a49a6",
+    "name": "Hernandez, David",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Very common name; filing lists 'Retired', 2249 Texas Ave, San Antonio TX 78228. FEC search surfaced only a different David Hernandez (78254, 'Not Employed') that does not match the zip. Texas Ethics Commission lobbyist search returned no match. Unable to confirm the specific individual; no ideological affiliations found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bf4b0359-519f-431e-a082-b3a0c3f4c607",
+    "name": "Tijerina, Raul",
+    "resolved_employer": "San Antonio Police Department (Detective)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Filing lists occupation 'Detective' at San Antonio Police, San Antonio TX 78245. Corroborated by news coverage identifying Raul Tijerina as a San Antonio Police Department detective. FEC and Texas Ethics Commission lobbyist searches returned no individual records; the SAPOA police-union PAC exists but no documented individual membership or contribution by this person was found, so none recorded.",
+    "source_url": "https://news4sanantonio.com/news/local/detective-suspended-after-allegedly-engaging-in-sexual-conduct-while-on-duty",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ba927176-8c51-408f-a755-3c967957c65b",
+    "name": "Valdez, Juan",
+    "resolved_employer": "Methodist Healthcare System (San Antonio; HCA Healthcare joint venture) — Manager, Government Relations",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Filing lists 'Government Affairs' at HCA Healthcare, San Antonio TX 78201. Public records identify Juan Valdez as Manager, Government Relations at Methodist Healthcare System of San Antonio (a joint venture co-owned by HCA Healthcare), and formerly Senior Policy Advisor in Mayor Ron Nirenberg's Office working on affordable housing. Texas Ethics Commission and City of San Antonio lobbyist searches did not confirm an individual registration under his name; no personal lobbyist registration verified. No ideological-PAC contributions found in FEC search.",
+    "source_url": "https://www.zoominfo.com/p/Juan-Valdez/11557289333",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Methodist Healthcare System (San Antonio)", "role": "Manager, Government Relations", "category": "business", "source_url": "https://www.zoominfo.com/p/Juan-Valdez/11557289333", "snippet": "Manager, Government Relations at Methodist Health System, San Antonio — hospital-company government-affairs role."},
+      {"org": "City of San Antonio, Office of Mayor Ron Nirenberg", "role": "Senior Policy Advisor (former), affordable housing", "category": "political", "source_url": "https://www.sanantonio.gov/Portals/0/Files/NHSD/Coordinated%20Housing%20Web-page/CHS/SHIP_Approved.pdf", "snippet": "Juan Valdez of the Mayor's Office listed as a contributor to the City of San Antonio / Bexar County 2022-2031 Housing Plan; served as Senior Policy Advisor to Mayor Nirenberg on affordable housing."}
+    ]
+  },
+  {
+    "donor_id": "b98757e9-6620-4898-ac26-0f36279fec76",
+    "name": "Ramirez, Andrea",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name; filing lists 'Retired', 2502 W Gramercy, San Antonio TX 78228. FEC individual-contribution and Texas Ethics Commission lobbyist searches returned no confirmable match for this specific person. Unable to resolve identity; no ideological affiliations found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b4fa9e79-32ec-4da4-ab92-2d8763bfd9d4",
+    "name": "Wyatt, Theresa",
+    "resolved_employer": "Self-employed strategic marketing consultant; Mucho Mas Media (Chief Media Growth Officer / Board Co-Chair)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Theresa Vargas Wyatt is a San Antonio-based self-employed consultant/strategic advisor (JD & MBA from St. Mary's University) who has advised Fortune 100 brands on Latinx go-to-market strategy; currently Chief Media Growth Officer and Board Co-Chair at Mucho Mas Media. Matches donor's 78212 self-employed consultant profile. No FEC ideological-PAC records; no Texas Ethics Commission or City of San Antonio lobbyist registration found.",
+    "source_url": "https://www.acg.org/asa/events/2023-acg-asa-oct-31st-lunch-sa",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Committee to Elect Hillary Clinton", "role": "National Co-Chair of Latino Outreach", "category": "political", "source_url": "https://www.acg.org/asa/events/2023-acg-asa-oct-31st-lunch-sa", "snippet": "Theresa served as a National Co-Chair of Latino Outreach for the Committee to Elect Hillary Clinton."},
+      {"org": "Obama 2012 Reelection Campaign", "role": "Founding Member, Latino Outreach", "category": "political", "source_url": "https://www.acg.org/asa/events/2023-acg-asa-oct-31st-lunch-sa", "snippet": "a Founding Member of the Latino Outreach effort of the 2012 reelection campaign of Barack Obama."}
+    ]
+  },
+  {
+    "donor_id": "b379e94f-904e-4c0b-b646-052d2fa48dfb",
+    "name": "Molina, Belinda",
+    "resolved_employer": "Homemaker",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor listed as homemaker with no employer. 'Belinda Molina' is a very common San Antonio name; could not corroborate the specific 78210/Barrera St individual. No FEC ideological-PAC records, no Texas Ethics Commission or City of San Antonio lobbyist registration, and no public professional bio found for this individual. Classified Not Employed per homemaker status.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b14305f5-6989-488d-bbdd-81f9b50aa030",
+    "name": "Griffin, Edna",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor is retired (78240, Woodchase Dr, NW San Antonio). 'Edna Griffin' is a common name; the prominent Doris 'Edna' Griffin (senior-affairs advocate, namesake of the Doris Griffin Senior Center) lived in South Central San Antonio — a different location and likely a different person, so not attributed. Could not confirm a prior career. No FEC ideological-PAC records, no lobbyist registration, no confirmable bio. Industry left null.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ae614a72-ee44-4bd3-8e18-002bb84d49f7",
+    "name": "Costello, Elizabeth",
+    "resolved_employer": "City of San Antonio, International Affairs Department (retired Director)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Elizabeth Costello is the named retired Director of the City of San Antonio International Affairs Department (18+ years of international trade/foreign-relations work, credited with helping attract Toyota's 2003 investment and coordinating NAFTA-era bilateral relations with Mexico). Matches donor's 78212 profile as retired City International Affairs Director. No FEC ideological-PAC records surfaced; no Texas Ethics Commission or City of San Antonio lobbyist registration found. Affiliations are civic/international-affairs, not tracked-category advocacy.",
+    "source_url": "https://www.linkedin.com/in/elizabeth-costello-52a791a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "World Affairs Council of San Antonio", "role": "Board Member", "category": "civic", "source_url": "https://wacofsa.org/about/", "snippet": "Board Member of the World Affairs Council of San Antonio, an organization chartered in 1982 that promotes public understanding of world affairs and United States foreign policy."}
+    ]
+  },
+  {
+    "donor_id": "aa50b5a6-ba8a-4d49-a29a-5e8d8c451110",
+    "name": "Padron, Ana Lisa",
+    "resolved_employer": "IDEA Public Schools (Chief of Staff)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Donor's self-reported role (Chief of Staff, IDEA Public Schools) aligns with IDEA Public Schools, a Weslaco-based charter network with ~15 San Antonio campuses. Classified Education. No FEC ideological-PAC records, no Texas Ethics Commission or City of San Antonio lobbyist registration, and no documented school-choice/policy-advocacy board role found for this individual — so no advocacy tag applied despite the charter-network context.",
+    "source_url": "https://ideapublicschools.org/our-story/leadership/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a08c3633-2cac-4c1b-815b-47d279ba0116",
+    "name": "Viramontes, Carmen",
+    "resolved_employer": "Retired",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Retired donor at 301 West Skyview Dr, San Antonio 78228. 'Carmen Viramontes' is a very common name. FEC individual-contribution search surfaced no confirmable record tied to this person/zip; only unrelated San Antonio 78228 entries appear. No Texas Ethics Commission lobbyist registration found. Identity could not be confirmed, so industry defaults to Not Employed (retired) and no affiliations are asserted.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9750b5eb-d4de-4af9-a305-536892684431",
+    "name": "Garza, Eric Michael",
+    "resolved_employer": "Mayer LLP (Senior Attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Eric Michael Garza is a Senior Attorney at Mayer LLP, San Antonio; native South Texan, B.B.A. UT San Antonio, M.B.A. and J.D. from St. Mary's University (2016). Civil litigation practice. Firm bio lists board roles at Luminaria, Communicare Foundation, and Wonder Theatre. Same person ran as a Democrat for Texas House District 125 in 2024 (lost primary), matching attorney + St. Mary's 2016 details. Matches donor's 78240 attorney profile. No pro-Israel/pro-Palestine/oil-gas/gun/defense PAC affiliations found; not a registered Texas lobbyist.",
+    "source_url": "https://www.mayerllp.com/attorneys/eric-michael-garza",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House of Representatives (District 125)", "role": "Democratic candidate, 2024 primary", "category": "political", "source_url": "https://ballotpedia.org/Eric_Michael_Garza_(Texas_House_of_Representatives_candidate)", "snippet": "Eric Michael Garza ran for election to the Texas House of Representatives as a Democratic Party candidate to represent District 125; lost in the Democratic primary on March 5, 2024."},
+      {"org": "Luminaria (San Antonio arts nonprofit)", "role": "Board Member & Immediate Past Board Chair", "category": "civic", "source_url": "https://www.mayerllp.com/attorneys/eric-michael-garza", "snippet": "Luminaria (Board Member & Immediate Past Board Chair)."},
+      {"org": "Communicare Foundation", "role": "Board Member & Treasurer", "category": "civic", "source_url": "https://www.mayerllp.com/attorneys/eric-michael-garza", "snippet": "Communicare Foundation (Board Member & Treasurer)."}
+    ]
+  },
+  {
+    "donor_id": "94a93c99-1077-433e-b6f6-4661ad9c694e",
+    "name": "A- Zinsmeister, Irene",
+    "resolved_employer": "Northside ISD (Family & Community Liaison / community school coordinator)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Stray 'A-' prefix on name; person is Irene (Aceves-)Zinsmeister, a Family & Community Liaison / community school coordinator at Northside ISD, referenced in NISD board documentation and directory (email irene.aceves-zinsmeister@nisd.net), consistent with Helotes 78023 location. Public-school district employee, classified Education. No FEC ideological-PAC contributions found; no Texas Ethics Commission lobbyist registration.",
+    "source_url": "https://www.nisd.net/sites/default/files/attachments/board-9-27-22_1.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8f2167b7-cb1f-4b40-a2b1-382b7afbf030",
+    "name": "Harle, Kimberly",
+    "resolved_employer": "Endeavors (Family Endeavors, Inc.) — Chief Communications Officer",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "The '11522' zip is a street-number artifact; real location is 11522 Whisper Bluff St, San Antonio 78230. Person is Kimberly Harle Solis, hired Jan 2023 as Chief Communications Officer of Endeavors, a large San Antonio nonprofit (veteran/disaster/immigration services). 20+ years in PR/communications; prior roles at NASA, H-E-B, Whataburger, and the Texas House HHS Committee; degrees from UT Austin. Community-service history (SA Chamber, KLRN, United Way, Haven for Hope) is civic, not policy-advocacy PAC activity. No FEC ideological-PAC contributions and no Texas lobbyist registration found.",
+    "source_url": "https://www.globenewswire.com/news-release/2023/01/27/2597098/0/en/ENDEAVORS-HIRES-KIMBERLY-HARLE-SOLIS-AS-CHIEF-COMMUNICATIONS-OFFICER.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8d8332eb-67fd-40ed-aba6-ce67eccea7ed",
+    "name": "Putte, Pete",
+    "resolved_employer": "Dixie Flag & Banner Company (owner; company ambassador)",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Name is Pete (Henry 'Pete') Van de Putte, Jr., owner of Dixie Flag & Banner Co., San Antonio (PO Box 8490, 78208 matches the company). CFEE; ran the flag-manufacturing/retail business ~38 years, designed the official San Antonio flag, and remains company ambassador (daughter Vanessa is now President/CEO). Married to former State Sen. Leticia Van de Putte. 'Manufacturing' is not in the taxonomy, so classified Retail as the closest defensible fit. FEC search for 'Pete/Peter Van de Putte' returned no ideological-PAC contributions. Texas Ethics Commission lobbyist search shows a Van de Putte registration for the SPOUSE, Leticia Van de Putte, NOT Pete; per instructions, no affiliation inferred from spouse.",
+    "source_url": "https://sanantonioreport.org/dixie-flag-stitches-banners-with-pride-and-patriotism/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio (official city flag)", "role": "Designer of the official San Antonio flag; civic business figure", "category": "civic", "source_url": "https://sanantonioreport.org/dixie-flag-stitches-banners-with-pride-and-patriotism/", "snippet": "Pete Van de Putte designed the official San Antonio flag – a red and blue banner with a white star and an image of the Alamo."}
+    ]
+  }
+]

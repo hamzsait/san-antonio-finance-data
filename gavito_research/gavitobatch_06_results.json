@@ -1,0 +1,233 @@
+[
+ {
+  "donor_id": "deff75cf-ff8a-4ebe-8525-1440691c3b8a",
+  "name": "Lopez, Quinlan",
+  "resolved_employer": "Self-Employed (nature of business not publicly documented)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-employed donor listed at 20 Campden Cir. with an inconsistent city/zip (zip 78128 is Karnes City, not San Antonio). No public profile, business, bio, or social presence found tying this specific individual to any occupation or advocacy. FEC individual-contribution count is 0; FEC PAC search and TX lobbyist registry search both returned nothing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dd8cb565-4ac4-426c-9d59-f44ecfec8a3c",
+  "name": "Fulghum, Neel",
+  "resolved_employer": "Sierra Title Company of Cameron, Willacy & Kenedy Counties, Inc. (President)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Neel Fulghum is President of Sierra Title Company in Brownsville, TX (BS Business Administration, Corpus Christi State Univ.), corroborated by RocketReach/ZoomInfo profiles matching the 78526 Brownsville location and title-insurance occupation. Despite 61 FEC donations, targeted FEC PAC search surfaced no ideological/issue PAC ties (no AIPAC/UDP, J Street, oil-gas, gun, or defense PACs found); not listed in the TX Ethics Commission lobbyist registry.",
+  "source_url": "https://rocketreach.co/neel-fulghum-email_91509382",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dad1961d-b304-433f-8b3f-f01783c99dc5",
+  "name": "Nooner, Gabrielle",
+  "resolved_employer": "Not Employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor lists 'Not Employed' at 20 Kelian Ct, San Antonio 78249. The Nooner surname appears locally via Nooner Holdings, Ltd. (a San Antonio real-estate/QSR-franchise firm led by Sean Nooner, HQ 78249), but no public record ties THIS individual (Gabrielle Nooner) to that firm or to consultant/columnist Christian Nooner, so no link is asserted. FEC count 0; FEC PAC and TX lobbyist searches empty; no personal bio located.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "da16cfae-e23c-492a-a909-da9ac6254f56",
+  "name": "Elizondo, Irene",
+  "resolved_employer": "Retired (former career not publicly documented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired donor at 3451 W Woodlawn Ave, San Antonio 78228. 63 FEC donations are consistent with a small-dollar recurring (ActBlue-style) donor pattern, but no specific recipient committees or ideological PACs could be confirmed for this individual, and the common name prevented positive corroboration of a prior profession. FEC PAC search yielded no confirmed ideological ties; TX lobbyist registry search empty; no personal bio found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d997a62c-fd9a-49e4-b09f-1f67cf6b235d",
+  "name": "Herrera, Jorge",
+  "resolved_employer": "The Herrera Law Firm, Inc. (San Antonio) — 'Hererra Law Firm' is a misspelling of Herrera",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Jorge A. Herrera, personal-injury/plaintiff trial attorney at his family's The Herrera Law Firm in San Antonio (Columbia 2001, UT Law 2005); donor's 78213 residence (109 Lou Cir) plus 'Attorney'/'Herrera Law Firm' occupation match the public profile. Heavy-Dem FEC pattern (256 gifts, lean 0.99) is consistent with a Democratic-leaning trial lawyer but FEC PAC search surfaced no tracked ideological PAC (AIPAC/J Street/oil-gas/gun/defense); Texas Ethics lobbyist registry search returned no match.",
+  "source_url": "https://www.herreralaw.com/legal-staff/attorney-jorge-a-herrera/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Mexican American Legal Defense and Educational Fund (MALDEF)", "role": "National board member", "category": "civic", "source_url": "https://www.herreralaw.com/legal-staff/attorney-jorge-a-herrera/", "snippet": "Serves on the national board of MALDEF, a Latino civil-rights legal-advocacy organization."},
+   {"org": "San Antonio Hispanic Chamber of Commerce", "role": "General counsel", "category": "business", "source_url": "https://www.herreralaw.com/legal-staff/attorney-jorge-a-herrera/", "snippet": "Listed as general counsel for the San Antonio Hispanic Chamber of Commerce."},
+   {"org": "AVANCE, Inc.", "role": "National board member", "category": "civic", "source_url": "https://www.herreralaw.com/legal-staff/attorney-jorge-a-herrera/", "snippet": "National board member of AVANCE, a family-support/early-childhood nonprofit."}
+  ]
+ },
+ {
+  "donor_id": "d52c4cb9-420c-4df0-a36f-d41b3d3b9519",
+  "name": "Garcia Garibay, Veronica",
+  "resolved_employer": "Retail/convenience-store manager (specific employer not publicly identifiable)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Listed as a retail manager in the retail/convenience-store sector at 78249 (NW San Antonio). No distinguishing public profile matching name+zip+occupation could be found; 0 FEC donations. FEC PAC search and Texas Ethics lobbyist search both empty — a quiet result. Classified by generic occupation only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d4e15c87-185c-4763-bbf5-0c5982f9033d",
+  "name": "Heller, John",
+  "resolved_employer": "Heller Strategy Group / The Heller Group, LLC (Boca Raton, FL) — investor",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "John Heller, self-described 'Investor' at Heller Strategy Group, Boca Raton FL; corroborated by his LinkedIn and Florida Sunbiz registration of The Heller Group, LLC (1499 W Palmetto Park Rd, Boca Raton). FEC record shows a large but mixed partisan giving history (165 gifts, lean 0.48); FEC PAC-lookup and OpenSecrets donor pages were not machine-retrievable (OpenSecrets 403), and no tracked ideological PAC (AIPAC/UDP/DMFI/J Street/oil-gas/gun/defense) surfaced in searches. Texas lobbyist registry N/A (FL resident) and no match.",
+  "source_url": "https://www.linkedin.com/in/john-heller-601254144/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d26c8221-d3f9-427c-b75f-328a5e57127b",
+  "name": "Luna, Laura",
+  "resolved_employer": "Piñata Possible (founder/leadership coach) — Laura Saldivar Luna",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Laura Saldivar Luna, founder/coach of Piñata Possible, a San Antonio leadership-coaching practice; 17-year Teach For America educator/executive (founding ED of TFA San Antonio, later national chief people officer). Name+San Antonio location+founder/coach occupation match her public bio. FEC PAC search (39 gifts, Dem lean) and Texas Ethics lobbyist search surfaced no tracked ideological PAC or lobbyist registration.",
+  "source_url": "https://www.pinatapossible.com/meet",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Parks and Recreation Board", "role": "District 7 Commissioner", "category": "civic", "source_url": "https://www.pinatapossible.com/meet", "snippet": "Serves as District 7 Commissioner on the San Antonio Parks and Recreation Board."},
+   {"org": "SAISD Foundation", "role": "Board member", "category": "civic", "source_url": "https://www.pinatapossible.com/meet", "snippet": "Currently serves on the board of the SAISD Foundation."}
+  ]
+ },
+ {
+  "donor_id": "d12e1aa6-43f5-42ef-91c1-f1894121f7fa",
+  "name": "Rivera, Mayra",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Small-dollar donor at 219 Lakeridge Dr, San Antonio 78229 (Medical Center residential area) with a high FEC footprint (67 federal donations), consistent with a prolific ActBlue-style small-dollar Democratic donor; gave $500 to Gavito's D7 campaign. No occupation/employer listed in the campaign records and the name is very common in San Antonio, so the specific individual could not be confirmed (a Dr. Mayra Jimenez Rivera lists a 78229 workplace, but that is unverified and a different name form). FEC/OpenSecrets web search surfaced no ideological-PAC contributions attributable to her; TX lobbyist registry search empty; no personal bio confirmed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cf2cdc0e-f2e8-4620-af35-e26b9bbaa6c4",
+  "name": "Kellum, Rose",
+  "resolved_employer": "Homemaker (not employed)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Homemaker at 330 E Summit Ave, San Antonio 78213, per the campaign record (occupation and employer both listed as 'Homemaker'); gave $500 to Gavito beginning Sept 2025. Has an FEC footprint of 18 federal donations, but OpenSecrets/FEC web searches returned no distinctive or ideological-PAC pattern attributable to her. TX lobbyist registry search empty; no public bio/profile beyond the homemaker occupation. Employer-fallback outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cd9c977a-eb3c-4ba7-a631-6c1a76689e38",
+  "name": "Bocanegra, Alexa-Rae",
+  "resolved_employer": "UT Health San Antonio (Long School of Medicine) — Family Medicine resident; medical student at time of first gift",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Alexa-Rae Bocanegra, DO — distinctive name, San Antonio; Doximity profile confirms Family Medicine, graduate of University of the Incarnate Word School of Osteopathic Medicine (Class of 2025) now in a UT Health San Antonio family-medicine residency (2025-2028). At her first gift (March 2023) she was a medical student. FEC donation count is 0, so no federal/PAC contributions; TX lobbyist registry search empty; full bio read.",
+  "source_url": "https://www.doximity.com/pub/alexa-rae-bocanegra-do",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c6c6e8ab-cb3b-467d-b398-ee3627d95903",
+  "name": "Gavito, Patricia",
+  "resolved_employer": "Retired (former career not publicly identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retiree at PO Box 5962, Brownsville, TX 78523; gave $500 to Gavito (May 2023). Shares the candidate's compound surname (Gavito) and is a Brownsville-area resident, matching the region the candidate's family is from — noted as context only; no public source establishes a family relationship. FEC donation count is 0 (no federal/PAC record); TX lobbyist registry search empty; no personal bio/profile found and no former career identifiable, so industry left null.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c58f5048-a3bf-43b4-8173-c7091617426f",
+  "name": "Lanzel, Brenda",
+  "resolved_employer": "K&L Gates LLP (Global Controller / senior finance role)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "ZoomInfo lists Brenda Lanzel as Global Controller at K&L Gates (klgates.com email), consistent with the record's 'CFO' finance-executive occupation; K&L Gates is a major international law/lobbying firm. Name+employer confirmed, but the 78240 San Antonio address is unusual for a firm-wide controller (firm has no SA finance office; likely remote/personal address) — hence medium, not high. FEC PAC search and TX lobbyist registry both returned nothing for her (she is not a registered lobbyist despite the firm's lobbying practice).",
+  "source_url": "https://www.zoominfo.com/p/Brenda-Lanzel/1804169968",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c34eefe6-4f1d-4d8f-ae74-20a713fef76e",
+  "name": "Jinna, Venkat",
+  "resolved_employer": "USAA (Lead Oracle Database Administrator)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "ZoomInfo confirms Venkat Jinna as a Lead Oracle Database Administrator at USAA, matching the record's DBA/USAA occupation and San Antonio (78259) address; USAA is a financial-services employer, role is IT/database. FEC individual-contribution and PAC searches surfaced no ideological/PAC ties beyond routine giving; not on the TX lobbyist registry. Quiet result.",
+  "source_url": "https://www.zoominfo.com/p/Venkat-Jinna/-1968797559",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c17d69c4-7df2-41b1-96ba-8d7fa3249090",
+  "name": "Lopez, Markus",
+  "resolved_employer": "DRB Homes / DRB Group (Vice President of Land Acquisitions)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Markus Lopez as VP of Land Acquisitions at DRB Homes (national homebuilder Dan Ryan Builders), San Antonio; UT-Austin economics degree, prior land/acquisition roles at Bitterblue, Denton Communities, and Bella Vista/Princeton Classic Homes. A land-acquisitions executive at a national homebuilder is a direct real-estate-development interest before a city council land-use vote. No FEC record (fec_donation_count 0); not a registered TX lobbyist (the 'M. Edward Lopez' on the registry is a different person).",
+  "source_url": "https://www.linkedin.com/in/markus-lopez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "DRB Homes / DRB Group (Dan Ryan Builders)", "role": "Vice President of Land Acquisitions", "category": "business", "source_url": "https://www.linkedin.com/in/markus-lopez/", "snippet": "Markus Lopez - Vice President of Land Acquisitions at DRB Homes, San Antonio; national homebuilder with active land-acquisition and development pipeline (real-estate-development interest)."}
+  ]
+ },
+ {
+  "donor_id": "c09f179c-ff03-4337-ae15-1ea9e655550e",
+  "name": "Campos, Roger",
+  "resolved_employer": "Campos Family Dental, P.C. (President/CEO, DDS)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Roger S. Campos, DDS is President/CEO of Campos Family Dental, P.C. (multi-location San Antonio practice), UT Health San Antonio dental grad and adjunct faculty; bio lists board seats on the San Antonio District Dental Society and the UT Health Science Center Alumni Association. Identity fully corroborated (name, dental practice, San Antonio area). FEC shows a heavy giving history (record: 127 contributions, all-Republican partisan lean 1.0); the FEC/OpenSecrets PAC search surfaced no single named ideological PAC (AIPAC/J Street/oil-gas/gun etc.) — the pattern is consistent Republican candidate/committee giving. Not on the TX lobbyist registry (registered 'Campos, Lorena I.' is a different person).",
+  "source_url": "https://www.camposdentalsa.com/en/dr-campos",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio District Dental Society", "role": "Board of Directors", "category": "civic", "source_url": "http://www.cfdoffice.com/campos.asp", "snippet": "Dr. Campos is currently on the board of directors for the San Antonio District Dental Society and the UT Health Science Center Alumni Association, and serves as UT Health faculty."}
+  ]
+ },
+ {
+  "donor_id": "c081582c-386e-4082-a4f1-832d7840705f",
+  "name": "Brown, Colin",
+  "resolved_employer": "Veeam Software (Account Executive)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Colin Brown is an Account Executive at Veeam Software (data-backup/recovery tech firm) based in San Antonio; LinkedIn confirms Veeam employment, San Antonio location, and Texas Tech University degree. Only volunteer roles listed (Wreaths Across America ambassador, Leukemia & Lymphoma Society fundraiser) — no policy-advocacy or board seats. FEC name searches surfaced no ideological PAC contributions (small-dollar/Democratic-leaning giving pattern); Texas lobbyist registry search returned no match.",
+  "source_url": "https://www.linkedin.com/in/colinbrown94/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bf17b745-7f7d-4c14-bcb1-737770d26a6b",
+  "name": "Elizondo, Richard",
+  "resolved_employer": "Retired (former career not publicly documented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retiree at ~110-115 Halvern Dr, San Antonio 78228; public-records/data-broker listings confirm a Richard C. Elizondo at that address but no former occupation, employer, or professional bio could be sourced. FEC PAC search surfaced no ideological PAC contributions; Texas lobbyist registry search returned no match; no public bio page exists to read.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bbe2d31d-3f10-4ae2-8a20-b16c95a8c153",
+  "name": "Musham, Srilakshmi",
+  "resolved_employer": "Retired (probable healthcare/medical background, unconfirmed)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Retiree at 14003 Jubilee Way, Helotes 78023; uncommon surname. A LinkedIn profile for 'srilakshmi musham' lists NTR University of Health Sciences (an Indian medical university), and the Musham surname is associated with San Antonio-area physicians, suggesting a probable healthcare/medical background — but the LinkedIn cannot be firmly tied to this Helotes retiree by zip/occupation, so career is unconfirmed. Zero FEC donations on record; FEC PAC and Texas lobbyist searches returned no match.",
+  "source_url": "https://www.linkedin.com/in/srilakshmi-musham-768b386",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b7d84f8d-3c75-4b72-9f0f-b8f997b9b0fd",
+  "name": "Kelly, Thomas",
+  "resolved_employer": "Kelly Graphics (owner) — commercial printing/direct-mail, Austin",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Thomas (Tom) Kelly is owner of Kelly Graphics, a commercial printing/graphic-design and direct-mail shop in Austin 78746 (Westlake/Rollingwood). FEC/campaign-finance records tie a Thomas Kelly at Kelly Graphics, 78746, to Democratic giving (e.g., a $500 contribution to the Texas Democratic Party) with no ideological (AIPAC/J Street/oil-gas/gun) PAC contributions found; Texas lobbyist registry search returned no match (the 'Kelley' registrants are unrelated people).",
+  "source_url": "https://www.opensecrets.org/orgs/kelly-graphics/summary?id=D000077872",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

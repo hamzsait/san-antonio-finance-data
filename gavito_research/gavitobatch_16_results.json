@@ -1,0 +1,230 @@
+[
+  {
+    "donor_id": "a74a7752-19e8-4ff8-8cdd-99da65d19761",
+    "name": "Bartels, Angela",
+    "resolved_employer": "Self-employed portrait/branding photographer (Angela Bartels Photography); former darkroom photography instructor at Southwest School of Art; UTSA BFA",
+    "industry": "Media",
+    "confidence": "medium",
+    "evidence": "San Antonio self-employed photographer of 35+ years matching the donor's 'Self employed / Photographer' record; business in 78209, residence at donor address in 78201. No FEC/lobbyist records found.",
+    "source_url": "https://www.angelabartelsphotography.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a28163c5-6f8d-4784-98f5-6db557ca1c70",
+    "name": "Crump, Patrick",
+    "resolved_employer": "President & CEO, Morningside Ministries (faith-based senior living/skilled nursing nonprofit, San Antonio)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Named President/CEO of Morningside Ministries in 2017; 20+ yrs in long-term care, prior VP Ops at Buckner Retirement Services; Baylor gerontology MS. Matches donor employer/occupation and 78209 area. No individual FEC PAC or TX lobbyist records found.",
+    "source_url": "https://mmliving.org/2017/02/06/welcome-patrick-crump-president-ceo-morningside-ministries/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9a487d32-d66b-4d35-a6bc-0f4b7dfad004",
+    "name": "De La Haya, Theresa",
+    "resolved_employer": "Retired Senior VP of Community Health & Clinical Prevention Programs, University Health (San Antonio); began there 1995",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Retired University Health executive who founded SA's school-based clinics; sits on several local health boards (State Medicaid Advisory Committee chair, Bexar County Health Collaborative). Matches donor's retired status. Board roles are health-policy/civic, not partisan advocacy. No FEC/lobbyist records found.",
+    "source_url": "https://sanantonioreport.org/university-healths-school-based-clinics-work-to-close-care-gaps-in-san-antonio-communities/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Bexar County Health Collaborative / State Medicaid Advisory Committee",
+        "role": "Member / Chair",
+        "category": "civic",
+        "source_url": "https://sanantonioreport.org/university-healths-school-based-clinics-work-to-close-care-gaps-in-san-antonio-communities/",
+        "snippet": "Now sits on boards for several local nonprofits; serves as Chair of the State Medicaid Advisory Committee and member of the Bexar County Health Collaborative."
+      }
+    ]
+  },
+  {
+    "donor_id": "8038afe8-d0c1-4f30-ba92-52c740af1169",
+    "name": "Flores Reyna, Laura",
+    "resolved_employer": "Operations, Adobe (San Antonio); Texas A&M biology degree",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "LinkedIn 'Laura (Marie) Flores - Operations @ Adobe,' located San Antonio, matches donor employer 'Adobe' and occupation 'Operations.' No board affiliations, FEC PAC, or TX lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/lauramarieflores/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6416cb9c-cbe5-4127-8e8c-43c7c107cc73",
+    "name": "Casias, Andres",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor is retired (78228, west-side San Antonio). Multiple same-named individuals in San Antonio but none could be confirmed as this retired donor. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://www.spokeo.com/Andrew-Casias",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5bfe8b87-7845-440a-928b-221e3ba2745a",
+    "name": "Robinson, Yvette",
+    "resolved_employer": "Robinson General Contractors, Inc. (President) - San Antonio-area general contracting/construction management firm",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "President of Robinson General Contractors (robinsongc.com), a San Antonio-based general contracting firm; matches donor occupation 'Construction/President' and Canyon Lake (78133) residence in the SA metro. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://www.robinsongc.com/contractors-in-san-antonio-tx/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4b4b7039-473f-47ee-be24-5d72d2914017",
+    "name": "Moore, Valerie",
+    "resolved_employer": "CymSTAR LLC - instructor pilot; recently retired U.S. Air Force C-5M instructor pilot",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "LinkedIn identifies her as a 'recently retired C5M instructor pilot' who works as an instructor at CymSTAR (a military flight-simulator/training contractor), located near Marion, TX - matches donor record occupation and employer. Employee/instructor role only, not exec/board/owner, so no defense-industry affiliation recorded.",
+    "source_url": "https://www.linkedin.com/in/valerie-moore-6238516/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4905e931-d8e8-45e3-bbbd-ef95dfc32d5b",
+    "name": "Lowry, Faith",
+    "resolved_employer": "Chasnoff Stribling, LLP - Senior Counsel / business litigator; former DOJ Trial Attorney and Assistant U.S. Attorney (WDTX)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Faith E. Lowry, Senior Counsel at Chasnoff Stribling in San Antonio; Baylor Law, former DOJ Federal Programs Branch trial attorney and AUSA for Western District of Texas; bar leadership only (Federal Bar Assn SA Chapter, Texas Bar Foundation Fellow). No policy-advocacy or flagged affiliations found.",
+    "source_url": "https://chasnoffstribling.com/team/faith-lowry/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "468a3114-a560-4479-a839-720e6d9fc46c",
+    "name": "Manna, Kathy",
+    "resolved_employer": "Retired (former career not identifiable in public records)",
+    "industry": null,
+    "confidence": "high",
+    "evidence": "Kathleen Manna, retired, 9525 Rochelle Rd, San Antonio 78240 - corroborated by City of San Antonio campaign-finance records showing a retired donor at that exact address. No prior career, FEC PAC, or lobbyist records found.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000002968_20230406_173512.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "45e9f136-70a5-49c9-8ae5-ba2af6076350",
+    "name": "Salinas, Claudia",
+    "resolved_employer": "DaVita Kidney Care - Manager (dialysis / kidney-care provider)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Donor record lists Manager at DaVita Kidney Care, San Antonio 78201. No independent public profile located to confirm this specific individual (common name); industry classified from self-reported employer per fallback. No FEC PAC or Texas lobbyist records found.",
+    "source_url": "https://www.davita.com/locations/3062",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "375425e2-8adc-4638-92d2-390f1d0ce0eb",
+    "name": "Louk, Darlene",
+    "resolved_employer": "Forestar Group Inc. (Director of Development, residential lot developer)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Darlene Louk is Director of Development at Forestar Group Inc. (16500 San Pedro Ave office matches donor address); manages master-planned communities in Central Texas/San Antonio. Prior VP roles at Forestar and Hines land development. No FEC PAC or lobbyist records found.",
+    "source_url": "https://theorg.com/org/forestar-group-inc/org-chart/darlene-louk",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "366e3580-6c9a-46ee-8780-693e786093a5",
+    "name": "Keck, Courtnay",
+    "resolved_employer": "Phyllis Browning Company (licensed Realtor, TREC #756414); listed occupation 'Homemaker'",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Courtnay Keck is a licensed Realtor at Phyllis Browning Company with a J.D. from University of Denver; listed as registered agent at 502 Oakleaf Dr (exact donor address), confirming identity. Self-reported 'Homemaker' on filing but professionally active in residential real estate. No FEC PAC or lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/keck-courtnay-ba80bb1a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "361ef40a-34d1-4cc6-b11e-9c10856faca7",
+    "name": "Reyna, Raul",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor is retired at 78240. 'Raul Reyna' is a very common San Antonio name; multiple candidates found but none could be corroborated to this specific 78240 address. No FEC PAC or lobbyist records tie to this person. Career unidentifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2af1480d-b99e-4278-85b3-743ea1da8d9c",
+    "name": "Creech, Charlotte",
+    "resolved_employer": "Hire Heroes USA (Chief Program Officer; veteran-employment nonprofit)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Charlotte Creech is Chief Program Officer at Hire Heroes USA, a nonprofit providing free job-search assistance to veterans/military spouses. Formerly led Claims Innovation at USAA and was CEO of Patriot Boot Camp. SA Business Journal '40 Under 40' (2022). Hire Heroes is a veteran-services charity, not a defense contractor.",
+    "source_url": "https://www.hireheroesusa.org/introducing-charlotte-creech-chief-program-officer-for-hire-heroes-usa/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "23207f7f-a0cb-416d-89ec-98ee8b92fa74",
+    "name": "Moya, Steven",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donation lists no occupation/employer; address is the Blue Star Arts Complex (Southtown). A locally documented Steven Moya is a San Antonio DJ/music consultant active in the arts scene - plausibly Entertainment - but no public record links that DJ to the 423 Blue Star address, so identity is unconfirmed. No FEC PAC or lobbyist records found.",
+    "source_url": "https://events.getcreativesanantonio.com/artist/steven-moya/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1f9a2697-807e-4123-8090-4e263a697841",
+    "name": "Candelario, Joe",
+    "resolved_employer": "Retired (former occupation not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired donor at 4306 Muirfield Dr, San Antonio 78229. Multiple same-named men exist but none confirmed to this address/retired status. Could not corroborate a specific professional identity. No FEC PAC or lobbyist records found.",
+    "source_url": "https://www.spokeo.com/Joe-Candelario",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1ada82d4-6c22-48cf-8be9-845304db7430",
+    "name": "Garcia, Annabelle",
+    "resolved_employer": "Sonterra Dermatology PLLC - board-certified dermatologist",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Annabelle L. Garcia, MD, board-certified dermatologist in San Antonio (Sonterra Dermatology), Baylor College of Medicine grad, UT Southwestern residency. Donor's self-reported occupation 'Dermatologist / Self' matches; residence 25 Bristol Green 78209 consistent with a San Antonio physician. No FEC PAC or lobbyist records found.",
+    "source_url": "https://dermatologysanantonio.com/dr-annabelle-garcia",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0ba46418-62a4-4084-b522-7b15c5f8d379",
+    "name": "Ehrisman, Wayne",
+    "resolved_employer": "Retired clinical psychologist (formerly Wayne J. Ehrisman, PhD, private practice)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Wayne J. Ehrisman, PhD, clinical psychologist, listed at exactly 402 Mary Louise Dr, San Antonio 78201 (NPI 1194867622) - an exact match to the donor's address. Donor reports 'Retired.' No FEC PAC or lobbyist records found.",
+    "source_url": "https://www.vitadox.com/doctor/san-antonio-tx-78201/wayne-j-ehrisman-phd/goszj5Bx5af4QomGjoj8SY",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ee468282-01af-46dd-a1f7-29d750166d74",
+    "name": "Maldonado, Linda",
+    "resolved_employer": "Retired (former occupation not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Linda Maldonado, associated with 8503 Honiley St, San Antonio 78254 (Harold J Maldonado also listed at that address, likely spouse). Matches donor address, but no prior career or professional profile is publicly discoverable. No FEC PAC or lobbyist records found.",
+    "source_url": "https://nuwber.com/person/563ab14798f8a849c10e1a91",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fc430704-7371-46b0-8f62-8d4ad0e9161a",
+    "name": "Salaiz, James",
+    "resolved_employer": "James Salaiz Real Estate Consultants - real estate consultant (retired)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "James A. Salaiz at exactly 11910 Orsinger Ln, San Antonio 78230 - exact match to donor address. Runs/ran 'James Salaiz Real Estate Consultants' (founded 2010) at that same address; also a manager for Ahf-Palm House, LLC. Donor reports 'Retired.' No FEC PAC or lobbyist records found.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/james-salaiz-P6928309.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

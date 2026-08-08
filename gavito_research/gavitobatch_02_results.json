@@ -1,0 +1,268 @@
+[
+ {
+  "donor_id": "2ff79f20-e942-400c-b930-e2c771c3f4fb",
+  "name": "Woolfolk, Preston",
+  "resolved_employer": "DOCUmation (CEO / Co-President), San Antonio-based managed IT, print/copier, software & VoIP firm; resides in Boerne",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Confirmed CEO/Co-President of DOCUmation via the company's bio page and business profiles; rose from Business Analyst to Co-President in 2017 alongside brother Hunter Woolfolk. San Antonio-headquartered IT/office-technology firm; he lives in Boerne (78006). Documented civic/political role as San Antonio Co-Chair of Maverick PAC (a national conservative young-professionals PAC). No Texas Ethics Commission lobbyist registration found; FEC shows a frequent individual-donor history (count 26) but no specific ideological/industry PAC affiliation surfaced beyond the MavPAC role.",
+  "source_url": "https://www.mation.com/preston-woolfolk-chief-executive-officer-of-documation/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Maverick PAC (MavPAC)",
+    "role": "San Antonio Co-Chair (approx. 2010-2016)",
+    "category": "political",
+    "source_url": "https://www.linkedin.com/in/prestonwoolfolk/",
+    "snippet": "Preston served as SA Co-Chair at Maverick PAC, engaging young professionals in the political process; Maverick PAC is 'the premier national network for conservative young professionals ... building a pragmatic, conservative future for America.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "153dc322-3c0b-43b0-8cf7-75318809bbad",
+  "name": "Subramaniam, Murali",
+  "resolved_employer": "InTEC of San Antonio (Integrated Testing and Engineering Company), Vice President / geotechnical & materials-testing engineer",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Confirmed as Ph.D., PE and Vice President at InTEC of San Antonio, overseeing geotechnical and construction-materials-testing operations; doctorate from Lehigh University. Zip 78261 matches. FEC records show a single $1,000 contribution to Romney for President (2012) — a candidate donation, not an ideological/industry PAC affiliation. No Texas Ethics Commission lobbyist registration found; no public-policy-advocacy org affiliations documented.",
+  "source_url": "https://www.intec-sa.com/about.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "02deffed-2d06-4392-b041-ed5ee954996c",
+  "name": "Dreiss, Annette",
+  "resolved_employer": "Self-employed / retired real estate professional (listed as a San Antonio real estate professional on Zillow)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Donor occupation given as Retired/Developer, employer Retired/Self, in The Dominion area (78257). An Annette Dreiss is listed publicly as a San Antonio real estate professional on Zillow, consistent with the 'developer' occupation; Dreiss is a longstanding San Antonio real-estate/family name. Zillow profile was 403-blocked so no specific brokerage confirmed. No Texas Ethics Commission lobbyist registration; no specific FEC ideological/industry PAC donations surfaced (FEC count 5); no policy-advocacy affiliations documented.",
+  "source_url": "https://www.zillow.com/profile/abdreiss",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6c3a98d5-cf2e-470a-9ea9-42fac2f8c5c4",
+  "name": "Heard, David",
+  "resolved_employer": "SecureLogix Corp. (Chief Marketing Officer); co-founder and inaugural CEO of Tech Bloc (2015-2023)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Well-documented San Antonio tech-community figure. Chief Marketing Officer at SecureLogix (cybersecurity/anti-robocall firm) per company/LinkedIn and San Antonio Report reporting. Co-founded Tech Bloc in 2015 with Lew Moorman and Lorenzo Gomez (former Rackspace leaders) and served as its inaugural CEO until stepping down in Sept 2023, remaining on its board. Inaugural board member of CAST Tech High School. Direct civic-tech network tie to Gavito, who was Tech Bloc's founding ED. No Texas Ethics Commission lobbyist registration found; no specific ideological/industry PAC affiliation surfaced despite a large FEC individual-donor history (count 72).",
+  "source_url": "https://sanantonioreport.org/san-antonio-tech-bloc-ceo-change-covid/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Tech Bloc (San Antonio tech-advocacy nonprofit)",
+    "role": "Co-founder and inaugural CEO (2015-2023); board member",
+    "category": "civic",
+    "source_url": "https://sanantonioreport.org/san-antonio-tech-bloc-ceo-change-covid/",
+    "snippet": "David Heard co-founded Tech Bloc in 2015 alongside Lew Moorman and Lorenzo Gomez ... served as the organization's inaugural CEO until stepping down in September 2023 ... 'City Hall knows who to call - they call us all the time' regarding tech policy."
+   },
+   {
+    "org": "CAST Tech High School",
+    "role": "Inaugural board member",
+    "category": "civic",
+    "source_url": "https://sanantonioreport.org/san-antonio-tech-bloc-ceo-change-covid/",
+    "snippet": "Heard served as an inaugural board member for CAST Tech High School and helped raise funds from tech industry members to support the downtown campus."
+   }
+  ]
+ },
+ {
+  "donor_id": "be426c8d-a0b8-44a6-821f-5c21f667a659",
+  "name": "Garcia, Monica M",
+  "resolved_employer": "The MMG Consulting Firm (owner/self-employed)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "LinkedIn identifies Monica M Garcia as small business owner of The MMG Consulting Firm in San Antonio; donor occupation 'Self-employed/consultant/Partnerships' and employer match. No public FEC PAC contributions, no Texas lobbyist registration, and no advocacy/board roles documented beyond her own consulting firm. (Not to be conflated with the D7 councilwoman Marina Alderete Gavito.)",
+  "source_url": "https://www.linkedin.com/in/monica-m-garcia-41157746/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c2640398-500f-4bbf-af8e-cb1561eb14d4",
+  "name": "Chavez, Abel",
+  "resolved_employer": "Our Lady of the Lake University (OLLU) - President",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Dr. Abel Antonio Chavez is the 10th president of Our Lady of the Lake University (OLLU), San Antonio, since July 2022; civil/environmental engineer, first Latino president of OLLU. Matches donor occupation 'President' / employer 'OLLU.' No relevant ideological PAC or lobbyist activity found (the 'Abel Chavez for Congress' FEC committee is an unrelated California CA-41 candidate, not the OLLU president).",
+  "source_url": "https://www.ollusa.edu/about/leadership/president/index.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e8d06ea6-15f4-4a4e-b56d-14fba51c0ba8",
+  "name": "Barrera, Ruben",
+  "resolved_employer": "Langley & Banack, Inc. - Partner (governmental/municipal law attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Ruben Rogelio Barrera is a partner at Langley & Banack, Inc., San Antonio; UT School of Law 1982, practicing since 1983; practice in governmental/municipal, real estate, eminent domain, and Texas water law. Firm bio lists only professional bar associations (State Bar of Texas, ABA, San Antonio Bar Foundation, Texas Municipal League, Texas City Attorneys Association) - no ideological advocacy roles. No Texas lobbyist registration match; high FEC donation count (155) but no specific ideological PAC affiliation surfaced.",
+  "source_url": "https://www.langleybanack.com/professionals/ruben-r-barrera/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a7c036ae-f4de-4137-b742-8f70b57fa4be",
+  "name": "Longoria, Jason",
+  "resolved_employer": "Central Catholic High School (CCHS), San Antonio - President",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Jason Longoria ('96 CCHS graduate) was permanently appointed President of Central Catholic High School (private Marianist college-prep school), San Antonio; formerly the school's Director of Advancement; prior 14-year AT&T Leadership Development career. Matches donor occupation 'President' / employer 'CCHS.' No FEC ideological PAC contributions or Texas lobbyist registration found. (Donor 'zip 10123' is a data artifact from the street address 10123 Pemhaven; actual ZIP is 78240.)",
+  "source_url": "https://www.cchs-satx.org/apps/news/article/1576623",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "08a82a16-4dff-424b-b660-ed54f2aed0c9",
+  "name": "Hernandez, Andrea",
+  "resolved_employer": "H-E-B (Sr Project Manager, IS/IT)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Donor listed as Sr Project Manager IS/IT at H-E-B, San Antonio. LinkedIn result 'Andrea B. Hernandez, MBA, SMC - H-E-B' is consistent with an IT/IS project-manager role at H-E-B, the San Antonio-based grocery retailer (industry = Retail per employer). Common name; no distinguishing public bio, board seats, or advocacy roles found. FEC and TX Ethics lobbyist searches returned no attributable ideological-PAC contributions or lobbyist registration. Quiet outcome.",
+  "source_url": "https://www.linkedin.com/in/andreabhernandez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ed75e80e-e6b3-439d-b37b-4ea203704c87",
+  "name": "Rodriguez, Norma",
+  "resolved_employer": "Retired (not employed)",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "FEC Schedule A (zip 78201, San Antonio) shows 'RODRIGUEZ, NORMA / NOT EMPLOYED' and 'RODRIGUEZ, NORMA S / RETIRED' making many small recurring ActBlue contributions ($1-$20) throughout 2025 plus a $50 gift to Fetterman for PA - consistent with the very high fec_donation_count (6381) as a small recurring ActBlue donor. Retired/not employed; no former career documented, no board/advocacy roles or lobbyist registration found. Small-dollar Democratic giving via ActBlue conduit only (no ideological PAC in the tracked categories). Quiet outcome.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Norma+Rodriguez&contributor_city=San+Antonio&contributor_zip=78201",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "885f2e3b-1697-42d3-85d3-ecb137b7caa7",
+  "name": "Rodriguez, Arthur",
+  "resolved_employer": "Retired",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "FEC Schedule A (zip 78201, San Antonio) shows 'RODRIGUEZ, ARTHUR / RETIRED' contributing to ActBlue (earmarked DCCC). Same 2101 W Summit Ave household as Norma Rodriguez (likely spouse). Retired, no former career documented, no board/advocacy roles or lobbyist registration found. Only small Democratic ActBlue giving (no tracked ideological PAC). Quiet outcome.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Arthur+Rodriguez&contributor_city=San+Antonio&contributor_zip=78201",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f8af35af-d25f-43a6-b94a-528b209c1979",
+  "name": "Rajunov, Fermin",
+  "resolved_employer": "Cultiva Financial (Founder/President), San Antonio business-lending firm",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Founder/President of Cultiva Financial, a San Antonio business-lending firm (factoring, asset-based loans, equipment leasing) - industry = Finance. LinkedIn and Crunchbase confirm role; prior firms FED Investments, Presto Capital. FEC shows ~17 contributions to congressional candidates of BOTH parties (Democrats: Castro, Doggett, Cuellar, C. Rodriguez, C. Gonzalez, ActBlue; Republicans: Hensarling, Bonilla, Lujan) plus real-estate-developer self-employment on older filings. These are candidate/party donations, none in the tracked ideological-PAC categories. No TX lobbyist registration found.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Fermin+Rajunov",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "efb2213e-ae0d-42e2-a45c-7e086bc3e88f",
+  "name": "Dreiss, Pamela",
+  "resolved_employer": "Stryker (medical devices) - Sales Representative, Endoscopy division, San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "LinkedIn profile confirms Pamela Dreiss is a Sales Representative in the Endoscopy division at Stryker in San Antonio, TX, matching the record (employer Stryker, occ Sales Representative, 3 Imperial Oaks 78248). FEC individual-contribution search returned zero results, consistent with fec_donation_count 0. No Texas lobbyist registration found. No board seats, leadership roles, or ideological-PAC activity documented. Quiet outcome.",
+  "source_url": "https://www.linkedin.com/in/pamela-dreiss-40a8a671/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e2b4f5ab-cb55-4eaf-92e8-40a3b70fcfbb",
+  "name": "Riera, Stephen",
+  "resolved_employer": "Retired / Not Employed (San Antonio, TX)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "FEC Schedule A search (contributor 'Stephen Riera', San Antonio TX) returns a long history of small-dollar federal donations self-listed as 'Retired' / 'Not Employed', matching the record (occ Retired, 78216, fec_donation_count 52). Donations run to Democratic/progressive federal committees (VoteVets, The Lincoln Project, ActBlue, Colin Allred for Senate, Friends of Sherrod Brown, Montanans for Tester, Maxwell Frost for Congress, Texas Organizing Project PAC). No Texas lobbyist registration found. Former career not disclosed; no formal board/leadership roles documented, so no single ideological-membership affiliation recorded.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Stephen+Riera&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "da266153-18b0-432f-aeee-625c8720dfea",
+  "name": "Hogan, Mary",
+  "resolved_employer": "HomeSpring Realty Partners / Hogan Real Estate Services (real estate agent); also listed as SAISD educator",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Record lists dual occupation 'Educator/Real Estate' with employer 'SAISD / HomeSpring Realty Partners.' HAR.com and Nestfully both list a Mary Hogan as a licensed Texas real estate agent, and HomeSpring Realty Partners is the residential arm of Hogan Real Estate Services (San Antonio). Could not fully confirm the SAISD-educator side in public records. Chose Real Estate as primary industry based on corroborated realtor profiles. No Texas lobbyist registration found; FEC itemization of the 189 donations could not be retrieved (API rate-limited), so no ideological-PAC affiliation is documented.",
+  "source_url": "https://www.har.com/mary-hogan/agent_maryhogan201",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d5582f99-e830-467c-9b14-86bcda7380a4",
+  "name": "Watson, Lynn",
+  "resolved_employer": "Snell Law, PLLC (Austin, TX firm) - civil trial attorney; San Marcos resident",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Firm bio for J. Lynn Watson at Snell Law, PLLC confirms a civil litigator (B.A. Trinity University 1988, J.D. UT School of Law 1991, licensed 1992), matching the record (Attorney, Snell Law Firm, San Marcos 78666). Bio documents membership in the Texas Trial Lawyers Association and CASA child-advocacy volunteer work. No Texas lobbyist registration found. FEC itemization of the 82 donations could not be retrieved (API rate-limited), so no ideological-PAC affiliation is recorded.",
+  "source_url": "https://www.snellfirm.com/staff/j-lynn-watson/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {
+    "org": "Texas Trial Lawyers Association",
+    "role": "Member",
+    "category": "civic",
+    "source_url": "https://www.snellfirm.com/staff/j-lynn-watson/",
+    "snippet": "Firm bio lists: 'Member, Texas Trial Lawyers Association.'"
+   },
+   {
+    "org": "CASA (Court Appointed Special Advocates)",
+    "role": "Volunteer advocate for children in the court system",
+    "category": "civic",
+    "source_url": "https://www.snellfirm.com/staff/j-lynn-watson/",
+    "snippet": "Firm bio notes she serves as a Court Appointed Special Advocate through CASA, a 'volunteer advocate for children in the court system.'"
+   }
+  ]
+ },
+ {
+  "donor_id": "cf7882df-c2b1-4879-b46a-bf30eecd5358",
+  "name": "Fulghum, Lupita",
+  "resolved_employer": "RCR Real Connect Realty (Brownsville, TX)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Identity/employer corroborated: Lupita Fulghum is a licensed realtor affiliated with RCR Real Connect Realty in Brownsville, TX, per HAR.com broker listing. Matches stated occupation 'Realtor/Self Employed' and employer. Her 66-count FEC donation history suggests an active small-dollar donor, but no specific recipient committees or ideological PACs could be confirmed (FEC DEMO_KEY API rate-limited). No TX lobbyist registration found. No documented ideological affiliation.",
+  "source_url": "https://www.har.com/rcr-real-connect-realty/broker_RCLL01",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cef72f5e-6d9d-4460-89e0-037284a09c87",
+  "name": "Guajardo, Lila",
+  "resolved_employer": "AT&T (Director, Human Resources)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "LinkedIn profile confirms Lila Guajardo as 'Director - Human Resources' at AT&T, based in the Austin, Texas area, with an MBA from University of the Incarnate Word, matching stated occupation, employer, and Austin 78735 location. AT&T is a telecommunications/technology company (closest taxonomy: Technology). No TX lobbyist registration found. FEC donation count is only 2; no ideological PAC contributions identified. No documented advocacy affiliations.",
+  "source_url": "https://www.linkedin.com/in/lila-guajardo-308ba54/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ceac1d57-4721-4de6-9d0b-264e74eb41a2",
+  "name": "Weron, George",
+  "resolved_employer": "KFW Engineers & Surveying (co-founder/managing partner, retired)",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Best-match identity: George Weron is a co-founder and managing partner of KFW Engineers & Surveying, a San Antonio civil engineering/surveying firm founded 2006 and acquired by Colliers in March 2022. Aligns with the donor's stated 'Retired' occupation (consistent with exiting the firm after its 2022 sale) and San Antonio 78258 (Stone Oak/NW side) location. LinkedIn could not be read directly (HTTP 999). No TX lobbyist registration found; no ideological PAC contributions identified via search.",
+  "source_url": "https://people.equilar.com/bio/org/kfw-engineers--surveying/10792049",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {
+    "org": "KFW Engineers & Surveying",
+    "role": "Co-founder / Managing Partner (firm acquired by Colliers 2022)",
+    "category": "business",
+    "source_url": "https://people.equilar.com/bio/org/kfw-engineers--surveying/10792049",
+    "snippet": "George Weron is a co-founder of KFW Engineers and Surveying, a San Antonio firm founded in 2006, serving as one of the Managing Partners; KFW was acquired by Colliers on March 10, 2022."
+   }
+  ]
+ },
+ {
+  "donor_id": "cb299c77-7954-4134-b6b3-a8342b457076",
+  "name": "Tilma, Tyler Thomas",
+  "resolved_employer": "Retired (former career unknown)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not identify. Only a PO Box (782257) in Wichita, KS 67278 and 'Retired' occupation are available; FEC donation count is 0. Web searches surfaced other Wichita-area Tilma family members but no verifiable public record for 'Tyler Thomas Tilma.' No TX lobbyist registration and no ideological PAC contributions found. Out-of-state PO-box donor; unidentifiable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

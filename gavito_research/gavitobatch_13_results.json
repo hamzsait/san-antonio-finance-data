@@ -1,0 +1,236 @@
+[
+ {
+  "donor_id": "30ef7bab-3c38-4374-85b2-328210ad5b95",
+  "name": "Sepeda, Martha G",
+  "resolved_employer": "Retired attorney (solo practitioner), Martha Guadiana Sepeda; UT Law J.D. 1983, licensed 1984, now administratively suspended/inactive",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Donor 'Martha G' matches Martha Guadiana Sepeda, San Antonio solo-practitioner attorney (criminal/government/labor-employment), TX bar since 1984, currently administratively suspended (consistent with 'Retired'). Prolific Democratic donor (213 FEC gifts).",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=%2FCustomsource%2FMemberDirectory%2FMemberDirectoryDetail.cfm&ContactID=177870",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "People First Future (Julian Castro)", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part4.html", "snippet": "Martha G. Sepeda, San Antonio, contributions to People First Future (Castro, Julian), $300 (01/07/2019) and $1000 (03/24/2019)"}
+  ]
+ },
+ {
+  "donor_id": "398e588c-f168-42e2-ae0d-2733e66161f0",
+  "name": "Stiles, Jason",
+  "resolved_employer": "REALTOR, JBGoodwin REALTORS (Rich Realty group), San Antonio (TX license #789059)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Public property records list Jason Stiles as owner on Greensboro Dr, 78229 (donor address 4017 Greensboro); a San Antonio-native Jason Stiles is a JBGoodwin realtor. No FEC PAC or lobbyist record found.",
+  "source_url": "https://www.jbgoodwin.com/agent/jason-stiles/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e7cd498d-a87e-47b8-beb7-b89dcb29cac9",
+  "name": "Guzman, Celso",
+  "resolved_employer": "Formerly Alamo Colleges District — Director of Human Resources, later Director of Employee Giving & Community Outreach (retired)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "People-search records tie 'Celso Guzman' to 24 Inwood Bluff, 78248 (donor's exact address); a Celso Guzman held HR/community-outreach director roles at Alamo Colleges District (public community-college system). Donor listed as Retired. No FEC PAC or lobbyist record found.",
+  "source_url": "https://www.zoominfo.com/p/Celso-Guzman/1605017899",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b86309dd-4328-48d4-88c3-e79a74ba3f24",
+  "name": "Garcia, Roger",
+  "resolved_employer": "Owner, R.F. Garcia Construction Co. LLC (Richard F. Garcia Construction Co.), general contractor, 826 Cincinnati Ave, San Antonio 78201",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Self-reported occupation matches a real San Antonio general-contracting firm at the donor's listed address (826 Cincinnati Ave), a residential/commercial contractor active since ~2006. No FEC PAC or lobbyist record found.",
+  "source_url": "https://www.buildzoom.com/contractor/r-f-garcia-construction-co-richard-f-garcia-cons-co-inc",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9f053faf-1208-45fd-b177-32571324d6f9",
+  "name": "Doria, Diana",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm the specific retired Diana Doria at 101 Linda Dr, 78216; no matching bio, FEC PAC, or lobbyist record (fec_donation_count 0). Distinct from a younger San Antonio Diana Doria in nonprofit/AmeriCorps work, who does not fit 'Retired'.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "95aa0a0b-b251-4760-902b-87eb71619ba1",
+  "name": "Aranda, Catarino",
+  "resolved_employer": "Retired; no identifiable prior career (public records list generic 'sales')",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Bexar County property records confirm Catarino Aranda owns/resides at 9602 Rochelle Rd, San Antonio TX 78240 (exact donor address match). No bio, board seats, PAC or lobbyist activity found; small-dollar donor.",
+  "source_url": "https://www.city-data.com/bexar-county/R/Rochelle-Road-5.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "76d23379-e5cc-4be0-b5ca-b3d3c0ffd111",
+  "name": "Rogers, Mary",
+  "resolved_employer": "Retired; no identifiable prior career",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Common name; could not corroborate the specific individual at 6347 Mondean St, 78240 beyond the donor record. No confirmed FEC PAC donations, no Texas lobbyist registration, no public bio.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part45.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6f52e767-99b2-4909-8021-bc2ff3da6f96",
+  "name": "Garza, Jose",
+  "resolved_employer": "Retired; no identifiable prior career",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Very common name in San Antonio; 32 FEC records suggest recurring small-dollar (ActBlue-style) giving, but the specific individual at 5902 Fermi, 78228 could not be uniquely confirmed. No Texas lobbyist registration or public bio found.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part222.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "62d24f24-76e6-42f3-b766-f5b20e7b0ca5",
+  "name": "Sarfati, Elias",
+  "resolved_employer": "President/owner of ADP Solutions of Texas Inc. (auto body & detailing supply distributor), San Antonio (retired)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "LinkedIn and business directories identify Elias Sarfati as business owner/President of ADP Solutions of Texas Inc. (auto body/detailing supplies, 3700 Fredericksburg Rd); public records place him in zip 78231 (matches donor zip). fec_donation_count 0 consistent with no federal PAC activity.",
+  "source_url": "https://www.linkedin.com/in/elias-sarfati-611b4545",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "604468a7-6e8c-4422-ac54-30823de9fae8",
+  "name": "Rodriguez, Fernando",
+  "resolved_employer": "Retired; no identifiable prior career",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Very common name; high FEC record count (261) indicates a heavy small-dollar recurring (ActBlue-style) donor pattern, but the specific individual at 4026 City View, 78228 could not be uniquely confirmed against occupation/employer. No Texas lobbyist registration or targeted-cause PAC affiliation found.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part49.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4beb8ef0-d736-492d-aede-64e5b6403833",
+  "name": "Warncke, Richard",
+  "resolved_employer": "Richard Egon Warncke - San Antonio attorney (JD, St. Mary's 1990; State Bar member, administratively suspended) and owner of Warncke Enterprises, Inc. and Rich Financial, LTD",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Businesses Warncke Enterprises Inc and Rich Financial LTD are registered at 1618 Hillcrest Dr, San Antonio 78228 - an exact match to the donor address; Richard Egon Warncke is a St. Mary's-trained attorney running business/financial services from that home.",
+  "source_url": "https://www.dandb.com/businessdirectory/richardegonwarnckecamillawarncke-sanantonio-tx-7792803.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1c53f156-2ceb-45f1-8780-b4615b129131",
+  "name": "Silva, Adelina",
+  "resolved_employer": "Dr. Adelina S. Silva - Vice Chancellor for Student Success, Alamo Colleges District (retired), longtime community-college administrator",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Prominent San Antonio educator; first Hispanic female vice chancellor at Alamo Colleges District with 45+ year career in student-success programs; 'Retired' occupation and San Antonio locale fit. Name is somewhat common so identity not fully confirmed to the exact address.",
+  "source_url": "https://sawoman.com/2021/09/feature-story-dr-adelina-silva-aiming-higher-for-higher-education/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Hispanic Foundation of Texas", "role": "Board member", "category": "civic", "source_url": "https://www.hf-tx.org/ourboard/adelina-s.-silva,-ph.d.", "snippet": "Adelina S. Silva, Ph.D. - listed among the organization's board of directors"}
+  ]
+ },
+ {
+  "donor_id": "d7f78047-bb97-4110-a496-edab023af1ff",
+  "name": "Cano, Narciso",
+  "resolved_employer": "Retired; owner of Ledas Outlet (retail outlet store); LinkedIn lists 'Retired - Marcy's Never Too Late Business & Travel Center'",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Self-identified retired San Antonio small-business owner of an outlet store; a frequent political small-dollar donor (91 FEC records). No single-issue PAC affiliation surfaced in FEC/OpenSecrets search.",
+  "source_url": "https://www.linkedin.com/in/narciso-cano-0976a51ab/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f8c1cd07-ed44-40e8-8336-0605c5cabf67",
+  "name": "Ximenes, John",
+  "resolved_employer": "John P. Ximenes - owner of L5 Services, LLC, a minority-owned San Antonio commercial cleaning/janitorial and facilities-maintenance company and federal contractor",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Business records list John P. Ximenes as contact/owner of L5 Services LLC with contact address 111 E. Laurel St, San Antonio 78212 - an exact match to the donor address. Company provides commercial cleaning, janitorial, grounds and facilities maintenance (no facilities-services label exists in the taxonomy).",
+  "source_url": "https://www.manta.com/c/mtgptgy/l5-services-llc",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f56fb433-d31d-482d-a7ef-b961f7d159f7",
+  "name": "Mireles, Margaret",
+  "resolved_employer": "Margaret Guzman Mireles - retired San Antonio schoolteacher; former member of the San Antonio ISD Board of Trustees",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Texas House Resolution 1334 honors retired SA schoolteacher Margaret Guzman Mireles, former SAISD trustee and 2015 San Antonio Women's Hall of Fame inductee; 'Retired Teacher' occupation and San Antonio locale fit. Frequent small-dollar donor (87 FEC records); no single-issue PAC affiliation surfaced.",
+  "source_url": "https://capitol.texas.gov/tlodocs/84R/billtext/html/HR01334F.htm",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Independent School District (Board of Trustees)", "role": "Former Trustee", "category": "civic", "source_url": "https://capitol.texas.gov/tlodocs/84R/billtext/html/HR01334F.htm", "snippet": "she served her community again on the Board of Trustees of the San Antonio Independent School District"}
+  ]
+ },
+ {
+  "donor_id": "eddb7714-d2b4-464c-9225-7161c6efc2d7",
+  "name": "Limon, Lonnie",
+  "resolved_employer": "Dieste Inc. (Managing Director / Brand Leadership); later EVP & Head of Cultural Quotient at Publicis Media",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Veteran multicultural advertising executive with ~25-30 years at agencies (Leo Burnett, LatinWorks, Dieste); Managing Director on Dieste's leadership team. Austin zip 78704 matches listed location.",
+  "source_url": "https://theorg.com/org/dieste/org-chart/lonnie-limon",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Hispanic Marketing Council", "role": "Head of Cultural Quotient", "category": "business", "source_url": "https://www.zoominfo.com/p/Lonnie-Limon/17450129383", "snippet": "Head of Cultural Quotient at Hispanic Marketing Council"}
+  ]
+ },
+ {
+  "donor_id": "edbd2c69-2522-4f8e-a7c6-8d91d53db6fc",
+  "name": "Estrada, Rebecca",
+  "resolved_employer": "San Antonio ISD (Senior Administrative Assistant, Transportation Dept. & Fleet Maintenance)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Listed as Senior Administrative Assistant in San Antonio ISD's Transportation/Fleet Maintenance department, matching the donor's stated occupation; common name so specific person only partly corroborated.",
+  "source_url": "https://www.zoominfo.com/pic/san-antonio-independent-school-district/92767348",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e3758c1f-2751-408e-9e96-1b69eede100c",
+  "name": "Dalbis-Robledo, Michele",
+  "resolved_employer": "Retired; former San Antonio City Council aide and 2017 District 7 council candidate",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Longtime District 7 neighborhood activist and former council aide; ran for the D7 council seat in 2017, was president of the Braun Station East Community Improvement Association, and was appointed to the San Antonio Public Library Board of Trustees. Zip 78254 (Braun Station/NW side) is within D7.",
+  "source_url": "https://ballotpedia.org/Michele_Dalbis-Robledo",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council District 7", "role": "2017 candidate / former council aide", "category": "political", "source_url": "https://ballotpedia.org/Michele_Dalbis-Robledo", "snippet": "Michele Dalbis-Robledo was a candidate for District 7 representative on the San Antonio City Council"},
+   {"org": "San Antonio Public Library Board of Trustees", "role": "Trustee (District 7 appointee)", "category": "civic", "source_url": "https://library.sanantonio.gov/About/Board-of-Trustees", "snippet": "Michele Dalbis-Robledo (District 7) was appointed to the San Antonio Public Library Board of Trustees"},
+   {"org": "Braun Station East Community Improvement Association", "role": "President (former)", "category": "civic", "source_url": "https://sanantonioreport.org/seeking-final-term-in-district-7-medina-says-experience-does-matter/", "snippet": "a neighborhood activist ... former council aide and president of the Braun Station East Community Improvement Assoc."}
+  ]
+ },
+ {
+  "donor_id": "e2c4388a-e11a-4e62-9d10-87c2b5263a28",
+  "name": "Smith, Mark",
+  "resolved_employer": "Spire Investigations LLC, San Antonio (private investigator; firm founded by Marcas Smith)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Spire Investigations is a San Antonio PI firm (license A-04130801) founded in 2017 by Marcas Smith, providing litigation support, surveillance and background checks for law firms; donor listed as investigator at Spire, zip 78248 (NW San Antonio) consistent with the firm's owner. No individual FEC/PAC or lobbyist record found (the 'Spire Federal PAC' is an unrelated gas utility).",
+  "source_url": "https://spirepi.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "de5ab54d-8376-4a71-8283-7fe62b2ea5f8",
+  "name": "Navarro Velesiotis, Nicole",
+  "resolved_employer": "Santana Group / Integrated Human Capital (Vice President; family-owned staffing & outsourcing firm)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Vice President of the Santana Group and Integrated Human Capital, the San Antonio staffing/outsourcing firm founded by her mother Rosa Santana; UTSA communications grad who oversees US branch operations. No FEC/PAC or lobbyist record found.",
+  "source_url": "https://www.santanagrp.com/nicole-navarro-velesiotis/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Restore Education", "role": "Board member", "category": "civic", "source_url": "https://www.santanagrp.com/nicole-navarro-velesiotis/", "snippet": "she serves on the board of Restore Education and supports various other nonprofits"}
+  ]
+ }
+]
