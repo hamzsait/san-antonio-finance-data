@@ -902,6 +902,45 @@ omitting `sa_tec_crosswalk.py --link-only` and `fec_enrich.py`. A replay as
 written leaves the TEC aggregates and FEC coverage out of step with the PR's
 build, and the JSON diff in step 3 will show more than `generated_at`.
 
+**D17 — `fetch_data.py --dry-run` is NOT a cheap probe.** It skips only the DB
+writes. The detail harvest still runs, and because `details_done` is populated
+only when *not* dry-running, it re-fetches **every** schedule-detail postback at
+`--detail-pace` and throws the results away — so a dry run is strictly *slower*
+than the real ingest. For a filer-name or row-count probe always pair it:
+`--no-details --dry-run`. (Cost of learning this on Gavito: a 10-minute run that
+produced nothing.)
+
+**D18 — the initial search response is not the grid's page 1.** Fixed on the
+`gavito` branch; the note stays because the shape is worth knowing. The search
+POST returns rows ordered by **contributor name**, while the DataGrid's own
+paging is ordered by **amount**. `fetch_data.py` used to keep the search
+response's 500 rows as "page 1" and then postback to pages 2..N, and since the
+walk only moves forward (`p > current_page`) it never revisited page 1 — so on
+every multi-page filer the true page 1 was silently never fetched. Gavito stored
+1,334 of 1,676 rows and $484,056 of $668,610 before the fix, losing whole
+transaction classes (expenditures 127 → 549, plus `Lender` and
+`Candidate / Committee` rows).
+
+The fix steps to the first linkable page — which makes page 1 a target — fetches
+the true page 1, then resumes the forward walk; `row_hash` dedup makes the
+overlap free. **The failure was data-dependent** (it only bites when the two
+sort orders diverge for that result set), which is why five of seven members
+were affected and Jones and McKee-Rodriguez were not. If you ever touch the
+pager, re-verify against the portal Grand Total, not against row counts.
+
+**D19 — `filer_slug` is the searched member, not the recipient.** A portal
+search returns every row where the name appears, including contributions the
+member *made to other candidates*. Those rows land under their `filer_slug` and
+are counted as money they raised. The `recipient` column is the discriminator —
+but it is **not** simply "recipient == member": Jones's own money is split
+across two recipient strings (`Gina Jones`, 4,482 rows, and `Gina Ortiz Jones`,
+3 rows / $510), so a naive filter would drop legitimate rows. Genuinely foreign
+rows found across the eight built members total roughly $2,700 — small in
+dollars, but on Gavito it rendered four phantom year-bars (2019–2022) for a
+candidate whose first race was 2023. Watch for it whenever the by-year table
+predates the member's first campaign; Viagran's includes $275 to her sister
+Rebecca, the same-surname relative §1 warns about.
+
 ### Code-level traps nothing documents
 
 **D15 — stale TEC links are never repaired.** `link_to_sa_donors()` only fills
