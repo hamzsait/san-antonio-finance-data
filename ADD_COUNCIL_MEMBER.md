@@ -617,10 +617,28 @@ Pass every slug you rebuilt, so stale stats refresh together:
 python _update_landing.py jones galvan kaur mckeerodriguez viagran mungia <slug>
 ```
 
+**Then re-render the HTML — this step is mandatory (D20):**
+
+```bash
+python build_candidate.py --all-remaining --html-only
+```
+
+`build_candidate.og_meta_for()` reads the page's `<meta name="description">`,
+`og:description` and `twitter:description` **out of `sanantonio_landing.json`**.
+§10 renders the HTML *before* this section updates that file, so without a
+re-render every page ships a description that is one conveyor step stale — and
+a brand-new member, whose card is still a `soon` placeholder at §10 time, falls
+through to the generic fallback string entirely. That is exactly what happened
+to Castillo (shipped with "San Antonio city campaign money, decoded donor by
+donor.") and to Gavito ($392K/649 baked into the meta after the recipient
+filter moved her to $391K/647). `--html-only` skips the JSON export, so it is
+cheap and cannot change any data.
+
 **Verify before moving on:** the script prints one
 `<slug>: $X / N donors / P% affiliated` line per slug; the new member's entry
 in the JSON has no `soon` key and has `href`, `raised`, `donors`, `empPct`,
-and 4 `topGroups`.
+and 4 `topGroups`. After the re-render, `git diff -- sanantonio/*/index.html`
+should be empty on a second run.
 
 ---
 
@@ -901,6 +919,16 @@ silently loses 2016–2017.
 omitting `sa_tec_crosswalk.py --link-only` and `fec_enrich.py`. A replay as
 written leaves the TEC aggregates and FEC coverage out of step with the PR's
 build, and the JSON diff in step 3 will show more than `generated_at`.
+
+**D20 — page meta descriptions lag the landing JSON by one step.** The
+social/SEO description comes from `sanantonio_landing.json` via
+`og_meta_for()`, but §10 renders HTML before §11 writes that file. Every
+profile therefore ships a stale description unless you re-run
+`build_candidate.py --all-remaining --html-only` *after* the landing flip. New
+members get the generic fallback rather than stale numbers, because their card
+has no `raised`/`topGroups` yet. Caught twice (Castillo, Gavito) at publish
+time, when the post-merge rebuild diff showed HTML changes that the
+`_data.json` files did not have.
 
 **D17 — `fetch_data.py --dry-run` is NOT a cheap probe.** It skips only the DB
 writes. The detail harvest still runs, and because `details_done` is populated
