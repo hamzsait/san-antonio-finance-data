@@ -1,0 +1,238 @@
+[
+ {
+  "donor_id": "e8e4bfa8-18d9-451f-b107-e67cd06b8e5d",
+  "name": "Santos, Ted",
+  "resolved_employer": "The Law Office of Ted Santos (self-employed)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Teodore J. 'Ted' Santos is a solo-practitioner San Antonio attorney (family/criminal/personal injury); occupation 'self-employed attorney' matches his one-lawyer firm, though his office zips (78207/78216) differ from the residential donor zip 78232.",
+  "source_url": "https://lawyers.justia.com/lawyer/teodore-j-ted-santos-1581030",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e50f0d27-4ebf-4f44-8489-ddc67cf50c76",
+  "name": "Ferrer, Joseph",
+  "resolved_employer": "Syneos Health",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Pharmaceutical sales manager at Syneos Health (a contract pharma commercial-services firm); no individual public profile located to corroborate beyond the stated occupation/employer, so categorized by industry only.",
+  "source_url": "https://www.syneoshealth.com/careers/search/sales/jobs/in/san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e27ade6f-8897-4da0-9bb9-baa0da42a5d8",
+  "name": "Doege, Melinda",
+  "resolved_employer": "Lyons & Lyons",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Melinda Narvaez-Doege is a paralegal and office administrator at San Antonio personal-injury firm Lyons & Lyons for nearly three decades; firm bio matches the 'Legal Assistant / Lyons & Lyons' donor record, and Castroville is a commuter suburb of San Antonio.",
+  "source_url": "https://lyonsandlyons.com/our-practice/our-staff/melinda-narvaez-doege/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dff19bf3-943e-4937-aa4d-5b852225f0e4",
+  "name": "Harper, Michelle",
+  "resolved_employer": "Northside ISD",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "A Michelle Harper is listed in the Northside ISD staff directory as a special-education teacher (Michelle.Harper@nisd.net), matching the donor's teacher/NISD occupation; common name so identity is probable not certain.",
+  "source_url": "https://www.nisd.net/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "de9b9127-a361-4877-86cf-e648aee28020",
+  "name": "Vaccaro, Laura",
+  "resolved_employer": "Kronkosky Charitable Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Laura J. Vaccaro is CEO/Executive Director of the Kronkosky Charitable Foundation (~$400M grantmaking foundation), previously VP of Community Investment/Engagement at Valero Energy for ~10 years; Alamo Heights (78209) address fits. No political/religious advocacy affiliations documented.",
+  "source_url": "https://www.uwsatx.org/wp-content/uploads/2024/03/Bio_Laura-J.-Vaccaro_March-2024.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Kronkosky Charitable Foundation", "role": "CEO / Executive Director", "category": "civic", "source_url": "https://www.uwsatx.org/wp-content/uploads/2024/03/Bio_Laura-J.-Vaccaro_March-2024.pdf", "snippet": "Laura Vaccaro serves as CEO of one of the largest grantmaking organizations in the state ... more than $400 million in assets and annual grantmaking of $15-$20 million."},
+   {"org": "Alamo Area Community Network", "role": "Chair", "category": "civic", "source_url": "https://www.uwsatx.org/wp-content/uploads/2024/03/Bio_Laura-J.-Vaccaro_March-2024.pdf", "snippet": "Laura is Chair of the Alamo Area Community Network, a closed-loop referral platform founded by Kronkosky that connects individuals to nonprofit services across San Antonio."},
+   {"org": "National Multiple Sclerosis Society", "role": "Former National Board Director / South Central Region Trustee", "category": "civic", "source_url": "https://www.uwsatx.org/wp-content/uploads/2024/03/Bio_Laura-J.-Vaccaro_March-2024.pdf", "snippet": "She completed a nine-year term on the National Board of Directors for the National Multiple Sclerosis Society ... inducted into the National MS Society Hall of Fame in 2015."},
+   {"org": "Valero Energy (Valero Energy Foundation)", "role": "Former VP, Community Investment and Engagement", "category": "business", "source_url": "https://theorg.com/org/valero-energy/org-chart/laura-j-vaccaro", "snippet": "Prior to joining Kronkosky, Laura spent nearly a decade as Vice President for Community Investment and Engagement at Valero Energy."}
+  ]
+ },
+ {
+  "donor_id": "db3ba5bd-89a2-4abe-8ed6-f24c3d5113d9",
+  "name": "Zepeda, Alex",
+  "resolved_employer": "Self-employed (real estate)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Self-employed realtor/real estate investor at 17211 Fawn Cloud Ln, San Antonio (address exactly matches donor); active listings in the 78245 area. Note: an 'Oscar A. Zepeda' filed a 2024 city ethics complaint from the same address, but the differing first name is not confirmed to be this donor and is not recorded as the donor's own affiliation.",
+  "source_url": "https://sanantonioreport.org/wp-content/uploads/2024/11/Oscar-A-Zepeda-Complaint-2024.11.05.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "db34f983-c98b-4e5b-8304-2e5ed423a96a",
+  "name": "Lewis, Jamie",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Listed occupation 'Retired'; public records show a Jamie L. Lewis (b. 1952) residing in the 78255 zip of San Antonio, consistent with the donor. No professional or advocacy profile located.",
+  "source_url": "https://clustrmaps.com/person/Lewis-8u7oq7",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d945165d-bcee-4007-b453-7e137120a3b0",
+  "name": "Gonzalez, Robert",
+  "resolved_employer": "Texas Health and Human Services Commission",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Robert Charles Gonzalez, Government Relations Specialist at Texas HHS in Austin (matches occupation, employer, and Austin location); UT-Austin grad with prior roles at the Texas House, State Office of Administrative Hearings, and as a Senate legislative aide. Not a registered lobbyist. Shared surname with the candidate; no documented family/business tie.",
+  "source_url": "https://rocketreach.co/robert-charles-gonzalez-email_91096362",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d7b8680a-2ac6-45cf-8abd-5de866dca438",
+  "name": "Ullah, Habib",
+  "resolved_employer": "Sunshine Laundromat",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Owner of Sunshine Laundromat in San Antonio; named on a 2015 San Antonio building permit for a laundromat buildout, and the business contact email matches his surname. No public profile beyond small-business ownership.",
+  "source_url": "https://www.sanantonio.gov/portals/0/files/dsd/pastgranted/2015/2015-07-04.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d195501c-8307-4f1e-bab4-0586124985a1",
+  "name": "Long, George",
+  "resolved_employer": "Long Life Financial (MML Investors Services / MassMutual)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "George F. Long, Managing Principal of Long Life Financial in San Antonio; MassMutual/MML financial professional since 2001 holding FINRA Series 6 & 63 licenses. Firm bio and MassMutual profile confirm identity.",
+  "source_url": "https://www.longlifefinancial.com/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Member", "category": "business", "source_url": "https://www.longlifefinancial.com/about-us", "snippet": "Community Involvement - San Antonio Hispanic Chamber of Commerce - Member."}
+  ]
+ },
+ {
+  "donor_id": "d0f2581d-41b2-4a7d-8cab-a41421b82821",
+  "name": "Hernandez, Gloria",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired, Corpus Christi (zip 78414). Extremely common name; no unique public profile could be corroborated for this specific individual. Categorized by stated occupation only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d06b0add-ae74-4334-946f-b997fdce5f09",
+  "name": "Rendon, Alda",
+  "resolved_employer": "Border Region Behavioral Health Center",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Administrator (Director of 1115 Waiver) at Border Region Behavioral Health Center, a Laredo mental-health nonprofit; zip 78045 is Laredo, matching employer (listed 'San Antonio' appears to be a data error). LinkedIn confirms role.",
+  "source_url": "https://www.linkedin.com/in/alda-rendon-348a5099",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c3e08f5e-46eb-4b37-8bb4-5e0d79245ecb",
+  "name": "Arriaga, Roger",
+  "resolved_employer": "Texas Affiliation of Affordable Housing Providers (TAAHP)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Executive Director of TAAHP, a statewide affordable-housing trade/advocacy association; prior roles at Alamo Area Council of Governments (San Antonio), City of Austin Housing Finance Corp, and KB Home govt affairs. Helotes (San Antonio metro) residence consistent with AACOG tenure.",
+  "source_url": "https://www.housingfinance.com/management-operations/people-on-the-move-3-26-18_o",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Affiliation of Affordable Housing Providers", "role": "Executive Director", "category": "business", "source_url": "https://taahp.org/taahp-president-executive-director-provide-testimony-at-the-texas-house-of-representatives-urban-affairs-hearing/", "snippet": "Roger Arriaga, Executive Director of TAAHP, provided public testimony at the Urban Affairs Committee hearing... invited to speak on increasing the supply of affordable housing in Texas."}
+  ]
+ },
+ {
+  "donor_id": "bdba3fca-141c-43f3-a4e8-5784dbc0e427",
+  "name": "Martinez, Debbie",
+  "resolved_employer": "Shavano Family Practice",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Debbie Yvette Martinez, PA-C (physician assistant, Texas license PA06415), at Shavano Family Practice ('SFP') in San Antonio; residence zip 78255 is the Shavano/far-north SA area matching the practice.",
+  "source_url": "https://www.myprivia.com/shavanofamilypractice/providers/debbie-martinez-pac",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ba3a1b23-1966-4238-8e09-6b8fdc258c05",
+  "name": "Cavazos, Rachel",
+  "resolved_employer": "AARP Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Project Director at AARP Foundation in San Antonio (LinkedIn matches stated occupation/employer). Very likely the same person as Rachel Garcia Cavazos, a San Antonio senior-services/nonprofit leader (former United Way Director of Labor Services) who ran as a Democrat for Bexar County Clerk in 2022; identity link to the candidacy is probable but not fully certain.",
+  "source_url": "https://www.linkedin.com/in/rachel-cavazos-844145a3/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Bexar County Clerk 2022 Democratic primary campaign", "role": "Candidate (Democratic)", "category": "political", "source_url": "https://retiredamericans.org/retiree-group-endorses-rachel-garcia-cavazos-for-bexar-county-clerk/", "snippet": "Texas Alliance for Retired Americans endorsed Rachel Garcia Cavazos for Bexar County Clerk; she previously served as Director of Labor Services at United Way of San Antonio and a service coordinator for elderly residents at Granada Homes."}
+  ]
+ },
+ {
+  "donor_id": "b9faf47a-8c12-4d05-b2fa-3eea99fd0323",
+  "name": "Rodriguez, Esmeralda",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as retired at 7186 Shady Grove, San Antonio 78227. Common name; public-records databases show an Esmeralda Rodriguez in the 78227 area but no exact address match or distinguishing profile could be corroborated.",
+  "source_url": "https://radaris.com/p/Esmeralda/Rodriguez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b9acfbde-92b4-443d-ab86-aec417e2b407",
+  "name": "Pozzi, Jeff",
+  "resolved_employer": "Coldwell Banker D'Ann Harper, Realtors",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Jeffrey Pozzi is a San Antonio real estate agent with Coldwell Banker D'Ann Harper, Realtors (18756 Stone Oak Pkwy); operates pozzirealty.com. Occupation 'realtor/self' matches. No FEC or lobbyist records found.",
+  "source_url": "https://www.coldwellbanker.com/tx/san-antonio/agents/jeff-pozzi/aid-P00200000FDdrHjlm8a1CO2cDtbiOmkuOxdLJ23l",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b94b293e-1ed6-471f-b872-5c36b3c6c5b5",
+  "name": "El-Farrah, Adriana",
+  "resolved_employer": "Law Office of Adriana Segundo El-Farrah, PLLC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Adriana Segundo El-Farrah is a San Antonio family-based immigration attorney and owner of her own firm (self-employed, matches 'Attorney / Adriana El-Farrah'); J.D. from St. Mary's University, former VP of the SA Bar Association Immigration & Nationality Section.",
+  "source_url": "https://segundoelfarrah.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Leadership Committee member", "category": "business", "source_url": "https://segundoelfarrah.com/", "snippet": "Leadership Committee member, San Antonio Hispanic Chamber of Commerce"},
+   {"org": "The Gathering Place", "role": "School board member", "category": "civic", "source_url": "https://segundoelfarrah.com/", "snippet": "School board member, The Gathering Place"},
+   {"org": "Girl Scouts of Southwest Texas", "role": "Fund Development Committee / Fiesta Committee member", "category": "civic", "source_url": "https://segundoelfarrah.com/", "snippet": "Fund Development Committee member, Girl Scouts of Southwest Texas; Loteria para Lideres Fiesta Committee member"},
+   {"org": "San Antonio Bar Association, Immigration and Nationality Section", "role": "Former Vice President", "category": "business", "source_url": "https://segundoelfarrah.com/", "snippet": "Vice President, San Antonio Bar Association Immigration and Nationality Section"}
+  ]
+ },
+ {
+  "donor_id": "b832a4d0-2385-4f35-abbd-94731de1d948",
+  "name": "Milton, Luther",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed as retired at 13114 Hunters Valley St, San Antonio 78230. No public profile, FEC contributions, or lobbyist registration could be located to corroborate any occupation or affiliation.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b81861bd-46d5-4a56-9c36-cddeb70327af",
+  "name": "Siebenaler, Lavella",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Listed as retired in Helotes, TX 78023. Public-records databases corroborate a Lavella Siebenaler, age ~74, residing in Helotes, consistent with retired status. No FEC or lobbyist records found.",
+  "source_url": "https://www.spokeo.com/Scott-Siebenaler",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

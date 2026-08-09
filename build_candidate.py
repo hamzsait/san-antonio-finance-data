@@ -46,6 +46,7 @@ ROSTER = [
     {"slug": "mungia", "display": "Edward Mungia", "district": "District 4", "race": "Elected May 2025"},
     {"slug": "castillo", "display": "Teri Castillo", "district": "District 5", "race": "Re-elected May 2025"},
     {"slug": "gavito", "display": "Marina Alderete Gavito", "district": "District 7", "race": "Re-elected May 2025"},
+    {"slug": "gonzalez", "display": "Ivalis Meza Gonzalez", "district": "District 8", "race": "Elected June 2025"},
 ]
 
 # Non-officeholders rendered with candidate framing instead of incumbent

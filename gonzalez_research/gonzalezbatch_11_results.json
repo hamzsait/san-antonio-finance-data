@@ -1,0 +1,237 @@
+[
+ {
+  "donor_id": "7089d79b-193f-40b9-98a9-dd7b8c887978",
+  "name": "Flores, Acenete",
+  "resolved_employer": "Association for the Advancement of Mexican Americans, Inc (Special Projects)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Works in a 'Special Projects' role at the Advancement of Mexican Americans nonprofit (per her donation filing); San Antonio 78245 (far West side). No personal advocacy bio located; classified by employer.",
+  "source_url": "https://www.guidestar.org/profile/74-1696961",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "34008dc2-a0e7-4099-abac-06225fe2fceb",
+  "name": "Zapata, Jesse",
+  "resolved_employer": "Retired / self-employed; former UTSA senior vice provost (retired)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Profile matches Jesse T. Zapata, UTSA senior vice provost for academic and faculty support who retired after 43 years (joined 1976); 'self employed' consistent with post-retirement consulting, 78256 NW San Antonio fits a retired senior administrator. Common name, so identity is probable not certain.",
+  "source_url": "https://www.utsa.edu/today/2018/08/story/JesseZapata.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "La Raza Faculty and Administrators Association (UTSA)", "role": "Co-founder and first chair", "category": "civic", "source_url": "https://www.utsa.edu/today/2018/08/story/JesseZapata.html", "snippet": "In 1987, Zapata co-founded and served as first chair of La Raza Faculty and Administrators Association."}
+  ]
+ },
+ {
+  "donor_id": "2883c700-372e-4d5f-ae5c-3b15239897b7",
+  "name": "Kerhn, Susan",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, San Antonio 78249. No public profile located under this (likely misspelled) surname; 0 FEC donations, no lobbyist or advocacy records. Cannot identify former career.",
+  "source_url": "",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2839f1a5-a951-42d0-bbca-ced63bc6465f",
+  "name": "Coronado, Helen",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, 2 Victory Grn (upscale 78257 near The Dominion); a frequent small-dollar donor (40 FEC records) but no public bio, occupation, or documented advocacy role found. Could not corroborate any tie to Col. Gil Coronado, so no family link assumed.",
+  "source_url": "",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1ce466f8-4b90-4e49-8eae-2cdbd3d576f7",
+  "name": "Meyer, Kay",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, San Antonio 78230. A 'Kay L Meyer' holds passive mineral/royalty interests in San Antonio (common in Texas, not an occupation), but no career, employer, bio, or advocacy record found; identity match not certain. Former career unidentifiable.",
+  "source_url": "https://www.mineralholders.com/texas/san-antonio/kay-l-meyer/7448639",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a72a483a-8ac8-4ecf-a366-54627baea4e2",
+  "name": "Palacios, Edgar",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Address 13703 Pebble Oak Dr, San Antonio 78231 is a confirmed residence (Castle Hills Forest area), but no occupation/employer was reported on the filing and no public professional profile matches this individual. Prominent namesakes (a Kansas City nonprofit founder, a California tax auditor) are all out-of-area and not corroborated to this donor.",
+  "source_url": "https://www.zillow.com/homedetails/13703-Pebble-Oak-Dr-San-Antonio-TX-78231/26398885_zpid/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0064a262-2304-454a-b1b8-1a162031c0f1",
+  "name": "DeHoyos, Rosemarie",
+  "resolved_employer": "Self-employed / retired business owner (specific business not identified)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Confirmed resident of Crab Orchard, San Antonio 78240 (matches filing addresses 6062/6082 Crab Orchard). Filing lists her as 'Business Owner / Retired' and 'Self-employed / Retired'; prolific small-dollar political donor (102 FEC records), but the specific business could not be identified. (A separate Rose Marie De Hoyos, 1936-2024, is a different, deceased person.)",
+  "source_url": "https://www.simplecontacts.com/state/TX/San-Antonio/Crab-Orchard",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ddf98a73-55c0-4b77-86f1-246807fef62a",
+  "name": "Peña, Celina",
+  "resolved_employer": "Founder of in/tend (Intend LLC), a management/strategy consulting firm; former executive at LiftFund (San Antonio CDFI)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Celina Peña is a San Antonio native and former LiftFund executive (community asset builder / small-business lender) who now lives in Pittsburgh (matches filing address 317 Newburn Dr, Pittsburgh 15216) and runs the consulting firm in/tend. Her donation reflects longstanding San Antonio civic ties.",
+  "source_url": "https://www.intend.us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Housing Trust", "role": "Board member / former chair", "category": "civic", "source_url": "https://www.intend.us/", "snippet": "Former: San Antonio Housing Trust (chair)"},
+   {"org": "Guadalupe Cultural Arts Center", "role": "Former board chair", "category": "civic", "source_url": "https://www.intend.us/", "snippet": "Former: ... Guadalupe Cultural Arts Center (board chair)"},
+   {"org": "Mexican American Civil Rights Institute (MACRI)", "role": "Board Treasurer", "category": "civic", "source_url": "https://www.intend.us/", "snippet": "MACRI (Mexican American Civil Rights Institute) Board Treasurer"}
+  ]
+ },
+ {
+  "donor_id": "c5186bd4-7ceb-4311-a7e8-3ecea367a6e2",
+  "name": "Wolfe, Jeffrey",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filing lists only 'Retired' at 3568 Red Oak Ln, San Antonio 78230. No former career could be corroborated to this specific individual; 'Jeffrey Wolfe' returns many unrelated people with no confirmed link to this donor.",
+  "source_url": "https://radaris.com/p/Jeffrey/Wolfe/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7bef009c-de77-4f87-ae7b-6615297c0b9a",
+  "name": "Aldaco, Blanca",
+  "resolved_employer": "Founder/owner-operator, Aldaco's Mexican Cuisine (San Antonio restaurant, est. 1989)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Blanca Aldaco is the well-known founder and owner-operator of Aldaco's Mexican Cuisine, a San Antonio restaurant she opened in 1989 (now in Stone Oak). A Guadalajara native and naturalized U.S. citizen, she was named Texas Restaurant Association's 2023 Outstanding Restaurateur of the Year.",
+  "source_url": "https://sanantonioreport.org/meet-blanca-aldaco-she-went-from-a-minimum-wage-worker-and-immigrant-to-an-award-winning-texas-restaurateur/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Restaurant Association (San Antonio chapter)", "role": "President; 2023 Outstanding Restaurateur of the Year", "category": "business", "source_url": "https://sanantonioreport.org/meet-blanca-aldaco-she-went-from-a-minimum-wage-worker-and-immigrant-to-an-award-winning-texas-restaurateur/", "snippet": "President, San Antonio chapter of the Texas Restaurant Association ... advocates for restaurant-friendly legislation at the Texas State Capitol"}
+  ]
+ },
+ {
+  "donor_id": "4e3f6ef7-54b1-4eec-aba8-baf2627aa5e1",
+  "name": "Bernardy, Louis",
+  "resolved_employer": "McCormack Baron Salazar (Senior VP & Director of Development, Texas) — affordable/mixed-income housing developer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Firm bio confirms Louis Bernardy as SVP & Director of Development, Texas at McCormack Baron Salazar, based in San Antonio, project manager for the East Side Choice Neighborhood; firm's SA office is 215 N Center St, 78202, matching donor address. Formerly President/CEO of Los Angeles Housing Partnership for 15 years.",
+  "source_url": "https://www.mccormackbaron.com/our-team/louis-bernardy",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Los Angeles Housing Partnership", "role": "Former President & CEO (15 years)", "category": "civic", "source_url": "https://www.mccormackbaron.com/news/2015/04/22/louis-bernardy-to-lead-texas-efforts-for-mccormack-baron-salazar/", "snippet": "he served as the President and CEO of Los Angeles Housing Partnership (LAHP), a regional non-profit housing development corporation, for fifteen years"}
+  ]
+ },
+ {
+  "donor_id": "40204ca8-e9a3-4cab-b0ec-cedba83d63a5",
+  "name": "Sepulveda, Jamey",
+  "resolved_employer": "CPA; employer string 'Armarino' most likely Armanino LLP (accounting/advisory firm)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation is CPA at 'Armarino' (almost certainly Armanino LLP, a top-20 CPA/consulting firm). No public LinkedIn or firm profile for this specific individual (11934 Autumn Vista St, 78249) could be located to confirm role; occupation/industry are clear but the individual profile is unverified.",
+  "source_url": "https://www.armanino.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1df22687-9e44-42b3-a6ac-b74439d75f3d",
+  "name": "Duenas, Yvette",
+  "resolved_employer": "Garcia Hamilton & Associates, L.P. (Partner & Portfolio Manager, municipal bonds) — Houston fixed-income investment firm",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Firm bio confirms Yvette M. Dueñas as Partner/Portfolio Manager (municipal bonds) at Garcia Hamilton & Associates in Houston; promoted to PM and Partner Jan 2021. San Antonio ties (BBA Univ. of Incarnate Word 2004, MBA Our Lady of the Lake 2007). Houston address (77070) matches firm location.",
+  "source_url": "https://garciahamiltonassociates.com/about-us/people/yvette-m-duenas/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1ce74131-2e23-4fec-8be9-500fab846008",
+  "name": "Lawrence, Kenneth",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported retired, 13307 Hunters Hollow St, San Antonio 78230. No former career, employer, bio, FEC record, or lobbyist registration identifiable for this common name; person cannot be reliably resolved.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0509d86f-bdce-4bff-b65d-93eec296bde5",
+  "name": "Gallegos, Arturo",
+  "resolved_employer": "Academia América (Instructor/Caseworker) — San Antonio nonprofit for immigrant social/civic integration",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Academia América's staff page lists Arturo Gallegos as Instructor/Caseworker. The 501(c)(3), founded 2008, runs the Nuevos Ciudadanos citizenship-education program grounded in anti-discrimination, human rights and social justice for immigrants. Self-reported occupation 'Teacher / Academia America' matches.",
+  "source_url": "https://academiaamerica.org/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Academia América", "role": "Instructor/Caseworker", "category": "civic", "source_url": "https://academiaamerica.org/about/", "snippet": "Arturo Gallegos, Instructor/Caseworker ... aims to facilitate the social and civic integration of immigrants"}
+  ]
+ },
+ {
+  "donor_id": "fec00bef-c625-42d4-96f8-85d733c27e40",
+  "name": "Tapia-Hadley, Zuraya",
+  "resolved_employer": "TelevisaUnivision (Senior Director, Government Affairs); prior Meta, UPS, The Raben Group; elected Arlington County (VA) School Board member",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Latina government-affairs executive in Arlington VA; Senior Director of Government Affairs at Spanish-language broadcaster TelevisaUnivision, previously public policy at Meta and VP Government Affairs at UPS; holds LLM from Georgetown Law; won a seat on the Arlington County School Board. Zip 22202 Arlington matches her VA residence.",
+  "source_url": "https://chci.org/staff-and-leadership/zuraya-tapia-hadley/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Congressional Hispanic Caucus Institute (CHCI)", "role": "Member, Board of Directors (since 2021)", "category": "civic", "source_url": "https://chci.org/staff-and-leadership/zuraya-tapia-hadley/", "snippet": "She is a member of the Board of Directors for the Congressional Hispanic Caucus Institute (CHCI)."},
+   {"org": "Arlington County (VA) School Board", "role": "Elected member", "category": "political", "source_url": "https://patch.com/virginia/arlington-va/arlington-county-school-board-election-results-2-seats-filled", "snippet": "Clark, Tapia-Hadley Garner Win Arlington School Board Seats."}
+  ]
+ },
+ {
+  "donor_id": "fdb3be1b-0674-4b52-9654-28159f18b3ab",
+  "name": "Michal, Edward",
+  "resolved_employer": "retired (former career not identifiable in public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired San Antonio resident (zip 78230) and prolific small-dollar political donor (114 FEC individual contributions on record). No distinguishing public profile or former career could be confirmed among several same-name individuals; no ideological PAC affiliation established.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f6ef5665-1bec-4dce-90fc-ce4e63fbca83",
+  "name": "Vela, Lupina",
+  "resolved_employer": "Riverside Insights (Senior Assessment Consultant, educational assessment) (retired)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "San Antonio (zip 78249) education-assessment professional; Senior Assessment Consultant at Riverside Insights/Riverside Publishing, spoke at the 2019 TAGT gifted-education conference in San Antonio, educated at Our Lady of the Lake University. Career in K-12 educational assessment; listed as retired on the donation record.",
+  "source_url": "https://www.linkedin.com/in/lupina-vela-656812a0/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f1a87d26-ff18-4ce9-b847-18d2279ce424",
+  "name": "Gonima, Maureen",
+  "resolved_employer": "iHeartMedia (Senior Corporate Counsel, Real Estate); prior Dykema, Haynes and Boone",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Maureen Strauss Gonima, a licensed Texas attorney (~29 years) in San Antonio; Real Estate Senior Corporate Counsel at iHeartMedia, previously Senior Counsel at Dykema and attorney at Haynes and Boone, St. Mary's University trained. San Antonio 78210 residence matches. No ideological PAC or lobbyist registration found.",
+  "source_url": "https://lawyers.justia.com/lawyer/maureen-strauss-gonima-282144",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "eb7851d0-9cca-4387-ac98-741b37b96e18",
+  "name": "Guyer, Rusty",
+  "resolved_employer": "self-employed lawyer",
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Self-employed lawyer listing a Brooklyn, NY address (299 Cooper St, 11237/Bushwick). A well-known San Antonio criminal-defense attorney, Ronald P. 'Rusty' Guyer, shares the exact nickname, but the Brooklyn donor could not be confirmed as that person or a relative; no separate Brooklyn attorney profile matching 'Rusty Guyer' was verified. No ideological PAC or lobbyist registration found.",
+  "source_url": "https://www.manta.com/c/mmyy4fd/ronald-p-guyer-rusty-attorney",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

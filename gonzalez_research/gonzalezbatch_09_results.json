@@ -1,0 +1,238 @@
+[
+  {
+    "donor_id": "9989059f-cd74-4502-93db-afb336afbc99",
+    "name": "Brinkman, Donald",
+    "resolved_employer": "Principal / SW Louisiana Sector Lead, CSRS, LLC (engineering & program-management firm)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Donald Brinkman, PE, PPM — licensed Louisiana civil engineer (McNeese State), Principal at CSRS in Lake Charles; former Director of Engineering at Port of Lake Charles. Matches occupation Engineer + employer CSRS + Lake Charles LA address.",
+    "source_url": "https://www.csrsinc.com/leadership/donald-brinkman,-pe,-ppm%C2%AE",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "86fd943d-ad5c-4ada-8330-8894862995e7",
+    "name": "Smith, Terri",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name; a Terri Smith retiree at 11315 Cottage Grove, SA 78230 could not be uniquely corroborated. A San Antonio real-estate agent by the same name exists but is not confirmed to be this person or a former career.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3922c1cb-c426-44d5-befa-680690bbe164",
+    "name": "Peña Bernal, Elisa",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Public-records aggregators list an Elisa (Pena) Bernal in San Antonio, consistent with the 78230 address, but no profession, prior career, or public bio could be identified.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3acfc650-c72e-4094-8cab-b43dfc217f2e",
+    "name": "Hays-Pierce, Irene",
+    "resolved_employer": "Jewelry artist/metalsmith and instructor, Flaming Artistry (occupation listed as retired/unemployed)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Irene Hays-Pierce at 13143 Hunters Spring St, SA 78230 (exact address match) is a PMC jewelry artist/metalsmith and former instructor at Southwest School of Art; B.A. Economics, St. Edward's. No PAC or lobbyist records found.",
+    "source_url": "https://flamingartistry.com/resume",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f8864f40-8ca4-45cb-9ed4-1b378f8b3a4a",
+    "name": "Alaniz, Vanessa",
+    "resolved_employer": "Head of Legal Affairs, Labor & Employment (USA), Circle K",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Vanessa L.M. Alaniz is an in-house attorney (Head of Legal Affairs) at Circle K in San Antonio; J.D. St. Mary's, former Akin Gump/Hunton associate and CST Brands senior counsel. Reconciles occupation Attorney + employer Circle K + 78258.",
+    "source_url": "https://www.linkedin.com/in/vanessa-l-m-alaniz-a2224822/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f5a92851-6478-4d7a-82b9-732c634673bd",
+    "name": "Atkinson, Lonna",
+    "resolved_employer": "Realtor at RE/MAX Associates; owner of Lonna Properties LLC",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Lonna Atkinson is an award-winning San Antonio real estate agent with RE/MAX Associates who operates Lonna Properties LLC, matching the 'Realtor/Property Manager' occupation and 'Lonna Atkinson' employer string; San Antonio location corroborates.",
+    "source_url": "https://www.har.com/lonna-atkinson/agent_SABORTX-475740",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e5000b4e-f99f-46a1-bc4b-7c07e5b5ffac",
+    "name": "Balthrope, William",
+    "resolved_employer": "Owner/CEO of Texas Wired Music, Inc. (Muzak/Mood Media franchise, background-music systems)",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "William D. Balthrope is CEO/owner of Texas Wired Music, Inc. at 4242 N Pan Am Expressway, San Antonio, TX 78218 — exactly matching the donor's business address and 'self-employed businessman' occupation. The firm operates as Muzak/Mood Texas.",
+    "source_url": "https://opencorporates.com/companies/us_tx/0009093200",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e23f9354-e415-4a33-8017-b3d368a0ee9b",
+    "name": "Albert Canales, David",
+    "resolved_employer": "Attorney/arbitrator-mediator, Canales Law & ADR (JWA Arbitrators); retired judge, 73rd District Court, Bexar County",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "David A. Canales was elected judge of the 73rd (Civil) District Court in Bexar County (2012-Feb 2024) and now works as an arbitrator/mediator/private judge, matching 'Attorney/Former State Judge.' San Antonio 78259 residence consistent.",
+    "source_url": "https://ballotpedia.org/David_Canales",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "73rd District Court, Bexar County, Texas", "role": "former elected District Judge (2012-2024)", "category": "political", "source_url": "https://ballotpedia.org/David_Canales", "snippet": "David A. Canales was elected to the 73rd Civil District Court in Bexar County in 2012, re-elected in 2016 and 2020, and retired in February 2024."}
+    ]
+  },
+  {
+    "donor_id": "e168ca88-2292-4acd-94c6-3fcaa99cde89",
+    "name": "Gonzalez, Frances",
+    "resolved_employer": "retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common surname; donor lists 'retired' with no unique identifier. A San Antonio 'Frances A. Gonzalez' exists but is an active CEO (Gonzalez Professionals LLC), contradicting 'retired'; could not corroborate the specific retired individual at 78229 to any documented former career.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d73822f7-bd82-4215-9c83-5a86cf8f9b84",
+    "name": "Hall, Art",
+    "resolved_employer": "Vice President for Workforce Solutions, Tidewater Community College (VA); former Dean at St. Philip's College / Alamo Colleges, San Antonio",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Art A. Hall, a former San Antonio City Council District 8 member (elected 2003), Harvard/Texas Tech-educated attorney and investment banker, is now VP for Workforce Solutions at Tidewater Community College, matching the TCC administrator employer string.",
+    "source_url": "https://capitol.texas.gov/tlodocs/78R/billtext/html/HR01988F.htm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio City Council, District 8", "role": "former Council Member (elected 2003)", "category": "political", "source_url": "https://capitol.texas.gov/tlodocs/78R/billtext/html/HR01988F.htm", "snippet": "Texas House Resolution HR 1988 (78R, adopted June 2, 2003) commended Art A. Hall on his election to represent District 8 on the San Antonio City Council."}
+    ]
+  },
+  {
+    "donor_id": "d64e9e48-e6ee-4c95-9bf8-a159e7789aaf",
+    "name": "Shattles, Regina",
+    "resolved_employer": "Holly D. Shull & Associates (attorney, personal injury/insurance litigation)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Regina B. Shattles is a licensed Texas attorney (~24 yrs) at Holly D. Shull & Associates in San Antonio, practicing personal injury/insurance law; St. Mary's University School of Law. Matches employer string exactly.",
+    "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=207755",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c91fe1a8-4130-4739-bd0f-1cbd9ce74dd1",
+    "name": "Guzman, Cha",
+    "resolved_employer": "Retired education leader (former President of Palo Alto College; former Chair, San Antonio Housing Authority)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Dr. Ana Margarita 'Cha' Guzman is a well-known retired San Antonio education leader (12-yr Palo Alto College president) and civic figure; not an attorney. Identity corroborated on San Antonio + 'Retired' + heavy political-donor activity; specific 78258 residence not independently confirmed.",
+    "source_url": "https://saha.org/guzman-elected-chair-by-board-of-commissioners/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Housing Authority (Opportunity Home)", "role": "Board Chair (appointed by Mayor Nirenberg, Jan 2020)", "category": "civic", "source_url": "https://saha.org/guzman-elected-chair-by-board-of-commissioners/", "snippet": "The San Antonio Housing Authority Board of Commissioners elected Dr. Ana Margarita 'Cha' Guzman to serve as Chair of the Board; appointed by the Mayor of San Antonio in January 2020."}
+    ]
+  },
+  {
+    "donor_id": "c0a04582-5b20-4e57-92f5-8e30c4c20d75",
+    "name": "Bilano, Carolina",
+    "resolved_employer": null,
+    "industry": "Student",
+    "confidence": "low",
+    "evidence": "Listed as a student in San Antonio (78240). No public profile, professional record, or PAC/lobbyist activity found to corroborate a specific identity; quiet record consistent with a private student.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b899c783-a17d-4590-9a71-4df6801e7910",
+    "name": "Bluntzer, James",
+    "resolved_employer": "Marlin Blue Strategists (public affairs/government relations); registered Texas lobbyist",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "James R. Bluntzer is a registered Texas Ethics Commission lobbyist at 26135 Sunny Meadow, San Antonio 78260 (exact address match), with clients incl. BofA Securities; affiliated with Marlin Blue Strategists, a Texas public-affairs/government-relations firm founded by Shay Bluntzer.",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Ethics Commission (registered lobbyist)", "role": "Registered lobbyist (clients incl. BofA Securities, Inc.)", "category": "business", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf", "snippet": "James R. Bluntzer, 26135 Sunny Meadow, San Antonio, TX 78260, registered as a lobbyist with the Texas Ethics Commission for BofA Securities, Inc. across 2024-2026."}
+    ]
+  },
+  {
+    "donor_id": "b47df423-711b-4dc7-8c8d-a71598ec7d11",
+    "name": "Goldblatt, Jeff",
+    "resolved_employer": "Jeff's Journeys, LLC (digital marketing & strategic communications; owner/founder)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Jeff Goldblatt is Managing Member/Founder of Jeff's Journeys, LLC, a digital marketing/strategic-communications and video-production firm at 14 Stonewall Bend, San Antonio 78256 (exact address match); former TV-news journalist, 3-time Emmy winner. Self-employed matches record.",
+    "source_url": "https://www.jeffsjourneys.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b4105d0f-a3a8-4923-9d01-576d50c19788",
+    "name": "Gonzalez, Carlos",
+    "resolved_employer": "Oxbow Development Group (real-estate development firm, San Antonio) per donor filing; identity not corroborated — the firm's publicly listed Director of Development is Omar Gonzalez, and no public record of a Carlos Gonzalez at Oxbow was found",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Donor filing lists a 'Carlos Gonzalez, Director of Development, Oxbow Development.' Oxbow's team page lists Omar Gonzalez (not Carlos) as Director of Development; no Carlos Gonzalez appears on the firm roster. Common surname; specific individual could not be confirmed.",
+    "source_url": "https://oxbowdevelopment.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b3f313c5-9da8-4c44-beff-f1ea7f4e1c90",
+    "name": "Hall, Art",
+    "resolved_employer": "Vice President at Tidewater Community College (Norfolk, VA); former San Antonio City Council Member, District 8",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Art A. Hall, ~25 yrs in workforce/higher-ed/finance, is a VP at Tidewater Community College (TCC) and a former San Antonio City Council D8 member; previously District Director for Center Operations at Alamo Colleges and VP at Popular Securities. Matches the 'TCC = Tidewater Community College' donor and the noted D8 connection.",
+    "source_url": "https://www.tcc.edu/about-tcc/tcc-president/presidents-cabinet/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio City Council, District 8", "role": "Former Council Member", "category": "political", "source_url": "https://www.tcc.edu/about-tcc/tcc-president/presidents-cabinet/", "snippet": "Hall's background 'brought a unique perspective to his public service as a San Antonio City Council Member of District 8.'"}
+    ]
+  },
+  {
+    "donor_id": "ae95923d-0dce-4cc8-9e6a-c3742b29496f",
+    "name": "Jennings, Debbie",
+    "resolved_employer": "Clinical Assistant Professor, School of Nursing, UT Health San Antonio",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Deborah 'Debbie' Jennings, DNP, RN, CENP — Clinical Assistant Professor at UT Health San Antonio School of Nursing since 2022; prior Regional Chief Nursing Officer at Select Medical; 2026 San Antonio Women's Hall of Fame inductee. Confirmed via university faculty directory.",
+    "source_url": "https://directory.uthscsa.edu/academics/profile/jenningsd",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Nurses Association, District 8", "role": "Director", "category": "civic", "source_url": "https://directory.uthscsa.edu/academics/profile/jenningsd", "snippet": "Holds a leadership position as 'present Director' with Texas Nurses Association District 8; member of ANA, AONE, and AACN."}
+    ]
+  },
+  {
+    "donor_id": "a3be9cca-ed2e-46da-8ff0-b03a573b1c01",
+    "name": "Lugalia Hollon, Michelle",
+    "resolved_employer": "Chief Strategy Officer, Alamo Colleges District",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Michelle Lugalia-Hollon is CSO at Alamo Colleges District (leading the AlamoFORWARD 2025-2030 strategic plan); former Chief Strategy Officer at SAGE and Director of Policy in the City of San Antonio Mayor's Office; Harvard MPH, UTSA PhD candidate. Partner of Ryan Lugalia-Hollon, confirming the noted spouse relationship.",
+    "source_url": "https://www.linkedin.com/in/michelle-lugalia-hollon/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio Mayor's Office", "role": "Former Director of Policy", "category": "political", "source_url": "https://www.linkedin.com/in/michelle-lugalia-hollon/", "snippet": "Previously served as Director of Policy in the Mayor's Office for the City of San Antonio before roles at SAGE and Alamo Colleges District."}
+    ]
+  },
+  {
+    "donor_id": "a295dadb-e4b7-4f77-91db-a362d0b7f25f",
+    "name": "Addison, Yvonne",
+    "resolved_employer": "President/owner of Addison Prime, a San Antonio commercial construction and general-contracting firm (healthcare/industrial facilities)",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Yvonne K. Addison, PE-background business owner, founded Addison Prime (2020) and Axer Systems (commercial plumbing, 2025); UTSA mechanical-engineering/MBA; formerly ~9 yrs at StandardAero. 'Business Owner/Self-employed' matches. Donor address is Helotes-area (Shaenfield/Magdalena) though listed zip 78203 appears to be a data error for the NW-side Helotes zip.",
+    "source_url": "https://www.workforcesolutionsalamo.org/board-member/yvonne-k-addison/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Workforce Solutions Alamo", "role": "Board Member", "category": "civic", "source_url": "https://www.workforcesolutionsalamo.org/board-member/yvonne-k-addison/", "snippet": "Serves on the Workforce Solutions Alamo board; also UTSA Development Board, Girls Inc. of San Antonio, and past president of the Junior League of San Antonio."}
+    ]
+  }
+]

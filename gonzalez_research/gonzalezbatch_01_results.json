@@ -1,0 +1,253 @@
+[
+  {
+    "donor_id": "c16570a9-ed8a-466c-a883-951dffcd375f",
+    "name": "Atique, Rashid",
+    "resolved_employer": "Dominion Family Healthcare (internal-medicine physician), San Antonio",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Rashid Atique, MD is a board-certified internal-medicine physician and leader at Dominion Family Healthcare/Dominion Health, San Antonio (UT San Antonio IM residency). Donor address 25843 Scenic Rock, 78255 and 'Physician / Dominion Family Healthcare' occupation match the finance record exactly.",
+    "source_url": "https://dominionfhc.com/index.php/our-providers/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8705cc39-2de0-4e5b-abf6-bb37799dc632",
+    "name": "Starr, Matthew",
+    "resolved_employer": "Founder/CEO, Foresight Asset Management (multifamily property management & affordable-housing development), San Antonio",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Matthew Starr founded Foresight Asset Management in 2018 (HQ 7334 Blanco Rd Ste 200, San Antonio 78216); multifamily management firm operating in 7 states with 200+ employees and a background developing 10,000+ affordable-housing units. Address and 'Real Estate / Owner / President / Foresight' match.",
+    "source_url": "https://www.foresightmanage.com/matthew-starr",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Foresight Asset Management", "role": "Founder / CEO / Owner", "category": "business", "source_url": "https://www.foresightmanage.com/matthew-starr", "snippet": "In 2018 he created Foresight Asset Management, a multifamily management company that now operates in 7 states with over 200 employees."}
+    ]
+  },
+  {
+    "donor_id": "5568cbbb-531e-41f5-a5b0-df42ab273c5c",
+    "name": "Levine, Hilda",
+    "resolved_employer": "Retired / self-employed (no public career profile located)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No public professional profile, news, FEC, or lobbyist record could be confidently tied to a Hilda Levine at 78249 San Antonio. Occupation self-reported only as 'Retired, self employed.' Common surname; identity and former career could not be corroborated.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6cc35c0d-f35f-4c6f-8097-6cc6f1f47000",
+    "name": "Fauerso, Elizabeth",
+    "resolved_employer": "CEO/founder, EBF Development and Design Studio; former Pearl Chief Marketing Officer & Potluck Hospitality CEO",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Elizabeth Fauerso was the Pearl's CMO for ~10 years and CEO of Potluck Hospitality; she launched EBF Development and Design Studio, a place/brand experiential-design consultancy. Prominent San Antonio placemaking/marketing figure; matches CEO/EBF occupation and 78213 address.",
+    "source_url": "https://sanantonioreport.org/elizabeth-fauerso-pearl-profile/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "DSCC (Democratic Senatorial Campaign Committee)", "role": "individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part169.html", "snippet": "FEC individual-contribution data lists Elizabeth Fauerso (San Antonio, Pearl/CMO) with a $25 contribution to DSCC on 10/04/2020, consistent with a Democratic partisan lean."}
+    ]
+  },
+  {
+    "donor_id": "1129fd04-012a-4085-9b25-89cb50c1ada1",
+    "name": "Gonzalez, Ivalis",
+    "resolved_employer": "Consultant, Andrade-Van de Putte & Associates (AVDP); former chief of staff to Mayor Ron Nirenberg",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "This donor record is very likely the candidate herself, not a separate namesake: the San Antonio Report D8 candidate profile describes Ivalis Meza Gonzalez as a consultant at Andrade-Van de Putte & Associates and Nirenberg's former chief of staff — the exact dual match (AVDP consultant + Nirenberg CoS) in this record. She left the Mayor's office in 2021 for AVDP. The gave_to list (Nirenberg, Pelaez, Whyte, and her own campaign) is consistent with a candidate self-contributing and giving to allies. Address 12402 King Walnut St, 78230 could not be independently confirmed as her residence, so a distinct-person possibility is not fully excluded.",
+    "source_url": "https://sanantonioreport.org/profile/ivalis-meza-gonzalez-2025-san-antonio-city-council-district-8-candidate/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Andrade-Van de Putte & Associates (AVDP)", "role": "Consultant", "category": "political", "source_url": "https://sanantonioreport.org/profile/ivalis-meza-gonzalez-2025-san-antonio-city-council-district-8-candidate/", "snippet": "Policy and business-management consultancy founded by former TX Secretary of State Hope Andrade and former state Sen. Leticia Van de Putte; Ivalis Meza Gonzalez works there as a consultant."}
+    ]
+  },
+  {
+    "donor_id": "43fd1e57-2f45-4a8a-ace0-e642dbc67290",
+    "name": "Rodriguez, Sonia",
+    "resolved_employer": "Partner, Cowen | Rodriguez | Peacock PC (plaintiff/personal-injury & trucking trial lawyer), San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Sonia M. Rodriguez, partner at Cowen Rodriguez Peacock, is a 20+ year plaintiff-side personal-injury/18-wheeler trial lawyer (St. Mary's Law JD 1999; SA Women's Hall of Fame 2009). Occupation and firm match exactly; 78229 address.",
+    "source_url": "https://www.cowenlaw.com/sonia-rodriguez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Trial Lawyers Association", "role": "Past President", "category": "business", "source_url": "https://www.cowenlaw.com/sonia-rodriguez", "snippet": "Past President, San Antonio Trial Lawyers Association; Sustaining Member, Texas Trial Lawyers Association."},
+      {"org": "SAISD Foundation / Young Women's Leadership Academy", "role": "Executive Committee / Board of Advisors", "category": "civic", "source_url": "https://www.cowenlaw.com/sonia-rodriguez", "snippet": "Board seats on the SAISD Foundation Executive Committee and the Young Women's Leadership Academy Board of Advisors."}
+    ]
+  },
+  {
+    "donor_id": "f5efbab3-b6ce-47de-b135-93dd42919d65",
+    "name": "Haussmann, Michele",
+    "resolved_employer": "Principal/founder, Land Use Solutions, LLC (land-use & zoning entitlements consultant and registered lobbyist)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Michele Haussmann founded Land Use Solutions LLC with 29 years in land-use/land-development entitlements (former planning director for Austin/SA law firms). She is a registered lobbyist with the City of San Antonio and City of Austin representing rezoning clients. Identity, business, and 78230 address match.",
+    "source_url": "https://www.landusesolutionstx.com/our-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio Lobbyist Registry (Land Use Solutions, LLC)", "role": "Registered lobbyist", "category": "political", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx?FirmLink=Land+Use+Solutions%2C+LLC&SDate=8%2F7%2F2013&EDate=8%2F7%2F2017", "snippet": "Registered SA lobbyist; clients include H-E-B Grocery, The NRP Group, Endeavor Real Estate Group, Broadway Partners, Crosspoint, and Fulcrum Development."},
+      {"org": "Anti-Defamation League (Austin)", "role": "Board of Directors (2015-present)", "category": "jewish_civic", "source_url": "https://www.landusesolutionstx.com/our-team/", "snippet": "Austin Anti-Defamation League Board of Directors (2015-present) listed in firm bio."},
+      {"org": "Real Estate Council of Austin / San Antonio", "role": "Board / member", "category": "business", "source_url": "https://www.landusesolutionstx.com/our-team/", "snippet": "Real Estate Council of Austin Board (2011-2019); member Real Estate Council of San Antonio (2006-present)."}
+    ]
+  },
+  {
+    "donor_id": "ef2204fe-9de1-4364-b87b-11f4b2842083",
+    "name": "Nelson, Marybeth",
+    "resolved_employer": "Self-employed (business not publicly identifiable)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Public records confirm a Marybeth Nelson (age ~63) at 1250 Lower Seguin Rd, Marion, TX 78124, previously in New Braunfels and College Station; matches the donor address. Listed occupation 'self employed' but no identifiable business, firm, or profile found. (A Houston attorney Marybeth M. Nelson is a different person.)",
+    "source_url": "https://information.com/people/marybeth-nelson/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a3ba9bc4-2874-426b-9eb0-92f62ea55318",
+    "name": "Engel, Michael",
+    "resolved_employer": "Owner, Engel Enterprises, LLC / Mike Engel Equipment Rentals, Ltd. (landscape/sod services & equipment rental), New Braunfels",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Michael 'Mike' Engel is owner/member of Engel Enterprises LLC and Mike Engel Equipment Rentals, Ltd. at 290 Engel Rd, New Braunfels 78132 (address matches; road is the family namesake). Business is landscape/sod services and equipment rental (~35 employees). No public political/advocacy profile; 0 FEC donations.",
+    "source_url": "https://opengovus.com/texas-taxpayer/32035145849",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "951cddf0-b981-463c-bedd-fc4f42458689",
+    "name": "Nirenberg, Ken",
+    "resolved_employer": "Retired (former microprocessor/software-development career); documented as father of Mayor Ron Nirenberg",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Converging public records identify Ken (Kenneth) Nirenberg, retired, 12726 Cranes Mill, NW San Antonio 78230, as the father of Mayor Ron Nirenberg (Ivalis's former boss). Published Nirenberg bios name Ron's father as Kenneth Nirenberg, who worked in microprocessor/software development; he appears as a 'retired' contributor in Ron Nirenberg's own SA campaign-finance filings. Family tie documented, not assumed.",
+    "source_url": "https://en.wikipedia.org/wiki/Ron_Nirenberg",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Ron Nirenberg mayoral campaign", "role": "Donor / father of candidate", "category": "political", "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000002899_20230117_143805.pdf", "snippet": "Kenneth Nirenberg, retired, 12726 Cranes Mill, listed as a contributor in Ronald Nirenberg's SA campaign finance reports."}
+    ]
+  },
+  {
+    "donor_id": "94f69a63-54dc-41b1-be75-d002d6487982",
+    "name": "Herrera Jr., Frank",
+    "resolved_employer": "Founder/principal, The Herrera Law Firm (personal-injury/trial law), San Antonio — semi-retired",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Frank Herrera Jr. is a prominent San Antonio plaintiff/trial lawyer (TX bar 1967), founder of The Herrera Law Firm (1983) and former partner of Hardberger & Herrera; named one of the 25 Most Influential Hispanic Lawyers in the U.S. Zip 78232 and 'Retired,Owner / Herrera Law Firm' match.",
+    "source_url": "https://www.herreralaw.com/legal-staff/attorney-frank-herrera-jr/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "New American Alliance, Inc.", "role": "Chair of the Board of Directors (elected 2013)", "category": "business", "source_url": "https://www.herreralaw.com/legal-staff/attorney-frank-herrera-jr/", "snippet": "Chair of the Board of Directors, New American Alliance, Inc., a Latino business-leadership advocacy organization."},
+      {"org": "Mexican American Legal Defense and Educational Fund (MALDEF)", "role": "Member", "category": "civic", "source_url": "https://www.herreralaw.com/legal-staff/attorney-frank-herrera-jr/", "snippet": "Listed member of MALDEF, a Latino civil-rights legal advocacy organization."}
+    ]
+  },
+  {
+    "donor_id": "7e733d09-18cf-4018-9ed0-825978c24369",
+    "name": "Starr, Jonathan",
+    "resolved_employer": "Partner, Rosenthal Pauerstein Sandoloski Agather LLP (RPSA Law) — public finance/real estate, San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Jonathan S. Starr is a partner at RPSA Law practicing public finance, banking, real estate and corporate law; represents banks/credit unions and multifamily-housing developers (JD cum laude Syracuse, MPA St. Mary's). Attorney occupation and RPSA employer match; zip 78258.",
+    "source_url": "https://rpsalaw.com/professionals/starr-jonathan-s/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6f500efb-dddc-42a0-8e2c-d25a4de8d452",
+    "name": "Moreno-Herrera, Victoria",
+    "resolved_employer": "Self-employed / homemaker (no public profile located)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "No public record positively identifies this individual at zip 78213. No documented tie to the Herrera Law family was found (the firm's next-generation attorneys are sons Jorge and Javier Herrera, plus partner Laura Tamez); shared surname alone is not corroboration. Classified from stated occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5523aaad-19c3-490a-a639-be675c7735d6",
+    "name": "Torres-Stahl, Catherine",
+    "resolved_employer": "Judge, 175th Criminal District Court, Bexar County (State of Texas)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Catherine 'Cathy' Torres-Stahl has presided over Bexar County's 175th Criminal District Court since 2016 (re-elected 2020); former ADA and former 144th District Court judge (2007-2010), St. Mary's Law grad. Judge occupation, Bexar County employer, and NW-SA zip 78256 match.",
+    "source_url": "https://ballotpedia.org/Catherine_Torres-Stahl",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hispanic National Bar Association / Mexican American Bar Association", "role": "Honoree (Latina Judge of the Year 2010; MABA Legal Profession Award)", "category": "civic", "source_url": "https://ballotpedia.org/Catherine_Torres-Stahl", "snippet": "Received the Hispanic National Bar Association's Latina Judge of the Year Award (2010) and awards from the Mexican American Bar Association."}
+    ]
+  },
+  {
+    "donor_id": "457ff9d1-5ce5-4bf0-91ec-0f51c4220bfa",
+    "name": "Burkett, Lynnell",
+    "resolved_employer": "Retired editorial page editor/columnist, San Antonio Express-News",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Lynnell Burkett is the retired editorial page editor and columnist of the San Antonio Express-News (earlier editorial page/Sunday opinion editor at the San Antonio Light and journalism chair/professor at San Antonio College). 'Retired' occupation matches; identity confirmed via Science Mill bio; 78229 address.",
+    "source_url": "https://www.sciencemill.org/lynnell-burkett",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Science Mill (STEM education nonprofit)", "role": "Team/advisory member", "category": "civic", "source_url": "https://www.sciencemill.org/lynnell-burkett", "snippet": "Listed on the Science Mill team as retired Express-News editorial page editor and columnist."}
+    ]
+  },
+  {
+    "donor_id": "2d9dacb7-7663-4ce7-a001-9fcaab4c66a4",
+    "name": "Gamez, Joe",
+    "resolved_employer": "Founder/lead attorney, Gamez Law Firm (personal injury), San Antonio; former Texas State Representative",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Joe A. Gamez, founder/lead attorney of the San Antonio personal-injury firm Gamez Law Firm; a former Texas State Representative. Matches occupation (personal-injury attorney) and San Antonio location.",
+    "source_url": "https://joegamezlaw.com/attorney/joe-a-gamez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House of Representatives", "role": "Former State Representative (Democrat)", "category": "political", "source_url": "https://lrl.texas.gov/legeleaders/members/memberdisplay.cfm?memberID=451", "snippet": "Texas Legislative Reference Library member profile lists Joe A. Gamez as a former state representative; firm bio describes him as 'former state representative Joe A. Gamez.'"}
+    ]
+  },
+  {
+    "donor_id": "2bd25327-57be-430c-98ca-07f8b4c3ac3c",
+    "name": "Douglass, Clif",
+    "resolved_employer": "Partner, Linebarger Goggan Blair & Sampson, LLP (manages San Antonio office; firm Management Committee)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Clifton F. Douglass III is a partner who manages Linebarger's San Antonio office and sits on the firm Management Committee (TX bar since 1983). Linebarger is a national government-receivables (tax/debt) collection firm and major municipal contractor/lobbyist. Matches attorney occupation and 78209 location.",
+    "source_url": "https://www.lgbs.com/attorney/clifton-f-douglass-iii/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Linebarger Goggan Blair & Sampson, LLP", "role": "Partner / San Antonio office manager", "category": "business", "source_url": "https://www.lgbs.com/attorney/clifton-f-douglass-iii/", "snippet": "Firm bio: 'Clif Douglass manages Linebarger's San Antonio law office and serves on the firm's Management Committee.' Linebarger is a national leader in collecting government receivables and a major municipal contractor."},
+      {"org": "American Cancer Society; Big Brothers-Big Sisters; Santa Rosa Children's Hospital; Witte Museum", "role": "Director / advisory director", "category": "civic", "source_url": "https://www.lgbs.com/attorney/clifton-f-douglass-iii/", "snippet": "Firm bio states he has served as director or advisory director for civic and charitable organizations including the American Cancer Society, Big Brothers-Big Sisters, Santa Rosa Children's Hospital, and the Witte Museum."}
+    ]
+  },
+  {
+    "donor_id": "00046fde-c9e5-46da-b81d-7bcb8dfb166d",
+    "name": "Tawil, Melanie",
+    "resolved_employer": "CEO & co-founder, SwipeTrack Solutions LLC (software/ticketing technology), San Antonio",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Melanie Tawil, J.D., is the San Antonio-native CEO/co-founder of SwipeTrack Solutions, a mobile ticketing/guest-experience software firm (clients incl. Legoland, Nordstrom Rack); also VP of the family's Golden Bingo business. Matches business-owner occupation and 78257 location.",
+    "source_url": "https://www.crunchbase.com/person/melanie-tawil",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio Small Business Advocacy Committee", "role": "Mayoral appointee (appointed by Mayor Ron Nirenberg)", "category": "civic", "source_url": "https://hillviews.txst.edu/issues/2019/the-big-picture/bingo-business-and-technology-generate-success.html", "snippet": "Bio: 'She was appointed by Mayor Ron Nirenberg to the City of San Antonio's Small Business Advocacy Committee'; also on the advisory board of the Women's Business Center (LiftFund) and the board of The Public Theatre of San Antonio."}
+    ]
+  },
+  {
+    "donor_id": "b1674059-a42a-4391-a7d1-2879b1754e2f",
+    "name": "Cox, Christopher",
+    "resolved_employer": "Sales Manager / Municipal Marketing, Frontier Waste Solutions (public-sector business development)",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Christopher M. Cox does Central/South Texas public-sector business development ('Sales Manager, Municipal Marketing') for Frontier Waste Solutions, a solid-waste/recycling firm; credited with winning municipal solid-waste contracts in the greater San Antonio area. Work is directly city-contract-adjacent. Matches occupation and 78228 location.",
+    "source_url": "https://www.linkedin.com/in/christophermcox/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Frontier Waste Solutions", "role": "Municipal business development / municipal marketing", "category": "business", "source_url": "https://www.linkedin.com/posts/christophermcox_frontier-waste-solutions-selected-as-new-activity-7313326681295855616-7Mmh", "snippet": "Profile and posts describe him supporting public-sector business development; Frontier under his involvement won exclusive municipal solid-waste contracts in the greater San Antonio area."}
+    ]
+  },
+  {
+    "donor_id": "afe972e6-80cb-4eb9-b35c-ce4666d37619",
+    "name": "Jacobson, Grant",
+    "resolved_employer": "Momentum Advisory Services (government-relations / economic & land-development consulting), San Antonio",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Employer per filing is Momentum Advisory Services, a small San Antonio consultancy doing economic/land development, public-private partnerships, public-affairs strategy and government procurement (founder Trey Jacobson, a former advisor to two SA mayors; the firm/Trey registered as SA lobbyist). No independent public profile for 'Grant Jacobson' at the firm was found; identity beyond the campaign filing is uncorroborated, and the shared surname with founder Trey Jacobson is noted but NOT confirmed as a family/business tie.",
+    "source_url": "http://gainmomentum.us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

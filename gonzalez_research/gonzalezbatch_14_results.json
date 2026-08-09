@@ -1,0 +1,233 @@
+[
+  {
+    "donor_id": "6348e78f-6245-4dbd-9ef0-ed1975b012e7",
+    "name": "Stenberg, Edna",
+    "resolved_employer": "The Carlson Law Firm",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Attorney at The Carlson Law Firm's Boerne office (78006), matching the donor's name, occupation, firm, and zip directly. A same-office Carlson attorney 'Edna G. Elizondo' may be the same person (possible name change), which would tie her to a 2014 Bexar County Democratic judicial candidacy, but no cited public source explicitly links the surnames, so that political affiliation is left unrecorded.",
+    "source_url": "https://www.carlsonattorneys.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6274b79c-2eb3-4ded-bc34-b0e3cbb4ee75",
+    "name": "Serna, JoNeen",
+    "resolved_employer": "CHRISTUS Health",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Director of Philanthropy at CHRISTUS Health (healthcare system); prior development roles at St. Mary's University and the Muscular Dystrophy Association. LinkedIn confirms name and role; Helotes 78023 area consistent with the donor record.",
+    "source_url": "https://www.linkedin.com/in/joneen-g-serna-6397892a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5b4a42ca-aa83-4998-94e4-b8e5ad371311",
+    "name": "Swize, Elizabeth",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Retired resident of San Antonio 78230 (zip matches). Former career not identifiable. Swize is an uncommon surname, and FEC-aggregator records tie an Elizabeth Swize in zip 78230 to a 2016 Democratic presidential contribution.",
+    "source_url": "https://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part53.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hillary Victory Fund", "role": "Individual donor (2016)", "category": "political", "source_url": "https://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part53.html", "snippet": "City-data (FEC-sourced) individual contribution records list Elizabeth Swize of zip 78230 as a 2016-cycle donor to the Hillary Victory Fund."}
+    ]
+  },
+  {
+    "donor_id": "53e2a6e9-9f6f-4c91-ad81-1ca501408483",
+    "name": "Rosencrans, Paul",
+    "resolved_employer": "Fresno Unified School District",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Transportation Director at Fresno Unified School District (Madera, CA 93636), matching the donor's occupation, employer, and out-of-state California address. Local news and LinkedIn confirm name and role.",
+    "source_url": "https://gvwire.com/2025/05/20/fresno-unified-trustee-delegation-takes-field-trip-to-bus-depot/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4e2d73bc-0d1f-4126-91e9-84bfb76a4329",
+    "name": "Ferrier, Katie",
+    "resolved_employer": "Greater San Antonio Chamber of Commerce",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Senior VP, Public Policy & Economic Development at the Greater San Antonio Chamber (named VP April 2024); former U.S. congressional legislative staffer. Chamber bio confirms name and role; no active TX Ethics Commission or City of San Antonio lobbyist registration surfaced in searches.",
+    "source_url": "https://www.sachamber.org/staff/principal-staff/katie-ferrier/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "SAISD Foundation", "role": "Board member", "category": "civic", "source_url": "https://www.sachamber.org/staff/principal-staff/katie-ferrier/", "snippet": "Chamber bio lists Ferrier's board memberships including the SAISD Foundation, Each One Teach One, ATEAMS, and Friends of the San Antonio Public Library."}
+    ]
+  },
+  {
+    "donor_id": "4c222db3-39e8-40b8-9abc-e410f1a50a68",
+    "name": "Gonzalez, Annelise",
+    "resolved_employer": "San Antonio Board of REALTORS (SABOR) (retired)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Annelise V. Gonzalez, SVP of Operations at the San Antonio Board of REALTORS; a public listing ties the exact 24719 Buck Creek, 78255 address to this SABOR executive. Donor form self-reports 'Retired.' Prior congressional staff (Rep. Lamar Smith, Sen. Kay Bailey Hutchison) and a Gov. Abbott appointment to the Nueces River Authority Board (2019-2023).",
+    "source_url": "https://futuro-sa.org/team-member/annelise-v-gonzalez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Nueces River Authority Board of Directors", "role": "Board member (appointed by Gov. Greg Abbott, 2019-2023)", "category": "political", "source_url": "https://futuro-sa.org/team-member/annelise-v-gonzalez/", "snippet": "Appointed by Governor Greg Abbott to the Nueces River Authority Board (2019-2023); prior constituent-services roles for Rep. Lamar Smith and Sen. Kay Bailey Hutchison."}
+    ]
+  },
+  {
+    "donor_id": "4bf6a763-b1db-400c-a36c-969ec23b5217",
+    "name": "Gutierrez, Juan",
+    "resolved_employer": "Our Casas Resident Council Inc",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "HUD-approved housing counselor at Our Casas Resident Council Inc, a San Antonio HUD-certified housing-counseling nonprofit and City-certified Community Housing Development Organization. Employer confirmed as a real nonprofit; common name, so identity is employer-corroborated.",
+    "source_url": "https://ourcasas.org/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4a17cf3a-4fe6-422e-bb76-fdabc72b1e7d",
+    "name": "Cesar, Maria Luisa",
+    "resolved_employer": "The Gas Leaks Project (Rockefeller Philanthropy Advisors)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Maria Luisa Cesar is Senior Communications Director for The Gas Leaks Project, an environmental/energy advocacy communications effort under Rockefeller Philanthropy Advisors focused on methane messaging and electrification; prior journalism background (former Express-News). Distinctive identity, well documented.",
+    "source_url": "https://gasleaks.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The Gas Leaks Project", "role": "Senior Communications Director", "category": "civic", "source_url": "https://gasleaks.org/", "snippet": "Senior Communications Director for The Gas Leaks Project, a Rockefeller Philanthropy Advisors project that counters oil-and-gas-industry messaging on methane and promotes electrification — a documented environmental/energy advocacy role."}
+    ]
+  },
+  {
+    "donor_id": "48567d62-a6d4-4a90-92a1-15c45e932c76",
+    "name": "Hilario, Benny",
+    "resolved_employer": "Fredericks AC (HVAC; likely Friedrich Air Conditioning)",
+    "industry": "Construction",
+    "confidence": "low",
+    "evidence": "Supervisor at 'Fredericks AC,' 78228 — likely Friedrich Air Conditioning, the San Antonio-based HVAC firm historically located in that area (a common phonetic rendering). No individual public profile found beyond the reported occupation/employer; classified from the HVAC employer at low confidence.",
+    "source_url": "https://en.wikipedia.org/wiki/Friedrich_Air_Conditioning",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "46d09f44-df1a-40cc-a04f-c33ddf3a304c",
+    "name": "Garza-Alvarado, Frances",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported retired, San Antonio 78251. An uncorroborated San Antonio LinkedIn profile lists 'Aircrew Systems Logistics' (suggesting a possible former DoD/aerospace logistics career), but the profile could not be tied to this address, so no industry is asserted beyond retired.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3e12f596-f06a-40c6-a957-409d359f0870",
+    "name": "Solis, Jeanette",
+    "resolved_employer": "TelevisaUnivision (Univision)",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Sr. Account Executive at Univision/TelevisaUnivision in San Antonio; 10+ years in Hispanic TV/digital/radio broadcast media sales; UIW BBA 2008. Matches the donor's occupation and San Antonio location.",
+    "source_url": "https://www.linkedin.com/in/jeanette-solis-51b320a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "39d23b74-0051-435d-9df7-78f9c0161d25",
+    "name": "Pena, Greg",
+    "resolved_employer": "Naturaleza Celestial",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Co-owner of Naturaleza Celestial, an antiques/collectibles & religious-goods shop in San Antonio; LinkedIn lists him as co-owner. Matches employer and San Antonio location.",
+    "source_url": "https://www.yelp.com/biz/naturaleza-celestial-san-antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "368808b5-663c-4b36-b995-06954fd759b1",
+    "name": "Brinkman, Amanda",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported retired, Lake Charles, LA. No public profile matches this specific person (the prominent Amanda Brinkman speaker is a Minneapolis-based professional, not a Lake Charles retiree); former career not identifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "33a348e4-a529-4d6c-81a1-b1c59f70278b",
+    "name": "Gonzalez, Grace",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported retired, San Antonio 78227. Very common Bexar County name; no reliable public match on zip+occupation and no identifiable former career.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2ba2701f-69f4-4d07-bc54-60bd38cfb916",
+    "name": "Martinez, Sandra",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported retired, The Woodlands, TX 77381. Very common name; multiple unrelated Sandra Martinez profiles in TX, none confirmable to this address; former career not identifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2956e59e-5f81-4d4e-8045-dc3a04870436",
+    "name": "Moore, Della",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported retired, San Antonio 78229 (Medical Center area). No public profile, bio, FEC PAC donations, or lobbyist registration found; former career not identifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "26904c3e-7607-442b-9098-857d74a79c8e",
+    "name": "Kennick, Michael",
+    "resolved_employer": "Self-employed (business owner)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-described business owner; address zip 78003 is Bandera, TX. A Michael Kennick in the San Antonio metro appears on LinkedIn as a U.S. Air Force veteran and running coach, but the page could not be fully read (HTTP 999) and the exact business is unconfirmed. No FEC PAC donations or lobbyist registration found.",
+    "source_url": "https://www.linkedin.com/in/michaelkennick/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "24326cfd-4fb1-4423-b897-4d1e95a471ee",
+    "name": "Nava, Gabriel",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported retired, Helotes, TX 78023. Common name; no public profile, bio, FEC PAC donations, or lobbyist registration matching this person; former career unknown.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "24190e82-9358-4e93-bab0-2ef416a245cd",
+    "name": "Martinez, Sarah",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported retired, San Antonio 78210 (South Side). Very common name; no distinguishing public profile, bio, FEC PAC donations, or lobbyist registration could be tied to this individual; former career not identifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "211965c1-9e25-416f-b486-16a648c27a16",
+    "name": "Alderete, Joseph",
+    "resolved_employer": "Intergovernmental affairs consultant; Alamo Colleges District Trustee (elected office)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Consistent with Joe Alderete Jr., longtime San Antonio public figure: former SA City Council member (District 1, 1977-1985), current Alamo Colleges Board of Trustees member for District 1, and intergovernmental affairs consultant. Zip 78226 (West Side) lies within his historic District 1. Not a registered TX lobbyist; no FEC PAC donations found.",
+    "source_url": "https://www.alamo.edu/about-us/leadership/board-of-trustees/trustee-profiles/district-1/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Alamo Colleges District Board of Trustees", "role": "District 1 Trustee (elected, first elected 2010)", "category": "political", "source_url": "https://www.alamo.edu/about-us/leadership/board-of-trustees/trustee-profiles/district-1/", "snippet": "Joe Alderete, Jr. serves as the District 1 Trustee; an intergovernmental affairs consultant with decades of community service, first elected June 2010."},
+      {"org": "San Antonio City Council", "role": "Council Member, District 1 (1977-1985), former", "category": "political", "source_url": "https://www.alamo.edu/about-us/leadership/board-of-trustees/trustee-profiles/district-1/", "snippet": "Bio notes eight years of service on the San Antonio City Council from 1977 to 1985."}
+    ]
+  }
+]

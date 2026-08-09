@@ -1,0 +1,261 @@
+[
+  {
+    "donor_id": "6a6b6890-596f-4644-8047-4ec9e883866e",
+    "name": "Gonzales, Eloise",
+    "resolved_employer": "Retired (former career not identifiable in public records)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retiree at 1 Molas Dr., Durango, CO 81301; no public professional profile, bio, or PAC/lobbyist record could corroborate a former career. Common surname; no documented tie to the candidate.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "760392da-3150-4ad9-9f5d-230758af85da",
+    "name": "Reyes, Rose",
+    "resolved_employer": "President, San Antonio office of Giant Noise (PR/digital-media agency)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Rose Reyes leads Giant Noise's San Antonio PR office (est. 2014); prior COO of Giant Noise and Director of Music Marketing at Austin CVB. Over two decades in PR/social media.",
+    "source_url": "https://giantnoise.com/locations/san-antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2f943042-0022-4399-8155-fc1a83810026",
+    "name": "Torres, Tina",
+    "resolved_employer": "Judge, 407th Civil District Court, Bexar County",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Tina C. Torres, elected 2020 to the 407th District Court (term to 2028); previously Bexar County Court at Law No. 10 judge and a private-practice attorney; St. Mary's Law J.D. 1996.",
+    "source_url": "https://sanantonioreport.org/profile/tina-torres/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f214ad8b-2721-4451-805f-bca9f142d028",
+    "name": "Kestenbaum, Marianne",
+    "resolved_employer": "Retired; civic commissioner, Office of Urban Renewal of San Antonio (OUR-SA) and San Antonio Affordable Housing (SAAH) board member; former President, Impact San Antonio",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Retiree (ARP, MBA) documented via LinkedIn as OUR-SA commissioner and SAAH board member; former career (paid employment) not clearly documented, so no industry assigned. Also listed as a Hebrew Free Loan Assoc. of SA charity-board member (private charity, not policy advocacy).",
+    "source_url": "https://www.linkedin.com/in/marianne-kestenbaum-arp-mba-a389645/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Office of Urban Renewal of San Antonio (OUR-SA)",
+        "role": "Commissioner",
+        "category": "civic",
+        "source_url": "https://www.linkedin.com/in/marianne-kestenbaum-arp-mba-a389645/",
+        "snippet": "Marianne Kestenbaum, ARP, MBA - Commissioner (OUR-SA)/board member (SAAH) - OUR-SA (Office of Urban Renewal of San Antonio)/SAAH (San Antonio Affordable Housing)"
+      }
+    ]
+  },
+  {
+    "donor_id": "d8cc2e48-c60e-4517-b396-92ca874fc15d",
+    "name": "Barrett, Daniel",
+    "resolved_employer": "President/CEO/Owner, Barrett Insurance Services (San Antonio insurance brokerage)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Dan Barrett owns Barrett Insurance Services, a San Antonio commercial/health insurance brokerage; 44+ years in insurance, prior roles at Marsh Inc. and McGriff, Seibels & Williams; UTSA degree. Serves as Chair of the Bexar County Mental Health Authority (Center for Health Care Services), overseeing its ~$300M public budget.",
+    "source_url": "https://barrettinsurance-services.com/meet-our-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Center for Health Care Services (Bexar County Mental Health Authority)",
+        "role": "Chairman of the Board",
+        "category": "civic",
+        "source_url": "https://chcsbc.org/who-we-are/board-of-trustees/board-members/",
+        "snippet": "As Mental Health Authority Chairman, Dan oversees a $300 million budget for the Center for Health Care Services, ensuring federal and state regulatory compliance."
+      }
+    ]
+  },
+  {
+    "donor_id": "b62e5f4a-bde6-4b49-8902-e5a553aa982d",
+    "name": "Navarro-Gonzalez, Lisa",
+    "resolved_employer": "Santana Group (VP) / Forma Automotive (General Manager)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Lisa Navarro-Gonzales is VP of the Santana Group (a San Antonio staffing/outsourcing holding company founded by Rosa Santana) and GM of Forma Automotive, Toyota's first Hispanic woman-owned Tier I supplier. Bio confirms 78209-area San Antonio executive; matches employer string 'Santana Consulting Group' and VP title.",
+    "source_url": "https://www.santanagrp.com/lisa-navarro-gonzales/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a7eccc5d-3b64-46d5-a0d9-9d2526c406c9",
+    "name": "Nicholas, John",
+    "resolved_employer": "Retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired individual at 78230 San Antonio (Hunters Circle). No public profile, bio, FEC PAC record, or lobbyist registration found; former occupation cannot be determined.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7f119587-405f-46d0-93d5-89b5195a0e56",
+    "name": "Benavidez, Elva",
+    "resolved_employer": "Retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired individual in Eagle Pass, TX 78852. No public profile, bio, FEC PAC record, or lobbyist registration found tying to this specific person; former occupation cannot be determined.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "19587648-cec1-4f74-b1b3-b52748c92baa",
+    "name": "Gonzaba, James Anthony",
+    "resolved_employer": "Self-employed physician",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Self-employed physician in San Antonio (78216). Occupation 'Physician' is stated; industry is Healthcare. Despite the Gonzaba surname (a well-known SA physician family/Gonzaba Medical Group), no public record documents this individual on the Gonzaba Medical Group physician roster or confirms a family tie, so no such affiliation is asserted.",
+    "source_url": "https://www.gonzaba.com/physicians/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8dec5601-192f-47ec-bd8b-71e61293303d",
+    "name": "Meza, Joe",
+    "resolved_employer": "Retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired individual in San Antonio 78249 (Shavano Woods). No public profile, bio, FEC PAC record, or lobbyist registration found. Surname Meza matches the candidate's compound surname 'Meza Gonzalez' but no source documents any family tie; none asserted.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f8c80046-6c9b-420f-a28f-49daa7f9b356",
+    "name": "Cruz, Anthony",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer listed on the filing and no public profile matches this Anthony Cruz at 1844 Fredericksburg Rd, San Antonio 78201. Common name; unable to corroborate identity or occupation.",
+    "source_url": "https://www.opensecrets.org/donor-lookup",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f618dd30-2ce6-43da-982f-c0a09c9bd844",
+    "name": "Vexler, Jordan",
+    "resolved_employer": "CEO, Monterrey Metal Recycling Solutions / Monterrey Iron & Metal (San Antonio)",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Jordan Vexler is CEO of Monterrey Iron & Metal / Monterrey Metal Recycling Solutions, the region's largest independent metal recycler; COO since 2008, fourth-generation family business. Rice University and London School of Economics degrees. Firmly identified via occupation and employer on filing.",
+    "source_url": "https://monterreymetalrecycling.com/about-us/leadership-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "ReMA / ISRI (Recycled Materials Association, formerly Institute of Scrap Recycling Industries)",
+        "role": "Active member; national/regional industry advocate",
+        "category": "business",
+        "source_url": "https://www.recycledmaterials.org/monterrey-iron-metal-appoints-jordan-vexler-as-ceo/",
+        "snippet": "She is an active member of ISRI, advocating nationally for safe, economically sustainable recycling practices."
+      }
+    ]
+  },
+  {
+    "donor_id": "f3e9a497-4962-4b61-a179-007244029b26",
+    "name": "Gonzalez, Ana",
+    "resolved_employer": "Retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as retired, Eagle Pass TX 78852. 'Ana Gonzalez' is extremely common in the border region and no public record corroborates a former occupation for this individual at 1218 Butler Rd. Prior career not identifiable.",
+    "source_url": "https://www.spokeo.com/Ana-Gonzalez/Texas",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ed9b597d-064f-40e4-b7e8-cd3a13ed890b",
+    "name": "Ruiz, Paul",
+    "resolved_employer": "Retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as retired, San Antonio 78260. Common name; no public record ties a former occupation to this Paul Ruiz at 634 Spacious Sky. Prior career not identifiable.",
+    "source_url": "https://unmask.com/Paul-Ruiz/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eafc1ec7-af84-4d02-b53e-ae1f51f38a99",
+    "name": "Gonzales, Norma",
+    "resolved_employer": "Presiding Judge, 131st Civil District Court, Bexar County (State of Texas)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Norma Gonzales has presided over Bexar County's 131st Civil District Court since 2016 and won re-election Nov 2024. Former Bexar County ADA; Rice University BA and UT School of Law JD. Matches filing occupation 'District Court Judge / State of Texas'.",
+    "source_url": "https://ballotpedia.org/Norma_Gonzales",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ea5f30cc-cca8-4699-a019-41b7a48ce558",
+    "name": "Killen, Rob",
+    "resolved_employer": "Killen, Griffin & Farrimond, PLLC (KGF Law) — founding partner; land use, economic development & government-relations attorney",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Rob Killen is a documented San Antonio land-use attorney and founding partner of KGF Law, representing developers on zoning, platting, special districts and development incentives; the firm is registered in the City of San Antonio lobbyist system.",
+    "source_url": "https://www.kgftx.com/firm-overview",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Killen, Griffin & Farrimond, PLLC",
+        "role": "Founding partner / government-relations counsel",
+        "category": "business",
+        "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx",
+        "snippet": "KGF is registered in the City of San Antonio Lobbyist Management E-File System; the firm 'regularly assists clients with obtaining economic development incentives and lobbying efforts.'"
+      },
+      {
+        "org": "San Antonio Mobility Coalition (SAMCo)",
+        "role": "Vice Chair / Chair Elect",
+        "category": "civic",
+        "source_url": "https://www.samcoinc.org/about",
+        "snippet": "Rob Killen serves on the SAMCo Executive Committee (Vice Chair, term ending 12/25); SAMCo is a nonprofit advocating for regional highway, transit, freight and aviation funding."
+      }
+    ]
+  },
+  {
+    "donor_id": "e9387bb5-c6ac-45c5-90b9-cc03302bfa02",
+    "name": "Rodriguez, Sonia",
+    "resolved_employer": "retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retiree at 411 Mount Vernon Ct, San Antonio 78233; 'Sonia Rodriguez' is a very common Bexar County name and no former occupation could be corroborated to this specific individual. Heavy federal small-dollar donation history (partisan lean 0.999) but no career signal.",
+    "source_url": "https://www.spokeo.com/Sonia-Rodriguez/Texas",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e305c089-ebcc-48da-b176-e99b8e0bdee7",
+    "name": "Baynham, Jerad",
+    "resolved_employer": "Lennar — Vice President of Construction (national homebuilder)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Jerad Baynham is Vice President of Construction at Lennar in the San Antonio area (prior Director of Construction / Area Manager), per LinkedIn and ZoomInfo; Lennar is a national homebuilder, consistent with the Boerne/78006 residence.",
+    "source_url": "https://www.linkedin.com/in/jerad-baynham-5397a618",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e2649f00-ee4a-4983-abf0-6c49020ca4d9",
+    "name": "Cortez Pouya Yasmin Jones, Rosalinda",
+    "resolved_employer": "retired (former career not identifiable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Rosalinda Cortez appears in Bexar County property records for Callaghan Rd, 78230, but no bio, employer history or former occupation could be corroborated to this specific retiree; no FEC or lobbyist records found.",
+    "source_url": "https://blockshopper.com/tx/bexar-county/zips/78230",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e14d5d8b-6e33-4d65-a9ab-d5b7f482c28f",
+    "name": "Nino, Marie M.",
+    "resolved_employer": "Self-employed hair & makeup artist / fashion stylist",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "A Marie Nino LinkedIn profile lists 'Hair and Makeup Artist – Self-Employed Fashion Stylist,' consistent with the reported self-employed occupation; address history ties a Nino to 520 W Elsmere Pl, 78212. No FEC PAC or lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/marie-nino-26660748/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]
