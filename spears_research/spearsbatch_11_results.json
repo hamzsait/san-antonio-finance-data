@@ -1,0 +1,206 @@
+[
+  {
+    "donor_id": "5d16f150-3b51-4865-9f7a-7f441accdb71",
+    "name": "Ridgway, Diana",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Retired San Antonio resident; a Diana Ridgway at the exact donor address (2211 Shady Rock Cir, 78231) is listed as a member of South Texas CattleWomen. No specific former career identifiable, so industry left null. No ideological PAC record and no Texas lobbyist registration found.",
+    "source_url": "https://www.zoominfo.com/p/Diana-Ridgway/5101428711",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "South Texas CattleWomen",
+        "role": "Member",
+        "category": "civic",
+        "source_url": "https://southtxcattlewomen.com/members/directory/",
+        "snippet": "Diana Ridgway listed at 2211 Shady Rock Circle, San Antonio, 78231, as a Member of South Texas CattleWomen (member directory / ZoomInfo profile)."
+      }
+    ]
+  },
+  {
+    "donor_id": "507c3170-b404-4ecd-949b-9ddbfd607b23",
+    "name": "James, Paul",
+    "resolved_employer": "J4 Oilfield Service",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Paul James Jr is Lead Engineer at J4 Oilfield Service in San Antonio (MS Natural Gas Engineering, Univ. of Oklahoma; BS Chemical Engineering, Texas A&M-Kingsville); prior roles at C&J Energy Services and Nabors Industries. LinkedIn confirms name, employer, and city. Zero FEC contributions on record; no Texas lobbyist registration.",
+    "source_url": "https://www.linkedin.com/in/paul-james-jr-25303314/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4f2bdecb-bbe9-400f-90c5-4281c6ec68ce",
+    "name": "Wills, Shirley",
+    "resolved_employer": "Shirley Wills & Associates",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Owner of Shirley Wills & Associates, a San Antonio public-relations/publicity firm (founded 1994, 78209 area) specializing in healthcare, travel and retail; native San Antonian. Donor data marks 'Retired' though the firm appears active/semi-retired. No ideological PAC record and no Texas lobbyist registration found.",
+    "source_url": "https://www.adforum.com/agency/12612/profile/shirley-wills-associates",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "47bad7eb-dd09-49d1-bb36-a19de91b5d21",
+    "name": "Danoff, Antonina",
+    "resolved_employer": "Author (self-employed)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Self-employed author who owns property at the donor address (20935 Cape Coral, 78259). Amazon lists 'Antonina Danoff' as publisher of books by 'Antonina Duridanova' (Delicious European Summer, Magic for Longevity) — a Bulgaria-born writer who took up writing after retiring from the U.S. Treasury. Former career: Government (U.S. Treasury, retired). No ideological PAC record; no Texas lobbyist registration.",
+    "source_url": "https://www.amazon.com/Delicious-European-Summer-Antonina-Duridanova/dp/B0DMCLP3DK",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "47860e42-6db1-4688-8677-960a7fbcd765",
+    "name": "weiss, mike",
+    "resolved_employer": "4M Realty Company",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Michael Weiss is President of 4M Realty Company (joined 4M Properties 1983, President since 1998), a San Antonio commercial real estate brokerage. Longtime real-estate industry leader (SA Board of Realtors, Texas Association of Realtors) and nonprofit board chairman. FEC records show 2008 contributions ($1,500) to Republican Lyle Larson's congressional campaign. No Texas lobbyist registration.",
+    "source_url": "https://www.4mrealty.com/our_team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Texas Association of Realtors / San Antonio Board of Realtors",
+        "role": "Director (TAR); Executive Director & Board of Governors Chair, Commercial Investment Division (SABOR)",
+        "category": "business",
+        "source_url": "https://www.4mrealty.com/our_team",
+        "snippet": "Executive Director of the San Antonio Board of Realtors; Chairman of The Board of Governors of the Commercial Investment Division; Director of the Texas Association of Realtors; 2008 William E. Fleming Distinguished Service Award."
+      },
+      {
+        "org": "Adopt A Needy Family (501c3)",
+        "role": "Board Chairman; also founded Rwanda Shines",
+        "category": "civic",
+        "source_url": "https://www.adoptaneedyfamily.org/leadership",
+        "snippet": "He currently serves as a Board Chairman for Adopt A Needy Family a 501 C3 not for profit."
+      },
+      {
+        "org": "Lyle Larson for Congress (Republican)",
+        "role": "Individual donor (2008, $1,500)",
+        "category": "political",
+        "source_url": "https://www.campaignmoney.com/political/contributions/michael-weiss.asp?cycle=08",
+        "snippet": "Michael Weiss, 4M Properties, Inc./Executive: $500 (1/18/2008) and $1,000 (11/2/2008) to Lyle Larson for Congress."
+      }
+    ]
+  },
+  {
+    "donor_id": "46904020-9c57-4c2b-9cab-77d422d43fab",
+    "name": "Quintanilla, Humberto",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired San Antonio resident (Covella Ct., 78259) with 5 FEC donations; no public bio, LinkedIn, firm page, obituary, or news profile located to confirm former career. Similar-named individuals (Dina Quintanilla 78201) are different people/zip and not matched. Quiet result.",
+    "source_url": "https://www.city-data.com/elec2/18/elec-SAN-ANTONIO-TX-18-part67.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "45c1c94a-8ca1-4cd0-b248-a72973cbfb44",
+    "name": "Salinas, Ernest",
+    "resolved_employer": "Dellview Area Neighborhood Association (retired from USAA)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Retired after 31 years at USAA (community relations); longtime president of Dellview Area Neighborhood Association (2017-2023) and 2023 candidate for San Antonio City Council District 1. Native San Antonian, UIW BBA. Employer string matches his current neighborhood-association leadership.",
+    "source_url": "https://sanantonioreport.org/profile/ernest-salinas-2023-district-1-city-council-candidate/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Dellview Area Neighborhood Association", "role": "President (2017-2023)", "category": "civic", "source_url": "https://sanantonioreport.org/profile/ernest-salinas-2023-district-1-city-council-candidate/", "snippet": "He previously served as president of the Dellview Area Neighborhood Association from 2017 until resigning in 2023 to run for City Council. He also sits on the city's Code Enforcement Task Force."},
+      {"org": "San Antonio City Council District 1", "role": "2023 candidate", "category": "political", "source_url": "https://sanantonioreport.org/profile/ernest-salinas-2023-district-1-city-council-candidate/", "snippet": "Ernest Salinas | 2023 District 1 City Council candidate; retired after more than 30 years at USAA, where he worked in community relations."}
+    ]
+  },
+  {
+    "donor_id": "40d59e12-196c-448e-bac8-0d77652fbd09",
+    "name": "Osborne, Sandra",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired resident, Encino White (78259), employer listed N/A. No public bio, firm page, LinkedIn, or news profile located; a same-zip 'Carole Osborne (retired)' FEC donor is a different first name and was not conflated. Former career not identifiable. Quiet result.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part218.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2edd17db-df4b-4771-8091-dccc3dbb6446",
+    "name": "Melton, Viki",
+    "resolved_employer": "Stone Oak Realty Services, LLC",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Viki Lynn Melton, licensed TX real estate broker (lic. 523715, ~22 yrs) and broker/owner of Stone Oak Realty Services in San Antonio's Stone Oak area (Council District 9). Serves as Neighborhood Representative & Committee Chairman for the Stone Oak Property Owners Association.",
+    "source_url": "https://licensee.io/real-estate/523715-viki-lynn-melton-tx/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Stone Oak Property Owners Association", "role": "Neighborhood Representative & Committee Chairman", "category": "civic", "source_url": "https://www.stoneoakpoa.com/info.php?pnum=17", "snippet": "Viki Melton is the Neighborhood Representative & Committee Chairman for Stone Oak POA; the Stone Oak POA area is within District 9 of the City of San Antonio."}
+    ]
+  },
+  {
+    "donor_id": "2df18eea-7731-4f29-b206-0a3d9f12c426",
+    "name": "Cruz, Patricia",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired resident, Whisper Moss St. (78230), with 43 FEC donations. Common name yielded multiple non-matching San Antonio individuals (e.g., an unrelated therapist, an obituary, and a younger Patricia R. Cruz); none confirmable by zip/occupation. Former career not identifiable. Quiet result.",
+    "source_url": "https://www.city-data.com/elec2/14/elec-SAN-ANTONIO-TX-14-part7.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2c88757f-2cc3-4f5d-b702-65acde06a2f4",
+    "name": "Vojvodich, Mark",
+    "resolved_employer": "Bexar County (peace officer)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Employer string 'Bexar County' + occupation 'Police Officer' = Bexar County peace officer (Government). A public figure of the same uncommon surname, Mark Vojvodich, is the elected Bexar County Constable, Pct. 3, but the donor's SW-side address (2207 Sun Oak, 78242) and self-described occupation 'Police Officer' (vs. 'Constable') do not confirm identity, so I do not assert they are the same person.",
+    "source_url": "https://www.bexarpolice.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "28b62c7f-cd0f-4175-9b16-41127493d3d4",
+    "name": "Richardson, Terri",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Retired; documented as Treasurer of Bexar County Republican Women. Prolific individual political donor (155 FEC donations), consistent with a GOP club treasurer. Former career could not be resolved to one person ('Terri Richardson' in San Antonio appears as both a retired City of San Antonio risk/benefits administrator and a retired internal-medicine physician), so industry left null.",
+    "source_url": "https://bexargopwomen.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bexar County Republican Women", "role": "Treasurer", "category": "political", "source_url": "https://bexargopwomen.org/", "snippet": "Treasurer - Kelley Simmons / Terri Richardson; footer: 'Treasurer: Terri Richardson, 13423 Blanco Rd. #317, San Antonio, TX 78216-8165.'"}
+    ]
+  },
+  {
+    "donor_id": "1d135711-d65b-48e6-8d1d-7ebf39c470ef",
+    "name": "Gutting, Patricia",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Retired; 'Patty Gutting' is listed as the Volunteer Hours committee member for Bexar County Republican Women. Uncommon surname plus active political-donor profile (143 FEC donations) and donation to a GOP-backed council candidate support the match. Former career not identifiable in public records, so industry left null.",
+    "source_url": "https://bexargopwomen.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bexar County Republican Women", "role": "Volunteer Hours (committee)", "category": "political", "source_url": "https://bexargopwomen.org/", "snippet": "Volunteer Hours - Patty Gutting"}
+    ]
+  },
+  {
+    "donor_id": "19d53586-9b08-413c-aacc-b04aac2c0940",
+    "name": "Meyer, David",
+    "resolved_employer": "U.S. Department of Defense (retired)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Employer string 'DoD' + occupation 'Retired' indicates a retired Department of Defense employee (Government). 'David Meyer' is a common name and no single public profile could be confirmed to the donor's address (1710 Notting Hl, 78232); industry inferred from the employer string only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0c497461-a7ff-460c-abda-45668e5e0c4c",
+    "name": "MACIAS, RANDOLPH",
+    "resolved_employer": "Axiom Strategies (self-reported)",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Reported as self-employed with employer 'Axiom Strategies' (a Republican political-consulting firm), so industry classified as Consulting / PR from the employer string. No public profile, bio, staff-page listing, or FEC/lobbyist record could be found confirming Randolph/Randy Macias of San Antonio 78249 at Axiom Strategies; identity and firm affiliation unverified. A quiet result.",
+    "source_url": "https://axiomstrategies.com/team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

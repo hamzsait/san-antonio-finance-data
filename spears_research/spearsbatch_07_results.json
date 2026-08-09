@@ -1,0 +1,234 @@
+[
+ {
+  "donor_id": "e6a6a421-26b9-4dc1-aec2-6c720da845e6",
+  "name": "Whyte, Lawrence",
+  "resolved_employer": "Nitrade, Inc. (president/director)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Confirmed president/director of Nitrade, Inc. (TX corp; company's Las Vegas address 2215 Alcova Ridge Dr matches donor). FEC shows Lawrence R. Whyte, pres. Nitrade Inc, gave to McCain 2008 — conservative individual giving. Nitrade's exact line of business not verifiable, so industry left null; no TX lobbyist registration or tracked-PAC affiliation found.",
+  "source_url": "https://opencorporates.com/companies/us_tx/0124607200",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d8ddd527-0626-4757-a42e-06cc0807023d",
+  "name": "Lietz, Phillip",
+  "resolved_employer": "First American Commercial Property Group (Partner)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Matches 'Skip' Lietz (nickname for Phillip), Partner at First American since 2004 specializing in land/single-family development on the 'outer bands' of San Antonio — consistent with donor's 78261 far-north-SA address. Veteran per firm bio. No TX lobbyist registration or tracked-PAC record found (fec_count 0).",
+  "source_url": "https://dirtdealers.com/about/team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Stock Show & Rodeo", "role": "Director (Ranch Rodeo committee)", "category": "civic", "source_url": "https://dirtdealers.com/about/team/", "snippet": "Skip is a Director with the San Antonio Stock Show and Rodeo, serving on the Ranch Rodeo committee."}
+  ]
+ },
+ {
+  "donor_id": "d69c3425-10ae-4559-8509-48d01b9dab0b",
+  "name": "Lipman, Jarrett",
+  "resolved_employer": "Leander ISD — Director of Bands, Vandegrift High School",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Jarrett Lipman is Director of Bands at Vandegrift HS (Leander ISD, Austin) since spring 2024; previously 15 years at Johnson HS in San Antonio; pursuing Ph.D. in Education Leadership at UT-Austin. Austin 78731 address consistent. No TX lobbyist registration or tracked-PAC record found.",
+  "source_url": "https://vhsband.com/band-director/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c075531e-5f8c-4e09-a8b2-2422cc370cac",
+  "name": "Fraser, Susan",
+  "resolved_employer": "WSP USA (Senior VP / San Antonio Interim Business Lead, P.E.)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Susan Fraser, P.E., CFM, ENV SP — Senior VP and San Antonio Interim Business Lead at WSP USA (engineering/transportation firm), Houston-based; prior transportation manager at Lockwood, Andrews & Newnam. SA business role ties to this SA council race. No individual TX lobbyist registration or tracked-PAC affiliation surfaced despite high fec_count.",
+  "source_url": "https://www.linkedin.com/in/susan-fraser/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b6e5a09f-8328-4271-9e6f-3d1fb424bd92",
+  "name": "Wilson, Robert",
+  "resolved_employer": "Sanchez & Wilson, PLLC (Attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Robert 'Woody' Wilson II, attorney/partner at Sanchez & Wilson, PLLC (6243 W IH-10, San Antonio 78201 — matches donor address). St. Mary's Law 1995; general counsel to governmental entities, real estate/probate/commercial litigation. No TX lobbyist registration or tracked-PAC record found.",
+  "source_url": "https://www.sanchezwilson.com/profile-woody.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b6de9812-ddae-4438-9204-7f631fc866d4",
+  "name": "Baamonde, Dawn",
+  "resolved_employer": "Retired (former career not identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Dawn B. Baamonde, retired, 11601 Intrigue Dr, San Antonio 78216 (property co-owned with David Baamonde) — matches donor. FEC/city-data records show repeated conservative giving via WinRed. Former career not publicly identifiable, so industry null. No TX lobbyist registration.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part206.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "WinRed (Republican small-dollar platform)", "role": "Recurring individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part206.html", "snippet": "FEC records show Dawn Baamonde (retired, 78216) contributing via WinRed, the Republican fundraising conduit."}
+  ]
+ },
+ {
+  "donor_id": "adcac031-bdd5-487c-9d91-df7932343283",
+  "name": "Keating, Jacob",
+  "resolved_employer": "U.S. Army (Foreign Area Officer / Army Ranger)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Jacob Keating, active-duty U.S. Army — Foreign Area Officer and Ranger, TRADOC LNO to US Army North and US Army South (both headquartered at JBSA in San Antonio), pursuing J.D. at St. Mary's. Consistent with donor's soldier occupation and NE San Antonio 78259 address. No TX lobbyist registration or tracked-PAC affiliation found.",
+  "source_url": "https://www.linkedin.com/in/jacob-keating-840a1110a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a48d9944-21e4-4691-afb9-6fe7c96d6a32",
+  "name": "Hasslocher, Ellen & Emily",
+  "resolved_employer": "HEB (self-reported \"Director\"; not independently verified)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "BlockShopper lists an Ellen L. Hasslocher on Ridgehaven Pl, 78209, matching the filing address. Self-reported occupation is Director, HEB (grocery=Retail), which public searches could not corroborate. The prominent Hasslocher restaurant family (Jim's/Frontier Enterprises) and Hasslocher Boutique Realty are separate and not confirmed as the same person.",
+  "source_url": "https://blockshopper.com/tx/bexar-county/zips/78209/streets/ridgehaven-pl",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "95033ce2-8cd4-4cf4-b98c-47e0290aff6f",
+  "name": "Kabes, Laurie",
+  "resolved_employer": "Retired (former career not publicly identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "LinkedIn profiles for Laurie Kabes in San Antonio show a 'Wellness Advocate' side venture and Holy Trinity Catholic Church volunteering. Reported as Retired; no clear prior professional career surfaced. Church role is religious, not policy-advocacy-relevant, so not recorded as an affiliation.",
+  "source_url": "https://www.linkedin.com/in/laurie-kabes-a1b8686a",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "86f629f1-0344-4075-9673-7538c8d6faa1",
+  "name": "Naiser, Derek",
+  "resolved_employer": "Ardurra Group (Director, Central Region Operations & Managing Principal)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Derek Naiser, PE, is Director of Central Region Operations & Managing Principal at Ardurra, a civil-engineering firm; ~33 yrs in civil infrastructure (transportation, water/wastewater); Texas A&M grad, licensed PE. Lives in Boerne, matching filing. No PAC contributions or lobbyist registration found (the TEC lobbyist 'Brian Naiser' is a different person).",
+  "source_url": "https://people.equilar.com/bio/derek-naiser-ardurra-group-inc/48489693",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "84e7bc72-3915-4928-8982-a7d809798e33",
+  "name": "Walker, Cynthia",
+  "resolved_employer": "Self-employed hair stylist/colorist (Lulu Hair Boutique)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Cynthia A. Walker appears as a hair stylist/colorist at Lulu Hair Boutique, San Antonio (LinkedIn/StyleSeat), consistent with the filed occupation 'Stylist, Self.' fec_count 256 reflects a very common name; no contribution could be reliably attributed to this individual and no lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/luluhairboutique/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8322ddc7-316f-4762-a8af-ad6423ae1656",
+  "name": "Onion, Frank",
+  "resolved_employer": "City of New Braunfels (First Assistant City Attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "John Frank Onion III is a licensed Texas attorney who served as First Assistant City Attorney for the City of New Braunfels; practices administrative/public, appellate and commercial litigation (Martindale, State Bar of TX). fec_count 0; no lobbyist registration found.",
+  "source_url": "https://www.martindale.com/attorney/mr-john-frank-frank-onion-iii-1701415/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7818e429-7792-4ed2-9874-03aca1dab920",
+  "name": "I, SABPAC",
+  "resolved_employer": "SABPAC — Greater San Antonio Builders Association PAC",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "The filing address 3625 Paesanos Pkwy, 78231 is the Greater San Antonio Builders Association (GSABA) headquarters. SABPAC is GSABA's political action committee, supporting pro-housing candidates for local office. This is the homebuilders' PAC, not the Realtors' PAC.",
+  "source_url": "https://www.sabuilders.com/get-involved/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Greater San Antonio Builders Association (GSABA)", "role": "Affiliated political action committee (SABPAC)", "category": "business", "source_url": "https://www.sabuilders.com/get-involved/", "snippet": "SABPAC is GSABA's non-partisan PAC supporting pro-housing candidates for local office; located at GSABA HQ, 3625 Paesanos Pkwy."}
+  ]
+ },
+ {
+  "donor_id": "764cd127-5f0e-41cb-8658-affc87c497b7",
+  "name": "Donop, Perry",
+  "resolved_employer": "Self-employed real estate broker (farm & ranch / commercial)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Perry Donop's LinkedIn lists him as a 'Farm and Ranch Realtor' in the San Antonio area, consistent with the filed occupation 'Commercial real estate broker, Self.' No attributable PAC contributions or lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/perry-donop-5459117",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6ef436c4-25ba-459a-bcde-1ecc64a3afb6",
+  "name": "Torres, George",
+  "resolved_employer": "G&A Management Inc (sales)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed as Sales at 'G&A Management Inc', San Antonio 78258. No public profile ties this specific George Torres to an identifiable company; 'G&A Management Inc' does not resolve to a single verifiable San Antonio firm. Unable to corroborate identity or industry.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6bf295df-0416-498d-9d51-1d3b541eee43",
+  "name": "Coons, Kris",
+  "resolved_employer": "Retired (former career in retail/marketing)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Longtime San Antonio Republican activist, retired after a career in retail and marketing (BS marketing, Mississippi State). fec_count 165 is consistent with a lifelong GOP donor; corroborated by campaign bio.",
+  "source_url": "https://www.electkriscoons.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Republican Party of Bexar County", "role": "Candidate for County Chair; 3-term President of Bexar County Republican Women; two Gov. Abbott gubernatorial appointments", "category": "political", "source_url": "https://www.electkriscoons.com/", "snippet": "Kris Coons brings '40 years serving in Republican politics at all levels local and State,' served three terms as President of the Bexar County Republican Women, and is running for Chair of the Republican Party of Bexar County."}
+  ]
+ },
+ {
+  "donor_id": "6bc77315-46b4-43f0-a47b-92ffc7838d31",
+  "name": "LaHood, Marc",
+  "resolved_employer": "LaHood Law PLLC (criminal-defense / personal-injury attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Marc LaHood, criminal-defense attorney at LaHood Law PLLC, 4014 McCullough Ave (address matches). Brother of former Bexar County DA Nico LaHood. Elected in 2025 as a Republican member of the Texas House of Representatives, District 121.",
+  "source_url": "https://en.wikipedia.org/wiki/Marc_LaHood",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House of Representatives (District 121)", "role": "Republican State Representative (elected 2025)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Marc_LaHood", "snippet": "Marc LaHood is a Republican member of the Texas House of Representatives, first elected in 2025 to represent District 121, covering a portion of Bexar County."}
+  ]
+ },
+ {
+  "donor_id": "668721ce-d8c7-4d94-a5e4-84edcfc9ccc4",
+  "name": "Bernstein, Stanley",
+  "resolved_employer": "LeGrand & Bernstein (personal-injury attorney; self-employed)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "'Self' resolves to Stanley Jay Bernstein, personal-injury attorney at LeGrand & Bernstein, 2511 N St Mary's St, San Antonio 78212 (address matches exactly). J.D. St. Mary's 1978, B.A. UT 1975. No documented policy/political board roles; lean 0.08 not treated as a documented affiliation.",
+  "source_url": "https://www.avvo.com/attorneys/78212-tx-stanley-bernstein-110233.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "51e4227b-0697-49db-bce5-b6216bbd38eb",
+  "name": "Mordica, George",
+  "resolved_employer": "Midwest Medical Resources (Managing Partner / medical-device sales)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "George Mordica, Managing Partner at Midwest Medical Resources (medical-device/orthopedic sales distributor), Lenexa KS; MBA Benedictine College. fec_count 0 — no FEC PAC history; a quiet result with no advocacy affiliations found.",
+  "source_url": "https://rocketreach.co/george-mordica-email_168857785",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "416713a3-7414-4ec9-ac8c-d30a4ecb0596",
+  "name": "Valadez, Ramiro",
+  "resolved_employer": "Ramstin Homes, LLC / Ramstin GP, L.L.C. (President)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "President of Ramstin (family-owned San Antonio homebuilder/developer, formed 1998, specializing in multi-family construction), 10010 San Pedro (address matches). Member of Greater San Antonio Builders Association / Texas Association of Builders. lean 0.95 = strongly Republican federal giving.",
+  "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/ramiro-valadez/30184040.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Greater San Antonio Builders Association / Texas Association of Builders", "role": "Member builder (Ramstin)", "category": "business", "source_url": "https://members.texasbuilders.org/builder-directory/Details/ramstin-727918", "snippet": "Ramstin is listed as a member builder in the Greater San Antonio Builders Association and Texas Association of Builders directories."}
+  ]
+ }
+]

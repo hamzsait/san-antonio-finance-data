@@ -1,0 +1,249 @@
+[
+  {
+    "donor_id": "4c5aacc2-2294-458b-8ee4-66713278d9dd",
+    "name": "Clamp, John",
+    "resolved_employer": "VIA Metropolitan Transit (Chief Administration Officer)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "John G. Clamp, named VIA Metropolitan Transit's first Chief Administration Officer in April 2024; former San Antonio City Council member (District 10) and past CFO of the Alamo Area Council of Governments. Role and 78247 address match the donor record.",
+    "source_url": "https://www.masstransitmag.com/management/article/55017799/via-metropolitan-transit-adds-john-clamp-as-cao-rod-sanchez-as-svp-of-planning-and-development",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio City Council (District 10)", "role": "Former Councilmember", "category": "political", "source_url": "https://www.masstransitmag.com/management/article/55017799/via-metropolitan-transit-adds-john-clamp-as-cao-rod-sanchez-as-svp-of-planning-and-development", "snippet": "Prior roles include District 10 City Council member, executive director of the San Antonio Hotel and Lodging Association, and CFO for the Alamo Area Council of Governments."}
+    ]
+  },
+  {
+    "donor_id": "49261a60-cff1-49a6-8dbf-f48fa0b41bf9",
+    "name": "Everhart, Jane",
+    "resolved_employer": "Self-employed rancher (retired)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Jane Everhart of San Antonio 78209, listed in FEC filings as a self-employed rancher; a prolific individual GOP donor (~295 FEC records) giving to Republican candidates/committees. No single-issue ideological PAC (AIPAC/J Street/NRA/oil-gas) contributions surfaced.",
+    "source_url": "https://docquery.fec.gov/pdf/295/201810309133561295/201810309133561295.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Republican candidates/committees (FEC individual giving)", "role": "High-volume individual donor", "category": "political", "source_url": "https://docquery.fec.gov/pdf/295/201810309133561295/201810309133561295.pdf", "snippet": "FEC records list Jane Everhart, San Antonio TX 78209, rancher, with a high volume of individual contributions to GOP recipients; no AIPAC/J Street/NRA/oil-gas PAC giving found."}
+    ]
+  },
+  {
+    "donor_id": "46c4837d-b363-46f3-8f19-f0d5a8e2c9ef",
+    "name": "Bexar County Campaign, Grant Moody for",
+    "resolved_employer": "Grant Moody for Bexar County (candidate political committee)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Campaign committee of Grant Moody, Republican Bexar County Commissioner Precinct 3 (former Marine F-18 pilot, ex-USAA/Valero executive). This is a political committee, not an individual donor; Spears was Moody's Director of Constituent Services before running.",
+    "source_url": "https://ballotpedia.org/Grant_Moody",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Grant Moody for Bexar County (candidate committee)", "role": "Candidate political committee", "category": "political", "source_url": "https://ballotpedia.org/Grant_Moody", "snippet": "Grant Moody is a Republican Bexar County Commissioners Court member (Precinct 3), first elected in a 2022 special election and re-elected in 2024; the committee is a political entity."}
+    ]
+  },
+  {
+    "donor_id": "3dd28ad8-3f9a-4fbf-a9f3-a4e53553804e",
+    "name": "Garcia, Val",
+    "resolved_employer": "Trusted Driver, Inc. (President/CEO)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Val Garcia, President/CEO of Trusted Driver Inc. (San Antonio law-enforcement e-citation software company); retired Texas peace officer with ~28 years at the San Antonio Police Department. Matches the donor's 'President / Trusted Driver' occupation and employer.",
+    "source_url": "https://www.linkedin.com/in/val-garcia-38831822b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3c886245-a753-4795-a946-628ddc88e109",
+    "name": "San Miguel, Olga",
+    "resolved_employer": "Retired (former career not documented)",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Olga San Miguel, retired, El Rancho Way in the 78209 (Terrell Hills) area; appears to be the Olga San Miguel who with husband Joe became a household donor to the Texas Public Policy Foundation. Her own former career is not documented in public records, so industry is left null.",
+    "source_url": "https://tppf.planmylegacy.org/supporters-like-you/joe-and-olga-san-miguel",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Public Policy Foundation", "role": "Visionary donor / Lone Star Legacy Society member (2017), household", "category": "civic", "source_url": "https://tppf.planmylegacy.org/supporters-like-you/joe-and-olga-san-miguel", "snippet": "Joe and Olga San Miguel became TPPF 'Visionary' donors and joined the Lone Star Legacy Society in 2017 'to preserve conservative values and freedom.' Identity to this donor is corroborated by retired status and 78209 residence but not fully confirmed."}
+    ]
+  },
+  {
+    "donor_id": "30a98d76-9da6-4d50-b5b6-2755592cc0dd",
+    "name": "Women PAC, Bexar County Republican",
+    "resolved_employer": "Bexar County Republican Women PAC",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Texas Ethics Commission general-purpose political committee affiliated with Bexar County Republican Women (bexargopwomen.org); an openly GOP political committee reporting contributions to the TEC.",
+    "source_url": "https://www.transparencyusa.org/tx/committee/bexar-county-republican-women-pac-15597-gpac",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bexar County Republican Women PAC", "role": "Political committee (GOP)", "category": "political", "source_url": "https://www.transparencyusa.org/tx/committee/bexar-county-republican-women-pac-15597-gpac", "snippet": "TEC-registered general-purpose committee of the Bexar County Republican Women; reports contributions to the Texas Ethics Commission."}
+    ]
+  },
+  {
+    "donor_id": "2dd5ebbb-0750-4f11-b446-3ad168f786df",
+    "name": "Goggan Blair & Sampson, LLC, Linebarger",
+    "resolved_employer": "Linebarger Goggan Blair & Sampson LLP",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Large law firm (est. 1976) specializing in government/public-sector delinquent tax and debt collection, with a San Antonio office; extensive Texas Ethics Commission lobbyist registrations and a documented history of municipal lobbying and campaign contributions (~$20,500 in TX political giving through 2025).",
+    "source_url": "https://www.transparencyusa.org/tx/lobbying/client/linebarger-goggan-blair-and-sampson-llp-1",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Linebarger Goggan Blair & Sampson LLP", "role": "Government debt/tax-collection law firm & registered lobbyist", "category": "business", "source_url": "https://www.transparencyusa.org/tx/lobbying/client/linebarger-goggan-blair-and-sampson-llp-1", "snippet": "Firm appears in TEC lobbyist registrations; collects delinquent government debts (taxes, citations, tolls) for public-sector clients across Texas."},
+      {"org": "Linebarger Goggan Blair & Sampson LLP", "role": "Political contributor / campaign giving", "category": "political", "source_url": "https://www.transparencyusa.org/tx/contributor/linebarger-goggan-blair-and-sampson-llp-1", "snippet": "Transparency USA records ~$20,500 in Texas political contributions through Dec. 31, 2025; the firm spends on candidate campaigns and municipal lobbying."}
+    ]
+  },
+  {
+    "donor_id": "2ca40ecf-0e6c-4abe-9846-f52f1183ff4b",
+    "name": "Chambers, Ruth",
+    "resolved_employer": "Retired",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Individual retiree in Bulverde, TX (78163). Only a generic people-search listing found; no board seats, PAC history, lobbyist registration, or ideological-PAC contributions located. Common name with no further public profile to corroborate affiliations.",
+    "source_url": "https://www.searchpeoplefree.com/find/ruth-s-chambers/16AP3L42EDFs",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2985aece-0222-4217-bd40-38f2354578cf",
+    "name": "Firefighters Assoc Local 624, SA Prof",
+    "resolved_employer": "San Antonio Professional Firefighters Association, IAFF Local 624",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "IAFF-affiliated firefighters labor union (chartered as Local 624 in 1958); highly politically active in San Antonio city politics, e.g. its Vote Against Prop C PAC spent ~$167,000 on 2024 charter-amendment campaigns and it has waged multi-year contract/charter fights with the city.",
+    "source_url": "https://www.safirefighters.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Professional Firefighters Association (IAFF Local 624)", "role": "Firefighters labor union / political spender", "category": "political", "source_url": "https://sanantonioreport.org/firefighters-union-pac-opposing-charter-amendments-should-disclose-donors/", "snippet": "Union runs PACs and campaign activity in San Antonio city politics, including ~$167K spent via its Vote Against Prop C PAC on 2024 charter amendments."}
+    ]
+  },
+  {
+    "donor_id": "279ab67a-c677-4ed8-adf9-72e707ff471c",
+    "name": "PAC Fund, San Antonio Police Officers Assn.",
+    "resolved_employer": "San Antonio Police Officers Association PAC Fund",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "Political action committee of the San Antonio Police Officers Association (police labor union); reports member contributions and expenditures to the Texas Ethics Commission and is active in local candidate and city politics.",
+    "source_url": "https://sanantoniostandard.com/san-antonio-police-officers-association-pac-receives-6-from-brandon-chavez-of-san-antonio-on-june-26/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Police Officers Association PAC Fund", "role": "Police union political action committee", "category": "political", "source_url": "https://sanantoniostandard.com/san-antonio-police-officers-association-pac-receives-6-from-brandon-chavez-of-san-antonio-on-june-26/", "snippet": "SAPOA PAC receives member contributions and makes expenditures reported to the Texas Ethics Commission; the political arm of the police officers' union."}
+    ]
+  },
+  {
+    "donor_id": "273c8c5a-d4e2-44da-9dc1-c16456a5c84c",
+    "name": "Johnson, Brenda",
+    "resolved_employer": "Self-Employed",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Common name; self-employed at 2 Lake Bridge Dr, San Antonio 78248. Despite an FEC donation count of 18, no public profile can be uniquely tied to this individual on zip/occupation alone, so no affiliation is claimed.",
+    "source_url": "https://www.fec.gov/introduction-campaign-finance/how-to-research-public-records/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "26818cb4-371b-4c67-9fd9-c5af580f5e2f",
+    "name": "Bakke, Phillip",
+    "resolved_employer": "Bakke Development Corporation (President)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Phil Bakke is President of Bakke Development Corporation, a San Antonio commercial real-estate development firm (multifamily, retail, self-storage) at 207 Roosevelt Ave, 78210, matching the donor address. No Texas lobbyist registration found.",
+    "source_url": "https://bakkedc.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bakke Development Corporation", "role": "President / owner", "category": "business", "source_url": "https://business.sachamber.org/memberdirectory/Details/bakke-development-corporation-2859978", "snippet": "Bakke Development Corporation, San Antonio real-estate developer; Phil Bakke is President (SA Chamber directory / bakkedc.com)."}
+    ]
+  },
+  {
+    "donor_id": "2629c195-a1d2-47af-9f80-85b6fc60d30f",
+    "name": "Dalros, Howard",
+    "resolved_employer": "Lollypop Carriage Co Inc (owner)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Listed 'Retired,' but Howard Dalros is the owner/principal of Lollypop Carriage Co Inc, a tourist horse-carriage business registered at 10955 Pearsall Rd, Atascosa 78002 (the donor address) and operating at Alamo Plaza, San Antonio. BBB lists 'Mr. Howard Dalros' as owner.",
+    "source_url": "https://www.bbb.org/us/tx/atascosa/profile/horse-carriage/lollypop-carriage-co-inc-0825-1000143861",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Lollypop Carriage Co Inc", "role": "Owner / principal", "category": "business", "source_url": "https://www.bbb.org/us/tx/atascosa/profile/horse-carriage/lollypop-carriage-co-inc-0825-1000143861", "snippet": "BBB profile: Mr. Howard Dalros serves as owner and principal contact for Lollypop Carriage Co Inc, horse-carriage services at Alamo Plaza."}
+    ]
+  },
+  {
+    "donor_id": "2099965c-727e-45d8-9997-c02aa4e33e77",
+    "name": "Dorazio, Mark",
+    "resolved_employer": "State of Texas (Texas House of Representatives, District 122)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Mark Dorazio is the Republican Texas State Representative for House District 122 (NW Bexar County), first elected 2023. Former Bexar County Republican Party Chairman (2017-2018) and longtime GOP precinct chairman; also owns construction firm Dorazio Enterprises, Inc. Matches donor occupation and 78232 address.",
+    "source_url": "https://house.texas.gov/members/4145",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House of Representatives, District 122", "role": "State Representative (Republican)", "category": "political", "source_url": "https://ballotpedia.org/Mark_Dorazio", "snippet": "Republican elected to Texas House District 122 in 2023, representing NW Bexar County."},
+      {"org": "Bexar County Republican Party", "role": "Former County Chairman (2017-2018); longtime precinct chairman", "category": "civic", "source_url": "https://www.texaspolicyresearch.com/legislative-directory-texas-house-of-representatives/texas-house-of-representatives/state-rep-mark-dorazio/", "snippet": "Served as Bexar County Republican Party Chairman 2017-2018 and as a GOP precinct chairman for more than 30 years."}
+    ]
+  },
+  {
+    "donor_id": "183dae62-f50e-4f0f-9a83-734a3edf6877",
+    "name": "Stamper, Catherine",
+    "resolved_employer": "Wells Fargo (VP / Lead Sourcing Consultant)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Catherine (Clarke) Stamper is a VP / Lead Sourcing Consultant at Wells Fargo in San Antonio, holding a JD from the University of Georgia. Though a lawyer by training (matching the 'Lawyer' occupation), her documented role is sourcing/procurement at the bank, so the industry is Finance rather than legal practice.",
+    "source_url": "https://www.linkedin.com/in/catherine-clarke-stamper-807a51b6/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1336eff2-2f96-470c-945e-521b07e2a822",
+    "name": "HNB Investment, LLC",
+    "resolved_employer": "HNB Investment, LLC (investment holding entity)",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Registered Texas LLC ('H N B Investment LLC') based in San Antonio 78249 at the same residential address (13538 Barsan Rd) given for the donation; an investment holding entity. Principal/managing member not disclosed in accessible public records, so no individual identity or family tie is confirmed.",
+    "source_url": "https://www.bizapedia.com/tx/h-n-b-investment-llc.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0f663fc5-a005-42f2-bac8-b74097887be3",
+    "name": "Raub, Stephen",
+    "resolved_employer": "Investment Realty Company, L.C. (IRC) — President",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Stephen A. Raub, President and investment advisor at Investment Realty Company (IRC) in San Antonio, a 35+ yr commercial real estate broker (CCIM), former USMC officer. Matches the donor's 'Real Estate / IRC Realty' occupation. No lobbyist registration; no ideological PAC contributions found.",
+    "source_url": "https://www.investmentrealty.com/team/stephen-a-raub/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Board of Realtors", "role": "Director; Chairman, Commercial Investment Division", "category": "business", "source_url": "https://www.investmentrealty.com/team/stephen-a-raub/", "snippet": "Served as Director of the San Antonio Board of Realtors and Chairman of its Commercial Investment Division."},
+      {"org": "Texas Association of Realtors", "role": "Director", "category": "business", "source_url": "https://www.investmentrealty.com/team/stephen-a-raub/", "snippet": "Served as Director of the Texas Association of Realtors; member of the International Council of Shopping Centers (ICSC)."}
+    ]
+  },
+  {
+    "donor_id": "ea4cc94b-4855-4f32-8bf9-b42cc3188b1f",
+    "name": "Rodriguez, Tony",
+    "resolved_employer": "Eagle Bail Bonds (founder/owner)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Manuel 'Tony' Rodriguez founded Eagle Bail Bonds in 2003 at 2515 W. Commerce, San Antonio 78207 (matches donor address/occupation). A surety/bail-bond service, classified Finance. No lobbyist registration or ideological PAC giving found.",
+    "source_url": "https://www.eaglebailbonds.net/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d1f770c9-2ba5-4cc8-8c7d-acbacdf5a85a",
+    "name": "Childers, Adrian",
+    "resolved_employer": "Self-employed (developer)",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Donor lists occupation as self-employed developer/development in the La Cantera area (78256). No public developer profile, company, projects, lobbyist registration, or FEC/PAC records could be located under this name; identity beyond the self-reported occupation could not be corroborated. Classified by stated occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3684e977-9bdd-4889-aaf9-f1c77ee60eaa",
+    "name": "Lewis, Marianne",
+    "resolved_employer": "University of Texas at San Antonio (UTSA), Public Affairs (retired)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Marianne McBride Lewis served as Director of Public Affairs at UTSA (bylined in a 2007 UTSA news release), consistent with the donor's 'Retired Public Affairs / UTSA' occupation and San Antonio 78259 location. University communications role classified as Education. No TX lobbyist registration; no ideological PAC contributions identified.",
+    "source_url": "http://www.utsa.edu/today/2007/05/attaway.cfm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]
