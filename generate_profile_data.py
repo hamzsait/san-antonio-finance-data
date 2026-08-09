@@ -228,6 +228,7 @@ OFFICE_OVERRIDE = {
     'mungia': 'San Antonio City Council · District 4',
     'castillo': 'San Antonio City Council · District 5',
     'gavito': 'San Antonio City Council · District 7',
+    'gonzalez': 'San Antonio City Council · District 8',
     'shaikh': 'San Antonio City Council · 2025 District 8 Candidate',
 }
 
@@ -254,6 +255,7 @@ RECIPIENT_ALIASES = {
     'mungia':         {'Edward Mungia'},
     'castillo':       {'Teri Castillo'},
     'gavito':         {'Marina Gavito'},
+    'gonzalez':       {'Ivalis Gonzalez'},
     'shaikh':         {'Sakib Shaikh'},
 }
 
