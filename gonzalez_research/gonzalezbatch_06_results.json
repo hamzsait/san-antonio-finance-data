@@ -1,0 +1,245 @@
+[
+  {
+    "donor_id": "5f4d1e92-e69e-4b00-aa12-64cc8af28a5d",
+    "name": "Salinas, Juan",
+    "resolved_employer": "AT&T",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Donor's employer 'ATT' matches AT&T; the donation address 362 Springwood Ln, San Antonio 78216 is the residence of John B Salinas (age ~57) per property/people records. This is an ordinary AT&T employee, NOT J.D. (Juan) Salinas III, AT&T's VP of External & Legislative Affairs and a registered TX lobbyist (a distinct person who does not reside at this address). No political/advocacy role found for the resident.",
+    "source_url": "https://www.har.com/homedetail/362-springwood-ln-san-antonio-tx-78216/10789398",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5d070397-c810-45b4-aaf7-6af095c28b02",
+    "name": "Hewtty, Jerry",
+    "resolved_employer": "Self-employed",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Name is almost certainly a misspelling of 'Jerry Hewitt.' A Jerry Hewitt exists in San Antonio (LinkedIn lists construction work at Fencecrete America), but the 8251 San Fidel Way 78255 address and 'self employed' occupation could not be corroborated to that or any specific profile. No FEC or TX lobbyist record found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5caa01c5-783d-49cf-8ae1-c516a0bfd7bd",
+    "name": "Gibson, Rosa",
+    "resolved_employer": "Linebarger Goggan Blair & Sampson LLP",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Rosa Lilia Gibson, licensed TX attorney since 1998 (St. Mary's J.D. 1997), tax/delinquent-collections litigator; joined Linebarger 2003, made partner 2006, and since 2016 oversees the firm's San Antonio office. Employer string 'Linebarger' matches exactly. No personal TX lobbyist registration or FEC PAC record found (the firm lobbies, but her role is legal practice/office management).",
+    "source_url": "https://lawyers.justia.com/lawyer/rosa-lilia-gibson-267528",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5c18ba7f-ba5b-491e-aee8-e174493d06b3",
+    "name": "Martinez, Frances",
+    "resolved_employer": "Self-employed",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-employed donor in Floresville (78114); 'Frances Martinez' is a very common name and no public profile, business listing, FEC record, or TX lobbyist registration could be confirmed for this specific individual. Quiet outcome.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5bf07907-e853-41b1-9595-a009b266e7cd",
+    "name": "Somers, Amber",
+    "resolved_employer": "Self-employed",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-employed donor in New Braunfels (78132); no public profile, business, FEC contribution, or TX lobbyist record could be confirmed for an 'Amber Somers' matching this location. Quiet outcome.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "59d7fdd6-73d4-43ef-a7db-fd4dcd3fdf78",
+    "name": "Barshop, Bruce",
+    "resolved_employer": "Barshop Ventures, LLC (Chairman/President); also director, Barshop & Oles Co.",
+    "industry": "Venture Capital",
+    "confidence": "high",
+    "evidence": "Bruce B. Barshop, San Antonio native and former attorney (1974-1996), is Chairman/President of Barshop Ventures, a diversified VC/family-office firm, and a director of Barshop & Oles commercial real estate. Zip 78216 matches the SA attorney/business records. Civic/nonprofit boards (JDRF, Southwest School of Art, UT Health Science Center development board) but no documented political or pro-Israel/Jewish-civic policy-advocacy role; the Barshop JCC is named for Sam & Ann Barshop and is NOT attributable to him.",
+    "source_url": "https://latinodonorcollaborative.org/advisors/bruce-barshop/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "56f42fcd-407e-4ace-afb2-689246633bab",
+    "name": "Clavijo, Clarece",
+    "resolved_employer": "Habitat Construction Services (co-owner/VP, business development); also co-owner of (a)mar restaurant",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Clarece Clavijo (LinkedIn: Business Development at Habitat) co-owns Habitat Construction Services with husband Carlos (studied construction science at UTSA); the couple also opened Latin seafood restaurant (a)mar at the Pearl, and she works as a real estate agent. 78258/Stone Oak location consistent. Self-employed across construction/hospitality/real estate.",
+    "source_url": "https://www.linkedin.com/in/clarece-clavijo-26391bba/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5517a78a-3833-40e2-bb09-81d5f273d6b2",
+    "name": "Wong, Elizabeth",
+    "resolved_employer": "Lisa's Cafe & Cantina, Inc. (President)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Elizabeth Ann Wong is listed in Texas corporate records as President of Lisa's Cafe & Cantina, Inc., a San Antonio restaurant business; the 722 S. St. Mary's St. (78205) address is consistent with the St. Mary's/Southtown dining corridor. Restaurant small-business operator.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/elizabeth-ann-wong/33563173.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "54c5194c-0d26-427f-90b1-85eb8e979c06",
+    "name": "Braha, Jacques",
+    "resolved_employer": "Fulcrum Development LLC / Fulcrum Property Group Inc. (co-founder)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Jacques 'Jack' Braha co-founded San Antonio commercial real estate developer Fulcrum Property Group (1989) and Fulcrum Development (2015), building mixed-use/HEB-anchored retail including Alon Town Centre on Northwest Military Highway — matching his NW Military Hwy 78231 address. Also listed as president of Bwarner, LLC in SA corporate records.",
+    "source_url": "https://finance.yahoo.com/markets/stocks/articles/san-antonio-brothers-founded-development-191416487.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5046cbf4-6576-4af0-97c9-321e324755c6",
+    "name": "Lopez-Krulevitch, Susana",
+    "resolved_employer": "Retired (former first Executive Director, Hispanas Unidas; K-12/underserved-student program developer)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Susana Lopez-Krulevitch, a San Antonio native (78212/Monte Vista) with a St. Mary's law degree, was the first executive director of Hispanas Unidas (Latina empowerment org) and spent ~21 years in Northern California developing programs for underserved students; now retired and active on civic advisory bodies (UTSA Libraries Advisory Council). Documented small Democratic campaign donations.",
+    "source_url": "https://www.hispanasunidas.org/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hispanas Unidas", "role": "First Executive Director / conference co-chair", "category": "civic", "source_url": "https://www.hispanasunidas.org/about", "snippet": "First executive director of Hispanas Unidas, a Latina empowerment organization; co-chairs its annual GED-to-PhD conference."},
+      {"org": "Castro campaigns (Joaquin/Julian Castro)", "role": "individual donor", "category": "political", "source_url": "https://sanantoniostandard.com/susana-l-lopez-krulevitch-donates-450-to-joaquin-castros-campaign-committee-from-july-to-december/", "snippet": "Public campaign-finance records show small individual contributions to Joaquin and Julian Castro (Democratic) committees."}
+    ]
+  },
+  {
+    "donor_id": "4e84ae97-180d-4490-90c1-b2601a5e3187",
+    "name": "Gunn, Ethan",
+    "resolved_employer": "Self-employed",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-described business owner in Boerne (78015). No public profile confirms the specific person or the nature of the business; a same-name 'Ethan Guinn' appears in Boerne/San Antonio records but identity cannot be corroborated. No confirmed tie to the well-known Gunn Automotive family. FEC individual-contribution search returned no matches.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4de0f94a-77ef-4aa5-a7fc-4d96147ba3fd",
+    "name": "Guinn, Christi",
+    "resolved_employer": "self employed",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-employed, Boerne (78015). No public professional profile, bio, business name, lobbyist registration, or FEC record could be tied to this specific person. Quiet outcome.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "49d066d0-b9b6-413a-a30a-4c7707e96333",
+    "name": "A. Patino, Raul",
+    "resolved_employer": "Habitat Construction Services (Vice President)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Raul Patino is Vice President at Habitat Construction Services, a San Antonio bonded commercial/residential construction company (confirmed via LinkedIn and RocketReach); prior roles at RAM Builders and Skanska. This is a construction company, not Habitat for Humanity. No federal PAC/FEC contributions found; no lobbyist registration.",
+    "source_url": "https://www.linkedin.com/in/raul-patino-a3955283/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "48b633e8-39ba-4fc9-87e4-2c130ecea4c6",
+    "name": "Tahir, Abida",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, San Antonio (78249). Former career could not be identified from any public record; no matching FEC contributions, lobbyist registration, or professional bio found. Quiet outcome.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "47f28d22-523e-4b90-8a46-cdfc4af1dac8",
+    "name": "Vidal, Jose Alberto",
+    "resolved_employer": "OCI Group (Our Community Inc., LLC)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Jose Alberto Vidal (MBA) is a partner/co-founder of OCI Group / Our Community Inc., LLC, a San Antonio Hispanic-owned social-purpose consulting firm focused on government relations, public affairs and lobbying. Matches donor's San Antonio / self-employed / 'Consulting' profile; FEC records list him with employer 'Our Community LLC, Partner.' Note: OCI Group is a registered City of San Antonio lobbying firm, but Vidal is NOT among its individually registered lobbyists.",
+    "source_url": "https://www.oci-group.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "OCI Group (Our Community Inc., LLC)",
+        "role": "Partner / Co-Founder",
+        "category": "business",
+        "source_url": "https://www.oci-group.com/",
+        "snippet": "OCI Group website lists Jose Alberto Vidal, MBA, among the firm's partners; the firm is a government-relations/public-affairs and lobbying consultancy."
+      },
+      {
+        "org": "Democratic / progressive committees (ActBlue, Michelle Vallejo for Congress, People First Future, Blue to the Future)",
+        "role": "Individual donor",
+        "category": "political",
+        "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jose+Alberto+Vidal&contributor_state=TX",
+        "snippet": "FEC individual-contribution records show a consistent history of small-dollar donations to Democratic/progressive committees, including Michelle Vallejo for Congress ($500) and People First Future."
+      }
+    ]
+  },
+  {
+    "donor_id": "47d4f0e9-011c-4854-aa15-f2818319733e",
+    "name": "Suarez, Ronnie",
+    "resolved_employer": "Integrity Roofing & Siding (President/Owner)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Ronnie A. Suarez, president/owner of Integrity Roofing, Windows & Siding (family roofing business founded 2006); public records place him in Hill Country Village, matching the donor address. 'Business owner / self employed' fits.",
+    "source_url": "https://integritysa.com/san-antonio-roofing/president/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Rey Feo Consejo Educational (LULAC-affiliated scholarship program)", "role": "Rey Feo LXXV (75)", "category": "civic", "source_url": "https://reyfeo75.org/ronnie-suarez/", "snippet": "Ronnie Suarez served as Rey Feo LXXV, a San Antonio civic/scholarship-fundraising crown tied to LULAC."}
+    ]
+  },
+  {
+    "donor_id": "4561a796-020b-4290-a820-e0484ee709ad",
+    "name": "Cavasos-Reyna, Leroy",
+    "resolved_employer": "Localism, Inc. (founder) / Public Private Strategies (Senior Advisor)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "C. LeRoy Cavazos-Reyna, MPA — San Antonio-based government-affairs consultant, founder of Localism Inc. and former VP of Government Affairs at the San Antonio Hispanic Chamber; distinctive name, SA-based. Donor record has blank occupation. Not himself a registered TX lobbyist (only unrelated 'Sergio M. Cavazos' found).",
+    "source_url": "https://www.publicprivatestrategies.com/c-leroy-cavazos-reyna",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Hispanic Chamber of Commerce / U.S. Hispanic Chamber of Commerce", "role": "former VP of Government (& International) Affairs", "category": "business", "source_url": "https://sanantonioreport.org/hispanic-chamber-veteran-returns-san-antonio-boost-minority-businesses/", "snippet": "Longtime Hispanic Chamber government-affairs executive advocating for minority-owned businesses."},
+      {"org": "Every Texan; Texas Border Coalition; Texas Lyceum", "role": "Executive board member (Every Texan); Vice Chairman (Texas Border Coalition); sustaining member (Texas Lyceum)", "category": "civic", "source_url": "https://www.publicprivatestrategies.com/c-leroy-cavazos-reyna", "snippet": "Serves on boards of Every Texan and Texas Border Coalition and as a Texas Lyceum member."}
+    ]
+  },
+  {
+    "donor_id": "43993f5c-81d8-4bf0-835a-47894a08d20c",
+    "name": "Shakil, Sarah",
+    "resolved_employer": "CAARS Inc. (CEO); tied to Mission Wrecker Service",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Sarah Shakil, CEO of CAARS Inc. (towing/computer-aided-dispatch management) and associated with Mission Wrecker Service, a San Antonio towing company; 'business owner / self-employed' fits. Identity via LinkedIn CEO listing; exact 78260 address not independently confirmed.",
+    "source_url": "https://www.linkedin.com/in/sarah-shakil-697031b5/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "42dd880c-aa7f-46fe-90ca-c623f109772b",
+    "name": "John, Dylan",
+    "resolved_employer": null,
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "No public profile located for a 'Dylan John' in San Antonio 78209 self-employed; only generic self-employed occupation on record, no business name. Identity unconfirmed. Quiet outcome.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "427a7d52-e4fd-4d1d-ba6e-604f61b42f57",
+    "name": "Reddy, Krishna",
+    "resolved_employer": "Meritz & Reddy, PLLC (founding partner)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Krishna Reddy, founding partner of Meritz | Reddy, PLLC at 310 W. Sunset Rd, SA 78209 (matches donor address/employer); Texas-licensed litigation attorney since 2008 (St. Mary's Law), Super Lawyers Rising Star. No FEC PAC or TX lobbyist records found.",
+    "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/krishna-reddy/c9367bb9-8b81-4ac8-90cd-1610cb1fda28.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

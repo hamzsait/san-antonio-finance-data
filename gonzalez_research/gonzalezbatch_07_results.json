@@ -1,0 +1,237 @@
+[
+  {
+    "donor_id": "4114ccc5-38b9-49d7-bf53-3a20616e9cfd",
+    "name": "Shakil, Sohail",
+    "resolved_employer": "Self-employed business owner, San Antonio (specific business unconfirmed)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Common name; multiple San Antonio 'Sohail Shakil' profiles exist (a jewelry-retail founder, and a construction project manager), but none could be corroborated to the 78260 Vista Bella address. No public profile beyond generic 'business owner / self-employed' occupation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3a9ab2e7-dd9e-4d51-96bf-ae02b8b8e642",
+    "name": "Villarreal, Marc",
+    "resolved_employer": "First Vice President / Commercial Relationship Manager, Lone Star National Bank (San Antonio)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Title, employer and San Antonio location corroborated across LinkedIn/RocketReach/ZoomInfo; UTSA BBA, prior roles at Sonora Bank and Wells Fargo. The 122 FEC donations on record could not be itemized (FEC API rate-limited); name searches surfaced no ideological-PAC recipients.",
+    "source_url": "https://my.linkedin.com/in/marc-villarreal-26431748",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "39323a85-9df2-41b5-a280-2c26959efdb6",
+    "name": "Walthall Karam, Katherine",
+    "resolved_employer": "Realtor, The Levi Rodgers Real Estate Group (LRG Realty), Boerne/San Antonio",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Public records list 'Katherine W Karam' at 7715 Battle Intense, Boerne TX 78015 — the exact donor address; spouse Clifton Karam (same household) is VP of Land Acquisitions at Lennar, corroborating the likely-spouse note. Employer 'Levi Rogers' = the Levi Rodgers Real Estate Group brokerage.",
+    "source_url": "https://radaris.com/p/Katherine/Karam/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3678e7e9-91eb-4801-ac3b-85a5d23a278e",
+    "name": "Levine, Robert",
+    "resolved_employer": "Retired (prior profession not documented)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "No public profile could be corroborated for a retired Robert Levine at 78249 San Antonio; the name is common and returned only unrelated obituaries/professionals elsewhere. The 28 FEC donations could not be itemized (FEC API rate-limited); no ideological-PAC ties surfaced in name searches.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2f7d72d7-f3c9-4f63-8e09-81d0bec1c02d",
+    "name": "Meza, Danny",
+    "resolved_employer": "The Raben Group (DC public-affairs/government-relations firm); since Feb 2025 Director of Trade at Global Business Alliance",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "San Antonio native / UTSA grad with JD/LLM; nearly two decades in federal trade policy. LegiStorm confirms he was a Principal and federally registered lobbyist at Raben Group LLC (2023-2024), matching the donor's Raben Group employer. No documented family tie to the candidate; shared Meza surname only.",
+    "source_url": "https://globalbusiness.org/biography/danny-meza/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The Raben Group", "role": "Principal / federally registered lobbyist (2023-2024)", "category": "business", "source_url": "https://www.legistorm.com/person/bio/210707/Daniel_Meza.html", "snippet": "Danny Meza - Previously held position: Raben Group LLC (2023-2024), Principal; registered as a lobbyist or foreign agent."}
+    ]
+  },
+  {
+    "donor_id": "25172743-08ce-4f72-8585-fdfbd5077b71",
+    "name": "Gunn, Christie",
+    "resolved_employer": "Self-employed business owner in Boerne, TX; specific business not identifiable in public records",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-described 'Business Owner / Self-employed' at 31317 Keeneland Dr, Boerne (zip 78015). No FEC, TEC lobbyist, or bio/LinkedIn profile found to identify the business. Nearby 'Gunn Automotive Group' shares the surname but there is NO evidence linking her to it — not classified.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "24f938e8-ed49-49cc-9e5d-9f5ddc021b0d",
+    "name": "Ghafoor, Abdul",
+    "resolved_employer": "CEO/Founder, Amn Traders (DBA of Jethwa Enterprises Inc.), a San Antonio wholesale distributor of snacks and convenience-store items",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "LinkedIn/RocketReach confirm Abdul Ghafoor of San Antonio as CEO & Founder of 'Jethwa Enterprises Inc. & Amn Traders DBA', a distributor of snacks and C-store items — matches donor's stated CEO/Amn Traders occupation and 78249 zip. No ideological-PAC contributions surfaced; no TEC lobbyist match.",
+    "source_url": "https://www.linkedin.com/in/abdul-ghafoor-6a064a15/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Amn Traders / Jethwa Enterprises Inc.", "role": "CEO & Founder", "category": "business", "source_url": "https://rocketreach.co/abdul-ghafoor-email_24819607", "snippet": "Abdul Ghafoor, CEO and Founder at Jethwa Enterprises Inc. & Amn Traders DBA; Amn Traders is a distributor of King Henry snacks and C-store items."}
+    ]
+  },
+  {
+    "donor_id": "227bee7d-1399-42e3-9967-1a0ddb81fc5c",
+    "name": "Hartman, Margaret M.",
+    "resolved_employer": "Homemaker / philanthropist; co-founder of the Gordon Hartman Family Foundation; wife of San Antonio homebuilder-philanthropist Gordon Hartman",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Margaret 'Maggie' Hartman, 1500 Fawn Bluff, San Antonio 78248 (matches TEC filings listing her as 'Housewife'), is co-founder of the Gordon Hartman Family Foundation and co-creator of Morgan's Wonderland, wife of Gordon Hartman. Her ~54 FEC donations (partisan lean ~0.54, roughly balanced) could not be itemized due to FEC API rate limits, but no single-issue ideological PAC appeared in available public sources.",
+    "source_url": "https://sawoman.com/2023/10/maggie-hartman/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Gordon Hartman Family Foundation", "role": "Co-founder", "category": "civic", "source_url": "https://www.gordonhartman.com/our-history/", "snippet": "In 2005 Gordon sold his companies and established the Gordon Hartman Family Foundation so he and his wife, Maggie, could pursue their dream of helping children and adults with special needs; Maggie is co-founder."}
+    ]
+  },
+  {
+    "donor_id": "209828c2-8552-4980-add6-b04c1dfe3f21",
+    "name": "Salinas Sosa, Alicia",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Listed as 'retired' at 13222 Hunters Breeze St, San Antonio 78230. No FEC contribution record, TEC lobbyist entry, or bio/LinkedIn profile could be corroborated to this specific person; common Bexar County surnames, so no classification forced beyond retired.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1cf2c95e-0c73-402a-9991-49624d242ae5",
+    "name": "Aleman, John",
+    "resolved_employer": "Founder, President/CEO and owner of Selrico Services, Inc., a San Antonio food-service and government-contracting company",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "John R. 'Rick' Aleman founded Selrico Services in 1989 and is its President/CEO/owner; FEC records list 'John R Aleman, President, Selrico Services Inc., San Antonio 78212' — matching the donor's Selrico/owner/78212 details. Selrico is a ~$60M military/government food-service contractor. Historic FEC giving to GOP candidate John Cornyn; no ideological single-issue PAC contributions found; no TEC lobbyist match (Steven R. Aleman is a different person).",
+    "source_url": "https://selricoservices.com/about-us/management/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Selrico Services, Inc.", "role": "Founder / President-CEO / Owner", "category": "business", "source_url": "https://hispanicexecutive.com/selrico-services/", "snippet": "In 1989 CEO Rick Aleman left Aramark to launch Selrico, merging his children's names (Selena and Richard); it grew into a $60M military-service food provider operating on four continents."},
+      {"org": "Texans for Senator John Cornyn Inc.", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/08/elec-SAN-ANTONIO-TX-08-part6.html", "snippet": "John R Aleman, President of Selrico Services Inc., San Antonio 78212, contributed $1,100 to Texans for Senator John Cornyn Inc. (Republican)."}
+    ]
+  },
+  {
+    "donor_id": "1a8559c2-5102-4c0a-a1a4-ba7c54dfb161",
+    "name": "Shearer, Patrick",
+    "resolved_employer": "On Tap Investments (Managing Partner / commercial real estate broker), San Antonio",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Managing Partner and founder of On Tap Investments, a San Antonio commercial real estate firm specializing in real estate for the food & beverage industry; licensed SABOR broker. Matches occupation and city. The 'James F. Shearer' in the TEC lobbyist list is a different person.",
+    "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/patrick-shearer/5qj2d9nb",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1a633578-139a-49a4-bf0e-b7b7b6bcbab7",
+    "name": "Gonzalez, Ixchell",
+    "resolved_employer": "Sí Se Puede Schools (Executive Director); also Co-Founder/Partner, OCI Group",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Executive Director of Sí Se Puede Schools (SSPS), a San Antonio school-management nonprofit (manages Ogden Elementary); lifelong educator, former Head of School/Superintendent, co-founder of consulting firm OCI Group. No documented family tie to candidate; classified on occupation, not surname.",
+    "source_url": "https://www.oci-group.com/ixchell",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National Hispanic Institute (San Antonio)", "role": "Board of Directors", "category": "civic", "source_url": "https://www.oci-group.com/ixchell", "snippet": "Board of Directors, National Hispanic Institute at San Antonio; also Advisory Board, Relay Graduate School of Education; volunteer/fundraiser for TMI Episcopal."}
+    ]
+  },
+  {
+    "donor_id": "18f6f20c-848a-4abd-b3cc-f6a7b117fe52",
+    "name": "Mann, Catherine",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported retired, San Antonio 78229. No distinguishing public bio, professional profile, or named ideological-PAC affiliation could be corroborated beyond a generic retired individual; FEC history reported as heavily Democratic (lean ~0.94) but no specific issue-PAC match found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "17f6ffab-2f43-4a3f-a060-b17f8dca1c69",
+    "name": "Guinn, Ethan",
+    "resolved_employer": "Oath Services (Co-Founder / Director; talent acquisition & recruiting), Boerne/Fair Oaks Ranch TX",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Co-founder/director of Oath Services, a talent-acquisition/recruiting venture; describes himself as a Special Operations Aviation veteran. LinkedIn profile matches Boerne/Fair Oaks Ranch TX and self-employed filing. Veteran status noted but no documented defense-PAC/org affiliation.",
+    "source_url": "https://www.linkedin.com/in/ethan-guinn-43496a161/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "12e9b2b8-d888-432d-8139-f59c845c27d6",
+    "name": "Canales, Cecilia",
+    "resolved_employer": "Law Firm of David A. Canales, PLLC (Firm Administrator), San Antonio",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Firm Administrator at the Law Firm of David A. Canales, PLLC, a San Antonio personal-injury/general-practice firm led by attorney David A. Canales. The 'David Canales' name overlaps with a former Bexar County district judge, but her personal identity and any family relationship to the attorney are not independently documented in public records; classified on self-reported employer only.",
+    "source_url": "https://www.martindale.com/organization/law-firm-of-david-a-canales-pllc-7081244/san-antonio-texas-16294814-f/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1207cc68-fbf6-47a2-b0da-9349c6856175",
+    "name": "Karam, Clifton",
+    "resolved_employer": "Lennar (Director of Land / VP of Land Acquisitions — residential land acquisition & development), San Antonio",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Clifton Karam is Director of Land / VP of Land Acquisitions at Lennar (national homebuilder), based in San Antonio, with a Master of Real Estate from Texas A&M; prior land-acquisition role at KB Home. Matches the donor's title/employer. Same household as Katherine Walthall Karam (Realtor).",
+    "source_url": "https://www.zoominfo.com/p/Clifton-Karam/1485376907",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "10e54a56-d2f5-46bb-9f23-50294021d56f",
+    "name": "Kanter, Denise",
+    "resolved_employer": "Leading Blinds (Window Designs) — owner; custom window-treatment/blinds business, San Antonio",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Denise Kboudi Kanter is listed as owner of Leading Blinds Window Designs in San Antonio; public property records confirm Denise Kanter (with Ray David Kanter) at 118 Regents Park, San Antonio, matching the donor address. LinkedIn full page was blocked (HTTP 999), so bio not fully read.",
+    "source_url": "https://www.linkedin.com/in/denise-kboudi-kanter-aa3a7b19/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0b099c45-513d-4928-9975-80cbc1591569",
+    "name": "Barton, Deborah",
+    "resolved_employer": "Self-employed business owner (no public business name found), Fair Oaks Ranch TX",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-employed business owner at 30829 Man O War, Fair Oaks Ranch/Boerne TX; public records tie 'Deborah S Barron' to that same address (household with Ed Barron). Almost certainly the same person as donor 'Barron, Deborah' recorded under a variant spelling; no public business profile or FEC-itemized detail beyond generic 'business owner' was retrievable.",
+    "source_url": "https://clustrmaps.com/person/Barron-81s9oq",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "09fc0c9a-9f3b-4ac2-bfbb-6c4f64def8c6",
+    "name": "Barron, Deborah",
+    "resolved_employer": "Self-employed (no public business name found), Fair Oaks Ranch TX",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Deborah S Barron is documented at 30829 Man O War, Fair Oaks Ranch TX 78015 (same household as Ed Barron) in public records — the same street address as donor 'Barton, Deborah', supporting that Barton/Barron are one person under two spellings. No distinct public business profile located.",
+    "source_url": "https://clustrmaps.com/person/Barron-81s9oq",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0867a01a-5f04-45ca-9c9e-36468f4d52bd",
+    "name": "Gamez, Joseph",
+    "resolved_employer": "Gamez Law Firm — Joe A. Gamez, founder/personal-injury trial attorney, San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Donor is Joe A. Gamez, founder of the Gamez Law Firm (San Antonio personal-injury firm) and a former Texas State Representative; FEC records list 'Joe A. Gamez, self-employed attorney, San Antonio 78201' giving to Democratic candidate Lloyd Doggett, consistent with the ~0.99 Democratic lean. The 78201 ZIP matches donor address 1119 Fresno.",
+    "source_url": "https://joegamezlaw.com/attorney/joe-a-gamez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House of Representatives", "role": "Former State Representative (early 1980s)", "category": "political", "source_url": "https://joegamezlaw.com/attorney/joe-a-gamez/", "snippet": "Political Office — Texas State House of Representatives (early 1980s); 'former Texas State Representative and attorney.'"},
+      {"org": "Democratic federal candidates (Lloyd Doggett for Congress)", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/14/elec-SAN-ANTONIO-TX-14-part7.html", "snippet": "Joe A. Gamez, self-employed attorney, ZIP 78201, contributed $1,500 to Doggett for US Congress (Democrat) on 10/08/2014."},
+      {"org": "Texas Trial Lawyers Association", "role": "Board Member", "category": "business", "source_url": "https://joegamezlaw.com/attorney/joe-a-gamez/", "snippet": "Board Seats — Texas Trial Lawyers Association, Board Member; also St. Mary's Hispanic Law Alumni Association and Mexican American Bar Association."}
+    ]
+  }
+]

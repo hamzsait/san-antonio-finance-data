@@ -1,0 +1,230 @@
+[
+  {
+    "donor_id": "b7d84d3e-6dfb-4d8f-9094-3696d101abb7",
+    "name": "Mayo-Moreno, Gloria",
+    "resolved_employer": "Retired; former Director of Government Relations at the Texas Department of Health and longtime Texas Capitol legislative staffer/nonprofit government-relations professional (retired)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Morningside Ministries (The Meadows) resident spotlight, born 1946, matches the 78201/San Antonio profile; her career was legislative and government-relations work capped by nonprofit lobbying. Now Resident Council President and AARP volunteer.",
+    "source_url": "https://mmliving.org/2025/01/31/resident-spotlight-gloria-mayo-moreno/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b78b3d81-3781-4355-88a3-7b7c0e5f21b5",
+    "name": "S., Trey",
+    "resolved_employer": "Attorney; donor-reported employer \"Gauntlet\" could not be verified as a San Antonio firm",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Only a first name (Trey) and last-initial (S.) given; occupation lawyer/attorney at 78240. No San Antonio law firm named 'Gauntlet' located (Gauntlett Law is a California IP-insurance firm, not a match). Specific person cannot be confirmed; Legal assigned via occupation fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b5bb51af-4bd3-4441-b1fa-24528dd09d48",
+    "name": "Vazquez, Guillermo",
+    "resolved_employer": "AFSCME Area Field Services Director – Texas (public-sector union)",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "LinkedIn/RocketReach confirm Guillermo Vazquez as AFSCME Area Field Services Director for Texas, based in the San Antonio/Boerne area; previously co-directed the political program for ~6,300 City of San Antonio employees and worked with Texas AFT/AFL-CIO. Matches occupation 'Labor Representative' + employer 'AFSCME' + 78257.",
+    "source_url": "https://www.linkedin.com/in/guillermo-vazquez-785b1060/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "AFSCME (American Federation of State, County & Municipal Employees)", "role": "Area Field Services Director – Texas (co-directed the union's SA political program)", "category": "political", "source_url": "https://www.linkedin.com/in/guillermo-vazquez-785b1060/", "snippet": "AFSCME Area Field Services Director - Texas ... directed field organizing, issues advocacy and co-directed the political program for 6,300 city of San Antonio employees."}
+    ]
+  },
+  {
+    "donor_id": "b53eb4be-18ff-4ede-9ebf-c54fc955fcb5",
+    "name": "Velasquez, Catarina",
+    "resolved_employer": "Self-employed consultant; Director, Tierranx Real Estate LLC (registered at her 124 Clay address); previously an educational consultant tied to the San Antonio Housing Authority",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "CorporationWiki/ClustrMaps list Catarina Velasquez as director of Tierranx Real Estate LLC registered at 124 Clay, 78204 — exact address match; a 2017 SA Report piece references her as an educational consultant with the housing authority.",
+    "source_url": "https://www.corporationwiki.com/p/37xeur/catarina-velasquez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "afdf0ac6-b7f6-4943-8feb-800fff589de7",
+    "name": "George, Linda",
+    "resolved_employer": "Self-employed consultant",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Donor-reported occupation is self-employed consultant; a 'Linda Lopez-George' appears on a City of San Antonio neighborhood-association listing for the 78230 (Hunters Creek North) area — a location match — but the specific consultant identity/employer cannot be independently confirmed. Industry assigned by occupation fallback.",
+    "source_url": "https://www.sanantonio.gov/portals/0/files/planning/NAListingMarch2016.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a66797fe-dd33-43b9-93b4-fb4df78b6cf8",
+    "name": "Torres, Helen",
+    "resolved_employer": "Self-employed (sales)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Donor is in San Bernardino, CA 92407 with a generic occupation 'sales / self employed'; no public profile confirms the specific individual, and she should not be conflated with any similarly named public figure. Industry by self-employed fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9f193104-de29-4403-89da-7e2ddd9ebb66",
+    "name": "Domas, Ralph",
+    "resolved_employer": "Professor at San Antonio College (Alamo Colleges), per donor-reported occupation/employer",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Occupation 'Professor' with employer 'SAC' (San Antonio College) at 78256; could not locate a faculty-directory or bio entry confirming Ralph Domas specifically, so industry is assigned via employer/occupation fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9ee013c3-76c8-4928-b149-271015585285",
+    "name": "Snowden, Tara",
+    "resolved_employer": "Zachry Construction Corporation (San Antonio) — Vice President, Public & Government Affairs",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Long-tenured (20+ yrs) VP of Public & Government Affairs at Zachry, a major SA construction/engineering firm; responsible for PR, media, political/regulatory strategy, and management of the company PAC, lobbying, and corporate philanthropy. San Antonio-based, matches the 78216 PO Box and 'Zachary Corp / Public Affairs' donor strings.",
+    "source_url": "https://www.zoominfo.com/p/Tara-Snowden/1856072238",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Zachry Construction Corporation", "role": "VP, Public & Government Affairs (manages company PAC & lobbying)", "category": "business", "source_url": "https://www.zoominfo.com/p/Tara-Snowden/1856072238", "snippet": "Vice President, Public & Government Affairs ... responsible for ... management of the Company's political action committee, lobbying, and corporate philanthropy."}
+    ]
+  },
+  {
+    "donor_id": "9e2ddc7b-17c1-420c-9e38-692d42fd76df",
+    "name": "Balderrama, Monica",
+    "resolved_employer": "Kelly S Mathews LLC (motor-fuels tax firm) — Senior Tax Manager / Director, Compliance",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "ZoomInfo lists Monica Balderrama as Director, Compliance (formerly Senior Manager, Tax) at Kelly S Mathews LLC, a firm specializing in motor-fuels tax compliance; occupation and employer strings match exactly. Helotes 78023 residence plausible as remote.",
+    "source_url": "https://www.zoominfo.com/p/Monica-Balderrama/3702390218",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9220b264-ee5d-453f-9819-1f6fa7c65df6",
+    "name": "Logan, Lori",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, San Antonio 78230. No record reliably matching this zip/person; a separate Lori Logan (Trinity University controller) appears at 78212, a different zip, so not corroborated. Former career not identifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8a1a39c6-f9fa-47a3-99dc-c00f75a7ad5c",
+    "name": "Derman, Ayse",
+    "resolved_employer": "Niche Clothing Co / Niche at Pearl — Owner & Creative Director (San Antonio apparel boutique)",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Owner/creative director of Niche, a ~25-30 year SA modern-apparel brand and Pearl boutique run by mother/daughter Nilgun and Ayse Derman; clothing produced in San Antonio. 1223 E. Euclid Ave (78212) matches the brand's SA production address and the 'Business Owner / Niche' donor strings.",
+    "source_url": "https://atpearl.com/operator/niche-at-pearl/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "89af7209-5b3d-4a17-a395-c412ceba3ca6",
+    "name": "Almaguer, Rosa",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, San Antonio 78234 (Fort Sam Houston area). 'Almaguer' is common in Bexar County; no record reliably matches this specific person/zip. Former career not identifiable. Quiet result.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "89820646-aa36-4d14-b65a-6b4667db980d",
+    "name": "Guyer, Madeline",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as retired at 299 Cooper Street, Brooklyn NY 11237. A Madeline Norwood Guyer (age ~74, occupation 'Medical Professional') appears in San Antonio, related to attorney Ronald P. Guyer who has lived in both Brooklyn and San Antonio — a plausible but unconfirmed link; cannot confirm the same person or attribute a career with confidence.",
+    "source_url": "https://clustrmaps.com/person/Guyer-2a6jpj",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7f9636d3-9593-41a9-8425-bcc315a886f7",
+    "name": "Coleman, Britt",
+    "resolved_employer": "Software/technology business development (cybersecurity awareness training, e.g. Inspired eLearning) (retired)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "LinkedIn shows a Britt Coleman in San Antonio, listed as retired, with a career in software/technology business development (cybersecurity awareness training, Inspired eLearning). Distinctive first name + San Antonio + retired status align with the donor; exact 78230 zip not independently confirmed.",
+    "source_url": "https://www.linkedin.com/in/link2britt/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7a5304ba-4993-4107-9245-f6223b838be4",
+    "name": "Solis, Marc",
+    "resolved_employer": "Self-employed; associated with a home-registered irrigation/sprinkler business at his address",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Public records/people-search tie a Marc Solis at 18619 Paloma Wood, San Antonio 78259 (exact donor address) to a home-registered sprinkler/irrigation LLC, consistent with the 'self employed' occupation. No PAC or lobbyist records found.",
+    "source_url": "https://www.officialusa.com/names/Marc-Solis/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "70b3b248-6586-40bb-9e5b-754781ee21aa",
+    "name": "Salas, Victoria",
+    "resolved_employer": "Coordinating Director, Interfaith Welcome Coalition (San Antonio immigrant/asylum-seeker services nonprofit)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Victoria Salas is the Coordinating Director of the Interfaith Welcome Coalition (donor employer string 'Interfaith Coalition and Immigrant Resource Center'), a San Antonio interfaith nonprofit serving asylum seekers, refugees and at-risk immigrants since 2014; prior roles at Catholic Charities and Family Service Association.",
+    "source_url": "https://interfaithwelcomecoalition.org/2024/03/iwc-coordinating-director-speaks-at-the-journey-of-resistance/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Interfaith Welcome Coalition", "role": "Coordinating Director", "category": "civic", "source_url": "https://interfaithwelcomecoalition.org/2024/03/iwc-coordinating-director-speaks-at-the-journey-of-resistance/", "snippet": "Victoria Salas - Coordinating Director, Interfaith Welcome Coalition, San Antonio (immigrant/asylum-seeker services)."}
+    ]
+  },
+  {
+    "donor_id": "6e107509-cd86-4977-af48-82e6a0980638",
+    "name": "Dominguez, Adrian",
+    "resolved_employer": "H-E-B (Senior Project Manager)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Donor lists employer H-E-B, the San Antonio-headquartered grocery chain, as Sr. Project Manager. Could not independently confirm the specific individual's profile, but the stated employer supports a Retail classification. No PAC or lobbyist records found.",
+    "source_url": "https://careers.heb.com/jobs/157338?lang=en-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "67b41cfa-a05e-469f-95c2-1456b1374f48",
+    "name": "Tijerina, Martha",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm the specific Martha Tijerina at 6419 Hidden Meadow Dr, San Antonio 78230; only 'self employed' stated with no verifiable business. Common surname; no PAC or lobbyist records found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "664f5b8f-5f3b-4208-bb87-4119983016c1",
+    "name": "Saldana, David",
+    "resolved_employer": "Self-employed consultant (specific business unconfirmed)",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Donor lists 'Consultant, Self Employed' at 4014 Big Meadows, San Antonio 78230. San Antonio individuals named David Saldana exist (e.g., a Morgan Stanley investment advisor and a Saldana & Associates law firm) but none confirmed as this self-employed consultant; surname is common. Generic 'consultant' occupation mapped to Consulting/PR as fallback. No PAC or lobbyist records found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "662a0ddd-d996-41f8-9a7a-030ec6e2cb80",
+    "name": "Montemayor, Margaret",
+    "resolved_employer": "Former Bexar County District Clerk, elected 2003 (retired)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Bexar County's official District Clerk history lists Margaret G. Montemayor taking office January 1, 2003 as the elected District Clerk. Donor is 'Retired' in San Antonio 78201, consistent with this former elected official; the exact home-address match could not be independently corroborated and Montemayor is a common surname, so treated as probable not certain. No PAC or lobbyist records found.",
+    "source_url": "https://www.bexar.org/3722/History-of-District-Clerk",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bexar County District Clerk's Office", "role": "District Clerk (elected, took office Jan 1, 2003)", "category": "political", "source_url": "https://www.bexar.org/3722/History-of-District-Clerk", "snippet": "Margaret G. Montemayor took office January 1, 2003 as Bexar County District Clerk (elected official)."}
+    ]
+  }
+]

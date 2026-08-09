@@ -1,0 +1,240 @@
+[
+ {
+  "donor_id": "8c9177ce-f928-4bb2-b320-be9ca3de1906",
+  "name": "Ramos, Gina Luree",
+  "resolved_employer": "Riverwalk OB/GYN (a Unified Women's Healthcare / UWH of Texas affiliate), San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Gina Ramos as Billing Manager at Riverwalk OB/GYN in San Antonio; Riverwalk OB/GYN is a UWH of Texas / Unified Women's Healthcare affiliate, matching the record's occupation (Billing manager), employer (Unified Women's Healthcare), and San Antonio location/zip 78210. No federal PAC contributions and no Texas/City of San Antonio lobbyist registration found; a small local donor. Categorized by employer.",
+  "source_url": "https://www.linkedin.com/in/gina-ramos-42687276/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "750c9102-c2fe-4eb3-87e9-aac0087b2c04",
+  "name": "Cardenas, Blandina",
+  "resolved_employer": "Retired (former President, University of Texas-Pan American; former Dean, College of Education, UTSA)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Identity corroborated as Dr. Blandina 'Bambi' Cardenas, a notable Texas education figure: first Latina president of a UT System institution (UTPA, 2004-2009), former UTSA Dean of the College of Education, and bilingual early-childhood education pioneer; now retired in Austin (zip 78702 matches the record). FEC/ActBlue records show her as a prolific Democratic individual donor (record lists 146 FEC donations, partisan_lean 1.0; documented $1,000 ActBlue contributions from Austin, TX 78702). Retiree classified by former career.",
+  "source_url": "https://voces.moody.utexas.edu/collections/stories/blandina-cardenas-flores",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "ActBlue / Democratic candidates and committees", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-AUSTIN-TX-20-part53.html", "snippet": "Blandina Cardenas Flores, Austin, Texas (78702), made $1,000 contributions to ActBlue (2019); record shows 146 FEC donations, partisan_lean 1.0 (Democratic)."}
+  ]
+ },
+ {
+  "donor_id": "72eec424-4238-454f-a860-fda767e1b926",
+  "name": "Tijerina, Georgina",
+  "resolved_employer": "Northside ISD (NISD), San Antonio",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "No individual public profile, bio, or news coverage located for Georgina Tijerina beyond the generic occupation. Categorized by employer per fallback: teacher at Northside ISD, a public school district in San Antonio (zip 78253 is within NISD's service area). No FEC contributions (record donation_count 0) and no Texas/City of San Antonio lobbyist registration found. A quiet result.",
+  "source_url": "https://www.nisd.net/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6fc75a36-ad9f-43fe-a484-fecf22beecdc",
+  "name": "Wheat, Chris",
+  "resolved_employer": "New Venture Fund (Managing Director for Policy & Government Affairs, Sustainable Cities Fund — a fiscally sponsored project of the New Venture Fund)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Chris Wheat is Managing Director for Policy and Government Affairs at the Sustainable Cities Fund, based in Chicago; the Sustainable Cities Fund is a fiscally sponsored project of the New Venture Fund (a 501(c)(3) fiscal sponsor), which reconciles the record's employer 'New Venture Fund' with his Chicago 60625 (Albany Park) address. Prior roles: Chief of Policy/Chief Sustainability Officer under Chicago Mayor Rahm Emanuel and NRDC's American Cities Climate Challenge. No FEC PAC contributions found (record donation_count 0); not a Texas or City of San Antonio registered lobbyist.",
+  "source_url": "https://www.linkedin.com/in/christopherowheat/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Sustainable Cities Fund (project of New Venture Fund)", "role": "Managing Director for Policy & Government Affairs", "category": "civic", "source_url": "https://newventurefund.org/", "snippet": "The Sustainable Cities Fund is a project of the New Venture Fund, working with cities and subnationals to advance equitable climate action; Chris Wheat leads its policy and government affairs work."}
+  ]
+ },
+ {
+  "donor_id": "66c1cd09-d502-4b32-81e5-25bfbbde93da",
+  "name": "Matthew Pouttu, Larry",
+  "resolved_employer": "Larry Matthew Pouttu Law, PLLC (tax/probate attorney; retired occupation listed)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "State Bar of Texas and multiple attorney directories confirm Larry Matthew Pouttu is a San Antonio tax/probate attorney (St. Mary's Univ. School of Law) whose firm headquarters address, 9213 Powhatan Drive, San Antonio, TX 78230, exactly matches the donor record. Donor occupation is listed 'Retired'; he still operates Larry Matthew Pouttu Law, PLLC (semi-retired). FEC donation_count 0 confirmed (no federal PAC contributions found). No Texas Ethics Commission or City of San Antonio lobbyist registration found.",
+  "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=346867",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "654c06aa-870a-48ad-8ace-fa7d91a3241d",
+  "name": "Olivo, Dora",
+  "resolved_employer": "Fort Bend County (Justice of the Peace, Precinct 4); former Texas State Representative, District 27 (retired attorney)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Verified: Dora F. Olivo, attorney, served as Fort Bend County JP Precinct 4 (2023-2024; first Latina JP in the precinct in over a decade), and previously as a Democratic member of the Texas House of Representatives for District 27 (1997-2011). Rosenberg, TX 77471 address consistent. Occupation 'JP' and employer 'Fort Bend County' confirmed. High FEC donation_count (565) and partisan_lean 1.0 consistent with a longtime Democratic donor/officeholder; no specific pro-Israel, oil & gas, gun, or defense PAC affiliation surfaced. No TEC lobbyist registration found.",
+  "source_url": "https://ballotpedia.org/Dora_Olivo",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": [
+   {"org": "Texas House of Representatives", "role": "Former State Representative (D), District 27 (1997-2011)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Dora_Olivo", "snippet": "Dora F. Olivo was a Democratic former member of the Texas House of Representatives, representing the 27th District from 1997 to 2011."},
+   {"org": "Fort Bend County", "role": "Justice of the Peace, Precinct 4 (2023-2024)", "category": "civic", "source_url": "https://www.houstonlanding.org/dora-olivo-named-fort-bend-countys-first-latina-justice-of-the-peace-in-over-a-decade/", "snippet": "Dora Olivo named Fort Bend County's first Latina justice of the peace in over a decade."}
+  ]
+ },
+ {
+  "donor_id": "571bbc93-f909-45fc-b2d7-c4652695acc5",
+  "name": "Nava, Jesus",
+  "resolved_employer": "Retired municipal city manager / finance official (former public-sector administrator)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "A Jesus Nava with a 35+ year California/Southwest municipal-government career is documented: finance director/treasurer for the City of Burlingame, deputy city manager for San Jose, chief administrative officer at Santa Clara Valley Water District, city manager of Las Cruces NM, and assistant city manager of Laredo TX. Bay Area career (Burlingame/San Jose/Santa Clara Valley) is geographically consistent with a Los Altos, CA 94024 retirement residence and the 'retired' occupation. Identity is probable but not fully pinned to the Los Altos address ('Jesus Nava' is a common name), hence medium confidence. FEC donation_count 140, partisan_lean 0.199; no specific pro-Israel, oil & gas, gun, or defense PAC affiliation found. Not a Texas registered lobbyist.",
+  "source_url": "https://www.publicceo.com/2012/12/city-manager-newsletter-27/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "397099e8-c4df-4119-aa42-0d71a64f23df",
+  "name": "Rocha, Ronald",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP (Capital Partner, San Antonio office)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Verified via full read of the firm's attorney bio page: Ronald E. Rocha is a Capital Partner at Linebarger Goggan Blair & Sampson, LLP in the San Antonio office (78213 consistent). He joined the firm in 1994, earned a J.D. from Thurgood Marshall School of Law, supervises regional collection clients, serves as the firm's Ombudsperson, and oversees the sheriff-sale/foreclosure process. His role is litigation/collections; the bio lists no board seats or policy-advocacy affiliations. Although the firm itself is heavily engaged in government contracting/lobbying, no individual Texas Ethics Commission or City of San Antonio lobbyist registration was found for Ronald Rocha. FEC donation_count 0 (no federal PAC contributions found).",
+  "source_url": "https://www.lgbs.com/attorney/ronald-e-rocha/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2d5da4d5-384a-4261-bd60-40eb5f2c2388",
+  "name": "Hughey, Sandy",
+  "resolved_employer": "Retired (no former career independently documented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Sandy (Sandra) Hughey, retired, resides at 3430 Hunters Stand St, San Antonio 78230 (matches record). She is the wife of J. Keith Hughey, founder of J. Keith Hughey Company (management consulting); the firm's About page confirms 'Keith and his wife, Sandy' live in San Antonio, corroborating identity on name+zip. No documented former career of her own was found, so an industry cannot be assigned. FEC/lobbyist searches returned nothing for her.",
+  "source_url": "https://jkeithhughey.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "24f08e7b-9bc2-438e-9c79-d0cd5ab65d18",
+  "name": "Carielo, Oscar",
+  "resolved_employer": "Carielo Realty Development, LLC (record: 'Carielo Development Corporation')",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Oscar Carielo is listed on CorporationWiki as President of Carielo Realty Development, LLC (San Antonio), matching the donor's occupation 'President' and employer 'Carielo Development Corporation' — a real estate development entity. He is also a Pre-Construction VP/building designer at Tejas Premier Building Contractor (founded by his wife Julissa Carielo). Given the self-reported employer is the Carielo development company he heads, classified as Real Estate. FEC and Texas Ethics Commission lobbyist searches returned no matches.",
+  "source_url": "https://www.corporationwiki.com/p/2g7iiu/oscar-carielo",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1b3c97f9-691b-4db9-a5fb-b0d8add70c56",
+  "name": "Barocas, Lawrence",
+  "resolved_employer": "Snowden Lane Partners (Senior Partner & Managing Director, wealth management)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Lawrence 'Larry' Barocas, CPWA, CRPS is Senior Partner and Managing Director at Snowden Lane Partners (wealth management) in San Antonio, leading the local Strategic Management Group; former Merrill Lynch VP and former tax attorney. Matches donor occupation 'Financial Advisor' / employer 'Snowden Lane' and Olmos Park 78212 location. He has authored op-eds for the nonprofit San Antonio Report but is NOT currently on its board (verified board roster). FEC count 2, lean 1.0 per record — no specific PAC contribution surfaced with a citable source, and no policy-advocacy affiliation in the balanced categories was documented. No TX lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/lawrence-barocas-cpwa-crps-40128511/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1b3b577d-d971-4c1e-86de-86b17af3383f",
+  "name": "Null, Kathleen",
+  "resolved_employer": "Retired (former career not publicly documented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor is retired at 4339 Center Oak Woods St, San Antonio 78249. Record shows a prolific federal giving history (FEC donation_count 105, partisan_lean 0.888), consistent with an active small-dollar Democratic donor, but no public profile, obituary, or bio establishing a former career was found. No former occupation could be confirmed, so no industry is assigned. Partisan lean alone is not one of the balanced affiliation categories and no citable source+snippet for a specific PAC (AIPAC, J Street, oil/gas, etc.) was found, so no affiliation is recorded. No TX lobbyist registration found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1b34a1f8-fc55-4b0e-a341-a3fb8ed9710d",
+  "name": "Perez, Marisol",
+  "resolved_employer": "De Mott, Curtright & Armendariz, LLP (DMCA), San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Marisol L. Perez is a partner at De Mott, Curtright & Armendariz, LLP (DMCA) in San Antonio, leading the firm's family immigration section; board certified in immigration and nationality law and adjunct professor at St. Mary's Law. Occupation 'Attorney' and employer 'DMCA' match exactly. Formerly a MALDEF staff attorney (immigrants' rights). No federal PAC contributions to notable ideological/industry PACs found; not on Texas or San Antonio lobbyist registries.",
+  "source_url": "https://www.dmcausa.com/our-team/marisol-l-perez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "American Immigration Lawyers Association (AILA), Texas/Oklahoma/New Mexico Chapter", "role": "Chapter Chair (2023-2024); Vice-Chair (2022)", "category": "civic", "source_url": "https://www.dmcausa.com/our-team/marisol-l-perez/", "snippet": "Chair, Texas, Oklahoma & New Mexico Chapter of AILA (2023-2024 term); Vice-Chair (2022)."},
+   {"org": "MALDEF (Mexican American Legal Defense and Educational Fund)", "role": "Former Staff Attorney, Southwest Regional Office (2004-2010)", "category": "civic", "source_url": "https://law.stmarytx.edu/academics/faculty/marisol-perez/", "snippet": "In 2004, she took a staff attorney position in the Southwest Regional Office of MALDEF, serving as an immigrants' rights attorney handling litigation and legislative matters for nine states."}
+  ]
+ },
+ {
+  "donor_id": "0e4a538c-6ed8-4238-aa13-6e0c007b77f4",
+  "name": "Guadalupe Salas, Simon",
+  "resolved_employer": "Good Samaritan Community Services (President and CEO), San Antonio",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Simon Salas is President and CEO of Good Samaritan Community Services, a San Antonio nonprofit serving low-income youth and families. Occupation 'CEO' and employer match exactly. Columbia College BA, Columbia Law JD, Columbia SIPA MPA; joined GSCS January 2017 after leading a San Antonio charter school network. FEC donation_count is 0; no notable PAC contributions and no lobbyist registration found.",
+  "source_url": "https://goodsamaritancommunityservices.org/senior-staff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Good Samaritan Community Services", "role": "President and CEO", "category": "civic", "source_url": "https://www.linkedin.com/in/simon-salas-67b961a/", "snippet": "Simon Salas serves as president and chief executive officer of Good Samaritan Community Services (GSCS), a San Antonio nonprofit; joined GSCS in January 2017."}
+  ]
+ },
+ {
+  "donor_id": "a59ae8fc-b673-47e4-8b83-0e946ce96160",
+  "name": "Carrasco, Timothy",
+  "resolved_employer": "SAISD (San Antonio ISD) / UNAM",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Reported as a part-time teacher for SAISD (San Antonio Independent School District) and UNAM (Universidad Nacional Autonoma de Mexico's San Antonio educational/cultural presence). No distinct personal profile (LinkedIn/bio) could be located to corroborate identity beyond the generic occupation; classification by employer fallback places him in Education. High FEC donation_count (308) is consistent with an active small-dollar donor but no notable ideological/industry PAC affiliations were identified; no lobbyist registration.",
+  "source_url": "https://schools.saisd.net/page/006.teachers",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a8332510-73ba-456f-a34a-b1240c904238",
+  "name": "Escobar, Manuel",
+  "resolved_employer": "Davis Law Firm (The Davis Law Firm), San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Manuel Antonio Escobar is a personal-injury (pre-litigation) attorney at Davis Law Firm in San Antonio since 2018; occupation 'Attorney' and employer 'Davis Law Firm' match exactly. St. Mary's Law JD (2012), Texas State University BFA. This is Manuel Antonio Escobar, distinct from the separately notable Manuel G. Escobar Jr. No notable ideological/industry PAC contributions found; not on Texas or San Antonio lobbyist registries.",
+  "source_url": "https://jeffdavislawfirm.com/attorneys/manuel-escobar/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Trial Lawyers Association (SATLA)", "role": "Member", "category": "business", "source_url": "https://jeffdavislawfirm.com/attorneys/manuel-escobar/", "snippet": "Professional memberships: San Antonio Bar Association (SABA); San Antonio Trial Lawyers Association (SATLA)."}
+  ]
+ },
+ {
+  "donor_id": "a35586cc-71d3-4035-b58f-5c839c6684be",
+  "name": "Muhammad Butt, Irfan",
+  "resolved_employer": "Self-employed (business owner); specific business not confirmed",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Donor listed as self-employed 'Business Owner' at 9006 Eagle Bend, San Antonio 78249. A LinkedIn profile for an 'Irfan Butt' in the San Antonio area (~78257) lists him as a self-employed CEO, consistent with the occupation/employer, but the zip differs and 'Irfan Butt' is a common name, so identity is not firmly corroborated. No specific business name, industry, or public bio could be confirmed; categorized via the generic self-employed occupation. No Texas Ethics Commission or City of San Antonio lobbyist registration found; no FEC/PAC contributions found (input FEC donation_count 0).",
+  "source_url": "https://www.linkedin.com/in/irfan-butt-03569b250/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "93aa769b-b691-45f0-b9e3-a76636c19e46",
+  "name": "Hirschhorn, Eric",
+  "resolved_employer": "Self-employed lawyer/consultant; Senior Adviser (non-resident), CSIS; former U.S. Under Secretary of Commerce for Industry and Security",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Confirmed as Eric L. Hirschhorn, the well-known export-controls attorney. Chevy Chase MD 20815 residence and 'lawyer & consultant/self' occupation match his post-government private practice. He served as U.S. Under Secretary of Commerce for Industry and Security (head of the Bureau of Industry and Security, 2010-2017, under Obama), overseeing dual-use/military-application export controls, anti-boycott compliance, and CFIUS; was in private law practice 1981-2010 (Winston & Strawn and predecessors); and authored The Export Control and Embargo Handbook. Now a non-resident Senior Adviser at CSIS. Bio read in full via CSIS. No Texas or San Antonio lobbyist registration found; no clear personal FEC/PAC contributions surfaced (input FEC donation_count 0).",
+  "source_url": "https://www.csis.org/people/eric-hirschhorn",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Center for Strategic and International Studies (CSIS)", "role": "Senior Adviser (Non-resident), Economics Program & Scholl Chair in International Business", "category": "civic", "source_url": "https://www.csis.org/people/eric-hirschhorn", "snippet": "Senior Adviser (Non-resident), Economics Program and Scholl Chair in International Business at CSIS; served as Under Secretary of Commerce for Industry and Security until 2017."},
+   {"org": "U.S. Department of Commerce, Bureau of Industry and Security", "role": "Under Secretary of Commerce for Industry and Security (2010-2017)", "category": "military_defense", "source_url": "https://learn.commerce.gov/node/11550.html", "snippet": "Led the Bureau of Industry and Security overseeing U.S. export controls for items having commercial and military applications, anti-boycott compliance, and CFIUS participation."},
+   {"org": "Industry Coalition on Technology Transfer (ICOTT)", "role": "Executive Secretary", "category": "business", "source_url": "https://global.oup.com/academic/product/the-export-control-and-embargo-handbook-9780195391510?cc=us&lang=en", "snippet": "Executive Secretary of the Industry Coalition on Technology Transfer (ICOTT), a group whose trade-association and industry participants are affected by U.S. export control and embargo rules."}
+  ]
+ },
+ {
+  "donor_id": "8c10a527-13a3-4738-99b4-15245c6e6713",
+  "name": "Derman, Ayse",
+  "resolved_employer": "Niche / Niche at Pearl (owner & creative director, women's fashion/clothing line), San Antonio",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Confirmed as Ayse Derman, owner/creative director of Niche (Niche at Pearl), a modern women's apparel line and flagship boutique at Pearl in San Antonio, run as a mother-daughter business with designer Nilgun Derman for ~25 years; UT Austin business alum. This matches the input occupation 'Owner' / employer 'Niche' and the true San Antonio 78248 location. Categorized as Retail (apparel design/boutique). No Texas Ethics Commission or City of San Antonio lobbyist registration found. FEC input shows 12 donations with a Democratic lean, but no specific issue-PAC (pro-Israel, oil/gas, gun, or defense) contributions were documented.",
+  "source_url": "https://nicheatpearl.com/pages/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "78d6772c-f3a9-4ab5-8e69-3e78dae194d9",
+  "name": "J. Vale, Theresa",
+  "resolved_employer": "Self-employed / retired (former career not publicly documented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor at 410 Glenview Dr, San Antonio 78228, listed as self-employed/retired. FEC/City-Data records confirm a 'Theresa Vale' at zip 78228 in San Antonio made small political contributions (e.g., a $25 ActBlue donation on 10/17/2019), consistent with the input's 45 FEC donations and Democratic partisan lean. However, no public profile, employer, former career, or bio could be identified to establish an industry, and 'Vale' is common in the area. No Texas or San Antonio lobbyist registration found; no specific issue-PAC affiliations documented beyond generic Democratic-conduit (ActBlue) giving.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part49.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

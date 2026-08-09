@@ -1,0 +1,231 @@
+[
+ {
+  "donor_id": "0441eac8-a7cf-4d3d-9ad6-765c7e05bf19",
+  "name": "Mehat, Inderjit",
+  "resolved_employer": "Owner, Ikonkar Enterprises Inc/LP — San Antonio convenience-store and commercial real estate operator",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "LinkedIn and SA Standard confirm Inderjit Mehat as owner of Ikonkar Enterprises LP, a San Antonio entity that owns retail/gas properties (e.g., purchased 5643 Fredericksburg Rd Shell) and is pursuing a townhome development near the Medical Center; matches 78249 NW SA location and 'Owner' occupation.",
+  "source_url": "https://sanantoniostandard.com/ikonkar-enterprises-lp-purchases-5643-fredericksburg-road-san-antonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "024d2826-e180-4c6b-adf8-55ab8890c02e",
+  "name": "Shakil, Daniel",
+  "resolved_employer": "Self-employed (nature of business not publicly documented); a Daniel Shakil UTSA LinkedIn profile exists but is not confirmably the same person",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Only weak match is a UTSA-affiliated 'Daniel Shakil' LinkedIn profile; no public business record corroborating the 78260 far-north-SA self-employed donor. FEC donation count 0 — no federal PAC record.",
+  "source_url": "https://www.linkedin.com/in/daniel-shakil-ab7235328",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "015d486c-9be9-46f9-9227-634783de7d55",
+  "name": "Lyman, Jordan",
+  "resolved_employer": "Self-employed / business owner (specific business not confirmed); candidate matches include a GoGutter Professionals LLC owner and an IES division manager, neither definitively tied to the Spring Branch 78070 donor",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Multiple distinct 'Jordan Lyman' profiles (GoGutter Professionals LLC; IES division manager in San Antonio; others) — none can be corroborated to the Spring Branch 78070 self-employed donor. FEC donation count 0 — no federal PAC record.",
+  "source_url": "https://www.linkedin.com/in/jordanlyman-mizzou-ceo-2018/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "01037f03-360d-4855-abb0-688895c5ea79",
+  "name": "Butler, Patricia",
+  "resolved_employer": "Real estate agent/Realtor in San Antonio (likely Patricia A. Butler, active SA-area agent); specific brokerage not fully corroborated for the 78230 donor",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Occupation 'Realtor' and 78230 (NW SA) match an active San Antonio real estate agent (Patricia A. Butler on Zillow/HAR listings). Prolific small-dollar Democratic donor (263 FEC contributions, partisan lean 0.88), consistent with an ActBlue-style recurring giver; no issue-PAC (oil/gas, pro-Israel/Palestine, gun, defense) or lobbyist record found. Common name limits certainty on exact brokerage.",
+  "source_url": "https://www.zillow.com/profile/Patricia%20A%20Butler",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "008832cf-3881-4938-b9bf-d833bb935279",
+  "name": "Dias-Sakai, Raquel M.",
+  "resolved_employer": "Retired educator — 32 years in Harlandale ISD (teacher, counselor, academic dean, principal), later Palo Alto College dropout-recovery program director and Providence Catholic School teacher (retired 2018); wife of Bexar County Judge Peter Sakai (retired)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "San Antonio Report profile identifies Raquel 'Rachel' Dias-Sakai, wife of Bexar County Judge Peter Sakai, as a longtime Bexar County educator (UTSA master's in counseling); matches 78212 SA, 'Retired' occupation and strongly Democratic giving (partisan lean 1.0). No lobbyist record.",
+  "source_url": "https://sanantonioreport.org/bexar-county-first-couple-peter-sakai-rachel-dias-sakai/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Merced Housing Texas", "role": "Former board member", "category": "civic", "source_url": "https://sanantonioreport.org/bexar-county-first-couple-peter-sakai-rachel-dias-sakai/", "snippet": "She stepped down from board positions at Merced Housing Texas, a nonprofit focused on affordable housing."},
+   {"org": "TEAMability", "role": "Former board member", "category": "civic", "source_url": "https://sanantonioreport.org/bexar-county-first-couple-peter-sakai-rachel-dias-sakai/", "snippet": "She stepped down from a board position at TEAMability, which provides opportunities for children with disabilities."}
+  ]
+ },
+ {
+  "donor_id": "bf8ef4d2-6452-4eb2-b924-f6a4c90c38af",
+  "name": "Perez, Robert",
+  "resolved_employer": "President, Institute of Process Improvement, Inc. (process/quality-improvement consulting; ISO 9001/AS9100, Lean Six Sigma) — listed as retired",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "San Antonio (78228) donor; occupation 'Institute of Process Improvement / President' matches LinkedIn and CorporationWiki listing for Robert Perez as President of Institute of Process Improvement, Inc. Common surname; an unrelated Robert Perez (attorney, 78212, Shelton & Valadez) appears in a 2010 FEC record and was excluded. 11 prior FEC gifts, Democratic-leaning.",
+  "source_url": "https://www.corporationwiki.com/Texas/Dallas/robert-perez/36900749.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9df644fe-6ebe-4c31-8645-9d77378838ca",
+  "name": "Gibson, Daniel",
+  "resolved_employer": "Software Engineer, Accenture Federal Services",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "San Antonio (78230) donor; occupation/employer 'Software Engineer, Accenture Federal Services' consistent with Accenture Federal's San Antonio Advanced Technology Center. Very common name; no individual FEC/lobbyist/bio profile could be isolated. 83 prior FEC gifts, mixed partisan lean (0.42). Classified by employer.",
+  "source_url": "https://www.accenture.com/us-en/careers/local/federal-careers",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7b6d8f47-3319-4b15-b4a0-aa902326cf91",
+  "name": "Diaz, Ginger",
+  "resolved_employer": "Owner, Feliz Modern / Feliz Modern Pop / Rancho Diaz (San Antonio home-decor, gift & design retail shops)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "5150 Broadway (78209) matches Feliz Modern's Olmos Park/Broadway retail footprint; self-employed owner of Feliz Modern and Rancho Diaz with husband Mario Diaz. LinkedIn confirms owner role. Democratic-leaning (7 FEC gifts); no PAC or lobbyist records found.",
+  "source_url": "https://www.felizmodern.com/pages/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Hispanic Chamber of Commerce", "role": "Co-Chair (per own LinkedIn; exact program/board role not independently corroborated)", "category": "business", "source_url": "https://www.linkedin.com/in/gingerdiaz", "snippet": "LinkedIn profile lists a Co-Chair role at the San Antonio Hispanic Chamber of Commerce"}
+  ]
+ },
+ {
+  "donor_id": "2c1008b5-d554-4723-8b58-34943089f3cf",
+  "name": "Benavidez, Belinda",
+  "resolved_employer": "Director, Estate and Gift Planning, American Cancer Society (Bexar County/South-Central TX territory)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "San Antonio (78240) donor; occupation 'Director, Estate and Gift Planning, American Cancer Society' matches LinkedIn (Belinda Benavidez, MAA) and ACS org listings; prior roles at TMI Episcopal, National MS Society, Alzheimer's Association. Democratic-leaning (7 FEC gifts); no PAC or lobbyist records found.",
+  "source_url": "https://www.linkedin.com/in/belinda-benavidez-maa-79489814",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fef344bf-d3d5-4121-8d6b-5ac78ea63252",
+  "name": "Rodriguez, Rebecca",
+  "resolved_employer": "Marketing Manager, Media & Direct Marketing, Whataburger (corporate HQ, San Antonio)",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "San Antonio (78216) donor; occupation 'Marketing, Whataburger Restaurants' matches LinkedIn for Rebecca Rodriguez, Marketing Manager at Whataburger since 2023 (media budget/DMA strategy). Common name but employer+role+city align. No FEC (0 prior gifts) or lobbyist records; classified by employer (restaurant chain).",
+  "source_url": "https://www.linkedin.com/in/rebecca-rodriguez-31680b3/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d6e07864-21e3-44d7-9b6a-5bf56b36580f",
+  "name": "Esparza, Elva",
+  "resolved_employer": "Bexar County — Justice Court Manager, Justice of the Peace Precinct 1 (career civil-service court administrator, 41+ yrs)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Elva Abundis-Esparza, longtime Bexar County court administrator (Justice Court Manager, JP Pct 1; former Chief Deputy in District Clerk's Office), matches 'Court Manager / Bexar County.' 2026 candidate for Bexar County District Clerk; SA Report bio confirms she is married to Ramon Esparza (same 78222 household). Occupation+employer corroborated.",
+  "source_url": "https://sanantonioreport.org/profile/elva-abundis-esparza-2026-candidate-for-bexar-county-district-clerk/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Bexar County District Clerk race (2026)", "role": "Democratic candidate", "category": "political", "source_url": "https://sanantonioreport.org/profile/elva-abundis-esparza-2026-candidate-for-bexar-county-district-clerk/", "snippet": "2026 candidate for Bexar County District Clerk; listed political affiliation: Democrat."}
+  ]
+ },
+ {
+  "donor_id": "c8894e3f-3089-4d86-8fb0-c86ee495e0e1",
+  "name": "Gonzalez, Claudia",
+  "resolved_employer": "Marketing professional; employers listed as STAAMP Allergy and Silver Ventures (Pearl developer). Likely Claudia Castillo Gonzalez, San Antonio senior marketing leader with Silver Ventures experience, but common-name identity not fully verified.",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Occupation 'Marketing' with employers STAAMP Allergy (healthcare clinic) and Silver Ventures (Pearl real-estate developer), 78213. A LinkedIn 'Claudia Castillo Gonzalez – Senior Marketing Leader' in SA lists Silver Ventures experience, a plausible match. 113 FEC donations / 0.92 lean = prolific Democratic small donor. Industry uncertain between real estate (Silver Ventures) and healthcare (STAAMP); LinkedIn blocked verification.",
+  "source_url": "https://www.linkedin.com/in/claudiacastillogonzalez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "98b5c702-e1bd-4093-8185-b57fe3c53fc9",
+  "name": "Murray, Yvonne",
+  "resolved_employer": "Self-employed / retired",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-described self-employed/retired, San Antonio 78230; 64 FEC donations at 1.0 lean indicate a prolific Democratic small donor. No public professional profile, lobbyist registration, or PAC-relevant records located; prior career not identifiable.",
+  "source_url": "https://nationalpublicdata.com/people/m/yvonne-murray/tx/san-antonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "49a2df0e-679e-48c1-92dd-eba208269220",
+  "name": "Medina, Anita",
+  "resolved_employer": "Litigation Coordinator, San Antonio ISD / VIA Metropolitan Transit",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Litigation Coordinator with employers SAISD and VIA (both public/government entities), Helotes 78023; 49 FEC donations at 1.0 lean. No lobbyist registry match and no PAC-relevant records. Classified via government employer.",
+  "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2025/2025RegisteredLobbyists.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3f30c585-fea2-471a-b13f-4e2963800af0",
+  "name": "Esparza, Ramon",
+  "resolved_employer": "Retired; spouse of Elva Abundis-Esparza (Bexar County court administrator)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, same address as Elva Esparza (6127 Opal Falls, 78222); SA Report bio confirms Elva is 'married to Ramon Esparza,' establishing the household. No prior career or public profile located, so industry cannot be determined.",
+  "source_url": "https://sanantonioreport.org/profile/elva-abundis-esparza-2026-candidate-for-bexar-county-district-clerk/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1a5f5d45-44b8-4056-888b-94de7a1f93a4",
+  "name": "Sandoval, Virginia",
+  "resolved_employer": "USAA (Scrum Master / Release Train Engineer, Agile software delivery)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "USAA IT/Agile-delivery employee in San Antonio (78249, NW side within D8); occupation Scrum Master/Release Train Engineer matches an IT project-delivery role. Common surname, no distinct public profile found beyond generic occupation; 57 prior FEC gifts with ~0.90 Dem lean.",
+  "source_url": "https://builtin.com/job/scrum-master-senior/3329068",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d7c1b2fb-f996-40d2-a83b-6b7b52ffc547",
+  "name": "Taylor, Barbara",
+  "resolved_employer": "UT Health San Antonio — Professor of Infectious Diseases, Assistant Dean for the MD/MPH Program, Founding Director of the Center for Chronic Infectious Diseases; HIV care provider at University Health FFACTS clinic",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Barbara S. Taylor, MD/MS, infectious-disease physician at UT Health San Antonio; occupation 'Physician' + employer 'UT Health San Antonio' match exactly. San Antonio resident (78210). Frequent Democratic donor (92 FEC gifts, lean 1.0), consistent with a public-health academic.",
+  "source_url": "https://directory.uthscsa.edu/academics/profile/taylorb4",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio / Bexar County Health Transition Team", "role": "Chair (COVID-19 pandemic response)", "category": "civic", "source_url": "https://directory.uthscsa.edu/academics/profile/taylorb4", "snippet": "Chair, City of San Antonio/Bexar County Health Transition Team; Co-Chair, San Antonio Metro Health COVID-19 Community Response and Equity Coalition"}
+  ]
+ },
+ {
+  "donor_id": "8d94f0ab-55a2-4c11-b3d7-69b8c6cfefba",
+  "name": "Velasquez-Avila, Carmen",
+  "resolved_employer": "Palo Alto College (Alamo Colleges) — Director of Student Advocacy (Interim)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Carmen Velasquez-Avila is Palo Alto College Director of Student Advocacy; occupation 'Higher Education / Director' + employer 'Palo Alto College' match exactly (78249). Publicly identified as the daughter of the late voter-registration activist Willie Velasquez (family relation, not her own org role).",
+  "source_url": "https://www.alamo.edu/pac/news-events/news/2024/september/palo-alto-college-honors-the-legacy-of-social-activist-icon-willie-velasquez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e645a427-407b-41d6-b0a8-2b1bc5faf235",
+  "name": "Reyna, Elias",
+  "resolved_employer": "Retired / self-employed (former career not identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported retired/self-employed, San Antonio 78201 (near-Westside/Deco District). Very common Bexar County name with multiple public-records matches and no verifiable distinct professional or advocacy profile; former career cannot be identified.",
+  "source_url": "https://www.spokeo.com/Elias-Reyna",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bf52ae2f-06b1-46db-9647-94fe8a2e4937",
+  "name": "Flores, Elizabeth",
+  "resolved_employer": "Self-employed realtor (real estate agent)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Self-employed Realtor in San Antonio (78254, far NW side). Occupation 'Realtor'/'Self Employed' supports Real Estate industry; identity not pinned to a single agent record given the very common name, so no specific brokerage confirmed and no advocacy profile found.",
+  "source_url": "https://www.har.com/elizabeth-flores/agent_ebf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

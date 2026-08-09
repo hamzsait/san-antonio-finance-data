@@ -1,0 +1,237 @@
+[
+  {
+    "donor_id": "8a2d578d-60b0-48fd-a367-035391341731",
+    "name": "Atique, Rashid",
+    "resolved_employer": "Dominion Family Healthcare (Dominion Health), San Antonio — internal medicine physician",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Rashid Atique, MD, board-certified internist practicing at Dominion Family Healthcare in San Antonio (matches donor employer 'Dominion Health' and NW SA zip 78256). Trained in internal medicine at UT Health Science Center San Antonio.",
+    "source_url": "https://dominionfhc.com/index.php/our-providers/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "87af5372-8a45-4300-9c12-3652d5eec443",
+    "name": "Ghafoor, Somia",
+    "resolved_employer": "Self-employed (nature of business not identifiable in public records)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-designated 'self employed' at 78249. Public-records aggregators show a Somia Ghafoor of San Antonio (~age 54) but no business, occupation, LinkedIn, or bio page could be confirmed. No FEC PAC or TX/city lobbyist match. Quiet result.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "87931d4f-941d-451f-8e10-c40780090a51",
+    "name": "Barron, Brian",
+    "resolved_employer": "Retired (former career not confirmable)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, Boerne TX 78015. 'Brian Barron' is common; no single profile could be confirmed as this donor (a LinkedIn chemical-engineering Brian Barron exists but nothing ties it to Boerne/retirement). Parent-supplied FEC lean ~0.91 R-leaning, 2 donations. No TX/city lobbyist registration found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "85404446-d465-49bb-a35b-89125ef2bd88",
+    "name": "Cortes, Sol",
+    "resolved_employer": "Self-employed (nature of business not identifiable in public records)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-designated 'self employed' at 78251. No profile, business, FEC PAC donation, or TX/city lobbyist registration could be confirmed for a Sol Cortes in San Antonio; search hits were unrelated persons. Quiet result.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "841439c0-6154-4c81-b4ac-fa58c2381c62",
+    "name": "Flores, Brenda",
+    "resolved_employer": "Homemaker (self-designated); shares address with Felix Flores of TriStone Homes, a San Antonio homebuilder",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Filed as 'Homemaker/Self' at 3906 Miho, 78223 — same address as Felix Flores, confirmed at TriStone Homes, a San Antonio production homebuilder. Industry reflects the homebuilder household, not personal employment; she personally lists homemaker. Parent-supplied FEC lean 1.0, 28 donations. No lobbyist registration or policy-advocacy affiliation found for her directly.",
+    "source_url": "https://www.builderonline.com/firms/tristone-homes/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "831f6a36-c8b5-4410-be48-2c38bc67d154",
+    "name": "Flores, Felix",
+    "resolved_employer": "TriStone Homes (San Antonio residential homebuilder) — Director of Purchasing and Estimating",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "LinkedIn confirms Felix Flores works at TriStone Homes, San Antonio, TX (UTSA 1998-2000); matches filed occupation of purchasing/estimating at a homebuilder. No FEC or TX/city lobbyist records found.",
+    "source_url": "https://www.linkedin.com/in/felix-flores-304a09a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "TriStone Homes", "role": "Director of Purchasing and Estimating", "category": "business", "source_url": "https://www.linkedin.com/in/felix-flores-304a09a/", "snippet": "Felix Flores - TriStone Homes; San Antonio, Texas; profile shows employment at TriStone Homes, a San Antonio homebuilder (homebuilders interest)."}
+    ]
+  },
+  {
+    "donor_id": "82e36a81-6369-4dbe-8e64-d6a7a90a668c",
+    "name": "Mejia, Zoila",
+    "resolved_employer": "Self-employed realtor (per filing); specific San Antonio person not independently corroborated",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Filing lists Realtor/Self-employed at 78249. Could not confirm a specific Zoila Mejia realtor in San Antonio/TREC; a Zoila Mejia real estate agent found is based in Rahway, NJ. No FEC or TX lobbyist records. Industry taken from self-reported occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8271c4df-403a-4542-a15e-6fa79df7a819",
+    "name": "Benitez, Blanca",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Filing lists only 'self employed' with no occupation/business detail at 8 Cottestmore Ct, 78218. No matching public profile, business/LLC registration, FEC, or TX lobbyist record found for this specific person. Cannot confidently identify.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "822a0261-2ec3-4074-8a9d-0c7f846ecc49",
+    "name": "Herrera, Victoria",
+    "resolved_employer": "Likely associated with The Herrera Law Firm (address of record is the firm); specific role unconfirmed",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Listed address 1800 W Commerce St, 78207 is The Herrera Law Firm (personal-injury firm founded 1983). Victoria is not among the named attorneys (Frank Jr., Javier, Jorge, Laura Tamez), so she is likely staff/family; tie is address-based only. No FEC/OpenSecrets or lobbyist record confirmed for this specific person.",
+    "source_url": "https://www.yelp.com/biz/the-herrera-law-firm-san-antonio-2",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7c68feee-6b2f-44c7-ad0c-d061b5c831cf",
+    "name": "Choudary, Khurshid",
+    "resolved_employer": "Mission Wrecker Service (towing/wrecker, Converse TX) — Manager; family co-owner",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Filing lists Manager at Mission Wrecker (4535 FM 1516 W, Converse 78109). Bexar County property record lists 'Muhammad A Choudary & Choudary A Khurshid' jointly; Muhammad Choudary is a documented owner of Mission Wrecker, tying Khurshid to the towing business as family/co-owner. No FEC or TX lobbyist record for Khurshid.",
+    "source_url": "https://www.facebook.com/missionwrecker/photos/in-2002-present-owners-muhammad-choudary-and-vernon-oliver-bought-mission-wrecke/854452427977995/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Mission Wrecker Service", "role": "Manager / family co-owner", "category": "business", "source_url": "https://www.facebook.com/missionwrecker/photos/in-2002-present-owners-muhammad-choudary-and-vernon-oliver-bought-mission-wrecke/854452427977995/", "snippet": "In 2002 present owners Muhammad Choudary and Vernon Oliver bought Mission Wrecker Service; Bexar property record co-lists Choudary A Khurshid with Muhammad A Choudary."}
+    ]
+  },
+  {
+    "donor_id": "7bb052fb-e7d2-464f-8581-97e8d900221c",
+    "name": "Ellis, Denise",
+    "resolved_employer": "Retired (prior career not identified)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired resident of Fair Oaks Ranch (78015); 'Denise Ellis' is common and no specific individual, prior employer, or public bio could be corroborated on name+zip. Parent-supplied FEC lean ~0.002 (strongly D-leaning), 67 donations. No lobbyist registration or named PAC tie found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "78c22828-6d2b-47d7-8930-848927591f5d",
+    "name": "Aguirre, Barbara",
+    "resolved_employer": "Administrator, Mexican American Civil Rights Institute (MACRI), San Antonio",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "LinkedIn lists Barbara Aguirre as Administrator at the Mexican American Civil Rights Institute, matching the filed employer; MACRI is a San Antonio West Side civil-rights history nonprofit. No lobbyist registration or PAC tie found.",
+    "source_url": "https://www.linkedin.com/in/barbara-aguirre-380a3a275/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Mexican American Civil Rights Institute (MACRI)", "role": "Administrator", "category": "civic", "source_url": "https://www.linkedin.com/in/barbara-aguirre-380a3a275/", "snippet": "Barbara Aguirre - Administrator - Mexican American Civil Rights Institute | LinkedIn"}
+    ]
+  },
+  {
+    "donor_id": "78b656b8-76c5-4f5a-9094-d7ce24a973d0",
+    "name": "Abid Farooq, Malik",
+    "resolved_employer": "Quality Assurance Tester IV at JST (Joint Strategic Technologies), a federal-mission IT services contractor",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Filed employer 'JST' resolves to Joint Strategic Technologies, an SDVOSB federal-mission IT/tech services contractor with San Antonio staff; QA Tester role fits software/tech. Individual's own public bio not independently confirmed on name+zip. No lobbyist/PAC tie found.",
+    "source_url": "https://jstcorp.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7540d583-b1a3-449c-bb37-ff5e266f3f3b",
+    "name": "Gamez, Natalie",
+    "resolved_employer": "Law student, St. Mary's University School of Law; affiliated with family-owned Gamez Law Firm, San Antonio",
+    "industry": "Student",
+    "confidence": "medium",
+    "evidence": "Public records place a Natalie Gamez at 4 Montique Ct, San Antonio 78257; St. Mary's Law and news coverage identify a Natalie Gamez as a St. Mary's law student (expected grad 2026) tied to the San Antonio Gamez legal family (Gamez Law Firm). Filed occupation 'Student' matches. Not herself a registered lobbyist.",
+    "source_url": "https://www.stmarytx.edu/2026/gamez-gift/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Gamez Law Firm", "role": "family firm affiliate (law student)", "category": "business", "source_url": "https://www.thegamezgroup.com/natalie-gamez", "snippet": "Natalie Gamez is part of the San Antonio Gamez family and works with the family Gamez Law Firm while a St. Mary's University law student."}
+    ]
+  },
+  {
+    "donor_id": "73412854-7c16-4b41-bb77-c0f8ad57bb88",
+    "name": "Kuentz, Patricia",
+    "resolved_employer": "Retired (prior career not identified)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired resident of 78230; a 'Ms. Patricia Kuentz' appears on San Antonio Conservation Society membership/donor rolls, and an 'Alan & Patsy Kuentz' (78230) appears in local political-contribution listings, consistent with the same person but not conclusively tied. No lobbyist registration or named PAC affiliation found; prior occupation unconfirmed.",
+    "source_url": "https://www.saconservation.org/wp-content/uploads/2024/11/Society-Yearbook-Membership_Donors.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "San Antonio Conservation Society", "role": "member/donor (listed in yearbook membership rolls)", "category": "civic", "source_url": "https://www.saconservation.org/wp-content/uploads/2024/11/Society-Yearbook-Membership_Donors.pdf", "snippet": "Kuentz, Ms. Patricia listed among San Antonio Conservation Society members/donors."}
+    ]
+  },
+  {
+    "donor_id": "6f3a68a7-a6ab-4ef9-ab83-d41bd0628206",
+    "name": "Barton, Kevin",
+    "resolved_employer": "Pedal the Peaks (Durango, CO bike/cycling retail shop) — co-owner",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Kevin Barton co-owns Pedal the Peaks in Durango with his wife Shirley Gonzales (former San Antonio District 5 councilwoman, from San Antonio); he joined her in SA after a 24-year Air Force career, they married 2011, moved to Durango in 2022. Out-of-state donation consistent with the spouse's SA civic ties.",
+    "source_url": "https://www.ptpdurango.com/our-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Pedal the Peaks", "role": "Co-owner", "category": "business", "source_url": "https://www.ptpdurango.com/our-team", "snippet": "Owners Shirley Gonzales and Kevin Barton... Kevin joined her after completing a 24-year Air Force career... relocated to Colorado in 2022."}
+    ]
+  },
+  {
+    "donor_id": "681c01d3-fe1c-44ef-9469-c34b154a38d1",
+    "name": "Navarro, Nicole",
+    "resolved_employer": "Santana Group / Integrated Human Capital (IHC), a San Antonio staffing & outsourcing firm — Vice President (Nicole Navarro Velesiotis)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "'Santana Consulting' on the check maps to the Santana Group (Rosa Santana's SA family staffing/outsourcing companies). Nicole Navarro Velesiotis is VP of Santana Group/IHC, BA in Communications/PR from UTSA; Olmos Park zip consistent with SA. No FEC PAC-industry or TX/city lobbyist registration found.",
+    "source_url": "https://www.santanagrp.com/nicole-navarro-velesiotis/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Santana Group / Integrated Human Capital", "role": "Vice President", "category": "business", "source_url": "https://www.santanagrp.com/nicole-navarro-velesiotis/", "snippet": "Vice President of Santana Group and Vice President of Integrated Human Capital (IHC)... oversees branch operations for IHC in the United States."},
+      {"org": "Restore Education", "role": "Board member", "category": "civic", "source_url": "https://www.santanagrp.com/nicole-navarro-velesiotis/", "snippet": "She serves on the board of Restore Education and supports various other nonprofits in San Antonio."}
+    ]
+  },
+  {
+    "donor_id": "6258ed24-cb7a-419c-bf01-22b9f9a4f7ba",
+    "name": "Ybarra, Bianca",
+    "resolved_employer": null,
+    "industry": "Student",
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'Student'; no address on check (78201 SA zip only). Common name; no specific individual could be confirmed and no public profile, FEC, or lobbyist record located. Industry reflects only the self-reported label, not a verified identity.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "612fdf9d-5f7d-40d7-b52d-b9489f9503c3",
+    "name": "Deanda, Vivian",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Address 2408 Dorado Dr, 78573 is Mission, TX (Rio Grande Valley), not San Antonio despite the check's city. A Vivian Deanda in Mission is publicly identified as the wife of S. David Deanda Jr., President of Lone Star National Bank; however no business of her own could be documented, so the 'Business Owner/Self-employed' label is unverified. Not confirming an industry.",
+    "source_url": "https://texasborderbusiness.com/integrity-values-relationships-essence-make-lone-star-national-bank-unique-s-david-deanda-jr/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "600b84b0-c831-42d4-977e-7f492c1d893b",
+    "name": "Robinson, Brendon",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "1803 S Presa St is a residential single-family home (4bd/3.5ba with ADU, Southtown) per Redfin/Trulia, likely his residence rather than a business. No occupation/employer given; common name; no specific person, FEC, or lobbyist record confirmed. Industry left null.",
+    "source_url": "https://www.redfin.com/TX/San-Antonio/1803-S-Presa-St-78210/home/48747378",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  }
+]

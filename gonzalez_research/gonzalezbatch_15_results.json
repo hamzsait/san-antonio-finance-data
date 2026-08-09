@@ -1,0 +1,90 @@
+[
+ {
+  "donor_id": "1dbcaa4a-945d-4b0e-b74a-5c596b8bb2a1",
+  "name": "R. Elizondo, William",
+  "resolved_employer": "Self-employed (Dr. William R. Elizondo, OD — optometry)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Provider directories (Doctor.com, Vitals, Healthgrades) list 'Dr. William R. Elizondo, OD,' a self-employed optometrist in San Antonio; middle initial R and 'Self-employed' occupation match, and 78216 is consistent with a San Antonio practice/residence.",
+  "source_url": "https://www.doctor.com/Dr-William-Elizondo",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1c8b0404-c888-4266-adde-0d6eaeaf061a",
+  "name": "Saenz, Mr Rogelio",
+  "resolved_employer": "University of Texas at San Antonio (UTSA)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Rogelio Saenz, PhD, Professor of Sociology & Demography in UTSA's College for Health, Community and Policy; a nationally known Latino demographer. Matches donor occupation (Professor) and employer (UTSA); zip 78210 consistent with San Antonio residence.",
+  "source_url": "https://hcap.utsa.edu/faculty/profiles/saenz-rogelio.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "18aefb91-2fd8-4a8e-b937-24bedd2e6eb0",
+  "name": "Flores, Acenete",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Retired donor at 7514 Greenbelt St, 78251; that exact address matches 'Acenete H. Flores,' former registered agent of Latino Americano Counseling & Education Services (dissolved TX entity), corroborating identity though she now files as Retired.",
+  "source_url": "https://bestcompanytexas.com/w/latino",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1762654d-a802-49ae-aa30-d8d848513f98",
+  "name": "Madrid, Cacie",
+  "resolved_employer": "Onyx Political Affairs",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Director of Policy at Onyx Political Affairs, a San Antonio public-affairs/lobbying firm; role confirmed via LinkedIn/RocketReach and firm social media, matching donor occupation/employer and 78217 zip. Could not confirm a personal TX or City of San Antonio lobbyist registration under her own name.",
+  "source_url": "https://www.linkedin.com/in/cacie-madrid-080a8691",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "16dc8b80-9387-4b4f-9aa9-58479321ef95",
+  "name": "Villarreal, Rey",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired resident at 7403 Tall Cedar, San Antonio 78249; no unique public record confirms this specific Rey Villarreal. Similarly named San Antonio individuals (a 73-year-old 'Rico Villarreal'; an active IT consultant 'Rey Villarreal/RVTech') do not match the retired occupation + address, so identity is uncorroborated.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0922319d-b578-4de3-9d19-736315837db8",
+  "name": "Potter, Michelle",
+  "resolved_employer": "Self-employed (consultant)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Self-employed consultant at 5923 Woodridge Rock, San Antonio 78249 who gave repeatedly Sep 2024–May 2025. Multiple 'Michelle Potter' profiles exist but none is confirmably this consultant at this address; specialty could not be determined. Industry taken from the filed occupation only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "039326f3-bf7c-492d-815a-45a8c5065c2d",
+  "name": "Steele, Ma",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired resident at 13622 Stony Forest Dr, San Antonio 78231 (1985 single-family home; the '13622' zip field is a street-number data artifact). Truncated first name ('Ma') could not be resolved to a specific person; occupation self-reported as retired.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "02c7928f-b7d9-42ea-99da-51645842dcdc",
+  "name": "Alderete, Chris",
+  "resolved_employer": "The Rose Boutique",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Christine ('Chris') Alderete, owner of The Rose Boutique, a San Antonio florist, matching the donor's 'Owner' occupation and 78228 zip. Not the same person as the male Port San Antonio board chair of the same name.",
+  "source_url": "https://www.theroseboutiquesa.com/about_us.php",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]
