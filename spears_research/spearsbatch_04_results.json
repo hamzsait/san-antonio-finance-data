@@ -1,0 +1,240 @@
+[
+  {
+    "donor_id": "91f66327-131a-437e-ba71-e28bb85c5647",
+    "name": "Cerda, Julio",
+    "resolved_employer": "South Texas Infrastructure Group, LLC (president/CEO); engineering, surveying & mapping firm in Mission, TX",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Julio Cerda is a licensed Texas professional (civil) engineer, former City of Mission city engineer and city manager (~10 yrs), who left in 2013 to found South Texas Infrastructure Group; later elected to the Sharyland ISD board of trustees. Matches Mission, TX 78574 address and employer on filing.",
+    "source_url": "https://texasborderbusiness.com/former-mission-city-manager-julio-cerda-wins-school-board-position-2/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Sharyland Independent School District Board of Trustees", "role": "Elected member/trustee", "category": "civic", "source_url": "https://texasborderbusiness.com/former-mission-city-manager-julio-cerda-wins-school-board-position-2/", "snippet": "Former Mission City Manager Julio Cerda won election as a member of the Sharyland ISD board of trustees."}
+    ]
+  },
+  {
+    "donor_id": "91b6676b-1669-4a0d-8225-4f53375efc0c",
+    "name": "Stevens, Maura",
+    "resolved_employer": "Likely associated with The Stevens Group (commercial real estate) — unconfirmed",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Filing lists no occupation/employer. The donation address (1518 Austin Hwy, Ste 12, San Antonio 78218) is the exact office of The Stevens Group, a family-owned commercial real estate firm (managing partner Duke Stevens Jr.). Surname plus exact business-address match suggests a connection, but no public profile confirms Maura Stevens's role, so identity/affiliation is not corroborated.",
+    "source_url": "https://thestevensgroup.net/team.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8ca5b58b-6388-4320-a580-76f8d602992c",
+    "name": "Parks, James (Bob)",
+    "resolved_employer": "Texas Mgt Associates, Inc. (TMA) — San Antonio electronic/avionics manufacturer and DoD subcontractor",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Government-contractor records for Texas Mgt Associates, Inc. list a Robert/James Parks among company officers (VP, Business Development) at the firm named on the filing; TMA is a minority-owned San Antonio electronic/avionics manufacturing and DoD subcontracting company founded 1990. Name and employer match; residential address (78247) is separate from the plant.",
+    "source_url": "https://t-m-a.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "887b9cfb-79bd-4779-9a85-ffd3af7c9bf5",
+    "name": "Corso, Julius",
+    "resolved_employer": "Joeris General Contractors (San Antonio construction firm) per filing; specific role unverified",
+    "industry": "Construction",
+    "confidence": "low",
+    "evidence": "Employer on filing (Joeris) is confirmed as a large San Antonio general-contracting firm, so industry is Construction. No public profile could be found for 'Julius Corso'; note Joeris's actual general counsel is Beth Ballew Ray, so 'GC' likely does not mean general counsel. A Chris Corso works at Joeris (Alamo Heights resident) but is a different, distinctly named person — no family/business tie assumed. Individual's identity/role not independently corroborated.",
+    "source_url": "https://joeris.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "87b68a25-5e9b-478e-bf08-d738e96997bd",
+    "name": "Robertson, James",
+    "resolved_employer": "Americrane Rentals (crane rental/rigging company, Selma TX) — CEO/President",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Jim/James Robertson is CEO & President of Americrane Rentals, 5807 Schertz Pkwy, Selma TX 78154 — matches donor employer, title, and location; ~45 yrs in the crane industry.",
+    "source_url": "https://www.linkedin.com/in/jim-robertson-760420a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7f64805f-b535-458a-bd30-3d84fcc6e79c",
+    "name": "Delmer, Jennifer",
+    "resolved_employer": "Corporate paralegal / contracts administrator at Bavarian Imports, Ltd. (auto dealership, part of Principle Auto group, San Antonio)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Jennifer Delmer listed as a paralegal in San Antonio tied to Principle Auto / Bavarian Imports (a BMW/auto dealer at 8434 Airport Blvd, part of Principle Auto Group); employer and occupation match donor record. No corroborating personal bio beyond directory listings.",
+    "source_url": "https://www.zoominfo.com/p/Jennifer-Delmer/10697971432",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "72e3eaee-c4cf-4fa2-89fb-59bea66a9726",
+    "name": "Lowrey, Brodie",
+    "resolved_employer": "Partner at First American Commercial Property Group (land/commercial real estate brokerage, San Antonio) — land broker for multi-family, single-family, mixed-use development",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "San Antonio native, Partner at First American Commercial Property Group since 2013 (with firm since 2006); UTSA/Texas Tech architecture degrees. Firm/Crexi bios confirm identity, occupation, and location.",
+    "source_url": "https://dirtdealers.com/team-members/brodie-lowrey/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Real Estate Council of San Antonio (RECSA)", "role": "Member", "category": "business", "source_url": "https://www.crexi.com/profile/brodie-lowrey-brodiel", "snippet": "Bio lists membership in The Real Estate Council of San Antonio (RECSA), a local real-estate industry/policy body."},
+      {"org": "Urban Land Institute (ULI)", "role": "Member", "category": "business", "source_url": "https://www.crexi.com/profile/brodie-lowrey-brodiel", "snippet": "Bio lists membership in the Urban Land Institute, a land-use and development organization."},
+      {"org": "Rotary Club of San Antonio", "role": "Member", "category": "civic", "source_url": "https://www.crexi.com/profile/brodie-lowrey-brodiel", "snippet": "Bio lists membership in the Rotary Club of San Antonio; also co-directs a YTAC/ThriveWell charity fishing tournament."}
+    ]
+  },
+  {
+    "donor_id": "6e4f3885-4725-4755-808c-29dc665d0e4f",
+    "name": "Meislin, Kevin",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor record lists occupation and employer as 'Retired' at 15207 Heimer Rd, San Antonio TX 78232. No FEC, lobbyist, LinkedIn, or bio records located to corroborate the specific individual; identity unconfirmed beyond the filing itself.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6d4bbae4-36a6-45cd-aa9d-9b6a70340ff5",
+    "name": "Stone, Robert & Michelle",
+    "resolved_employer": "Retired",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "A retired married couple at 4194 Willow Grove Rd., Dallas, TX 75220. No distinguishing public profile, FEC contributor record, lobbyist registration, or bio page could be tied to this specific couple; 'Robert Stone' and 'Michelle Stone' are extremely common names in Texas and none of the matches (physicians, executives, lawyers) correspond to this address/occupation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6a67f1ba-ced7-4e64-80ed-2153d613b309",
+    "name": "Brand, Roy",
+    "resolved_employer": "Baker Hughes (cyber security)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Self-reported as a cyber security worker at Baker Hughes, living at 26210 Lame Beaver, San Antonio, TX 78260. No independent LinkedIn/firm bio, FEC contributor record, or Texas lobbyist registration could be located to corroborate the specific individual; classified by his own stated role (cyber security employee) rather than by employer sector.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6a1ffa2e-5235-4750-824a-904a52b4d9c0",
+    "name": "Dorazio, Monica",
+    "resolved_employer": "Dorazio Enterprises, Inc. (co-founder, retired)",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Retired, at 143 Tower Dr., San Antonio, TX 78232. The uncommon surname plus first name matches Monica Dorazio, wife of Texas State Rep. Mark Dorazio (R-District 122, San Antonio); per his official bio the couple co-founded and grew the civil-construction firm Dorazio Enterprises over ~40 years. Address not independently confirmed, so identity is probable but not certain. No FEC PAC record or Texas lobbyist registration found under her name.",
+    "source_url": "https://markdorazio.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Dorazio Enterprises, Inc.", "role": "Co-founder/co-owner (retired)", "category": "business", "source_url": "https://markdorazio.com/about/", "snippet": "Mark met Monica in El Paso... they opened their own construction company, Dorazio Enterprises, Inc.... Mark and Monica have grown their business responsibly as a debt-free corporation."}
+    ]
+  },
+  {
+    "donor_id": "68308052-fa50-432f-b78d-4daebc2100de",
+    "name": "Fry, Steven",
+    "resolved_employer": "Real estate (self-reported)",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'Real Estate' at 202 Tuttle Rd., San Antonio, TX 78209 (Alamo Heights area). No specific agent/broker profile, FEC contributor record, or Texas lobbyist registration could be tied to this individual; the only 'Steve Fry' realtor match found is based in El Dorado Hills, CA and is a different person.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "662cc40e-b115-4547-8c4f-7e90924ffe28",
+    "name": "Rajunov, Fermin",
+    "resolved_employer": "Cultiva Financial (founder/president) - a San Antonio business-finance firm (factoring, asset-based loans, equipment leasing); also active in South Side real estate development",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Fermin Rajunov, San Antonio, is founder/president of Cultiva Financial (business finance for SMBs), confirmed via LinkedIn/Crunchbase and a San Antonio Report story where he sued the City and Toyota over a rejected multifamily rezoning of his 34-acre South Side tract.",
+    "source_url": "https://sanantonioreport.org/landowner-sues-city-and-toyota-over-restrictive-zoning-agreement/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Cultiva Financial", "role": "Founder/President", "category": "business", "source_url": "https://www.crunchbase.com/organization/cultiva-financial", "snippet": "Cultiva Financial was founded in 2010 by Fermin Rajunov, a San Antonio business-finance company for small and medium-sized businesses."},
+      {"org": "City of San Antonio (land-use / zoning litigation)", "role": "Plaintiff/landowner-developer", "category": "civic", "source_url": "https://sanantonioreport.org/landowner-sues-city-and-toyota-over-restrictive-zoning-agreement/", "snippet": "Rajunov sued the City and Toyota after officials rejected his rezoning request, arguing the Starbright Agreement gives Toyota improper veto power over development - a public land-use/policy dispute."}
+    ]
+  },
+  {
+    "donor_id": "636af8ea-6ac0-460e-8712-84d6e9708683",
+    "name": "Family Partners LLC, Sykes",
+    "resolved_employer": "Sykes Family Partners LLC - a family real estate holding entity registered at a residence at 111 Parklane Dr, Olmos Park (San Antonio) 78212",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Entity, not an individual. Address 111 Parklane Dr is a residence in Olmos Park; occupation/employer listed as Real Estate. San Antonio has a real-estate Sykes family (e.g., James Sykes of Sykes Co. and Mellick Sykes, both tied to Real Estate Council of San Antonio), but public records did not let me definitively confirm which Sykes principal controls this specific LLC.",
+    "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/james-sykes/d8kxn0lb",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "63202b88-5c53-4c4b-853f-70c7310261ac",
+    "name": "PAC, USAA Employee",
+    "resolved_employer": "United Services Automobile Association (USAA) Employee PAC - corporate employee PAC of USAA, the San Antonio insurance/financial-services company (FEC Committee ID C00164145)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "This is an entity/PAC, not an individual. USAA Employee PAC (FEC C00164145), registered 1982, is a voluntary, non-partisan corporate employee PAC at 9800 Fredericksburg Rd, San Antonio 78288; USAA is a San Antonio insurance/financial-services firm.",
+    "source_url": "https://www.fec.gov/data/committee/C00164145/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "USAA (United Services Automobile Association)", "role": "Corporate employee PAC", "category": "business", "source_url": "https://www.fec.gov/data/committee/C00164145/", "snippet": "USAA Employee PAC is a voluntary, non-profit, non-partisan corporate employee PAC of USAA, the San Antonio insurance/financial-services company; qualified Lobbyist/Registrant PAC registered with the FEC since 1982."}
+    ]
+  },
+  {
+    "donor_id": "5dc23a90-4122-4f9d-82da-e8a5d8d82881",
+    "name": "Newton, Karen",
+    "resolved_employer": "Self-employed (no specific business identified); prominent Republican political volunteer/organizer",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Karen Newton of San Antonio, TX is 1st Vice President of the National Federation of Republican Women (2026), former President of the Texas Federation of Republican Women, NFRW Reagan Award recipient, and active in Bexar County Republican Women / RPBC finance events - a strong match for a self-employed 78209 San Antonio donor.",
+    "source_url": "https://www.nfrw.org/newton",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "National Federation of Republican Women (NFRW)", "role": "1st Vice President (2026); former 2nd VP; former Program/Campaign committee chair", "category": "political", "source_url": "https://www.nfrw.org/newton", "snippet": "Karen Newton of San Antonio took office as NFRW 1st Vice President in January 2026 and is a past President of the Texas Federation of Republican Women."},
+      {"org": "Bexar County Republican Women / Republican Party of Bexar County", "role": "Member / finance-event organizer", "category": "political", "source_url": "https://bexargopwomen.org/", "snippet": "Karen Newton is tied to San Antonio Republican Women activities and listed as a contact (FinanceEvents@BexarGOP.org) for a Republican Party of Bexar County fundraiser."}
+    ]
+  },
+  {
+    "donor_id": "5bd9a073-b2c8-4f39-b482-358c7248c1e0",
+    "name": "Kovaric, James",
+    "resolved_employer": "Retired (no employer of record)",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "James R. Kovaric jointly owns 5904 Northern Dancer Dr, Austin TX 78746 with Janet G. Kovaric per Travis County property/tax records; listed as retired. No public political, lobbyist, or advocacy record found.",
+    "source_url": "https://www.city-data.com/austin-properties/N/Northern-Dancer-Drive-1.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "58cb01ba-58db-4b07-a29b-ba5d4d92572e",
+    "name": "LLC, Ross Properties",
+    "resolved_employer": "Real estate entity; PO Box 28490, San Antonio TX 78228 matches Bob Ross Realty (2121 Bandera Rd), owner Bob Ross / president Marc Ross, which also operates under 'Alamo Properties' and related names",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "The donor's mailing address (PO Box 28490, San Antonio TX 78228) is the exact address of Bob Ross Realty per its BBB profile, a long-running San Antonio real estate/property-management firm (Bob Ross, owner; Marc Ross, president). Exact 'Ross Properties LLC' name not independently confirmed in TX SOS, so tie is by address match.",
+    "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/real-estate/bob-ross-realty-0825-18048",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bob Ross Realty (real estate / property management)", "role": "Real estate entity at shared PO Box 28490", "category": "business", "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/real-estate/bob-ross-realty-0825-18048", "snippet": "BBB lists PO Box 28490, San Antonio, TX 78228-0490; owner Bob Ross, president Marc Ross; industry Real Estate; alternate names include Alamo Properties."}
+    ]
+  },
+  {
+    "donor_id": "51fc136f-8650-40a0-b68b-65650066458b",
+    "name": "Kovaric, Janet",
+    "resolved_employer": "Retired",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Janet G. Kovaric is joint owner of 5904 Northern Dancer Dr, Austin TX 78746 with James R. Kovaric per Travis County property/tax records (corroborating the shared address as a household); listed as retired. No public political, lobbyist, or advocacy record found.",
+    "source_url": "https://www.city-data.com/austin-properties/N/Northern-Dancer-Drive-1.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5003ac92-43c4-4fe5-abf1-ee10542757f8",
+    "name": "Moe, Ryan",
+    "resolved_employer": "Founder/managing attorney, The Law Office of Ryan C. Moe, PLLC, San Antonio (estate planning, elder law, guardianship, probate, family law)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Ryan C. Moe, San Antonio attorney (Texas bar 2004, St. Mary's Univ. School of Law JD), founded his firm in 2005 at 613 NW Loop 410; identity matches donor address/occupation. Memberships are professional (bar sections, NAELA, Texas Bar Foundation Fellow), not policy-advocacy orgs. No FEC contribution or lobbyist record found.",
+    "source_url": "https://www.sanantonio-law.com/attorneys/ryan-c-moe",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

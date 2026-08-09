@@ -229,6 +229,7 @@ OFFICE_OVERRIDE = {
     'castillo': 'San Antonio City Council · District 5',
     'gavito': 'San Antonio City Council · District 7',
     'gonzalez': 'San Antonio City Council · District 8',
+    'spears': 'San Antonio City Council · District 9',
     'shaikh': 'San Antonio City Council · 2025 District 8 Candidate',
 }
 
@@ -256,6 +257,7 @@ RECIPIENT_ALIASES = {
     'castillo':       {'Teri Castillo'},
     'gavito':         {'Marina Gavito'},
     'gonzalez':       {'Ivalis Gonzalez'},
+    'spears':         {'Misty Spears'},
     'shaikh':         {'Sakib Shaikh'},
 }
 

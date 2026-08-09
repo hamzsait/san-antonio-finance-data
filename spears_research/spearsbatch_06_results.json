@@ -1,0 +1,232 @@
+[
+  {
+    "donor_id": "f1650855-ddd7-4b6b-931f-1c95f34d93fc",
+    "name": "Boone, Aileen",
+    "resolved_employer": "Self-employed nurse",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Campaign filing lists her as a self-employed nurse at 12807 Terrace Pass, San Antonio 78259. No independent public profile (LinkedIn, licensing, news) could be located to corroborate the specific person beyond the filing; industry assigned by occupation fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8a4d0272-ed43-44af-a207-a0df145deec8",
+    "name": "Nichol, Christine",
+    "resolved_employer": "Retired (former career not identified); President, San Antonio Republican Women",
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Christine Nichol at 414 Lazy Bluff, San Antonio 78216 is listed as President of San Antonio Republican Women; address and role corroborate the donor. Retired, prior career not identified. Active federal donor (135 FEC gifts, GOP lean) but no tracked-category PAC ties surfaced.",
+    "source_url": "https://www.sarwclub.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Republican Women", "role": "President (2026)", "category": "political", "source_url": "https://www.sarwclub.com/", "snippet": "2026 officer roster on the club site lists 'President: Christine Nichol'; SARW is a Republican political club operating a general-purpose PAC."}
+    ]
+  },
+  {
+    "donor_id": "057df468-91a0-4f86-b898-59ec5a910d4c",
+    "name": "Cacace, Ray",
+    "resolved_employer": "Endeavors (Human Resources) — San Antonio veteran/human-services nonprofit",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Ray Cacace's LinkedIn identifies him as working in HR at Endeavors, matching the filing's employer 'Endeavors' and occupation 'HR'; Endeavors is a San Antonio-based veteran/human-services nonprofit. No lobbyist or tracked-PAC ties found.",
+    "source_url": "https://www.linkedin.com/in/raycacace",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fa01dda6-01db-41df-baaa-d3ade15f7860",
+    "name": "Haas, Lawrence",
+    "resolved_employer": "Retired (former career not identified)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retiree at 3806 Balentine, San Antonio 78257 (Dominion area). Multiple unrelated Lawrence Haas individuals appear nationally; none could be confidently tied to this address/former career. Only 5 FEC gifts and no tracked-category PAC or lobbyist ties surfaced.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f018c417-2ba1-4d97-b513-2d5eb3799f74",
+    "name": "Berlanga, Ed & Jack",
+    "resolved_employer": "Texas Homes (San Antonio homebuilder / residential real-estate development); Ed Berlanga is CEO/President and his son Jack Berlanga, CPA, is CFO/Controller",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Joint donation from Ed Berlanga, CEO/President of Texas Homes, a San Antonio homebuilder, and his son Jack Berlanga, CPA, who serves as CFO/Controller there; matches the 'CEO / Texas Homes' occupation/employer in the record. TEC lobbyist hit for 'Berlanga' is a different person (Hugo Berlanga, Corpus Christi).",
+    "source_url": "https://www.linkedin.com/in/ed-berlanga-b324902a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e94821ea-fa61-4978-a08e-ba86d3745c34",
+    "name": "Keen, Crystal",
+    "resolved_employer": "Solventum (3M health-care spinoff) — registered nurse",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Record lists a registered nurse employed by Solventum (the 3M health-care spinoff) at a Stone Oak 78258 address; no independent public profile located to corroborate this specific individual, so classification rests on the employer/occupation fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6305399a-70e1-4d30-a092-958aef728fd5",
+    "name": "Bigley, Michael",
+    "resolved_employer": "Excel Benefits, Inc. — President and Founder (employee-benefits / insurance brokerage, founded 1991)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Michael Bigley is President and Founder of Excel Benefits, Inc., a San Antonio employee-benefits/insurance brokerage he founded in 1991; matches the 'Principal / Excel Benefits, Inc.' record and the 9100 W. IH-10 address.",
+    "source_url": "https://getexcelbenefits.com/about-us-2/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "57ea80ae-994e-4055-b1b6-e2ad61731cf0",
+    "name": "Crowther, Alan",
+    "resolved_employer": "Exclusive Vein Care — solo physician (vein/vascular care), self-employed",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Alan P. Crowther, MD (Baylor College of Medicine), runs Exclusive Vein Care, a solo vein/vascular practice at 20079 Stone Oak Pkwy, San Antonio 78258 — exact match to the record's address and 'Doctor / Self' occupation/employer.",
+    "source_url": "https://exclusiveveincare.com/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "51f5a1c3-b528-4257-95cc-d749d1a3690a",
+    "name": "Hastings, Patricia",
+    "resolved_employer": "Self-employed consultant (retired) — specific individual not confirmed",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Campaign filing lists occupation 'Consultant/Retired,' employer 'Self employed,' 78258 (Wilderness Oak, far north SA). Multiple distinct Patricia Hastings exist (an ER physician Patricia R. Hastings DO in SA; a Houston-based jury consultant Patricia A. Hastings PhD at 77070 — neither matches 78258/retired). Could not corroborate the specific 78258 person; classified by stated occupation only. FEC PAC and TX lobbyist searches run with no confirmable match.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "509ac46c-8e33-4dd4-9fd1-58e10c2d335c",
+    "name": "Hasslocher, Robert",
+    "resolved_employer": "Retired; likely a member of the Hasslocher family of Frontier Enterprises / Jim's Restaurants (San Antonio)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Rare surname + 78209 (Alamo Heights/Terrell Hills) + retired matches the Hasslocher family that founded Jim's Restaurants/Frontier Enterprises; founder G. 'Jim' Hasslocher's obituary lists a son 'Bobby' (Robert) Hasslocher. Family members are documented GOP donors, consistent with the conservative pool. Direct primary-source confirmation that this specific Robert worked in the family business was not found (a separate LinkedIn 'Robert Hasslocher' is tied to San Antonio Federal Credit Union), so identity is medium, not high. No TX lobbyist registration.",
+    "source_url": "https://www.legacy.com/us/obituaries/houstonchronicle/name/g-hasslocher-obituary?id=7125531",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "32aa840c-ae9f-46f1-9658-63b93670a308",
+    "name": "Wayman, Denise",
+    "resolved_employer": "Northeast ISD (NEISD) — retired teacher",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Campaign filing gives occupation 'Retired Teacher,' employer 'Northeast ISD (NEISD),' 78259 (far north SA, within NEISD boundaries) — internally consistent. No further public profile, FEC PAC record, or lobbyist registration found; a quiet categorize-by-employer result. Industry from stated former career.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "30b82d26-e71a-4022-ade1-bc9837d34158",
+    "name": "de los Santos, Hugo Xavier",
+    "resolved_employer": "Hugo Xavier de los Santos, Attorney at Law & CPA (solo firm), 900 Vance Jackson Rd, San Antonio TX 78201",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Fully corroborated: solo attorney and CPA at 900 Vance Jackson Rd, 78201 — the exact filing address. Martindale bio: Trinity University B.S. 1980, Harvard J.D. 1983, Texas bar 1984; litigation/appeals, PI, business, real estate practice. Pipeline FEC data flags Democratic-leaning federal giving, but no single citable PAC donation was located to source it, so no political affiliation asserted. No TX/city lobbyist registration found.",
+    "source_url": "https://www.martindale.com/attorney/mr-hugo-xavier-de-los-santos-1701869/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1a38eda4-8c17-43db-a1da-93a623b89cb9",
+    "name": "Rivera, Andrew",
+    "resolved_employer": "SentrySix International LLC (private security officer) and Rivera Notary Services (self-employed mobile notary), New Braunfels TX",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "New Braunfels (78130) donor whose occupations (Private Security + Notary) match SentrySix International LLC, a veteran-owned TX private-security firm (Spring Branch HQ) serving New Braunfels, and 'Rivera Notary Services'/'Andrew's Mobile Notary' in New Braunfels. No large public profile; recurring small-dollar giving pattern (71 FEC records) consistent with an individual small donor.",
+    "source_url": "https://sentrysix.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1909cca7-1cdd-49d0-9aae-62f09c3a8cda",
+    "name": "Duncan, Margaret",
+    "resolved_employer": "T-Mobile (Southeast Regional Executive for State Government Strategy / T-Mobile for Government), Nashville TN",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Nashville (37204) 'Executive' donor whose employer string 'T-Mobile for Government/T-Mobile' matches Margaret (Maggi McLean) Duncan, T-Mobile's Southeast Regional Executive for State Government Strategy in Nashville, covering government affairs across ~11 states; prior law-enforcement/association-management background. No TX lobbyist registration found; role is telecom public-sector government relations, not a tracked policy-spectrum affiliation.",
+    "source_url": "https://www.linkedin.com/in/maggi-mclean-duncan-2163516/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0f22985b-e551-4dfe-b258-63508834ae25",
+    "name": "Peterson, Joyce",
+    "resolved_employer": "Joyce Peterson Properties, LLC — real estate agent/broker, San Antonio (retired/semi-retired)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Donor lists 'Retired' with no employer, but the exact donor address (22814 Citron Circle, San Antonio 78260) matches real-estate agent/broker Joyce Peterson of Joyce Peterson Properties, LLC (BS, Texas Lutheran University). Former/winding-down career is residential real estate; no other public policy footprint.",
+    "source_url": "https://www.zoominfo.com/p/Joyce-Peterson/13852263350",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d0f1d230-1221-41e2-8612-8a9154a43eb2",
+    "name": "Wilson Jr, Welcome",
+    "resolved_employer": "Welcome Group, LLC — President & CEO (industrial/commercial real estate development), Houston",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Confirmed as Welcome W. Wilson Jr., President & CEO of Welcome Group LLC (single-tenant industrial real-estate developer, HQ 515 Post Oak Blvd, Houston 77027) — exact name, title, employer, and address match. Houston civic leader; son of developer Welcome Wilson Sr. No oil/gas, defense, gun, or Israel/Palestine policy roles found.",
+    "source_url": "https://en.wikipedia.org/wiki/Welcome_W._Wilson_Jr.",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Welcome Group, LLC", "role": "President & CEO", "category": "business", "source_url": "https://www.welcomegroup.com/welcome-wilson-jr", "snippet": "President and CEO of Welcome Group LLC, a commercial/industrial real estate development firm with over 9 million sq ft across Texas and the Southeastern US."},
+      {"org": "University of Houston System Board of Regents", "role": "Vice Chair (former, gubernatorial appointment)", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Welcome_W._Wilson_Jr.", "snippet": "Served as Vice Chair of the University of Houston System Board of Regents (a gubernatorial appointment)."},
+      {"org": "Texas Higher Education Coordinating Board", "role": "Member, appointed 2018 by Gov. Greg Abbott", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Welcome_W._Wilson_Jr.", "snippet": "Appointed in 2018 by Governor Greg Abbott to the Texas Higher Education Coordinating Board."}
+    ]
+  },
+  {
+    "donor_id": "5d44f31d-5d7e-43b3-ad02-4a2b3ae8597e",
+    "name": "Parks, Bob",
+    "resolved_employer": "Texas Mgt Associates, Inc. (TMA) — VP, Business Development / company officer; certified small minority-owned San Antonio electronic/avionics manufacturer and DoD subcontractor",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "Employer string matches exactly; public sources identify Robert 'Bob' Parks as VP of Business Development at Texas Management Associates, a San Antonio avionics/electronics firm and active DoD subcontractor. Donor address (Tavern Oaks, 78247) is residential; firm is at 78245.",
+    "source_url": "https://t-m-a.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": [
+      {"org": "Texas Mgt Associates, Inc. (TMA)", "role": "Vice President, Business Development / company officer", "category": "military_defense", "source_url": "https://t-m-a.com/", "snippet": "TMA is a certified small minority-owned business and an active military and U.S. Department of Defense (DoD) sub-contractor specializing in design/manufacture of electronic aerospace (avionics) products; Robert Parks is identified as VP, Business Development."}
+    ]
+  },
+  {
+    "donor_id": "fdc31a3e-ee6e-458c-b92d-e89e43a74218",
+    "name": "Van Servellen, Esther",
+    "resolved_employer": "Bexar County — Executive Assistant",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "LinkedIn and ZoomInfo confirm Esther van Servellen as an Executive Assistant at Bexar County (bexar.org email), matching the donor's occupation and employer; San Antonio 78248 residence.",
+    "source_url": "https://www.linkedin.com/in/esther-van-servellen-a095636/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f16642a9-0bce-4807-a68c-7b7f9624de63",
+    "name": "Behnke, Bill & Debbie",
+    "resolved_employer": "The Behnke Group, LLC — CEO/Founder; San Antonio healthcare-focused management/sales consulting firm",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "The Behnke Group is registered at 1 Charterwood, San Antonio, TX 78248 — an exact match to the donor address. Bill Behnke founded the firm (2005) and is CEO; it provides sales/business-development consulting to healthcare companies.",
+    "source_url": "https://behnkegroup.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f07071c5-6bb1-4f1e-95d7-606cf76d685a",
+    "name": "fishman, daniel",
+    "resolved_employer": "Choose to Succeed — CEO (San Antonio education-philanthropy / charter-school-growth nonprofit); resides in Pasadena, CA",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Full bio read confirms Dan (Daniel) Fishman is CEO of Choose to Succeed (San Antonio), previously SVP for Growth at IDEA Public Schools and Director of K-12 Education at The Philanthropy Roundtable; also sits on Blueprint / charter-school-development boards. Occupation ('Education'/Choose to Succeed) matches; Pasadena address consistent with his California charter ties.",
+    "source_url": "https://blueprintfutures.org/board_members/dan-fishman/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Choose to Succeed", "role": "CEO", "category": "political", "source_url": "https://blueprintfutures.org/board_members/dan-fishman/", "snippet": "Dan Fishman is CEO of Choose to Succeed, a San Antonio movement to expand high-performing charter schools; formerly SVP for Growth at IDEA Public Schools and Director of the K-12 Education program at The Philanthropy Roundtable — leadership in the school-choice/charter-expansion policy space."}
+    ]
+  }
+]

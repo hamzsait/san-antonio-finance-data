@@ -1,0 +1,247 @@
+[
+  {
+    "donor_id": "3f5d974c-6d46-4124-a1df-db614a53153f",
+    "name": "Wentworth, Sen. Jeffrey & Karla",
+    "resolved_employer": "Retired (former Republican Texas State Senator, District 25 1997-2013 and District 26 1993-1997; former Texas House member 1989-1993; attorney)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Earl Jeffrey Wentworth, Republican former Texas State Senator from San Antonio and attorney, retired, in affluent 78209. FEC record shows a Jeffrey Wentworth (78209) gave $100 to Trump Make America Great Again Committee (2016), consistent with donor record (fec_donation_count 7). Identity confirmed via Wikipedia/Ballotpedia and San Antonio location. (retired)",
+    "source_url": "https://en.wikipedia.org/wiki/Jeff_Wentworth",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Republican Party / Texas Senate", "role": "Former Republican Texas State Senator (District 25, 1997-2013) and Texas House member", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Jeff_Wentworth", "snippet": "Earl Jeffrey Wentworth is a Republican former member of the Texas Senate from San Antonio, representing District 25 from January 1997 to January 2013."},
+      {"org": "Trump Make America Great Again Committee", "role": "Individual donor ($100, 2016)", "category": "political", "source_url": "https://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part63.html", "snippet": "Jeffrey Wentworth (San Antonio, 78209) contributed $100 to Trump Make America Great Again Committee on 07/12/2016."}
+    ]
+  },
+  {
+    "donor_id": "2f2fde0b-1f80-4e7f-8062-a0fe89b00c6f",
+    "name": "Clark, Randy",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, 18919 Redriver Trail, San Antonio, TX 78259. 'Randy Clark' is an extremely common name; despite 46 FEC donations attributed to the donor record, no specific individual contribution set could be reliably matched to this person at 78259 versus the many other Randy Clarks in Texas. No distinguishing public bio, obituary, or professional profile could be tied to this address. Ran FEC PAC search (no ideological PAC confirmed for this individual), TEC/City of SA lobbyist search (no match), and bio search (only unrelated same-name profiles). Quiet result; former career not identifiable.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "19d1fa54-f175-4132-ad65-766e9864d685",
+    "name": "Lamerson, Nettie",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, 118 Lantana Way, San Antonio, TX 78258 (age ~73 per people-aggregators). Aggregator records list a former field only as generic 'Production Occupations' (a Census category), too vague to map to a taxonomy industry with confidence. Small-dollar political giving in 2024 plus the $200 to Spears (5/9/2025) but no ideological/PAC pattern identified. Ran FEC PAC search (no United Democracy Project/J Street/oil-gas/gun/defense/ideological PAC found), TEC/City of SA lobbyist search (not registered), and bio search (no professional or advocacy profile). Quiet result.",
+    "source_url": "https://www.officialusa.com/names/Nettie-Lamerson/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "13bcad62-80d1-4f77-8999-e2de2d3a3723",
+    "name": "Nealon, Linda",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired, 216 Majestic Grove, San Antonio, TX 78258. Only 1 FEC donation on record. Multiple 'Linda Nealon' entries nationally (some with prior business-intelligence/consulting roles, but none confirmable to this San Antonio address). Could not distinguish this individual from same-name others, so former career not established. Ran FEC PAC search (no ideological PAC confirmed for this person), TEC/City of SA lobbyist search (no match), and bio search (no address-verified professional profile). Quiet result.",
+    "source_url": "https://radaris.com/p/Linda/Nealon/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "db8d3457-8698-4f04-bba8-207edbfbf11e",
+    "name": "Norton-Keidel, Julia",
+    "resolved_employer": "Retired (likely former CPA/accountant)",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Retired, 218 Stanford Dr, San Antonio, TX 78212 (Monte Vista/Alamo Heights area). Prolific donor (300 FEC donations on record). An FEC individual-contribution record naming 'Julia Norton-Keidel, retired, 78212' shows a $100 contribution to the Senate Conservatives Fund (a conservative PAC) on 10/14/2020 — identity corroborated by matching zip and retired status. A separate prabook profile for 'Julia Carolyn Norton' (b. 1943, San Antonio) describes a CPA/Certified Financial Planner career at Carneiro, Chumney & Company L.C.; this is a plausible but UNCONFIRMED match (surname differs), hence Finance at low confidence. Ran FEC PAC search (conservative PAC giving; no pro-Israel/Palestine/gun/oil PAC identified), TEC/City of SA lobbyist search (not registered), and bio search (prabook accountant profile, unconfirmed link).",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Senate Conservatives Fund", "role": "Individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/", "snippet": "FEC individual-contribution record: Julia Norton-Keidel, retired, San Antonio 78212, $100 contribution to the Senate Conservatives Fund (a conservative PAC) on 10/14/2020."}
+    ]
+  },
+  {
+    "donor_id": "e92bea4f-3dc2-49a4-a447-794d390fce3b",
+    "name": "Nelson, Curtis & Linda",
+    "resolved_employer": "Independent Bankers Association (Curtis Nelson; banking trade group, now retired)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Retired couple, 15258 Oak Spring, San Antonio, TX 78232 (Curtis H. Nelson ~age 70; Linda Nelson at same address per public records). An FEC individual-contribution record names Curtis Nelson, San Antonio 78232, giving $216 to the Republican Party of Texas on 5/24/2012, employer 'Independent Bankers Assn/Sales' — banking/finance trade association; classified Finance (retired). Identity corroborated by matching zip and name. 79 FEC donations on donor record. Ran FEC PAC search (Republican party/committee giving; no pro-Israel/Palestine, gun, oil-gas, or defense ideological PAC identified), TEC/City of SA lobbyist search (not registered), and bio search (no additional professional profile).",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Republican Party of Texas", "role": "Individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/", "snippet": "FEC individual-contribution record: Curtis Nelson, San Antonio 78232, $216 to the Republican Party of Texas on 5/24/2012; employer 'Independent Bankers Assn/Sales.'"}
+    ]
+  },
+  {
+    "donor_id": "c85830fa-c45f-4740-8a3f-057c9ec01889",
+    "name": "Rojas, Monica",
+    "resolved_employer": "Self-employed government-relations / public-affairs consultant (specific individual not confirmed in public records)",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Donor record lists occupation 'Government Relations, Consultant' and employer 'Self' at 14003 Big Tree Dr, San Antonio 78247. Multiple unrelated same-named individuals exist; the California-based Rojas Public Affairs / Rojas Communications Group (led by Jaime Rojas) is not this donor. No public bio, TEC state-lobbyist, or City of San Antonio lobbyist registration could be confidently matched. Industry classified from the stated occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "629310eb-76f2-441c-802e-f44b6324c219",
+    "name": "Bigley, Michael",
+    "resolved_employer": "Excel Benefits, Inc. (President & Founder)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Confirmed as President & Founder of Excel Benefits, Inc., an independent employee-benefits/insurance brokerage at 901 NE Loop 410 Ste 415, San Antonio, TX 78209 (exact address/zip match) via company site and LinkedIn/ZoomInfo; ~30 years brokering group health/ancillary insurance. Insurance brokerage classified as Finance. High FEC donation count (258) indicates an active federal donor, but specific committee/PAC breakdown could not be retrieved (FEC API rate-limited); no ideological PAC (AIPAC/J Street/oil-gas/gun/defense) contribution confirmed. TX Ethics lobbyist registry search returned no registration.",
+    "source_url": "https://getexcelbenefits.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Excel Benefits, Inc.", "role": "President & Founder", "category": "business", "source_url": "https://getexcelbenefits.com/", "snippet": "President & Founder of Excel Benefits, an independent San Antonio insurance agency offering medical, dental, life/AD&D, and disability group benefits to businesses for ~30 years."}
+    ]
+  },
+  {
+    "donor_id": "41542619-0673-4f2f-9ba6-ce04a856e556",
+    "name": "Flores, Lorraine",
+    "resolved_employer": "The NRP Group LLC (Office Manager / Executive Assistant)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Confirmed as Office Manager & Executive Assistant at The NRP Group LLC (San Antonio), a major national multifamily/apartment developer, via ZoomInfo and LinkedIn business records; matches donor occupation 'Office Manager' and employer 'NRP Group'. She is administrative staff, not company leadership. FEC/OpenSecrets individual-contributor and TX Ethics lobbyist searches returned no ideological-PAC contributions or lobbyist registration. No personal public bio beyond employment.",
+    "source_url": "https://www.zoominfo.com/p/Lorraine-Flores/1692186145",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "The NRP Group LLC", "role": "Office Manager / Executive Assistant", "category": "business", "source_url": "https://www.zoominfo.com/p/Lorraine-Flores/1692186145", "snippet": "Office Manager and Executive Assistant at NRP Group, an integrated multifamily development/construction/management company and a leading affordable-housing developer with a large San Antonio presence."}
+    ]
+  },
+  {
+    "donor_id": "180966d0-f7b4-4c09-972b-8083394d2003",
+    "name": "Chaudoir, Bridie",
+    "resolved_employer": "GHTX (employer acronym unresolved; occupation 'Career Counselor'; consistent with a workforce/career-services role such as Goodwill SA but not confirmed)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "Distinctive-named San Antonio resident corroborated by a July 2025 Archdiocese of San Antonio account of the Guadalupe River camp floods (her children at Camp Mystic/Camp La Junta), placing her in San Antonio. Occupation on filing is 'Career Counselor'; employer 'GHTX' could not be resolved to a specific entity, though career-counseling work is consistent with a nonprofit workforce-services provider such as Goodwill SA. No FEC PAC records, no TX/City lobbyist registration, and no professional bio page found.",
+    "source_url": "https://archsa.org/stories-of-grief-and-gratitude-as-catholics-mobilize-to-help-after-deadly-texas-flood/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6d0480de-3651-4b5f-9a1d-b0f321220ef3",
+    "name": "Byas, Forrest",
+    "resolved_employer": "Zeit Energy (Site Manager); mineral royalty owner",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Donor occupation 'Mgr/Sites Mgr' at Zeit Energy — ZeitEnergy LLC is a compressed-natural-gas (CNG) fueling infrastructure/maintenance company (HQ Irving, TX). Separately, 'Forrest J Byas Jr' at San Antonio 78232 (exact zip match) is documented as a mineral-rights/royalty owner holding 14 royalty interests in Hidalgo County, TX with operators Merit Energy, Wagner Oil, and Marwell Petroleum. FEC/OpenSecrets and TX Ethics lobbyist searches returned no ideological-PAC or lobbyist records.",
+    "source_url": "https://www.mineralholders.com/texas/san-antonio/forrest-j-byas-jr/6860624",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Oil & gas mineral/royalty holdings (Hidalgo County, TX)", "role": "Royalty/mineral interest owner", "category": "oil_gas", "source_url": "https://www.mineralholders.com/texas/san-antonio/forrest-j-byas-jr/6860624", "snippet": "Forrest J Byas Jr, San Antonio TX 78232, holds 14 royalty (RI) mineral interests in Hidalgo County with operators Merit Energy Company, Wagner Oil Company, and Marwell Petroleum Ltd."}
+    ]
+  },
+  {
+    "donor_id": "2e9cabb4-659c-44af-bacf-856ae19776c8",
+    "name": "Stewart, James",
+    "resolved_employer": "Self-employed (author)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Donor self-reports occupation 'author' / employer 'self' in San Antonio 78253. Name is extremely common and no public profile uniquely matches this address/zip. The prominent published author at jamesstewartauthor.com resides in San Diego, CA — NOT this donor; other San Antonio 'James Stewart' hits (divorce attorney, commercial real-estate broker, a deceased individual) are uncorroborated. FEC/OpenSecrets, TX Ethics lobbyist, and bio searches produced no confirmable match. Industry set to Self-Employed from self-reported occupation only; identity not confirmable.",
+    "source_url": "https://www.jamesstewartauthor.com/about-the-author.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e2489eaa-db3c-492b-ad19-adeb582e3f04",
+    "name": "Tobin, Nina",
+    "resolved_employer": "Unknown (no occupation/employer on filing)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Address 7731 Broadway #K242 (78299) is a private-mailbox/PO-box suite, not a residence, limiting attribution. Filing lists no occupation or employer. Only weak namesake matches with no confirmable San Antonio professional identity. No FEC PAC records, no TX/City lobbyist registration, and no bio page identified for this specific individual.",
+    "source_url": "https://www.fec.gov/introduction-campaign-finance/how-to-research-public-records/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "87d36590-25c5-49c0-8143-b3742dfcce81",
+    "name": "Jones, Mark",
+    "resolved_employer": "Self-employed Licensed Marriage and Family Therapist (private practice); specific practice not confirmed",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Filing occupation 'LMFT counselor' / employer 'Self' at a Stone Oak-area residence (78261) is coherent with a self-employed LMFT. San Antonio has multiple therapists named Mark Jones (e.g., Mark F. Jones, LMFT in 78216; Mark Sibley Jones, LMFT-S of Well Mind Center in 78232), and none could be confidently matched to the 78261 address, so no specific practice or advocacy affiliation is attributed. LMFT = Healthcare. No FEC PAC records, no TX/City lobbyist registration found.",
+    "source_url": "https://www.psychologytoday.com/us/therapists/tx/san-antonio/stone-oak",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5a0fd896-0f32-4a03-8622-b125a9a1590a",
+    "name": "Hartsell, Blake",
+    "resolved_employer": "Applied Research Associates, Inc. (ARA) — analyst; employee-owned engineering/defense research firm, San Antonio office",
+    "industry": "Engineering",
+    "confidence": "medium",
+    "evidence": "Donor is an analyst at Applied Research Associates, an employee-owned engineering/defense-and-national-security research firm (San Antonio offices on Isom Rd / W Loop 1604). Employer confirmed; individual not separately identifiable (no LinkedIn/bio found). FEC donation count 0. Employment at a defense contractor is occupational, not a documented policy-advocacy affiliation, so no affiliation asserted.",
+    "source_url": "https://en.wikipedia.org/wiki/Applied_Research_Associates",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4e339cf9-7f6c-48dd-80bc-7df97f38026f",
+    "name": "BARROS, MARCO",
+    "resolved_employer": "Marco Barros Management (President) — business development / governmental-affairs consultancy; former President/CEO of the San Antonio Area Tourism Council (1997-c.2017)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Marco A. Barros, longtime San Antonio tourism-industry figure who led the San Antonio Area Tourism Council ~20 years before founding Marco Barros Management (business development/governmental affairs consultant). Identity confirmed via San Antonio Report and LinkedIn. No confirmed TEC state lobbyist or City of San Antonio lobbyist registration found.",
+    "source_url": "https://sanantonioreport.org/with-retirement-near-tourism-leader-marco-barros-looks-to-the-future/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Area Tourism Council", "role": "Former President/CEO (hired 1997), tourism-industry advocacy", "category": "business", "source_url": "https://sanantonioreport.org/with-retirement-near-tourism-leader-marco-barros-looks-to-the-future/", "snippet": "Barros led the San Antonio Area Tourism Council advocacy group from 1997, demonstrating the tourism industry's economic impact."},
+      {"org": "San Antonio International Airport Advisory Commission", "role": "Commissioner (city board appointment)", "category": "civic", "source_url": "https://www.linkedin.com/in/marco-barros-3870ba186/", "snippet": "LinkedIn lists Barros as Commissioner, San Antonio International Airport since 2014."},
+      {"org": "River Walk Business Group", "role": "Board Trustee (since 2023)", "category": "business", "source_url": "https://www.linkedin.com/in/marco-barros-3870ba186/", "snippet": "LinkedIn lists Barros as Board Trustee, River Walk Business Group since 2023."}
+    ]
+  },
+  {
+    "donor_id": "f8625096-e1f6-4ce7-9c66-527ee77df05c",
+    "name": "Haley, Bill",
+    "resolved_employer": "Retired (former career not identifiable in public records)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Identity confirmed as Bill R. Haley (with Catherine A. Haley) at 16111 Robinwood Lane, San Antonio 78248, per Bexar County property records. Filing lists 'Retired.' He is a prolific federal donor (80 FEC contributions in the source data), but the FEC individual-contribution API was rate-limited and no accessible source distinguished his specific records from numerous namesakes, so partisan lean, specific PACs, and former career could not be determined. No TX/City lobbyist registration found.",
+    "source_url": "https://www.city-data.com/bexar-county/R/Robinwood-Lane-1.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f748aa95-8a34-41d2-87b7-ca72345f919c",
+    "name": "Finger, Jack",
+    "resolved_employer": "Retired (former career not documented; known publicly as a conservative citizen activist)",
+    "industry": null,
+    "confidence": "high",
+    "evidence": "Jack M. Finger is a well-known San Antonio conservative anti-tax citizen watchdog and perennial 'citizen to be heard' at City Council and Texas Capitol hearings; self-described limited-government activist. Identity is high-confidence (public figure), but no paid former career/industry is documented, so industry is null. Retired; PO Box 12048, 78272. FEC donation count 0.",
+    "source_url": "https://www.sacurrent.com/news/far-right-san-antonio-activist-jack-finger-threatens-trans-women-during-testimony-at-texas-capitol-38360127",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Family Association", "role": "Member/affiliate (socially conservative advocacy)", "category": "civic", "source_url": "https://www.sacurrent.com/news/far-right-san-antonio-activist-jack-finger-threatens-trans-women-during-testimony-at-texas-capitol-38360127", "snippet": "Finger belongs to the anti-abortion, anti-LGBTQ+ group San Antonio Family Association and is a fixture at San Antonio City Council meetings."},
+      {"org": "San Antonio City Council / Texas Legislature public hearings", "role": "Conservative anti-tax citizen activist / limited-government watchdog", "category": "political", "source_url": "https://citizenportal.ai/articles/5588092/San-Antonio/Bexar-County/Texas/Public-Critique-of-San-Antonios-Property-Tax-Relief-Proposal-by-Jack-Finger", "snippet": "Finger addressed San Antonio City Council on property tax relief, urging a larger reduction of 10% to ease the taxpayer burden."}
+    ]
+  },
+  {
+    "donor_id": "eaa655a6-02a0-4038-b3ca-65a5a0f66ff2",
+    "name": "Dooley, David",
+    "resolved_employer": "Retired (formerly U.S. Army / UT Health San Antonio physician)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Best match for 'Retired physician' in San Antonio is Dr. David P. Dooley, MD — infectious-disease internist, career U.S. Army physician (residency/fellowship at Brooke Army Medical Center, ID consultant to the Army Surgeon General, retired from the Army in 2005), later Associate Chief of Staff for Education at Audie Murphy VAMC and clinical Professor of Medicine at UT Health San Antonio (retired). Industry Healthcare (retired). Donor zip '79299' is atypical for San Antonio and could not be matched to a residential record, so identification is medium confidence. FEC/OpenSecrets and TX Ethics lobbyist searches returned no ideological-PAC contributions or lobbyist registration; military service is a career fact, not a documented policy-advocacy affiliation.",
+    "source_url": "https://directory.uthscsa.edu/academics/profile/dooleyd",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e6840342-5bed-4bef-b273-da4bd7de526d",
+    "name": "Beldon, Susan",
+    "resolved_employer": "Not employed (homemaker/philanthropist); wife of Bradford D. Beldon, third-generation CEO of BELDON Roofing Company; active in the Beldon Family Foundation",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Identity confirmed as Susan Sumberg Beldon, wife of Brad Beldon (CEO of family-owned BELDON Roofing Company). Her donation address, 101 Paseo Encinal (78212), is also the listed address of Beldon Enterprises, Inc. Filing lists Retired/Unemployed; her documented public role is philanthropic/civic (Beldon Family Foundation; San Antonio Zoo board; chair of the Bexar County Animal Care Advisory Board). No personal FEC PAC record could be confirmed; the wider Beldon family (Michael D. Beldon) has given to Democratic congressional campaigns, but that giving is NOT attributed to Susan. No TX/City lobbyist registration found.",
+    "source_url": "https://www.beldon.com/about-us/bradford-d-beldon/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "BELDON Roofing Company", "role": "Spouse of owner/CEO Bradford D. Beldon (family-owned San Antonio roofing/construction firm)", "category": "business", "source_url": "https://www.beldon.com/about-us/bradford-d-beldon/", "snippet": "Susan Sumberg Beldon is married to Bradford D. Beldon, third-generation owner and CEO of BELDON Roofing Company, a family-owned San Antonio roofing and construction business founded in 1946."},
+      {"org": "Beldon Family Foundation", "role": "Family private foundation (San Antonio); ~$267,440 in grants in 2023", "category": "civic", "source_url": "https://www.causeiq.com/organizations/beldon-family-foundation,832780023/", "snippet": "The Beldon Family Foundation is a San Antonio private foundation tied to the Beldon family, making charitable grants in the San Antonio area."},
+      {"org": "Bexar County Animal Care Advisory Board", "role": "Chair (county-appointed animal-welfare advisory role)", "category": "civic", "source_url": "https://news4sanantonio.com/news/local/bexar-county-approves-new-animal-care-advisory-board-san-antonio-texas-dogs-strays-treatment-rescue", "snippet": "Susan Sumberg Beldon serves as chair of the Bexar County Animal Care Advisory Board, an animal-welfare advisory body."},
+      {"org": "San Antonio Zoo", "role": "Member, Board of Directors", "category": "civic", "source_url": "https://sazoo.org/about/board-of-directors/", "snippet": "Susan Beldon is listed among the members of the San Antonio Zoo Board of Directors."}
+    ]
+  }
+]

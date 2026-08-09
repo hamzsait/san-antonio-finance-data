@@ -1,0 +1,246 @@
+[
+ {
+  "donor_id": "3e73e2fe-2aa9-4d75-bd98-d0123ae2d5ec",
+  "name": "Uhlrich, Brian",
+  "resolved_employer": "DBR Engineering Consultants, Inc.",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Brian C. Uhlrich, PE, LEED AP, CxA is CEO of DBR Engineering Consultants (an MEP/mechanical-electrical-plumbing engineering consulting firm); with DBR since 1995, named Partner in 2002, specializing in MEP engineering, building energy consulting, and commissioning. San Antonio-based, matching donor address (78258). No ideological-PAC contributions, no lobbyist registration, no board/advocacy affiliations surfaced.",
+  "source_url": "https://www.dbrinc.com/about/leadership/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "38b3bd4d-1310-4662-9caf-ddadf0f49799",
+  "name": "Walsh, Stephani",
+  "resolved_employer": "Self-employed (Stephani A. Walsh, PC — mediator / former judge)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Stephani A. Walsh is a San Antonio mediator and attorney, Board Certified in Family Law (TBLS) since 1996, and former presiding judge of Bexar County's 45th District Court (2015-2018); St. Mary's law grad (1985) and registered nurse. Now mediates full-time. Matches 'Mediator, Self employed' occupation. No ideological PAC (AIPAC/UDP, oil & gas, NRA, defense) surfaced among her federal giving; no lobbyist registration; no documented advocacy-org affiliations.",
+  "source_url": "https://mediatormasterlist.com/profiles/stephanie-walsh",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2e58b8e4-3199-4cfc-8039-75e2f2e8f91e",
+  "name": "Montanez, Benjamin",
+  "resolved_employer": "Norton Rose Fulbright US LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Benjamin A. Montanez is a Partner (and Hiring Partner) in Norton Rose Fulbright's San Antonio office (corporate/M&A, securities, corporate governance, private equity, capital markets, energy). JD University of Chicago (2013); MPP Harvard Kennedy School; former US Foreign Service political officer (postings including Saudi Arabia, Israel, the UN). Matches 'Lawyer, Norton Rose Fulbright' and 78258 address. No ideological-PAC contributions or lobbyist registration. Prior Foreign Service posting in Israel was government service, not advocacy, so not classified as an Israel/Palestine affiliation; civic board seats recorded below.",
+  "source_url": "https://www.nortonrosefulbright.com/en-us/people/1014857",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "World Affairs Council of San Antonio", "role": "Board of Trustees (2020-Present); Executive Committee (2021-Present)", "category": "civic", "source_url": "https://www.nortonrosefulbright.com/en-us/people/1014857", "snippet": "World Affairs Council of San Antonio — Executive Committee (2021-Present), Board of Trustees (2020-Present)"},
+   {"org": "Christus Children's Foundation", "role": "Board of Directors (2016-Present); Chairman, Audit Committee; Executive Committee", "category": "civic", "source_url": "https://www.nortonrosefulbright.com/en-us/people/1014857", "snippet": "Christus Children's Foundation — Chairman of the Audit Committee (2022-Present), Board of Directors (2016-Present)"},
+   {"org": "US Global Leadership Coalition — Texas Advisory Committee", "role": "Member (2016-Present)", "category": "civic", "source_url": "https://www.nortonrosefulbright.com/en-us/people/1014857", "snippet": "US Global Leadership Coalition Texas Advisory Committee (2016-Present)"},
+   {"org": "Council on Foreign Relations", "role": "Member (2014-2019)", "category": "civic", "source_url": "https://www.nortonrosefulbright.com/en-us/people/1014857", "snippet": "Council on Foreign Relations (2014-2019)"}
+  ]
+ },
+ {
+  "donor_id": "2791cad1-72ca-4ee2-8f68-b81838ef47dd",
+  "name": "PAC, Charter Schools Now",
+  "resolved_employer": "Charter Schools Now PAC (Texas political action committee / 527)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Charter Schools Now PAC is a Texas single-issue political action committee (527; ProPublica 527 Explorer org 811070203) based at 3005 S. Lamar Blvd, Austin TX 78704 — matching the donor record exactly. It describes itself as 'the only charter school-specific political organization in Texas,' focused on protecting/expanding public charter schools at the Legislature and State Board of Education, and spends in SBOE, legislative, and local races. This is a PAC entity, not an individual; PAC identity and advocacy purpose confirmed via ProPublica, Transparency USA, and its own site.",
+  "source_url": "https://projects.propublica.org/527-explorer/orgs/811070203",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Charter Schools Now PAC", "role": "PAC (self); charter-school advocacy", "category": "political", "source_url": "https://charterschoolsnow.org/about-us/", "snippet": "CSN PAC is the only charter school-specific political organization in Texas... a single-issue PAC focused on protecting charter schools at the State Legislature and the State Board of Education."}
+  ]
+ },
+ {
+  "donor_id": "1f6159be-4026-4446-b2cb-b10969967abd",
+  "name": "Laurence, Lynn",
+  "resolved_employer": "Jack Laurence Corporation",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Lynn Earl Laurence is President/owner of Jack Laurence Corporation, a San Antonio mechanical contractor (HVAC/AC-heating, plumbing, sheet-metal fabrication; State Mechanical Contractor license), founded 1969. Texas A&M grad (1981); runs the family firm. Matches 'Executive, Jack Laurence Corporation.' No ideological PAC surfaced in federal giving; no lobbyist registration; no board/advocacy affiliations documented.",
+  "source_url": "https://jlaurence.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0ea32c92-1f00-4c4f-a5db-4dc25f141a14",
+  "name": "Parks, Bob",
+  "resolved_employer": "Texas Mgt Associates, Inc. (TMA)",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "An FEC record shows James R. Parks, 'Executive Manager' at 'Texas Mgt Associates, Inc.', 3219 Tavern Oaks, San Antonio TX 78247 — an exact address/employer match to this donor; company sources also list a 'Robert (Bob) Parks, VP Business Development' at TMA, so 'Bob' likely refers to the same household/family (Bob/James/Robert first-name discrepancy prevents high confidence on the exact individual). TMA is a San Antonio minority-owned IT/engineering-services company with light electro-mechanical (avionics) manufacturing, system integration, and logistics; a federal contractor. No specific named ideological PAC (AIPAC/UDP, oil & gas, NRA, defense) surfaced despite the high donation count/Republican lean; no lobbyist registration found.",
+  "source_url": "https://docquery.fec.gov/pdf/956/202504159755567956/202504159755567956.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fec9ae56-63f2-48b7-a03b-007a43f22c8c",
+  "name": "Moore, Michael",
+  "resolved_employer": "Ironstone Development LLC (Owner/President)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Michael Moore is owner of Ironstone Development, a San Antonio residential land-development company. Inducted into the Texas Housing Hall of Honor (2017), TAB Developer of the Year (2003), Ted Schlossman Lifetime Achievement Award (2025). Active in the Real Estate Council of San Antonio since 1998 (President 2013) and Greater San Antonio Builders Association (President 2008). No FEC ideological/PAC ties; no lobbyist registration. Affiliations are trade/civic, not ideological.",
+  "source_url": "https://www.texasbuilders.org/2023/10/24/chip-dence-and-michael-moore-inducted-into-texas-housing-hall-of-honor/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Real Estate Council of San Antonio (RECSA)", "role": "Member since 1998; President 2013; Executive Committee 2010-2017", "category": "business", "source_url": "https://www.texasbuilders.org/2023/10/24/chip-dence-and-michael-moore-inducted-into-texas-housing-hall-of-honor/", "snippet": "Moore has been active in the Real Estate Council of San Antonio (RECSA) since 1998, serving on the Executive Committee 2010-2017, and was President in 2013."},
+   {"org": "Greater San Antonio Builders Association (GSABA)", "role": "Board Member since 1990; President 2008", "category": "business", "source_url": "https://www.texasbuilders.org/2023/10/24/chip-dence-and-michael-moore-inducted-into-texas-housing-hall-of-honor/", "snippet": "At GSABA he has been a Board Member since 1990, part of Executive Leadership 2004-2010 and 2015-2017, and was President in 2008."},
+   {"org": "Texas Association of Builders (Texas Housing Hall of Honor)", "role": "Inductee (2017); Developer of the Year 2003", "category": "business", "source_url": "https://www.texasbuilders.org/2023/10/24/chip-dence-and-michael-moore-inducted-into-texas-housing-hall-of-honor/", "snippet": "Chip Dence and Michael Moore Inducted into Texas Housing Hall of Honor."}
+  ]
+ },
+ {
+  "donor_id": "f232f39c-adb8-43dc-b90a-02f72d6a714b",
+  "name": "Neely, Susan & John",
+  "resolved_employer": "Self-employed real estate broker/owner (Olmos Park, San Antonio)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Susan T. and John Neely are documented homeowners on E. Olmos Dr., Olmos Park, San Antonio 78212 (property records), consistent with the donor address 526 E. Olmos Dr. Occupation self-reported as Real Estate Broker / Owner; no specific brokerage name confirmed. No FEC ideological/PAC ties; no lobbyist registration. Classified by self-reported occupation plus address corroboration.",
+  "source_url": "https://blockshopper.com/tx/bexar-county/cities/olmos-park/streets/e-olmos-dr",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e827bb87-0adf-4235-86fe-f47603631f93",
+  "name": "Cohen, Deborah",
+  "resolved_employer": "Retired (former career not publicly identifiable)",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Deborah Cohen, Retired, San Antonio 78248, is a very heavy small-dollar federal donor. Records matched to the 78248/Retired identity show recurring WinRed (Republican conduit) contributions, consistent with a high-frequency recurring Republican small-dollar donor pattern (the 2307-donation count). Note: name-aggregators conflate all 'Deborah Cohen' donors nationwide (a mixed R/D list), so that aggregate was NOT attributed to her. No pro-Israel (AIPAC/UDP), J Street, oil/gas, gun, or other ideological PAC ties were found for the 78248 Deborah Cohen. Former occupation not identifiable, so industry left null. No lobbyist registration found.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part206.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dca2fcab-9ec8-4f4b-b7d5-47afe112e5c8",
+  "name": "Comeaux, Paul",
+  "resolved_employer": "Retired (former career not publicly identifiable)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Identity corroborated: Paul J. Comeaux, age ~75, is listed at 5545 Mount McKinley Dr., San Antonio 78251 (public records), matching the donor address. Occupation self-reported as Retired with 290 FEC donations. No public bio, employer history, or former-career detail found, so industry left null. No FEC ideological/PAC ties (AIPAC/J Street/oil-gas/gun) surfaced; no lobbyist registration. A quiet result: identity confirmed but career/affiliations undetermined.",
+  "source_url": "https://radaris.com/p/Paul/Comeaux/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d2b0e3cf-8954-470e-8c1c-8afe8f320ed4",
+  "name": "Bolch, Kyle",
+  "resolved_employer": "USAA (Insurance Sales)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Kyle Bolch works in insurance sales at USAA in San Antonio (UT San Antonio education; at USAA since ~2021), matching the donor's self-reported employer USAA and occupation Insurance Sales. His name also appears in the Misty Spears 2025 City of San Antonio campaign-finance report, consistent with this $200 donation. Insurance carrier employment classified as Finance per taxonomy. No FEC ideological/PAC ties; no lobbyist registration (he appears as a contributor, not a registered lobbyist).",
+  "source_url": "https://www.linkedin.com/in/kyle-bolch-629b1b77/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c1642008-64db-45b5-96c5-c628d3b81d4a",
+  "name": "Pina, Edward",
+  "resolved_employer": "None listed (self-reported Retired)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor listed as Edward Pina, Retired, no employer, San Antonio 78232, 5 FEC donations, Republican-leaning. A prominent Edward L. Pina is a San Antonio attorney/mediator (Edward L. Pina & Associates, office at 8118 Datapoint Dr., 78229), but that individual appears to still be actively practicing, which conflicts with the donor's 'Retired' status, and the office zip (78229) differs from the donor residential zip (78232). Identity could not be corroborated on occupation, so no confident link is made; industry left null. No FEC ideological/PAC ties; no lobbyist registration. Possible-but-unconfirmed attorney match noted for transparency.",
+  "source_url": "https://www.martindale.com/attorney/mr-edward-l-pina-1704709/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b643ec38-37e2-46ff-b67b-69b50a77959b",
+  "name": "Mayes, Thomas",
+  "resolved_employer": "Jim Adler & Associates",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Donor is Thomas Cullee 'T.J.' Mayes Jr., a litigation/personal-injury attorney at Jim Adler & Associates in San Antonio (matches FEC-listed employer). He is a former chief of staff to Bexar County Judge Nelson Wolff, a former City Council aide, university lecturer, and municipal-law attorney; JD from SMU, BA Political Science from Texas Tech. His strongly Democratic federal giving (lean 0.99) is consistent with his career working for Democratic-aligned local officials. No pro-Israel/AIPAC/J Street or other ideological PAC ties surfaced; no lobbyist registration found.",
+  "source_url": "https://sanantonioreport.org/author/t-j-mayes/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Office of Bexar County Judge Nelson Wolff", "role": "Former Chief of Staff (Democratic-aligned local government)", "category": "political", "source_url": "https://sanantonioreport.org/attorney-t-j-mayes-others-resign-from-phipps-law-firm-amid-allegations-against-founder/", "snippet": "T.J. Mayes ... former chief of staff to Bexar County Judge Nelson Wolff."},
+   {"org": "San Antonio Council on Alcohol and Drug Awareness", "role": "Board of Directors", "category": "civic", "source_url": "https://sanantonioreport.org/author/t-j-mayes/", "snippet": "a public health advocate ... Board of directors, San Antonio Council on Alcohol and Drug Awareness."},
+   {"org": "Texans for Safe and Drug-Free Youth", "role": "Chair-Elect (2025-present)", "category": "civic", "source_url": "https://www.mayeslawtx.com/abouttjmayes", "snippet": "Chair-Elect (2025-Present), Texans for Safe and Drug-Free Youth."}
+  ]
+ },
+ {
+  "donor_id": "b51752a8-3db4-4776-a238-5688f25cb60b",
+  "name": "Melendez, Jonathan",
+  "resolved_employer": "Americans for Prosperity",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Jonathan Melendez is Director of Grassroots Engagement at Americans for Prosperity (AFP), the Koch-network free-market/limited-government advocacy organization. Raised in Laredo, TX; U.S. Marine Corps veteran; MBA/BBA from Texas A&M International University; previously a licensed sales agent at CHRISTUS Health. FEC-listed address matches AFP's San Antonio/Texas footprint. No personal lobbyist registration; no separate ideological (Israel/Palestine, gun, defense, oil/gas) PAC ties beyond his AFP employment.",
+  "source_url": "https://www.zoominfo.com/p/Jonathan-Melendez/10756879976",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Americans for Prosperity (Koch network)", "role": "Director, Grassroots Engagement", "category": "political", "source_url": "https://www.zoominfo.com/p/Jonathan-Melendez/10756879976", "snippet": "Jonathan Melendez, Director, Grassroots Engagement at Americans for Prosperity."},
+   {"org": "Americans for Prosperity", "role": "Conservative/libertarian free-market advocacy employer", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Americans_for_Prosperity", "snippet": "Americans for Prosperity is a libertarian conservative political advocacy group funded by the Koch family; supports cutting taxes and government spending."}
+  ]
+ },
+ {
+  "donor_id": "a1af8a50-eda6-4625-836d-a0eb6cdc2b22",
+  "name": "Espinoza, Nora",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor is a retiree at 739 Lost Canyon, San Antonio TX 78258. She is NOT the well-known New Mexico Republican legislator/2016 Secretary of State candidate Nora Espinoza — that individual was born in Panama, resides in Roswell, New Mexico, served in the NM House 2007-2017, and no public record documents her relocating to San Antonio; identity, occupation, and Texas residence do not corroborate a match. Beyond a generic 'retired' occupation and address listings, no public professional profile, former career, PAC ties, or lobbyist registration could be identified for this individual.",
+  "source_url": "https://en.wikipedia.org/wiki/Nora_Espinoza",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9593b137-a08f-4e13-8599-97bd3220b698",
+  "name": "Greeman, Nelson",
+  "resolved_employer": "Greeman & Greeman Doctors of Optometry",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Donor is Dr. Nelson William Greeman, OD, an optometrist practicing at Greeman & Greeman Doctors of Optometry (249 E Hildebrand Ave, San Antonio TX 78212); residential address 15815 Bell Flower Dr, 78232 matches. The family practice also includes other Greeman ODs. Membership in the Texas/American Optometric Associations is professional, not policy/ideological, so not recorded as an affiliation. No FEC ideological/PAC ties; no lobbyist registration found.",
+  "source_url": "https://www.healthgrades.com/providers/nelson-greeman-xw777",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "93d8e401-2eee-49a0-8755-bc26363af8fa",
+  "name": "Alvarado, Vanessa",
+  "resolved_employer": "Rova Property Management (La Grande / Les Chateaux, 8058 Broadway)",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Donor lists herself as Managing Member/General Manager of 'Rova Property Management, La Grande' at 8058 Broadway St, San Antonio TX 78209 — the Les Chateaux condominium community (Alamo Heights) with many units for rent/sale, consistent with a residential property-management operation, so industry is Real Estate (property management). Despite 44 FEC donations, no distinct public bio, corporate leadership page, ideological-PAC ties, or lobbyist registration could be positively confirmed for this specific Vanessa Alvarado (a common name). Classified from employer per fallback guidance; affiliations left empty as none are documented.",
+  "source_url": "https://www.redfin.com/TX/San-Antonio/8058-Broadway-78209/home/48940768",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8a28e2db-465d-42bb-a160-48d8b8f8685e",
+  "name": "Mrzlak, Lydia",
+  "resolved_employer": "Retired teacher, San Antonio ISD (formerly John Jay / Lanier High School, Career & Technical Education)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Name is highly distinctive and matches the San Antonio (78247) retired-teacher profile. LinkedIn lists her as a Summer School Principal at Lanier High School (San Antonio ISD) and a retired Career & Technical Education teacher associated with John Jay Educational Campus. She is also a documented officer of the Bexar County Republican Women (VP/Finance, Recording Secretary, Scholarship committee chair) — a documented Republican political affiliation. No lobbyist registration; no ideological/single-issue PAC contributions surfaced beyond routine giving.",
+  "source_url": "https://www.linkedin.com/in/lydia-mrzlak-267149a1/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Bexar County Republican Women", "role": "Vice President, Finance (also Recording Secretary; Scholarship committee chair)", "category": "political", "source_url": "https://www.zoominfo.com/p/Lydia-Mrzlak/9699248310", "snippet": "ZoomInfo lists 'Lydia Mrzlak, Vice President, Finance at Bexar County Republican Women' with a @bexargopwomen.org email; the organization's roster shows her as VP/Finance and Recording Secretary and chair of the Scholarship committee."}
+  ]
+ },
+ {
+  "donor_id": "50cfac1c-7c1d-4a74-b493-4181de322266",
+  "name": "Kusek, Loretta",
+  "resolved_employer": "Retired; former member of the Live Oak, TX City Council (retired)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Donor listed as Retired in Live Oak, TX (78233). Live Oak city records/coverage identify Loretta Kusek (with husband Tom Kusek) as a former Live Oak City Council member recognized by the mayor at a council meeting. Name + Live Oak location match the donor. Classified Government based on documented former elected-official role. No lobbyist registration; no ideological PAC contributions surfaced.",
+  "source_url": "https://liveoaktx.granicus.com/MetaViewer.php?view_id=&clip_id=52&meta_id=2423",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of Live Oak, Texas (City Council)", "role": "Former City Council member", "category": "civic", "source_url": "https://liveoaktx.granicus.com/MetaViewer.php?view_id=&clip_id=52&meta_id=2423", "snippet": "Live Oak City Council records/coverage note that the mayor recognized former City Council members Tom and Loretta Kusek, indicating she previously served on the Live Oak, TX City Council."}
+  ]
+ },
+ {
+  "donor_id": "3f9f3eda-9dbb-4dd3-95e7-0d422da4ceff",
+  "name": "Weidman, Joanna",
+  "resolved_employer": "Greater San Antonio Chamber of Commerce (Senior Vice President)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Strong match on name, executive occupation, and Chamber employer. The Greater San Antonio Chamber staff page and a July 2024 press release identify Joanna Weidman as an SVP who joined the Chamber in July 2024 after being SVP of Administration & Operations at NuStar Energy L.P., and earlier Director of Corporate Communications at Valero Energy and Director of PR/Marketing at CHRISTUS Santa Rosa. Her current employer (business-advocacy nonprofit) drives the classification; energy roles are prior employment, not documented issue advocacy. No lobbyist registration; no ideological/single-issue PAC contributions confirmed.",
+  "source_url": "https://www.sachamber.org/staff/principal-staff/joanna-weidman/?back=staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "United Way of San Antonio & Bexar County", "role": "Board Member; Chair of Women United", "category": "civic", "source_url": "https://www.sachamber.org/staff/principal-staff/joanna-weidman/?back=staff", "snippet": "Chamber bio lists Weidman as Chair of Women United and a Board Member of United Way of San Antonio & Bexar County."}
+  ]
+ }
+]

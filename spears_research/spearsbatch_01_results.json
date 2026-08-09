@@ -1,0 +1,237 @@
+[
+ {
+  "donor_id": "54b0b9e6-2b45-47ec-a21b-61161f4fad77",
+  "name": "Spears, Misty",
+  "resolved_employer": "City of San Antonio (D9 Councilwoman, since June 2025); prior Director of Constituent Services for Bexar County Commissioner Grant Moody",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "The candidate herself; self-contribution/loan. GOP-backed sitting D9 councilwoman, B.B.A. accounting Texas Tech, ex-accountant Clear Channel/Pioneer Drilling and senior municipal-law paralegal; ran as a Republican for Bexar County District Clerk in 2022.",
+  "source_url": "https://ballotpedia.org/Misty_Spears",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Republican Party of Bexar County / GOP", "role": "GOP-backed candidate and 2022 Republican nominee for Bexar County District Clerk", "category": "political", "source_url": "https://sanantonioreport.org/san-antonio-election-results-district-9-misty-spears/", "snippet": "Misty Spears is a longtime GOP activist who flipped a seat her party considered must-win; earlier ran as a Republican for Bexar County District Clerk in 2022."}
+  ]
+ },
+ {
+  "donor_id": "3eda8004-57d0-43cb-863f-856fc7bf7a01",
+  "name": "KUYRKENDALL, Darren",
+  "resolved_employer": "Kuyrkendall & Company, Inc. (VP/Broker) — full-service San Antonio commercial real estate firm",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Darren R. Kuyrkendall, VP of family-founded Kuyrkendall & Company; 13+ yrs commercial real estate (office/retail/industrial), Texas A&M B.S. Economics 2004, SABOR/TAR/NAR/SIOR member. Identity confirmed by firm bio and San Antonio location.",
+  "source_url": "https://www.kuyrkendall.com/about-us/darren-kuyrkendall/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e65022f7-a870-48e9-8b5b-81828fedb096",
+  "name": "Longoria, Christopher",
+  "resolved_employer": "Primerica (licensed representative) and Charter Communications (connectivity specialist)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "San Antonio Primerica financial-services representative; Navy veteran and former professional photographer who ran as a first-time candidate for San Antonio mayor in 2023 on a pro-SAPD, anti-Prop A platform. Identity corroborated by Primerica rep page and mayoral-candidate profile.",
+  "source_url": "https://sanantonioreport.org/profile/christopher-longoria-2023-mayoral-candidate/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio mayoral race (2023)", "role": "Candidate for Mayor", "category": "political", "source_url": "https://sanantonioreport.org/profile/christopher-longoria-2023-mayoral-candidate/", "snippet": "Christopher Longoria was a first-time 2023 candidate for San Antonio mayor; opposed Proposition A and advocated adding 300 SAPD officers."}
+  ]
+ },
+ {
+  "donor_id": "3201d9c8-1371-4589-9ba2-e6010c3e9789",
+  "name": "Hummel, Chris",
+  "resolved_employer": "Retired (former career not identified in public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired donor at 7519 Bridgewater Dr in affluent 78209 (Alamo Heights/Terrell Hills) with a large federal-giving history (165 FEC donations, near-neutral lean 0.02). Multiple same-named individuals in San Antonio prevented confident attribution of a specific former career or PAC record.",
+  "source_url": "https://www.fec.gov/introduction-campaign-finance/how-to-research-public-records/individual-contributions/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4a03950f-a42b-4eee-b900-224f5b22287d",
+  "name": "PLLC, Brown & McDonald",
+  "resolved_employer": "Brown & McDonald PLLC — San Antonio law firm specializing in municipal land use, zoning, real estate, environmental, public utility law and economic incentives",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Law-firm entity donor confirmed at 100 NE Loop 410 Ste 1385, San Antonio 78216; land-use/zoning/municipal real estate practice. No Texas Ethics Commission state-lobbyist registration confirmed.",
+  "source_url": "https://brownmcdonaldlaw.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "239608c2-b47a-437e-9ab2-f8850f29e494",
+  "name": "Chan, W. Elisa",
+  "resolved_employer": "President & CEO, Unintech Consulting Engineers, Inc.",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Elisa Chan co-founded Unintech Consulting Engineers (structural/civil engineering firm) in 1992 and is its president/CEO; former San Antonio City Council member for District 9 (2009-2013), first Asian American woman on council, and repeat Republican candidate (2013 TX Senate SD25, 2022 TX House HD122). Address and occupation match exactly.",
+  "source_url": "http://www.unintech.com/about-us/leadership/elisa-chan/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council (District 9) / Republican candidate", "role": "Former Councilmember; GOP candidate for TX Senate (2013) and TX House (2022)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Elisa_Chan", "snippet": "Represented District 9 on San Antonio City Council 2009-2013; ran as a Republican for Texas Senate District 25 (2013) and Texas House District 122 (2022)."}
+  ]
+ },
+ {
+  "donor_id": "99d7f1f3-c222-4689-93e0-6d3d4083dac3",
+  "name": "Wilson, Richard",
+  "resolved_employer": "Retired (former career not identifiable from public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired individual at 23910 West Interstate 10 Frontage Rd, San Antonio 78257 (the '23910' zip in the source is a house-number artifact). 'Richard Wilson' is an extremely common name with 0 FEC donations; no public profile could be confirmed to this specific person, so no industry is assigned.",
+  "source_url": "https://www.spokeo.com/Richard-Wilson/Texas",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fa6e7496-e3a3-4b72-9ccc-142ad2fac39e",
+  "name": "Rossi, Art",
+  "resolved_employer": "Arthur J. Rossi, Jr., Attorney at Law (solo practice)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Arthur J. Rossi, Jr. is a solo attorney and CPA at 750 Rittiman Road, San Antonio 78209 (exact match), board certified in family law, former Associate Judge for the Bexar County Probate Courts; practicing since 1984. No ideological-PAC or lobbyist ties found.",
+  "source_url": "https://www.artrossi.com/attorneys/arthur-j-rossi-Jr/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f3c26d00-be5e-400c-a23e-74de8dd15848",
+  "name": "Cross, Edward",
+  "resolved_employer": "CEO & founder, San Antonio Commercial Advisors (commercial real estate)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Edward A. Cross, II is CEO/founder of San Antonio Commercial Advisors, a full-service commercial real estate firm (Cushman & Wakefield Alliance member) specializing in office/industrial leasing and land brokerage; former CPA and licensed real estate broker. Occupation/employer match exactly.",
+  "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/edward-cross/5jqfgbnb",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Ecro LTD (c/o Ed Cross) — City of San Antonio Lobbyist System", "role": "Registered municipal lobbyist entity", "category": "business", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx", "snippet": "'Ecro LTD c/o Ed Cross' appears in the City of San Antonio municipal Lobbyist System, consistent with his commercial real estate business interests before the city."}
+  ]
+ },
+ {
+  "donor_id": "ee6dd527-bf8f-49fe-a80d-2de5ce952e70",
+  "name": "Shields, John",
+  "resolved_employer": "John H. Shields, solo-practice attorney (self-employed)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "John H. Shields is a solo-practice San Antonio attorney (Texas Bar, licensed 1989) tied to 721 Contour Drive, San Antonio 78212 (exact address match), consistent with the 'Self-Employed, Attorney' occupation. No ideological-PAC or lobbyist affiliations found.",
+  "source_url": "https://www.avvo.com/attorneys/78212-tx-john-shields-215995.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ea792d79-a447-495d-a59b-0c2d52459fff",
+  "name": "Group, Sabinal",
+  "resolved_employer": "Sabinal Group — minority-owned general construction contractor at 237 W. Travis Ste. 200, San Antonio TX 78205; owner Mark Wohlfarth",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Entity confirmed at the exact donor address (237 W Travis, Ste 200, 78205); a licensed general contractor ('highly skilled minority general contractor') per its own site and BBB, with Mark Wohlfarth listed as owner. No lobbyist registration or FEC PAC activity found.",
+  "source_url": "https://sabinal-group.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e76341f4-ee4f-4c8b-bb92-bd141f612d0d",
+  "name": "& Opportunity, Families for Education",
+  "resolved_employer": "Families for Education and Opportunity — San Antonio education-advocacy political action committee (PAC)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "A San Antonio education-focused PAC; its site states it endorses candidates/policies on education equity and 'family agency,' and it has drawn national school-reform funding in Texas races. It is itself a political committee, not an individual.",
+  "source_url": "https://familiesforedopportunities.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Families for Education and Opportunity", "role": "Education-advocacy PAC (the donor entity)", "category": "political", "source_url": "https://familiesforedopportunities.org/", "snippet": "PAC that endorses candidates and policies around education equity and 'family agency, recognizing that families are key decision-makers' in education; active in San Antonio races."}
+  ]
+ },
+ {
+  "donor_id": "d22dd23b-bc22-4ee0-b3b4-d4e0c329a383",
+  "name": "Karam, Katherine & Clifton",
+  "resolved_employer": "Clifton Karam — Vice President, Land Acquisitions at Lennar (national homebuilder), San Antonio",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Clifton Karam is the spouse matching the donor's occupation/employer: Vice President of Land Acquisitions at Lennar in San Antonio, with a Master of Real Estate from Texas A&M and prior land roles at KB Home. No FEC PAC contributions or lobbyist registration found.",
+  "source_url": "https://rocketreach.co/clifton-karam-email_19298561",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c347519c-431f-47d4-bcd4-4bfb4972a37f",
+  "name": "Kocurek, Patrick",
+  "resolved_employer": "Owner of Solar Car Wash (self-serve car wash serving the San Antonio/Schertz area)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Public records place a Patrick Kocurek in San Antonio (78232 area), and the donor's stated occupation is business owner of Solar Car Wash, a self-serve car wash operating in the greater San Antonio/Schertz area. Name is somewhat common, so identity is corroborated but not definitive. No FEC PAC contributions or lobbyist registration found.",
+  "source_url": "https://thesolarcarwash.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c24c8c66-a92a-455a-9b2b-44c6ba437d2d",
+  "name": "Rodriguez, Rick",
+  "resolved_employer": "Founder and CEO of Brass Real Estate Funds, San Antonio (commercial real estate investment)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Joe Richard 'Rick' Rodriguez Jr. is Founder/CEO of Brass Real Estate (Brass Real Estate Funds) in San Antonio — matching the donor's 'Real estate' occupation and 'Brass' employer; Brass is a well-documented SA commercial real estate firm. No FEC PAC contributions or lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/joe-richard-rick-rodriguez-jr-5488955/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "98900ee0-00f9-42c4-b21f-539dcb568643",
+  "name": "Briones, Jr. P.E., Rolando & Krista",
+  "resolved_employer": "Briones Consulting & Engineering, Ltd. (President/CEO)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Rolando H. Briones Jr., P.E., MBA is a well-known San Antonio civil engineer, President/CEO of Briones Consulting & Engineering (formerly SAWS division manager and CH2M Hill PM). Ran for San Antonio City Council District 8 in 2013 as a well-funded candidate. Matches occ 'Engineer'/'self', zip 78230.",
+  "source_url": "https://www.ksat.com/news/2013/05/05/sa-district-8-candidate-rolando-briones/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council District 8", "role": "2013 candidate", "category": "political", "source_url": "https://www.ksat.com/news/2013/05/05/sa-district-8-candidate-rolando-briones/", "snippet": "In his 2013 run for District 8 of the San Antonio City Council, Rolando Briones was a well-funded establishment candidate challenged by Ron Nirenberg."},
+   {"org": "City of San Antonio Planning Commission / Zoning Board of Adjustments", "role": "City Council appointee", "category": "civic", "source_url": "http://www.brionesengineering.com/Briones%20Consulting%20and%20Engineering%20Our%20Team.html", "snippet": "Mr. Briones serves as a City Council appointee to the City of San Antonio Planning Commission and the Zoning Board of Adjustments."}
+  ]
+ },
+ {
+  "donor_id": "980adb1f-4aa3-4626-8961-00d594eae339",
+  "name": "Locke, William",
+  "resolved_employer": "Retired (former career unidentified)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired donor at 601 Contour Dr, San Antonio 78212 (Olmos Park-adjacent). Address confirmed to exist, but no public bio, professional profile, FEC PAC record, or lobbyist registration could be tied to this specific William Locke; former career unknown.",
+  "source_url": "https://www.har.com/homedetail/601-contour-dr-san-antonio-tx-78212/14341324",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "93034fe8-26b8-4703-bdb0-64a31aa3d8f9",
+  "name": "Guenther, Jack",
+  "resolved_employer": "Self-employed investor (former attorney/CPA; automotive dealerships and oil & gas holdings)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Jack Egon Guenther of San Antonio: attorney (admitted 1959) and CPA, longtime Cox & Smith partner, who built an automotive dealership group (BMW, Toyota, Lexus, Porsche/Volvo) and holds oil & gas mineral interests; prominent philanthropist via the Jack & Valerie Guenther Foundation. Matches occ 'Investor/Self-Employed', zip 78209. Some Sr./Jr. ambiguity on the exact individual.",
+  "source_url": "https://news.uthscsa.edu/san-antonio-business-journal-legacy-leaders-jack-%E2%80%8Bguenther-put-hard-work-realize-vision/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Guenther Oil & Gas Ltd", "role": "owner/principal", "category": "oil_gas", "source_url": "https://www.mineralholders.com/texas/san-antonio/guenther-oil-gas-ltd/1702276", "snippet": "Guenther Oil & Gas Ltd of San Antonio holds 13 mineral interests spread across 3 Texas counties; Jack E. Guenther Jr. also holds individual mineral rights."}
+  ]
+ },
+ {
+  "donor_id": "91a67c5a-5646-4946-ac9f-6ef4d8c3a17f",
+  "name": "Cortez, Cruz & Paloma",
+  "resolved_employer": "Self-employed marketing consultant",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Household self-reported as self-employed 'marketing consultant' at 930 W. Rosewood, San Antonio 78201. Could not firmly corroborate the specific individuals; the well-known Cruz Cortez (La Familia Cortez matriarch) is deceased and unrelated. Industry assigned from stated occupation only.",
+  "source_url": "https://events.getcreativesanantonio.com/artist/paloma-cortez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "74b16b4a-8481-4c02-b746-4449ed5e75a0",
+  "name": "Bayne, Mel and Susan",
+  "resolved_employer": "Retired physician (Dr. Melvin A. Bayne, MD - internal medicine/psychiatry)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Mel Bayne is Dr. Melvin A. Bayne, MD, a retired San Antonio physician (internal medicine/psychiatry, ~45 yrs experience, South Texas Veterans Healthcare System/Audie Murphy VA). Susan Bayne is confirmed at 12 Tanner Woods, San Antonio 78248 (retired) via a Texas Ethics Commission $1,000 contribution record to Rolando Pablos, matching the donor address.",
+  "source_url": "https://www.healthgrades.com/physician/dr-melvin-bayne-y5ftv",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

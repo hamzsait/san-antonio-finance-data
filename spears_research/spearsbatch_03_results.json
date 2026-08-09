@@ -1,0 +1,247 @@
+[
+  {
+    "donor_id": "f6d2080c-755a-44b0-8c72-39db8caf6a1a",
+    "name": "Bayne, Susan",
+    "resolved_employer": "Retired marriage & family therapist (LPC, LMFT) — formerly Susan Meryl Bayne LMFT/LPC counseling practice (retired)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Susan Meryl Bayne, a licensed marriage & family therapist (LPC, LMFT, NPI 1285643643) in San Antonio, lists 12 Tanner Woods, San Antonio TX 78248 — matching the donor's exact street address and zip. Donor occupation 'retired' is consistent with a former counseling career. Pipeline data shows 243 FEC donations at a neutral 0.0 partisan lean; no single ideological PAC could be corroborated with a source, so no affiliation is recorded.",
+    "source_url": "https://npiprofile.com/npi/1285643643",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f145a506-3648-46ed-8a61-b0ad37966af6",
+    "name": "Stewart, Scott",
+    "resolved_employer": "Stewart Services, LLC — construction subcontractor (site plumbing, HVAC, electrical utilities); Scott L. Stewart is key principal/owner",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Scott L. Stewart is listed as key principal of Stewart Services, LLC (San Antonio/Seguin area), a construction subcontractor doing site plumbing, HVAC, electrical and site utility work per Blue Book and D&B listings. Consistent with donor's self-reported 'Business Owner' / 'Stewart Services' in the Seguin (78156) area. No FEC PAC records or Texas lobbyist registration found.",
+    "source_url": "https://www.thebluebook.com/iProView/808957/stewart-services-llc/subcontractors/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eaac085c-b953-41bb-af74-cad0cde39631",
+    "name": "Blair & Sampson LLP, Linebarger Goggan",
+    "resolved_employer": "Linebarger Goggan Blair & Sampson LLP — major Texas government/municipal debt-collection law firm (Austin HQ)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Linebarger Goggan Blair & Sampson LLP is a large Austin-based law firm specializing in state and municipal delinquent-debt collection. It is one of Texas's biggest bipartisan political donors ($4M+ in state campaign contributions since 2000) and a registered lobbying entity representing municipal-sector clients. The $500 to Spears fits its standard practice of donating to local officeholders who influence collection contracts.",
+    "source_url": "https://www.transparencyusa.org/tx/contributor/linebarger-goggan-blair-and-sampson-llp-1",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Linebarger Goggan Blair & Sampson LLP (firm/PAC)", "role": "Corporate/PAC political donor", "category": "political", "source_url": "https://www.insidearm.com/news/00013799-debt-collector-at-center-of-political-don/", "snippet": "Firm has made more than $4 million in Texas campaign contributions since 2000 to politicians of both parties, tied to its municipal debt-collection contract business."},
+      {"org": "Texas Ethics Commission registered lobby (municipal clients)", "role": "Registered lobbying firm", "category": "business", "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026LobbyGroupByLobbyist.pdf", "snippet": "Represents Texas Municipal League, Texas Coalition of Cities for Utility Issues and other government-sector clients in 2026 TEC lobbyist records."}
+    ]
+  },
+  {
+    "donor_id": "ddaad5c4-1eac-4220-9f16-e5abfbfb1f74",
+    "name": "Nixon, Benjy",
+    "resolved_employer": "Self-employed (specific business not publicly identifiable)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Public-records aggregators list a Ben/Benjy R. Nixon in the 78216 area of San Antonio, consistent with the donor's zip, but no professional bio, business name, or occupation detail could be confirmed. No FEC PAC contributions or Texas lobbyist registration found. Quiet result — classified generically as self-employed per taxonomy.",
+    "source_url": "https://radaris.com/p/Benjamin/Nixon/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dc884923-e576-47dd-984e-783a0556261a",
+    "name": "Moe, Ryan",
+    "resolved_employer": "Law Office of Ryan C. Moe, PLLC — elder law, guardianship, probate, estate planning & family law attorney (San Antonio)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Ryan C. Moe is a St. Mary's University School of Law graduate and Super Lawyers-rated elder law attorney operating the Law Office of Ryan C. Moe, PLLC (office at NW Loop 410, San Antonio 78216; residence zip 78258), matching the donor record. Only 1 FEC donation on file; no ideological PAC ties or Texas lobbyist registration found.",
+    "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/ryan-c-moe/988255c5-0667-4240-a290-4c256dd0862a.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "db27bbf7-8a2d-4585-8e56-4faab69065a9",
+    "name": "Prater, Nick",
+    "resolved_employer": "4M Realty Company (commercial real estate broker; affiliate of 4M Properties, Inc.)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Commercial real estate broker at 4M Realty Company, San Antonio (6812 West Ave matches the firm). Member of SABOR/TAR/NAR; UTSA Real Estate Development mentor; VP of Hollywood Park Economic Development Corporation. Zip 78213 and Real Estate occupation confirmed.",
+    "source_url": "https://www.4mrealty.com/our_team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hollywood Park Economic Development Corporation", "role": "Vice President", "category": "business", "source_url": "https://www.4mrealty.com/our_team", "snippet": "Nick Prater serves as VP of the Hollywood Park Economic Development Corporation and mentor for the UTSA Real Estate Development class."}
+    ]
+  },
+  {
+    "donor_id": "dac07b23-58b1-4664-9799-0a22fe65645b",
+    "name": "Oguamanam, Alexander",
+    "resolved_employer": "Zikam Neighborhood Pharmacy (owner/pharmacist, PharmD)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Pharmacist (PharmD, University of Toledo) and owner of Zikam Neighborhood Pharmacy at 21920 Bulverde Rd, San Antonio 78259 — exact address/employer match. Serving San Antonio since 2014.",
+    "source_url": "https://www.linkedin.com/in/alexander-oguamanam-3646413b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Republican federal candidates/committees", "role": "Individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/", "snippet": "FEC individual-contribution records show 6 federal donations, all to Republican recipients (lean 1.0); no ideological/issue PAC (AIPAC, J Street, NRA, oil & gas) giving found."}
+    ]
+  },
+  {
+    "donor_id": "d068e553-718f-463e-90bd-c694e82855d2",
+    "name": "Hutton, Bart",
+    "resolved_employer": "Self-employed rancher; owner H4 Ranches (Uvalde); former CEO/Chairman of Allcat Claims Service, LLC",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Lifelong South Texas rancher (owns H4 Ranches, ~3,000-acre ranch), agri-business degree from Texas State. Former 20-year CEO and later Chairman of Allcat Claims Service; ProRodeo Hall of Fame director and community bank director. Boerne/78006 PO Box consistent with Self-Employed rancher occupation.",
+    "source_url": "https://www.linkedin.com/in/bart-hutton-5ba4444/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cfdc9791-1267-41b4-abce-21a56d72f116",
+    "name": "Archega, Rachelle & Jason",
+    "resolved_employer": "The NRP Group (Jason Arechiga — joined 2012 as Land Acquisition Specialist, now SVP of Development)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Donor name 'Archega/Jason' at NRP Group in a land-acquisition role resolves to Jason Arechiga, who joined The NRP Group (major multifamily/affordable-housing developer) in 2012 as a Land Acquisition Specialist and is now SVP of Development for Texas; Rachelle is his spouse/co-donor. Occupation and employer match exactly.",
+    "source_url": "https://nrpgroup.com/about-us/leadership/jason-arechiga",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Association of Local Housing Finance Agencies / Texas Affiliation of Affordable Housing Providers", "role": "Board member / active member", "category": "business", "source_url": "https://nrpgroup.com/about-us/leadership/jason-arechiga", "snippet": "Arechiga serves on the board of the Texas Association of Local Housing Finance Agencies and is an active member of the Texas Affiliation of Affordable Housing Providers."}
+    ]
+  },
+  {
+    "donor_id": "cbfd594a-1511-473c-b499-5af7dbfde85f",
+    "name": "PAC, Howard Energy Partners",
+    "resolved_employer": "Howard Energy Partners USA PAC — corporate PAC of Howard Energy Partners, a San Antonio-based midstream natural gas / energy infrastructure company",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Corporate PAC (FEC C00868620) of Howard Energy Partners, a San Antonio-headquartered private midstream natural gas/energy company (pipelines, gathering, processing) at 16211 La Cantera Pkwy. FEC-registered Feb 2024. Provided giving profile: 118 donations, lean 0.61 (majority-Republican).",
+    "source_url": "https://www.fec.gov/data/committee/C00868620/?cycle=2024",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Howard Energy Partners", "role": "Sponsoring corporation of the PAC", "category": "oil_gas", "source_url": "https://www.howardenergypartners.com/", "snippet": "Howard Energy Partners is a San Antonio-based midstream energy company owning/operating natural gas gathering pipelines and providing gas gathering, processing, storage and liquids transportation; the PAC is its corporate political action committee."}
+    ]
+  },
+  {
+    "donor_id": "cbbd5ae7-56f0-45c3-97f9-3bf7a083729b",
+    "name": "Munsinger Cotton, Inga",
+    "resolved_employer": "San Antonio Charter Moms / School Discovery Network (founder & executive director); school-choice / charter-school advocacy nonprofit",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Inga Cotton is founder and executive director of San Antonio Charter Moms (rebranded School Discovery Network), a nonprofit that helps families navigate school choice and advocates for charter/quality schools in San Antonio. Occupation and 78209 area consistent with the SACM listing.",
+    "source_url": "https://sachartermoms.com/about/inga-cotton-founder-executive-director/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Charter Moms / School Discovery Network", "role": "Founder & Executive Director", "category": "civic", "source_url": "https://sachartermoms.com/about/inga-cotton-founder-executive-director/", "snippet": "Founder and executive director of San Antonio Charter Moms, a nonprofit built to make school choice a reality for thousands of families through tools, events and community."}
+    ]
+  },
+  {
+    "donor_id": "c999d7b0-2241-4a6f-81e6-f7833a8fd9ec",
+    "name": "Montford, Debbie",
+    "resolved_employer": "Community volunteer / arts philanthropist; civic board leader",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Debbie Montford of San Antonio (1 Buckingham Ct, 78257 confirmed) is a prominent civic figure and arts philanthropist: Chair/President of the Dolph & Janey Briscoe Western Art Museum board, former Chair of the San Antonio Symphony board, founding member of the Bexar County Performing Arts Center Foundation, and a Gov. Perry-appointed Texas Tech University System regent. Wife of former state senator John T. Montford.",
+    "source_url": "https://www.texastech.edu/board-of-regents/bio-d-montford.php",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Dolph and Janey Briscoe Western Art Museum", "role": "Chair / President, Board of Directors", "category": "civic", "source_url": "https://www.texastech.edu/board-of-regents/bio-d-montford.php", "snippet": "Chair and President of the Dolph and Janey Briscoe Western Art Museum Board of Directors; enthusiastic advocate for the arts and community volunteer."}
+    ]
+  },
+  {
+    "donor_id": "c890ec9e-c991-4873-ae47-88e0e97b081c",
+    "name": "PAC, IBC State",
+    "resolved_employer": "IBC State Political Action Committee — state PAC of International Bancshares Corporation, a Laredo/San Antonio multi-bank holding company",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "The IBC State PAC is the Texas state political action committee affiliated with International Bancshares Corporation, a publicly traded multi-bank holding company headquartered in Laredo with major San Antonio operations. The 130 E. Travis address is IBC's downtown San Antonio location.",
+    "source_url": "https://www.transparencyusa.org/tx/contributor/ibc-state-political-action-committee/also-known-as",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "International Bancshares Corporation (IBC Bank)", "role": "Corporate state PAC", "category": "business", "source_url": "https://www.transparencyusa.org/tx/contributor/ibc-state-political-action-committee/also-known-as", "snippet": "IBC State Political Action Committee is a Texas state PAC tied to International Bancshares Corp, a bank holding company; a business/banking-industry PAC active in state politics."}
+    ]
+  },
+  {
+    "donor_id": "b39f9944-f0af-440a-8428-c8f3d42b2b7c",
+    "name": "WIlke, Jan & Jay",
+    "resolved_employer": "Self-employed; residential/commercial landlords at 6370 Alternate 90, Seguin, TX",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Jay Wilke and Jan M. Wilke are confirmed at 6370 Alternate 90, Seguin, TX 78155, listed as self-employed landlords. Property records tie both names to the address. A high FEC donation count (156) indicates frequent political giving, but no specific ideological/PAC affiliation could be corroborated in public records beyond individual candidate contributions.",
+    "source_url": "https://www.zillow.com/homedetails/6370-Alternate-90-Seguin-TX-78155/49579307_zpid/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aef28541-895d-4b00-9003-11f8b1cee982",
+    "name": "PAC, Bracewell",
+    "resolved_employer": "Bracewell LLP PAC — political action committee of Bracewell LLP, a major Texas law firm (formerly Bracewell & Giuliani); FEC committee C00021295",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "The Bracewell PAC is the federally registered PAC (FEC C00021295) of Bracewell LLP, an ~350-lawyer Texas-based firm nationally ranked (Chambers Band 1) for oil & gas and energy regulatory work. The PAC gave ~$105,500 to federal candidates in 2021-22. Address is Bracewell's San Antonio office.",
+    "source_url": "https://www.opensecrets.org/political-action-committees-pacs/bracewell-llp/C00021295/summary/2020",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bracewell LLP", "role": "Law firm PAC (FEC C00021295)", "category": "business", "source_url": "https://www.opensecrets.org/political-action-committees-pacs/bracewell-llp/C00021295/summary/2020", "snippet": "Bracewell LLP PAC is the connected PAC of an energy-focused law firm renowned for oil & gas and energy regulatory practice; contributes to federal candidates (~$105.5k in 2021-22)."}
+    ]
+  },
+  {
+    "donor_id": "aa71da30-e2a9-43af-9337-19dde5795f08",
+    "name": "Hilliard, Paula",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Resident of San Antonio 78260 matching the donor address; public data aggregators list a Paula Hilliard in 78260, but no occupation or employer is publicly identifiable. Contribution record lists occupation/employer as Na/None. FEC and TEC lobbyist searches returned nothing.",
+    "source_url": "https://www.mylife.com/paula-hilliard/e2169516462",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a7418350-bf94-4259-bd5b-40434ddbed6f",
+    "name": "Moody for Bexar County, Grant",
+    "resolved_employer": "Grant Moody campaign committee — Grant Moody, Bexar County Commissioner Precinct 3 (Republican)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Political committee of Grant Moody, the sole Republican on the Bexar County Commissioners Court (Precinct 3); Spears served as his Director of Constituent Services before running. This is a committee-to-candidate transfer.",
+    "source_url": "https://ballotpedia.org/Grant_Moody",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Grant Moody for Bexar County (Republican)", "role": "Candidate political committee of a sitting GOP county commissioner", "category": "political", "source_url": "https://ballotpedia.org/Grant_Moody", "snippet": "Grant Moody is a member of the Bexar County Commissioners Court representing Precinct 3 as a Republican, the only Republican on the court."}
+    ]
+  },
+  {
+    "donor_id": "a15042dc-9d0c-40f3-a380-54d97cbd51c8",
+    "name": "Political Committee, Killen Griffin & Farrimond",
+    "resolved_employer": "Killen, Griffin & Farrimond, PLLC (KGF Law) — San Antonio land-use, economic-development and government-relations/lobbying law firm; this is its political committee",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "KGF Law is a San Antonio law firm founded by Rob Killen, James B. Griffin and Ashley Farrimond specializing in land use, zoning, economic-development incentives and government relations; the firm 'regularly assists clients with lobbying efforts.' Contribution is from its political committee.",
+    "source_url": "https://www.kgftx.com/firm-overview",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Killen, Griffin & Farrimond, PLLC (KGF Law)", "role": "Land-use/government-relations firm engaged in lobbying City/County officials; political committee", "category": "business", "source_url": "https://www.kgftx.com/our-team", "snippet": "Firm assists clients with obtaining economic development incentives and lobbying efforts; principals practice government affairs before City and County."}
+    ]
+  },
+  {
+    "donor_id": "9cec4c9c-8735-4363-ad39-e5eb6fc731f0",
+    "name": "Hernandez, Andres",
+    "resolved_employer": "CTA Worldwide Chauffeured Transportation (President/owner, 'Andy' Hernandez) — luxury chauffeured/limo ground-transport company, San Antonio",
+    "industry": "Transportation",
+    "confidence": "high",
+    "evidence": "Andres 'Andy' Hernandez is president/owner of CTA Worldwide Chauffeured Transportation, a San Antonio luxury chauffeured-transport company (member of the National Limousine Association). Occupation and employer match the contribution record. No ideological PAC or lobbyist registration found; frequent-but-generic donor history (21 FEC records).",
+    "source_url": "https://ctalimo.com/meet-the-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9b33bf2f-ffea-4848-a6cf-e08cd82e24ef",
+    "name": "Delmer, Jonathan",
+    "resolved_employer": "Comfort Guns, LLC — self-employed dealer in collectible/antique firearms, San Antonio",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Jonathan Delmer (78209) owns Comfort Guns, LLC dealing in collectible/antique firearms; former 2017 San Antonio City Council District 10 candidate and president of the Oak Park/Northwood Neighborhood Association. Identity corroborated on zip, occupation and civic role.",
+    "source_url": "https://78209magazine.com/community-leader-jonathan-delmer/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Oak Park/Northwood Neighborhood Association (OPNNA)", "role": "President", "category": "civic", "source_url": "https://78209magazine.com/community-leader-jonathan-delmer/", "snippet": "Delmer serves as president of the Oak Park/Northwood Neighborhood Association, described as the largest neighborhood association in San Antonio with over 4,200 homes."}
+    ]
+  }
+]

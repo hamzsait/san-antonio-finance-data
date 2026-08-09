@@ -1,0 +1,255 @@
+[
+  {
+    "donor_id": "574923c8-6ea0-45f3-a043-fbacd69e0c0a",
+    "name": "Sheldon, Richard & Lisa",
+    "resolved_employer": "Rick Sheldon Real Estate, LLC (brokerage; San Antonio and Waco ties)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Richard 'Rick' Sheldon is broker/owner of Rick Sheldon Real Estate; wife Lisa Sheldon lists herself as Owner. Donor address 4006 Green Oak Dr, Waco 76710 matches the couple's Waco base; occupation 'Rick Sheldon Real Estate'/Retired.",
+    "source_url": "https://www.linkedin.com/in/lisa-sheldon-82288034/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4980d974-acce-4cc4-8edb-abec3387e4d2",
+    "name": "Hendrix, Jennifer",
+    "resolved_employer": "Family medicine physician (Dr. Jennifer Hendrix, DO), San Antonio",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Dr. Jennifer Hendrix, DO is a board-certified family medicine physician practicing in the Stone Oak area (78258), immediately adjacent to the donor's 78257 home; matches self-reported 'Physician' occupation.",
+    "source_url": "https://www.healthgrades.com/physician/dr-jennifer-hendrix-g9x6c",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "47c32845-3ab4-49d7-b8f9-84d2fa043022",
+    "name": "Brown, Dylan McDonald & Caroline",
+    "resolved_employer": "Attorney (specific firm not publicly confirmed)",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Donor self-reports occupation 'Attorney' at 210 Cave Ln, San Antonio 78209 (Alamo Heights). Could not corroborate a specific named attorney/firm profile for 'Dylan McDonald Brown' in State Bar or firm directories.",
+    "source_url": "https://www.justia.com/lawyers/texas/alamo-heights",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3be11a29-7759-4b6d-a300-3ed027fb7a6d",
+    "name": "Kuyrkendall, Donald & Deborah",
+    "resolved_employer": "Kuyrkendall & Company, Inc. (real estate brokerage) - President-Broker",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Donald J. Kuyrkendall founded and runs Kuyrkendall & Company; firm business address 12040 Colwick, San Antonio 78216 exactly matches the donor location. Deborah A. Kuyrkendall is listed among company leadership. Matches 'Real Estate Broker'/Self occupation.",
+    "source_url": "https://www.kuyrkendall.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3785cb4f-1a27-43be-aa47-9d0d5cd93f74",
+    "name": "Blanchard, Adam",
+    "resolved_employer": "Co-founder/CEO of Double Diamond Transport & Tanager Logistics (trucking/logistics); also co-founder Llano Realty Partners",
+    "industry": "Transportation",
+    "confidence": "high",
+    "evidence": "Adam Blanchard is co-founder/CEO of San Antonio trucking firm Double Diamond Transport and Tanager Logistics (donor's 'Texas Transportation Group'/Self-Employed listing); serves on the Texas Trucking Association executive committee; testified before U.S. Senate Commerce on cargo theft.",
+    "source_url": "https://ballotpedia.org/Adam_Blanchard",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas House District 122 (2022 GOP primary candidate)", "role": "Republican candidate for Texas House of Representatives", "category": "political", "source_url": "https://ballotpedia.org/Adam_Blanchard", "snippet": "Blanchard, a member of the Republican Party, ran for the Texas House of Representatives District 122 and lost in the March 1, 2022 Republican primary; endorsed by outgoing GOP Rep. Lyle Larson."},
+      {"org": "Texas Trucking Association (TXTA)", "role": "Vice Chairman at Large / Director at Large (Double Diamond Transport)", "category": "business", "source_url": "https://www.texastrucking.com/leadership/", "snippet": "Listed on TXTA leadership as Vice Chairman at Large and Director at Large representing Double Diamond Transport, San Antonio."}
+    ]
+  },
+  {
+    "donor_id": "22f80672-b1e8-494e-9074-e5e27354991f",
+    "name": "Bruce, Bob & Nancy",
+    "resolved_employer": "Self - radio/advertising production company founder & Boerne Stage Airfield owner-operators (Bob Bruce, retired/deceased)",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Robert 'Bob' Bruce (78006) founded an award-winning radio/advertising production company and, with wife Capt. Nancy, founded/operated Boerne Stage Airfield at 100 Boerne Stage Airfield. Bob was a longtime conservative taxpayer activist; memorial published April 2026.",
+    "source_url": "https://texastaxpayers.com/remembering-the-life-of-bob-bruce/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texans for Fiscal Responsibility", "role": "Activist/donor, voiced fiscal-policy ads", "category": "political", "source_url": "https://texastaxpayers.com/remembering-the-life-of-bob-bruce/", "snippet": "Bruce was actively involved with Texans for Fiscal Responsibility, regularly contributing his voice to some of the most impactful ads on major TV and radio efforts."},
+      {"org": "Texas Public Policy Foundation", "role": "Legacy supporter", "category": "political", "source_url": "https://tppf.planmylegacy.org/supporters-like-you/robert-and-captain-nancy-bruce", "snippet": "Robert and Captain Nancy Bruce recognized as legacy supporters of the Texas Public Policy Foundation."},
+      {"org": "Bexar Central Appraisal District Board", "role": "One of first elected members (property-tax relief)", "category": "political", "source_url": "https://texastaxpayers.com/remembering-the-life-of-bob-bruce/", "snippet": "Served as one of the first elected members of the Bexar Central Appraisal District Board of Directors, where he championed property tax relief."}
+    ]
+  },
+  {
+    "donor_id": "21c0478f-a758-4f11-a77b-abb789c9ec0d",
+    "name": "McNair, Chad & Shelly",
+    "resolved_employer": "Self - McNair Java Partners (family office); founder of Aspen Beverage Group (cold-brew mfg, sold 2017). Chad is a licensed P.E.",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Chad McNair, P.E. (Civil Eng., MBA), founded/built Aspen Beverage Group in San Antonio, sold it in 2017, and formed family office McNair Java Partners; wife Dr. Shelly McNair is a pediatrician. Home/office 14000 Mint Trail Dr, 78232 matches the donor address.",
+    "source_url": "https://www.stmarytx.edu/2019/mcnair-forum-breakfast/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Bright Hope World USA", "role": "Board member (Christian relief nonprofit)", "category": "civic", "source_url": "https://www.brighthopeworld.com/who-team-usboard.asp", "snippet": "Bright Hope World USA board; organization USA address listed as 14000 Mint Trail Drive, San Antonio, TX 78232."}
+    ]
+  },
+  {
+    "donor_id": "1b0c369b-b8a2-4f1c-919c-2609b6ec233e",
+    "name": "Locke, Aimee",
+    "resolved_employer": "Retired attorney (Aimee Jeffers Locke, State Bar of Texas, retired status)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "State Bar of Texas lists Aimee Jeffers Locke (UT Law) at 601 Contour Dr, 78212 with 'Retired' status; matches donor 'Retired' occupation and address. Board member of ThriveWell Cancer Foundation.",
+    "source_url": "https://www.texasbar.com/attorneys/member.cfm?id=197121",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "ThriveWell Cancer Foundation", "role": "Board member", "category": "civic", "source_url": "https://thrivewell.org/tag/aimee-locke/", "snippet": "Aimee Locke listed among ThriveWell Cancer Foundation board/leadership."}
+    ]
+  },
+  {
+    "donor_id": "13845125-db23-4a83-bf21-2dd78257deaf",
+    "name": "Woods, Gary",
+    "resolved_employer": "McCombs Enterprises - President (now retired); former independent chairman, Argo Group International",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Gary V. Woods was President of McCombs Enterprises (Red McCombs's diversified auto/energy/real-estate/investment holding company) and independent chairman of Argo Group Intl.; extensive San Antonio nonprofit boards. Address 810 E Olmos Dr, 78212 consistent; donor lists McCombs Enterprises + 'Retired.'",
+    "source_url": "https://relationshipscience.com/person/gary-v-woods-3238106",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "McCombs Enterprises (includes energy/oil & gas interests)", "role": "President (retired)", "category": "oil_gas", "source_url": "https://relationshipscience.com/person/gary-v-woods-3238106", "snippet": "President of McCombs Enterprises, the umbrella over Red McCombs's automotive, energy, real estate and investment interests."},
+      {"org": "Will Hurd for Congress (FEC)", "role": "Donor $2,600 (2014)", "category": "political", "source_url": "https://www.city-data.com/elec2/14/elec-SAN-ANTONIO-TX-14-part7.html", "snippet": "Gary V. Woods, McCombs Enterprises, contributed $2,600 to Will Hurd for Congress (R) on 09/30/2014."},
+      {"org": "Children's Shelter Foundation / South Texas Blood & Tissue / BioBridge Global", "role": "Director/Chairman", "category": "civic", "source_url": "https://www.marketscreener.com/insider/GARY-V-WOODS-A02SOP/", "snippet": "Serves as chairman/director of Children's Shelter Foundation, South Texas Blood & Tissue, BioBridge Global, and San Antonio Cancer Foundation."}
+    ]
+  },
+  {
+    "donor_id": "1065cea2-5690-4e2a-ad5e-880b2a06fdbf",
+    "name": "Martinez, Tony Cerna & Frances",
+    "resolved_employer": "Lennar (San Antonio division) - VP of Sales & Marketing (Tony Cerna III)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Lennar press materials identify Tony Cerna III as Lennar San Antonio's VP of Sales & Marketing, matching donor occupation/employer; residence Floresville, 78114.",
+    "source_url": "https://resourcecenter.lennar.com/texas-san-antonio/master-planned-hidden-trails-community-celebrates-amenity-center-grand-opening/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "63e10c6d-aa9f-4668-ace0-ad719ad5c6a7",
+    "name": "Roberts, Melinda",
+    "resolved_employer": "Keller Williams City-View (San Antonio) - real estate agent",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Licensed TX real estate agent (commercial/residential) at Keller Williams City-View, San Antonio since 2009; matches donor occupation 'Realtor' and employer string. Member of CREW (Commercial Real Estate Women) and BNI.",
+    "source_url": "https://www.homes.com/real-estate-agents/melinda-roberts/yd2zq9t/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "CREW (Commercial Real Estate Women)", "role": "Member", "category": "business", "source_url": "https://www.linkedin.com/in/melinda-roberts-realtor/", "snippet": "professional affiliations including CREW (Commercial Real Estate Women) and is a member of BNI"}
+    ]
+  },
+  {
+    "donor_id": "4735c3b2-197e-4332-ae27-014082de95ae",
+    "name": "Cain, Randy",
+    "resolved_employer": "Ernst & Young (EY) - former US Vice Chair & Southwest Region Managing Partner (retired)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "T. Randall 'Randy' Cain, San Antonio (78209 confirmed via 1994 FEC record); 36-yr EY career retiring as US Vice Chair/Southwest Region Managing Partner. Board seats at Susser Bank, Whataburger Inc., Valero Alamo Bowl. Note: the registered TX lobbyist 'Randy C. Cain' is a different Austin attorney, NOT this donor.",
+    "source_url": "https://www.susserbank.com/board-of-directors/randycain/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Susser Bank", "role": "Director (Board of Directors)", "category": "business", "source_url": "https://www.susserbank.com/board-of-directors/randycain/", "snippet": "T. Randall 'Randy' Cain ... Director at Susser Bank ... 36 years at Ernst & Young ... Former Vice-Chair and Southwest Regional Managing Partner"},
+      {"org": "Whataburger, Inc.", "role": "Board of Directors (BDT Capital appointee)", "category": "business", "source_url": "https://www.susserbank.com/board-of-directors/randycain/", "snippet": "BDT Capital appointed Cain to the Board of Directors of Whataburger, Inc."},
+      {"org": "Valero Alamo Bowl", "role": "Board member; 2022 Bowl Chair", "category": "civic", "source_url": "https://www.alamobowl.com/board_member/randy-cain/", "snippet": "Cain Selected as 2022 Bowl Chair"},
+      {"org": "Texas Tax Reform Commission / Texas Emerging Technology Fund Advisory Committee", "role": "Gubernatorial appointee", "category": "government", "source_url": "https://www.susserbank.com/board-of-directors/randycain/", "snippet": "Governor of Texas appointed him ... the Texas Tax Reform Commission and the Advisory Committee of the Texas Emerging Technology Fund"}
+    ]
+  },
+  {
+    "donor_id": "f693bffe-890a-440d-b6db-03fea985572f",
+    "name": "GARDNER, DAVID",
+    "resolved_employer": "Retired (former career unknown)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor lists only 'RETIRED' with no employer. 'David Gardner' is a very common name; no public profile could be corroborated to the 415 Stonewood, 78216 address on both zip and occupation. Unidentifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "390d5e88-3050-4be7-95a9-ec64d5a04349",
+    "name": "Vasquez, Patricia",
+    "resolved_employer": "Self-employed (educator)",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Donor occupation 'Educator / Self employed.' 'Patricia Vasquez' is a very common name; no public profile could be corroborated to the 78232 address on both zip and occupation. Industry classified by stated occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "37c5e4a2-ba9d-4cef-91aa-27fe96d3467e",
+    "name": "Burdine, Charlotte",
+    "resolved_employer": "Retired (former career unknown)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor lists only 'Retired' (N/A employer). Address 27211 Timberline Dr, 78260 confirmed via public records; associated with James and Kimberly Burdine. No former-career, occupation, or advocacy/PAC record documented. Unidentifiable beyond retiree status.",
+    "source_url": "https://www.officialusa.com/names/Charlotte-Burdine/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2bf6333f-e6a6-4f30-adfd-0e66cba3fe5d",
+    "name": "rath, diane",
+    "resolved_employer": "Alamo Area Council of Governments (retired) - former Executive Director; former Chair, Texas Workforce Commission",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Diane D. Rath, San Antonio public figure: TX Workforce Commission Chair (Gov. Bush appointee, 1996-2008), AACOG Executive Director 2014 until retirement in 2023. Zip 78209 (Alamo Heights area) fits a senior retired official.",
+    "source_url": "https://sanantonioreport.org/aacog-diane-rath-resignation-workplace-complaints/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Workforce Commission", "role": "Chair/Commissioner (1996-2008), appointed by Gov. George W. Bush", "category": "government", "source_url": "https://www.sacurrent.com/news/diane-rath-exits-san-antonios-aacog-amid-hostile-workplace-probe-32945909/", "snippet": "former Texas Workforce Commission chair, had led AACOG since 2014"},
+      {"org": "Alamo Area Council of Governments (AACOG)", "role": "Executive Director (2014-2023, retired)", "category": "government", "source_url": "https://www.ksat.com/news/local/2023/10/25/aacog-head-retires-amid-allegations-of-hostile-work-environment/", "snippet": "AACOG board accepts Diane Rath's resignation/retirement amid workplace complaints"}
+    ]
+  },
+  {
+    "donor_id": "04cf79fd-11aa-4613-896a-e0d87255b963",
+    "name": "Cohen, David",
+    "resolved_employer": "Hill Country Wound Care Vascular & Hyperbarics - Physician",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. David Cohen, MD - wound/burn care specialist with 40+ years and a general/cardiothoracic surgery background; practices at Hill Country Wound Care, San Antonio/Bulverde. Matches donor occupation 'Physician' and employer 'Hill Country Wound Care'; zip 78248 is North Side San Antonio.",
+    "source_url": "https://www.hillcountrywoundcare.com/meettheteam",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e3829c97-8c59-4ec9-a109-2bd1df046c03",
+    "name": "SPEARS, MISTY",
+    "resolved_employer": "Martinez de Vara P.C. - lead/senior paralegal (now San Antonio City Council D9 councilwoman)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Public figure; this row is Spears donating to other candidates (Erika Moe, IRNA Rudolph) c.2021-2022 when she was a senior paralegal at Martinez de Vara Law Firm and a 2022 candidate for Bexar County District Clerk. She later won the 2025 GOP-backed D9 council seat. Zip 78259 matches her North Side residence.",
+    "source_url": "https://sanantonioreport.org/profile/misty-spears-2025-san-antonio-city-council-district-9-candidate/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio City Council, District 9", "role": "Councilwoman (won 2025); prior 2022 candidate for Bexar County District Clerk (Republican)", "category": "political", "source_url": "https://sanantonioreport.org/san-antonio-election-results-district-9-misty-spears/", "snippet": "GOP-backed Misty Spears wins Northside District 9 seat"}
+    ]
+  },
+  {
+    "donor_id": "e4e6d13c-78ec-43e0-b2f1-ca0467612b19",
+    "name": "Bellinger, John",
+    "resolved_employer": "Self-Employed - founder/CEO of Food Safety Net Services; Texas Western Beef, Agri-West International, Bellinger Development",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "John W. Bellinger, San Antonio agribusiness entrepreneur; family trusts registered at 19431 Settlers Creek, San Antonio 78258 (exact donor address). Co-founded Food Safety Net Services (large N. American food microbial testing firm); founder of Texas Western Beef, Agri-West Intl, Bellinger Development.",
+    "source_url": "https://www.tamus.edu/regents/bios/john-bellinger/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas A&M University System Board of Regents", "role": "Regent, appointed by Gov. Greg Abbott (2023); Chair, Committee on Research", "category": "political", "source_url": "https://www.tamus.edu/regents/bios/john-bellinger/", "snippet": "Appointed to the Board of Regents by Governor Greg Abbott in 2023"},
+      {"org": "U.S. Meat Export Federation / Southwest Meat Association", "role": "Former Chairman (both)", "category": "business", "source_url": "https://www.tamus.edu/regents/bios/john-bellinger/", "snippet": "Former Chairman of the U.S. Meat Export Federation; Former Chairman of the Southwest Meat Association"}
+    ]
+  },
+  {
+    "donor_id": "10aeb247-f6db-4702-a747-52ebaa0ca845",
+    "name": "Bluntzer, Shay",
+    "resolved_employer": "Marlin Blue Strategists - Founder & CEO (public affairs / government relations)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Shay Bluntzer founded and leads Marlin Blue Strategists, a Texas-based public-affairs/government-relations firm; prior senior government-relations/public-affairs role at Valero Energy. Zip 78260 matches Sunny Mdw, San Antonio. (Note: registered TX lobbyist 'Bluntzer, James R.' of BofA Securities is a different person.)",
+    "source_url": "https://marlinbluestrategists.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Marlin Blue Strategists", "role": "Founder & CEO", "category": "business", "source_url": "https://business.sachamber.org/memberdirectory/Details/marlin-blue-strategists-4575408", "snippet": "Marlin Blue Strategists - full-service Texas-based public affairs firm providing strategic counsel on legislative and regulatory issues"},
+      {"org": "Valero Energy Corporation", "role": "Prior government relations / public affairs leadership", "category": "business", "source_url": "https://www.linkedin.com/in/shay-bluntzer-054a1813/", "snippet": "prior roles at Valero Energy Corporation; energy-sector policy focus"}
+    ]
+  }
+]
