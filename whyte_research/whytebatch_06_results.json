@@ -1,0 +1,287 @@
+[
+  {
+    "donor_id": "220d2864-769a-4044-afab-f26bce1b4ec6",
+    "name": "Warren, Carolyn",
+    "resolved_employer": "TacMed Solutions (Tactical Medical Solutions) — Director of Human Resources / VP People & Culture",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Carolyn Warren is HR Director / VP People & Culture at TacMed Solutions (tactical medical equipment maker) in San Antonio; matches occupation 'HR Director' and employer 'TacMed'. LinkedIn/ZoomInfo confirm role. No federal PAC or TX lobbyist records found.",
+    "source_url": "https://www.zoominfo.com/p/Carolyn-Warren/1449010065",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1ce8d0ef-3a0f-4ad4-933a-189246e4e0f9",
+    "name": "USAA, PAC",
+    "resolved_employer": "USAA (United Services Automobile Association) — San Antonio insurance and financial-services company; corporate/employee PAC",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Donor is USAA's political action committee. USAA is a San Antonio-headquartered insurance/financial-services firm; its federal PAC is the United Services Automobile Association Employee PAC (FEC ID C00164145). Classified as Finance/insurance.",
+    "source_url": "https://www.fec.gov/data/committee/C00164145/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "USAA Employee PAC (United Services Automobile Association)",
+        "role": "Corporate/employee political action committee",
+        "category": "business",
+        "source_url": "https://www.fec.gov/data/committee/C00164145/",
+        "snippet": "UNITED SERVICES AUTOMOBILE ASSOCIATION EMPLOYEE PAC - USAA EMPLOYEE PAC - committee overview - FEC.gov; registered 1982, FEC ID C00164145."
+      }
+    ]
+  },
+  {
+    "donor_id": "1ad910d6-1008-46c0-90d3-5d0c2403216d",
+    "name": "Hebdon, Carol",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "high",
+    "evidence": "Carol M. Hebdon, homemaker, co-owns 8102 Nufy Ridge, San Antonio 78209 (per Bexar County property records) with Jack C. Hebdon Jr., president of Hebdon Family Investments. Address and name match donor record. No federal PAC or TX lobbyist records for her.",
+    "source_url": "https://www.city-data.com/bexar-county/N/Nufy-Ridge-1.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1835d7b2-3377-40cd-af57-de0201b577d6",
+    "name": "OLSON, CARL",
+    "resolved_employer": "Olson Properties, Inc. — President / commercial real estate broker (San Antonio)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Carl Olson Sr. is president of Olson Properties, Inc., a San Antonio commercial real estate brokerage he founded in 1970; CCIM designation since 1979. Matches occupation and employer strings exactly. No federal ideological-PAC or TX lobbyist records found.",
+    "source_url": "https://www.olsonproperties.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "103b1fb1-a248-41e0-bc57-dec8e305610d",
+    "name": "Briones Consulting and Engineering, LTD",
+    "resolved_employer": "Briones Consulting & Engineering, Ltd. (self)",
+    "industry": "Engineering",
+    "confidence": "high",
+    "evidence": "San Antonio civil engineering/consulting firm (est. 30+ yrs) providing public-works and land-development engineering (streets, flood control, water/sewer, airports, parks) for governments and developers in South Texas; office at 8118 Broadway, San Antonio 78209; founded and led by President Rolando H. Briones Jr., a UT-Austin civil engineer and former SAWS division manager. Firm-name donor; the 78230 address is a principal/registered address. FEC note: principal Rolando H. Briones Jr. gave $1,000 to Friends of Mary Landrieu in 2010, but no policy-advocacy PAC ties found for the firm. No Texas Ethics Commission lobbyist registration found for Rolando Briones (only unrelated Jose L. Briones appears).",
+    "source_url": "http://www.brionesengineering.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0ed36e8e-b017-422a-9c49-ea6d0553de8c",
+    "name": "Boldrick, Sam",
+    "resolved_employer": "Argent Trust Company",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Samuel N. Boldrick III is Director of Fixed Income at Argent Trust Company in San Antonio; founding principal/managing director of The Trust Company (merged into Argent Financial Group in 2013) where he served ~15 years as CIO, and founder/President of Presidio Advisors, Inc. and general partner of the Presidio Short Term Tax Exempt and Short Term Bond Funds. Matches donor occupation 'Investments' and employer 'Argent Trust.' No FEC PAC match confirmed (a 'Miles Boldrick' DeSantis donor is a different person). No Texas Ethics Commission lobbyist registration found.",
+    "source_url": "https://argentfinancial.com/people/samuel-boldrick/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0c1a216e-ce92-40b2-87fd-d5fe3e557cb8",
+    "name": "SA Prof Firefighters, Assoc Local 624",
+    "resolved_employer": "San Antonio Professional Firefighters Association / IAFF Local 624 (self)",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "San Antonio Professional Firefighters Association, IAFF Local 624, the city firefighters' labor union (chartered 1958); operates a political action committee funded via union dues/PAC contributions and is politically active in San Antonio (e.g., its 'Vote Against Prop C' PAC spent ~$167K in the 2024 charter fight over firefighter salary caps). Donor is the union PAC itself.",
+    "source_url": "https://www.safirefighters.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "International Association of Fire Fighters (IAFF) Local 624 / San Antonio Professional Firefighters Association",
+        "role": "labor union PAC (self)",
+        "category": "labor",
+        "source_url": "https://www.transparencyusa.org/tx/contributor/san-antonio-professional-firefighters-local-624/also-known-as",
+        "snippet": "San Antonio Professional Firefighters Local 624 - Texas political contributor; the firefighters' union PAC active in Texas/local campaign giving."
+      }
+    ]
+  },
+  {
+    "donor_id": "08c572b1-cd23-4d17-953c-e5038a37677c",
+    "name": "SOLIS, CARLOS",
+    "resolved_employer": "Solis Law Firm",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Best match is Carlos E. Solis, San Antonio attorney (licensed Texas 1997; J.D. University of Houston Law Center; B.B.A. Finance UT-Austin), founder of Solis Law Firm (solis-law.com, est. 2022; earlier founding partner of Solis & Smith, P.C. in 2009). Practice includes insurance coverage, construction defect, real estate disputes, and mediation/arbitration; he is also an active real estate investor (15+ yrs, commercial/multi-family/residential). Matches donor's 'Attorney / Real Estate, LAWYER' occupation and 'Solis Law Firm' employer. Firm address is 78249 vs donor home 78258 (both San Antonio); a separate Carlos Adrian Solis (78201) also exists, hence medium confidence. No FEC PAC or Texas Ethics Commission lobbyist registration found; memberships are professional bar associations only (San Antonio Bar Assn, ABA, American Arbitration Assn), not policy advocacy.",
+    "source_url": "https://solis-law.com/about-me",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "02b2dd5b-c22a-4e87-bdd3-a724fd9f68fa",
+    "name": "STMA, Wholesale",
+    "resolved_employer": "STMA Wholesale (South Texas Merchants Association Wholesale)",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Business entity, not an individual. STMA Wholesale (South Texas Merchants Association) is a convenience-store wholesale distributor at 12054 Starcrest Dr, San Antonio, TX 78247 (donor address '12504 Starcrest' is a one-digit transposition of the real 12054). Founded ~2000, it supplies 400+ independent convenience stores/gas stations across South Texas. Classified as Retail (wholesale distribution). No federal PAC, TX lobbyist, or ideological-advocacy record found for the entity.",
+    "source_url": "https://www.mystma.com/who-we-are.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eaa4814c-04bc-4b97-af52-afaa01991a83",
+    "name": "Novak, Michael",
+    "resolved_employer": "Novak Group LLC",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Mike Novak, founder/president of Novak Group LLC (employer string exact match), a San Antonio construction management and energy-solutions firm founded 2006; previously founded Contemporary Constructors Inc. (1980) and CCI Telecom. Occupation 'Consultant' fits his niche-contracting advisory role. Longtime SA civic/political figure. No federal ideological PAC or TX lobbyist registration found in searches; involvement is via appointed boards and civic leadership.",
+    "source_url": "http://www.novakgroupllc.com/about-novak-group/mike-novak/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Facilities Commission", "role": "Commissioner (appointed 2011); later Executive Director", "category": "government", "source_url": "http://www.novakgroupllc.com/about-novak-group/mike-novak/", "snippet": "Texas Facilities Commission (appointed 2011)"},
+      {"org": "Greater San Antonio Chamber of Commerce", "role": "Chairman (2004)", "category": "business", "source_url": "http://www.novakgroupllc.com/about-novak-group/mike-novak/", "snippet": "Greater San Antonio Chamber of Commerce – Chairman (2004)"},
+      {"org": "San Antonio Military Task Force", "role": "Presiding Tri-Chair (since 2006)", "category": "military_defense", "source_url": "http://www.novakgroupllc.com/about-novak-group/mike-novak/", "snippet": "San Antonio Military Task Force – Presiding Tri-Chair (since 2006); community liaison to U.S. Army South Commanding General (2006-2011)"},
+      {"org": "Bexar County Commissioners Court", "role": "County Commissioner (1995-1999)", "category": "political", "source_url": "http://www.novakgroupllc.com/about-novak-group/mike-novak/", "snippet": "Bexar County Commissioner (1995-1999)"}
+    ]
+  },
+  {
+    "donor_id": "c24b29ca-ec51-4763-8106-e4b4601f07d3",
+    "name": "Bunce, Duane",
+    "resolved_employer": "Zachry Group (Zachry Industrial, Inc.)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Duane L. Bunce is Senior Assistant General Counsel at Zachry Group, San Antonio (matches employer string 'Zachry'). TX bar member (BBA Texas Tech, JD St. Mary's; licensed 1995); named among 2026 Best Lawyers in San Antonio for Zachry Industrial, Inc. In-house attorney, so classified Legal. Only political-money record found is a $500 gift to his employer's corporate PAC (ZACOPAC) in 2008 — no ideological/issue PAC and no TX lobbyist registration.",
+    "source_url": "https://www.zoominfo.com/p/Duane-Bunce/63490602",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Zachry Construction Corporation PAC (ZACOPAC)", "role": "Contributor ($500, 1/15/2008)", "category": "business", "source_url": "https://www.city-data.com/elec2/08/elec-SAN-ANTONIO-TX-08-part7.html", "snippet": "Duane Bunce, listed as Project Support at Zachry Construction Corporation (78221), made a $500 contribution to ZACOPAC on January 15, 2008."}
+    ]
+  },
+  {
+    "donor_id": "af545843-e11a-4770-9935-2a654a89c162",
+    "name": "Kozel, Brian",
+    "resolved_employer": "Certified Laboratories (NCH Corporation / now part of Solenis)",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "Brian Kozel is a Sales Representative at Certified Laboratories, based in Pearland, TX (matches employer string, occupation 'Sales', and 77584 zip). His email domain certifiedlabs.com identifies the NCH Corporation 'Certified Laboratories' industrial lubricant/fuel-treatment manufacturer (self-described largest independent lubricant manufacturer in North America, serving oil & gas, fleet, construction, mining; now part of Solenis) — NOT the similarly named food-safety testing firm at certified-laboratories.com. Prior role in ticket sales with Houston Dynamo; Texas A&M grad. Industry recorded as Energy / Environment reflecting the petroleum-lubricant/fuel-products employer (industrial B2B sales; no better-fitting taxonomy bucket). No federal PAC, ideological-advocacy, or TX lobbyist record found.",
+    "source_url": "https://www.certifiedlabs.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f7285628-b1d8-4317-bfb1-e626ba2ab26a",
+    "name": "Kustoff, Daniel",
+    "resolved_employer": "Kustoff & Sanders, L.L.P. (now Kustoff & Phipps, L.L.P.), San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Daniel O. Kustoff is a partner at the San Antonio litigation firm formerly Kustoff & Sanders, L.L.P. (now Kustoff & Phipps, L.L.P.), board certified in Consumer & Commercial Law and Civil Trial Law by the Texas Board of Legal Specialization; licensed in TX since 1989. Matches donor occupation (Attorney), employer string, and San Antonio location. No individual FEC contributions found for this Daniel Kustoff (federal 'Kustoff' hits are U.S. Rep. David Kustoff of TN, a different person); no TX Ethics Commission lobbyist registration found.",
+    "source_url": "https://www.salegal.com/attorneys/daniel-o-kustoff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f31ac4e8-4f50-4d4e-b707-8092abdbe636",
+    "name": "Shemshack, Fawzy",
+    "resolved_employer": "Riverwalk Education Foundation / School of Science and Technology (SST) charter schools",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Fawzy Shemshack is CEO/Superintendent of the Riverwalk Education Foundation, the nonprofit that operates the School of Science and Technology (SST) tuition-free STEM charter school network across San Antonio, Houston, and Corpus Christi (~20 campuses, ~11,000 students). 2024 Form 990 lists compensation ~$151,663. Matches donor occupation (CEO), employer string, and Boerne/San Antonio area. No FEC PAC contributions or TX Ethics Commission lobbyist registration found.",
+    "source_url": "https://philanthropy.org/990/report/010758906/riverwalk-education-foundation-inc",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "Riverwalk Education Foundation / School of Science and Technology (SST)",
+        "role": "CEO / Superintendent",
+        "category": "business",
+        "source_url": "https://philanthropy.org/990/report/010758906/riverwalk-education-foundation-inc",
+        "snippet": "Fawzy Shemshack, Superintendent/CEO, Riverwalk Education Foundation Inc (EIN 01-0758906), 2024 compensation $151,663 plus $15,355 other; the foundation operates SST public charter schools accredited by the Texas Education Agency."
+      }
+    ]
+  },
+  {
+    "donor_id": "51cdff05-cf87-4aa5-b147-51fa9f521ed7",
+    "name": "Hui, Kin",
+    "resolved_employer": "U.S. Department of the Air Force, Chief Engineer for Air Force Cyber Systems (retired 2017)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Kin Yan Hui of San Antonio is a retired civil-servant engineer who served 35 years with the U.S. Department of the Air Force, retiring in 2017 as Chief Engineer for four Air Force Cyber Systems (BSEE, University of Houston). Matches donor occupation (Engineer, Retired) and location; zip 78250 falls in Zoning District 6, where he serves as D6 Zoning Commissioner. No FEC PAC contributions or TX Ethics Commission lobbyist registration found.",
+    "source_url": "https://www.cahf.us/volunteer-2",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {
+        "org": "City of San Antonio Zoning Commission",
+        "role": "District 6 Commissioner",
+        "category": "civic",
+        "source_url": "https://www.cahf.us/volunteer-2",
+        "snippet": "Mr. Hui ... District 6 Commissioner on the City of San Antonio Zoning Commission."
+      },
+      {
+        "org": "Chinese American Citizens Alliance",
+        "role": "National Vice President of Membership",
+        "category": "civic",
+        "source_url": "https://www.cahf.us/volunteer-2",
+        "snippet": "National Vice President of Membership for the Chinese American Citizens Alliance."
+      },
+      {
+        "org": "Chinese American Heritage Foundation (CAHF)",
+        "role": "Board Member & Chief Information Officer",
+        "category": "civic",
+        "source_url": "https://www.cahf.us/volunteer-2",
+        "snippet": "Kin Yan Hui - Board Member and Chief Information Officer of CAHF; Past President of the Asian American Alliance of San Antonio; Treasurer of the San Antonio Chinese Community Council."
+      }
+    ]
+  },
+  {
+    "donor_id": "0f0881c0-9118-436a-af31-0e9fd4c29a71",
+    "name": "Malek, Farbod",
+    "resolved_employer": "Bone and Joint Surgery Associates, P.A., San Antonio",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Farbod Malek is a fellowship-trained orthopedic surgeon (joint replacement, orthopedic oncology/limb salvage) at Bone and Joint Surgery Associates, P.A. in San Antonio (Babcock Rd, 78229); board certified by the American Board of Orthopedic Surgery; MD from Tehran University, residency/fellowships at UT Health San Antonio and Memorial Sloan Kettering. Matches donor occupation (Physician, Surgeon) and employer strings. No FEC PAC contributions, TX Ethics Commission lobbyist registration, or policy-advocacy board seats found.",
+    "source_url": "https://www.bjsapa.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0475077a-539a-4af0-bb10-924ec283eaab",
+    "name": "Hayden, Wade",
+    "resolved_employer": "Hayden & Cunningham, PLLC",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "D. Wade Hayden is an attorney and managing partner at Hayden & Cunningham, PLLC, 7750 Broadway, San Antonio 78209 (matches donor address/occupation exactly). Practice areas: business, creditor-debtor, real estate; represents banks and credit unions. Gubernatorial appointee to the Texas Private Security Board (reappointed by Gov. Abbott 2019). The high FEC donation count (138) aligns with small-dollar giving via WinRed, the Republican donation-processing platform: city-data lists 'Wade Hayden, attorney, 78209' giving to WINRED — consistent Republican federal small-dollar giving. No TX lobbyist registration found (only unrelated Rose A. Hayden appears).",
+    "source_url": "https://gov.texas.gov/news/post/governor-abbott-reappoints-hayden-and-mertz-ulmer-to-the-texas-private-security-board",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hayden & Cunningham, PLLC", "role": "Attorney / Managing Partner", "category": "business", "source_url": "https://gov.texas.gov/news/post/governor-abbott-reappoints-hayden-and-mertz-ulmer-to-the-texas-private-security-board", "snippet": "Hayden, based in San Antonio, operates as 'an attorney and managing partner with Hayden & Cunningham, PLLC.' His professional affiliations include membership in the San Antonio Bar Association, Texas Bar Association, and the Texas Association of Bank Counsel."},
+      {"org": "Texas Private Security Board", "role": "Board Member (Gov. Abbott appointee)", "category": "civic", "source_url": "https://gov.texas.gov/news/post/governor-abbott-reappoints-hayden-and-mertz-ulmer-to-the-texas-private-security-board", "snippet": "Governor Greg Abbott reappointed Wade Hayden to the Texas Private Security Board for a term ending January 31, 2025. The board regulates the private security profession in Texas."},
+      {"org": "WinRed (Republican federal donation platform)", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part98.html", "snippet": "Wade Hayden, listed as an attorney from zip code 78209 in San Antonio, made a contribution to WINRED — the Republican small-dollar donation-processing platform (consistent with the high FEC donation count)."}
+    ]
+  },
+  {
+    "donor_id": "f1266826-77d0-4035-b967-b2bdb8e47a9c",
+    "name": "Bauer, Mark",
+    "resolved_employer": "RFM Commercial, Inc.",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Mark W. Bauer is a Principal at RFM Commercial, Inc. (San Antonio commercial real estate firm founded 1991 by Richard McCaleb), a Partner there 20+ years; matches donor occupation (real estate developer) and employer (RFM Commercial). Prior career: SVP/Director of loan production at Local Federal Bank FSB (Oklahoma City). BBA Finance, UT Austin. No board/civic affiliations listed on firm bio. NOTE: the 'Mark Bauer for Congress' FEC committee (C00731570, TX-24, 2020) is a DIFFERENT person — a journalist — not this real estate principal. No TX lobbyist registration found for this Mark Bauer.",
+    "source_url": "https://www.rfmcommercial.com/mark-bauer/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "RFM Commercial, Inc.", "role": "Principal / Partner", "category": "business", "source_url": "https://www.rfmcommercial.com/mark-bauer/", "snippet": "Principal at RFM Commercial, Inc. with over 20 years as a Partner at the firm. As Principal, he has been involved in developing or acquiring more than $75 million in commercial real estate investments, primarily throughout the San Antonio area."}
+    ]
+  },
+  {
+    "donor_id": "aa7da52b-58b1-4282-985c-d40736eb06d0",
+    "name": "McFarland, Milton",
+    "resolved_employer": "Retired (former career not established in public records)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor lists occupation 'Retired' at 78217. A Milton R. McFarland served on the City of San Antonio Zoning Commission representing District 10 (per city zoning agendas 2013-2015); zip 78217 falls within the D10/northeast area, making this a plausible identity match, but his prior career/employer is not established in public records. No FEC PAC contributions and no TX Ethics Commission lobbyist registration found. Per instructions, industry left null (retired, career unknown; do not guess).",
+    "source_url": "https://docsonline.sanantonio.gov/FileUploads/dsd/ZCAgendaJune32014.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "City of San Antonio Zoning Commission", "role": "Commissioner, District 10 (former)", "category": "civic", "source_url": "https://docsonline.sanantonio.gov/FileUploads/dsd/ZCAgendaJune32014.pdf", "snippet": "Milton R. McFarland is listed as a member of the City of San Antonio Zoning Commission representing District 10 in official commission agendas (2013-2015). Identity match is plausible but not confirmed."}
+    ]
+  },
+  {
+    "donor_id": "a7e273dc-e111-4e20-8e1a-22f8ff4284af",
+    "name": "Kirk, John",
+    "resolved_employer": "Embrey Partners / EMBREY",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "John Kirk is Managing Director / Executive VP of Development at Embrey Partners (major San Antonio multifamily developer), joined 2012; oversees the development pipeline across all Embrey markets. Matches donor occupation (VP, Real Estate) and employer strings (Embry Partners/Embrey DC). B.S. Construction Science and Master in Land Economics/Real Estate, Texas A&M (Mays Business School). Active in Urban Land Institute and San Antonio Real Estate Council; named SA Business Journal '40 Under 40.' Church/ministry community roles noted but not policy-advocacy. No FEC ideological PAC contributions found (Ron Kirk results are a different person); no TX lobbyist registration (Celeste M. Embrey and Ty H. Embrey are the registered Embrey-name lobbyists, not John Kirk).",
+    "source_url": "https://www.prnewswire.com/news-releases/embrey-partners-promotes-john-kirk-300989435.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Embrey Partners (EMBREY)", "role": "Managing Director / EVP of Development", "category": "business", "source_url": "https://www.prnewswire.com/news-releases/embrey-partners-promotes-john-kirk-300989435.html", "snippet": "New Position: Managing Director, Development. Kirk oversees and manages production and execution of Embrey's development pipeline across all company markets. Kirk joined Embrey in 2012 after Skanska Commercial Development and The Hanover Company."},
+      {"org": "Urban Land Institute", "role": "Member", "category": "business", "source_url": "https://www.prnewswire.com/news-releases/embrey-partners-promotes-john-kirk-300989435.html", "snippet": "Active in the Urban Land Institute; Member of San Antonio Real Estate Council."},
+      {"org": "San Antonio Real Estate Council", "role": "Member", "category": "business", "source_url": "https://www.prnewswire.com/news-releases/embrey-partners-promotes-john-kirk-300989435.html", "snippet": "Member of San Antonio Real Estate Council."}
+    ]
+  }
+]

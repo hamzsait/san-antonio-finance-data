@@ -1,0 +1,242 @@
+[
+ {
+  "donor_id": "7b78aed2-582a-4480-83e4-10d263d8fabe",
+  "name": "Valkenaar, Lauren",
+  "resolved_employer": "Chasnoff, Mungia, Valkenaar, Pepping & Stribling, LLP (named partner, commercial litigation attorney)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "St. Mary's Law valedictorian; joined the San Antonio boutique litigation firm as a named partner in Aug 2019 (firm renamed to include her). Practices complex commercial/business litigation. Matches zip 78209 and firm employer string.",
+  "source_url": "https://chasnoffstribling.com/news/lauren-a-valkenaar-joins-firm-as-partner/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6b853f7d-4fae-4a2b-9dca-25c2bcf0088c",
+  "name": "Guzman, Erika",
+  "resolved_employer": "Whyte PLLC (Senior Paralegal) — candidate Marc Whyte's own law firm",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Senior Paralegal at Whyte PLLC with ~8 years legal experience; UTSA Magna Cum Laude (BA Interdisciplinary Studies). Firm bio and LinkedIn confirm; she is candidate Marc Whyte's own employee (employer string 'Whyte PLLC' matches).",
+  "source_url": "https://whytepllc.com/leadership/erika-guzman/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "57cb6168-b22d-425c-aaaf-f2512c16601e",
+  "name": "Hummel, Christian",
+  "resolved_employer": "Self-employed (real estate / property manager, per self-reported occupation)",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "No public professional profile located beyond the self-reported occupation (real estate/property manager, self-employed) at San Antonio 78209. Could not corroborate a specific firm, listing, or bio; no shared-surname ties assumed. FEC PAC search and TX Ethics lobbyist registry returned no confirmable match.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "541a6751-af05-4f30-bfdb-e65b1136d96d",
+  "name": "Rosenberg, Sandra",
+  "resolved_employer": "Retired (former career undocumented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired donor in Houston's River Oaks area (77019). No public record found identifying former career, employer, PAC contributions, or civic roles; cannot confidently distinguish from other individuals of the same name. Per guidance, no industry forced for an unconfirmed retiree.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2290eca1-f78b-4a96-a7f7-0d87cc9b29a0",
+  "name": "Holland, Justin",
+  "resolved_employer": "Texas State Insurance Services (founder, Principal Agent/Broker)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Founded Texas State Financial & Health (now Texas State Insurance Services) in 2013; health/life/Medicare insurance broker and Registered Social Security Analyst serving San Antonio/South Texas. Confirmed via firm bio; distinct from the Rockwall TX legislator of the same name. Matches employer string and 78260 area.",
+  "source_url": "https://txstateinsurance.com/justinholland/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1a356169-945c-4540-8a83-840121373609",
+  "name": "Sparr, Richard",
+  "resolved_employer": "Sparr Law Firm / Sparr Mediation",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Richard A. Sparr Jr., attorney/mediator/arbitrator at 1313 NE Loop 410, San Antonio 78209 (matches donor address); State Bar of TX member since 1984, St. Mary's Law grad. ADR/business/construction practice.",
+  "source_url": "https://sparrmediation.com/about-san-antonio-mediator-richard-sparr/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Rey Feo Scholarship Foundation", "role": "Supporter/profiled member", "category": "civic", "source_url": "https://reyfeoscholarship.com/richard-a-sparr-jr", "snippet": "Richard A. Sparr Jr. profiled on the Rey Feo Scholarship Foundation site under its 'Support Education Today / Get Involved' program, a San Antonio education-scholarship charity."}
+  ]
+ },
+ {
+  "donor_id": "5af1d3d0-4dbf-4c4b-af3f-4260fca53853",
+  "name": "Stuckey, Dennis",
+  "resolved_employer": "Retired (U.S. military, Colonel)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Self-described retired Colonel, San Antonio 78259. FEC/city-data records show a retired 'Dennis Stuckey' in 78259 making repeated small-dollar WinRed contributions in 2020 ($10-$15 range), consistent with the record's very high donation count as a prolific small-dollar recurring Republican donor. (retired military)",
+  "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part228.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "U.S. military (Colonel, retired)", "role": "Retired Colonel", "category": "military_defense", "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part228.html", "snippet": "Donor self-reports occupation as retired Colonel; FEC individual-contribution listings for a retired Dennis Stuckey in 78259 corroborate the retired designation. Note: self-reported military service, not a defense-industry executive/board role."},
+   {"org": "WinRed (GOP small-dollar processor)", "role": "Recurring small-dollar donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part206.html", "snippet": "FEC-reported small-dollar contributions (e.g., $10 on 08/11/2020, $15 on 08/28/2020) to WinRed, the Republican fundraising platform, from a retired donor in 78259."}
+  ]
+ },
+ {
+  "donor_id": "feed1b14-23ba-4102-9696-44d514c093ae",
+  "name": "Badam, Manjulatha",
+  "resolved_employer": "Vayu Advanced Wound Clinic and Hyperbarics",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Manjulatha Badam, MD, CWSP, UHM — board-certified wound-care and hyperbaric/undersea medicine physician heading Vayu Advanced Wound Clinic and Hyperbarics, San Antonio (employer string 'Advanced Wound Clinic and Hyperbarics' matches). Internal medicine (Mount Sinai) + LSU hyperbaric fellowship.",
+  "source_url": "https://www.vayuhyperbarics.com/contents/meet-our-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fd28629f-c95b-4c98-989b-435aea96e9ab",
+  "name": "Lockwood, Jessica",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported homemaker at 371 Everest Ave, San Antonio 78209. No public professional, FEC PAC, lobbyist, or bio profile could be corroborated for this individual; a similarly named 'Lockwood Realty Group' exists but no record ties it to this person, so no link inferred. Classified Not Employed per stated homemaker status.",
+  "source_url": "https://www.homes.com/property/371-everest-st-san-antonio-tx/l1dzcwesmjxew/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fbc2181c-c366-4260-a147-491c710ab01b",
+  "name": "Edwards, Ty",
+  "resolved_employer": "Monarch Wealth Strategies (IAR, Cambridge Investment Research)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Ty Edwards, financial advisor 30+ yrs at Monarch Wealth Strategies (matches employer), UT-Austin poli-sci grad, FINRA Series 6/7/63. Elected Alamo Heights ISD trustee (since 2023, 2026 candidate) and extensive San Antonio civic board service.",
+  "source_url": "https://www.monarchwealthstrat.com/team/ty-edwards",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Alamo Heights ISD Board of Trustees", "role": "Elected Trustee (since 2023; 2026 re-election candidate)", "category": "political", "source_url": "https://sanantonioreport.org/profile/ty-edwards-2026-candidate-for-alamo-heights-isd-board-of-trustees/", "snippet": "San Antonio Report profiles Ty Edwards as a sitting Alamo Heights ISD trustee and 2026 candidate; campaign site tyedwardsforahisd.com corroborates elected office."},
+   {"org": "City of San Antonio Transportation Advisory Board", "role": "Board member", "category": "civic", "source_url": "https://www.monarchwealthstrat.com/team/ty-edwards", "snippet": "Firm bio lists service on the City of San Antonio Transportation Advisory Board and the San Antonio Area Foundation grants committee."},
+   {"org": "Multiple SA nonprofits (Texas Lyceum, DoSeum, Big Brothers Big Sisters of South Texas, Respite Care, Friends of the McNay, Christian Assistance Ministry, Los Compadres de San Antonio Missions)", "role": "Board member / past president", "category": "civic", "source_url": "https://www.monarchwealthstrat.com/team/ty-edwards", "snippet": "Firm bio documents board seats and past-president roles across numerous San Antonio civic and charitable organizations; completed Leadership San Antonio Class 36."}
+  ]
+ },
+ {
+  "donor_id": "f9a2757f-da74-4ef3-8dc6-e0c5ada552cc",
+  "name": "Reagan, Lisa",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed occupation 'Homemaker' at 342 Dry Bear Crk, an address in the upscale gated Waggener Ranch community, New Braunfels 78132. No public professional, FEC PAC, lobbyist, or bio profile found to corroborate the specific individual beyond the generic homemaker occupation.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f73180f1-c107-4df4-ad2a-494d2563c373",
+  "name": "Bellinger, Gina",
+  "resolved_employer": "Food Safety Net Services, Ltd. (FSNS)",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "Founder/president of Food Safety Net Services, a San Antonio-HQ national food-safety/consumer-product analytical testing lab; Texas A&M BS Microbiology; also owns 'Just Pots' pottery retail. Industry set null (taxonomy has no analytical-testing-laboratory category). 78216 location matches. No FEC PAC or TX lobbyist registration found. (Same person as batch_01 donor 5b3e26f9.)",
+  "source_url": "https://gov.texas.gov/organization/women/commissioners",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Governor's Commission for Women", "role": "Commissioner (reappointed by Gov. Abbott Jan 2024, term through Dec 31 2025)", "category": "civic", "source_url": "https://gov.texas.gov/organization/women/commissioners", "snippet": "In January 2024 Governor Greg Abbott reappointed Gina Bellinger to the Governor's Commission for Women for a term set to expire December 31, 2025."}
+  ]
+ },
+ {
+  "donor_id": "f5511203-768c-4e98-a193-38608bcc6f15",
+  "name": "Kustoff, Allison",
+  "resolved_employer": "Self / volunteer (formerly associated with Beldon Enterprises, roofing, per public records)",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "San Antonio 78230 resident (address corroborated via public-records aggregators, same 78230 zip); occupation 'Volunteer', employer 'self'. Listed on Impact San Antonio (women's collective-giving nonprofit) team page. No FEC PAC or TX lobbyist registration found. A San Antonio attorney named Daniel Kustoff exists but no public record documents a family tie, so none asserted.",
+  "source_url": "https://www.impactsanantonio.org/teams/allison-kustoff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Impact San Antonio", "role": "Team member / volunteer", "category": "civic", "source_url": "https://www.impactsanantonio.org/teams/allison-kustoff/", "snippet": "Allison Kustoff has a dedicated team-member page on Impact San Antonio, a women's collective-giving philanthropic nonprofit; page confirmed to exist though full text was behind a JS gate."}
+  ]
+ },
+ {
+  "donor_id": "f4fb72cf-a832-4f73-92fc-98500b3250d2",
+  "name": "Michel, Lorri",
+  "resolved_employer": "Michel Gray & Rogers, LLP (property-tax law firm; now also branded Michel Rogers & Maloney, PC)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Confirmed as Lorri Michel, co-founder and leading Texas property-tax attorney, 30+ yrs experience, adjunct professor of Texas Property Tax Law at UT School of Law. Austin business address (2028 W Ben White Blvd / 78741) matches firm; multiple Super Lawyers/Martindale/Avvo listings at 78741. No TX lobbyist registration found (advocacy is via legislative testimony, not registered lobbying).",
+  "source_url": "https://www.texprop.tax/principals/lorri-michel/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Taxpayers and Research Association (TTARA)", "role": "Board of Directors", "category": "business", "source_url": "https://www.texprop.tax/principals/lorri-michel/", "snippet": "Firm bio states she serves on the board of directors of the Texas Taxpayers and Research Association (TTARA), a business-backed state tax-policy organization."},
+   {"org": "Texas Apartment Association (TAA)", "role": "Counsel on property-tax matters; testified before the Texas Senate Select Committee on Property Tax Reform & Relief", "category": "business", "source_url": "https://www.texprop.tax/principals/lorri-michel/", "snippet": "Bio: serves as counsel to the Texas Apartment Association on property tax matters and has testified before the Texas Senate on property-tax reform."}
+  ]
+ },
+ {
+  "donor_id": "f42a861b-ac70-4af5-836e-8636d8c719d9",
+  "name": "LaBarge, Pierre",
+  "resolved_employer": "Retired (former career undocumented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, Naples FL 34108. Address 7583 Bay Colony Dr matches public records for Pierre L. LaBarge III / Lynette L. LaBarge Rev. Trust, and 'Pierre L. LaBarge III Family Enterprises LLC' (est. 2010, FL). No public record confirms this specific retiree's own career/role, so no industry or defense/aerospace affiliation asserted despite a similarly named LaBarge business lineage. No FEC PAC or lobbyist record confirmed.",
+  "source_url": "https://www.manta.com/c/mrs5g81/pierre-l-labarge-iii-family-enterprises-llc",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f29de2c8-8b86-466b-950a-c11b7c5dc273",
+  "name": "SA Land, Fund",
+  "resolved_employer": "San Antonio Land Fund I, LLC (Kansas-registered land-investment LLC)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Entity, not a PAC or individual. Resolves to 'San Antonio Land Fund I, LLC,' a Kansas-registered land-investment LLC whose owner/mailing address matches the donor record exactly (P.O. Box 782257, Wichita, KS 67278). Appears in a Texas real-estate/land-development context, not in any Texas Ethics Commission PAC/committee registry.",
+  "source_url": "https://www.bizapedia.com/ks/san-antonio-land-fund-i-llc.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f27451be-5a3d-47b0-bb49-b04ecf005db6",
+  "name": "Patterson, Cassidy",
+  "resolved_employer": "Mosaic Land Development",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Cassidy W. Patterson is Director of Financial Strategy & Special Projects at Mosaic Land Development, a San Antonio full-service land-development firm (est. 2013). Occupation 'Land Development' and employer 'Mosaic Land Development' match the donor record; $500 contribution recorded in Whyte's TEC filing. No FEC federal PAC records and not on the TX lobbyist registry.",
+  "source_url": "https://www.linkedin.com/in/cassidy-patterson/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "efaf4e5a-ccc4-4390-9418-238a8bef5935",
+  "name": "LaBarge, Parker",
+  "resolved_employer": "CBRE (San Antonio; subsequently Partners Real Estate)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Parker LaBarge, CCIM, is a commercial real-estate broker (tenant rep / medical-office leasing) who joined CBRE in 2019 via its REATA acquisition and later moved to Partners Real Estate; address 17734 Cantera Golf, San Antonio 78256 (donor record '7734' is a likely digit typo). No documented tie to Naples-FL donor Pierre LaBarge — no family link asserted. No FEC PAC or TX lobbyist records found.",
+  "source_url": "https://www.cbre.com/press-releases/parker-labarge-becomes-cbre-5th-ccim-designated-broker-in-san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ed8e5cd9-2d7b-4179-9c61-024b6e12ef98",
+  "name": "Larson, The Honorable Lyle",
+  "resolved_employer": "Retired — former Texas State Representative (HD-122), former SA City Councilman (D10), former Bexar County Commissioner (Pct. 3)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Lyle Thomas Larson, R, former Texas House Rep. for District 122 (2011-2023), former San Antonio City Councilman District 10 (2 terms) and Bexar County Commissioner Pct. 3 (1997-2008); Texas A&M BBA. 'The Honorable' title + NE San Antonio 78260 + 'Retired' all fit. No federal FEC PAC ties — the 'Larson For Congress' FEC records belong to CT Rep. John Larson, a different person; Lyle Larson never sought federal office. His political activity was state-level (TEC).",
+  "source_url": "https://en.wikipedia.org/wiki/Lyle_Larson",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House of Representatives (District 122)", "role": "State Representative (2011-2023)", "category": "political", "source_url": "https://ballotpedia.org/Lyle_Larson", "snippet": "Republican member of the Texas House for HD-122, northern Bexar County, 2011-2023; prior SA City Councilman D10 and Bexar County Commissioner."}
+  ]
+ },
+ {
+  "donor_id": "ec5eb87d-561d-4c21-9254-c66f8228d898",
+  "name": "Curbow, Kelly",
+  "resolved_employer": "Self-employed (independent registered Texas lobbyist)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Kelly Curbow is an active registered Texas Ethics Commission lobbyist based in San Marcos; registry contact address 206 Quarry Spring Dr, San Marcos 78666 matches the donor record. Reported clients include AT&T ($25,001-50,000), STV Inc ($10,001-25,000), and law firm Low, Swinney, Evans & James. No federal FEC PAC contributions found (the 'KELLY PAC' FEC committee is unrelated).",
+  "source_url": "https://texaslobby.org/lobbyists/kelly-curbow",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Ethics Commission lobbyist registry", "role": "Registered lobbyist (clients incl. AT&T, STV Inc, Low Swinney Evans & James)", "category": "political", "source_url": "https://texaslobby.org/lobbyists/kelly-curbow", "snippet": "Active TEC-registered lobbyist based in San Marcos representing AT&T, STV Inc, and Low, Swinney, Evans & James before the Texas Legislature."}
+  ]
+ }
+]

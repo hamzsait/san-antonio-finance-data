@@ -1,0 +1,232 @@
+[
+ {
+  "donor_id": "2907e5a3-58b5-4ed3-9137-5455cd36680b",
+  "name": "Irelan, Bradford",
+  "resolved_employer": "Irelan McDaniel PLLC (co-founder/shareholder, civil trial attorney), Houston TX",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Bradford W. Irelan is co-founder/shareholder of Irelan McDaniel PLLC, a Houston civil trial firm; donor address 2520 Caroline St, Houston 77004 matches the firm's downtown office, confirming identity. Board-certified in Civil Trial Law and Residential Real Estate Law; GWU Law 1986. Three searches run: FEC/OpenSecrets search surfaced only an unrelated 'Bradford For Congress' committee, no ideological-PAC record tied to this individual; Texas Ethics Commission lobbyist search returned no registration (only unrelated 'Bradford T. Shields'); full bio read (firm/Super Lawyers profile) showed trial-law practice, no policy/board/political affiliations.",
+  "source_url": "https://profiles.superlawyers.com/texas/houston/lawyer/bradford-irelan/9a468723-5174-4b0c-990a-76c3843829fb.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2868998b-a8a0-4d6e-9206-44d33144f3c5",
+  "name": "Wells, Tullos",
+  "resolved_employer": "Retired attorney — Of Counsel, Bracewell LLP; Managing Director, Kronkosky Charitable Foundation, San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "J. Tullos Wells is a retired Bracewell partner (Of Counsel), former general counsel to the San Antonio Spurs, and Managing Director of the Kronkosky Charitable Foundation; long-time San Antonio civic figure (former chair, San Antonio Chamber; vice chair, Lone Star Rail District). Donor record 'retired,' 78209, matches this well-documented San Antonio attorney. Three searches run: FEC/OpenSecrets returned no distinct individual PAC record (donor record shows federal-donor lean 0.86); Texas Ethics Commission lobbyist search returned no registration; full bio read (San Antonio Report, Bracewell/Kronkosky) confirmed legal career and civic leadership, no pro-Israel/pro-Palestine/gun/energy policy affiliations found.",
+  "source_url": "https://sanantonioreport.org/kronkosky-charitable-foundation-names-j-tullos-wells-managing-director/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Kronkosky Charitable Foundation", "role": "Managing Director", "category": "civic", "source_url": "https://sanantonioreport.org/kronkosky-charitable-foundation-names-j-tullos-wells-managing-director/", "snippet": "Kronkosky Charitable Foundation named J. Tullos Wells managing director; he has served in leadership roles including chair of the San Antonio Chamber."}
+  ]
+ },
+ {
+  "donor_id": "28667f90-b2fc-4974-90cf-bfc7f58d1820",
+  "name": "Spencer, Annette",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor at Buck Lane, Bulverde, TX 78163 (Comal County) with no occupation/employer listed and fec_donation_count 0. Three searches run: FEC/OpenSecrets returned no matching contribution record; Texas Ethics Commission lobbyist search returned no registration; bio/name search found no confirmable public profile for an 'Annette Spencer' in Bulverde/Comal County. Cannot corroborate a specific individual — quiet result, no affiliation forced.",
+  "source_url": "https://www.opensecrets.org/donor-lookup",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "26cd1f3d-3dd7-4165-be7f-923f087e1751",
+  "name": "Douglass, Beth",
+  "resolved_employer": "AECOM (engineering/infrastructure firm), San Antonio",
+  "industry": "Engineering",
+  "confidence": "medium",
+  "evidence": "Donor record lists AECOM at 606 Garraty Rd, San Antonio 78209. FEC records show a Beth Douglass at zip 78209 (address tied to 606 Garraty Rd) made 2018 contributions to Beto for Texas (O'Rourke), corroborating identity/location though occupation then was listed 'not employed.' Employer AECOM places industry in Engineering. Three searches run: FEC/OpenSecrets found only the 2018 Beto for Texas donations (no ideological PACs); Texas Ethics Commission lobbyist search returned no registration; bio/LinkedIn read found no specific AECOM role/board profile beyond the employer, so identity beyond employer is medium-confidence.",
+  "source_url": "https://www.city-data.com/elec2/18/elec-SAN-ANTONIO-TX-18-part64.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Beto for Texas (O'Rourke for U.S. Senate)", "role": "individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/18/elec-SAN-ANTONIO-TX-18-part64.html", "snippet": "Beth Douglass, 78209, 'NOT EMPLOYED,' gave to Beto for Texas: $100 (09/26/2018), $50 (09/19/2018), $64 (08/05/2018)."}
+  ]
+ },
+ {
+  "donor_id": "253bac88-e3ca-49a3-8665-0dc5877616df",
+  "name": "Lowrey, Charles",
+  "resolved_employer": "Dirt Dealers Inc. (First American Commercial Property Group), San Antonio commercial land brokerage/real estate developer",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Donor's listed address 18618 Tuscany Stone, San Antonio 78258 is the exact office address of Dirt Dealers V, LLC / First American Commercial Property Group (dirtdealers.com), corroborating a real-estate-development affiliation with that firm; the current team page lists partner Brodie Lowrey but not a Charles Lowrey, and a same-named San Antonio CPA (Lowrey, Powell & Stevens) also exists, so identity is not fully certain. All three searches run: FEC/OpenSecrets web search returned no matching individual PAC contributions; Texas Ethics Commission lobbyist search returned no registration; firm team/bio page read fully (no Charles Lowrey and no policy-advocacy affiliations).",
+  "source_url": "https://dirtdealers.com/about/team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "24bcb5f8-fd1d-4428-b04f-0528d95ecec6",
+  "name": "Cavender, Rick",
+  "resolved_employer": "Cavender Auto Family (Owner/Partner; Dealer Principal, Audi Dominion) — San Antonio auto dealership group",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Confirmed as Rick Cavender, Owner/Partner of the Cavender Auto Family, an 80+ year San Antonio-based auto dealership group; recognized as SA Business Journal 40 Under 40 and fronts the Rick Cavender Band; San Antonio location matches donor's 78209 (Terrell Hills/Alamo Heights) address. All three searches run: FEC/OpenSecrets web search surfaced no specific itemized federal PAC contributions attributable to him (FEC API rate-limited); Texas Ethics Commission lobbyist search returned no registration; bio/profile pages read (no documented balanced-spectrum policy-advocacy affiliations).",
+  "source_url": "https://cavenderautofamily.com/about-the-cavender-family",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2498bccd-89e8-41cf-bae3-025cd10e1435",
+  "name": "Hoff, Jennifer",
+  "resolved_employer": "IBC Bank-Houston, Senior Vice President (donor record says Executive VP)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Confirmed as Jennifer Hoff, Senior Vice President at IBC Bank-Houston with a B.S. in economics and real estate from Cornell; Houston location matches donor's 5615 Kirby Dr, Houston 77005 address. Civic/volunteer roles (Child Advocates, 5050 Woodway HOA Board, MUD District Board, Cornell Club) are local/civic, not balanced-spectrum policy advocacy. All three searches run: FEC/OpenSecrets web search returned no confirmed individual PAC contributions tied to this person; Texas Ethics Commission lobbyist search returned no registration; IBC bio/press page read in full.",
+  "source_url": "https://www.ibc.com/newsroom/press-releases/ibc-bank---houston-celebrates-long-serving-employees-with-anniversary-pin-presentation-",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2384580d-811f-4686-af38-c90d35cf01d7",
+  "name": "Dickens, Kelly",
+  "resolved_employer": "D&D Contractors, Inc. — President (second-generation excavation/site contractor)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Confirmed as Kelly Dickens, President of D&D Contractors, Inc., a second-generation excavation contractor (with D&D since 1995) who has worked as estimator/project manager on schools, hospitals, highways, subdivisions and wind farms; Bolton Rd address matches the company's stated location. All three searches run: FEC/Texas campaign-finance web search returned no matching individual contributions; TEC lobbyist search returned no registration; LinkedIn/company bio read (no documented policy-advocacy affiliations).",
+  "source_url": "https://www.linkedin.com/in/kelly-dickens-ba80bb87/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "236365cb-850b-48c7-9e25-28b1966af3bc",
+  "name": "LaBarge, Parker",
+  "resolved_employer": "CBRE (Vice President, commercial real estate broker, San Antonio)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Parker LaBarge is a CBRE Vice President and CCIM-designated commercial real estate broker in San Antonio (medical/office tenant rep and project leasing); joined CBRE in 2019 via its REATA Real Estate acquisition; former pro golfer, Rice University alum. Address in the Cantera Golf area (78256) is consistent. FEC PAC search: no federal contributions found (fec_donation_count 0). TX lobbyist search: not in the TEC registered-lobbyist lists. Bio full read: CBRE press release/LinkedIn read in full; lists title, specialty, education, career, CCIM designation, no board/policy affiliations.",
+  "source_url": "https://www.cbre.com/press-releases/parker-labarge-becomes-cbre-5th-ccim-designated-broker-in-san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "22da3af7-6727-46a1-a1ad-f86378f6c4dd",
+  "name": "Mullins, Laura",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Address 217 Tuttle Rd is a single-family home in the Terrell Hills/78209 area; directory listings show people surnamed Mullins at that address, corroborating residence but not occupation. No occupation/employer in the record and none found publicly; several unrelated San Antonio Mullinses exist (attorney Reginald E. Mullins, physicians David and John Mullins) but none confirmed as this person. FEC PAC search: record shows 16 federal donations, but specific recipients/PACs could not be retrieved (FEC API rate-limited); no notable balanced-spectrum PAC (AIPAC/J Street/oil-gas/gun/defense) affiliation could be documented. TX lobbyist search: not found in TEC registry. Bio full read: no public bio/LinkedIn/firm page identifiable for this specific individual. Quiet, unresolved result.",
+  "source_url": "https://www.spokeo.com/TX/San-Antonio/217-Tuttle-Rd",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "223cc2f2-5523-4ba3-894e-c92ba57be2e3",
+  "name": "Benavidez, Sobia",
+  "resolved_employer": "GBG Ranch, Ltd. (rancher), Laredo/Webb County",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "GBG Ranch, Ltd. is a confirmed, well-known Texas limited partnership holding a large tract of ranch land in Webb County (subject of documented litigation and bankruptcy proceedings), consistent with the stated occupation 'Rancher' and employer. The specific individual 'Sobia Benavidez' could not be independently corroborated online (a private/quiet individual; unusual first name yields no matches), so identity confidence is low; note the taxonomy has no Agriculture category, so a family-ranch rancher is classified Self-Employed. FEC PAC search: no federal contributions found (fec_donation_count 0). TX lobbyist search: not in TEC registered-lobbyist lists. Bio full read: no personal bio/LinkedIn/firm page located for this individual (only GBG Ranch entity records).",
+  "source_url": "https://law.justia.com/cases/texas/fourth-court-of-appeals/2014/04-13-00453-cv.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1f62c7b6-cdfc-4c52-b956-54595702eccc",
+  "name": "Lozano, Dylan",
+  "resolved_employer": null,
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Record lists occupation 'student' at 615 N Stallion Estates Dr, Spring Branch, TX 78070 (Comal County, near San Antonio — not the Houston Spring Branch). No public profile could be confirmed for this specific individual; the several 'Dylan Lozano' LinkedIn/recruiting profiles found (Austin, a high-school student, a California football recruit) are different people and none tie to Spring Branch 78070. FEC PAC search: record shows 3 federal donations but specific recipients could not be retrieved (FEC interfaces rate-limited); no notable balanced-spectrum PAC affiliation documented, and small totals are consistent with a student donor. TX lobbyist search: not found in TEC registry (expected for a student). Bio full read: no identifiable bio page for this person.",
+  "source_url": "https://www.linkedin.com/in/dylan-lozano-442b43372/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1da6aa88-21ed-4806-a424-d3313275c81c",
+  "name": "Harrison, Kimberly",
+  "resolved_employer": "Homemaker (no former career identified in public records)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported homemaker at 408 Pike Road, San Antonio, TX 78209 (Alamo Heights/Terrell Hills area). All three searches run: FEC/OpenSecrets PAC search surfaced only unrelated same-named individuals and generic WinRed/city-data pages — could not isolate this specific person's itemized PAC recipients despite the 213-donation aggregate in the source data; TX Ethics Commission lobbyist search returned no match; no public bio/About/LinkedIn page could be confirmed for this specific homemaker. 'Kimberly Harrison' is a very common name and identity could not be corroborated beyond occupation/zip, so affiliations left empty and no political affiliation inferred from partisan-lean data alone.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Kimberly+Harrison&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1d678e28-79a6-4fbb-8ebf-2d24cc1f36b3",
+  "name": "Buescher, Gordon",
+  "resolved_employer": "CEO, Sterling Hose, Reel & Supply, LLC (industrial hose / fluid-transfer supply; also linked to Sterling Fluids Transfer LLC)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Confirmed as Gordon (D. Gordon) Buescher, CEO of Sterling Hose, Reel & Supply, an industrial hose/reel/fluid-transfer distributor serving oilfield/petrochemical/industrial clients (offices Marathon & San Antonio); Texas Tech grad; the 5133 Cape Ann Dr, Corpus Christi 78412 address is a documented historical address for him. All three searches run: FEC PAC search returned no federal PAC record beyond the single aggregate donation noted; TX Ethics Commission lobbyist search returned no match; LinkedIn/ZoomInfo bios read in full confirm role and industry, no policy-advocacy board seats found. Classified Energy/Environment given oilfield fluid-transfer focus (industrial-supply/distribution).",
+  "source_url": "https://www.linkedin.com/in/gordon-buescher-1bb67887/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1d4035f2-f7d2-47e9-bbbe-5d01aabc9b14",
+  "name": "Cude, Annie",
+  "resolved_employer": "Cude and Company, Inc. (Boerne, TX) — self-described 'Designer'; firm registered under land-subdivision/land-development",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Anne/Annie M. Cude is associated with 1160 Rodalyn Dr, Boerne 78006 — the exact address Dun & Bradstreet lists for 'Cude and Company, Inc.' in the land-subdivision (real-estate development) industry, matching the donor's employer string 'Cude and Co.' The Cude family runs Cude Engineers (civil-engineering/land-planning/surveying), though Annie is not on that firm's staff roster. All three searches run: FEC PAC search found no federal contribution record (consistent with fec_donation_count 0); TX Ethics Commission lobbyist search returned no match; Cude Engineers About page read in full (no Annie listed) and D&B profile reviewed. Industry set to Real Estate per D&B land-subdivision classification; her self-reported title 'Designer' introduces some ambiguity (possible interior/design work), hence medium confidence.",
+  "source_url": "https://www.dnb.com/business-directory/company-profiles.cude_and_company_inc.0c9b1c8325fb1504b8e8ffb28c5349a6.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1d0f914c-9c32-4480-a307-3281126044d6",
+  "name": "Rodriguez, Jose J",
+  "resolved_employer": "Yellowstone Real Estate / Yellowstone Developers, LLC (land-development firm, 12500 San Pedro Ave, Ste 530, San Antonio 78216) — reported COO",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Employer and address confirmed: Yellowstone Real Estate/Developers is a San Antonio land-development company headquartered at 12500 San Pedro Ave (verified via LoopNet, ConstructConnect, and the company site), exactly matching the donor's address and employer string. The firm's public About page names its COO/co-founder only as 'Jaime,' so the specific name 'Jose J Rodriguez' could not be independently corroborated to that title. All three searches run: FEC PAC search found no federal record (fec_donation_count 0); TX Ethics Commission lobbyist search returned no match; company leadership pages reviewed. Industry Real Estate is firmly established; individual-identity match is partial, hence medium confidence.",
+  "source_url": "https://www.loopnet.com/Listing/12500-San-Pedro-Ave-San-Antonio-TX/19091303/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1c18c293-ece5-4793-b09f-2c69a9002668",
+  "name": "PAC, NuStar",
+  "resolved_employer": "NuStar Energy L.P. (NuStar PAC) — corporate PAC of NuStar Energy, a San Antonio-based liquids/petroleum pipeline and terminal storage company (~9,500 mi pipeline, 63 terminals)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Entity, not individual. FEC committee C00435321 = 'NUSTAR ENERGY L.P. (NUSTAR PAC),' San Antonio TX; OpenSecrets classifies it under Oil & Gas. FEC PAC/entity check: run (committee record confirms San Antonio energy-infrastructure parent, affiliated post-acquisition with Energy Transfer PAC). TX lobbyist check: run (no separate lobbyist registration for the PAC itself). Bio/full read: run (FEC committee page + OpenSecrets org summary reviewed).",
+  "source_url": "https://www.fec.gov/data/committee/C00435321/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "NuStar Energy L.P.", "role": "Corporate/connected PAC", "category": "oil_gas", "source_url": "https://www.opensecrets.org/political-action-committees-pacs//C00435321/summary/2020", "snippet": "OpenSecrets profiles NuStar Energy PAC (FEC C00435321) under the Oil & Gas industry; NuStar is one of the largest independent liquids terminal and pipeline operators in the US, headquartered in San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "1a8f7ac1-b2e9-4d56-80b8-829432ef726e",
+  "name": "Held, David",
+  "resolved_employer": "Co-Founder / Co-General Partner, Endura Advisory Group (San Antonio commercial real estate firm)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Confirmed via Endura firm bio: David Held co-founded Endura Advisory Group (2007), career in office/industrial/retail leasing since 1982 (Trammell Crow SVP, CBRE), former President of San Antonio BOMA — matches occupation 'Commercial Real Estate' and San Antonio 78230 address. FEC PAC search: run (no notable AIPAC/J Street/oil-gas/gun/defense PAC contributions surfaced for this individual). TX lobbyist search: run (no Texas Ethics Commission lobbyist registration found). Bio full read: run (full Endura team bio read).",
+  "source_url": "https://endurasa.com/team-member/david-held",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "BOMA San Antonio (Building Owners and Managers Association)", "role": "Former President", "category": "business", "source_url": "https://endurasa.com/team-member/david-held", "snippet": "Endura bio lists David Held as a former President of San Antonio BOMA and inductee in Who's Who of Commercial Real Estate in America."}
+  ]
+ },
+ {
+  "donor_id": "1a1f458f-69a1-4268-88c6-eeb6e526be23",
+  "name": "Riordan, Rod",
+  "resolved_employer": "Chief Financial Officer, Embrey (Embrey Partners, LLC) — San Antonio multifamily real estate developer",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Confirmed via Embrey team page and industry press: Rod Riordan is CFO of Embrey (joined 2017, prior EVP/finance partner at JPI); UT-Austin BBA, SMU MBA; member of NMHC and ULI — matches 'Finance' occupation and Fair Oaks Ranch 78015 address. FEC PAC search: run (no notable AIPAC/J Street/oil-gas/gun/defense PAC contributions surfaced). TX lobbyist search: run (no Texas Ethics Commission lobbyist registration found). Bio full read: run (Embrey bio + The Org/MultifamilyExecutive profiles reviewed).",
+  "source_url": "https://www.embrey.com/team/rod-riordan/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "National Multifamily Housing Council (NMHC) / Urban Land Institute (ULI)", "role": "Active member", "category": "business", "source_url": "https://www.embrey.com/team/rod-riordan/", "snippet": "Rod Riordan, CFO at Embrey, is described as an active member of the National Multifamily Housing Council (NMHC) and the Urban Land Institute (ULI)."}
+  ]
+ },
+ {
+  "donor_id": "19b01351-fa1a-4826-aadd-d8d3de077663",
+  "name": "Rodriguez, Joe",
+  "resolved_employer": "Principal / founder, Rodriguez Reiffert & Co., P.C. (San Antonio CPA firm); CPA, CFP, CFE, CLU",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Confirmed via firm bio (cpasat.com): Joe Rodriguez, CPA/CFP/CFE/CLU, founded the accounting practice in 1981 (now Rodriguez Reiffert & Co.), prior KPMG auditor; located 40 NE Loop 410, San Antonio 78216 — matches occupation 'CPA' and address (distinct from a younger Joe Rodriguez, CPA at Haynie & Co.). FEC PAC search: run (donor has 0 FEC records; no notable PAC contributions found). TX lobbyist search: run (no Texas Ethics Commission lobbyist registration found). Bio full read: run (full cpasat.com bio read — memberships are AICPA/TSCPA/ACFE, professional not policy-advocacy).",
+  "source_url": "https://www.cpasat.com/joe-rodriguez.php",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

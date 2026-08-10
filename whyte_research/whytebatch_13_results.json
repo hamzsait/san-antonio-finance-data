@@ -1,0 +1,240 @@
+[
+ {
+  "donor_id": "94f955a5-3583-4735-98fa-8232625f0b08",
+  "name": "Soules, Joe Carlton",
+  "resolved_employer": "President, Pahmeyer GP, LLC; also President of Strategic Market Services, Inc. (market analytics/consulting) — same person as former San Antonio D10 Councilman Carlton Soules",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Joe Carlton Soules (3523 Marymont Dr, 78217, within District 10) is corroborated as Carlton Soules, former two-term San Antonio City Councilman for District 10 (Whyte's own seat) and 2014 Republican nominee for Bexar County Judge; CorporationWiki lists Joe C. Soules as President of Strategic Market Services, Inc., and the donor record separately lists him as President of Pahmeyer GP, LLC. Identity link rests on the shared name + D10 address + president role (employer strings not fully reconciled, hence medium). FEC PAC search: 0 federal contributions; no AIPAC/J Street/oil-gas/NRA/defense PAC records. TX/COSA lobbyist registry: no registration. Bio read (Ballotpedia): conservative Republican political career; no Israel/Palestine, gun, or defense advocacy.",
+  "source_url": "https://ballotpedia.org/Carlton_Soules",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council (District 10) / Republican Party of Bexar County", "role": "Former Councilman (2 terms); 2014 Republican nominee for Bexar County Judge", "category": "political", "source_url": "https://ballotpedia.org/Carlton_Soules", "snippet": "Twice elected to represent conservative District 10 on San Antonio's City Council; stepped down in 2013 to run as the Republican candidate for Bexar County Judge."}
+  ]
+ },
+ {
+  "donor_id": "938468cd-4bca-4582-a8f9-4d116008b8a6",
+  "name": "Bigley, Mitchell",
+  "resolved_employer": "Manager of Operations / broker, Excel Benefits Inc. (independent employee-benefits insurance agency, San Antonio)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Mitchell Bigley is Manager of Operations at Excel Benefits, a San Antonio group employee-benefits insurance agency (family firm; UTSA graduate, joined 2017); matches employer string 'Excel Benefits' and the 78247 area. FEC PAC search: 0 federal contributions; no ideological-PAC records. TX/City of SA lobbyist search: no registration. Bio read (getexcelbenefits.com/about-us): insurance-brokerage/operations role only; no policy-advocacy roles, board seats, or Israel/Palestine/gun/defense affiliations.",
+  "source_url": "https://getexcelbenefits.com/about-us-2/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "930daeea-bcf4-4141-8b7c-fecf3867f10c",
+  "name": "Irelan, Allison",
+  "resolved_employer": "Financial advisor, Morgan Stanley (Houston)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Donor lists occupation Financial Advisor at Morgan Stanley, Houston (2520 Caroline St, Midtown/77004). Could not confidently pin the specific individual: searches returned only generic Morgan Stanley Houston branch pages and unrelated matches — no advisor bio, LinkedIn, or FINRA/BrokerCheck page for 'Allison Irelan.' Employer fallback applied -> Finance, low confidence. FEC PAC search: dataset lists 4 donations, Democratic-leaning, but OpenSecrets/FEC individual-record pages returned HTTP 403 and no specific committee/recipient could be verified, so no affiliation asserted. TX Ethics Commission lobbyist search: no registration. Bio full read: attempted, no accessible bio page located.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "92a036f1-d046-46ca-bafd-39b785224a15",
+  "name": "Morrison, Edgar",
+  "resolved_employer": "Attorney (partner), Jackson Walker LLP, San Antonio — health-law / life-sciences",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Edgar 'Jed' C. Morrison, Jr. is a Board-Certified health-law attorney at Jackson Walker LLP, San Antonio (40+ years; founding member of the firm's Healthcare section, 1994); Terrell Hills (78209) address consistent with a senior partner. Documented government background: former Republican counsel to the U.S. House Budget Committee and counsel to the Health Care Financing Administration (now CMS). FEC PAC search: 13 donations, slight-Republican lean (0.149); no specific ideological-PAC (AIPAC/J Street/oil-gas/NRA/defense) record independently confirmed. TX Ethics Commission lobbyist search: no personal registration. Bio full read (jw.com): past Chair of the State Bar of Texas Health Law Section — professional, not ideological, roles.",
+  "source_url": "https://www.jw.com/people/edgar-jed-morrison-jr/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "U.S. House of Representatives Budget Committee", "role": "Republican counsel (former)", "category": "political", "source_url": "https://www.jw.com/people/edgar-jed-morrison-jr/", "snippet": "He served as Republican counsel to the U.S. House of Representatives Budget Committee and, later, counsel to the Health Care Financing Administration."}
+  ]
+ },
+ {
+  "donor_id": "922a5a62-8704-43a4-bad1-9ed5bc66b4f3",
+  "name": "Ross, Properties",
+  "resolved_employer": "Ross real-estate/property entity — matches Bob Ross Realty (residential & commercial rentals/property management, San Antonio)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Not an individual — a business entity. PO Box 28490, San Antonio 78228 is an exact match to Bob Ross Realty's mailing address per its BBB profile and SA Chamber listing (owner Bob Ross; President Marc Ross). The firm handles residential/commercial rentals and property management and operates under several 'Alamo'/'Ross Properties' d/b/a names, consistent with a 'Ross Properties' real-estate entity. FEC PAC search: 0 contributions. TX Ethics Commission lobbyist search: no registration for Bob Ross Realty/Marc Ross/Ross Properties. Bio read (BBB, SA Chamber): real-estate/property-management business only; no public-policy-advocacy affiliations.",
+  "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/real-estate/bob-ross-realty-0825-18048",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "91eaa63d-1681-4368-85c2-8090379c9963",
+  "name": "Pickett, Joannah",
+  "resolved_employer": "Trinity University — Assistant VP for Alumni Relations & Development (higher-education advancement/fundraising)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Joannah Stone Pickett became Trinity University's Assistant VP for Alumni Relations & Development in Aug 2018 (prior AVP of annual giving at Georgetown; degree from Univ. of Puget Sound); 78209/Trinity employer corroborated; LinkedIn now lists her as a 'Senior Philanthropy Strategist.' FEC PAC search: no individual contributor/PAC records. TX lobbyist search: not in TEC registry. Bio read: nonprofit/higher-ed fundraising career; no policy-advocacy board seats.",
+  "source_url": "https://www.trinity.edu/news/joannah-stone-pickett-new-assistant-vice-president-alumni-relations-and-development",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8faa5977-82bb-45be-b66b-5c9af82d984a",
+  "name": "Germany, William",
+  "resolved_employer": "Owner, Germany Law, PLLC — litigation attorney (commercial/consumer/real estate/construction)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "William Peter Germany is a San Antonio litigation attorney and owner of Germany Law PLLC (engineering degree from Trinity; J.D. 2009 St. Mary's University; State Bar of Texas member); SA area and occupation corroborated. FEC PAC search: donor record shows 4 FEC donations with partisan lean 0.0; no ideological/AIPAC/J Street/oil-gas/gun PAC contributions surfaced. TX lobbyist search: not in TEC registry. Bio read: firm-partner page describes trial practice only, no advocacy board roles.",
+  "source_url": "https://germanylaw.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8f0e93d3-1114-4244-9dae-d972e64508f0",
+  "name": "Yantis, JM",
+  "resolved_employer": "Yantis Land, LLC (J. Mike Yantis Jr., President/CEO) — single-family land / finished-lot developer, San Antonio",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Address 2806 W. Bitters Rd, Ste 227, 78248 resolves to Yantis Land, LLC (jmyantis.com), a SA real-estate development firm founded 2020 by Mike Yantis Jr. developing finished lots sold to homebuilders (Lennar, M/I, Century); 'JM' = J. Mike Yantis. Distinct from (though family-related to) the older Yantis Company civil contractor. FEC PAC search: no federal PAC records. TX lobbyist search: not a registered lobbyist; TEC campaign-finance filings show local monetary contributions consistent with a developer donor, not lobbying. Bio read: company About/Projects pages describe land development only.",
+  "source_url": "https://jmyantis.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Yantis Land, LLC", "role": "Owner/Principal (real estate land developer)", "category": "business", "source_url": "https://database.thesisdriven.com/developers/yantis-land-llc", "snippet": "SA-based real estate development firm specializing in single-family land development / finished lots sold to homebuilders; founded by Mike Yantis Jr."}
+  ]
+ },
+ {
+  "donor_id": "8dbeb0c0-e285-4231-9e12-52efba21c8f9",
+  "name": "Otto, Brian",
+  "resolved_employer": "Meritage Homes — Vice President of Land Development (national homebuilder, San Antonio division)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Brian Otto is a homebuilder land-development executive; occupation/employer (VP Land Development, Meritage Homes) matches a San Antonio LinkedIn profile; residence 10602 Sunflower Ln, SA 78213. FEC PAC search: no federal PAC/individual contribution records surfaced. TX lobbyist search: not in TEC 2024-2026 registered-lobbyist lists. Bio read: LinkedIn shows homebuilding/land-development career; no policy-advocacy board seats.",
+  "source_url": "https://www.linkedin.com/in/brian-otto-270175b/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Meritage Homes", "role": "VP of Land Development (residential real estate development)", "category": "business", "source_url": "https://www.meritagehomes.com/state/tx/san-antonio", "snippet": "National homebuilder with a San Antonio division; land-development executive role in residential real estate."}
+  ]
+ },
+ {
+  "donor_id": "8cf8a948-e104-4c0c-b43d-fa46a382034f",
+  "name": "Apartment Assoc, San Antonio",
+  "resolved_employer": "San Antonio Apartment Association Political Action Committee (SAAA PAC) — multifamily/apartment-industry trade-association PAC",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Donor is the SAAA PAC, the political action committee of the San Antonio Apartment Association, a nonprofit trade association representing the area apartment/rental-housing industry; the PAC funds city/county, legislative, and statewide candidates who 'understand the concerns of the rental housing industry' (owners, builders, developers, managers). Address 7525 Babcock Rd, 78249. Not an individual, so it is itself the affiliation/PAC.",
+  "source_url": "https://www.saaaonline.org/pac",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Apartment Association PAC (SAAA PAC)", "role": "Multifamily/apartment-industry trade-association political action committee", "category": "political", "source_url": "https://www.saaaonline.org/pac", "snippet": "Supports candidates for city/county, legislative, and statewide office who understand the concerns of the rental housing industry — owners, builders, developers, managers."}
+  ]
+ },
+ {
+  "donor_id": "8bde60c1-6e7d-4e86-9c9f-8eb93941101e",
+  "name": "Huntington, Claudia",
+  "resolved_employer": "Founder, HM Fund / President, HM Foundation (San Antonio); Advisor at NxStep; retired equity portfolio manager, Capital Group / American Funds",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Claudia P. Huntington is a documented retired Capital Group/American Funds equity portfolio manager (46 yrs; managed AMCAP and New Economy funds; retired Oct 2020; Stanford BA Economics, Harvard MBA), matching the San Antonio 'Founder at HM Fund' LinkedIn profile and CorporationWiki 'President of The HM Foundation, San Antonio'; listed as an advisor associated with NxStep. FEC PAC search: high donation count (70) but partisan lean ~0.03 (essentially bipartisan/neutral); no ideological PAC (AIPAC/oil-gas/firearms/etc.) pattern surfaced. TX Ethics Commission lobbyist search: not registered. Bio read: investment-management career plus private family-foundation philanthropy; no public-policy-advocacy roles.",
+  "source_url": "https://www.capitalgroup.com/institutional/about-us/our-people/investment-professionals/claudia-p-huntington.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "The HM Foundation", "role": "Founder / President", "category": "civic", "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/claudia-p-huntington/29844238.aspx", "snippet": "Listed as President of The HM Foundation, a San Antonio private philanthropic foundation; also founder/director of The Marathon Foundation."}
+  ]
+ },
+ {
+  "donor_id": "89f41076-e78c-457f-a4a2-75c69cc88d42",
+  "name": "Nooner, Gabrielle",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Private individual at 20 Kelian Court, San Antonio, TX 78230; no occupation or employer on the donor record. FEC individual-contributor search: no records (fec_donation_count 0), no ideological-PAC pattern. TX Ethics Commission lobbyist search: not registered. Bio read: no public LinkedIn/firm/profile page could be confidently matched. San Antonio 'Nooner'-name businesses exist, but a shared surname does not establish any tie and cannot be attributed without corroboration. Quiet result; no affiliation asserted.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "89a3fef3-1307-483c-ae5f-9baac3a2b833",
+  "name": "Sundt Texas, PAC",
+  "resolved_employer": "Sundt Construction, Inc. Texas Political Action Committee (employee-owned construction/engineering contractor, HQ Tempe, AZ)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "This is the Texas PAC of Sundt Construction, Inc., a large employee-owned construction and engineering contractor headquartered in Tempe, AZ; the donor address 2620 S 55th St, Tempe, AZ 85282 matches Sundt's corporate campus. Registered as 'Sundt Construction, Inc. Texas Political Action Committee' (Transparency USA / OpenSecrets org profile). Corporate-connected PAC giving to construction-industry-favorable candidates; no ideological (Israel/Palestine/firearms) lean identified. TX Ethics Commission: registered Texas state PAC, not an individual lobbyist.",
+  "source_url": "https://www.transparencyusa.org/tx/committee/sundt-construction-inc-texas-political-action-committee-84640-mpac",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Sundt Construction, Inc.", "role": "Corporate-connected political action committee", "category": "business", "source_url": "https://www.opensecrets.org/orgs/sundt-construction/summary?id=D000090317", "snippet": "Sundt Construction, an employee-owned national construction/engineering firm, operates a Texas PAC that donates to state and local candidates."}
+  ]
+ },
+ {
+  "donor_id": "879cb396-a2ea-4a6e-a1b1-24f244e5cbef",
+  "name": "San Antonio Fire & Police Pens, Assn- PAC",
+  "resolved_employer": "San Antonio Fire and Police Pensioners' Association PAC (SAFPPA PAC) — public-safety retiree/pension association PAC",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "This is the PAC of the San Antonio Fire and Police Pensioners' Association (SAFPPA), tied to the San Antonio Fire & Police Pension Fund; the donor address 11603 Coker Loop, 78216 matches the association/Pension Fund office. Per SAFPPA-PAC.org, the PAC raises funds from members and recommends candidates 'committed to supporting and protecting the benefits earned by retirees,' limited to Texas Legislature and San Antonio Mayor/Council races. Local/state PAC, not a federal committee; no federal ideological-PAC record. TX Ethics Commission: operates as a Texas political committee, not an individual lobbyist.",
+  "source_url": "https://safppa-pac.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Fire and Police Pensioners' Association PAC", "role": "Public-safety retiree/pension association PAC", "category": "labor", "source_url": "https://safppa-pac.org/", "snippet": "PAC of the SA Fire and Police Pensioners' Association; recommends and funds candidates who support/protect retiree pension benefits in SA Mayor/Council and Texas legislative races."}
+  ]
+ },
+ {
+  "donor_id": "874ace94-eb1f-401c-ae48-a3f8bbb74438",
+  "name": "Frost, Cecilia",
+  "resolved_employer": "Homemaker (self-reported); not employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported homemaker at 247 Stanford Dr., San Antonio, TX 78212 (Monte Vista/Olmos Park area). FEC individual-contributor search: no records (fec_donation_count 0); no clear spouse-linked donor pattern confirmed. TX Ethics Commission lobbyist search: not registered. Bio read: no public LinkedIn/firm/profile/board page could be confidently matched. Classified Not Employed per stated occupation; a well-known 'Frost' banking family exists in San Antonio, but no documented tie can be attributed without corroboration. Quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "85d6bb07-f7bf-4782-bae5-62abe1b113b5",
+  "name": "Saucier, Kristin",
+  "resolved_employer": "Medtronic Diabetes — sales (later Patient & Community rep, Soleno Therapeutics); San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "LinkedIn indicates Kristin Saucier is a San Antonio-area medical-device sales professional who spent ~10 years at Medtronic Diabetes (matching the 'Sales/MedTronics' donor record; Texas State University), later moving to Soleno Therapeutics as a Patient & Community representative; 2101 NW Military Hwy is a commercial/professional address. FEC: 1 federal contribution (R-lean 1.0); no AIPAC/J Street/oil-gas/gun/defense PAC contribution surfaced. TX/COSA lobbyist registry: no registration. Bio read: medical-device sales, no policy-advocacy board roles.",
+  "source_url": "https://www.linkedin.com/in/kristin-saucier-72966418b/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "85d696e8-b3b8-4ddb-aa3f-88c83dfd64fe",
+  "name": "Gravely, Janelle",
+  "resolved_employer": "Homemaker (household of Marc Gravely, founder of Gravely PC construction-defect law firm — firm/home share the 16018 Via Shavano address)",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Donor listed as 'Homemaker' at 16018 Via Shavano, 78249 — the same address at which Gravely PC (Gravely Attorneys & Counselors) is registered; the firm's founder is San Antonio construction-defect/insurance attorney Marc Gravely, making Janelle Gravely the homemaker spouse of that household. Classified Not Employed per taxonomy (no independent professional/advocacy profile). FEC: 3 federal contributions (R-lean 1.0), consistent with a spouse-linked household giving pattern; no ideological PAC (AIPAC/J Street/oil-gas/gun/defense) surfaced. TX/COSA lobbyist registry: no registration. Bio read: no personal professional/board profile located.",
+  "source_url": "https://gravelylaw.com/legal_team/marc-gravely/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "836dd224-2130-45f1-8005-b852cd74887e",
+  "name": "Scott, Jan",
+  "resolved_employer": "Retired (former career not documented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Harris County property records confirm 'Jan H Scott' owns the single-family home at 1148 Herkimer St, Houston Heights 77008, matching the donor address; donor record lists occupation/employer only as 'retired.' No LinkedIn, firm bio, obituary, or news profile establishes the former career, and 'Jan Scott' is a common name. FEC: 0 federal contributions; no PAC activity. TX/COSA lobbyist registry: no registration. Bio read: none available. Low confidence, no industry forced.",
+  "source_url": "https://www.city-data.com/harris-county/H/Herkimer-Street-12.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8352b708-b926-4e2d-b332-1f7d2311c216",
+  "name": "Montford, Melinda",
+  "resolved_employer": "Self-employed criminal-defense attorney (Melinda 'Mindy' Montford, Attorney at Law; former Travis County Assistant DA)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Donor 'Melinda Montford, Attorney, Self Employed' is registered at 1 Buckingham Ct, 78257 — the San Antonio home of former Texas state senator John T. Montford and wife Debbie Montford; their daughter Melinda 'Mindy' Montford is a self-employed criminal-defense attorney (UT Law JD 1995; former Travis County ADA who opened her own practice in 2008), matching the 'Attorney/Self Employed' occupation. FEC: 0 federal contributions; no ideological PAC surfaced. TX Ethics Commission lobbyist registry: no registration. Bio read: Justia/State Bar bios confirm self-employed criminal-defense practice and prior Democratic candidacies (2008 Travis County DA, 2010 district judge).",
+  "source_url": "https://lawyers.justia.com/lawyer/melinda-mindy-montford-256169",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Travis County (Democratic candidate)", "role": "2008 Democratic primary candidate for Travis County DA; 2010 candidate for state district judge", "category": "political", "source_url": "https://en.wikipedia.org/wiki/John_T._Montford", "snippet": "Mindy Montford ran in a 2008 Democratic primary for Travis County district attorney and a 2010 Democratic runoff for a Travis County district judgeship."}
+  ]
+ },
+ {
+  "donor_id": "831d2fa2-cc9f-495a-b7f9-739025c9962d",
+  "name": "Alaniz, Lorraine",
+  "resolved_employer": "School psychologist, Harlandale ISD",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Public profile (CentroMed) confirms Lorraine Alaniz is a Harlandale ISD graduate who has worked as a school psychologist for the district for ~12 years, serving special-needs students and co-coordinating an annual 'What's Next' resource symposium with CentroMed — matching the donor's 'Psychologist / Harlandale ISD' record; residence in Castle Hills 78213. Classified Education (school psychologist). FEC: 0 federal contributions; no PAC activity. TX/COSA lobbyist registry: no registration. Bio read: CentroMed profile + symposium coverage confirm the school-psychology role; no policy-advocacy board seats.",
+  "source_url": "https://centromedsa.com/team/lorraine-alaniz/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

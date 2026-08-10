@@ -1,0 +1,126 @@
+[
+ {
+  "donor_id": "33032f7e-71e1-4027-8074-e3c39de16592",
+  "name": "Naomi, Miller",
+  "resolved_employer": "American Council of Engineering Companies (ACEC) San Antonio — Executive Director",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Naomi Miller is Executive Director of ACEC-San Antonio (an engineering-firm trade association); her own LinkedIn describes the role as including 'political advocacy' and maintaining relationships with public agencies and elected officials. She is also an elected member of the Bexar Central Appraisal District Board of Directors and a UT LBJ School of Public Affairs student ('26). Occupation/employer/zip (78209) match the record. FEC PAC search run (fec_donation_count 0, none found); TX/City lobbyist search run (no personal registration surfaced); LinkedIn bio read.",
+  "source_url": "https://www.linkedin.com/in/naomi-miller-6ba6137/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "American Council of Engineering Companies (ACEC) — San Antonio", "role": "Executive Director", "category": "business", "source_url": "https://www.linkedin.com/in/naomi-miller-6ba6137/", "snippet": "Executive Director performing 'administrative duties, political advocacy, and development and maintenance of key relationships with public agencies, elected officials, and their staff' for the engineering-firm trade association."},
+   {"org": "Bexar Central Appraisal District Board of Directors", "role": "Elected Member", "category": "civic", "source_url": "https://www.linkedin.com/in/naomi-miller-6ba6137/", "snippet": "Elected Member of the Bexar Central Appraisal District Board of Directors (local government body governing property valuation)."}
+  ]
+ },
+ {
+  "donor_id": "2019c578-8e8b-4603-ba52-0f47b823e147",
+  "name": "Reitblatt, David",
+  "resolved_employer": "David B. Reitblatt, PC — CPA / accounting & tax firm (40 NE Loop 410, San Antonio)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "David B. Reitblatt is a solo CPA with ~35 years' experience specializing in government contracting and tax compliance; firm at 40 NE Loop 410, zip 78216 matches the record (firm site dbr-cpa.com, Yelp, CPA directories). FEC PAC search run — record shows 89 federal contributions with a neutral/mixed lean (0.0); the itemized PAC list could not be retrieved (FEC lookup rate-limited) and web searches surfaced no named ideological PAC, so none recorded. TX/City lobbyist search run (no registration). No personal bio page with board/leadership roles exists beyond business-directory listings.",
+  "source_url": "http://dbr-cpa.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "152ede80-8ffa-4755-9c16-74999cb5270f",
+  "name": "Pepping, Matthew",
+  "resolved_employer": "Dykema Gossett PLLC — attorney (insurance coverage / commercial litigation), San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Matthew E. Pepping is a Dykema litigation attorney (insurance coverage, business disputes, professional liability) in the firm's San Antonio insurance-industry group, previously at Chasnoff Valkenaar & Stribling; Notre Dame JD, Trinity University BA (Dykema bio, Bloomberg Law, Super Lawyers). Zip 78209 / 'Lawyer' / Dykema all match. Full Dykema bio read. FEC PAC search run (17 contributions, lean 1.0 conservative; no specific ideological PAC named in public search). TX/City lobbyist search run (no registration). Charitable/religious board seats (Catholic Charities, Leukemia & Lymphoma Society, Classical Music Institute, Family Violence Prevention Services) excluded per no-policy-advocacy rule; bar-leadership roles recorded as civic.",
+  "source_url": "https://www.dykema.com/people/matthew-e-pepping.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Bar Association — Litigation Section", "role": "President (2014-2015)", "category": "civic", "source_url": "https://www.dykema.com/people/matthew-e-pepping.html", "snippet": "Served as President of the San Antonio Bar Association Litigation Section (2014-2015); also San Antonio Bar Foundation and Texas Bar Foundation Fellow."},
+   {"org": "Mexican American Bar Association (San Antonio)", "role": "Board Member (2016-2017)", "category": "civic", "source_url": "https://www.dykema.com/people/matthew-e-pepping.html", "snippet": "Board Member of the Mexican American Bar Association, a professional legal association."}
+  ]
+ },
+ {
+  "donor_id": "112794a7-3810-4ae5-916b-878b3379d035",
+  "name": "Solcher, Susan",
+  "resolved_employer": "Retired (former career not publicly documented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Identity partially corroborated: public property records list a 'Margaret S. Solcher' as owner on Spring Briar St in 78209 (Terrell Heights/Alamo Heights area), matching the donor's distinctive surname and exact street; donor likely goes by middle name Susan. Solcher is a historically prominent San Antonio business-family surname, but per guidance a shared surname does not establish family/business ties and none were confirmed for this person. All three searches run: FEC/PAC searches returned no attributable ideological or PAC donations for this individual; no TX Ethics Commission or City of San Antonio lobbyist registration found; no personal bio/LinkedIn page exists to read. Former career and industry remain unestablished.",
+  "source_url": "https://blockshopper.com/tx/bexar-county/san-antonio/zips/78209",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0c3a7585-e4ce-47a3-88be-8ecc6d85f89c",
+  "name": "Alexander, Jo",
+  "resolved_employer": "Retired (former career not publicly documented)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Partial corroboration only: a people-search directory lists a 'Jo B Alexander,' age ~82, at 4243 Thousand Oaks Dr, San Antonio TX 78217 — matching the donor's exact address and consistent with 'Retired' occupation. 'Jo Alexander' is a common name and no distinguishing occupational, civic, or news record was found. All three searches run: FEC/PAC searches returned no attributable federal contributions (consistent with fec_donation_count 0); no TX Ethics Commission lobbyist registration found for this individual (only unrelated Alexanders appear); no bio/LinkedIn/firm page exists to read. Former career and industry cannot be determined.",
+  "source_url": "https://texas.ourstates.org/jo-alexander",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0aca0c0b-567d-403d-aac3-a5d5badadf46",
+  "name": "Ballard, David",
+  "resolved_employer": "Commercial real estate broker; CBRE San Antonio at time of 2023 gift (CCIM; medical-office & investment-sales specialist; moved to Partners Real Estate as Partner in Sept 2025)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Strongly corroborated: donor's self-reported employer CBRE and occupation Real Estate align exactly with David Ballard, CCIM — a longtime San Antonio commercial real estate broker who joined CBRE via its 2019 acquisition of Reata Real Estate and specializes in office/medical and investment sales (40 Under 40, Who's Who in Commercial Real Estate). All three searches run: FEC/PAC searches surfaced no specific attributable ideological/PAC committee (aggregate conservative lean 0.73 noted but no single citable PAC found, so none recorded); no TX Ethics Commission or City lobbyist registration found; full firm bio read. Documented civic/business roles below; a Leukemia & Lymphoma Society charity board seat excluded as non-policy.",
+  "source_url": "https://partnersrealestate.com/our-people/david-ballard/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Real Estate Council of San Antonio", "role": "Executive Board member", "category": "business", "source_url": "https://partnersrealestate.com/our-people/david-ballard/", "snippet": "Bio lists Ballard as a Real Estate Council Executive Board member — an industry trade/advocacy body for the commercial real estate sector."},
+   {"org": "South Texas CCIM Chapter", "role": "Past President (board)", "category": "business", "source_url": "https://www.reatarealestate.com/about/david-ballard-ccim/", "snippet": "Past President of the South Texas CCIM Board, the regional professional body for certified commercial investment members."},
+   {"org": "Downtown San Antonio Rotary Club", "role": "Past President", "category": "civic", "source_url": "https://partnersrealestate.com/our-people/david-ballard/", "snippet": "Past President of the Downtown San Antonio Rotary Club, a civic service organization."}
+  ]
+ },
+ {
+  "donor_id": "0a1c572d-6406-4f30-9348-e6e2e191ddcf",
+  "name": "Smith, Kim",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Extremely common name with blank occupation/employer. A plausible but UNCONFIRMED local match is Kim Smith, a real estate associate at Kuper Sotheby's Int'l Realty in the 78209 area, but nothing ties that agent to 3 Waldenshire, so identity is not corroborated. All three searches run: FEC PAC search (no distinguishable/ideological PAC pattern surfaced among 12 filings), TX/City lobbyist search (no registration), bio read attempted (agent page JS-blocked and person unconfirmed). Industry left null.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a1bf3fa-93ca-4c16-84f2-5ad88f1c40a4",
+  "name": "Hart, Ed",
+  "resolved_employer": "Edward Austin Hart — Investment Adviser Representative at Sendero (Sendero Securities/Sendero Wealth Management), San Antonio; managing member of Emmegen LLC (real-property/private-equity holding co.)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Address 2311 Woodmen Dr, San Antonio 78209 is the registered office of Emmegen LLC (formed 1/2020), managing member Edward Hart, a real-property/PE holding company; he also controls BD Hart Holdings LLC. FINRA BrokerCheck CRD #2215591 'Edward Austin Hart' is an Investment Adviser Rep in San Antonio 78209 (branch 250 W. Nottingham Ste 300) affiliated with Sendero and an investment-committee member at Causeway Trust Company. Multiple corroborating 78209 datapoints (exact-address LLC + profession), though the name is somewhat common (hence medium). FEC count 0 (no federal PAC giving); no lobbyist registration. Bio read via BrokerCheck/investor profiles.",
+  "source_url": "https://brokercheck.finra.org/individual/summary/2215591",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Emmegen LLC", "role": "Managing Member", "category": "business", "source_url": "https://elementix.com/investors/tx/edward-hart", "snippet": "Emmegen, LLC, 2311 Woodmen Dr, San Antonio TX 78209 — holds investments in real property/private equity; Edward Hart managing member since 1/2020."},
+   {"org": "Sendero (Sendero Securities / Sendero Wealth Management)", "role": "Investment Adviser Representative", "category": "business", "source_url": "https://brokercheck.finra.org/individual/summary/2215591", "snippet": "Edward Austin Hart, Investment Adviser Rep registered in TX (approved 06/08/2012), branch office 250 W. Nottingham Ste 300, San Antonio 78209."},
+   {"org": "Causeway Trust Company", "role": "Investment Committee Member", "category": "business", "source_url": "https://brokercheck.finra.org/individual/summary/2215591", "snippet": "Serves on the investment committee at Causeway Trust Company, San Antonio, advising on portfolio strategy."}
+  ]
+ },
+ {
+  "donor_id": "089bdeb0-aa25-435c-b29b-19b8e65f614e",
+  "name": "Canaday, Charlotte",
+  "resolved_employer": "Retired (former career not identified)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Distinctive name but no public profile, bio, obituary, or news located for Charlotte Canaday at 507 Northridge Dr, San Antonio 78209. The surname resembles a local firm (Dugger Canaday & Grafe, real-estate appraisers) but there is NO evidence she is connected — listed principals are Grafe/Dugger/Love, no 'Canaday' individual — and a shared surname does not imply ties, so no affiliation recorded. Prolific federal donor (235 filings) with lean 0.0 (mixed/bipartisan), but the FEC individual-contribution DB was inaccessible (rate-limited) so no specific PAC pattern could be documented. No TX/City lobbyist registration. Former career unknown; industry left null.",
+  "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Charlotte+Canaday&contributor_state=TX",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "02053e6a-420f-4b00-b63c-6433f4430f53",
+  "name": "Baker, David",
+  "resolved_employer": "Retired (former career not identified)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Common name with no corroborating public profile for a retired David Baker at 12511 Enchanted Oaks St, Live Oak TX 78233 (NE Bexar suburb). Not a Live Oak city-council member; no matching obituary/bio. FEC count 0 (no federal PAC giving); no TX/City lobbyist registration. Cannot identify former career, so industry null and confidence low. All three searches run; no bio found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ }
+]

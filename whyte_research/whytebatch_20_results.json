@@ -1,0 +1,241 @@
+[
+ {
+  "donor_id": "187c3dcf-c143-4e8d-ad10-5a58a18686ad",
+  "name": "Hall, Susan",
+  "resolved_employer": "Homemaker (self-reported)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported homemaker at 111 Haverhill Way, San Antonio 78209 (affluent Alamo Heights/Terrell Hills area); a 'Susan D Hall' is listed at that address in people-records. FEC metadata shows 154 federal donations with a fully conservative lean (1.0), consistent with a prolific small-dollar Republican (WinRed-style) donor, but 'Susan Hall' is an extremely common name and no FEC line-item, TX lobbyist entry, or bio page could be tied specifically to this individual. FEC PAC + TX lobbyist + bio searches all run; nothing individually corroborable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1878b266-7d35-475e-b45f-2ff6a48c1f84",
+  "name": "Iron Gate, Technology",
+  "resolved_employer": "Iron Gate Technology, LLC — San Antonio managed-IT / technology-services firm (IT support, cybersecurity, VoIP, cloud, data backup)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Business entity, not a person. Iron Gate Technology, LLC (San Antonio, PO Box 593277, 78259) is a small IT/managed-services and technology-consulting company per Buzzfile/Crunchbase. NOTE: a separate, similarly named Iron Gate Technology exists in Pittsburgh PA — the donor is the San Antonio LLC. FEC PAC + TX lobbyist searches run (no PAC or lobbyist registration found); classified by business type.",
+  "source_url": "https://www.buzzfile.com/business/Iron-Gate-Technology,-LLC-210-860-8324",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1693ff54-dfd1-4ddd-9e9f-bec49077a469",
+  "name": "Clavijo, Carlos",
+  "resolved_employer": "Director of Construction & New Development, Foresight Asset Management (property asset management / new-construction lease-ups); also President of Habitat Investment Properties / Clavijo Holdings & Co.",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Carlos Clavijo, UTSA (2012-2016) grad and former Skanska USA project engineer, has been Director of Construction & New Development at Foresight Asset Management since Jan 2022; donor address 7334 Blanco Rd, 78216 exactly matches Foresight's office (Suite 100). Occupation 'Director of Construction' and employer match record. FEC PAC + TX lobbyist searches run (no records); TheOrg/LinkedIn bio read.",
+  "source_url": "https://theorg.com/org/foresight-asset-management/org-chart/carlos-clavijo",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "15eaf3e3-b2a2-482c-9e84-506f5672b1a8",
+  "name": "Salinas, Diana",
+  "resolved_employer": "Frost Bank (Cullen/Frost) — finance/banking employee (self-reported 'Finance')",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Self-reports occupation 'Finance,' employer Frost Bank; lives in Schertz 78154 (NE suburb near Frost's Schertz I-35 branch). Not a named Frost executive (the Frost CFO is Jerry Salinas, an unrelated individual). FEC metadata shows 79 federal donations with a fully conservative lean (1.0), consistent with a small-dollar Republican donor. FEC PAC + TX lobbyist searches run (no PAC affiliation or lobbyist registration surfaced); no individual bio located, so identity corroborated only via self-reported employer/occupation.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "15530e63-54f1-43cf-a087-660d918e5d21",
+  "name": "Beecherl, Mackenzie",
+  "resolved_employer": "Member of the Beecherl (Dallas oil/energy) family; tied to Cureton Midstream LLC (listed as a manager) and 'Charles & Mackenzie Beecherl Holdings, LP'",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Mackenzie S. Beecherl of Dallas 75229 is documented (OpenCorporates/Bizapedia) as a manager of Cureton Midstream LLC — a DJ-Basin oil & gas midstream company founded by Charles 'Charlie' Beecherl (its President/CEO, Tailwater/Ares-backed) — and as a partner in Charles & Mackenzie Beecherl Holdings, LP, tying her to the prominent Dallas Beecherl energy family (Louis A. Beecherl Jr., Texas Oil & Gas Corp.). Her personal occupation is blank; classification is family/holdings-based, hence medium confidence. FEC PAC + TX lobbyist + bio searches run.",
+  "source_url": "https://opencorporates.com/companies/us_tx/0802581019",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Cureton Midstream LLC / Beecherl Companies", "role": "Listed manager (Cureton Midstream); family holdings partner", "category": "oil_gas", "source_url": "https://www.opensecrets.org/orgs/beecherl-companies/summary?id=D000031880", "snippet": "Cureton Midstream is a DJ-Basin oil & gas midstream company founded/led by Charlie Beecherl; Mackenzie S. Beecherl appears as a Cureton Midstream manager and Beecherl-family holdings partner."}
+  ]
+ },
+ {
+  "donor_id": "141858cc-faf1-4352-a946-b29866ff657c",
+  "name": "Sallman, Ron",
+  "resolved_employer": "Owner, FG Partners, LLC (Spring Branch); also manager of Factoryone Holdings LLC (trucking) and ~11 associated entities",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Ronald R. Sallman is the registered agent/owner of FG Partners, LLC at 615 N Stallion Estates Dr, Spring Branch 78070 (matches donor record) and manager of Factoryone Holdings LLC — a small trucking carrier at the same address — plus ~11 other entities per CorporationWiki. Self-reports 'OWNER, FG Partners.' FG Partners' specific line of business isn't publicly documented, so classified as Self-Employed business owner rather than forcing a sector. FEC PAC + TX lobbyist searches run (no records).",
+  "source_url": "https://www.corporationwiki.com/Texas/Spring-Branch/fg-partners-llc/137577874.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "120d86e4-203d-4940-b690-6ff66f73700b",
+  "name": "Pickett, Christopher",
+  "resolved_employer": "Interventional cardiologist, Methodist Physicians / South Texas Cardiovascular Consultants (STCC), San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Christopher A. Pickett, MD, PE, FACC, FSCAI is a board-certified interventional/general cardiologist at Methodist Physicians South Texas Cardiovascular Consultants; Georgetown med school, retired U.S. Army Lieutenant Colonel who directed the cardiac cath lab / structural heart program at Brooke Army Medical Center before joining STCC. Occupation 'Physician' and employer 'South Texas Cardiovascular' match; 78209 address consistent with SA. FEC PAC + TX lobbyist searches run (3 small federal donations, conservative lean, no PAC leadership/affiliation); bio read.",
+  "source_url": "https://methodistphysicianpractices.com/physicians/profile/Dr-Christopher-A-Pickett-MD",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "11ba9645-fc4c-4b65-a59e-c12573302a11",
+  "name": "Tomasovic, Jerry",
+  "resolved_employer": "Retired pediatric/child neurologist (formerly Texas Pediatric Specialties; founder, Road Runner Research)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Dr. Jerry J. Tomasovic, MD, a San Antonio pediatric/child neurologist who retired from clinical practice in 2018 (20-yr Air Force career, private practice from 1985); occupation 'retired' matches. Distinctive name in San Antonio; his clinical office was 78258 while donor residence is 78212 (Monte Vista/Olmos area), a plausible home address, hence medium confidence. FEC PAC + TX lobbyist searches run: no results; bio pages (LinkedIn/Healthgrades) read, no policy-advocacy board roles found.",
+  "source_url": "https://www.linkedin.com/in/jerry-tomasovic-m-d-45495434/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "116ce44e-9a0d-4f9c-a2b4-630589faca22",
+  "name": "Krumsick, Kathy",
+  "resolved_employer": "Homemaker",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Kathy Krumsick, homemaker, at 400 N Woodlawn (Ste 210), Wichita KS 67208 — address and occupation confirmed by a July 2022 Kansas statewide campaign-finance report listing her as a donor. FEC PAC + TX lobbyist searches run: no results; bio search found only the KS campaign-finance filing, no org leadership/policy-advocacy roles.",
+  "source_url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2022ElecCycle/202207/SW01DS_202207.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "111650fd-a023-422b-b1ab-c17317ba0518",
+  "name": "Titzman, Thomas",
+  "resolved_employer": "Ox Bodies, Inc. (TBEI) — Territory Manager (truck body/equipment manufacturer)",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Thomas Titzman Sr., Territory Manager at Ox Bodies, Inc. (a Truck Bodies & Equipment Intl brand), Spring Branch, TX; LinkedIn confirms name, employer and title, plus prior roles at Reliance Truck & Equipment and Davis Truck and Equipment (BBA, Texas State). Industry labeled Transportation as closest fit for truck-equipment manufacturing/sales (taxonomy lacks Manufacturing). FEC PAC + TX lobbyist searches run: no results; LinkedIn bio read, no policy-advocacy affiliations.",
+  "source_url": "https://www.linkedin.com/in/thomas-titzman-sr-1395071a1/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "10ed7539-6df5-41db-8c74-ae0d00d1fc28",
+  "name": "Boldrick, Kimberly",
+  "resolved_employer": "Homemaker",
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "Kimberly Boldrick, homemaker at 408 Pike Road, San Antonio 78209 — property record confirms Kimberly (Harrison) Boldrick and Samuel N. Boldrick III as owners at that exact address. Also documented as Nominating Committee Chair at KLRN (San Antonio's PBS public-television nonprofit). FEC PAC + TX lobbyist searches run: no results; bio search corroborated the KLRN civic board role.",
+  "source_url": "https://blockshopper.com/tx/bexar-county/san-antonio/property/000000492940/408-pike-road",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "KLRN (San Antonio PBS)", "role": "Nominating Committee Chair", "category": "civic", "source_url": "https://www.zoominfo.com/p/Kimberly-Boldrick/17686213913", "snippet": "Kimberly Boldrick listed as Nominating Committee Chair at KLRN, San Antonio's public television station."}
+  ]
+ },
+ {
+  "donor_id": "10c78a52-8dc1-4b77-8302-67e1e83bc805",
+  "name": "Woolfolk, Julie",
+  "resolved_employer": "Harpist/pianist performing with Classical Music Institute & The Orchestra San Antonio; stay-at-home parent (former high-school Spanish teacher)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Julie (Eichelberger) Woolfolk, harpist/musician performing with the Classical Music Institute and The Orchestra San Antonio; degrees from Abilene Christian and Baylor; former HS Spanish teacher, now stay-at-home parent. Occupation 'Musician'/employer 'Classical Music Institute' match. FEC PAC + TX lobbyist searches run: no results; full bio read — CMI page indicates a CMI board seat (arts nonprofit, not policy advocacy).",
+  "source_url": "https://www.theorchestra-sa.org/artist/julie-woolfolk",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Classical Music Institute (Chamber Orchestra of San Antonio)", "role": "Board member / performing harpist", "category": "civic", "source_url": "https://www.cmi-sa.org/artist/julie-woolfolk", "snippet": "Julie Woolfolk performs harp with the Classical Music Institute and serves on the board of the Classical Music Institute."}
+  ]
+ },
+ {
+  "donor_id": "1064c0c6-833e-404a-94e9-8be35e64db7c",
+  "name": "DeLaGarza, Raul",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor at 12322 Pecos Vly, San Antonio 78254 with no listed occupation/employer. 'Raul De La Garza' is a very common San Antonio name; public matches returned different addresses, obituaries, and an unrelated insurance-claims professional, none confirmably tied to the Pecos Vly address. Cannot confidently identify this individual. FEC PAC + TX lobbyist searches run: no results; no usable public bio found — quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "10293f99-22e2-43d2-b884-59e5ac72035c",
+  "name": "Mucha, Roland",
+  "resolved_employer": "Morningside Equities Group / Morningside USA — Sr. Vice President / Principal (real estate development)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Donor listed as 'Roland' Mucha at 3094 Newcastle, Ann Arbor MI 48104 — address matches exactly to Ronald S. Mucha, Sr. VP/Principal at Morningside Equities Group (real estate developer of southeastern Michigan mixed-use projects), a licensed residential builder; 'Roland' is almost certainly a transcription of 'Ronald.' FEC PAC + TX lobbyist searches run: no results; firm bio read — board member of the University of Michigan natural history museum and supporter of JDRF (civic/charitable, not policy advocacy).",
+  "source_url": "https://morningsideusa.com/about-us/ronald-s-mucha/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "University of Michigan Museum of Natural History", "role": "Board member", "category": "civic", "source_url": "https://morningsideusa.com/about-us/ronald-s-mucha/", "snippet": "Ron is a board member of the University of Michigan Natural History Museum and actively supports organizations including the Juvenile Diabetes Research Foundation."}
+  ]
+ },
+ {
+  "donor_id": "0fb6f3b9-b2fa-4fab-a858-09cadace8e3b",
+  "name": "Heller, Jay David",
+  "resolved_employer": "The NRP Group (President, CEO & Co-Founder) — one of the largest U.S. multifamily developers, very active in San Antonio",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "'Jay David' is J. David Heller, President/CEO/Co-Founder of The NRP Group; the Boca Raton FL 33432 address matches his bio (splits time between suburban Cleveland and Boca Raton), confirming identity. FEC/OpenSecrets checked (record shows lean 0.0, 6 donations); not found in TX Ethics Commission lobbyist lists (2023-2026); full NRP leadership bio read revealing extensive Jewish communal/pro-Israel board roles.",
+  "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Jewish Agency for Israel", "role": "Board member", "category": "pro_israel", "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller", "snippet": "Board memberships include the Jewish Agency for Israel and the American Jewish Joint Distribution Committee."},
+   {"org": "Jewish Federation of Cleveland", "role": "Board Chairman (2019-2022); past Campaign Chair", "category": "jewish_civic", "source_url": "https://www.jewishcleveland.org/news/blog/heller_named_jewish_federation_of_cleveland_board_chair/", "snippet": "J. David Heller named Board Chair of the Jewish Federation of Cleveland; later confirmed as JFNA National Campaign Chair."},
+   {"org": "U.S. Holocaust Memorial Council", "role": "Appointed member (2009)", "category": "jewish_civic", "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller", "snippet": "Appointed to the United States Holocaust Memorial Council in 2009."},
+   {"org": "National Association of Home Builders — Housing Credit Group", "role": "Past Chairman", "category": "business", "source_url": "https://nrpgroup.com/about-us/leadership/j-david-heller", "snippet": "Past Chairman of the Housing Credit Group for the National Association of Home Builders (affordable-housing industry advocacy)."}
+  ]
+ },
+ {
+  "donor_id": "0e9ccdc7-58da-491e-9149-80840f8b1ab8",
+  "name": "Songadwala, Vahbeez",
+  "resolved_employer": "Homemaker (not employed)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Listed occupation 'Homemaker' in Spring Branch, TX 78070; no public profile found. FEC PAC search, TX Ethics Commission lobbyist search, and general bio search all run and returned nothing beyond the donor record (0 FEC donations). No public affiliations to classify; quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0e4bc681-5672-4a09-9f60-f6af93b7167c",
+  "name": "Good, Alex",
+  "resolved_employer": "Dykema Gossett PLLC (Senior Attorney, Commercial Litigation), San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Alexander D. Good, senior commercial-litigation attorney at Dykema's San Antonio office (Texas Tech Law 2014), 78209 SA address matches. Full firm bio read: practice is commercial/insurance litigation, not government affairs; past President of Defense Counsel of San Antonio. TX Ethics Commission lobbyist lists (2023-2026) checked — not registered as a lobbyist; FEC search surfaced only an unrelated fund. No policy-advocacy affiliations.",
+  "source_url": "https://www.dykema.com/people/alexander-d-good.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Defense Counsel of San Antonio", "role": "President (2019), member since 2016", "category": "civic", "source_url": "https://www.dykema.com/people/alexander-d-good.html", "snippet": "Member of Defense Counsel of San Antonio (President, 2019); San Antonio Bar Association; William S. Sessions Inn of Court."}
+  ]
+ },
+ {
+  "donor_id": "0dc3d7c3-a7ce-43a0-8d6e-30c82f5325cc",
+  "name": "Whyte, Nina",
+  "resolved_employer": "Student (record lists ESPN as employer, likely intern/part-time), Las Vegas NV",
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Shares surname with candidate Marc Whyte but public sources name his two daughters as Ashlynn and Olivia, so a family tie is NOT confirmed by public record and cannot be assumed. FEC (0 donations), TX lobbyist, and bio searches all run — no public profile located for this Las Vegas (89135) student. Classified as Student per record.",
+  "source_url": "https://sanantonioreport.org/profile/marc-whyte-2025-san-antonio-city-council-district-10-candidate/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0dafadb8-bffb-453e-bc06-de712e6be40c",
+  "name": "Texas Forever Forward, PAC",
+  "resolved_employer": "Political action committee (not a person) — centrist/pragmatic-conservative Texas PAC",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Texas Forever Forward is a PAC founded/launched June 2019 by former Texas House Speaker Joe Straus (R) with $2.5M in old campaign funds; former TX Supreme Court Chief Justice Wallace B. Jefferson is treasurer. It backs pragmatic, business-friendly, centrist-conservative candidates focused on education/health care over polarizing social issues. TX Ethics Commission GPAC filings and news coverage reviewed; classified as political-advocacy committee.",
+  "source_url": "https://www.texastribune.org/2019/06/26/Joe-Straus-new-political-action-committee/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Forever Forward", "role": "Chairman: Joe Straus; Treasurer: Wallace B. Jefferson", "category": "political", "source_url": "https://www.texastribune.org/2019/06/26/Joe-Straus-new-political-action-committee/", "snippet": "Former Texas House Speaker Joe Straus launched Texas Forever Forward with $2.5 million in old campaign funds to promote a 'thoughtful, conservative' centrist Republican approach to governing."}
+  ]
+ },
+ {
+  "donor_id": "0d720e45-bd6f-4ac5-8d59-0408a89b4a64",
+  "name": "Zuflacht, Harold",
+  "resolved_employer": "Higdon, Hardy & Zuflacht LLP (Partner, board-certified family law attorney), San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Harold C. Zuflacht, partner at Higdon, Hardy & Zuflacht LLP (12000 Huebner Rd, 78230 — matches record), St. Mary's Law 1989, board-certified in family law and AAML fellow. FEC PAC search and TX Ethics Commission lobbyist search run — not a registered lobbyist and no notable federal PAC pattern surfaced (record: lean 0.0, 3 donations); bio confirms family/divorce/adoption practice, no policy-advocacy affiliations found.",
+  "source_url": "https://www.hhzfamilylaw.com/attorneys/harold-c-zuflacht/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "American Academy of Matrimonial Lawyers (AAML)", "role": "Fellow", "category": "civic", "source_url": "https://www.aaml.org/lawyer/harold-zuflacht/", "snippet": "Listed as an AAML fellow; board-certified in family law, partner at Higdon, Hardy & Zuflacht LLP."}
+  ]
+ }
+]

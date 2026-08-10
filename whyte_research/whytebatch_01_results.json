@@ -1,0 +1,237 @@
+[
+ {
+  "donor_id": "7274246f-9700-4fc6-85cf-acf7115adbc9",
+  "name": "Hebdon, Jack",
+  "resolved_employer": "Bakke Development Corporation",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Jack C. Hebdon Jr. is Partner/EVP/CFO and Principal of Bakke Development Corporation, a San Antonio commercial real estate developer (multifamily, retail, self-storage); also President of Hebdon Family Investments; UT Austin BBA. Self-reported occupation 'Partner and CFO / Real Estate' and San Antonio 78209 location match.",
+  "source_url": "https://www.linkedin.com/in/jack-hebdon-jr-36a84612/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f5159f1f-6301-42c5-b17a-c632159d276e",
+  "name": "Young, Blair",
+  "resolved_employer": "Blair Young Construction, Inc.",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Blair Young is founder/owner of Blair Young Construction, Inc., a general contracting/home-remodeling firm at 450 Devine Rd, San Antonio 78212 (matches donor address exactly). LinkedIn bio: Henderson State University 1982-1987; posts Monte Vista remodeling projects. No board seats. FEC search: no federal contributions/PAC affiliations; no TX lobbyist registration.",
+  "source_url": "https://www.linkedin.com/in/blair-young-a4718b4/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5b3e26f9-6e03-434e-8b1e-b8bbbcb176cf",
+  "name": "Bellinger, Gina",
+  "resolved_employer": "Food Safety Net Services (FSNS)",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "Gina Bellinger is founder/president of Food Safety Net Services (FSNS), a San Antonio-headquartered national food-safety and consumer-product testing laboratory; Texas A&M BS Microbiology; also owns 'Just Pots' retail pottery. San Antonio 78258 (Settlers Creek) matches. Industry left null because the taxonomy has no analytical-testing-laboratory category and her lab firm is not clinical Healthcare, Consulting/PR, or Retail. FEC: no verifiable advocacy-PAC tie; no TX lobbyist registration.",
+  "source_url": "https://www.linkedin.com/in/gina-bellinger-527b6435/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Governor's Commission for Women (Texas)", "role": "Commissioner (reappointed by Gov. Greg Abbott, Jan 2024, term through Dec 31 2025)", "category": "civic", "source_url": "https://gov.texas.gov/organization/women/commissioners", "snippet": "In January 2024 Governor Greg Abbott reappointed Gina Bellinger to the Governor's Commission for Women for a term set to expire December 31, 2025."}
+  ]
+ },
+ {
+  "donor_id": "42bd71c8-066d-4419-af11-4f83efa1c903",
+  "name": "Kemper, Jacqueline",
+  "resolved_employer": "Granite Ridge Consulting, Inc.",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Jacqueline Kemper is Owner/CEO (since Aug 2014) of Granite Ridge Consulting, a Tulsa, OK woman-owned regulatory-consulting firm handling federal/state/international regulatory guidance and compliance for antimicrobials, pesticides, biocides and chemical products; self-described environmental scientist. Tulsa 74136 matches. FEC: no confirmed federal contributions/PAC for this person; no TX lobbyist registration (OK-based).",
+  "source_url": "https://www.linkedin.com/in/jacquelinekemper/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2e91ce2c-31e6-48bf-a613-c90047c9f81a",
+  "name": "Parks, Myrtle",
+  "resolved_employer": "None — retired homemaker",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Retired homemaker at 3219 Tavern Oaks St, San Antonio 78247. No public professional profile, bio, LinkedIn, or news presence located for this specific individual. FEC web search and rate-limited API check surfaced no notable federal PAC contributions; no TX Ethics Commission lobbyist registration. Former career not documented publicly; classified Not Employed per retired-homemaker occupation.",
+  "source_url": "",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "23dc1edd-fe44-45c8-97cc-81ea12e27b87",
+  "name": "Ramirez, Rick",
+  "resolved_employer": "Clayton, Ramirez & Null Law (CRN Law), Austin TX",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Rick Ramirez is Richard A. Ramirez, managing partner at Clayton, Ramirez & Null Law (CRN Law) in Austin, specializing in real estate, estate planning, probate, and business law; St. Mary's University School of Law grad; UT-Austin undergrad. Firm/name/city match the donor's employer and Austin-area zip 78748. No TX lobbyist registration and no notable federal PAC contributions found.",
+  "source_url": "https://www.crnlaw.com/attorney/richard-a-ramirez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "01142ad5-8efd-41cd-98e7-7725ed694488",
+  "name": "Mullins, Daniel",
+  "resolved_employer": "Southerland Communities (affiliate of National Land Partners)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Dan Mullins is Vice President of Southerland Communities (a National Land Partners affiliate) over Acquisitions, Entitlements and Development; joined 2006; degrees from Baylor and SMU; previously a real estate attorney at Cox & Smith (San Antonio). Matches the donor's occupations (VP, Attorney, Real Estate Developer) and employers exactly, plus San Antonio 78209 (217 Tuttle Rd). FEC: no notable pro-Israel/oil-gas/defense/gun PAC contributions; no TX lobbyist registration.",
+  "source_url": "https://www.southerlandcommunities.com/about.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "575a2bc2-ca4f-49cd-a890-6323d54feebf",
+  "name": "Sykes, Mellick",
+  "resolved_employer": "First American Commercial Property Group (dirtdealers.com)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Mellick T. Sykes, Jr. is a partner and commercial real estate broker at First American Commercial Property Group in San Antonio; in real estate since 2001, broker's license 2007; Rhodes College grad. Name and 'Real estate' occupation match the donor (111 Parklane Dr, 78212 / Olmos Park). The donor's additional 'Accountant / Source Strategies' descriptor could not be corroborated to this individual (Source Strategies is a separate SA hotel-consulting firm), so confidence held at medium. No TX lobbyist registration or notable federal PAC contributions found.",
+  "source_url": "https://dirtdealers.com/team-members/mellick-sykes/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Rotary Club", "role": "Member (former Board of Directors)", "category": "civic", "source_url": "https://dirtdealers.com/team-members/mellick-sykes/", "snippet": "Rotary Club member (former Board of Directors)"},
+   {"org": "Bexar Met Capital Improvement Advisory Board", "role": "Participant", "category": "civic", "source_url": "https://dirtdealers.com/team-members/mellick-sykes/", "snippet": "Bexar Met Capital Improvement Advisory Board participant"}
+  ]
+ },
+ {
+  "donor_id": "fb8f8d9a-bb4c-42af-b564-73f0f7936367",
+  "name": "Thomas, Amber",
+  "resolved_employer": "Fidelity National Financial (FNF) — inferred from garbled employer/occupation fields ('Fnf'/'The'), unconfirmed; FEC filings list her as self-employed 'BUSINESS OWNER / MYSELF'",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Whyte city filing records occupation 'Fnf' and employer 'The', strongly implying Fidelity National Financial (title insurance / financial services); could not confirm her employment there. FEC schedule_a records for THOMAS, AMBER, San Antonio 78209 (name+city+zip match) show a prolific small-dollar ActBlue donor listed as self-employed BUSINESS OWNER (e.g. 2019 gift earmarked for Marianne Williamson). Occupation conflict and cross-partisan giving prevent firm identity/employer resolution. No TX lobbyist registration found.",
+  "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Amber+Thomas&contributor_city=San+Antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "ActBlue", "role": "small-dollar individual donor", "category": "political", "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Amber+Thomas&contributor_city=San+Antonio", "snippet": "FEC schedule_a: THOMAS, AMBER, San Antonio TX 78209, Employer MYSELF, Occupation BUSINESS OWNER, Committee ACTBLUE, 'EARMARKED FOR MARIANNE WILLIAMSON FOR PRESIDENT' (2019). Caveat: same name/zip as the Whyte donor but occupation differs, so attribution is not certain."}
+  ]
+ },
+ {
+  "donor_id": "ee60f476-4fcf-42e7-a1ac-cd907e664c11",
+  "name": "Adger, Stephen",
+  "resolved_employer": "Retired; former sales representative at RR Donnelley / Donnelley Financial Solutions (also holds a Texas real estate broker license)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "FEC records for ADGER, STEPHEN, Houston 77019 show sales at Donnelley Financial Solutions (2020 WinRed gift); corroborated by LinkedIn 'Steve Adger – Senior Sales Representative, RR Donnelley / Donnelley Financial Solutions' (Houston). Also holds a Texas real estate broker license (TREC, 'Stephen Alison Adger'). Donor record lists him Retired. Classified Finance (retired) after his primary documented employer, a financial-communications firm. No TX lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/steve-adger-08a715148/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "WinRed", "role": "individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/20/elec-HOUSTON-TX-20-part212.html", "snippet": "FEC/city-data record: Stephen Adger, Houston 77019, $50 contribution to WINRED (02/09/2020), employer Donnelley Financial Solutions, occupation Sales. WinRed is the Republican small-dollar conduit; documented Republican-aligned electoral giving pattern."}
+  ]
+ },
+ {
+  "donor_id": "ecd07377-3ee4-4f84-8e8f-3f3441b83de6",
+  "name": "IBC State, PAC",
+  "resolved_employer": "IBC State Political Action Committee — general-purpose Texas state PAC affiliated with International Bancshares Corporation / International Bank of Commerce (IBC Bank)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "The donor is a PAC, not an individual. Filing address 130 E Travis, San Antonio 78205 matches IBC Bank's downtown branch. 'IBC State Political Action Committee' is listed as a Texas state contributor on Transparency USA. Parent is International Bancshares Corporation (NASDAQ: IBOC), a Laredo-headquartered bank holding company; IBC Bank is among the largest Texas-based banks. Industry resolves to Finance (banking).",
+  "source_url": "https://www.transparencyusa.org/tx/contributor/ibc-state-political-action-committee/also-known-as",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "International Bancshares Corporation / IBC Bank", "role": "corporate political action committee", "category": "business", "source_url": "https://www.ibc.com/tx/san-antonio/130-e-travis-st-ibc-bank", "snippet": "IBC State PAC's filing address 130 E Travis St, San Antonio TX 78205 is IBC Bank's downtown San Antonio branch; the PAC is the state-level political committee affiliated with International Bancshares Corporation (IBC Bank), a Laredo-based bank holding company."}
+  ]
+ },
+ {
+  "donor_id": "e91c1256-5e27-415c-98e6-9923a1770276",
+  "name": "Mullins, Leslie",
+  "resolved_employer": "None — homemaker",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor record lists occupation Homemaker with no employer, at 217 Tuttle Rd, San Antonio 78209. No public professional, board, or advocacy profile located for this specific individual. Shares the 217 Tuttle Rd address with donor Daniel Mullins, but no public record documents the nature of that relationship, so no family/household tie is asserted. No distinct FEC individual profile resolved and no TX lobbyist registration found. Classified Not Employed per stated homemaker status.",
+  "source_url": "https://www.har.com/homedetail/217-tuttle-rd-san-antonio-tx-78209/12134123",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e51b6126-e80a-4204-a4b2-7d796630bc86",
+  "name": "Cheever, Chris",
+  "resolved_employer": "Broadway Bank",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Christopher 'Chris' Cheever is Senior Vice President / Private Bank Business Development at Broadway Bank in San Antonio, matching the record employer and title; part of the Cheever family associated with the bank. Also documented as a founder of The Classic Theatre of San Antonio. Zip 78209 and the 4242 Broadway St address align with Broadway Bank's footprint. FEC search surfaced Republican-leaning family donations but nothing tying Chris specifically to pro-Israel/oil-gas/gun PACs; no TX lobbyist registration.",
+  "source_url": "https://www.zoominfo.com/p/Christopher-Cheever/527637275",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "The Classic Theatre of San Antonio", "role": "Founder", "category": "civic", "source_url": "http://www.classictheatre.org/about-the-classic/", "snippet": "Chris Cheever is documented as a founder of The Classic Theatre of San Antonio, a nonprofit theatre company established in 2008."}
+  ]
+ },
+ {
+  "donor_id": "e3a02506-6996-4f90-bbb0-7bc3c06d3a10",
+  "name": "Spencer, Anne",
+  "resolved_employer": "Retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Record lists occupation and employer as 'retired.' An Anne Spencer at 30804 Buck Lane, Bulverde 78163 appears in Marc Whyte campaign-finance filings as retired, but no source documents her former career/industry. FEC PAC search and TX Ethics Commission lobbyist search returned no confirmable match for this specific individual (name is common). No former-industry classification asserted to avoid guessing.",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003492_20260115_151325.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cd12f3ed-88d1-402c-89e9-faf45b9359fd",
+  "name": "Young, Melinda",
+  "resolved_employer": "Julian Gold",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Melinda Young is Bridal and Children's Buyer at Julian Gold, a luxury/bridal fashion retailer headquartered in San Antonio, matching the record employer and 'Bridal Buyer/Retail Sales' occupation. Corporate directory (@juliangold.com email) and bridal-review sites corroborate her role. Zip 78212 aligns. Note: the shared 450 Devine Rd address with Blair Young was NOT independently corroborated as a family/business tie, so no such relationship is asserted. FEC: no confirmable partisan/issue-PAC record for this person; no TX lobbyist registration.",
+  "source_url": "https://www.zoominfo.com/p/Melinda-Young/8139111418",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c8b13a78-fccc-4878-91ed-6950a13387b5",
+  "name": "Trefger, Edward",
+  "resolved_employer": "Self-employed (real estate development / construction)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Edward G. Trefger is a self-employed real estate investor/developer at 25675 Lewis Ranch Rd, New Braunfels 78132, matching the record address and occupation. Public records tie him to multiple Texas LLCs — E Trefger Holdings LLC, RISE ENTP LLC, Men & Dirt Development LLC, Tex Concrete Cutting Inc — with ~18 associated properties, consistent with real-estate development/construction. Appears as a donor in Whyte's campaign-finance filings. FEC: no confirmable federal PAC donations; no TX lobbyist registration.",
+  "source_url": "https://elementix.ai/investors/tx/edward-trefger",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c80b01fd-aade-4054-8756-8e1cc4619cc8",
+  "name": "Poppoon, Stephen",
+  "resolved_employer": "Law Offices of Stephen James Poppoon (Self-Employed)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Surname 'Poppoon' is genuine (not a misspelling). Stephen James Poppoon is a San Antonio real-estate attorney, Texas Bar #16139300, licensed 10/21/1975, Syracuse University College of Law grad, sole practitioner at the Law Offices of Stephen James Poppoon (matches donor's self-employed Attorney occupation). FEC PAC search, TX Ethics lobbyist registry, and bio pages checked: no lobbying registration and no notable federal PAC or advocacy affiliations surfaced.",
+  "source_url": "https://lawyers.justia.com/lawyer/stephen-james-poppoon-290234",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "be4bd234-668a-4c9f-b1e5-7c82b6c18ddc",
+  "name": "Goertz, Sean",
+  "resolved_employer": "Texas Medical Legal Consultants, LLC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Sean Goertz is Chief Operating Officer of Texas Medical Legal Consultants, LLC (txmlc.com), a San Antonio litigation-support firm providing medical expert witnesses to attorneys; BBA in Marketing from Texas A&M; prior IT/sales roles at Mobius Partners. Matches the donor's 'COO/Administrative' occupation and employer. FEC PAC search, TX Ethics lobbyist registry, and company/LinkedIn bio checked: no lobbying registration and no federal PAC or issue-advocacy affiliations found.",
+  "source_url": "https://www.linkedin.com/in/sean-goertz-5968764/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a2b3a6a0-1c36-4f2d-a406-2f2fb61eeac0",
+  "name": "Nava, Brenna",
+  "resolved_employer": "None — retired",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor is listed as Retired with no employer at 522 Possum Oak, Shavano Park 78230 (property records show an Esteban Nava associated with the address). Multiple distinct 'Brenna Nava' individuals exist in San Antonio (an active employment/business-law attorney at a different 78218 address; a BioBridge Global employee) and none could be confirmed as this retired Shavano Park resident. Former career could not be corroborated. FEC PAC search and TX Ethics lobbyist registry returned no confirmable match. Per guidance, no industry forced for an unconfirmed retiree.",
+  "source_url": "https://www.redfin.com/TX/Shavano-Park/522-Possum-Oak-78230/home/48792094",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9ca9da56-57e3-4c99-be11-9af3294fecfb",
+  "name": "Rose, J. Scott",
+  "resolved_employer": "Jackson Walker LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "J. Scott Rose is a Partner at Jackson Walker LLP, San Antonio office, specializing in bankruptcy, restructuring and creditor/lender representation for 30+ years; former managing partner of the SA office and firm management committee member; Best Lawyers/Super Lawyers honoree. Matches the donor's Attorney occupation and employer. FEC PAC search and TX Ethics lobbyist registry checked: no lobbying registration and no federal PAC/issue-advocacy affiliations found.",
+  "source_url": "https://www.jw.com/people/j-scott-rose/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Chamber Choir", "role": "Board of Directors", "category": "civic", "source_url": "https://www.jw.com/people/j-scott-rose/", "snippet": "Firm bio lists board/organizational involvement including 'San Antonio Chamber Choir, Board of Directors' (arts/community nonprofit, non-policy)."}
+  ]
+ }
+]

@@ -1,0 +1,232 @@
+[
+ {
+  "donor_id": "cb8a4cc2-2df0-4c27-9b94-66cf60a50fad",
+  "name": "Roth, Michael",
+  "resolved_employer": "Dr. Michael Roth, DPM — podiatrist practicing at San Antonio New Step / Del Rio Foot Clinic P.A., 94 Briggs St Ste 600, San Antonio, TX 78224",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Doctor of Podiatric Medicine (~33 yrs, Barry University), affiliated with Methodist, Baptist and Guadalupe Regional hospitals; his listed office address 94 Briggs St, 78224 matches the donor record exactly. FEC/OpenSecrets search found no PAC/federal contributions tied to this person (record shows 0); TX Ethics Commission lobbyist search returned no entry; bio read shows only a clinical practice with no policy-advocacy roles.",
+  "source_url": "https://care.healthline.com/find-care/provider/dr-michael-roth-1104911486",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "956335a6-2355-40d2-9fc6-57314ed3ec48",
+  "name": "Garcia, Gilbert",
+  "resolved_employer": "Managing Partner, Garcia Hamilton & Associates, L.P. (Houston fixed-income asset manager, ~$24B AUM)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Gilbert Andrew Garcia, CFA (Yale '85, ex-Salomon Brothers/Cisneros Asset Management), Managing Partner of Garcia Hamilton & Associates; former Chairman of Houston METRO (2010-2016) and 2023 Houston mayoral candidate — matches Houston location and 'Managing Partner' occupation. FEC/OpenSecrets: heavy federal donor (125 contributions, partisan lean 0.998 = near-exclusively Democratic; ran Annise Parker's 2009 campaign). TX lobbyist search: not personally registered. Full bio read shows civic/transit leadership, no pro-Israel/oil-gas/gun ideological org roles.",
+  "source_url": "https://garciahamiltonassociates.com/about-us/people/gilbert-a-garcia/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Houston METRO / City of Houston mayoral race", "role": "METRO Board Chairman (2010-2016); 2023 candidate for Mayor of Houston", "category": "political", "source_url": "https://houstonlanding.org/gilbert-garcia-brings-big-personality-and-a-pledge-to-turn-houston-around-to-mayors-race/", "snippet": "Former Metro board chair Gilbert Garcia announced his candidacy for Mayor of Houston; appointed to METRO after running Annise Parker's 2009 campaign."}
+  ]
+ },
+ {
+  "donor_id": "93b2ec7d-71ec-4115-b2f4-1e218d9ab266",
+  "name": "Christy, Emily",
+  "resolved_employer": "Emily Willeford Christy — corporate government/public-affairs executive (VP Government Affairs, Zachry Holdings, Feb 2025-; formerly SoftBank Group Intl. and USAA gov relations); board director of Jefferson Bank (the employer on the donation record)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Emily Willeford Christy of San Antonio (Davidson College BA, Georgetown MBA) sits on Jefferson Bank's Board of Directors — the 'Jefferson Bank/Banker' designation reflects that board seat rather than a retail-banking job; her career is corporate government affairs (USAA, SoftBank, now Zachry Holdings) plus earlier White House/FCC/Commerce roles. 78209 SA location matches. FEC: a $250 donation to Portman for Senate (2010) surfaced under 'Emily A Willeford/USAA'. TX lobbyist search: no state registration (she operates in federal/corporate gov affairs). Full bio read confirms Girls Inc., HeartGift, Junior League and Bexar Facts board service — no ideological advocacy orgs.",
+  "source_url": "https://bankersdigest.com/jefferson-bank-appoints-softbank-groups-christy-to-board-of-directors/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "SoftBank Group International / Zachry Holdings — U.S. Government Affairs", "role": "Partner/VP, Government Affairs (local, state, federal engagement)", "category": "business", "source_url": "https://www.legistorm.com/person/bio/502158/Emily_Willeford_Christy.html", "snippet": "Emily Christy — Zachry Holdings Inc. (Feb. 2025-), Vice President, Government Affairs; previously partner in U.S. government affairs at SoftBank Group and executive director of government relations at USAA."}
+  ]
+ },
+ {
+  "donor_id": "04d7052b-4ca2-4296-8005-95698b8a47f4",
+  "name": "Hoermann, Rusty",
+  "resolved_employer": "Russell 'Rusty' Christian Hoermann — attorney; Assistant General Counsel at Zachry Group (SA construction/engineering firm) per donation record; construction-litigation background (Cokinos Young); later owner of Alamo Comfort HVAC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Russell Christian Hoermann, San Antonio attorney whose career spans Assistant General Counsel/attorney at Zachry Group and associate at construction-law firm Cokinos Young, with earlier project-management roles at Bartlett Cocke and Manhattan Construction; SA 78212 location matches and 'Attorney/Zachry Group' matches the record. FEC/OpenSecrets: no federal PAC contributions found (record shows 0). TX Ethics Commission lobbyist search: no registration found. Full LinkedIn/Justia bio read shows a construction-law practice and later HVAC business ownership — no policy-advocacy or ideological org roles.",
+  "source_url": "https://www.linkedin.com/in/rusty-hoermann-a9973b1b/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f106679d-e9d9-4df9-baf4-036daf1b6b4f",
+  "name": "Swift, MaryLou",
+  "resolved_employer": "Owner, Mary Lou Swift Fine Arts — private art dealer/consultant in modern & contemporary art, Houston (self-employed; listed as retired)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Best match is Mary Lou Swift, longtime Houston private art dealer/consultant and owner of Mary Lou Swift Fine Arts — consistent with the record's 'Art Consultant, Retired / Self' and Houston location. Occupational/geographic match is strong but the exact 3121 Buffalo Speedway (77098) address could not be independently tied to her (her gallery listing shows a 77057 ZIP), so confidence is medium. FEC/OpenSecrets: no contributions confirmed (record shows 0). TX lobbyist search: no registration. Bio read (Marquis Who's Who, LinkedIn) describes an art/finance career since 1970 with no policy-advocacy or ideological org roles.",
+  "source_url": "https://www.linkedin.com/in/mary-lou-swift-a8945419",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "924239e3-5205-4403-941d-6109b520d6ac",
+  "name": "Gonzalez Chiscano Angulo, & Kasson, PC/Jefferson",
+  "resolved_employer": "Gonzalez Chiscano Angulo & Kasson, PC — San Antonio civil-litigation / insurance-defense law firm (est. 1997, 9601 McAllister Fwy Ste 401, 78216)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Organizational/firm donor. Confirmed as a boutique San Antonio trial/commercial-litigation and insurance-defense firm at the listed McAllister Freeway address via firm site (gcaklaw.com) and Super Lawyers/FindLaw. FEC and TX-lobbyist searches run: no firm-level PAC or registered-lobbyist match found; bio/about page read confirms firm profile only. No policy-advocacy affiliations surfaced.",
+  "source_url": "https://www.gcaklaw.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f518c1cf-cafd-43dc-a32d-6530bded47be",
+  "name": "Corso, Christopher",
+  "resolved_employer": "Vice President, Strategic Partnerships (and employee-owner) at Joeris General Contractors, San Antonio",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Confirmed via Joeris/Workforce Solutions Alamo/ZoomInfo/TheOrg as VP Strategic Partnerships and employee-owner at Joeris, a major SA commercial general contractor; also listed as a Workforce Solutions Alamo board member. FEC search: small Republican-leaning giving (lean 1.0, 3 donations) but no ideological/single-issue PAC identified. TX-lobbyist search run: no registration found. Bio page read confirmed construction role, no policy-advocacy org memberships.",
+  "source_url": "https://www.workforcesolutionsalamo.org/board-member/chris-corso/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Workforce Solutions Alamo", "role": "Board member", "category": "civic", "source_url": "https://www.workforcesolutionsalamo.org/board-member/chris-corso/", "snippet": "Chris Corso is listed as a board member on Workforce Solutions Alamo; bio notes his role as VP of Strategic Partnerships at Joeris."}
+  ]
+ },
+ {
+  "donor_id": "e464af22-c503-4a09-911f-7b93b725c55b",
+  "name": "Lomax, Gary",
+  "resolved_employer": "Executive associated with Argent Court / Argent Court Management LLC (senior-living/assisted-living operation), San Antonio",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Public records (CorporationWiki, Buzzfile, D&B) tie Gary T. Lomax of San Antonio to Argent Court Management LLC / Argent Group, consistent with the listed 4242 Broadway, 78209 senior-living operation; classified Healthcare as an assisted-living/senior-care community. FEC search run: no notable federal PAC giving found (lean 0.0, count 7). TX-lobbyist search: no registration. No professional bio page beyond corporate registry listings; no policy-advocacy affiliations found.",
+  "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/argent-court-management-llc/35068577.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "da362317-0fc0-4ec3-a7cb-2cf3e46ed221",
+  "name": "Crawford, William",
+  "resolved_employer": "Homebuilder (self-reported occupation; no distinct firm identified), Bulverde, TX",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Only corroboration is the Marc Whyte campaign-finance filing and the self-reported 'Homebuilder' occupation at the Bulverde 78163 address; no distinct company or professional profile located, so industry set to Construction on occupation alone. FEC search run: no federal contributions found (count 0). TX-lobbyist search: no match. No bio page exists to read; no affiliations found.",
+  "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003492_20260115_151325.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c2bdcd43-9fba-4592-b0fa-b794e3b79d72",
+  "name": "Bullard, John",
+  "resolved_employer": "Vice President at Cronimet Corporation (stainless-steel scrap/specialty-metals recycling), Houston/Spring, TX area",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "'Conimet Corp.' resolves to Cronimet Corporation, a specialty-metals recycling/scrap company with a Houston-area operation matching the Spring, TX 77386 address; LinkedIn lists him with Cronimet Corporation (page blocked HTTP 999 but title corroborated in search index). Classified Energy/Environment (metals recycling) given no manufacturing/metals taxonomy option. FEC search run: high individual giving volume (186 donations, near-neutral lean 0.095) but no specific ideological/single-issue PAC could be confirmed via public search. TX-lobbyist search: no match. No affiliations corroborated.",
+  "source_url": "https://cronimetspecialtymetals.com/locations/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b4eacf5a-f042-4f7e-b117-6fb816932f5c",
+  "name": "Smaistrla, Clayton",
+  "resolved_employer": "Saucier & Smaistrla, PLLC (attorney/partner)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Clayton J. Smaistrla is a San Antonio attorney (St. Mary's University School of Law, 2003; Texas Bar since 2003), partner at Saucier & Smaistrla PLLC (200 Concord Plaza Dr, 78216 area adjacent to donor's 78209 address), practicing personal injury and real estate. Rare surname makes ID essentially certain. FEC search: no federal PAC contributions found (record shows 0). TX-lobbyist search: no Texas Ethics Commission registration found. Full bio read (Super Lawyers/Martindale/LinkedIn): no board seats, leadership roles, or policy-advocacy org memberships disclosed.",
+  "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/clayton-j-smaistrla/214ddc34-4cf9-418d-8966-cd9dfb15377d.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b49f9b38-8339-4c14-b517-85ffe82dbf0d",
+  "name": "Solcher, Margaret",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Record lists 'Retired,' no employer, 78209 (Alamo Heights/Terrell Hills area). Solcher is a rare San Antonio surname, but no public source corroborates Margaret Solcher's own occupation or identity beyond 'retired,' so no industry assigned. FEC search: no federal PAC contributions found (count 0). TX-lobbyist search: no Texas Ethics Commission registration found. Bio search: no LinkedIn/professional/obituary bio found for this specific person; cannot confirm.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9ce8f9e4-ae04-48f6-9770-94051fc89e23",
+  "name": "Vasquez, Sonia",
+  "resolved_employer": "Fisher Nuts / John B. Sanfilippo & Son (Senior HR)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Campaign-finance record lists Senior HR at Fisher Nuts, the consumer nut/snack brand of John B. Sanfilippo & Son (a food/CPG manufacturer; classified as Retail/consumer-goods as the closest taxonomy fit). 'Sonia Vasquez' is a common San Antonio name and a distinct Sonia Vasquez (UT Health AVP) surfaced, so this specific individual's bio could not be independently confirmed; industry rests on the employer string. FEC search: record shows 3 small donations (lean 1.0) but no notable ideological/PAC contributions were verifiable to this exact person. TX-lobbyist search: no Texas Ethics Commission registration found. Bio full read: no confirmable LinkedIn/professional profile for the Fisher Nuts HR person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9b8f495d-1354-41a7-adb5-1b06db603df7",
+  "name": "Latiolais, Jeanette",
+  "resolved_employer": "Retired small-business owner (founded 'Janet's Kids' daycare and 'Janet's Gifts'); NE San Antonio / Universal City area — probable identity",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "No occupation/employer in record. Latiolais is a rare Cajun surname; an obituary matches Jeannette (Janet) Maitre Latiolais, ~79, of the Universal City / NE San Antonio area (donor address Royal Bluff is 78239, adjacent to Universal City), who died Dec 3, 2025 — a retired small-business owner, military wife, and community volunteer (HOA officer, Red Hat Society, Friends of the SA Public Library). Likely the same person given the rare surname and location, though the exact address differs, so identity is probable not certain; retired at time of giving so no active industry assigned. FEC search: no federal PAC contributions found (count 0). TX-lobbyist search: no registration. Bio/obituary full read: community/social roles only, none are public-policy advocacy.",
+  "source_url": "https://www.dignitymemorial.com/obituaries/universal-city-tx/jeannette-latiolais-12653975",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "988cecf8-3950-4c13-b4c0-67c6c585df66",
+  "name": "Martinez, Roger",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Record lists 'Retired,' no employer, 78217 (NE San Antonio). 'Roger Martinez' is an extremely common San Antonio name (multiple public-records and obituary matches), so the specific individual could not be corroborated and no industry is assigned. FEC search: record indicates 150 federal donations with a mild Democratic lean (0.106), consistent with a small-dollar/ActBlue recurring-donor pattern, but these cannot be reliably attributed to this exact person via public web sources. TX-lobbyist search: no Texas Ethics Commission registration found. Bio search: no confirmable professional profile for this specific individual.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "950f137b-9a0a-40c7-8312-d77d9b393c86",
+  "name": "Cace, Nathan",
+  "resolved_employer": "Law Office of Nathan C. Cace, P.C. (solo attorney — real estate / consumer bankruptcy / evictions & foreclosures), San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Nathan Christopher Cace, solo San Antonio attorney at his own firm (6609 Blanco Rd Ste 235, 78216), practices real estate, evictions/foreclosures and consumer bankruptcy; State Bar of Texas #292372, 3-time Texas Monthly Rising Star. Rare surname and matching solo-firm/occupation confirm identity. FEC search: 0 federal donations found (matches count 0). TX Ethics Commission lobbyist search: no registration found. Bio read (Super Lawyers/Justia/State Bar): no policy-advocacy board seats or ideological org roles found.",
+  "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/nathan-c-cace/e2e0cbca-f3b2-48c0-8c73-df82314098b8.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8fda7ad5-aa6e-4aca-b332-0d6079024951",
+  "name": "Cacace, Patty",
+  "resolved_employer": "Alamo Colleges District (Veterans Services Specialist; background in higher-ed PR/marketing/career services), San Antonio",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Patricia 'Patty' Cacace, Veterans Services Specialist at Alamo Colleges District (public community college district), with ~20 years in higher-ed PR/marketing/recruiting/career services per LinkedIn. Employer and San Antonio location match the record. FEC search: 0 federal donations found. TX Ethics Commission lobbyist search: no registration found. Bio read (LinkedIn/ZoomInfo): administrative/student-services role only; no policy-advocacy or ideological affiliations found.",
+  "source_url": "https://www.linkedin.com/in/patty-cacace-a6032710/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8d141469-79c3-425b-9c23-89e9283e6334",
+  "name": "Guerra, R",
+  "resolved_employer": "Law Office of R. Javier Guerra, PLLC (solo civil-litigation / health-law attorney), San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Raul 'R.' Javier Guerra, solo San Antonio attorney (State Bar #152426; Baylor Law JD 1994; UT Austin pharmacy B.S.), firm established 1994 focusing on health law, general litigation, personal-injury defense and medical malpractice (Texas Bar lists him as Raul Javier Guerra). FEC search: prior federal giving is Republican-leaning, consistent with partisan lean 1.0 / 17 FEC donations. TX Ethics Commission lobbyist search: no registration found. Bio read (Martindale/FindLaw/State Bar): litigation practice only; no ideological org board seats found.",
+  "source_url": "https://www.martindale.com/organization/law-office-of-r-javier-guerra-pllc-158577289/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texans for Senator John Cornyn Inc.", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/08/elec-SAN-ANTONIO-TX-08-part4.html", "snippet": "FEC record shows a $500 contribution from Raul J Guerra (San Antonio) to Sen. John Cornyn's committee, consistent with a Republican federal-giving lean."}
+  ]
+ },
+ {
+  "donor_id": "8ccc0a8e-9733-4bac-b48f-24856cb9986f",
+  "name": "Scott, Sallie",
+  "resolved_employer": "Retired (civic volunteer; District 10 appointee to City of San Antonio Animal Care Services Advisory Board; affiliated with San Antonio Area Friends of Animal Care Services)",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "A Sallie Scott at 84 Granburg Circle, San Antonio 78218 is tied to the San Antonio Area Friends of Animal Care Services (animal-welfare nonprofit) and served as the District 10 appointee on the City's Animal Care Services Advisory Board — a strong tie to Councilman Whyte's District 10. Retired, no employer. FEC search: could not isolate her specific federal records (common name), though record notes 15 donations, lean 0.0; TX Ethics Commission lobbyist search: no registration found. Bio read: civic animal-welfare role only; no ideological affiliations found. Confidence medium because address+D10-board match is strong but retiree identity is otherwise thin.",
+  "source_url": "https://www.guidestar.org/Profile/84-1663447",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio Animal Care Services Advisory Board / San Antonio Area Friends of Animal Care Services", "role": "District 10 appointee / supporter", "category": "civic", "source_url": "https://www.guidestar.org/Profile/84-1663447", "snippet": "Sallie Scott (84 Granburg Circle, 78218) associated with the San Antonio Area Friends of Animal Care Services and served as the District 10 appointee on the city's Animal Care Services Advisory Board."}
+  ]
+ },
+ {
+  "donor_id": "8977dac5-6236-4dba-ad7a-ae83bef02b42",
+  "name": "Evans, David",
+  "resolved_employer": "Self-employed lawyer, Andrews, NC (likely family-law / civil-litigation / ICWA practice)",
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Record lists a self-employed lawyer in Andrews, NC 28901 (out of state). An Andrews-NC attorney profile (family/juvenile/civil litigation, ICWA cases, licensed in NC, TN and the Eastern Band of Cherokee Indians Tribal Court) plausibly matches, but 'David Evans' is a very common name and the specific individual could not be definitively confirmed. FEC search: 0 federal donations found (matches record). TX Ethics Commission lobbyist search: not applicable / none found. Bio read: no policy-advocacy or ideological affiliations confirmed. Industry Legal follows from the stated occupation; confidence low because the specific person is unconfirmed.",
+  "source_url": "https://www.justia.com/lawyers/north-carolina/andrews",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "donor_id": "9926cbcd-1b1e-4f36-a862-76cae7582fa6",
+    "name": "Ginsberg, Michael",
+    "resolved_employer": "MG Law Firm, P.C. (tax/estate attorney, Austin)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Location 917 West Lynn St, Austin, TX 78703 matches Michael D. Ginsberg, a solo tax attorney at MG Law Firm, P.C. (Taxation and Wills-Trusts-Probate; State Bar of TX #7968500, licensed 1973, UT Law). Occupation (attorney/tax) and address point to Michael D. Ginsberg, NOT the Jones Day litigation partner 'Michael H. Ginsberg' despite 'Jones Day' in the FEC employer field; the 'Michel Gray Rogers LLP' employer entry could not be corroborated. FEC PAC and TX/SA lobbyist searches found no ideological-PAC contributions and no lobbyist registration; partisan_lean 0.16.",
+    "source_url": "https://referlex.com/attorney/f0d02ef2-b3ad-4469-937c-7ee799dd5d78",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8b6cdd92-8e8f-4d55-97ac-afa8b0392919",
+    "name": "Gallagher, Michael",
+    "resolved_employer": "U.S. Air Force (retired Colonel); former San Antonio City Council D10",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Retired U.S. Air Force in NE San Antonio zip 78217 (District 10) who gave to D10 councilman Whyte. Matches Michael (Mike) Gallagher, retired Air Force Colonel (29 years) and former San Antonio City Council member for District 10 (appointed 2014, elected 2015 with 81%, served through 2017; reappointed Dec 2022 as interim to fill the D10 seat vacated by Clayton Perry). President of the Northern Hills HOA and the Northeast Neighborhood Alliance. FEC PAC and TX/SA lobbyist searches returned no ideological-PAC contributions and no lobbyist registration.",
+    "source_url": "https://sanantonioreport.org/district-10-city-council-replacement-mike-gallagher/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "U.S. Air Force", "role": "Retired Colonel (29 years of service)", "category": "military_defense", "source_url": "https://sanantonioreport.org/district-10-city-council-replacement-mike-gallagher/", "snippet": "a former U.S. Air Force colonel ... He served in the U.S. Air Force for 29 years, retiring at the rank of colonel."},
+      {"org": "San Antonio City Council, District 10", "role": "Former / interim Council Member (2014-2017; interim 2022-2023)", "category": "political", "source_url": "https://www.sacurrent.com/news/san-antonio-city-council-picks-michael-gallagher-to-fill-seat-left-vacant-by-clayton-perry-30464564", "snippet": "San Antonio City Council picks Michael Gallagher to fill seat left vacant by Clayton Perry ... served on city council between 2014 and 2017."},
+      {"org": "Northern Hills Homeowners Association / Northeast Neighborhood Alliance", "role": "President of both", "category": "civic", "source_url": "https://sanantonioreport.org/district-10-city-council-replacement-mike-gallagher/", "snippet": "he currently serves as president of the Northern Hills Homeowners Association and president of the Northeast Neighborhood Alliance, which encompasses 86 neighborhood groups"}
+    ]
+  },
+  {
+    "donor_id": "69943016-02cd-4cb5-8703-1eb447979064",
+    "name": "Sheldon, Lisa",
+    "resolved_employer": "Rick Sheldon Real Estate, LLC (Owner), Waco",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Lisa (Ferris) Sheldon is Owner of Rick Sheldon Real Estate, LLC, a Waco-based real estate development/brokerage firm (retail, office, single-family, mixed-use), per LinkedIn and the Greater Waco Chamber directory; zip 76710 Waco matches. FEC individual-contribution records list 'Lisa Sheldon / Lisa Ferris Sheldon (Self/Real Estate Developer, zip 76710)' giving to Chet Edwards for Congress (D, TX-17). FEC PAC search found no ideological-PAC contributions; no TX/SA lobbyist registration. partisan_lean 0.27.",
+    "source_url": "https://www.linkedin.com/in/lisa-sheldon-82288034/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Chet Edwards for Congress (D, TX-17)", "role": "Individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/08/elec-WACO-TX-08.html", "snippet": "LISA SHELDON (SELF/REAL ESTATE DEVELOPER), (Zip code: 76710) $1000 to CHET EDWARDS FOR CONGRESS on 05/29/2007; LISA FERRIS SHELDON ... $1300 to CHET EDWARDS FOR CONGRESS on 02/12/2008"}
+    ]
+  },
+  {
+    "donor_id": "5d2f2eb9-074e-4ccb-8a5e-602356a95d0b",
+    "name": "Goertz, Kathryn",
+    "resolved_employer": "Texas Medical Legal Consultants, LLC (Co-Founder/Co-Owner)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Co-Founder/Co-Owner of Texas Medical Legal Consultants, LLC, a San Antonio firm she started in 2010 with her sister Elizabeth LaBarge, Esq. The firm connects physicians/nurses serving as medical expert witnesses with attorneys. Her own background is journalism (UT Austin) and medical office administration; the 'Attorney' occupation label appears to attach to the firm/sister, not to her personally. FEC individual-contribution search returned 0 records (fec_donation_count 0); no TEC or City of San Antonio lobbyist registration; full firm bio read shows no board seats or ideological/advocacy affiliations.",
+    "source_url": "https://txmlc.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4ae21d76-cecb-4699-8dc4-c6d9e799eaac",
+    "name": "Wentworth, Jeffrey",
+    "resolved_employer": "Self-employed / Retired (Bexar County Justice of the Peace, Pct 3 Pl 1)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Public figure: Jeff Wentworth (R), former Texas State Senator (District 25, 1997-2013; District 26, 1993-1997), former State Representative District 123/Bexar County; JD Texas Tech, BA Texas A&M; won Bexar County Justice of the Peace Precinct 3 Place 1 in 2018 (explains 'Attorney,Judge' occupations and 78209 residence). FEC (fec_donation_count 144) shows an active small-dollar Republican donor: Tony Gonzales for Congress, Texans for John Cornyn, Roger Williams for Congress, Chris Gober for Texas. NOTE: a $36.46 NuStar Energy PAC payroll-deduction entry belongs to a DIFFERENT Jeffrey Wentworth (a NuStar employee), not the retired senator, and is not attributed here. No pro-Israel, gun, defense, or oil/gas ideological PAC giving found; no lobbyist registration.",
+    "source_url": "https://ballotpedia.org/Jeff_Wentworth",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Republican Party of Texas / Republican elected office", "role": "Former Texas State Senator (District 25), former State Representative (District 123), current Bexar County Justice of the Peace", "category": "political", "source_url": "https://ballotpedia.org/Jeff_Wentworth", "snippet": "Jeff Wentworth is a Republican former member of the Texas Senate from San Antonio... represented District 25 from January 1997 to January 2013... advanced from the Republican primary for Bexar County Justice of the Peace Precinct 3 Place 1 in 2018."},
+      {"org": "Republican federal candidate committees (Tony Gonzales, John Cornyn, Roger Williams, Chris Gober)", "role": "Individual political donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Wentworth&contributor_city=San+Antonio", "snippet": "FEC individual-contribution records: TONY GONZALES FOR CONGRESS $500 (11/8/2025); TEXANS FOR SENATOR JOHN CORNYN INC. $250 (2/2/2026); ROGER WILLIAMS FOR U S CONGRESS $250 (11/3/2023); CHRIS GOBER FOR TEXAS $250 (2/18/2026)."}
+    ]
+  },
+  {
+    "donor_id": "49968a36-2553-41a8-817f-9c7051af5059",
+    "name": "Thomas, Sloan",
+    "resolved_employer": "Alamo Title Company (Fidelity National Title), San Antonio",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Director of Commercial Sales at Alamo Title / Fidelity National Title in San Antonio, handling commercial and corporate business development; confirmed via firm bio page and LinkedIn. UT Austin communication graduate, four-year football letterman and former NFL player; previously Associate Director of Business Development at UTSA. FEC individual-contribution search returned 0 records (fec_donation_count 0); no TEC or City of San Antonio lobbyist registration; full bio read shows no board seats or ideological/advocacy affiliations.",
+    "source_url": "https://alamotitlesa.com/sloan-thomas/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3e8874bb-46a1-47a1-8018-5287a9f9a88f",
+    "name": "Kuyrkendall, Amanda",
+    "resolved_employer": "Kuyrkendall & Company, Inc. (family commercial real estate firm), San Antonio 78216",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Listed occupation 'Homemaker, CRE' with employer 'Kuyrkendall and Company'; residence zip 78216 matches the firm's San Antonio location. Kuyrkendall & Company is a full-service/commercial real estate firm founded 1978 by Donald J. Kuyrkendall, led today by Donald, Darren R., and Deborah A. Kuyrkendall; Amanda is a family affiliate but is not individually profiled on the firm's team pages, so her exact role is not publicly documented (hence medium confidence). FEC individual-contribution search returned 0 records; no TEC or City of San Antonio lobbyist registration; no independent public bio beyond the family real estate business.",
+    "source_url": "https://www.kuyrkendall.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "18e4469a-aff8-42da-9cb3-f2f460e8b8c0",
+    "name": "Michel, Lorri",
+    "resolved_employer": "Michel Gray & Rogers, LLP (now Michel Rogers & Maloney, PC), Austin property-tax law",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Lorri Michel is co-founder and name partner of the Austin property-tax law firm Michel Gray & Rogers, LLP (rebranded Michel Rogers & Maloney, PC), 30+ years in commercial property tax law; adjunct professor of Texas Property Tax Law at UT School of Law; Baylor Law J.D. 1991; multi-year Texas Super Lawyer. She testifies before the Texas Legislature as a property-tax expert but was not found as a registered lobbyist in TEC searches. FEC PAC search found no ideological-PAC contributions (partisan_lean 0.94, leans Dem). Affiliations below are professional/civic business associations, not ideological.",
+    "source_url": "https://www.texprop.tax/principals/lorri-michel/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Texas Apartment Association (TAA)", "role": "Counsel on property tax matters", "category": "business", "source_url": "https://www.texprop.tax/principals/lorri-michel/", "snippet": "Counsel to the Texas Apartment Association (TAA) on property tax matters"},
+      {"org": "Texas Association of Property Tax Professionals (TAPTP)", "role": "Member, Government Relations Committee", "category": "business", "source_url": "https://www.texprop.tax/principals/lorri-michel/", "snippet": "Member of the Government Relations Committee at the Texas Association of Property Tax Professionals (TAPTP)"},
+      {"org": "Texas Bar Foundation", "role": "Life Fellow", "category": "civic", "source_url": "https://www.texprop.tax/principals/lorri-michel/", "snippet": "Life Fellow of the Texas Bar Foundation; Invited Fellow of the Austin Women Lawyers Foundation"}
+    ]
+  },
+  {
+    "donor_id": "f088cbcc-3978-42cc-b98e-261109369042",
+    "name": "Bass, Shelley",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as Retired (employer 'retired') at 265 Cave Ln, San Antonio, TX 78209 (Alamo Heights area). FEC PAC-contribution search, Texas Ethics Commission lobbyist registry search, and bio/profile searches returned no public profile, board seat, org membership, or documented ideological PAC activity. fec_donation_count 0. No affiliation documented in public records; categorize-by-employer fallback applied (retired, no forced affiliation).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6b10e226-0126-4e8e-8ed6-07440d0aa2f2",
+    "name": "Whyte, Anny.",
+    "resolved_employer": "Origin Bank (VP Business Development), Houston",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Self-reported as VP Business Development at Origin Bank, 2211 Fairview St, Houston, TX 77019. Origin Bank is a Texas/Louisiana/Mississippi commercial bank (Origin Bancorp), placing the donor in Finance. FEC PAC search (fec_donation_count 3) and OpenSecrets/FEC name searches did not surface identifiable ideological PAC contributions; TEC and City of San Antonio lobbyist registries show no match; no personal bio/board page located beyond employer/title. Shares surname with candidate Marc Whyte, but NO public record establishes a family or business tie — recorded as coincidence only.",
+    "source_url": "https://www.origin.bank/en/about/executive-leadership/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ff79b154-66fb-4fc1-bd7f-9a7363a1e176",
+    "name": "Cano, Stephanie",
+    "resolved_employer": "Retired",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Listed as Retired (employer blank) at 201 Castano Ave, San Antonio, TX 78209 (Alamo Heights). Public property/people records for 201 Castano Ave list residents 'Stephanie M' and 'Dennis J', corroborating co-residency with Dennis Cano (VP, Cano & Company Commercial Real Estate) — supports a household relationship. However, Stephanie herself is recorded as retired with no employer, so no personal occupational industry is assigned. FEC PAC search (fec_donation_count 4; partisan_lean 1.0 / Republican) and TX/City lobbyist registries surfaced no specific ideological PAC contribution or lobbyist registration to record as a documented affiliation. No org/board affiliation documented in public records.",
+    "source_url": "https://www.spokeo.com/Castano+Ave+San+Antonio+TX+addresses",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fa9e13d8-1018-4943-85d2-46ad9ac2b792",
+    "name": "Alamo City, Republican Women",
+    "resolved_employer": "Alamo City Republican Women (GOP women's political club / PAC)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "The donor name 'Alamo City, Republican Women' is a mis-parsed rendering of the Alamo City Republican Women, an established San Antonio GOP women's political club affiliated with the National and Texas Federation of Republican Women. It operates a registered PAC that makes campaign contributions and files Texas ethics reports. This is an organization/PAC donor, not an individual. Industry = Nonprofit / Advocacy; a political (Republican women's organization) affiliation is recorded.",
+    "source_url": "https://www.acrwomen.org/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Alamo City Republican Women", "role": "Republican women's political club / PAC (the donor entity itself)", "category": "political", "source_url": "https://www.acrwomen.org/about", "snippet": "Alamo City Republican Women is a grassroots conservative political organization and member of the National and Texas Federation of Republican Women; it maintains a Political Action Committee (PAC) with a named treasurer that handles campaign contributions and Texas ethics reporting."}
+    ]
+  },
+  {
+    "donor_id": "ed481514-01fc-43f8-8f05-58bd412a1c37",
+    "name": "Sheehan, Ty",
+    "resolved_employer": "Dunn Sheehan LLP (business attorney), San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Ty Hunter Sheehan is a shareholder/business attorney at Dunn Sheehan LLP (14100 San Pedro Ave, San Antonio, TX 78232), practicing business, commercial real estate, and securities law; prior firm Hornberger Fuller Garza & Cohen. Baylor B.A., St. Mary's J.D. summa cum laude. Full firm bio read shows civic/board roles: SA2020 board, VP San Antonio Bar Association, past president San Antonio Young Lawyers Association. FEC/OpenSecrets: a $50 contribution to Hurd for Congress (Will Hurd, R) on 09/30/2015 is documented. TEC and City lobbyist registries: no match (not a registered lobbyist).",
+    "source_url": "https://www.dunnsheehan.com/our-firm/ty-hunter-sheehan",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "SA2020", "role": "Board Member", "category": "civic", "source_url": "https://www.dunnsheehan.com/our-firm/ty-hunter-sheehan", "snippet": "Current Board Member, SA2020 (San Antonio community/civic vision nonprofit)."},
+      {"org": "San Antonio Bar Association", "role": "Vice President (also Past President, San Antonio Young Lawyers Association)", "category": "civic", "source_url": "https://www.dunnsheehan.com/our-firm/ty-hunter-sheehan", "snippet": "Vice President, San Antonio Bar Association; Former President (2012) San Antonio Young Lawyers Association; Board Member, Leadership Organization of Professionals."},
+      {"org": "Hurd for Congress (Will Hurd, R-TX)", "role": "Individual contributor", "category": "political", "source_url": "https://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part12.html", "snippet": "Ty Sheehan, attorney (Hornberger Sheehan Fuller & Beiter), made a $50 contribution to Hurd for Congress on 09/30/2015."}
+    ]
+  },
+  {
+    "donor_id": "eb161a1d-43b8-4e9e-baaa-ecb7abca0f73",
+    "name": "Cano, Dennis",
+    "resolved_employer": "Cano and Company Commercial Real Estate (VP), San Antonio",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Dennis Cano is VP at Cano and Company Commercial Real Estate, San Antonio, per LinkedIn, firm site, LoopNet and HAR.com; BBA Marketing from St. Mary's, joined firm 2011, does commercial land/retail/office deals including government-agency representation. Zip 78209 and employer match donor record. No City of San Antonio or TEC lobbyist registration found under his name. FEC itemized PAC search attempted (FEC.gov API rate-limited; OpenSecrets returned HTTP 403) so no specific ideological PAC could be confirmed; no PAC activity surfaced in web searches. No board seats or ideological org memberships found.",
+    "source_url": "https://www.linkedin.com/in/dennis-cano-a3383336/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e960a46f-2079-42aa-929c-ca80fe1c61ce",
+    "name": "Miller, Nathan",
+    "resolved_employer": "Miller & Johnson, PLLC (attorney), Boone, NC; Watauga County Attorney",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Nathan Arthur Miller, attorney at Miller & Johnson, PLLC, W King St, Boone, NC 28607 (zip matches); JD St. Mary's University 2006, general practice including land use/zoning, criminal defense, business/real estate. Documented public office: elected Republican, Chairman of the Watauga County Board of Commissioners 2010-2014, appointed Watauga County Attorney Dec 2024. Consistent with partisan_lean 0.08 (GOP-leaning) and 54 FEC donations. FEC itemized PAC search attempted (API rate-limited; OpenSecrets 403) so specific PAC recipients could not be enumerated; TEC and City of San Antonio lobbyist searches returned no registration.",
+    "source_url": "https://millerandjohnsonlaw.com/staff/nathan-a-miller/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Watauga County Board of Commissioners", "role": "Former Chairman (2010-2014); later appointed County Attorney (2024)", "category": "political", "source_url": "https://www.hcpress.com/politics/nathan-miller-exits-as-jimmy-hodges-arrives-commissioners-sworn-in-for-upcoming-term-on-monday.html", "snippet": "Nathan A. Miller served as Chairman of the Watauga County Commissioners from 2010 until 2014; a Republican, he later was named county attorney in December 2024."}
+    ]
+  },
+  {
+    "donor_id": "e592a7c8-72bc-45d3-88cf-7a1b94ca8541",
+    "name": "Schroeder, Dean",
+    "resolved_employer": "DRK Group, L.L.C. (scrap-metal recycling, Lufkin) — self-employed owner/director",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Donor listed as 'Self Employed', Lufkin 75904. Public records place a Dean Schroeder in the same Quail Creek neighborhood (Lufkin 75904; donor at 772 Quail Creek) and list him as Director of DRK Group, L.L.C., a Lufkin scrap-metal recycling business (CorporationWiki, D&B). Best-fit match on name+city+neighborhood, hence medium confidence (identity not uniquely pinned). No City of San Antonio or TEC lobbyist registration; FEC itemized PAC search attempted (API rate-limited; OpenSecrets 403); no ideological PAC activity surfaced in web searches. No board seats or advocacy memberships found.",
+    "source_url": "https://www.corporationwiki.com/Texas/Lufkin/dean-schroeder/38111724.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e4efe739-247a-4268-9321-46dec72b943c",
+    "name": "Braha, Jack",
+    "resolved_employer": "Land Use Solutions, LLC (SA zoning/entitlement consulting); publicly tied to Fulcrum Development LLC",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Donor-stated employer 'Land Use Solutions' with occupation 'Real Estate', San Antonio 78230. Jacques 'Jack' Braha is publicly identified as a founding partner of San Antonio's Fulcrum Development LLC / Fulcrum Property Group. Land Use Solutions, LLC is a San Antonio/Austin land-development and zoning/entitlement consulting firm; its City of San Antonio lobbyist registration lists Michele C. Haussmann as registered agent (client BMP 1604 Developers, Bulverde Marketplace) — Braha is NOT listed as the registered lobbyist. No TEC lobbyist registration found under Braha. So despite the influence-adjacent land-use context, no personal lobbyist registration is documented. fec_donation_count 0; FEC PAC search returned nothing (API rate-limited; OpenSecrets 403). Employer discrepancy (Land Use Solutions vs. Fulcrum) leaves identity/employer at medium confidence.",
+    "source_url": "https://www.fulcrumsa.com/our-fulcrum-development-team-2/jacques-braha/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e3a80f8f-36fb-4d3d-ba23-ed3d112fcb16",
+    "name": "McKee, Aaron",
+    "resolved_employer": "FEDITC, LLC (federal IT / defense contractor, COO/SVP), San Antonio",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Aaron McKee is COO/SVP of FEDITC, LLC, San Antonio (The Org, RocketReach, CB Insights, LinkedIn); joined as employee #5, SVP 2008-2023, COO/SVP since Apr 2023; Trinity University grad. FEDITC is an ISO/CMMI-certified cyber-security, IT and engineering services firm with 500+ employees supporting the Department of Defense, Intelligence Community and Federal Government worldwide. Zip 78209 and employer match donor record; partisan_lean ~0.001 and 162 FEC donations indicate heavy GOP giving, but FEC itemized PAC data could not be retrieved (API rate-limited; OpenSecrets 403), so specific ideological PAC recipients could not be individually confirmed. No lobbyist registration (TEC or City of San Antonio) found. Military-defense affiliation established via employer (defense/IC contractor).",
+    "source_url": "https://theorg.com/org/federal-it-consulting-feditc/org-chart/aaron-mckee",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "FEDITC, LLC (Federal IT Consulting)", "role": "Chief Operating Officer / Senior Vice President", "category": "military_defense", "source_url": "https://www.afcea.org/sourcebook/details.jsp?cid=55159811", "snippet": "FEDITC, LLC is a San Antonio cyber-security/IT/engineering firm supporting the Department of Defense, Intelligence Community and Federal Government worldwide; Aaron McKee is its COO/SVP, supporting military and intelligence clients around the world."}
+    ]
+  },
+  {
+    "donor_id": "e2dca22d-3e85-473a-ab73-143da85b3fb6",
+    "name": "Mery, Gregory",
+    "resolved_employer": "Elegant Limousine and Charter (President & CEO), San Antonio",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Elegant Limousine and Charter is a San Antonio luxury chauffeur/transportation company founded 1989 at 5157 Blanco Rd, San Antonio TX 78216 (matches donor location exactly), official ground transportation for the San Antonio Spurs. Public records (LinkedIn, ZoomInfo, Datanyze) list the President & CEO as 'George Mery' rather than 'Gregory Mery' — same title, employer, and address as the donor record, so this is almost certainly the same individual or an immediate family member with a first-name variation in the filing (hence medium confidence). No TEC state lobbyist or City of San Antonio lobbyist registration found for Mery or Elegant Limousine despite the vehicle-for-hire regulatory angle. fec_donation_count 0; no federal PAC contributions found. No ideological affiliations documented; categorized by employer as a transportation operator.",
+    "source_url": "https://www.linkedin.com/in/george-mery-721b8811a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e22b958a-71ee-4c90-94cf-27fa5c163c92",
+    "name": "Espinoza & Brock, PLLC",
+    "resolved_employer": "Espinoza & Brock, PLLC (plaintiff-side law firm), San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Espinoza & Brock, PLLC is a San Antonio-based plaintiff-side law firm (offices in San Antonio and El Paso) specializing in workplace/non-subscriber work injury cases, workers' compensation, employment discrimination/retaliation, and personal injury. San Antonio office at 10202 Heritage Blvd (donor location). Principals: Javier Garcia Espinoza (2016 President, San Antonio Trial Lawyers; statewide president, Texas Chapter of ABOTA) and Lara Brock (Board/Treasurer, San Antonio Trial Lawyers Association; President-Elect, Bexar County Women's Bar Association). These are professional legal/bar-association roles, not ideological advocacy. No TEC or City of San Antonio lobbyist registration found for the firm or principals. No federal PAC contributions (fec_donation_count 0). Industry = Legal.",
+    "source_url": "https://www.espinozabrock.com/our-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  }
+]

@@ -1,0 +1,238 @@
+[
+ {
+  "donor_id": "c8e199fe-fb16-41b5-a125-610a9ee999bb",
+  "name": "Embrey, Gayle",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "high",
+  "evidence": "FEC individual-contribution records list Gayle Embrey as a homemaker in SA zip 78209, in the same household as Walter M. Embrey Jr., real-estate developer/founder of Embrey Partners Ltd (both gave to McCain 2008) - confirming this is the Embrey Partners family, not the Dallas Embrey Family Foundation figure. FEC search run: past GOP presidential donor, no ideological-PAC pattern found. TX lobbyist registry: no registration found. Bio read: no employed/board role - listed occupation Homemaker.",
+  "source_url": "https://www.city-data.com/elec2/08/elec-SAN-ANTONIO-TX-08-part10.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c8d94599-fd68-4120-8b6a-575a08cba200",
+  "name": "Ford, William",
+  "resolved_employer": "Ford Murray, PLLC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "William H. Ford is a shareholder/litigation attorney at Ford Murray, PLLC (business/family/trade-secret/fiduciary litigation); firm address 10001 Reunion Pl, SA 78216 matches the donor address. FEC search run: a generic 'William Ford' donor exists but could not be confirmed as this attorney - no confirmed ideological PAC. TX lobbyist registry: no registration found. Full bio read: former President of Texas Young Lawyers Assn, State Bar of Texas director, and former mayor/city councilman of Hill Country Village; board of San Antonio Life Academy (disability charity).",
+  "source_url": "https://fordmurray.com/attorney/william-h-ford/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of Hill Country Village", "role": "Former Mayor and City Council Member", "category": "political", "source_url": "https://fordmurray.com/attorney/william-h-ford/", "snippet": "He served as mayor and city council member of Hill Country Village."}
+  ]
+ },
+ {
+  "donor_id": "c507220d-86da-4379-b56b-bdcdc5ebdafb",
+  "name": "Guenther,Jr., Jack",
+  "resolved_employer": "JG Auto Group",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Jack E. Guenther Jr. is President/CEO of JG Auto Group (3rd-generation SA auto dealer) and Treasurer of the Jack & Valerie Guenther Foundation, whose office at 153 Treeline Park Ste 300, SA 78209 matches the donor address; also holds passive mineral/royalty interests (not an O&G operator). FEC search run: no ideological-PAC pattern surfaced. TX lobbyist registry: no registration found. Bio read: primary documented business is the auto dealership, consistent with donor's self-listed 'Investor/Self-Employed.'",
+  "source_url": "https://www.linkedin.com/in/jack-guenther-189a75a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Jack & Valerie Guenther Foundation", "role": "Treasurer", "category": "civic", "source_url": "https://www.instrumentl.com/990-report/jack-valerie-guenther-foundation", "snippet": "Jack Guenther Jr. serves as Treasurer of the Jack & Valerie Guenther Foundation, a San Antonio private family foundation."}
+  ]
+ },
+ {
+  "donor_id": "c5009a14-adba-4e8a-8c58-454a7a0c60c0",
+  "name": "Davila, Roland",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor address 215 N Center St, SA 78202 is a downtown condo building; occupation is blank and multiple distinct 'Roland Davila' individuals exist in SA (RCO Construction president, a Univision production manager, others) with no way to confirm which lives at this condo. FEC search run: DB shows Dem-leaning federal donation history but it cannot be tied to a specific verified person. TX lobbyist registry: no matching registration found. No public bio available to read - industry left null per no-guess rule.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c4cb8d74-0de7-4945-9073-153ad1cdc5a5",
+  "name": "Thomson, Kristal",
+  "resolved_employer": "Langley & Banack, Incorporated",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Kristal Cordova Thomson is a shareholder in the family-law practice group at Langley & Banack in SA, board-certified in family law, AAML fellow, past chair of the State Bar of Texas Family Law Section and president-elect of the Texas Academy of Family Law Specialists (professional bar roles, not ideological advocacy). FEC search run: no ideological PAC contributions surfaced. TX lobbyist registry: no registration found. Full bio read confirms firm role and credentials.",
+  "source_url": "https://www.langleybanack.com/professionals/kristal-cordova-thomson/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c48fda23-4ea4-4415-bd6b-f22e1a782779",
+  "name": "Lim, Bo",
+  "resolved_employer": "Golden Star Cafe (San Antonio)",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Donor lists self-employed at Golden Star Cafe, a historic family-run Chinese-American restaurant on SA's West Side owned by the Lim family (documented third-gen owner 'Bo Jean Lim'); highly specific employer corroborates, though donor's 78249 home differs from restaurant location. FEC PAC and TX lobbyist searches run: no federal PAC donations or lobbyist registration found.",
+  "source_url": "https://sanantonioreport.org/golden-star-cafe-90-years-anniversary-west-side-san-antonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Golden Star Cafe", "role": "Owner / operator (Lim family)", "category": "business", "source_url": "https://sanantonioreport.org/golden-star-cafe-90-years-anniversary-west-side-san-antonio/", "snippet": "Golden Star Cafe is family owned and operated; Bo Jean Lim is a third-generation owner running the 90-year-old West Side restaurant with her brother."}
+  ]
+ },
+ {
+  "donor_id": "c40bf7b7-6f95-4fd3-b4f5-cb67a584abdf",
+  "name": "DeLaHoussaye, Jeremy",
+  "resolved_employer": "PJS of San Antonio (Professional Janitorial Service / PJS of Texas — commercial janitorial)",
+  "industry": null,
+  "confidence": "high",
+  "evidence": "LinkedIn and multiple business-data profiles confirm Jeremy DeLaHoussaye as President (recently CEO) of PJS of San Antonio, a commercial janitorial/building-services firm — matches donor title 'President, PJS of San Antonio.' Industry left null as commercial janitorial has no clean taxonomy fit. FEC PAC and TX lobbyist searches run: no federal PAC donations or lobbyist registration found.",
+  "source_url": "https://www.linkedin.com/in/jeremy-delahoussaye-604b5840",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "PJS of Texas (PJS of San Antonio)", "role": "President / CEO", "category": "business", "source_url": "https://www.linkedin.com/in/jeremy-delahoussaye-604b5840", "snippet": "Jeremy DeLaHoussaye — President of PJS of San Antonio at PJS of Texas, a locally-owned commercial janitorial company operating since 1986."}
+  ]
+ },
+ {
+  "donor_id": "c3a7bbe4-090a-478e-948b-1590ed6cfecf",
+  "name": "Yan, Yan",
+  "resolved_employer": "Keller Williams City View (San Antonio)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "HAR.com agent profile confirms a real estate agent named Yan Yan affiliated with Keller Williams City View in San Antonio, matching donor's stated occupation (Real Estate Broker) and employer; common name limits certainty. FEC PAC and TX lobbyist searches run: no federal PAC donations or lobbyist registration found.",
+  "source_url": "https://www.har.com/yan-yan/agent_yanyan01",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Keller Williams City View", "role": "Real estate agent/broker", "category": "business", "source_url": "https://www.har.com/yan-yan/agent_yanyan01", "snippet": "Yan Yan is a TX real estate agent affiliated with Keller Williams City View, San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "c311ee51-57a1-4c8b-80c3-24f4a7aef4ca",
+  "name": "Clark, Angela",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation given and 'Angela Clark' is highly common in San Antonio 78212 (search surfaced a lawyer, a teacher, and an accountant, none confirmable to this donor/address). Cannot corroborate a specific individual. FEC PAC and TX lobbyist searches run: no confirmable federal PAC donations or lobbyist registration tied to this person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c1cd453a-5026-4c61-a09b-6c49a61e74b5",
+  "name": "Ferdin, Joelvonni",
+  "resolved_employer": "Joel's Collision Center / Joel's Collision Repair LLC (San Antonio)",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Public records (ClustrMaps) confirm Joelvonni A Ferdin of San Antonio; Joel's Collision is a family-owned auto collision/body repair shop (Ferdin family, founded 1999) matching donor's 'Business Owner' title, and affluent 78257 home fits an owner. Industry mapped to Transportation (automotive services). FEC/lobbyist searches run: provided data shows one R-leaning FEC donation but specific committee not identifiable; no TX lobbyist registration; no ideological PAC affiliation recorded.",
+  "source_url": "https://joelscollision.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Joel's Collision Center", "role": "Owner (Ferdin family)", "category": "business", "source_url": "https://joelscollision.com/about-us/", "snippet": "Joel's Collision Center is family owned and operated by the Ferdin family, opened in 1999 by Joel Ferdin; an ASE & I-CAR certified collision center in San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "be61703a-35da-4938-9fff-6828f182672d",
+  "name": "Molak, Maurine",
+  "resolved_employer": "David's Legacy Foundation",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Well-documented public figure: co-founder of San Antonio's David's Legacy Foundation (anti-cyberbullying nonprofit founded after son David Molak's 2016 death); drove Texas 'David's Law' and federal KOSA advocacy. Occupation (not-for-profit exec) and SA/78209 location match. FEC/OpenSecrets donor searches surfaced no itemized federal PAC contributions; TX Ethics Commission lobbyist registry (2023-2026) shows no personal lobbyist registration.",
+  "source_url": "https://www.linkedin.com/in/maurine-molak-34009845/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "David's Legacy Foundation", "role": "Co-founder", "category": "civic", "source_url": "https://communityimpact.com/san-antonio/north-san-antonio/nonprofit/2023/08/09/san-antonios-davids-legacy-foundation-fights-cyberbullying-nationwide/", "snippet": "Maurine Molak is co-founder of San Antonio nonprofit David's Legacy Foundation, dedicated to ending cyberbullying and supporting legislation; the foundation has promoted the federal Kids Online Safety Act (KOSA) since 2022 and backed Texas's 'David's Law.'"}
+  ]
+ },
+ {
+  "donor_id": "bb737bdd-7da9-4742-8834-fba6ed58a2eb",
+  "name": "Franklin, Aubra",
+  "resolved_employer": "Franklin Companies / Franklin Development",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Confirmed via firm bio: Aubra Franklin, licensed architect, is founder/Chairman/CEO of Franklin Companies (est. 1995), a San Antonio integrated housing developer (development, construction, management, senior living); listed as President of Franklin Development. SA residence matches. Prolific federal donor (dataset fec_donation_count 80) but public FEC/OpenSecrets searches surfaced no citable ideological/industry PAC; TX Ethics Commission lobbyist registry (2023-2026) shows no registration for him. Founder of Share 3:16, a faith-based housing ministry (private charity, not policy advocacy — not recorded as an affiliation).",
+  "source_url": "https://www.franklincompanies.com/team/aubra-franklin/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bb38d226-3374-40ca-be1d-f74b213a738b",
+  "name": "Powell, Mike",
+  "resolved_employer": "Moat Management LLC",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Corroborated: Mike Powell is a San Antonio real-estate investor whose holding company is Moat Management LLC (San Antonio, TX; seller-financing/flipper, ~15 recorded SA-New Braunfels acquisitions); LinkedIn 'Mike Powell - Moat Management LLC.' Occupation ('Real Estate Buyer') and SA location match. No citable federal PAC contributions found; TX Ethics Commission lobbyist registry shows no match (the registered 'Michael Powell' lobbyist is the former FCC chairman, a different person).",
+  "source_url": "https://www.linkedin.com/in/mike-powell-4b48821a0",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ba656288-2dbe-46df-b1d3-6a0b914e0221",
+  "name": "Hummel, Hillary",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'homemaker' at 78209 San Antonio; no public profile, bio, board seat, or business could be located to confirm the specific individual. FEC/OpenSecrets donor searches surfaced no itemized federal PAC contributions; TX Ethics Commission lobbyist registry shows no match. Classified by stated occupation only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ba289b1d-075d-40fc-a0a8-939f223f5efe",
+  "name": "Dixon, Preston",
+  "resolved_employer": "Jon Wayne Service Company",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Confirmed: Preston Dixon is Director of Accounting / Accounting Manager at Jon Wayne (Jon Wayne Heating & Air Conditioning / Service Company), San Antonio's largest residential HVAC/plumbing/electrical contractor; listed base Schertz/Cibolo TX area, matching Cibolo 78108 address and 'Accountant' occupation. Employer is a mechanical/trades contractor → Construction. No citable federal PAC contributions found; TX Ethics Commission lobbyist registry shows no match.",
+  "source_url": "https://www.zoominfo.com/p/Preston-Dixon/-1981834593",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b8dd17c4-d5fa-408e-8ab9-c9392ddc13ea",
+  "name": "Sloan, Jeremy",
+  "resolved_employer": "Sloan PLLC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Unique-name match: Jeremy Robert Sloan is the personal-injury/commercial litigator and owner of Sloan PLLC in San Antonio (St. Mary's Law grad, 19+ yrs), matching the donor's occupation 'Attorney'/employer 'Sloan PLLC.' FEC PAC-contribution search and TX Ethics Commission lobbyist search were run: no ideological federal PAC gifts surfaced and he is not a registered TX lobbyist.",
+  "source_url": "https://sloanpllc.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b87a3ef5-a3c0-407d-bd84-c72d48ddb8cf",
+  "name": "Mucha, Ronald",
+  "resolved_employer": "Morningside Equities Group",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Ronald S. Mucha, Sr. VP/Principal at Morningside Equities Group (real-estate developer), Ann Arbor MI; his listed home address 3094 Newcastle Rd exactly matches the donor address, confirming identity. FEC PAC and TX lobbyist searches were run: no ideological federal PAC contributions found and no TX lobbyist registration; his only listed boards (U-Michigan Natural History Museum, JDRF) are private civic/charity, not policy-advocacy, so not recorded.",
+  "source_url": "https://morningsideusa.com/about-us/ronald-s-mucha/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b7d511c2-2716-4f70-af50-3f87d8f4478f",
+  "name": "Reagan, Lisa",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor lists occupation 'Homemaker' at 2006 Cee Gee St., San Antonio 78217; no public profile could be confirmed for this specific Lisa Reagan (multiple same-named people, none corroborated to this address). FEC PAC and TX lobbyist searches were run: no matching federal PAC contributions and no TX lobbyist registration found. No industry guessed beyond the stated homemaker status.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b733527e-965b-4ecd-a10f-170d4dce1adf",
+  "name": "Japhet, James",
+  "resolved_employer": "Japhet Builders / James H. Japhet Enterprises",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Donor address 3216 Napier Park, San Antonio 78231 is the office of Japhet Builders (Suite 204)/Japhet Real Estate, the longtime SA custom-home-builder family firm; James H. Japhet is president of Japhet Properties/James H. Japhet Enterprises (homebuilder since ~1974), confirming identity/industry. FEC PAC search: no ideological federal PAC gifts found. Lobbyist search: not a TX state-registered lobbyist, but a 'James Japhet' appears once in the City of San Antonio municipal lobbyist registry on a 2023 zoning-variance matter (identity to the builder is plausible but not certain).",
+  "source_url": "https://www.japhetbuilders.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio Lobbyist Registry", "role": "Registrant on zoning-variance matter (BOA-23-10300239, 9501 New Laredo Hwy)", "category": "business", "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx?ClientLink=James+Japhet&SDate=2%2F22%2F2020&EDate=2%2F22%2F2024", "snippet": "City of San Antonio lobbyist-system entry for registrant 'James Japhet' re a request for a 15' variance from the required buffer, property at 9501 New Laredo Hwy (matter BOA-23-10300239); agents Caroline McDonald and Kenneth Brown of Brown & McDonald PLLC."}
+  ]
+ },
+ {
+  "donor_id": "b7066221-eb5b-4335-97fc-7c97cb3c7322",
+  "name": "Joeris, Maria",
+  "resolved_employer": "Joeris General Contractors (family; wife of CEO Gary L. Joeris)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Donor's PO Box 790086, San Antonio 78279 is the corporate PO box of Joeris General Contractors, and public records identify Maria Antonietta Joeris as the wife of Gary L. Joeris, CEO of Joeris General Contractors, corroborating this specific person within the GC family (she lists 'Self Employed'). FEC PAC and TX lobbyist searches were run: no ideological federal PAC contributions and no TX lobbyist registration found for her; her spouse's UIW trustee role is his, not hers, so not recorded.",
+  "source_url": "https://www.instantcheckmate.com/people/gary-joeris/texas/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

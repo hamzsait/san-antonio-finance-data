@@ -1,0 +1,236 @@
+[
+ {
+  "donor_id": "ec43a869-8466-45dc-b715-d96c6c2bb001",
+  "name": "Glander, Troy",
+  "resolved_employer": "A Nava & Glander Law Firm",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Troy Andrew Glander is a San Antonio trial attorney, licensed 1996 (St. Mary's University School of Law); co-founded A Nava & Glander Law Firm in 2012 (general/business/construction/personal-injury litigation) - matches donor occupation and firm. Bio confirms he is a Director of Third Coast Bank, SSB, chairing its Compensation and Audit committees. FEC/OpenSecrets showed no ideological PAC activity (lean 0.0) and no TX Ethics Commission lobbyist registration.",
+  "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/troy-a-glander/522a8067-a25e-43ea-9ad9-1b6cf737b109.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Third Coast Bank, SSB", "role": "Director; Chairman of Compensation Committee; Chairman of Audit Committee", "category": "business", "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/troy-a-glander/522a8067-a25e-43ea-9ad9-1b6cf737b109.html", "snippet": "Director, Chairman of Compensation Committee, Third Coast Bank; Director, Chairman of Audit Committee - Third Coast Bank, 2014"}
+  ]
+ },
+ {
+  "donor_id": "ea3a63cb-c296-4b3d-bc46-c6581dc1f09e",
+  "name": "Lozano, Regan",
+  "resolved_employer": null,
+  "industry": "Student",
+  "confidence": "low",
+  "evidence": "Listed occupation is student, Spring Branch, TX 78070, no employer. FEC/OpenSecrets returned no contribution records (fec_donation_count 0); TX Ethics Commission lobbyist search returned nothing; no LinkedIn/bio or other public professional profile could be located to confirm this specific individual. Quiet result - no affiliation forced.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e9b38116-2761-4ef0-8b60-7a3b49a7b47d",
+  "name": "De La Rosa, Ashley",
+  "resolved_employer": "DLR Services",
+  "industry": "Engineering",
+  "confidence": "low",
+  "evidence": "Listed occupation Engineer, employer 'DLR Services,' San Antonio 78255. The only matching San Antonio entity located is DLR Services (dlrservicessa.com), a San Antonio traffic-control company, consistent with a traffic/engineering role - but no public bio directly ties donor Ashley De La Rosa to that firm (other 'Ashley De La Rosa' profiles found are unrelated). FEC/OpenSecrets surfaced no ideological PAC activity despite fec_donation_count 3 / lean 0.63; no TX lobbyist registration. Specific-person identity unconfirmed, hence low confidence.",
+  "source_url": "https://dlrservicessa.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e889a040-023b-40bb-aceb-a7075b875aee",
+  "name": "River Path, Development",
+  "resolved_employer": "River Path Realty LLC",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Entity donor. Address 1602 N PanAm Expy, San Antonio, TX 78208 matches River Path Realty LLC, a Texas real estate brokerage/land firm ('works with clients ... to meet all of their land real estate needs: from undeveloped to partly developed and construction-ready sites'). This is a business entity, not an individual; no personal FEC/lobbyist record applicable. Classified Real Estate on address + business-registry match.",
+  "source_url": "https://www.bizapedia.com/tx/river-path-realty-llc.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e8291c1c-6ff1-4be7-9630-76998fe3cb5d",
+  "name": "Stehr, Cory",
+  "resolved_employer": "Prosper Urban",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Cory Stehr is owner/principal of Prosper Urban, a commercial real estate firm; LoopNet broker profiles confirm the affiliation. San Antonio Heron reporting documents his downtown/near-west development activity (Leeds building at 345 W. Commerce St.; warehouse at 414 Vera Cruz), consistent with 'Real Estate Developer' occupation and the 78207 address. FEC/OpenSecrets found no federal contribution or ideological PAC records (fec_donation_count 0); no TX lobbyist registration.",
+  "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/cory-stehr/621q83sb",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e6d04ae2-9dcf-491c-bd8c-56d529b8c779",
+  "name": "Wells, J",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor listed only as 'Wells, J' (first initial only) at 200 Concord Plaza Dr, San Antonio TX 78216 - a multi-tenant office building (Chicago Title, Predico Partners, various attorneys). No occupation/employer provided. The prominent San Antonio attorney J. Tullos Wells is at a different downtown address (One Alamo Center), so he cannot be matched. With only a single initial and a shared office-building address, the specific individual cannot be corroborated. FEC lean 1.0 (Republican) across 14 donations is noted but insufficient to identify the person.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e6a98654-c46e-4081-a3d4-05152aff440b",
+  "name": "Muller, C. John",
+  "resolved_employer": "CJ Muller & Associates, PLLC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "C. John Muller IV is a San Antonio commercial-litigation and tax-controversy attorney and founder/principal of CJ Muller & Associates, PLLC, 111 W. Sunset Rd, San Antonio TX 78209 - matching the donor's employer and address exactly. Confirmed via Super Lawyers, State Bar of Texas, and the firm site (cjma.law); St. Mary's Law 2009 salutatorian, Super Lawyers Rising Star. No TX Ethics Commission lobbyist registration; minimal FEC record (1 donation, neutral lean); no ideological PAC ties found.",
+  "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/c-john-muller/f7bdd1d0-a983-4b62-bad8-bccfbe8834b1.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "CJ Muller & Associates, PLLC", "role": "Founder / Principal Attorney", "category": "business", "source_url": "https://cjma.law/team-members/c-john-muller-iv/", "snippet": "C. John Muller IV - CJMA; San Antonio business/commercial litigation and tax controversy attorney and firm principal."}
+  ]
+ },
+ {
+  "donor_id": "e61901b3-e3e9-4495-a838-e9557680dc39",
+  "name": "IBC State, PAC",
+  "resolved_employer": "International Bank of Commerce (IBC Bank) / International Bancshares Corporation",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Organization/PAC, not an individual. The 'IBC State Political Action Committee' is the Texas state-level PAC affiliated with International Bank of Commerce (IBC Bank), owned by International Bancshares Corporation (Laredo, TX). The listed address 5615 Kirby Dr, Houston 77005 is an IBC bank plaza. Tracked as a Texas state contributor on Transparency USA. A corporate/bank giving vehicle (business/finance), not ideological.",
+  "source_url": "https://www.transparencyusa.org/tx/contributor/ibc-state-political-action-committee",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "International Bank of Commerce (IBC Bank) / International Bancshares Corporation", "role": "Corporate bank state political action committee", "category": "business", "source_url": "https://en.wikipedia.org/wiki/International_Bank_of_Commerce", "snippet": "International Bank of Commerce (IBC) is a state chartered bank owned by International Bancshares Corporation headquartered in Laredo, Texas; one of the largest banks based in Texas."}
+  ]
+ },
+ {
+  "donor_id": "e5a51d03-7d33-484a-9719-066a50dc4d1a",
+  "name": "Buescher, Emily",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Emily Buescher of Corpus Christi TX (78412 / Cape Ann Dr area), listed occupation 'Homemaker,' matching the donor record and corroborated by public-records aggregators. FEC shows a homemaker donor with a Republican-leaning candidate giving pattern (e.g., a contribution to Lindsey Graham's committee), consistent with lean 0.0 over 22 donations. No TX Ethics Commission lobbyist registration and no documented board seats, org leadership, or ideological PAC affiliations beyond ordinary Republican candidate contributions.",
+  "source_url": "https://www.instantcheckmate.com/people/emily-buescher/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e3796a55-e524-4363-89d7-7428e2dd41cd",
+  "name": "Bracewell, PAC",
+  "resolved_employer": "Bracewell LLP (BRACEPAC)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Organization/PAC, not an individual. 'Bracewell, PAC' is BRACEPAC, the PAC of Bracewell LLP, a Houston-founded global energy/finance law firm headquartered at 711 Louisiana St, Houston TX 77002 - matching the donor address exactly. FEC committee C00021295 (formerly Bracewell & Giuliani PAC), Lawyers/Law Firms industry per OpenSecrets. A law-firm giving vehicle whose partisan mix shifts by cycle (bipartisan), not single-issue ideological.",
+  "source_url": "https://www.opensecrets.org/political-action-committees-pacs/bracewell-llp/C00021295/summary/2020",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Bracewell LLP", "role": "Law firm political action committee (BRACEPAC)", "category": "business", "source_url": "https://www.opensecrets.org/political-action-committees-pacs/bracewell-llp/C00021295/candidate-recipients/2022", "snippet": "Bracewell LLP PAC (C00021295), Lawyers/Law Firms industry; gave 62.70% to Democrats and 37.30% to Republicans in the 2022 cycle, 81.78% Republican in 2012."}
+  ]
+ },
+ {
+  "donor_id": "e36fbe82-c2b6-487a-8383-a33776927ec5",
+  "name": "Dickens, Michelle",
+  "resolved_employer": "D&D Contractors, Inc.",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Public professional profiles identify Michelle Dickens as Business Office Manager at D&D Contractors, Inc., a heavy-civil construction firm operating in the Helotes/San Antonio area (matches donor occupation and employer); BS in Accounting from UTSA. No FEC PAC contributions, no Texas lobbyist registration, and no ideological/board affiliations found; a quiet result.",
+  "source_url": "https://www.linkedin.com/in/michelle-dickens-bbb6ba10",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e290a979-3851-44bf-815f-7781ce2100a2",
+  "name": "Nikkels, Jason",
+  "resolved_employer": "DNT Construction",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Public business profiles (ZoomInfo, RocketReach, Datanyze) identify Jason Nikkels as an owner/executive (VP-Partner/Owner) of DNT Construction, a San Antonio-area site-work and civil construction company, matching donor occupation and employer. No FEC PAC contributions, no Texas lobbyist registration, and no ideological/board affiliations found; a quiet result.",
+  "source_url": "https://rocketreach.co/jason-nikkels-email_20154429",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e27a8517-af35-40f4-a3e3-5fdd57cd2a92",
+  "name": "Cavender, Suzanne",
+  "resolved_employer": "Self-employed interior designer",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "A San Antonio Woman Magazine profile identifies Suzanne Cavender as an interior designer in the Alamo Heights/Lincoln Heights area (78209, matching donor address), wife of Rick Cavender of the Cavender Auto Family. Donor record lists no occupation/employer; publicly documented as an interior designer. No FEC PAC contributions, no Texas lobbyist registration, and no ideological/board affiliations found. Family/business ties not treated as affiliations per instructions.",
+  "source_url": "https://sawoman.com/2014/09/lofty-contemporary-in-alamo-heights/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e1c6a1f7-dc5e-4d0b-bfe2-07b92761d722",
+  "name": "Krier, Cyndi Taylor",
+  "resolved_employer": "Krier Consulting Group (independent consultant/mediator)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Well-documented public figure: former Texas State Senator (District 26, 1985-1993), first woman and first Republican elected Bexar County Judge (1993-2001), and University of Texas System Regent/Vice-Chairman (2001-2007, appointed by Gov. Rick Perry). Also served as VP of Texas Government Relations at USAA. Now an independent consultant/mediator (Krier Consulting Group). Has historically appeared in TEC lobbyist listings (e.g., 2003). Roles are governmental/civic/professional; no ideological PAC affiliations recorded.",
+  "source_url": "https://www.utsystem.edu/board-of-regents/former-regents/honorable-cyndi-taylor-krier",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "University of Texas System Board of Regents", "role": "Regent / Vice-Chairman (2001-2007)", "category": "government", "source_url": "https://www.utsystem.edu/board-of-regents/former-regents/honorable-cyndi-taylor-krier", "snippet": "Cyndi Taylor Krier served as Vice-Chairman of the UT System Board of Regents, March 2001 - November 2007, appointed by Governor Rick Perry."},
+   {"org": "Bexar County (County Judge) / Texas Senate", "role": "Bexar County Judge (1993-2001); Texas State Senator, District 26 (1985-1993)", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Cyndi_Taylor_Krier", "snippet": "Krier was a Republican member of the Texas Senate and later the first woman and first Republican elected Bexar County Judge."},
+   {"org": "USAA", "role": "Vice President of Texas Government Relations", "category": "business", "source_url": "https://www.utsystem.edu/board-of-regents/former-regents/honorable-cyndi-taylor-krier", "snippet": "Professional roles include Vice President of Texas Government Relations at USAA."}
+  ]
+ },
+ {
+  "donor_id": "e1a4fdd1-0231-4198-bd1f-7a63ac22e71e",
+  "name": "Briones, Arnold",
+  "resolved_employer": "Yantis Company",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Yantis Company's bio page and LinkedIn identify Arnold Briones, P.E. as Chief Operating Officer of Yantis (a San Antonio civil/heavy construction contractor); registered professional engineer, UTSA civil engineering degree, previously at Pape-Dawson Engineers and Pulte Homes. Public records tie him to ZIP 78261, matching the donor address. No FEC PAC contributions, no Texas lobbyist registration, and no ideological/board affiliations found; a quiet result.",
+  "source_url": "https://www.yantiscompany.com/arnold-briones-p-e/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e0d65520-0818-47c9-bf75-451d0546728c",
+  "name": "Brymer, Scott",
+  "resolved_employer": "Self-employed (real estate development/investment)",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Donor listed as self-employed in real estate development/investment at 1843 Village Crossing Dr, Charleston (Daniel Island), SC 29492. Web searches surfaced general Daniel Island real estate activity but no public bio, board seat, or FEC PAC record could be conclusively matched to this specific individual. No Texas lobbyist registration. Identity beyond the generic self-reported occupation could not be independently confirmed.",
+  "source_url": "https://www.homes.com/charleston-sc/29492/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e06bb6e8-93ba-4ef0-8b2b-73c6df2f1e7f",
+  "name": "March, Investments",
+  "resolved_employer": "March Investments (Wichita, KS investment entity)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Business entity, not an individual. Registered to PO Box 782257, Wichita, KS 67278 - an address shared in Kansas records with March Oil Company, Webb Road Development Inc, and Beech Lake Investment LLC, indicating a Wichita family holding/investment cluster. Classified as an investment entity (Finance). No documented ideological PAC activity, no Texas lobbyist registration, and no confirmed leadership bio for the entity; the affiliated March Oil Company is a separate documented entity, so no oil/gas affiliation is attributed to this donor without direct documentation.",
+  "source_url": "https://www.kansas.gov/ethics/CFAScanned/House/2024ElecCycle/202410/H100DH_202410.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dfa2c48f-c2c7-494a-9950-28521b3003ab",
+  "name": "Kuyrkendall, Donald",
+  "resolved_employer": "Kuyrkendall & Company, Inc.",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Donald J. Kuyrkendall is founder and President of Kuyrkendall & Company, Inc., a full-service commercial/retail/investment/residential real estate firm serving San Antonio and Central Texas. Firm bio matches donor's San Antonio location and stated real estate occupation. No ideological PAC contributions surfaced (FEC lean 0.0); no TEC lobbyist registration found. Memberships are professional realtor associations only.",
+  "source_url": "https://www.kuyrkendall.com/about-us/don-kuyrkendall/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Board of Realtors (SABOR)", "role": "Active member", "category": "business", "source_url": "https://www.kuyrkendall.com/about-us/don-kuyrkendall/", "snippet": "Active member of the San Antonio Board of Realtors (SABOR), Texas Association of Realtors, and National Association of Realtors."}
+  ]
+ },
+ {
+  "donor_id": "dd869de4-fdb9-4fbf-acaf-78fae7df5986",
+  "name": "Vaughn, Billy",
+  "resolved_employer": "Kahlig Auto Group",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Senior executive of Kahlig Auto Group, a San Antonio-based automotive retailer of ~10 South Texas dealerships (LinkedIn and company team page list him as Vice President; donor record lists 'President' - title discrepancy noted, but the Kahlig affiliation is solid). Auto dealer group classified as Retail. No specific ideological PAC contributions surfaced (FEC lean 0.12); no Texas lobbyist registration. No documented advocacy/board affiliations beyond his corporate role.",
+  "source_url": "https://www.linkedin.com/in/billy-vaughn-2b264a37/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dd7acea7-5478-4b5b-afcf-ce41ebb5bc83",
+  "name": "Fallon, Michael",
+  "resolved_employer": "Solomon Hess Capital Management",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Michael Fallon is a partner and Chief Investment Officer at Solomon Hess Capital Management (Arlington, VA), an SBA-loan-focused/CRA investment management firm, joined 2012; prior institutional fixed-income role at Bank of America Merrill Lynch; bio notes four years as a U.S. Marine Corps officer (personal service history, not a defense-contractor affiliation). Investment management firm classified as Finance. No ideological PAC contributions surfaced (FEC lean 0.05); Texas lobbyist registry not applicable/no registration; no board seats or civic/political memberships documented.",
+  "source_url": "https://www.solomonhess.com/team-member/michael-fallon/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

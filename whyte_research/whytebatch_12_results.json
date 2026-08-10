@@ -1,0 +1,230 @@
+[
+ {
+  "donor_id": "a1175397-8b2f-4105-b474-144e98b14814",
+  "name": "Salinas, Micah",
+  "resolved_employer": "Retired (former career not identifiable from public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported retired, 12512 Will Cloudsley, Schertz, TX 78154. No public profile (LinkedIn, obituary, news, bio) corroborates a specific Micah Salinas at this Schertz address or a former occupation; common surname. FEC/OpenSecrets: no federal contributions or PAC ties surfaced (fec_donation_count 0). TX Ethics Commission lobbyist search: no registration. No bio page exists to read. Identity cannot be confirmed beyond the filing, so confidence low and industry null.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a1139481-5474-45e3-903d-10d08bccbb03",
+  "name": "Krumsick, Herbert",
+  "resolved_employer": "J.P. Weigand & Sons, Inc. (Senior Vice President, commercial real estate brokerage/investment)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Herbert 'Herb' Krumsick is Senior VP at J.P. Weigand & Sons, Inc., a Wichita, KS commercial real estate brokerage (founded 1902); ~40 years in commercial real estate, Wichita State University degree. Matches donor title/employer and 400 N Woodlawn, Wichita, KS 67208 (zip 67208 = Wichita, Kansas; the batch mislabels it TX). FEC/OpenSecrets: no federal PAC/advocacy contributions surfaced (fec_donation_count 0). TX lobbyist search: no registration (out-of-state; not in TEC lists). LinkedIn/ZoomInfo bios are professional only; no policy-advocacy roles found.",
+  "source_url": "https://www.linkedin.com/in/herb-krumsick-60a8b418/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a0389e57-72c4-4efe-b130-26439b2c3879",
+  "name": "Irelan, Brad",
+  "resolved_employer": "Irelan McDaniel, PLLC / Irelan | Stephens, PLLC (Shareholder, co-founder; civil trial & real estate/title litigation attorney), Houston",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Bradford W. Irelan is co-founder/shareholder of the Houston litigation firm Irelan McDaniel, PLLC (now Irelan | Stephens), board-certified in Civil Trial Law and Residential Real Estate Law; JD George Washington 1986; author of 'Texas Title Insurance.' Firm address 2520 Caroline St, Houston 77004 matches donor exactly. FEC: fec_donation_count 11, lean ~0.05 (mixed/neutral); web/OpenSecrets surfaced no advocacy-PAC (AIPAC/J Street/oil&gas/NRA/etc.) ties. TX lobbyist search: no TEC registration. Full firm bio read: purely professional/bar memberships (Houston Bar Assn, Houston Bar Foundation Life Fellow, TX/American Land Title Assn, Litigation Counsel of America) — no political/advocacy affiliations.",
+  "source_url": "https://irelanlaw.com/bradford-w-irelan/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9f94dd8e-a9b2-40eb-a3ad-b4eacc1ff60a",
+  "name": "Songadwala, Vahbeez",
+  "resolved_employer": "Homemaker (self-identified)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "LinkedIn profile for Vahbeez Songadwala lists occupation 'Homemaker,' consistent with the filing; San Antonio area, matching 5750 Epsilon, San Antonio 78249. Uncommon surname locally tied to Erach Songadwala (President/CEO of Y&L Consulting, a San Antonio IT firm), likely a family/household connection, but no independent record confirms a career for Vahbeez. FEC: no federal contributions/PAC ties (fec_donation_count 0). TX lobbyist search: no TEC registration. LinkedIn bio has no board seats or advocacy affiliations.",
+  "source_url": "https://www.linkedin.com/in/vahbeez-songadwala-3a1a73231/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9e3e798a-599e-460d-b51f-dbc190ba3f3f",
+  "name": "Aboloff, Jeff",
+  "resolved_employer": "UBS Financial Services Inc. (Financial Advisor), Houston",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Jeffrey M. Aboloff is a Financial Advisor at UBS Financial Services Inc., Houston (office 750 Town and Country Blvd, Ste 400), ~36 years in practice, FINRA-registered (S7, S63, S65). Matches donor title/employer and 906 Sprucewood Ln, Houston 77024 (same Memorial-area zip). FEC/OpenSecrets: no federal PAC/advocacy contributions surfaced (fec_donation_count 0). TX lobbyist search: no TEC registration. Only public profiles are advisor-directory listings (no bio page with board seats or advocacy roles).",
+  "source_url": "https://money.usnews.com/financial-advisors/advisor/jeffrey-aboloff-1941926",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9d0a4712-e668-4116-a27f-b0922ca4d471",
+  "name": "Benavides, Sonia",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired, 35 Waters Edge Way, San Antonio 78249 (NW San Antonio). 'Sonia Benavides' is a common name; could not corroborate this specific individual against any occupation/bio. FEC PAC search: no matchable federal PAC record for this person (dataset flags 3 donations, lean 0.6). TX lobbyist search: not registered. Bio full-read: no identifiable public profile (name collides with an unrelated obituary and healthcare-directory hits). Quiet result.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9ca0140e-eb6f-44bf-8f9c-44ad7590a7b7",
+  "name": "Reagan, Neill",
+  "resolved_employer": "Founder/CEO, O'Neills Inflight Catering & Signature Catering, San Antonio",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Corroborated as Neill Reagan, founder/CEO of O'Neills Inflight Catering (Southbank, downtown SA) and Signature Catering; moved to SA in 1996 to open O'Neill's Irish House; also a nationally recognized Irish-dance teacher (TCRG/ADCRG). Employer 'Oniells Catering' and 78217 address match. FEC PAC search: 17 donations, lean ~0.0 (neutral); no notable ideological PAC surfaced. TX lobbyist search: not registered. Bio full-read (company site / Irish Echo profile): hospitality career, no policy-advocacy board roles.",
+  "source_url": "https://oneillsinflightcatering.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9bd1396b-2f4e-4827-9318-508f6a40d1d7",
+  "name": "Yantis, Susan",
+  "resolved_employer": "Owner, Embroidery Concepts (custom embroidery/apparel), San Antonio",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "LinkedIn confirms Susan Yantis as 'Company Owner at Embroidery Concepts'; business operates in San Antonio (Yelp/Facebook listings), matching employer and 6812 West Ave, 78213. FEC PAC search: only 1 donation (lean 0.0); no notable federal PAC record surfaced. TX lobbyist search: not registered. Bio full-read: no policy-advocacy board or leadership roles found.",
+  "source_url": "https://www.linkedin.com/in/susan-yantis-64b553272/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9aa2b197-704e-40f1-8cfc-b2fdb71d1e04",
+  "name": "Crowell, Mathew",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor record has no occupation/employer; address 7515 Shadylane Dr, 78209 (Terrell Hills/Alamo Heights). Multiple 'Matthew Crowell' candidates in San Antonio — most prominent is Matthew Lane Crowell, a board-certified oil & gas attorney at Elder Bray & Bankler PC (office 78212), but his residence could not be tied to 78209; others include a USAA help-desk specialist. Cannot confirm the specific person. FEC PAC search: fec_donation_count 0, no match. TX lobbyist search: not registered. Bio full-read: no confirmable profile. No affiliation asserted given unconfirmed identity.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9a9b99ef-8a69-4b75-a15e-a2d1263a02cb",
+  "name": "Miller, Marshall",
+  "resolved_employer": "Marshall B. Miller, Jr. — Partner (Corporate & Securities), Jackson Walker LLP, San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Confirmed as Marshall B. Miller, Jr., corporate/securities partner at Jackson Walker LLP (family offices, M&A, oil & gas taxation, aviation). FEC PAC search: gave $30,000 to Trump Victory in 2016 (three gifts; employer listed 'JACKSON WALKER, LLP/ATTORNEY', prior zip 78232, now Stone Oak 78258). TX lobbyist search: not registered. Bio full-read (jw.com): Trustee of Trinity University (Chair, Investments Committee) and Washington & Lee University Board of Trustees; member United Way, State Bar Business Law Section.",
+  "source_url": "https://www.jw.com/people/marshall-miller-jr/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Trump Victory (joint fundraising committee, Republican)", "role": "Donor ($30,000, 2016)", "category": "political", "source_url": "https://www.city-data.com/elec2/16/elec-SAN-ANTONIO-TX-16-part53.html", "snippet": "Marshall B. Miller Jr, 'JACKSON WALKER, LLP/ATTORNEY,' gave $10,000 (08/23/2016), $15,000 (09/19/2016) and $5,000 (09/30/2016) to Trump Victory."},
+   {"org": "Trinity University Board of Trustees", "role": "Trustee; Chair, Investments Committee; Executive Committee", "category": "civic", "source_url": "https://www.jw.com/people/marshall-miller-jr/", "snippet": "Board of Trustees, Chair of Investments Committee, Executive Committee at Trinity University."}
+  ]
+ },
+ {
+  "donor_id": "9a460b7f-d33d-4ffa-bd0d-1d5f638fefd8",
+  "name": "Linebarger Coggan Blair, & Sampson, LLP",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson LLP — major Texas government-debt-collection law firm (delinquent taxes, tolls, citations); HQ Austin, TX",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Entity donor. Nationally reported government-debt-collection law firm (CNNMoney profile). As an entity, no personal FEC/lobbyist record applies, but firm-level Texas lobbying IS documented: Linebarger is a longstanding registered lobbying client in Texas and has spent heavily lobbying for collection-friendly laws/contracts. FEC PAC search: n/a for entity; TX lobbyist search: firm appears as a registered lobby client (Transparency USA); bio read: firm overview confirms debt-collection practice.",
+  "source_url": "https://money.cnn.com/interactive/pf/debt-collector/linebarger-history/index.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Linebarger Goggan Blair & Sampson LLP (firm)", "role": "Registered Texas lobbying client / political-donor law firm", "category": "political", "source_url": "https://www.transparencyusa.org/tx/lobbying/client/linebarger-goggan-blair-and-sampson-llp-1", "snippet": "Listed as a Texas lobbying client; CNNMoney: firm 'had spent hundreds of thousands of dollars lobbying for laws' and uses lobbying/campaign donations to win government collection contracts."}
+  ]
+ },
+ {
+  "donor_id": "992438e5-ad82-4e63-982d-c88c3a980434",
+  "name": "Vaughn, Susie",
+  "resolved_employer": "Senior Executive Assistant, UHS (Universal Health Services), San Antonio, TX",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "LinkedIn corroborates a Susan ('Susie') Vaughn as Senior Executive Assistant at UHS in San Antonio, supporting an executive/medical office — matches occupation 'Executive assistant' and employer 'UHS' at 78258. FEC PAC search: no specific federal PAC affiliation identified (dataset notes 12 local donations, all-Republican lean, but no policy-advocacy org corroborated). TX lobbyist search: no registration found. Bio read: LinkedIn only, no board/advocacy roles.",
+  "source_url": "https://www.linkedin.com/in/susan-vaughn-b1aba049/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "988bfc11-677a-4572-8f9a-790732b28255",
+  "name": "Fallon, Kristen",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Occupation listed as 'Homemaker' at 3100 N Rochester St, Arlington, VA 22213. Could not corroborate this specific individual in any public profile; multiple Fallons exist in VA with no confirmable match. FEC PAC search: no federal PAC contributions found (fec_donation_count 0). TX lobbyist search: none (not a Texas resident/lobbyist). Bio read: no public bio located. Identity unconfirmed beyond the campaign filing.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "98529b61-9344-48a1-849b-d7b6d288f626",
+  "name": "Guzman, Louis",
+  "resolved_employer": "Night Crawler Recovery Inc. — San Antonio auto-repossession / asset-recovery (collateral recovery for lenders)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Employer 'NightCrawler Recovery' matches Night Crawler Recovery Inc., a San Antonio repossession/asset-recovery company (Bizapedia listing); consistent with occupation 'Asset Recovery' and 78233 address. Classified Finance as collateral-recovery is a lender-services/collections function (no dedicated repossession taxonomy label). FEC PAC search: no corroborated federal PAC giving for this individual (the 'Guzman for Congress' hits are a different, unrelated congressional candidate). TX lobbyist search: no registration. Bio read: no personal bio beyond people-search/company listings.",
+  "source_url": "https://www.bizapedia.com/tx/night-crawler-recovery-inc.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9809addc-ed69-41d7-a12d-7bd0976a634d",
+  "name": "Ostrander, John",
+  "resolved_employer": "Managing Principal / co-founder, Bexar Capital, LLC — retail-focused commercial real estate investment & brokerage firm, San Antonio, TX",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "LinkedIn, RocketReach, and firm materials corroborate John Ostrander as Managing Principal (co-founder with Trey Cooper) of Bexar Capital LLC, a San Antonio retail-focused commercial real estate investment firm; prior roles at GrayStreet Partners, Birnbaum Property Co., and Stribling-Probandt Appraisals — matches 'Partner' at Bexar Capital, 7979 Broadway 78209. FEC PAC search: no specific federal PAC affiliation found (dataset shows 9 local donations, mixed/neutral lean). TX lobbyist search: no registration. Bio read: LinkedIn/company profile show real-estate career, no advocacy/board policy roles.",
+  "source_url": "https://www.linkedin.com/in/john-ostrander-1a1baa29/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9785acf4-fef1-4626-99aa-406173f705b8",
+  "name": "Martens, Charles",
+  "resolved_employer": "Self-employed commercial real estate broker (San Antonio; LoopNet profile lists Real Estate Brokerage & Development)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "A Charles Martens has a San Antonio commercial-real-estate broker profile on LoopNet, matching self-reported occupation 'Real estate'/'Self employed' and the commercial address 2330 N Loop 1604 West (78248 NW SA corridor). FEC/OpenSecrets name searches RUN, but his itemized federal record (flagged 87 donations, ~0.95 Republican lean) could not be retrieved this session (FEC API rate-limited); no ideological PAC (energy/gun/pro-Israel/defense) surfaced in public web search. TX lobbyist search RUN: no registration. Bio read: LoopNet broker profile is the only public bio; no board/advocacy roles. Per protocol, no ideological affiliation asserted without a corroborating record; the 87-donation FEC record warrants a follow-up itemized pull when the API is available.",
+  "source_url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/charles-martens/3wvmyvfb",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9669915a-be67-4ef3-a84e-99cb7fd3e536",
+  "name": "Rutherford, Melissa",
+  "resolved_employer": "Homemaker (self-reported); not employed",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Could not corroborate the specific individual: 'Melissa Rutherford' is a common name and no public profile ties a Melissa Rutherford to 1115 West 7th St, Austin 78703 (affluent Tarrytown/Clarksville area). Occupation self-reported 'Homemaker.' FEC/OpenSecrets search RUN (flagged 8 donations, ~0.03 lean) — no itemized record confirmable to this person; TX Ethics lobbyist search RUN — none; bio search RUN — no public bio, board, or advocacy role. No affiliation asserted.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "95bc41fa-0eeb-4915-87cf-9995ed18401e",
+  "name": "Davila, Mary",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Unidentifiable: no occupation/employer reported and 'Mary Davila' returns hundreds of matches in San Antonio (plus an unrelated 2024 obituary). 215 N Center St, 78202 is a residential address on the near-East Side but nothing ties a specific Mary Davila to it publicly. FEC search RUN (count 0, consistent with no federal record); TX Ethics lobbyist search RUN — none; bio search RUN — no public profile. No affiliation asserted.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9572c155-d0f2-4ae6-a2b0-9f75b6349cd8",
+  "name": "Pablos, R.B.",
+  "resolved_employer": "Advisor / Managing Partner, Cross-National Advisory Partners (international trade & investment consulting); attorney; founder of R.B. Pablos PC",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Confirmed as Rolando B. Pablos: State Bar of Texas lists 'Rolando B. Pablos'; employer 'Cross National' = his firm Cross-National Advisory Partners, matching self-reported occupation 'Advisor'; 78260 (far-N San Antonio, in D10) consistent. Former Texas Secretary of State (2017-2018, appointed by Gov. Abbott), ex-PUC commissioner, ex-Texas Racing Commission chair, ex-chair San Antonio Hispanic Chamber, and 2025 San Antonio mayoral candidate (conservative). FEC search RUN (flagged 6 donations); TX Ethics lobbyist search RUN — results returned only his own SA campaign-finance filings, no clear active lobby registration surfaced; bio read (State Bar, Ballotpedia, TPR, GlobeNewswire). Practice areas include Oil/Gas/Energy and Public Utility law; sits on USA Rare Earth advisory board.",
+  "source_url": "https://ballotpedia.org/Rolando_Pablos",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Secretary of State (2017-2018) / 2025 San Antonio mayoral campaign", "role": "Former Secretary of State (appointed by Gov. Greg Abbott); Republican-aligned mayoral candidate", "category": "political", "source_url": "https://www.tpr.org/government-politics/2024-08-27/rolando-pablos-former-texas-secretary-of-state-joins-san-antonios-2025-mayoral-race", "snippet": "Rolando Pablos, former Texas secretary of state, joins San Antonio's 2025 mayoral race; served as Abbott-appointed Secretary of State and chief elections officer."},
+   {"org": "USA Rare Earth", "role": "Advisory Board member", "category": "business", "source_url": "https://www.globenewswire.com/news-release/2020/05/28/2040028/0/en/USA-Rare-Earth-Appoints-Former-Texas-Secretary-of-State-Rolando-Pablos-to-Its-Advisory-Board.html", "snippet": "USA Rare Earth appoints former Texas Secretary of State Rolando Pablos to its advisory board (rare-earth minerals/energy supply-chain company)."}
+  ]
+ },
+ {
+  "donor_id": "951dc811-e3fd-46eb-b324-475870663b63",
+  "name": "DeLaHoussaye, Kathleen",
+  "resolved_employer": "Owner, Kathleen DeLaHoussaye Designs (San Antonio; 4311 San Pedro Ave, 78212 — Olmos/midtown corridor)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reported owner of eponymous business 'Kathleen DeLaHoussaye Designs' (likely design/interiors), but the business type could not be confirmed — no website (domain did not resolve), directory listing, or bio surfaced online, and searches returned only other, unrelated San Antonio designers. FEC search RUN (count 0); TX Ethics lobbyist search RUN — none; bio search RUN — no public profile, board, or advocacy role. No affiliation asserted.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

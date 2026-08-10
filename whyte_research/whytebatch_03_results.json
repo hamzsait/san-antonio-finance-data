@@ -1,0 +1,236 @@
+[
+  {
+    "donor_id": "dfe17cc3-3f3b-42ad-938c-b4a5ceb92207",
+    "name": "Little, Michael",
+    "resolved_employer": "UT Health San Antonio, Dept. of Anesthesiology (Vice Chair, Quality & Patient Safety); board-certified cardiac anesthesiologist",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Michael B. Little, MD is a board-certified anesthesiologist affiliated with UT Health San Antonio / University Health (Long School of Medicine grad 2003); matches occupation and employer strings on file.",
+    "source_url": "https://providers.uthscsa.edu/providers/michael-b-little-1043412414/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "df165d79-758d-420c-95a2-1a694d822504",
+    "name": "Hollerbach, Jim",
+    "resolved_employer": "Founder, President & CEO of Hollerbach & Associates, Inc. (Texas title research/abstracting & settlement services firm)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Jim Hollerbach founded Hollerbach & Associates in 1985 at 6700 N New Braunfels Ave (matches address on file); firm provides land title research, abstracting and settlement services statewide.",
+    "source_url": "https://www.hollerbach.com/since-1985",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Executives Association", "role": "Former President", "category": "business", "source_url": "https://www.corporationwiki.com/p/2yya1o/jim-hollerbach", "snippet": "Listed as previous President for San Antonio Executives Association, a local business-networking organization."}
+    ]
+  },
+  {
+    "donor_id": "dba25367-5ab8-41ba-87f0-8a64847c6432",
+    "name": "Sykes, Amanda",
+    "resolved_employer": "Homemaker (no employer on file)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Self-reported homemaker at 78212; public-records aggregators associate an Amanda Sykes with the Mellick T. Sykes household in San Antonio 78212, but no independent public profile or occupation beyond 'homemaker' was found.",
+    "source_url": "https://www.spokeo.com/Mellick-Sykes/Texas/San-Antonio/p2017022519047048298039521318430",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dae28f5c-5e7b-4c2d-a3ce-bee41d9b1813",
+    "name": "Miller, Marshall",
+    "resolved_employer": "Partner at Jackson Walker LLP, San Antonio (Corporate & Securities / Real Estate / Oil & Gas attorney)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Marshall B. Miller, Jr. is a longtime partner at Jackson Walker LLP in San Antonio practicing corporate/securities, real estate and oil & gas law; matches occupation and employer strings on file.",
+    "source_url": "https://www.jw.com/people/marshall-miller-jr/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Trinity University", "role": "Board of Trustees; chairs Academic Affairs Committee, Executive Committee member", "category": "civic", "source_url": "https://www.jw.com/people/marshall-miller-jr/", "snippet": "Member of the Board of Trustees of Trinity University where he chairs the Academic Affairs Committee and serves on the Executive Committee."}
+    ]
+  },
+  {
+    "donor_id": "d43d6a3d-0497-43f4-af16-3befc0419ec3",
+    "name": "JOHNSON, BRAD",
+    "resolved_employer": "Co-Founder & Managing Partner, JDK Wealth Advisors (San Antonio); previously VP/Wealth Management Advisor at Merrill Lynch (~10 yrs)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Brad W. Johnson, CFP/CPWA, co-founded JDK Wealth Advisors in 2021 after a decade at Merrill Lynch; both employer strings on file corroborated on LinkedIn/Crunchbase and the firm's site.",
+    "source_url": "https://www.linkedin.com/in/brad-w-johnson-cfp%C2%AE-cpwa%C2%AE-580a4069/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d337c176-a3bb-49a0-903d-f2fe2c00f61f",
+    "name": "Edwards, Colette",
+    "resolved_employer": "Retired (prior career not identified)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Public-records aggregators confirm a Colette Edwards at 219 Treasure Way, San Antonio, TX 78209 (Alamo Heights area) with prior addresses in Abilene/Austin/Dallas; listed occupation is only 'retired' and no former career could be corroborated. A separate Z. Colette Edwards MD/MBA (Wharton) is a different person; not conflated.",
+    "source_url": "https://www.spokeo.com/Colette-Edwards",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cf5f7e8a-3272-42cb-8393-1d0b17a716b4",
+    "name": "Weg, Elaine",
+    "resolved_employer": "Owner, Elaine Zagha Weg Interiors (interior design firm), Franklin Lakes, NJ",
+    "industry": "Architecture",
+    "confidence": "high",
+    "evidence": "Elaine (Zagha) Weg is owner of Elaine Zagha Weg Interiors at 498 Island Way, Franklin Lakes, NJ 07417 (matches donor address); ASID member, Pratt Institute graduate, self-employed interior designer. Interior design mapped to nearest design/built-environment taxonomy bucket.",
+    "source_url": "https://www.linkedin.com/in/elaine-weg-b43b83b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cedb4fc8-f407-4215-9a54-ad174383e1be",
+    "name": "Nelson, Kirk",
+    "resolved_employer": "Executive Vice President / commercial real estate broker, CBRE (South Florida)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Kirk Nelson is an Executive VP at CBRE handling office/industrial/land sales and leasing across Palm Beach/Broward/Treasure Coast; over $1B in transactions since joining in 2005. Donor address is Jupiter, FL 33458, consistent with his South Florida market and CBRE-listed profile.",
+    "source_url": "https://www.cbre.com/people/kirk-nelson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ce4ba80c-14eb-4165-8e5e-4d9715e0105b",
+    "name": "DeLaHoussaye, Kathleen",
+    "resolved_employer": "Homemaker",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Donor self-reports as Homemaker at 127 Larkwood Dr, San Antonio 78209. No individual public bio found for this specific person. The DeLaHoussaye surname is prominent in San Antonio (family running PJS of Texas), but a family tie is NOT corroborated and is not asserted here per surname-coincidence caution. A separate Kathleen DeLaHoussaye in DC finance is a different, non-matching profile.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c457b627-8b79-47d1-bf1a-c66f114e60b6",
+    "name": "OBrien, Scott",
+    "resolved_employer": "CEO/President, PJS of Texas (Professional Janitorial Services), San Antonio",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Scott O'Brien is CEO/President of PJS of Texas, a locally-owned commercial janitorial company (est. 1986) at 4311 San Pedro Ave, San Antonio 78212 (matches donor address). Commercial janitorial/building-services has no exact taxonomy bucket; mapped to nearest built-environment/facilities-services label.",
+    "source_url": "https://www.zoominfo.com/p/Scott-Obrien/2101076825",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c14ca39b-0ba4-4b32-b00e-6ed80df36dc1",
+    "name": "Cavender, Richard",
+    "resolved_employer": "Cavender Auto Family (auto dealership group); Rick 'Richard' Cavender is VP of the Cavender Auto Family and Dealer Principal/President of Cavender Audi (Audi Dominion)",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Auto-dealer occupation + 'The Cavender Auto Family' employer + 21105 W I-10 (78257, the Cavender/Dominion dealership campus) match Rick (Richard) Cavender, 4th-generation principal of the 80+-year-old San Antonio Cavender auto-dealer family and Audi Dominion Dealer Principal.",
+    "source_url": "https://sawoman.com/2013/07/guys-to-know-rick-cavender-cars-and-music/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Cavender Auto Family / Audi Dominion", "role": "Vice President (Auto Family), Dealer Principal / President Cavender Audi", "category": "business", "source_url": "https://sawoman.com/2013/07/guys-to-know-rick-cavender-cars-and-music/", "snippet": "Rick serves as vice president of the Cavender Auto Family and president of Cavender Audi; Dealer Principal at Audi Dominion."},
+      {"org": "United Way of San Antonio & Bexar County", "role": "Chairman", "category": "civic", "source_url": "https://www.bloomberg.com/profile/person/20550782", "snippet": "Rick Cavender is Chairman at United Way of San Antonio & Bexar County."}
+    ]
+  },
+  {
+    "donor_id": "bbe83d78-c36f-41ba-ac30-66317ba6983b",
+    "name": "Prelevic, Dragica",
+    "resolved_employer": "Associated with DRK Group LLC (Lufkin scrap-metal/recycling & small trucking business); donation lists 'Self Employed'; LinkedIn also lists student status at Stephen F. Austin State University",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Distinctive name + Lufkin (75904) address match a LinkedIn profile (Dragica Prelevic, Lufkin) tied to DRK Group LLC, a Lufkin scrap-metal/recycling & trucking company; an out-of-town small donor with a thin public footprint. No policy-advocacy or PAC record found.",
+    "source_url": "https://www.linkedin.com/in/dragica-prelevic-0702509a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b7fcc670-0a37-4c87-ba2d-2067050b43cd",
+    "name": "PERALTA, FERNANDO",
+    "resolved_employer": "Fernando G. Peralta, CFO of Santana Group (San Antonio outsourcing/consulting firm); CPA; owner of a Learning Express toy-store franchise; prior CFO of Propel Financial Services and senior auditor at KPMG",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Employer strings 'Santana Consulting Group' + 'Learning Express San Antonio' and 'Owner/CFO' occupation match Fernando G. Peralta, CFO of San Antonio's Santana Group and a licensed CPA (UT Austin BBA/MPA); Terrell Hills (78209) resident. Board chair of Make-A-Wish San Antonio (charity, non-policy).",
+    "source_url": "https://www.santanagrp.com/team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b4eb213f-6103-4403-8edd-c1c06ef1d933",
+    "name": "Amezcua, Cesar",
+    "resolved_employer": "Cesar Amezcua, real-estate broker and founder/owner of CA & Company, REALTORS (San Antonio)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "No occupation on the record; matched on name + NW San Antonio 78254 zip to Cesar Amezcua, a prominent SA broker (CA & Company Realtors, founded 2013) who actively lists/sells in the 78254 area. Identity rests on name+zip so held at medium.",
+    "source_url": "https://cacompanyrealtors.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b3e0a30c-7ad0-4d75-8e07-39ad1192c53e",
+    "name": "Wender, Charles",
+    "resolved_employer": "Charles Martin 'Marty' Wender, founder/owner of Charles Martin Wender Real Estate & Investments; San Antonio land developer (3,500-acre Westover Hills master-planned development, Crownridge, Fawn Meadow)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Employer 'Charles Martin Wender Real Estate' + Real Estate occupation match Marty Wender, one of San Antonio's best-known land developers (Westover Hills); named a Business Journal 'Visionary.' No federal PAC record found (an unrelated Ira T. Wender in NY was the only FEC hit).",
+    "source_url": "https://sanantonioreport.org/meet-the-man-who-built-westover-hills-land-developer-marty-wender/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Charles Martin Wender Real Estate & Investments", "role": "Owner / land developer", "category": "business", "source_url": "https://web.sachamber.org/Real-Estate-Developers/Charles-Martin-Wender-Real-Estate-and-Investments-3497", "snippet": "Developer of the 3,500-acre Westover Hills mixed-use master-planned development; company established 1981."},
+      {"org": "Mays Cancer Center, UT Health San Antonio (also SA Economic Development Foundation, SA Medical Foundation boards)", "role": "Chairman, Board of Governors (Mays Cancer Center); former board member of the other orgs", "category": "civic", "source_url": "https://web.sachamber.org/Real-Estate-Developers/Charles-Martin-Wender-Real-Estate-and-Investments-3497", "snippet": "Served on the SA Economic Development Foundation, SA Medical Foundation, UT Health Science Development boards; currently Chairman of the Board of Governors of the Mays Cancer Center."}
+    ]
+  },
+  {
+    "donor_id": "b2dd5cac-2c24-4890-8f0d-4be30eccae7e",
+    "name": "Mills, Danny",
+    "resolved_employer": "Self-employed investor; General Partner, Dareos-Mills Investments, Ltd. (also holds oil/gas mineral & royalty interests)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Danny W. Mills of San Antonio 78216 is a private investor tied to ~14 companies incl. Dareos-Mills Investments, Ltd., and holds mineral/royalty interests across 3 TX counties — consistent with self-reported 'Investor/investments, Self.'",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/danny-w-mills/30154862.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b29867ac-10f4-45fe-b4d5-136b6a509825",
+    "name": "Sanders, Melanie",
+    "resolved_employer": "Partner/attorney, Kustoff & Sanders, L.L.P. (insurance/consumer/commercial litigation), San Antonio",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Melanie Hessler Sanders, TX-licensed 2001 (St. Mary's J.D.), partner at Kustoff & Sanders LLP, Board-certified in Consumer & Commercial Law — matches donor occupation/employer exactly.",
+    "source_url": "https://www.salegal.com/attorneys/melanie-h-sanders/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b10b94ea-5e7e-4ce0-a4fb-3d00e2308de4",
+    "name": "Gentis, Francios",
+    "resolved_employer": "Likely Regional Sales Manager, Netskope (prior cybersecurity roles at Forcepoint/Lookout); identity match probable but not certain",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Francois M Gentis owns 12906 Country Ridge, San Antonio 78216 (property records). An uncommon-name match 'Francois Gentis' works in tech/cybersecurity sales (Netskope), though that profile lists an Austin base, so employer attribution carries some uncertainty. Donor record had no occupation/employer.",
+    "source_url": "https://blockshopper.com/tx/bexar-county/san-antonio/property/000000603081/12906-country-ridge",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "af76feb9-8dc8-49b9-baf2-51916c405ea9",
+    "name": "Scott, Craig",
+    "resolved_employer": "Partner & Broker, First American Commercial Property Group (land development/brokerage), San Antonio",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Craig B. Scott, partner/broker at First American Commercial Property Group specializing in multi-use land development; Texas State grad, active with San Antonio Board of Realtors — matches donor occupation/employer.",
+    "source_url": "https://dirtdealers.com/team-members/craig-scott/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "San Antonio Board of Realtors", "role": "Active member", "category": "business", "source_url": "https://dirtdealers.com/team-members/craig-scott/", "snippet": "He is active on the San Antonio Board of Realtors and is a supporter of the San Antonio Stock Show & Rodeo."}
+    ]
+  },
+  {
+    "donor_id": "af5dd217-3f81-4da6-94d5-5ab8f7f2a3cd",
+    "name": "Nooner, Sammy",
+    "resolved_employer": "Manager, FSS Venture LLC (Hondo gaming/amusement operation, NAICS 'Other Gambling Industries'); also President of Nooner, Inc. and area rancher",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Sammy W. Nooner of Hondo 78861 is the registered agent/manager of FSS Venture LLC (gaming/game-room, 48 employees, ~$677K PPP) and president of Nooner, Inc.; also a sitting Hondo City Council member.",
+    "source_url": "https://www.federalpay.org/paycheck-protection-program/fss-venture-llc-hondo-tx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+    "affiliations": [
+      {"org": "Hondo City Council", "role": "City Council Member (elected)", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Hondo,_Texas", "snippet": "City council members listed include Sammy Nooner, alongside Mayor James W. Danner, Sr., and other council members."}
+    ]
+  }
+]
