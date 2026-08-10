@@ -48,6 +48,7 @@ ROSTER = [
     {"slug": "gavito", "display": "Marina Alderete Gavito", "district": "District 7", "race": "Re-elected May 2025"},
     {"slug": "gonzalez", "display": "Ivalis Meza Gonzalez", "district": "District 8", "race": "Elected June 2025"},
     {"slug": "spears", "display": "Misty Spears", "district": "District 9", "race": "Elected June 2025"},
+    {"slug": "whyte", "display": "Marc Whyte", "district": "District 10", "race": "Re-elected May 2025"},
 ]
 
 # Non-officeholders rendered with candidate framing instead of incumbent
