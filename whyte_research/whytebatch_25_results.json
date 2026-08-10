@@ -1,0 +1,243 @@
+[
+ {
+  "donor_id": "2a42d2f0-d5cd-4cb2-ad1e-0fe7152afd62",
+  "name": "Badger, Steven",
+  "resolved_employer": "Zelle LLP (partner) — insurance-coverage and construction litigation attorney, Dallas",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Steven John Badger is a partner at Zelle LLP in Dallas practicing insurance coverage, construction and commercial litigation; name+firm+occupation+Dallas 75219 (Victory Park/Nowitzki Way residence) all match. He is a nationally known advocate for property-insurance and 'hail litigation' reform, testifying before the Texas House Committee on Insurance. All three searches run: FEC PAC search returned no notable ideological-PAC contributions; TX lobbyist search found no registered-lobbyist entry (he advocates as an industry expert/witness, not a registered lobbyist); full bio read of Zelle/Super Lawyers/Claims Journal profiles.",
+  "source_url": "https://www.zellelaw.com/Steven_Badger",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Property-insurance / roofing-legislation advocacy (Texas House Committee on Insurance)", "role": "Industry advocate / expert witness", "category": "business", "source_url": "https://www.claimsjournal.com/topics/steve-badger/", "snippet": "Badger is 'an outspoken advocate of hail litigation reform,' has testified before the Texas House Committee on Insurance, and pushes for a Texas law mandating Class 4 hail-resistant roofing."}
+  ]
+ },
+ {
+  "donor_id": "25f0d5de-044d-4741-a5ae-175e3a04b268",
+  "name": "Donop, Perry",
+  "resolved_employer": "Perry Donop Properties — real estate developer, San Antonio (offices at 7744 Broadway, the Petroleum Club Building)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Perry T. Donop Jr. is a San Antonio real estate developer (Perry Donop Properties) headquartered at 7744 Broadway, matching the donor's occupation and address exactly. All three searches run: FEC PAC search surfaced no ideological-PAC ties (the input's 19 FEC donations appear to be candidate/local giving, not tracked-spectrum PACs); TX lobbyist search found no registered-lobbyist entry; bio confirmed via LinkedIn/YellowPages business listings.",
+  "source_url": "https://www.yellowpages.com/san-antonio-tx/mip/donop-perry-t-jr-5927323",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "22fb1b71-b32a-4fa9-be9e-aec8ce8c5ac3",
+  "name": "Choudray, Mohammed",
+  "resolved_employer": "Mission Wrecker Service Inc. — CEO/owner (towing and heavy-duty recovery company), San Antonio/Converse",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Muhammad Choudary is CEO/owner of Mission Wrecker Service (bought the company in 2002); name, 'Mission Wrecker,' CEO title and Converse 4535 FM 1516 N address all match. Public note: in 2026 Choudary pleaded guilty in federal court to conspiracy to commit bribery for offering Bexar County Sheriff Salazar $30,000 for a towing contract. All three searches run: FEC PAC search found no ideological-PAC contributions; TX lobbyist search found no registered-lobbyist entry; bio read via Mission Wrecker site and KSAT reporting.",
+  "source_url": "https://missionwrecker.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "20dde70c-4495-4bfc-9fc1-6d305cc3cf2b",
+  "name": "Zeidman, Fred",
+  "resolved_employer": "Gordian Group LLC (Chairman) — restructuring/turnaround advisor; former energy-company CEO (Seitel, Unibar); Senior Director of Governmental Affairs at Greenberg Traurig",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Fred S. Zeidman of Houston (77027) is a nationally prominent GOP fundraiser (Bush 'Pioneer'/'Ranger'), restructuring advisor (Gordian Group Chairman), and Bush-appointed Chairman of the U.S. Holocaust Memorial Council. Identity is unambiguous. All three searches run: FEC/political search confirmed major Republican bundling and Republican Jewish Coalition leadership; TX/federal lobbyist search confirmed his Greenberg Traurig governmental-affairs (lobbyist) role; full bio read across RJC, JINSA and Gordian Group pages.",
+  "source_url": "https://gordiangroup.com/leadership/fred-zeidman/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Development Corporation of Israel (Israel Bonds)", "role": "National Campaign Chairman", "category": "pro_israel", "source_url": "https://jinsa.org/person/fred-zeidman/", "snippet": "Listed as 'National Campaign Chairman of Development Corp of Israel (Israel Bonds)'; authored 'Israel Needs Bipartisan Support' (The Hill, 2019)."},
+   {"org": "Jewish Institute for National Security of America (JINSA)", "role": "Board/leadership figure (featured)", "category": "pro_israel", "source_url": "https://jinsa.org/person/fred-zeidman/", "snippet": "Featured as a JINSA leadership figure on the organization's own site; JINSA is a pro-Israel national-security advocacy group."},
+   {"org": "American Israel Public Affairs Committee (AIPAC)", "role": "Executive Committee member", "category": "aipac_direct", "source_url": "https://www.sourcewatch.org/index.php/Fred_Zeidman", "snippet": "Widely documented as serving on the Executive Committee of AIPAC (SourceWatch profile of Zeidman)."},
+   {"org": "Republican Jewish Coalition", "role": "Leadership / featured figure", "category": "political", "source_url": "https://www.rjchq.org/fred_zeidman", "snippet": "Profiled by the Republican Jewish Coalition; Bush-appointed Chairman of the U.S. Holocaust Memorial Council and longtime GOP fundraiser."},
+   {"org": "Seitel Inc. / Unibar Corp. / Camber Energy", "role": "Former CEO-Chairman (Seitel, oil-and-gas seismic data; Unibar, drilling fluids); Director (Camber Energy)", "category": "oil_gas", "source_url": "https://www.rjchq.org/fred_zeidman", "snippet": "Former CEO/President/Chairman of Seitel Inc. (seismic data for oil & gas), Chairman/CEO of Unibar (largest domestic independent drilling-fluids company), and director of Camber Energy."}
+  ]
+ },
+ {
+  "donor_id": "1ffe90eb-bc3e-4b0f-9b63-2cbf87660352",
+  "name": "SAB, PAC I",
+  "resolved_employer": "SABPAC — San Antonio Builders Political Action Committee, the PAC of the Greater San Antonio Builders Association (GSABA); treasurer Wayne Moravits",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "SAB PAC I / 'SABPAC' is the San Antonio Builders Political Action Committee; its registered address 3625 Paesanos Pkwy, Ste 100, 78231 is the headquarters of the Greater San Antonio Builders Association (GSABA), and SABPAC is GSABA's homebuilder-industry PAC that supports pro-housing/pro-builder candidates. This is a PAC entity, not an individual. All three searches run: FEC search found no federal committee (it is a state/local TEC-level PAC); TX lobbyist/registry search tied it to GSABA (whose parent, Texas Association of Builders, lobbies via HOMEPAC); bio read of GSABA/SABPAC pages.",
+  "source_url": "https://www.sabuilders.com/get-involved/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Greater San Antonio Builders Association (GSABA) / SABPAC", "role": "Homebuilder-industry political action committee", "category": "business", "source_url": "https://www.sabuilders.com/get-involved/", "snippet": "SABPAC is the Greater San Antonio Builders Association's PAC (address 3625 Paesanos Pkwy Ste 100); it backs pro-housing/pro-builder candidates for local office (treasurer Wayne Moravits)."}
+  ]
+ },
+ {
+  "donor_id": "1d38e323-cd52-4546-b220-a743b91038f5",
+  "name": "Richard, Roy",
+  "resolved_employer": "Law Offices of Roy W. Richard, Jr. (solo attorney, Schertz TX)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Roy William Richard, Jr., solo attorney at 519 Main St, Schertz TX 78154 — matches donor name/address/occupation exactly (Texas Bar, Justia, Martindale). Distinguished Martindale rating; had a 2001 fully-probated suspension. All three searches run: FEC/OpenSecrets web search surfaced no ideological-PAC records (FEC API attempt was rate-limited, so the 44-record recipient list couldn't be enumerated); TX Ethics/SA lobbyist search returned no registration; bio pages read (no policy-advocacy board seats).",
+  "source_url": "https://lawyers.justia.com/lawyer/roy-william-richard-jr-207616",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1c903fc8-10c3-4b97-9d3b-e90cb1b2362a",
+  "name": "Greathouse, Summer",
+  "resolved_employer": "Bracewell LLP — Partner, public finance / affordable-housing / real estate",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Summer B. Greathouse, Bracewell LLP partner (public finance, tax-exempt/affordable-housing finance, real estate), St. Mary's Law valedictorian; 78209 home address consistent with a downtown-firm professional. Serves as City of San Antonio District 1 appointee to the Zoning Commission (Pro-Tem) and sits on the board of the Texas Affiliation of Affordable Housing Providers — both land-use/housing policy roles. All three searches run: FEC/OpenSecrets web search found no ideological-PAC records; SA/TX lobbyist search found no lobbyist registration (she is a zoning commissioner, not a registered lobbyist); full Bracewell bio read.",
+  "source_url": "https://www.bracewell.com/people/summer-b-greathouse/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "City of San Antonio Zoning Commission", "role": "District 1 appointee / Pro-Tem", "category": "civic", "source_url": "https://www.connectcre.com/awards/2022-lawyers-in-real-estate-awards/texas/summer-greathouse/", "snippet": "Serves as the City Council District 1 appointee to the City of San Antonio Zoning Commission (District 1, Pro-Tem)."},
+   {"org": "Texas Affiliation of Affordable Housing Providers (TAAHP)", "role": "Board of Directors", "category": "business", "source_url": "https://www.bracewell.com/people/summer-b-greathouse/", "snippet": "Board of Directors, Texas Affiliation of Affordable Housing Providers — an affordable-housing industry/policy-advocacy association."}
+  ]
+ },
+ {
+  "donor_id": "1c4fc7fc-d2d7-46d1-b8ee-78f6e08fcca8",
+  "name": "Pohlmeier, Bryce",
+  "resolved_employer": "Mesquite Country Group, LP / Mesquite Country Real Estate — owner/developer contact",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Bryce Pohlmeier is the named owner/contact for Mesquite Country Group, LP at 8739 Bandera Rd, Ste 100, San Antonio 78250 (TDLR accessibility-compliance project filing and corporate directory), a small SA real-estate development/construction firm with ~$3.5M of Bexar County permits since 2023; address matches donor record exactly. No occupation was listed on the donor record and no personal bio/LinkedIn exists, so identity kept at medium. All three searches run: FEC/OpenSecrets web search found no contribution records; TX/SA lobbyist search found no registration; available records (TDLR, corporationwiki, construction-project listings) read in full — no policy-advocacy affiliations.",
+  "source_url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2023022422",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1a6f67b6-296b-4063-bc5e-c1471cf5fdfc",
+  "name": "RACKLEY, J. CALEB",
+  "resolved_employer": "Guerra LLP — Partner, civil appellate / construction litigation",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "James Caleb Rackley, partner at Guerra LLP (civil appellate, construction/business litigation), St. Mary's Law 2006; lives in Marion, TX where he serves as a Marion ISD Trustee — corroborates the donor's Marion 78124 address and Guerra LLP employer exactly. Past President of Defense Counsel of San Antonio. All three searches run: FEC/OpenSecrets web search surfaced no ideological-PAC records; TX Ethics/SA lobbyist search returned no registration; full Guerra LLP bio read. Board roles are professional/civic, not policy-advocacy PACs.",
+  "source_url": "https://guerrallp.com/attorneys/j-caleb-rackley",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Marion Independent School District", "role": "Trustee (elected)", "category": "political", "source_url": "https://guerrallp.com/attorneys/j-caleb-rackley", "snippet": "Trustee, Marion Independent School District — elected local school-board office; corroborates his Marion TX 78124 residence."}
+  ]
+ },
+ {
+  "donor_id": "167afce7-7cfa-44e8-8ad4-c6bfb232151b",
+  "name": "Edlund, Travis",
+  "resolved_employer": "Amarillo National Bank — SVP / San Antonio Market Executive (commercial lending); as of Jan 2026 moved to PlainsCapital Bank SA Region Chairman",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Travis Edlund, SVP/Market Executive for Amarillo National Bank in San Antonio (launched ANB's SA presence in 2020, commercial/CRE lending); lifelong San Antonian in Hollywood Park 78232 — matches donor occupation (VP-Regional Manager), employer (Amarillo National Bank) and locale exactly. Executive Board member and Small Business Council Chair of the North San Antonio Chamber of Commerce. All three searches run: FEC/OpenSecrets web search found no ideological-PAC records; TX/SA lobbyist search found no registration; LinkedIn/PlainsCapital/The Org bios read in full.",
+  "source_url": "https://plainscapital.com/about/executive-leadership/travis-edlund/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "North San Antonio Chamber of Commerce", "role": "Executive Board member / Small Business Council Chair", "category": "business", "source_url": "https://theorg.com/org/north-san-antonio-chamber-of-commerce/org-chart/travis-edlund", "snippet": "Executive Board member and Small Business Council Chair, North San Antonio Chamber of Commerce."}
+  ]
+ },
+ {
+  "donor_id": "117375c8-2f05-45cb-b877-d7b768532668",
+  "name": "Yanta, Renee",
+  "resolved_employer": "Santoyo Wehmeyer P.C. — Of Counsel (appellate law & ADR); former Bexar County District Court Judge (73rd & 150th District Courts)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Renee Alison Yanta, Board Certified civil appellate attorney (licensed 1993) and former District Court judge, now Of Counsel at Santoyo Wehmeyer P.C.; matches donor name/occupation/firm. Note: the firm brands as an energy/oil-and-gas law firm (swenergylaw.com), but she is an appellate/ADR attorney, not an energy-industry principal, so no oil_gas affiliation is warranted. All three searches run: FEC individual-contribution lookup attempted (API rate-limited and web/OpenSecrets searches found no confirmed federal PAC records); TX Ethics Commission lobbyist registry searched — not a registered lobbyist; full firm bio read — board seats are charitable/civic (University Health System Foundation, PEARLS Foundation, St. Mary's, UIW), none policy-advocacy-relevant per scope.",
+  "source_url": "https://www.swenergylaw.com/attorneys/renee-yanta/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "104ed08f-b3c2-43ce-bd06-cd2f0f3f8763",
+  "name": "Given, Cece",
+  "resolved_employer": "Retired; documented as volunteer Chair, Capital Campaign, Animal Defense League of Texas",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Public-records profile lists 12526 Elm Manor, San Antonio 78230 as a prior address for Cece Given (the '12526' zip artifact confirmed), and her LinkedIn identifies her as a San Antonio nonprofit advocate serving as Chair of the Capital Campaign for the Animal Defense League of Texas; occupation 'retired' consistent. Former paid career not documented, so industry reflects her documented nonprofit activity. All three searches run: FEC lookup found no confirmed federal PAC records; TX lobbyist registry — no registration; bio/LinkedIn read — only animal-welfare charity leadership, not a flagged policy-advocacy org.",
+  "source_url": "https://www.linkedin.com/in/cece-given-02b16816a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Animal Defense League of Texas", "role": "Chair, Capital Campaign (volunteer)", "category": "civic", "source_url": "https://www.linkedin.com/in/cece-given-02b16816a/", "snippet": "LinkedIn lists 'Cece Given - Chair, Capital Campaign - Animal Defense League of Texas,' San Antonio nonprofit advocate."}
+  ]
+ },
+ {
+  "donor_id": "096c17cb-c26b-4064-9894-7b242e685df8",
+  "name": "Gottsman, Charles",
+  "resolved_employer": "Aetna Sign Group — President (family-owned San Antonio signage fabrication/installation company, est. 1929; 2438 Freedom Dr address matches)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Donor's employer and exact address (2438 Freedom Dr, 78217) match Aetna Sign Group, a multi-generation Gottsman-family signage company (building/pylon/outdoor signs). Public listings surface Larry Gottsman (President) and Jonathan Gottsman (owner); 'Charles Gottsman' is a Gottsman-family principal not separately profiled online, so identity confidence is medium though the business tie is strong. Industry classified as Construction (sign fabrication/installation); outdoor-advertising-adjacent. All three searches run: FEC individual lookup (7 federal donations per pipeline) — specific recipients not retrievable through accessible records and no ideological/flagged PAC confirmed; TX lobbyist registry — no registration; bio search — no personal advocacy/board footprint found (business-owner fallback).",
+  "source_url": "https://aetnasign.com/our-company/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "07586669-4eeb-4b1a-81f6-ce8a100bb2eb",
+  "name": "Richard, Roy",
+  "resolved_employer": "CrossCountry Mortgage, LLC — Senior Loan Originator, San Antonio (NMLS #231637)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Roy (Roy W.) Richard is a Senior Loan Originator with CrossCountry Mortgage in San Antonio (NMLS 231637), matching donor name, occupation, employer, and metro; 78248 is his residential zip. Note this is a distinct record/person from the Schertz solo attorney also named Roy Richard in this batch. All three searches run: FEC individual-contribution lookup (44 federal donations per pipeline) — direct FEC record access was rate-limited and web/OpenSecrets/ProPublica searches did not surface the itemized recipients or any confirmed ideological/flagged PAC (AIPAC/UDP, J Street, NRA, oil/gas, defense) tie; TX lobbyist registry — not registered; bio/Facebook/LinkedIn read — no political, civic, veteran, or advocacy affiliation stated (employer fallback).",
+  "source_url": "https://www.linkedin.com/in/roywrichard/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "05ecca5c-8210-466e-95f9-1d9fee92c5c0",
+  "name": "Breimeister, Scott",
+  "resolved_employer": "Retired pharmacy-industry executive — President, Omniplus Pharmacy / Kremco Acquisitions LLC, Houston (former healthcare/pharmacy operator)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Scott A. Breimeister's public-records address (223 W 32nd St, Houston 77018) exactly matches the donor; he is a longtime Houston pharmacy/healthcare-business executive (President of Omniplus Pharmacy and Kremco Acquisitions) and the named defendant in United States v. Breimeister (5th Cir. 2025, No. 23-20326), a federal prosecution alleging a $140M+ healthcare-fraud scheme (mistrial declared; retrial allowed) — a notable transparency detail but a criminal-legal matter, not a flagged policy affiliation. All three searches run: FEC individual lookup (7 federal donations per pipeline) — specific recipients not retrievable through accessible records / API rate-limited, no ideological/flagged PAC confirmed; TX lobbyist registry — no registration; bio/public-records read — no policy-advocacy org affiliations found.",
+  "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca5/23-20326/23-20326-2025-04-07.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0459b3f7-a252-483d-aa6e-db98969a7dc1",
+  "name": "Schimpf, Brian",
+  "resolved_employer": "UBS Financial Services Inc. (wealth-management advisor/broker)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "FINRA BrokerCheck ID 5062867 identifies 'Brian Scott Schimpf' as a registered broker at UBS Financial Services Inc., matching the donor's occupation 'Wealth Management Specialist' and employer 'UBS Financial Services'; zip 07748 is Middletown, NJ (Monmouth County), consistent with a NJ-based UBS advisor. All three searches run: FEC/OpenSecrets PAC search returned no ideological-PAC ties (no AIPAC/UDP/J Street/NRA/oil-gas/defense hits under this name); TX Ethics Commission lobbyist registry — no match (not a registered lobbyist); bio/BrokerCheck read confirms UBS broker role, no policy-advocacy board seats found.",
+  "source_url": "https://brokercheck.finra.org/individual/summary/5062867",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "020feb4d-4e1a-4de1-83d3-a5e27ee57899",
+  "name": "Rodriguez, Melinda",
+  "resolved_employer": "Beyond Faith Home Care / home-health business development (SA home-health sector; later AQTS Home Health)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "LinkedIn and PACC-Greater San Antonio profiles show a Melinda Rodriguez in San Antonio home-health business development (Beyond Faith Home Care, later co-founder/Sr. Exec Director of Business Development at AQTS Home Health), matching the donor's employer 'Beyond Faith Home Care' and title 'VP Business Development'; SA metro location corroborates. 'Melinda Rodriguez' is a very common SA name, so identity is medium. All three searches run: FEC/OpenSecrets PAC search — could not access FEC API (DEMO_KEY rate-limited) and web searches surfaced no ideological-PAC ties; the flagged fec_donation_count 131 could NOT be attributed to a specific committee or confirmed as this individual vs. a same-named donor. TX Ethics lobbyist registry — no match. Bio read — home-health business-development roles only, no policy-advocacy board seats.",
+  "source_url": "https://www.linkedin.com/in/melinda-rodriguez-b98386184/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e939cb8c-54df-424e-bf2f-00be0b8cfcd3",
+  "name": "Lasater, Daniel",
+  "resolved_employer": "PNC Bank — private banker / market leader, San Antonio (later Bank of America Private Bank)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Daniel Lasater is a 25+ year SA private banker: served as Private Bank Market Leader at PNC San Antonio (matching donor employer 'PNC Bank' / occupation 'Manager'), listed as Past President of Boysville with title 'Private Banker, PNC San Antonio', now Private Client Advisor at Bank of America Private Bank in San Antonio; address 26002 Hootananny, 78260 (Stone Oak) is consistent (the '26002' zip field is a street-number artifact). All three searches run: FEC/OpenSecrets PAC search — FEC API rate-limited (DEMO_KEY); web PAC searches surfaced no ideological-PAC ties, and the flagged fec_donation_count 113 could not be resolved to specific committees. TX Ethics lobbyist registry — no match. Bio read — banking + Boysville civic board, no policy-advocacy PAC roles found.",
+  "source_url": "https://private.bankofamerica.com/sites/tx/san-antonio/daniel.w.lasater",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Boysville (San Antonio children's charity)", "role": "Past President / board leadership", "category": "civic", "source_url": "https://boysvilletexas.org/wp-content/uploads/2023/07/23-BVT_newsletter_springsummer_FNL_interactive.pdf", "snippet": "Listed as a Past President of Boysville with the title Private Banker, PNC San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "d884640b-236d-46db-a81e-b6230109ac7e",
+  "name": "Flynn, Crystal",
+  "resolved_employer": "Bexar County (criminal investigator, District Attorney's Office)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "D&B contact directory and Bexar County directory listings confirm a 'Crystal Flynn' employed by the County of Bexar; matches donor occupation 'Investigator, Bexar County' with SA address 78204 (Southtown). A recurring web bio describes a Crystal Flynn as an anti-human-trafficking (trucking-industry) nonprofit founding member and adjunct criminal-law professor at San Antonio College, but no verifiable primary-source URL was located to confirm it is the same person, so that is not recorded as an affiliation. All three searches run: FEC/OpenSecrets PAC search — no ideological-PAC ties found; TX Ethics lobbyist registry — no match; bio read — county-investigator role confirmed, no citable policy-advocacy board seat.",
+  "source_url": "https://www.dnb.com/contact-directory/contact-profile.crystal_flynn.e0fe502c3d73db614141c2356fa802a5.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ba580e4c-a12b-4e29-a506-fb1a1e3bf632",
+  "name": "Jenkins, Randall",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "'Randall/Randy Jenkins' is an extremely common name with many SA-area matches; no public profile could be confidently tied to the donor's specific address (6670 Kings Crown E, 78233) or confirmed former career (a retired Randy Jenkins from Kimley-Horn construction inspection appears on LinkedIn but cannot be confirmed as the same person/zip). Identity unresolved. All three searches run: FEC/OpenSecrets PAC search — no ideological-PAC ties found and the flagged fec_donation_count 26 could not be attributed to this specific individual; TX Ethics lobbyist registry — no match; bio read — no confirmable profile. Quiet result; industry left null per low-confidence rule.",
+  "source_url": "https://www.linkedin.com/in/randy-jenkins-b592b28/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

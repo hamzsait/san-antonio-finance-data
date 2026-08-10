@@ -1,0 +1,242 @@
+[
+ {
+  "donor_id": "5ffa5839-828f-4aec-892d-5a7927526e1d",
+  "name": "Hass, Carino",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Residential donor at 204 E. Melrose, San Antonio 78212 (Alta Vista/Olmos area) with no occupation or employer in the record. FEC PAC search, TX Ethics Commission lobbyist search, and web/bio searches all returned nothing attributable to this specific person; identity and industry cannot be confirmed. No PAC (pro-Israel, pro-Palestine, oil/gas, gun, or defense) activity found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5cfa0416-45de-4701-95ea-eb13d295f675",
+  "name": "Clavijo, Clarece",
+  "resolved_employer": "Elev8 Salon Suites (owner), San Antonio; previously ~18 years in multifamily property management",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Owner of Elev8 Salon Suites in San Antonio (7334 Blanco Rd, matching donor employer 'ELEV8 SALON'); her about-page notes she started the salon-suite business after 18 years in multifamily management, corroborated by LinkedIn (business development/district manager, Habitat; San Antonio Apartment Association). FEC PAC search and TX lobbyist search found no federal PAC or lobbyist activity; no pro-Israel/pro-Palestine/oil/gun/defense ties surfaced.",
+  "source_url": "https://www.elev8suites.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5cc3f37d-b6d7-4557-b2f9-9af8365fda9a",
+  "name": "Ginsberg, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed address 2028 W Ben White Blvd, Austin 78741 is a shared/virtual-office commercial building, not a residence, so it does not pin down a specific individual. Multiple Michael Ginsbergs exist in TX (a tax/estate attorney at a different Austin address; an addiction counselor); none could be confirmed as this donor. Record carries 65 FEC donations at lean 0.16, but itemized FEC/OpenSecrets records were not resolvable to this specific person; FEC PAC and TX lobbyist searches surfaced no confirmable pro-Israel/pro-Palestine/oil/gun/defense PAC ties.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5c941d44-b5bc-4635-be7d-3f48b68477ee",
+  "name": "Nava, Brenna",
+  "resolved_employer": "Attorney; formerly Haynes and Boone (per donor record), later Deputy General Counsel at BioBridge Global (San Antonio)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Brenna Gaye Holmes Nava, San Antonio attorney (Texas Bar #279646, licensed 2007; St. Mary's J.D.). Employer in record 'Haynes and Boone' matches a prior firm; later Deputy General Counsel at BioBridge Global (blood/tissue nonprofit), with prior roles at Rackspace and Iodine Software. Corroborated by zip 78230 (13823 Ridge Chase Dr) and attorney occupation. FEC PAC and TX lobbyist searches found no specific pro-Israel/pro-Palestine/oil/gun/defense PAC or lobbyist registration; record shows 27 FEC donations at lean 1.0 (Republican) but no individual PAC named that fits a tracked category.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=279646",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "59a240e8-bf80-4568-8f1b-70f2a39a0816",
+  "name": "Killen, Melissa",
+  "resolved_employer": "Melissa Castro Killen, Of Counsel at Killen, Griffin & Farrimond PLLC (KGF Law) — government affairs, land use, water/utility, special districts",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Melissa Castro Killen (Texas Bar #208004), Of Counsel at KGF Law, a San Antonio government-relations/land-use firm; former Balcones Heights councilmember and past Vice Chair of both the VIA Metropolitan Transit board and the MPO Transportation Policy Board. Corroborated by employer string 'Killen, Griffin and Farrimond PLLC' and San Antonio residence (78257). Full bio read on firm site; FEC PAC search (record shows 3 donations, lean 0.5) and TX lobbyist search found no confirmed personal lobbyist registration and no pro-Israel/pro-Palestine/oil/gun/defense PAC ties.",
+  "source_url": "https://www.kgftx.com/our-team",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Killen, Griffin & Farrimond PLLC (KGF Law)", "role": "Of Counsel — government affairs, land use, economic development", "category": "business", "source_url": "https://www.kgftx.com/our-team", "snippet": "Practice areas include government affairs, government contracting and purchasing, water and utility law, land use and entitlements, and special districts."},
+   {"org": "VIA Metropolitan Transit Authority / MPO Transportation Policy Board", "role": "former Vice Chair (VIA; MPO Transportation Policy Board)", "category": "civic", "source_url": "https://www.kgftx.com/our-team", "snippet": "Served as Vice Chair of the VIA Metropolitan Transit Authority Board of Trustees and the MPO Transportation Policy Board."}
+  ]
+ },
+ {
+  "donor_id": "58edec8c-c380-4a19-ae4a-deb963e9c781",
+  "name": "Songadwala, Erach",
+  "resolved_employer": "Y&L Consulting, Inc. (President & CEO / co-founder) — global IT staffing and business & technology solutions firm, HQ 5750 Epsilon, San Antonio",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Erach Songadwala is President/CEO and co-founder (since 1999) of Y&L Consulting, an IT staffing/business-technology firm headquartered at 5750 Epsilon, San Antonio 78249 — the exact donor address; name, occupation (CEO) and employer all corroborate. FEC individual-contributor and TEC lobbyist searches returned no federal PAC or Texas lobbyist records; bio (TheOrg/LinkedIn) read in full showed no policy-advocacy roles.",
+  "source_url": "https://theorg.com/org/yl-consulting/org-chart/erach-songadwala",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "57f1bb0b-4c35-4767-89c6-a44bda6ed8da",
+  "name": "Madson, Michelle",
+  "resolved_employer": "San Antonio Hotel & Lodging Association (President & CEO)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Michelle Madson is President & CEO of the San Antonio Hotel & Lodging Association (a hospitality-industry trade/advocacy association); ZoomInfo/LinkedIn tie her to the 15850 Brisbane Dr, Selma TX 78154 donor address (the '15850' zip field is a street-number data artifact). Prior roles at Spurs Sports & Entertainment and the SA Chamber of Commerce. FEC search returned no federal PAC gifts; TEC/City lobbyist searches surfaced no personal registration; SAHLA about-page read in full confirms an industry-advocacy mission.",
+  "source_url": "https://sahla.org/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Hotel & Lodging Association", "role": "President & CEO", "category": "business", "source_url": "https://sahla.org/about-us/", "snippet": "The association works to 'tell the story of our industry's impact by advocating with a unified voice' for the hospitality industry."}
+  ]
+ },
+ {
+  "donor_id": "57653f15-fce0-487d-8563-4ebc6ef4c2f2",
+  "name": "Powell, William",
+  "resolved_employer": "Bitterblue, Inc. / The Powell Companies — San Antonio commercial real-estate developer (co-founder/founder); also co-founder & chairman of AirStrip Technologies",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "William Eugene 'Gene' Powell — major San Antonio real-estate developer (co-founder of Bitterblue Inc., founder of The Powell Companies, former president of Quincy Lee Co.); Bexar property records list 'William Eugene Powell & Dana D Powell' at 19 Bitterblue Ln, 78218, the exact donor address. Former UT System Board of Regents Chairman (appointed by Gov. Rick Perry, 2009-2015). FEC/OpenSecrets search shows a prolific Republican donor (~$56,150 to Perry gubernatorial campaigns 2001-2010, plus Lamar Smith and 2018 federal gifts — consistent with the 79-donation FEC count); TEC lobbyist search: no personal lobby registration. UT System bio read in full for board/advocacy roles.",
+  "source_url": "https://www.utsystem.edu/board-of-regents/former-regents/wm-eugene-powell",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "University of Texas System Board of Regents", "role": "Regent (2009-2015), Board Chairman 2011-2013 — appointed by Gov. Rick Perry", "category": "political", "source_url": "https://www.utsystem.edu/board-of-regents/former-regents/wm-eugene-powell", "snippet": "Appointed by Governor Rick Perry in February 2009 to a six-year Board of Regents term, Powell served as Board Chairman from February 2011 through August 2013."},
+   {"org": "Rick Perry gubernatorial campaigns", "role": "Major donor / campaign finance team", "category": "political", "source_url": "https://ballotpedia.org/Eugene_Powell", "snippet": "Powell was a prominent supporter of Gov. Rick Perry and helped lead Perry's campaign finance team in 2010, donating roughly $56,150 to Perry's gubernatorial campaigns between 2001 and 2010."}
+  ]
+ },
+ {
+  "donor_id": "57521633-2f7c-4518-baf7-1e3715486ff0",
+  "name": "PAC, San Antonio Prof Firefighters",
+  "resolved_employer": "Political action committee of the San Antonio Professional Firefighters Association (IAFF Local 624) — firefighters' labor union political fund",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Entity, not an individual: the political fund of the San Antonio Professional Firefighters Association / IAFF Local 624, the labor union representing ~1,800 SAFD firefighters. Address 'PO BOX 100455, San Antonio 78201' with the '10045' zip field a data artifact. Transparency USA lists 'San Antonio Professional Firefighters Local 624' as an active Texas political contributor; org operates at the local/state level (no federal FEC committee found). Entity-level checks run; the union's role is candidate/ballot political giving.",
+  "source_url": "https://www.transparencyusa.org/tx/contributor/san-antonio-professional-firefighters-local-624/also-known-as",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Professional Firefighters Association / IAFF Local 624", "role": "Labor-union political action committee (contributing entity)", "category": "political", "source_url": "https://www.safirefighters.org/", "snippet": "San Antonio Professional Firefighters Association, IAFF Local 624, the labor organization representing over 1,800 San Antonio Fire Department firefighters; its PAC makes political contributions to candidates."}
+  ]
+ },
+ {
+  "donor_id": "569e2a4b-5a7a-40a6-90c4-391d63b0d142",
+  "name": "Nava, Michael",
+  "resolved_employer": "A Nava & Glander Law Firm, San Antonio — partner/attorney (personal injury, insurance and business litigation)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Michael Alexander 'M. Alex' Nava is a litigation attorney and named partner at A Nava & Glander Law Firm, San Antonio (State Bar of Texas member #281195); occupation (Attorney) and employer ('Nava and Glander Law Firm') match the donor record, and he is in the Shavano Park/78230-78231 area consistent with the 13823 Ridge Chase Dr, 78230 address. FEC individual-contributor search and TEC lobbyist search returned no federal PAC or Texas lobby records; Super Lawyers/State Bar bios read in full showed no policy-advocacy roles. (Shared surname with donor Brenna Nava at the same address noted but not asserted as a tie beyond the shared household address.)",
+  "source_url": "https://www.texasbar.com/Attorneys/member.cfm?id=281195",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5580b93a-3b89-41e9-ab10-68f2205419e4",
+  "name": "House, Randall",
+  "resolved_employer": "Bexar Metals, Ltd. (runs the metals division)",
+  "industry": "Construction",
+  "confidence": "high",
+  "evidence": "Randall House runs the metals division of Bexar Metals, Ltd., a structural/metals fabrication company registered at 19440 Judson Rd, San Antonio, TX 78259 — an exact match to the donor's listed address (the '19440' is the street number, not a zip). LinkedIn confirms the role; TX taxpayer registry confirms the business at that address. FEC PAC search returned no federal contributions or flagged-PAC ties; TX lobbyist search returned no registration; bio read (LinkedIn/CorporationWiki) shows only a private medical-charity chairmanship (out of policy-advocacy scope).",
+  "source_url": "https://opengovus.com/texas-taxpayer/12007244416",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "52d64cc1-a286-4164-a8d6-4e6a41740dba",
+  "name": "Stewart, Philip",
+  "resolved_employer": "Terravista Corporation / Terravista Partners (President & CEO)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Philip W. Stewart is President/CEO of Terravista Corporation (dba Terravista Partners), a San Antonio multifamily apartment operator/landlord managing ~21 properties; has a Baylor JD/LLM. Address 3306 Roselawn Rd matches the Terravista office. LinkedIn and CorporationWiki corroborate. FEC lean is strongly conservative (0.0135, 33 donations) but FEC PAC search surfaced no flagged AIPAC/pro-Palestine/gun/oil/defense PAC ties; TX lobbyist search returned no registration.",
+  "source_url": "https://www.linkedin.com/in/phil-stewart-8b560417/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Terravista Corporation / Terravista Partners", "role": "President & CEO / owner-principal", "category": "business", "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/philip-w-stewart/33910935.aspx", "snippet": "Philip W. Stewart, Partner/President of Terravista Portfolio GP, LLC and Terravista Partners — a San Antonio multifamily apartment-operating (landlord) business."}
+  ]
+ },
+ {
+  "donor_id": "52cfaecd-d858-4aa2-b1f6-98e3bbe29642",
+  "name": "Chan, Elisa",
+  "resolved_employer": "Unintech Consulting Engineers, Inc. (co-founder/President)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "Well-documented public figure: co-founded Unintech Consulting Engineers (civil/structural engineering) in 1992; served on San Antonio City Council District 9 (2009-2013) as a Republican, first Asian-American woman on the council; ran in the 2014 TX Senate District 25 GOP primary (lost to Donna Campbell) and the 2022 TX House District 122 GOP primary. FEC lean conservative (0.0398, 34 donations), incl. a documented $500 to Will Hurd for Congress; FEC PAC search surfaced no flagged AIPAC/pro-Palestine/oil/gun/defense PAC ties; TX lobbyist registry search returned no registration. Bio read via Wikipedia and Unintech leadership page. Address 513 Contadora, 78258 (Stone Oak, in D10) consistent.",
+  "source_url": "https://en.wikipedia.org/wiki/Elisa_Chan",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio City Council (District 9) / Republican Party", "role": "Former Councilmember (2009-2013); GOP primary candidate for TX Senate SD25 (2014) and TX House HD122 (2022)", "category": "political", "source_url": "https://ballotpedia.org/Elisa_Chan", "snippet": "Elisa Chan represented District 9 on the San Antonio City Council (2009-2013) and ran as a Republican for Texas Senate District 25 in 2014 and Texas House District 122 in 2022."},
+   {"org": "Unintech Consulting Engineers, Inc.", "role": "Co-founder / President", "category": "business", "source_url": "http://www.unintech.com/about-us/leadership/elisa-chan/", "snippet": "Chan co-founded Unintech Consulting Engineers in 1992, a civil/structural engineering and surveying firm serving public and private clients across Texas."}
+  ]
+ },
+ {
+  "donor_id": "4f412539-06be-4f14-a624-fa27c43d7657",
+  "name": "Clay, Lauren",
+  "resolved_employer": "Crestline Group (VP of Operations & Strategic Communications) — Austin government-affairs firm",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Lauren B. Clay is VP of Operations and Strategic Communications at Crestline Group, an Austin full-service government-affairs/lobbying firm (401 W. 15th St matches the firm's address); ~15 yrs in state/federal government strategic communications, UT-Austin PR grad. She also serves as media contact for the Texas Nuclear Alliance (a pro-nuclear-energy trade/advocacy group whose president is Crestline founder Reed Clay). FEC lean mixed (0.535, 18 donations); FEC PAC search surfaced no AIPAC/pro-Palestine/gun/oil-gas/defense flagged-PAC ties; TX lobbyist registry search returned no personal registration (she is comms/operations, not a registered lobbyist). Bio read via Crestline team page and LinkedIn.",
+  "source_url": "https://www.crestline-group.com/team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Crestline Group", "role": "Vice President of Operations & Strategic Communications", "category": "political", "source_url": "https://www.crestline-group.com/team/", "snippet": "The Crestline Group is a full-service government affairs firm; Lauren Clay is VP of Operations and Strategic Communications with ~15 years at the highest levels of state and federal government."},
+   {"org": "Texas Nuclear Alliance", "role": "Media/communications contact", "category": "business", "source_url": "https://texasnuclearalliance.org/about-us/", "snippet": "Lauren Clay serves as the media contact for the Texas Nuclear Alliance, a pro-nuclear-energy industry advocacy organization."}
+  ]
+ },
+ {
+  "donor_id": "4f33f1ee-335b-4d4a-96ba-6af7bf7c64c2",
+  "name": "Kuyrkendall, Deborah",
+  "resolved_employer": "Kuyrkendall & Company, Inc. (partner) — San Antonio commercial/residential real estate",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Deborah Ann Kuyrkendall joined Kuyrkendall & Company (San Antonio full-service commercial/residential real estate) in 1992 as a partner in commercial sales, property management, and leasing; SABOR/TAR/NAR member; Wayland Baptist BBA; previously directed housing programs at the Bexar County Housing Authority and San Antonio Housing Authority (SAHA). Donor address 14110 Bluff Grove Dr (the '14110' is the street number, San Antonio 78216) matches the family/firm area. FEC PAC search (lean 0.0, 10 donations) surfaced no flagged-PAC ties; TX lobbyist registry returned no registration. Bio read via firm about-page.",
+  "source_url": "https://www.kuyrkendall.com/about-us/deborah-ann-kuyrkendall/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Kuyrkendall & Company, Inc.", "role": "Partner (commercial sales, property management, leasing)", "category": "business", "source_url": "https://www.kuyrkendall.com/about-us/deborah-ann-kuyrkendall/", "snippet": "In 1992, Deborah A. Kuyrkendall joined Kuyrkendall & Company as a partner in commercial sales, property management, residential estate leasing and sales, and marketing."}
+  ]
+ },
+ {
+  "donor_id": "4d2bb2c2-981b-4906-a345-6b30639df205",
+  "name": "Walker, Karen",
+  "resolved_employer": "Star Shuttle, LLC (Collections dept.) — San Antonio charter/motorcoach company",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Donor record lists occupation 'Collections' at Star Shuttle, LLC, a family-owned San Antonio charter bus/limousine company; address 1603 Nacogdoches Rd is a Star Shuttle-associated San Antonio location. FEC PAC search returned no federal PAC record for this Karen Walker; TX Ethics Commission lobbyist search returned no match; no bio page beyond the employer exists — an ordinary back-office employee. Per instructions, shared 'Walker' surname with the owning Walker family is NOT treated as a family/ownership tie without corroboration.",
+  "source_url": "https://starshuttle.com/about-star/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4d04a057-c868-4854-a8b1-e106d5e2c3d2",
+  "name": "Lopez, Quinlan",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer in donor record; no FEC donation history (count 0). Web search for 'Quinlan Lopez San Antonio' returned no matching individual (only unrelated Quinlan- and Lopez-surnamed people). FEC PAC search, TX Ethics Commission lobbyist search, and bio search all run and all negative — person could not be confidently identified at 20 Campden Cir, 78218.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4cc65433-397a-4604-b6db-39555079bda4",
+  "name": "Fuentes, Alyssa",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer in donor record; donor zip '12322' is a street-number data artifact, true location 12322 Pecos Vly, San Antonio 78254. Spokeo/directory listings confirm an 'Alyssa A Fuentes' at 78254; a LinkedIn 'Alyssa A. Fuentes, Communications Specialist at SWBC (financial services), St. Mary's University' is a plausible but UNconfirmed match (no zip/occupation corroboration). FEC PAC search found no flagged PAC (AIPAC/pro-Palestine/oil-gas/gun/defense) tied to her; the record's 37 federal donations exist but individual receipts were not resolvable to this person. TX lobbyist search negative. Identity not corroborated on zip+occupation, so industry left null.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4aea6692-be03-44d0-b391-d1e432795fed",
+  "name": "Mann, Greg",
+  "resolved_employer": "Managing Member, Mann Venture Partners, LLC; Managing Principal (Development), Milam Real Estate Capital, LLC — commercial real estate investment/development",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Strong match: donor occupation 'Real Estate Investments' / employer 'Mann Venture Partners, LLC' and 78209 (Alamo Heights-area) address align with Greg Mann, 28+ yr commercial real estate developer, Managing Member of Mann Venture Partners and Managing Principal of Milam Real Estate Capital (formerly co-founder/president of Birnbaum Property Co.; UT-Austin McCombs finance/real estate). FEC PAC search surfaced no notable ideological PAC (no AIPAC/pro-Palestine/oil-gas/gun/defense) for him; TX Ethics Commission lobbyist search returned no registration; full LinkedIn/firm bio read. No policy-spectrum affiliation documented — a business real-estate donor.",
+  "source_url": "https://milamcapital.com/team/greg-mann-bio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ab47bbe-550e-4c1c-aae2-f0e993be247d",
+  "name": "Koob, Christopher",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor record has no occupation/employer but 51 federal donations at lean 0.986 (strongly Republican) at 115 Center Gait, San Antonio 78231. A prominent 'Christopher Koob' is a Democratic political-compliance consultant (MBA Consulting Group; treasurer for The Squad Victory Fund and other progressive PACs), but that person's overwhelmingly Democratic federal profile directly contradicts this donor's 0.986 Republican FEC lean and his giving to a conservative candidate — a near-certain wrong-person match, so no affiliation is asserted. FEC PAC, TX Ethics lobbyist, and bio searches all run; no correctly-corroborated PAC or lobbyist tie for the actual donor at this zip. Identity not confirmed on zip/occupation, so industry null.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

@@ -1,0 +1,233 @@
+[
+ {
+  "donor_id": "0e30681d-503b-488d-85af-89dbc7375c7d",
+  "name": "Macaulay, Donald",
+  "resolved_employer": "Retired (former career not identifiable)",
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Public records confirm Donald Macaulay, retired, at 5903 Lost Creek St, San Antonio TX 78247 (DOB Mar 1933, age ~93). Identity confirmed on address/zip; no former occupation or industry identifiable.",
+  "source_url": "https://nationalpublicdata.com/people/m/donald-macaulay/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fd3f3070-09b0-4902-a602-55a6ca550773",
+  "name": "Bishop, Robert",
+  "resolved_employer": "Self-employed forensic investigator / freelance reporter (retired), per campaign filing",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Campaign filing lists a retired, self-employed forensic investigator / freelance reporter at 15310 Fall Place Dr, San Antonio 78247. 'Robert/Bob Bishop' is a very common name; could not independently corroborate this specific individual online on zip+occupation, so identity/industry held at low confidence. No PAC or lobbyist records tied to him.",
+  "source_url": "https://www.spokeo.com/Bob-Bishop/Texas/San-Antonio-Metro",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f8a7fbb5-1d94-4d58-b0e3-705ddb406ac1",
+  "name": "Gedala, Murthy",
+  "resolved_employer": "Murthy Gedala PLLC — physician, Internal Medicine / Nephrology, San Antonio",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Dr. Murthy V. Gedala, MD (NPI 1225134943), board-certified in Internal Medicine and Nephrology, solo practice (Murthy Gedala PLLC / gedala.com), affiliated with Methodist and Baptist hospitals in San Antonio. Practice office in 78229; residence/donor address 12951 Huebner Rd 78249. Matches occupation and employer exactly.",
+  "source_url": "https://providers.uthscsa.edu/providers/murthy-v-gedala-1225134943/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f6686a87-8207-49c8-9312-eb3f9227d8bf",
+  "name": "Gostylo, Daniel",
+  "resolved_employer": "Partner, Partners Real Estate (commercial brokerage), San Antonio",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Dan Gostylo is a Partner in Partners Real Estate's San Antonio office, 36+ years in commercial real estate (industrial), previously co-founder/shareholder of Providence Commercial Real Estate Services. Confirmed via firm bio; matches occupation (commercial broker) and employer.",
+  "source_url": "https://partnersrealestate.com/our-people/dan-gostylo/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Economic Development Foundation", "role": "Member", "category": "business", "source_url": "https://partnersrealestate.com/our-people/dan-gostylo/", "snippet": "Firm bio lists him as a member of the San Antonio Economic Development Foundation."},
+   {"org": "Real Estate Council of San Antonio", "role": "Member", "category": "business", "source_url": "https://partnersrealestate.com/our-people/dan-gostylo/", "snippet": "Firm bio lists him as a member of the Real Estate Council of San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "f65acbd9-e5d4-4d01-9a11-db8fa459bb70",
+  "name": "DeBerry, Honorable Patricia",
+  "resolved_employer": "The DeBerry Group (President/founder); public affairs & PR firm. Also CEO of Centro San Antonio; former Bexar County Commissioner Precinct 3",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Patricia 'Trish' DeBerry, founder/President of The DeBerry Group PR firm and former Bexar County Commissioner Precinct 3 (the 'Honorable' title reflects that elected office, not a judgeship); zip 78209 matches her San Antonio base. Former TV journalist (KENS), 2022 Bexar County Judge candidate, now CEO of Centro San Antonio.",
+  "source_url": "https://sanantonioreport.org/profile/trish-deberry/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Bexar County Commissioners Court, Precinct 3", "role": "Former Commissioner (elected 2020, resigned 2021 to run for County Judge)", "category": "political", "source_url": "https://www.tpr.org/san-antonio/2021-12-13/commissioner-trish-deberry-files-papers-to-run-for-bexar-county-judge", "snippet": "Commissioner Trish DeBerry files papers to run for Bexar County Judge; resigned Precinct 3 seat as required by Texas law."},
+   {"org": "Centro San Antonio", "role": "Chief Executive Officer", "category": "civic", "source_url": "https://www.zoominfo.com/p/Patricia-Deberry/1984929904", "snippet": "Patricia DeBerry listed as CEO at Centro San Antonio, downtown-focused nonprofit."}
+  ]
+ },
+ {
+  "donor_id": "f4416be2-7252-4d8e-8c3c-a8f2c52f84d4",
+  "name": "Rosenthal, Bobby",
+  "resolved_employer": "Rosenthal Pauerstein Sandoloski Agather LLP (RPSA Law) — Partner, real estate/banking/public finance attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Robert Alan 'Bobby' Rosenthal, Partner at RPSA Law, chairs the firm's Financing Transactions and Real Estate practice groups; practicing real estate/finance law since 1985. Zip 78209 residence matches; occupation 'Attorney' and employer 'RPSA' confirmed.",
+  "source_url": "https://rpsalaw.com/professionals/rosenthal-robert-a-bobby/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e83035d8-1995-431f-8d7c-682460e2e5f5",
+  "name": "Gibson, Gregory",
+  "resolved_employer": "Endura Advisory Group — Development Partner, commercial real estate",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Greg Gibson, Development Partner at Endura Advisory Group (commercial real estate brokerage/CORFAC International), San Antonio; LinkedIn and LoopNet confirm title. Occupation and employer match; Shavano Park 78231 address consistent with San Antonio CRE professional.",
+  "source_url": "https://www.linkedin.com/in/greg-gibson-7500a7b/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e094ceeb-9d4b-4f99-8ef6-5759f91fdd7c",
+  "name": "Holland, M. Justin",
+  "resolved_employer": "Partner & Business Development, Spire Risk Management (insurance / employee-benefits brokerage), San Antonio",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Justin Holland founded Texas State Financial & Health (2013), merged it into San Antonio's Spire Risk Management in Aug 2020 as a partner; Spire is a full-service insurance consulting firm (employee benefits, property/casualty, retirement). Spire has since been acquired by Alera Group. Matches occupation (Partner & Business Development) and employer. Note: distinct from the Texas House member Justin Holland of Heath/Rockwall.",
+  "source_url": "http://www.spirerm.com/san-antonios-spire-risk-management-acquires-employee-benefit-services/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e029dad8-5880-428f-950e-02ffab432fd6",
+  "name": "Carr, Jacob",
+  "resolved_employer": "Dogwood Commercial (San Antonio commercial real estate firm), Vice President",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Jacob 'Jake' Carr, VP at Dogwood Commercial handling office/retail leasing and acquisitions in San Antonio; TCU grad, member of Texas Cavaliers; 78209 residence consistent with 406 Tophill Rd. The dataset's 237-donation/lean-0.98 FEC record could not be independently tied to this specific Jacob Carr, and its partisan direction/committees could not be verified, so no political affiliation is asserted.",
+  "source_url": "https://dogwoodcommercial.com/team/jake-carr/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Cavaliers / Texas Cavalier Charitable Foundation", "role": "Member", "category": "civic", "source_url": "https://dogwoodcommercial.com/team/jake-carr/", "snippet": "Active community member and proud participant in the Texas Cavaliers and Texas Cavalier Charitable Foundation."}
+  ]
+ },
+ {
+  "donor_id": "dfac2a16-1583-4518-a86c-78992e9c9820",
+  "name": "Prater, Grant",
+  "resolved_employer": "HP Safety (family-owned industrial safety company in La Vernia, TX offering safety commodities, equipment rentals, training, and consulting), Managing Partner",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "HP Safety confirmed as a family-owned, faith-based industrial-safety services/consulting firm in La Vernia (78121), matching donor record; 'Managing Partner' role is from the donor's self-reported employer field (company site lists no individual names). Several unrelated Grant Praters exist in the region.",
+  "source_url": "https://hpsafetyco.com/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d9fe9516-11d4-4ea0-ae8c-b02853cb7770",
+  "name": "Broussard, Bret",
+  "resolved_employer": "Broussard Group (second-generation, family-owned contract office furniture / corporate interiors dealership serving corporate and government clients in San Antonio and South Texas), Founder/CEO-Owner",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Bret E. Broussard Sr., Founder/CEO and owner of Broussard Group, an office-furniture/corporate-interiors dealership (business on SA's East Side HUBzone); residential 78209 (1008 Garraty Rd) and 'Owner, Broussard Group' match the donor record.",
+  "source_url": "https://www.broussardgroup.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d8057979-912d-4983-a5b9-674a22d9187a",
+  "name": "Kridel, Cheryl",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retired; resides at 836 River Forest Dr, New Braunfels 78132, which public records also list as the address of attorney Christopher Brent Kridel (State Bar of Texas). Her own former career is not identifiable in public records; no relationship asserted beyond shared address.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=%2FCustomsource%2FMemberDirectory%2FMemberDirectoryDetail.cfm&ContactID=293336",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d67e284c-03ea-4364-83e9-cd1c2045fed7",
+  "name": "Mungia, Manuel",
+  "resolved_employer": "Norton Rose Fulbright US LLP — Partner, insurance coverage/professional liability litigation",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Manuel Mungia, litigation Partner at Norton Rose Fulbright's San Antonio office (insurance coverage, professional liability, commercial disputes). Employer, occupation and 78209 base confirmed. FEC lean 1.0 (2 donations) indicates Democratic-leaning federal giving, but no specific ideological PAC affiliation documented.",
+  "source_url": "https://www.nortonrosefulbright.com/en-us/people/1015853",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Rotary Club of San Antonio", "role": "2024 President", "category": "civic", "source_url": "https://www.nortonrosefulbright.com/en-us/people/1015853", "snippet": "Rotary Club of San Antonio, 2024 President."},
+   {"org": "Big Brothers Big Sisters of South Texas", "role": "Board Member", "category": "civic", "source_url": "https://www.nortonrosefulbright.com/en-us/people/1015853", "snippet": "Board Member, Big Brothers Big Sisters of South Texas."}
+  ]
+ },
+ {
+  "donor_id": "d65bddf8-3707-403c-b5fa-5af5b17311e2",
+  "name": "Moreno, Marcus",
+  "resolved_employer": "Details Communities, Ltd. (San Antonio real estate firm), real estate agent",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Marcus Moreno is a licensed real estate agent affiliated with Details Communities, Ltd. in San Antonio; matches donor record's 'Real Estate' occupation, 'Details' employer, and Terrell Hills 78209 location.",
+  "source_url": "https://www.har.com/marcus-moreno/agent_SMABOR-Details",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d220acc8-ee89-4189-ab1e-96f251d17fbc",
+  "name": "Pittl, Theresa",
+  "resolved_employer": "Adami, Shuffield, Mask PC (Adami Shuffield Scheihing & Burns) — Attorney, civil trial/insurance defense",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Theresa Scioli Pittl, attorney at Adami Shuffield (San Antonio firm; civil trial, insurance defense, personal injury/premises/workers' comp defense) per State Bar/legal directory listings. Occupation and employer match; 78232 San Antonio residence consistent.",
+  "source_url": "http://www.legaldirectories.com/Pittl-Theresa-Scioli-579466-Atty.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c492a5bd-7ff7-4004-b904-d18ce0afb859",
+  "name": "Ellison, Truman",
+  "resolved_employer": "Mesquite Country Enterprises, L.P. (dba Comet Cleaners) — partner/co-owner",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Truman Guy Ellison; donor address 8739 Bandera Rd is the exact location of Comet Cleaners (Mesquite Country Enterprises, L.P.), where public business records list him as a partner alongside owner Rick Molina (donor Molina, Rick in this same batch — tie is from business records, not surname). Note: an aggregator also lists a Truman Guy Ellison as a SwRI research engineer — possibly conflated/parallel data; the business-address match makes the Comet Cleaners partnership the best-supported identity.",
+  "source_url": "https://opengovus.com/texas-taxpayer/18303811741-8",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ac1f4d80-3ab9-4af7-9886-5de92c7827fd",
+  "name": "Molina, Rick",
+  "resolved_employer": "Mesquite Country Enterprises, L.P. (dba Comet Cleaners) — owner",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Ricardo A. Molina, 132 Miller Springs, Boerne 78006 (property records confirm resident). LinkedIn lists him as Owner of Mesquite Country Enterprises (Comet Cleaners, San Antonio), the same firm where donor Ellison, Truman is a partner. Strongly partisan Republican-leaning federal donor (197 FEC gifts, lean 0.956) per dataset, but no specific ideological PAC identified in public records to cite; no TEC lobbyist registration.",
+  "source_url": "https://www.linkedin.com/in/rick-molina-11319510/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a9e60fa4-4d2b-43c7-905a-26deffb14064",
+  "name": "Bagby, Tom",
+  "resolved_employer": "Bagby Injury Law / The Tom Bagby Law Firm, PLLC — personal injury attorney",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "James Thomas 'Tom' Bagby III, personal injury attorney; 7045 Campus Dr, Colorado Springs is his firm's office. Member of TX, CO, LA, MT bars; firm has a San Antonio office (2632 Broadway St Ste 401), which explains the out-of-state gift to a SA council race. No FEC PAC or lobbyist records found.",
+  "source_url": "https://bagbyinjurylaw.com/locations/san-antonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a97c9426-45bb-4cfb-aae0-00cb0cfd2c1f",
+  "name": "Cortez, Cruz",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor lives at 18215 Lemans Ave (The Vineyard, a gated 78258 community). Could not confirm this living individual's occupation. The well-known Cruz Cortez (Mi Tierra / La Familia Cortez co-founder matriarch) died in 2019 at age 98, so the donor is a different person, possibly a namesake/descendant, but no occupation or specific identity could be corroborated. No FEC PAC or lobbyist records found.",
+  "source_url": "https://www.ksat.com/news/cruz-cortez-matriarch-of-cortez-family-and-mi-tierra-co-founder-dies-at-98",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a12ba8bd-a39b-4f0c-ad5b-b2e873433701",
+  "name": "Aboloff, Shelley",
+  "resolved_employer": "First Continental Mortgage, Ltd. — Closing Manager",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Shelley Aboloff, Closing Manager at First Continental Mortgage (Houston HQ; email @fcmchou.com), degree in Marketing from UT Austin. Employer is a mortgage lender (loan closings), not a title company. Address 906 Sprucewood Ln, Houston 77024 matches. No FEC PAC or TEC lobbyist records found.",
+  "source_url": "https://www.zoominfo.com/p/Shelley-Aboloff/1753244089",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

@@ -1,0 +1,241 @@
+[
+ {
+  "donor_id": "99adbda9-e153-4d70-926e-a3e5d4464dc3",
+  "name": "Millsap, Sam",
+  "resolved_employer": "Retired (former Bexar County District Attorney; later private civil-practice attorney)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Name + San Antonio + 'Retired' consistent with Sam Millsap, former Bexar County DA (elected 1982) turned death-penalty-abolition advocate; now retired attorney. Could not corroborate the exact 78258/Reata Cove address to the public figure, so identity is probable not certain. FEC/OpenSecrets PAC search: no itemized ideological-PAC contributions surfaced (donor's FEC count is 0). TX lobbyist registry: no match. Bio full read: DPIC and multiple archives document his DA tenure and anti-death-penalty advocacy.",
+  "source_url": "https://deathpenaltyinfo.org/node/1589",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Death penalty abolition movement (Texas Coalition to Abolish the Death Penalty and national groups)", "role": "Advocate / featured speaker", "category": "civic", "source_url": "https://deathpenaltyinfo.org/node/1589", "snippet": "NEW VOICES: Former Texas DA Millsap Now Opposes Death Penalty"},
+   {"org": "Bexar County District Attorney's Office", "role": "Former elected District Attorney (1980s)", "category": "political", "source_url": "https://washingtonmonthly.com/2005/11/21/an-innocent-man/", "snippet": "Sam Millsap, the former Bexar County district attorney who prosecuted the Ruben Cantu case."}
+  ]
+ },
+ {
+  "donor_id": "9907887b-0466-476c-bdb6-98a80d2bc671",
+  "name": "Rouse, Patrick",
+  "resolved_employer": "Langley & Banack, Inc.",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "J. Patrick Rouse is a shareholder in the Real Estate and Corporate Law sections of Langley & Banack's San Antonio office (~15 yrs), Best Lawyers in America (Real Estate) since 2021, and named to Leadership San Antonio Class 40; matches employer string and 78209. FEC/OpenSecrets PAC search: no itemized ideological-PAC contributions found (FEC count 0). TX lobbyist registry: no match. Bio full read of firm profile confirms real-estate/corporate/banking practice; no ideological board seats disclosed.",
+  "source_url": "https://www.langleybanack.com/meet-j-patrick-rouse-a-shareholder-in-langley-banacks-san-antonio-office-creb/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "96aa4488-ff3d-4d8d-a2fb-5e5b5c350e3a",
+  "name": "Andrade, The Honorable Esperanza Hope",
+  "resolved_employer": "Andrade-Van de Putte & Associates",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Esperanza 'Hope' Andrade, Republican San Antonio businesswoman, 107th Texas Secretary of State (2008-2012, appointed by Gov. Rick Perry), former Transportation Commissioner and Workforce Commissioner; co-founder of consulting firm Andrade-Van de Putte & Associates and Go Rio San Antonio; named President/CEO of the Alamo Trust (Oct 2025). Matches employer string and downtown 78205 business address. FEC/OpenSecrets PAC search: prominent Republican donor/official but no specific ideological-PAC line items retrieved (FEC count 0 for this record). TX lobbyist registry: no active registration surfaced. Bio full read (Wikipedia/Ballotpedia/Alamo) confirms the above.",
+  "source_url": "https://en.wikipedia.org/wiki/Esperanza_Andrade",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Secretary of State / Republican Party of Texas", "role": "107th Secretary of State, appointed by Republican Gov. Rick Perry", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Esperanza_Andrade", "snippet": "Esperanza 'Hope' Andrade is a Republican businesswoman... appointed by Governor Rick Perry."},
+   {"org": "Alamo Trust, Inc.", "role": "President and CEO (appointed Oct 24, 2025)", "category": "civic", "source_url": "https://www.thealamo.org/alamo-trust/governance/hope-andrade", "snippet": "Hope Andrade — Alamo Trust governance."}
+  ]
+ },
+ {
+  "donor_id": "904e81eb-d400-41b0-ab32-f27af8851d42",
+  "name": "Buescher, David",
+  "resolved_employer": "Lennar Mortgage (Lennar Corporation homebuilding/mortgage division)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "David Buescher's LinkedIn and Lennar posts confirm a VP-level role with Lennar Mortgage (mortgage-lending arm of homebuilder Lennar), consistent with employer string and Corpus Christi 78412; Lennar builds actively in the Corpus Christi/Portland market. FEC count 21 indicates a recurring federal donor, but no ideological/PAC (AIPAC, oil&gas, firearms, etc.) recipients could be confirmed via public aggregators. TX lobbyist registry: no match. Bio full read: only LinkedIn/company posts available, no board seats or advocacy roles documented.",
+  "source_url": "https://www.linkedin.com/in/david-buescher-22745b9/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "81c22515-f0b4-4101-8245-823812c4ad70",
+  "name": "Donop Jr, Perry",
+  "resolved_employer": "Self-employed (real estate developer); business address 7744 Broadway, San Antonio",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Perry T. Donop Jr. is publicly listed at 7744 Broadway, San Antonio 78209, matching the donor record; occupation 'Developer/self' consistent. The Donop family is a longtime San Antonio real-estate/ranching family (relative Perry T. Donop III is a Realtor/petroleum landman). FEC count 19 shows a recurring federal donor, but no ideological/PAC (oil&gas, firearms, pro-Israel, etc.) recipients could be confirmed in public aggregators. TX lobbyist registry: no match for 'Donop' across 2018-2026 lists. Bio full read: no personal About/firm bio page located beyond directory listings.",
+  "source_url": "https://www.yellowpages.com/san-antonio-tx/mip/donop-perry-t-jr-5927323",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "77188958-7a49-432d-8ed6-a9eae14e2293",
+  "name": "A BARROS, MARCO",
+  "resolved_employer": "Marco Barros Management (owner/president)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Marco A. Barros, the well-known San Antonio tourism figure ('Mr. Tourism'/'Mr. Downtown'), former President/CEO of the San Antonio Area Tourism Council (1997-2020, later San Antonio Visitor Alliance). Now runs Marco Barros Management, a hospitality/tourism business-consulting firm at 14108 Sage Bluff, 78216 - matches donor address (14018 Sage Blf, 78216) and 'President' occupation. FEC search: donor record shows 0 FEC donations, consistent with a local-only civic giver. TX Ethics lobbyist search: no state lobbyist registration surfaced under his name. Bio read: profiles confirm tourism-council CEO career, SA Airport Advisory Commission service, and honorary commander role with the 149th Fighter Wing.",
+  "source_url": "https://sanantonioreport.org/with-retirement-near-tourism-leader-marco-barros-looks-to-the-future/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "San Antonio Area Tourism Council / San Antonio Visitor Alliance", "role": "President & CEO (1997-2020, retired)", "category": "business", "source_url": "https://sanantonioreport.org/with-retirement-near-tourism-leader-marco-barros-looks-to-the-future/", "snippet": "tourism leader Marco Barros... retired from his role as president and CEO of the San Antonio Area Tourism Council"}
+  ]
+ },
+ {
+  "donor_id": "6a14d9b0-121a-43b7-a30c-5c22629b4cd1",
+  "name": "Mitts, Glen",
+  "resolved_employer": "USAA RealCo (retired 2016)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Glen Edward 'Sam' Mitts (b. Dec 11, 1957; d. May 14, 2025, San Antonio) joined USAA in 1987, led development of the La Cantera resort and Shops at La Cantera Mall, and retired from USAA RealCo in spring 2016 - a retired real-estate developer, matching the donor's 'Retired' occupation and 78209 residence. Death in 2025 fits the 2023-2025 giving span. FEC search: 33 lifetime FEC donations recorded, but no ideological/AIPAC/oil-gas/gun/defense PAC pattern is documented in accessible sources (FEC.gov JS app and OpenSecrets not retrievable). TX Ethics lobbyist search: no registration found. Bio/obituary read: career entirely in accounting then USAA real-estate development; no political/religious affiliations documented.",
+  "source_url": "https://www.legacy.com/us/obituaries/sanantonio/name/glen-mitts-obituary?id=58412871",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5f88589f-0f30-4f6c-a8e2-91a6a3f4ac07",
+  "name": "Wymer, Matthew",
+  "resolved_employer": "Wymer & Tom, PC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Matthew F. Wymer is a partner at Wymer & Tom, PC in San Antonio (22+ years litigation; St. Mary's JD; St. Edward's BA), AV Preeminent rated, and a U.S. Army veteran - matches donor occupation 'Attorney' and employer 'Wymer & Tom, PC' at 78209. FEC search: no notable ideological/issue-PAC contribution pattern documented. TX Ethics lobbyist search: no lobbyist registration found. Bio read: firm/Super Lawyers profiles confirm commercial-litigation/appellate practice and military-veteran status; no documented board seats or political-org leadership.",
+  "source_url": "https://wymertom.com/team/matthew-wymer",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5b7c2862-ad44-4f26-8e74-e66fef77e6b8",
+  "name": "Stryker, Cathleen",
+  "resolved_employer": "Cathleen M. Stryker (self; ADR / mediation-arbitration practice)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Cathleen 'Cathy' M. Stryker, San Antonio attorney (Cornell BA 1989; Villanova JD 1993), served as elected judge of Bexar County's 224th (Civil) District Court 2010-2022 and now runs a self-employed mediation/arbitration/private-judging practice - matches donor 'Attorney/Self' at 78230. She ran and served as a Republican judge (defeated Nov 2022 in the Democratic sweep), a documented political affiliation consistent with support for conservative-leaning Councilman Whyte. FEC search: no ideological/issue-PAC contribution pattern documented. TX Ethics lobbyist search: no registration found. Bio read: ABOTA member, Supreme Court Advisory Committee, SA Bar Family Law Section; no issue-advocacy board roles.",
+  "source_url": "https://ballotpedia.org/Cathy_Stryker",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Republican Party (Bexar County judiciary)", "role": "Republican elected judge, 224th District Court (2010-2022)", "category": "political", "source_url": "https://sanantonioreport.org/bexar-county-republican-judges-defeated-2022/", "snippet": "Democrats sweep Bexar County District Court seats... Stryker had held the seat since 2010"}
+  ]
+ },
+ {
+  "donor_id": "50b1b9a8-3af1-47a7-8c16-9cbb899335cb",
+  "name": "Guerra, Raul",
+  "resolved_employer": "Law Office of R. Javier Guerra (Raul Javier Guerra)",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Best match is Raul Javier Guerra, solo San Antonio attorney (Law Office of R. Javier Guerra; Baylor JD 1994; UT-Austin BS Pharmacy 1990; TX Bar #00789327), practicing litigation/business/health/administrative law with offices at 111 W Olmos Dr 78212 and 750 Rittiman Rd 78209 - consistent with donor employer 'Law Office of Raul Guerra' and 78209. Confidence medium: several distinct 'Raul Guerra' attorneys exist in San Antonio (incl. Raul E. Guerra, disbarred 1995; Raul F. Guerra, immigration) and I could not tie the 7419 Quail Run residence to a specific one. FEC search: donor shows 155 lifetime FEC donations, but the underlying committee/PAC breakdown was not retrievable (FEC.gov is a JS app; OpenSecrets returned 403 and the FEC API was rate-limited), so no ideological (AIPAC/J Street), oil-gas, gun, or defense PAC pattern could be confirmed or ruled out. TX Ethics lobbyist search: no registration found. Bio read: documented memberships are professional bar groups (SA Bar, Mexican American Bar Assn, American Society for Pharmacy Law, DRI) - not policy-advocacy affiliations.",
+  "source_url": "https://www.avvo.com/attorneys/78212-tx-raul-guerra-54703.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ef397d5-a74e-49b7-9432-a9853da02e5e",
+  "name": "Garza, Amanda",
+  "resolved_employer": "Levi Rodgers Real Estate Group (LRG Realty)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Real estate agent in San Antonio, TX matching donor's occupation and employer string ('Levi Rogers' = Levi Rodgers Real Estate Group, ~300-agent SA brokerage). Listed as a SA real estate agent on Zillow/Texas REALTORS/American Home Agents; common name so identity is probable not certain. FEC/OpenSecrets: no notable PAC-contribution profile surfaced (OpenSecrets blocked, no results in search). TX lobbyist registry: no hit in 2024/2025 lists. Bio read: only generic agent listings exist, no board/leadership roles documented.",
+  "source_url": "https://www.zillow.com/profile/amanda%20garza1",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ed7e565-15a9-47d3-b823-7d3ead512018",
+  "name": "Campaign, Stephani Walsh",
+  "resolved_employer": "Stephani A. Walsh, PC / Walsh Mediation",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Name is a data artifact; donor is Stephani A. Walsh, board-certified family-law attorney and full-time mediator at 411 S. Presa, San Antonio 78205 (exact address match). Former judge of Bexar County's 45th District Court (2015-2018), 1985 St. Mary's law grad, board certified in Family Law since 1996. FEC/OpenSecrets: no notable PAC-contribution profile surfaced. TX lobbyist registry: no hit in 2024/2025 lists. Bio read: Martindale/Avvo/mediator profiles document legal career; no ideological board seats or advocacy roles found.",
+  "source_url": "https://mediatormasterlist.com/profiles/stephanie-walsh",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4c6073cf-1491-46b4-91e9-30be7b5ce03d",
+  "name": "Karl, Chris",
+  "resolved_employer": "Valdez & Trevino Attorneys at Law, PC",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Christopher Michael Karl, trial lawyer at Valdez & Trevino (San Antonio), practicing complex tort/commercial and catastrophic-injury cases; UT-Austin BA (English), St. Mary's JD, former Bexar County DA prosecutor and appellate briefing attorney. Firm/occupation match donor record. FEC/OpenSecrets: no notable PAC-contribution profile surfaced. TX lobbyist registry: no hit in 2024/2025 lists. Full firm-bio read: memberships limited to SA Young Lawyers Assn, SA Bar Assn, Phi Delta Phi; no board seats or political/religious/ideological affiliations documented.",
+  "source_url": "https://valdeztrevino.com/christopher-karl/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "43038e26-27b0-4f68-bd79-9b3b6a7ea7bc",
+  "name": "Edwards, Morgan",
+  "resolved_employer": "Voya Financial Advisors (2014-2022); later Kestra, now Cambridge Investment Research",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Morgan Edwards, San Antonio financial advisor (CRD 2439200) whose documented career includes Voya Financial Advisors 2014-2022 - matching donor's 'VOYA' employer string and San Antonio location. Now at Cambridge Investment Research. FEC/OpenSecrets: no notable PAC-contribution profile surfaced. TX lobbyist registry: no hit in 2024/2025 lists. Bio read: advisor-directory profiles only (Indyfin, US News, Wealthminder); no board seats, civic leadership, or ideological affiliations documented.",
+  "source_url": "https://indyfin.com/financial-advisor/texas/san-antonio/morgan-edwards-2439200/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "42258f18-7942-4540-b5df-bd6501bcb99e",
+  "name": "Navarro, David",
+  "resolved_employer": "Hornberger Fuller & Garza (HFGC / hfgtx.com)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "David W. 'Dave' Navarro, director/shareholder at Hornberger Fuller & Garza Inc., 7373 Broadway Ste 300, San Antonio 78209 (exact firm/address match; 'HFGC' = Hornberger Fuller Garza & Cohen). St. Mary's JD cum laude 2000, practices oil & gas, water, business litigation. FEC/OpenSecrets: no notable PAC-contribution profile surfaced. TX lobbyist registry: no hit in 2024/2025 lists. Full firm-bio read documented multiple civic board/leadership roles (below) plus State Bar Oil & Gas Law Section membership and 2018 SA Bar Foundation Fellow. His oil-&-gas legal practice is a professional specialty, not a documented industry-executive/ownership affiliation, so it is not recorded as an oil_gas affiliation.",
+  "source_url": "https://www.hfgtx.com/our-attorneys/david-w-navarro/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas Wildlife Association", "role": "Director (2010-2013)", "category": "civic", "source_url": "https://www.hfgtx.com/our-attorneys/david-w-navarro/", "snippet": "Texas Wildlife Association, Director (2010-2013)"},
+   {"org": "Children's Bereavement Center of South Texas", "role": "Director (2010-2014)", "category": "civic", "source_url": "https://www.hfgtx.com/our-attorneys/david-w-navarro/", "snippet": "Children's Bereavement Center of South Texas, Director (2010-2014)"},
+   {"org": "San Antonio Bar Foundation", "role": "Fellow (2018 class)", "category": "business", "source_url": "https://www.hfgtx.com/navarro-elected-san-antonio-bar-foundation-fellow/", "snippet": "the San Antonio Bar Foundation elected David Navarro to the Fellow Class of 2018"}
+  ]
+ },
+ {
+  "donor_id": "3eabc258-82bb-45ed-a800-f9f66f1909c0",
+  "name": "Goudge, James",
+  "resolved_employer": "Broadway Bank (retired Chairman/CEO)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "James D. 'Jim' Goudge, retired Chairman & CEO of Broadway Bank (San Antonio); address 200 Claiborne Way, 78209 is publicly documented to him and he was inducted into the Texas Bankers Hall of Fame in 2023 - matches donor's 78209/retired. FEC/OpenSecrets: 242-record history reads Republican/business (e.g., $500 to Shelley Moore Capito 2012); no AIPAC/J Street/oil-gas/gun/defense ideological PAC surfaced. TX lobbyist registry: no registration found. Full bio read: career banker, Broadway Bank EVP 1989, Chairman 2001-2019, also joined Federal Home Loan Bank of Dallas board (2014). Note: a same-name San Antonio obituary (Luby's manager, d.2017) is a DIFFERENT person.",
+  "source_url": "https://sanantonioreport.org/community-banks-celebrate-their-history-look-to-the-future/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Broadway Bank", "role": "former Chairman & CEO (retired)", "category": "business", "source_url": "https://broadway.bank/About-Us/Broadway-Bank/Blog/broadway-bank-announces-succession-of-board-leadership", "snippet": "Broadway Bank ... expressed sincere gratitude to outgoing Chairman James D. Goudge"},
+   {"org": "Federal Home Loan Bank of Dallas", "role": "board member (2014)", "category": "business", "source_url": "https://www.globenewswire.com/de/news-release/2014/5/30/640724/10083906/en/Photo-Release-San-Antonio-Banker-Joins-Federal-Home-Loan-Bank-of-Dallas-Board.html", "snippet": "San Antonio Banker Joins Federal Home Loan Bank of Dallas Board"}
+  ]
+ },
+ {
+  "donor_id": "39c63f9d-da5b-436f-a1ff-8a78b64cfb00",
+  "name": "Wolff, Mathew",
+  "resolved_employer": "Galaxy Productions LLC",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Matthew Wolff, Production Manager at Galaxy Productions LLC (San Antonio event-production company), UIW Music Industry Studies grad; LinkedIn + Dun & Bradstreet confirm employer + city + event-production role, matching donor's 'Event Producer / Galaxy Productions LLC' in 78217. FEC/OpenSecrets: 0 FEC donations, no PAC activity found. TX lobbyist registry: no registration. Full LinkedIn/bio read: event/production management (Alamodome boxing events, Matchroom/DAZN). No documented tie to the well-known San Antonio Wolff political family - none found; do not infer.",
+  "source_url": "https://www.linkedin.com/in/matthew-wolff-811558b9/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "31eb2c74-4f73-4321-9acb-63dec8145239",
+  "name": "Rackley, James",
+  "resolved_employer": "Watts Guerra LLP / Guerra LLP",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "James Caleb 'Caleb' Rackley (legal first name James), appellate/litigation partner who joined Watts Guerra LLP in 2019 (now Guerra LLP); firm bio states he resides at 'Big Elm Ranch,' consistent with donor's rural ranch address in Marion, TX 78124. FEC/OpenSecrets: 14-record history, no ideological/AIPAC/oil-gas/gun PAC surfaced. TX lobbyist registry: no registration found. Full firm bio read: St. Mary's Law (Editor-in-Chief), briefing attorney for TX Supreme Court Justice Paul Green, President of Defense Counsel of San Antonio 2010-2012, SA Bar Construction Law Section board 2009-2013.",
+  "source_url": "https://guerrallp.com/our-team/j-caleb-rackley",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Defense Counsel of San Antonio", "role": "President (2010-2012)", "category": "civic", "source_url": "https://guerrallp.com/our-team/j-caleb-rackley", "snippet": "President of Defense Counsel of San Antonio (2010-2012)"}
+  ]
+ },
+ {
+  "donor_id": "30400a83-8b49-451d-9661-92f3686e2212",
+  "name": "Lujan IV, John",
+  "resolved_employer": "GAF (roofing manufacturer) - unconfirmed for this individual",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm the specific 'John Lujan IV.' Multiple John Lujans in San Antonio; a John Lujan on LinkedIn is tied to GAF but as an EHS Manager, not a software engineer, so identity is unverified. GAF = North America's largest roofing manufacturer with SA-area operations. FEC/OpenSecrets: 0 FEC donations. TX lobbyist registry: no registration. Full bio read: no bio confirmable for this exact person. No documented tie to TX state Rep. John Lujan (Whyte does list Rep. Lujan as an endorser, but that is a separate person and no family link is corroborated) - do not infer.",
+  "source_url": "https://en.wikipedia.org/wiki/GAF_Materials_Corporation",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2c388d2b-52be-4f46-a4be-875df6b72efd",
+  "name": "Gonzales, Roland",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported 'Un-employed' in 78229. Could not identify the specific individual - 'Roland Gonzales' is common in San Antonio (attorneys, realtors, tradesmen, an obituary) and none corroborate to 7500 Callahan Rd Apt 343. FEC/OpenSecrets: donor record shows 119 FEC donations (small-dollar pattern) but no ideological/AIPAC/oil-gas/gun PAC could be attributed to this specific person. TX lobbyist registry: no registration. Full bio read: no public profile confirmable. Industry reflects self-reported unemployment only; identity unconfirmed.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

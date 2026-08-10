@@ -1,0 +1,239 @@
+[
+ {
+  "donor_id": "61bd88b1-1a38-468a-bd2f-a7ccc3a10f23",
+  "name": "Straus, Joseph",
+  "resolved_employer": "Former Speaker of the Texas House of Representatives; family owns Retama Park (Retama Properties Ltd, 1 Retama Pkwy, Selma) (retired politician)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Former TX House Speaker Joe Straus III (R-San Antonio, HD-121, 2005-2019). The 'Politician'+'Chairman' occupation with 'Retama Properties Ltd' at 1 Retama Pkwy, Selma uniquely fits the Straus family, who founded/own Retama Park racetrack (father Joe Straus Jr. was its chairman/CEO). Whyte ran for Straus's old HD-121 seat in 2018.",
+  "source_url": "https://en.wikipedia.org/wiki/Joe_Straus",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Texas House of Representatives", "role": "Former Speaker (Republican), 2009-2019", "category": "political", "source_url": "https://en.wikipedia.org/wiki/Joe_Straus", "snippet": "Republican who served as Speaker of the Texas House 2009-2019, representing northeastern Bexar County (HD-121); prominent business-establishment Republican."},
+   {"org": "Retama Park / Retama Properties Ltd", "role": "Family owner of pari-mutuel racetrack (chairman/retired)", "category": "business", "source_url": "https://texasscorecard.com/features/gambling-horses-texas-straus-family-business/", "snippet": "The Straus family co-founded and owns Retama Park in Selma; Joe Straus Jr. was chairman/CEO of the racetrack, a signature family business."}
+  ]
+ },
+ {
+  "donor_id": "611ae8e5-2092-476a-a502-c93f31a11f2b",
+  "name": "Flores III, Art",
+  "resolved_employer": "Co-owner / Vice President, Artcom Associates Inc (commercial AV & telecom systems)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Art Flores III is co-owner/VP of Artcom Associates Inc, a family-owned commercial AV and business telephone/technology-solutions firm at 7810 Fortune Dr, San Antonio (exact address match); he and sister Lori bought the company from their parents in 2008.",
+  "source_url": "https://www.linkedin.com/in/floresart/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "607b752a-a939-4849-b785-eb9c72f24068",
+  "name": "Vexler, Jefferson",
+  "resolved_employer": "Operations / VP-Customer & Community Relations, Toucan Recycling (Monterrey Metal Recycling Solutions), a family-owned scrap-metal recycler",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Jeff Vexler runs Toucan Recycling, the second location of family-owned Monterrey Metal Recycling Solutions, where he is VP-Customer & Community Relations; George Washington University business grad. Non-ferrous scrap recycling operation in San Antonio.",
+  "source_url": "https://monterreymetalrecycling.com/about-us/leadership-team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5e1b4de9-9209-49f6-8c80-f4a0648523a4",
+  "name": "Mazurek, Chance",
+  "resolved_employer": "Attorney, Mazurek, Belden & Burke, P.C. (energy/oil & gas and real estate law)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Thomas Charles 'Chance' Mazurek IV, TX-licensed attorney (bar since 2006) at Mazurek, Belden & Burke, P.C., 1919 N. St. Mary's St (exact address match); firm advises energy and real estate clients.",
+  "source_url": "https://lawyers.justia.com/lawyer/thomas-charles-chance-mazurek-iv-240717",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5dd4b600-f9aa-4317-ab11-8b04934a9d49",
+  "name": "Boone, Patrick",
+  "resolved_employer": "Self-employed attorney (solo practitioner)",
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Listed as a self-employed lawyer at a residential address (366 Regent Cir, 78231). Could NOT be corroborated as the prominent San Antonio attorney/mediator Patrick J. Boone (Boone & Rocheleau, 78247) — different zip, firm, and employer ('Self'). Multiple Patrick Boones exist in the TX bar; specific identity unresolved. Industry classified from self-reported 'Lawyer' occupation only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5ac5a1bf-4165-4bb5-9691-a17da4984a31",
+  "name": "Penn Entertainment Inc.,, Texas PAC",
+  "resolved_employer": "Corporate political action committee of Penn Entertainment Inc. (casino/gaming and sports-betting company), Wyomissing, PA",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Penn Entertainment (formerly Penn National Gaming) is a national casino/gaming and sports-betting operator; its federal PAC is FEC C00423814, and it maintains state PACs including in Texas. This is a corporate/industry PAC, not an individual.",
+  "source_url": "https://www.fec.gov/data/committee/C00423814/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Penn Entertainment Inc.", "role": "Corporate PAC (gaming/casino industry)", "category": "business", "source_url": "https://www.fec.gov/data/committee/C00423814/", "snippet": "Penn Entertainment corporate PAC (FEC C00423814); casino/gaming and sports-betting company making political contributions."},
+   {"org": "Penn Entertainment Texas PAC", "role": "State-level corporate political committee", "category": "political", "source_url": "https://www.fec.gov/data/committee/C00423814/", "snippet": "Texas state PAC of Penn Entertainment contributing to Texas candidates."}
+  ]
+ },
+ {
+  "donor_id": "59f7493f-e8ba-4635-ae6d-a2f60914f293",
+  "name": "Gentis, Amanda",
+  "resolved_employer": "Alamo City Moms (Owner/Director) and Soiree Swag (maker of custom event goods)",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Amanda R. Gentis is corroborated at 12906 Country Ridge, San Antonio TX 78216 (property record with Francois M. Gentis). LinkedIn and Alamo City Moms list her as Owner/Director of Alamo City Moms, a local parenting media/content platform, and maker at her small craft business Soiree Swag.",
+  "source_url": "https://www.linkedin.com/in/amanda-gentis-56651877/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5838224b-bab7-4fa6-a462-f3f1a89c1982",
+  "name": "Furlow, Tom",
+  "resolved_employer": "Attorney/owner, Furlow Law Firm, PLLC (consumer, insurance, real estate litigation)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Thomas M. Furlow, founder/owner of Furlow Law Firm PLLC at 901 NE Loop 410, San Antonio 78209 (address match); St. Mary's Law grad with 25+ yrs in property/insurance litigation. Not a registered TX lobbyist (that 'Furlow' registry hit is Christopher J. Furlow, a different person).",
+  "source_url": "https://www.furlowlawfirm.com/thomasmfurlow",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "56757c5c-5059-414a-9d39-8b3be7079cca",
+  "name": "DeLaHoussaye, Jeremy",
+  "resolved_employer": "PJS of Texas (Professional Janitorial Services) — President of PJS of San Antonio; commercial janitorial/facilities-services company",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Jeremy DeLaHoussaye is President of PJS of San Antonio (PJS of Texas), a locally-owned commercial janitorial/facilities-services firm; prior insurance career (AIG, Lockton, Berkshire Hathaway Specialty). 'PJS' employer string and 'President' occupation match. Classified under commercial facilities services (nearest taxonomy bucket; no dedicated services category).",
+  "source_url": "https://www.linkedin.com/in/jeremy-delahoussaye-604b5840",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "56676e60-97e2-4bb0-a7b3-63de4d527f6c",
+  "name": "Nelson, Anna",
+  "resolved_employer": "Homemaker (not employed)",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Property records for 174 Citadel Circle, Jupiter FL 33458 list Ana and Kirk Nelson (home purchased $1.869M, 2021), corroborating identity at the donor address. Self-reported occupation 'Homemaker.' No public bio, PAC, or lobbyist record found for Anna Nelson herself; a household member's occupation is not attributed to her.",
+  "source_url": "https://blockshopper.com/fl/palm-beach-county/jupiter/property/30424032010000400/174-citadel-circle",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3ab37ad6-669e-4a19-b7a6-0b1cbdd9a702",
+  "name": "South Texas Merchants, Assoc",
+  "resolved_employer": "South Texas Merchants Association (STMA) — trade association / buying cooperative for convenience stores and gas stations, San Antonio",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "STMA (HQ 12054 Starcrest Dr, San Antonio 78247) is a member-run cooperative of ~400 independent c-store and gas-station owners that negotiates supplier deals and engages city/state agencies (TABC, TCEQ, SAPD/SAFD, City of San Antonio) on members' behalf. This is an organization, not an individual.",
+  "source_url": "https://www.mystma.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "South Texas Merchants Association", "role": "Convenience-store/fuel-retail trade association & buying cooperative", "category": "business", "source_url": "https://www.mystma.com/", "snippet": "Member-run cooperative representing ~400 independent gas station and convenience store owners in South Texas; negotiates vendor deals and liaises with city/state agencies."}
+  ]
+ },
+ {
+  "donor_id": "3826b3d1-db58-46b3-bc7f-044103c9313a",
+  "name": "Valdez, Blanca",
+  "resolved_employer": "Prosper Urban (real estate developer) / Auge Cold Storage (executive assistant)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Self-identifies as real estate developer at Prosper Urban and executive assistant at Auge Cold Storage; her listed address 1305 S. Brazos St, 78207 is the address of Auge Cold Storage (a family-owned refrigerated 3PL warehouse in the SA Produce Terminal), corroborating the employer. No independent bio, board seats, or public profile located.",
+  "source_url": "https://augecoldstorage.com/1305-s-brazos-st-san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3793c7e3-21ac-486e-9e4d-fd2d622145c3",
+  "name": "McKee, Sarah",
+  "resolved_employer": "FEDITC LLC (Federal IT Consulting) — reported as COO",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Resides at 405 Eldon Road, Terrell Hills 78209 with Aaron McKee, the documented COO/SVP of FEDITC LLC (Sarah reports the same COO title). FEDITC is a ~500-employee San Antonio cyber/IT/engineering services firm founded 2003 supporting DoD, the Intelligence Community, and federal government. Her exact role (co-executive vs. spouse of the COO) is unconfirmed, but the FEDITC tie is solid.",
+  "source_url": "https://theorg.com/org/federal-it-consulting-feditc/org-chart/aaron-mckee",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "FEDITC LLC (Federal IT Consulting)", "role": "Chief Operating Officer (reported); employer is a DoD/Intelligence-Community IT contractor", "category": "military_defense", "source_url": "https://www.afcea.org/sourcebook/details.jsp?cid=55159811", "snippet": "FEDITC supports the Department of Defense, Intelligence Community, and Federal Government in IT, cyber security, engineering, and logistics; ~500 employees serving military and intelligence clients worldwide."}
+  ]
+ },
+ {
+  "donor_id": "3451c603-b89e-4f5f-b5e7-102892d76835",
+  "name": "Nunez, Ruben",
+  "resolved_employer": "HAM Logistics Group / HAM Brokerage (owner) — San Bernardino, CA refrigerated freight brokerage",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "LinkedIn lists him as Owner of HAM Logistics Group; HAM Brokerage is an active San Bernardino, CA freight brokerage (MC1051441/USDOT 3310416) specializing in refrigerated/temperature-controlled freight with asset-based sister companies. PO Box 390 San Bernardino 92402 matches the brokerage. No political/PAC affiliations found.",
+  "source_url": "https://www.linkedin.com/in/ruben-nu%C3%B1ez-hamlogisticsgroup/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "33dd8cc0-63f7-4f25-8495-cf44505d1e39",
+  "name": "Tomasovic, Kathleen",
+  "resolved_employer": "Retired homemaker",
+  "industry": "Not Employed",
+  "confidence": "medium",
+  "evidence": "Retired homemaker at 100 Alameda Cir, Olmos Park/Monte Vista 78212 — the same residence associated with Dr. Jerry J. Tomasovic, a retired San Antonio pediatric neurologist and Air Force veteran; Kathleen appears to be his household/spouse. No independent career, board seats, or PAC/lobbyist records found for her.",
+  "source_url": "https://www.city-data.com/bexar-county/A/Alameda-Circle-1.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "33cdc8f0-d63a-4cc7-aec7-0986ea0cf9bb",
+  "name": "Bigley, Drake",
+  "resolved_employer": "Excel Benefits, Inc. (independent employee-benefits/insurance agency, San Antonio) — benefits consultant/sales",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Drake Bigley is a benefits consultant at Excel Benefits, a San Antonio independent group-benefits insurance agency; started in insurance in 2016, former athlete. Zip 78216 and 'Sales/Excel Benefits' occupation match.",
+  "source_url": "https://www.linkedin.com/in/drake-bigley-6ba14a125/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2db901b7-9242-4197-a0c7-bcc9117f723a",
+  "name": "ACEC SA, PAC",
+  "resolved_employer": "American Council of Engineering Companies, San Antonio chapter — engineering-industry trade political action committee (90+ member civil/geotech/structural/MEP firms)",
+  "industry": "Engineering",
+  "confidence": "high",
+  "evidence": "ACEC San Antonio is the local chapter of the American Council of Engineering Companies, comprising 90+ engineering firms; its PAC supports candidates favorable to a pro-business/pro-engineering agenda. This is an industry trade PAC, not an individual.",
+  "source_url": "https://www.acec.org/advocacy/political-action-committee/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "American Council of Engineering Companies (San Antonio)", "role": "Industry trade PAC", "category": "business", "source_url": "https://www.acec.org/advocacy/political-action-committee/", "snippet": "ACEC/PAC is the engineering industry's primary tool for political engagement, supporting candidates favorable to a pro-business engineering-industry agenda."},
+   {"org": "ACEC San Antonio", "role": "Political action committee", "category": "political", "source_url": "https://www.facebook.com/acecsatx/", "snippet": "ACEC San Antonio comprises 90+ engineering firms and operates a PAC that contributes to local candidates."}
+  ]
+ },
+ {
+  "donor_id": "2a768d3f-02ef-41f2-a3bf-c60b87e21acb",
+  "name": "Badapura, Ed",
+  "resolved_employer": "South Texas Merchants Association (President); also licensed Realtor (Home Team of America)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Donor 'Ed Badapura' resolves to Ahmed (Ed) Badarpura, President of the South Texas Merchants Association, at the same 12054 Starcrest address as STMA; LinkedIn confirms STMA leadership and a side role as a licensed Realtor at Home Team of America. Same organization as donor 3ab37ad6 (STMA).",
+  "source_url": "https://www.linkedin.com/in/ahmed-ed-badarpura-48877226/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "South Texas Merchants Association", "role": "President", "category": "business", "source_url": "https://www.linkedin.com/in/ahmed-ed-badarpura-48877226/", "snippet": "Ahmed (Ed) Badarpura serves as President of the South Texas Merchants Association, a cooperative of independent convenience-store and gas-station owners."}
+  ]
+ },
+ {
+  "donor_id": "28240d57-36dc-489b-9d73-04d5cae7ef05",
+  "name": "Walker, John",
+  "resolved_employer": "Star Shuttle, Inc. / Star Shuttle & Charter (San Antonio family-owned passenger transportation & charter bus company) — President/CEO",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "'John Walker' matches Johnny Walker, President/CEO of Star Shuttle, the Walker-family-owned San Antonio charter/transportation firm (~200 vehicles; K-12, universities, corporate, tours). In May 2024 Star Shuttle took investment from Trivest Partners. Zip 78209 and CEO/Star Shuttle occupation match.",
+  "source_url": "https://www.businesswire.com/news/home/20240530343075/en/Trivest-Announces-Partnership-with-Star-Shuttle",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Star Shuttle, Inc.", "role": "President/CEO (owner-operator, family business)", "category": "business", "source_url": "https://www.businesswire.com/news/home/20240530343075/en/Trivest-Announces-Partnership-with-Star-Shuttle", "snippet": "Star Shuttle is a San Antonio family-owned passenger transportation company led by CEO Johnny Walker; partnered with Trivest Partners in 2024."}
+  ]
+ },
+ {
+  "donor_id": "2252410a-833e-444b-8195-6355c4c6ed60",
+  "name": "Guerra, Alec L.",
+  "resolved_employer": "First American Commercial Property Group (San Antonio commercial real estate brokerage) — commercial real estate agent/broker",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Alec Guerra is a commercial real estate agent at First American Commercial Property Group, San Antonio; a third-generation San Antonio native who previously ran a commercial art business working with the Greater San Antonio Builders Association. Zip 78209 and Broker/First American Commercial occupation match.",
+  "source_url": "https://dirtdealers.com/team-members/alec-guerra/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ }
+]

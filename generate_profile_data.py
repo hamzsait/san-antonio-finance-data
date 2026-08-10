@@ -148,6 +148,16 @@ CANDIDATE_CYCLES = {
          'start_year': None, 'end_year': None,
          'start_date': '2023-07-01', 'end_date': '2025-06-30'},
     ],
+    # Marc Whyte (D10): won the open seat outright May 6, 2023 (57.8%, no
+    # runoff); re-elected outright May 3, 2025 (69.1%). Two-tab 2023 class,
+    # same shape as Gavito and Kaur.
+    'whyte': [
+        {'label': '2023 Run', 'election_year': 2023,
+         'start_year': None, 'end_year': None, 'end_date': '2023-06-30'},
+        {'label': '2025 Re-election', 'election_year': 2025,
+         'start_year': None, 'end_year': None,
+         'start_date': '2023-07-01', 'end_date': '2025-06-30'},
+    ],
 }
 
 # Earliest contribution_year included in a profile (default 2018 = start of
@@ -230,6 +240,7 @@ OFFICE_OVERRIDE = {
     'gavito': 'San Antonio City Council · District 7',
     'gonzalez': 'San Antonio City Council · District 8',
     'spears': 'San Antonio City Council · District 9',
+    'whyte':  'San Antonio City Council · District 10',
     'shaikh': 'San Antonio City Council · 2025 District 8 Candidate',
 }
 
@@ -258,6 +269,7 @@ RECIPIENT_ALIASES = {
     'gavito':         {'Marina Gavito'},
     'gonzalez':       {'Ivalis Gonzalez'},
     'spears':         {'Misty Spears'},
+    'whyte':          {'Marc Whyte'},
     'shaikh':         {'Sakib Shaikh'},
 }
 

@@ -1,0 +1,240 @@
+[
+ {
+  "donor_id": "dd664500-f5e8-4e56-a87d-8c04855d6460",
+  "name": "Huey-Senyszyn, Gaynor",
+  "resolved_employer": "Unknown former career (retired)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Gaynor H. Senyszyn appears in San Antonio public records in the 78248 area, consistent with the donor address; listed occupation 'Retired.' Data-broker records vaguely list clerical/administrative work but no verifiable employer or professional profile exists. FEC: no federal contributions found (donor record 0). TX/COSA lobbyist search: no registration. Bio search: no LinkedIn/professional bio located.",
+  "source_url": "https://nuwber.com/person/563a9d2398f8a849c17ebd18",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dd0a512a-8038-4939-9ccf-9eac38dd6f46",
+  "name": "Dinnin, Rebecca",
+  "resolved_employer": "Executive Director, Social Venture Partners San Antonio (formerly Director of the Alamo / Texas GLO; VP Image & Communications, Greater San Antonio Chamber of Commerce)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Rebecca 'Becky' Bridges Dinnin - donor address 3911 Fossil Crk 78261 matches public records. Documented San Antonio civic leader: Executive Director of Social Venture Partners San Antonio, former Director of the Alamo under the Texas General Land Office (appointed 2015), earlier VP at the Greater San Antonio Chamber of Commerce. FEC: 2 contributions (R-lean 1.0); no AIPAC/J Street/oil-gas/gun PAC contributions surfaced. TX lobbyist registry: no active registration. Bio read confirms nonprofit-leadership and business-civic career.",
+  "source_url": "https://www.svpsa.org/portfolio-item/becky-dinnin-executive-director/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Social Venture Partners San Antonio", "role": "Executive Director", "category": "civic", "source_url": "https://www.svpsa.org/portfolio-item/becky-dinnin-executive-director/", "snippet": "Executive Director of SVP San Antonio, a network of business/community leaders providing capacity-building to 125+ nonprofits."},
+   {"org": "Greater San Antonio Chamber of Commerce", "role": "VP, Image and Communications (former)", "category": "business", "source_url": "https://www.glo.texas.gov/about-glo/press-releases/alamo-2", "snippet": "Worked more than seven years with the Greater San Antonio Chamber of Commerce as VP of Image and Communications before her Alamo appointment."}
+  ]
+ },
+ {
+  "donor_id": "dcaa79af-632c-4fa0-a103-3f258b92ad50",
+  "name": "Johnson, Jerry",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Extremely common name with no occupation or employer on the donor record and 30+ 'Jerry Johnson' entries in San Antonio public directories; could not uniquely resolve the individual at 12940 Country Pkwy 78216. FEC: no confirmable contributions (donor record 0). TX/COSA lobbyist search: no registration matched. Bio search: unable to isolate the correct person. Low confidence; no industry guessed.",
+  "source_url": "https://www.411.com/person-search/Jerry-Johnson/TX/San+Antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dc57e355-c524-4150-855a-ca02a022f936",
+  "name": "Cuellar, Joseph",
+  "resolved_employer": "Attorney, Valdez & Trevino Attorneys at Law, PC (San Antonio)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Joseph E. Cuellar, litigation attorney at Valdez & Trevino (matches donor's employer string 'Valdez Trevino' and 'Attorney' occupation). Yale BA (2009), UT Law JD (2012); clerked for Justice Luz Elena D. Chapa, Texas 4th Court of Appeals; catastrophic tort/commercial litigation. Firm-bio full read shows no board seats, political, or advocacy affiliations. FEC: no contributions found (donor record 0). TX lobbyist registry: no registration.",
+  "source_url": "https://valdeztrevino.com/joseph-e-cuellar/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d97f3a4f-a8cc-4e73-82b4-c62dc8e31771",
+  "name": "Sloan, Jeremy",
+  "resolved_employer": "Attorney / owner, Sloan PLLC (personal injury & commercial litigation, San Antonio)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Jeremy Robert Sloan, personal-injury and commercial-litigation attorney and principal of Sloan PLLC (matches donor's 'attorney'/'Sloan PLLC' strings); Shavano Park 78231 residence consistent with the donor address. St. Mary's University School of Law; State Bar of Texas member. FEC: 5 contributions (R-lean 0.84); no AIPAC/pro-Israel/oil-gas/gun PAC contributions surfaced. TX lobbyist registry: no registration. Firm-site/bio read shows no board seats or advocacy affiliations.",
+  "source_url": "https://sloanpllc.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d8a333b9-cc05-476a-8e94-b0b351618a3e",
+  "name": "Mullins, Randy",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "217 Tuttle Rd confirmed as a residence in San Antonio 78209 (Alamo Heights area), but no occupation/employer listed for this donor and no public professional profile ties a 'Randy Mullins' to that address. Only same-surname hits found (a probate attorney; a realtor group) - not corroborated as this person, so not attributed. FEC/OpenSecrets donor lookup returned no confirmable match; no confirmed TEC lobbyist entry; no bio page found.",
+  "source_url": "https://www.har.com/homedetail/217-tuttle-rd-san-antonio-tx-78209/12134123",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d25b377c-d01b-416f-9592-8ace15b0a3f8",
+  "name": "Prichard, David",
+  "resolved_employer": "Prichard Young LLP (now Prichard Oliver Montpas LLP), San Antonio - trial attorney / name partner",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "David M. Prichard, SMU Dedman Law 1978, 40+ year San Antonio civil-defense trial lawyer and name partner at Prichard Young LLP (office 10101 Reunion Pl, 78216, matching donor zip). Products-liability defense representing manufacturers of automobiles, heavy trucks, pharmaceuticals, medical devices and firearms. FEC/OpenSecrets: no confirmable ideological PAC pattern (lean 0.03); TEC lobbyist-registry search returned no registration under his name; bio fully read.",
+  "source_url": "https://profiles.superlawyers.com/texas/san-antonio/lawyer/david-m-prichard/6f79db85-1eb0-4977-9c7a-84cbf59886a3.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Prichard Young LLP / Prichard Oliver Montpas LLP", "role": "Name partner / trial attorney", "category": "business", "source_url": "https://pomllp.com/about-david-m-prichard", "snippet": "40+ year San Antonio civil trial lawyer and name partner; products-liability defense including firearms, autos, pharmaceuticals and medical-device manufacturers."}
+  ]
+ },
+ {
+  "donor_id": "d177ff93-0219-440b-989f-b5c03da1764e",
+  "name": "Moore, Travis",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "6330 Glennox Ln confirmed as a single-family home in Dallas 75214 (Lakewood/Lower Greenville), but 'Travis Moore' is a very common Dallas name and no source ties a specific occupation to this address. Candidates found (a luxury realtor, a commercial-RE managing partner, an LPC counselor) but none corroborated to this address. FEC lean ~neutral (0.49); no confirmable single-person PAC pattern; no confirmed TEC lobbyist entry; multiple bios read but identity unresolved.",
+  "source_url": "https://www.har.com/homedetail/6330-glennox-ln-dallas-tx-75214/1365810",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d12af747-5eda-469d-bae6-b106c8c85d67",
+  "name": "Hebdon, Elizabeth",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Public people-search records place an Elizabeth Hebdon at 8102 Nufy Rdg, San Antonio 78209 (matching donor), associated with the local Hebdon family. No occupation, employer, or professional/bio profile is publicly documented for her, and no family/business role is attributed since shared surname alone is not evidence. Donor has 0 FEC donations; FEC/OpenSecrets returned nothing; no TEC lobbyist entry; no bio page located.",
+  "source_url": "https://besthistorysites.net/name/jack-hebdon",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d05c2ae6-72d0-4a36-8a9b-b7694899798c",
+  "name": "Miller, Crystal",
+  "resolved_employer": "Homemaker (self-reported occupation)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Self-reported occupation Homemaker; address 430 Old East Ridge Rd, Boone NC 28607. 'Crystal Miller' is extremely common in NC and no distinguishing public profile confirms this specific homemaker. FEC lean ~0.60 (lean-Republican) with 82 donations but no confirmable single-person PAC pattern; no TEC lobbyist entry (out-of-state); no bio page. Classified by stated occupation only.",
+  "source_url": "https://www.spokeo.com/Crystal-Miller/North-Carolina",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d02d21c1-0093-461c-9727-6af223458121",
+  "name": "Beecherl, Charles",
+  "resolved_employer": "Charlie (Charles T.) Beecherl - founder/President & CEO of Cureton Midstream LLC (sold to Williams, 2023); also CEO of WTG Energy/West Texas Gas; Dallas oil & gas executive",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Corroborated on zip 75229 + oil/gas: CorporationWiki lists Charles T. Beecherl (Dallas 75229) as agent/manager of Cureton Holdings/Cureton Midstream, and press releases identify Charlie T. Beecherl as Cureton Midstream founder-CEO and current WTG Energy CEO - same person as donor at 4126 Goodfellow Dr, Dallas 75229. FEC/OpenSecrets: a distinct relative William C. Beecherl (Verdad Oil & Gas) has GOP federal contributions; no clean individual FEC record confirmed under 'Charles' beyond the given count (lean 0.0). No Texas/COSA lobbyist registration found.",
+  "source_url": "https://www.corporationwiki.com/Texas/Dallas/charles-t-beecherl/101263297.aspx",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Cureton Midstream LLC", "role": "Founder, President & CEO", "category": "oil_gas", "source_url": "https://www.prnewswire.com/news-releases/cureton-midstream-announces-sale-to-williams-301975820.html", "snippet": "Charlie Beecherl, as President and CEO of Cureton, announced the 2023 sale of the DJ Basin oil & gas midstream company to Williams."},
+   {"org": "WTG Energy / West Texas Gas", "role": "CEO", "category": "oil_gas", "source_url": "https://www.usenergystream.com/forums/forums-seminars/6th-texas-energy-forum-2025/speakers/charlie-beecherl.aspx", "snippet": "Charlie Beecherl led the acquisition of WTG where he is acting CEO; natural gas company profile."}
+  ]
+ },
+ {
+  "donor_id": "cf880153-237e-414c-9af8-c5bb474f1ffe",
+  "name": "Pelaez, Juanita",
+  "resolved_employer": "Esther Juanita Pelaez-Prada - personal injury attorney and partner, Pelaez Law Firm PLLC, San Antonio",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Occupation + employer match: State Bar of Texas and Justia list Esther Juanita Pelaez-Prada, San Antonio personal-injury attorney at Pelaez Law Firm (5511 W. Interstate 10), consistent with donor's Attorney/Pelaez Law Firm/I-10 record (home zip 78257). Board Chair of Child Advocates San Antonio (CASA). FEC lean 1.0 (Democratic-leaning) with 2 donations; no lobbyist registration found. No family/business tie asserted to any same-surname public official.",
+  "source_url": "https://lawyers.justia.com/lawyer/juanita-pelaez-prada-1578520",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Child Advocates San Antonio (CASA)", "role": "Board Chair", "category": "civic", "source_url": "https://www.casa-satx.org/", "snippet": "Juanita Pelaez-Prada serves as Board Chair of Child Advocates San Antonio, which supports abused and neglected children in the courts."}
+  ]
+ },
+ {
+  "donor_id": "cf0f3c8c-02a2-42b8-845e-35a5fad87383",
+  "name": "Pape, Ryan",
+  "resolved_employer": "Ryan Pape - Chairman, President & CEO of XPEL, Inc. (publicly traded San Antonio automotive protective-film company)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Occupation/employer/location all match: LinkedIn, Crunchbase and XPEL investor site confirm Ryan Pape as XPEL Chairman/President/CEO since 2009, San Antonio-based; donor listed as President of XPEL, Inc., San Antonio 78247. ('Technology' chosen as closest taxonomy fit for a tech-branded manufacturer of automotive paint-protection films and DAP software.) FEC/OpenSecrets: no confirmed individual federal contribution record beyond the given count; no COSA/Texas lobbyist registration found; no separate civic board seat documented.",
+  "source_url": "https://investor.xpel.com/governance/board-of-directors/person-details/default.aspx?ItemId=647fbee9-d99c-4878-a456-f9309a9897c2",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cda4189a-2f5a-4a2e-968b-397f9f60f2ce",
+  "name": "Clayton, Katherine",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reports occupation 'Homemaker' with no employer, Tomball TX 77377, FEC donation count 0. FEC/OpenSecrets, lobbyist registry, and bio searches for 'Katherine/Kate Clayton' in Tomball/Houston returned no specific, confirmable individual (multiple unrelated same-name people). No public profile beyond stated homemaker status - categorize-by-employer fallback; a quiet result. Cannot confirm identity or any affiliations.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ccf67eb3-422b-4901-bfe4-e9b824209046",
+  "name": "Goertz, Sean",
+  "resolved_employer": "Sean Goertz - Chief Operations Officer, Texas Medical Legal Consultants, LLC (San Antonio medical expert-witness / medical-record litigation-support firm)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Occupation/employer/location match: LinkedIn and ZoomInfo confirm Sean Goertz as COO of Texas Medical Legal Consultants (txmlc.com), San Antonio, prior IT roles - consistent with donor record (COO, Texas Medical Legal Consultants, SA 78231). Firm provides medical expert witnesses and HIPAA-compliant medical-record review (industry tagged Healthcare for the medical core; functionally a legal/litigation-support services firm). FEC/OpenSecrets and lobbyist searches returned nothing under this name/zip.",
+  "source_url": "https://www.linkedin.com/in/sean-goertz-5968764/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cc262478-98af-475b-9d06-00bfd6dc042a",
+  "name": "Cano, Maria Ninfa",
+  "resolved_employer": "Unknown former career (retired)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Retiree at 8260 Jamestown Sq, Boerne 78015. Could not positively identify this specific person; searches returned unrelated Maria Cano records (a San Antonio decedent, a licensed counselor, a Kendall County employee) none matching this name+address. High FEC donation count (174, lean 0.87) confirms an active political donor but no PAC/lobbyist affiliation surfaced. No public bio found; former occupation undeterminable.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cbe03759-f17b-48ed-8dde-9b2dda1930fb",
+  "name": "Brunton, Beth",
+  "resolved_employer": null,
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reports 'Self-employed' at 243 Winding Ln, San Antonio 78231. A 'Beth Brunton' from South Texas was featured in a local magazine as a luxury-vehicle enthusiast, but that is a hobby, not a stated occupation or business. No employer, no FEC records (count 0), no lobbyist registration, and no professional bio confirming her business could be located. Classified by self-reported status only.",
+  "source_url": "https://www.instagram.com/p/DAEGeA-JXWW/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cb66d72c-6004-4a92-84b1-4746447c11db",
+  "name": "Songadwala, Erach",
+  "resolved_employer": "President & CEO, Y&L Consulting, Inc. (IT staffing/consulting)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Confirmed President & CEO of Y&L Consulting (San Antonio-area IT staffing/digital-services firm) since Jan 1999; also chairs Gov2Biz (Spring Branch). Address in Spring Branch 78070 aligns with Gov2Biz location. No FEC individual/PAC contribution records or Texas/San Antonio lobbyist registration surfaced. Bio read via TheOrg/LinkedIn/ZoomInfo confirms tech-executive profile with no policy-advocacy affiliations.",
+  "source_url": "https://theorg.com/org/yl-consulting/org-chart/erach-songadwala",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Y&L Consulting, Inc.", "role": "President & CEO / Board member", "category": "business", "source_url": "https://theorg.com/org/yl-consulting/org-chart/erach-songadwala", "snippet": "President & CEO of Y&L Consulting, an IT staffing and digital-services firm, since January 1999."},
+   {"org": "Gov2Biz", "role": "Chairman of the Board", "category": "business", "source_url": "https://rocketreach.co/erach-songadwala-email_8028046", "snippet": "Serves as Chairman of the Board of Gov2Biz, located in Spring Branch, Texas."}
+  ]
+ },
+ {
+  "donor_id": "ca7fad83-ca9e-4d18-a0be-b61bbd62f658",
+  "name": "Eisenberg, Virginia",
+  "resolved_employer": "President, The Eisenberg Group / Eisenberg PR (communications firm)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Virginia 'Gina' Galaviz Eisenberg, President and chief communications strategist of The Eisenberg Group (eisenbergpr.com), San Antonio; former TV news reporter. Matches donor 'President, Eisenberg PR,' 78209. About-page bio read fully. No FEC PAC (lean 1.0) or lobbyist-registry hits beyond city-council donations; only documented affiliations are her firm and neighborhood-association leadership.",
+  "source_url": "https://eisenbergpr.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Oak Park-Northwood Neighborhood Association (San Antonio)", "role": "President", "category": "civic", "source_url": "https://eisenbergpr.com/about/", "snippet": "Bio lists her as President of San Antonio's Oak Park-Northwood Neighborhood Association."},
+   {"org": "The Eisenberg Group", "role": "President", "category": "business", "source_url": "https://eisenbergpr.com/about/", "snippet": "President and chief communications strategist of the family PR/communications firm."}
+  ]
+ },
+ {
+  "donor_id": "ca37bb77-56df-4acf-b1da-e9c8dc0eeb44",
+  "name": "Haass, Lawrence",
+  "resolved_employer": "CPA, Haass, Lindow & Campsey, P.C. (retired)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Lawrence 'Larry' Haass, licensed Texas CPA and President of San Antonio accounting firm Haass, Lindow & Campsey, P.C. (9901 W IH-10); business records show 'inactive'/retired status matching donor's 'Retired' employer string. 78216 address consistent with local. LinkedIn/CPAdirectory bio read. No FEC PAC (lean 0.0, 3 donations) or lobbyist-registry affiliations found.",
+  "source_url": "https://www.linkedin.com/in/larry-haass-9a018979/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true},
+  "affiliations": [
+   {"org": "Haass, Lindow & Campsey, P.C.", "role": "President / CPA", "category": "business", "source_url": "https://www.linkedin.com/in/larry-haass-9a018979/", "snippet": "Listed as President of the San Antonio CPA firm Haass, Lindow & Campsey, P.C."}
+  ]
+ }
+]
