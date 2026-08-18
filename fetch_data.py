@@ -43,7 +43,7 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-from sa_normalize import classify_kind, ensure_columns, parse_amount, parse_date_iso
+from sa_normalize import classify_kind, ensure_columns, mark_restatements, parse_amount, parse_date_iso
 
 ROOT     = Path(__file__).resolve().parent
 DB_PATH  = ROOT / "san_antonio_finance.db"
@@ -774,6 +774,10 @@ def main() -> int:
         return 0
 
     print(f"[scrape] DB: inserted={ins_total}  skipped_existing={skip_total}")
+    # The portal re-lists a transaction on every report it appears on
+    # (pre-election reports overlap the semi-annual; amendments re-list whole
+    # reports), so a fresh scrape always lands restated twins — mark them.
+    mark_restatements(conn, slug)
     total_in_db = conn.execute(
         "SELECT COUNT(*) FROM campaign_finance WHERE filer_slug=?", (slug,)
     ).fetchone()[0]

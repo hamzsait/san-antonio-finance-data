@@ -166,8 +166,17 @@ also exist.
 If normalized columns look wrong or NULL:
 `python sa_normalize.py [--db PATH] [--dry-run]` backfills
 `amount_real` / `date_iso` / `txn_type` idempotently and reports any unmapped
-transaction kind loudly. Downstream code reads **only** those three derived
+transaction kind loudly. Downstream code reads **only** those derived
 columns; the raw text columns are provenance.
+
+It also (re)marks **cross-report restatements** (`superseded_by` column): the
+portal lists a transaction once per report it appears on, and pre-election
+reports overlap the semi-annuals, so most transactions from an election spring
+appear twice. `fetch_data.py` re-marks automatically after every ingest;
+`generate_profile_data.py` refuses to build against a DB without the column
+and filters `superseded_by IS NULL` everywhere. Found 2026-08-17 via a
+double-listed $250 Castillo contribution; unmarked, the twins inflated
+contribution totals by $34K–$151K per member.
 
 ---
 

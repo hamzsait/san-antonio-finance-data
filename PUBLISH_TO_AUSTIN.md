@@ -29,6 +29,8 @@ sync with that guide.
    - *Replay* (default): run the branch's idempotent DB scripts against the
      canonical DB in **full** pipeline order:
      `fetch_data.py --slug <x> --start-year 2016` →
+     (fetch re-marks cross-report restatements — `superseded_by` — on its own;
+     run `sa_normalize.py` instead if you touched rows any other way) →
      `build_identities.py` →
      `sa_tec_crosswalk.py --link-only` →
      `fec_enrich.py` →
