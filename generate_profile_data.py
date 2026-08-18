@@ -313,7 +313,8 @@ def find_filer(cur, slug: str):
     rec_sql, rec_params = recipient_filter(cur, slug)
     n = cur.execute(
         "SELECT COUNT(*) FROM campaign_finance cf "
-        "WHERE cf.filer_slug=? AND cf.txn_type='contribution'" + rec_sql,
+        "WHERE cf.filer_slug=? AND cf.txn_type='contribution' "
+        "AND cf.superseded_by IS NULL" + rec_sql,
         (slug, *rec_params),
     ).fetchone()[0]
     return row[0], n
@@ -358,6 +359,7 @@ def build_cycle_data(cur, candidate_fragment, cycle, by_year_data):
     where_parts = [
         "cf.filer_slug = ?",
         "cf.txn_type = 'contribution'",
+        "cf.superseded_by IS NULL",
         "COALESCE(cf.balanced_amount, cf.amount_real) > 0",
     ]
     base_params = [candidate_fragment]
@@ -575,6 +577,17 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
     conn.execute("PRAGMA journal_mode=WAL")
     cur = conn.cursor()
 
+    # A DB that predates restatement marking would double-count every
+    # transaction the portal lists on more than one report (pre-election
+    # reports overlap the semi-annuals) — refuse rather than inflate totals.
+    cols = {r[1] for r in cur.execute("PRAGMA table_info(campaign_finance)")}
+    if "superseded_by" not in cols:
+        print("ERROR: campaign_finance.superseded_by missing — run "
+              "`python sa_normalize.py` to mark cross-report restatements "
+              "before building profiles")
+        conn.close()
+        return
+
     # ── Identify filer ────────────────────────────────────────────────────────
     # SA rows carry a clean filer_slug from ingest, so the candidate argument
     # IS the slug — no recipient-fragment matching needed.
@@ -597,6 +610,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
     BASE_WHERE = f"""
         cf.filer_slug = ?
         AND cf.txn_type = 'contribution'
+        AND cf.superseded_by IS NULL
         AND CAST(cf.contribution_year AS INTEGER) >= {min_year}
         AND COALESCE(cf.balanced_amount, cf.amount_real) > 0
         {rec_sql}
