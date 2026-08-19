@@ -1079,7 +1079,9 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
                 for cid in row[5].split(","):
                     comm_list.append({"id": cid.strip(), "name": comm_names.get(cid.strip(), cid.strip())})
             donors_by_cat[cat].append({
-                "name": row[1], "tier": row[3],
+                # donor_identities.ip_tier has TEXT affinity here (sa_employer_seed.py),
+                # and the template's tier===1 badge check needs a number
+                "name": row[1], "tier": int(row[3]) if row[3] is not None else None,
                 "ip_total": round(row[4] or 0, 0),
                 "local_total": round(row[6] or 0, 0),
                 "partisan_lean": round(row[7], 3) if row[7] is not None else None,
