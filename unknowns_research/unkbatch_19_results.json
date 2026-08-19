@@ -1,0 +1,226 @@
+[
+ {
+  "donor_id": "c6f4b0b0-869d-4543-af4e-7289f891abed",
+  "name": "Rodriguez, Maria Fernanda",
+  "resolved_employer": "City of San Antonio (Municipal Courts) — Youth Diversion Coordinator",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Occupation 'Coordinator' + San Antonio location match a Maria-Fernanda Rodriguez who is Youth Diversion Coordinator for the City of San Antonio Municipal Courts (Texas State University grad). Common name, so identity corroborated on occupation+city, not certain.",
+  "source_url": "https://www.linkedin.com/in/maria-fernanda-rodriguez2017/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c597365f-9a78-4502-ae7f-289b93a70039",
+  "name": "naegeli, ellen",
+  "resolved_employer": "Naegeli Transportation, Inc. (NTI) — co-owner",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Ellen L Naegeli of 6603 Del Bello Spur, Manvel TX is co-owner of Naegeli Transportation, Inc. ('NTI'), a Houston-area trucking/transportation firm; former US Forest Service wildlife biologist. Longtime Democratic donor (Hillary for America, EMILY's List), consistent with 328 FEC donations / Dem lean.",
+  "source_url": "https://www.linkedin.com/in/ellen-naegeli-4bb1a79/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bf727fb5-9e49-453d-8e11-e279add692f0",
+  "name": "Crabtree, Dustin",
+  "resolved_employer": "Guckenheimer (ISS corporate dining services) — IT Project Coordinator",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Dustin Crabtree, San Antonio metro, worked as IT Project Coordinator / implementation engineer at Guckenheimer (an ISS corporate food-service/dining management company). Employer is a food-service firm; his function is IT.",
+  "source_url": "https://www.zoominfo.com/p/Dustin-Crabtree/3263500227",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bb824922-e68e-4aba-8c08-9250e8c5c336",
+  "name": "Dycaico, Sophia",
+  "resolved_employer": "U.S. House of Representatives — Legislative Assistant to Rep. Bobby Scott (D-VA-03)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Sophia N. Dycaico is a Legislative Assistant to Rep. Bobby Scott (VA-03) covering foreign affairs/defense/veterans/health/immigration; UC Santa Barbara grad. Also serves as VP of the LGBT Congressional Staff Association (a Hill staff professional association, not a policy-advocacy tie to SA races).",
+  "source_url": "https://www.legistorm.com/person/bio/372321/Sophia_N_Dycaico.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b87ddcec-9d65-470d-976c-c20dd1ffc531",
+  "name": "Buchancn, Vikki",
+  "resolved_employer": "ITEAT (self-reported GM); possibly ITEAT Academy, an education/training organization — unconfirmed",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Filer reports GM at 'ITEAT'. No public profile confirms this individual (name likely misspelled 'Buchancn'/'Buchanan'). Only entity match is ITEAT Academy, a small education-administration/training org; cannot corroborate she is the same person. Employer-based tentative classification only.",
+  "source_url": "https://www.linkedin.com/company/iteat-academy",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b84fe52b-487f-4405-99ca-fb33651236fe",
+  "name": "Eichstadt, Andress",
+  "resolved_employer": "CEO/President of Staging Studio; co-owner of BY Design Home Staging (San Antonio home-staging company)",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Andress Eichstadt is CEO/President of Staging Studio and co-owner (with mother Debbie Boggs) of BY Design Home Staging, a San Antonio real-estate home-staging firm. LinkedIn and company About pages confirm role and locale.",
+  "source_url": "https://www.linkedin.com/in/andresseichstadt/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b75bf825-cbfb-487e-a0ca-2453db1cb89c",
+  "name": "Brandt, Kelsey",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Filer reported occupation/employer as 'Self'. A San Antonio LinkedIn for a Kelsey Brandt exists but could not be corroborated to this donor (zip 78201). Small-dollar donor with FEC small-donor history (Dem lean); no public profile or affiliations surfaced.",
+  "source_url": "https://www.linkedin.com/in/kelsey-brandt/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b41f2f1c-3dce-4bb8-8b5d-6dcf01c23d97",
+  "name": "Taylor, Clifton",
+  "resolved_employer": "Self-employed Licensed Professional Counselor (Clifton Taylor, MA, LPC, NCC, CSAT), San Antonio 78258",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Clifton N. Taylor is a self-employed LPC in private practice in San Antonio (78258) specializing in trauma/addiction; Psychology Today, Healthgrades and his own practice site confirm identity and locale.",
+  "source_url": "https://www.psychologytoday.com/us/therapists/clifton-n-taylor-san-antonio-tx/99607",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b30ce35e-0628-442d-8743-70d767b842e2",
+  "name": "Delrosario, Marilou",
+  "resolved_employer": "Caregiver, 'Love Duka' (in-home/senior care)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Filer-reported occupation is caregiver for employer 'Love Duka', consistent with San Antonio in-home care work. No distinct public profile surfaced; ordinary resident, no affiliations.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b21815d5-c88b-4bae-a69a-36bf3f608f8c",
+  "name": "Ramos, Ruby",
+  "resolved_employer": "Sales Manager, North Park Lexus (San Antonio Lexus auto dealership)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Ruby Ramos is a Sales Manager at North Park Lexus in San Antonio, confirmed by ZoomInfo and dealership staff listings; auto-dealership sales role. FEC history shows frequent small-dollar giving (Dem lean) but no notable PAC affiliation.",
+  "source_url": "https://www.zoominfo.com/p/Ruby-Ramos/1248093174",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "adc4dfc6-31f7-4130-b7dd-ba44d9c16a50",
+  "name": "Benton Amaya, Suzette",
+  "resolved_employer": "Jeffrey J. Moczygemba CPA (accounting firm, San Antonio)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Filer-reported occupation 'Accounting' at 'Jeffrey J Moczygemba CPA', a confirmed San Antonio CPA firm. No distinct public profile beyond employer; ordinary accounting-staff resident in zip 78249. 28 personal FEC donations (partisan lean 1.0) reflect personal giving, not a professional affiliation.",
+  "source_url": "https://cpadirectory.com/accounting-firms/texas/san-antonio-tx/jeffrey-j-moczygemba/133637",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ad93d7bd-2dfc-4371-85d4-9123ba652900",
+  "name": "Moran, Paris",
+  "resolved_employer": "Sunrise Movement (Digital Director at time of giving); later House Majority PAC, now Climate United",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Professional Democratic/progressive digital communications operative. LinkedIn handle 'paris-moran-satx-nyc' matches San Antonio (zip 78253). Served as Digital Director for Sunrise Movement (climate advocacy), later Deputy Digital Director at House Majority PAC, and Senior Strategist for Digital Communications at Climate United (2025).",
+  "source_url": "https://www.linkedin.com/in/paris-moran-satx-nyc/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Sunrise Movement", "role": "Digital Director", "category": "political", "source_url": "https://www.commondreams.org/newswire/2021/07/19/sunrise-movement-launches-green-new-careers-website-they-fight-climate", "snippet": "Paris Moran, Digital Director of Sunrise Movement, helped launch the Green New Careers website; Sunrise is a national climate-activism advocacy organization."}
+  ]
+ },
+ {
+  "donor_id": "abf7185e-f769-445e-afe4-40706a4ea6f8",
+  "name": "Shemshack, Fawzy",
+  "resolved_employer": "School of Science and Technology (SST) — Superintendent/CEO",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Superintendent/CEO of SST, a tuition-free Texas STEM charter school system (14 campuses in San Antonio, Houston, Corpus Christi) run by the Riverwalk Education Foundation. Filer occupation 'Education' / employer 'SST' plus 78248 zip near SST HQ corroborate identity. This is a charter-network chief executive, not a classroom teacher.",
+  "source_url": "https://www.sstschools.org/our-model/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "School of Science and Technology (SST)", "role": "Superintendent/CEO", "category": "charter_school", "source_url": "https://www.sstschools.org/our-model/", "snippet": "Letter signed 'Fawzy Shemshack, Superintendent/CEO'; SST is a Texas public charter school STEM network operated by the Riverwalk Education Foundation."}
+  ]
+ },
+ {
+  "donor_id": "a9ec101a-6553-4ac8-b796-473306b015a2",
+  "name": "Tiede, Bob",
+  "resolved_employer": "Cru (Campus Crusade for Christ) — U.S. Leadership Development Team",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Longtime Cru (Christian ministry) staff member on the U.S. Leadership Development Team, author/blogger at LeadingWithQuestions.com; he and wife Sherry live in Plano, TX (zip 75023 matches). Religious-ministry leadership-development role, no policy-advocacy tie relevant to tracked categories.",
+  "source_url": "https://leadingwithquestions.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a6da81d8-29d0-4549-8d2d-651e20bdb5de",
+  "name": "Aida Rodriguez, Aida Rodriguez",
+  "resolved_employer": "Spectrum (Charter Communications) — sales",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Filer-reported sales role at Spectrum (Charter Communications telecom/cable provider), San Antonio zip 78245. Common name with no distinct public profile matching this individual; ordinary telecom sales employee. Classified per employer (telecommunications).",
+  "source_url": "https://jobs.spectrum.com/location/san-antonio-jobs/4673-14710/6252001-4736286-4726206/4",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a691500f-60c2-4350-99d9-352eec0d2c66",
+  "name": "MARTIN, MARLENE",
+  "resolved_employer": "Marlene M. Martin, Attorney/Mediator/CPA (solo practice), San Antonio TX 78230",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Solo San Antonio attorney/mediator/CPA (State Bar of Texas member, admitted 1991); practice covers family, business, estate, ADR. Zip 78230 matches her office. 'Self' occupation = her own law firm.",
+  "source_url": "https://lawyers.findlaw.com/texas/san-antonio/3328877_1/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a5ef3405-db89-49e0-9ee7-d1bfa3b689da",
+  "name": "Tarachand, Lilibeth",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Lilibeth G. Tarachand, resident of 3872 Silvera Ranch Dr, Dublin CA 94568 (matches donor address); appears as a Dublin High School music-department fundraiser contributor. Occupation field 'Lili'/employer 'Tarachand' are data-entry artifacts of her own name; no occupation or employer determinable.",
+  "source_url": "https://www.simplecontacts.com/state/CA/Dublin/Silvera-Ranch-Drive",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a5bbd9ca-608b-470a-b84a-9f2049eb8213",
+  "name": "Brunsvold, Regan",
+  "resolved_employer": "Digital/Graphic Designer at JPA Entertainment (JPA Creative), San Antonio",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Regan Brunsvold is a digital/motion-graphics designer at JPA Entertainment (a San Antonio music-industry content company); LinkedIn/ZoomInfo/Dribbble confirm designer role, prior NBCUniversal and Santikos internships. Matches occupation 'Graphic Designer' / employer 'JPA Entertainment'.",
+  "source_url": "https://www.linkedin.com/in/regan-brunsvold/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a359f7de-07cf-421a-a2a1-4e75942794de",
+  "name": "Alhaj, Nicole",
+  "resolved_employer": "Self-employed hairstylist, San Antonio (zip 78232)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Filer-reported self-employed hairstylist in San Antonio 78232. No distinct public profile surfaced beyond the generic occupation; no advocacy, PAC, arena, or charter ties found. Ordinary resident.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a3486c3a-42ba-436e-b22d-cbdb31c9b61b",
+  "name": "Trevino, Mirna",
+  "resolved_employer": "ACM (Alternative Claims Management) — fleet vehicle damage-recovery/claims management",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Occupation 'Damage recovery' + employer 'ACM' matches Alternative Claims Management, a fleet-vehicle damage-recovery/insurance-claims firm. No individual public profile for Mirna Trevino surfaced; no PAC/arena/charter ties. Classified by employer's claims/insurance-recovery line of business.",
+  "source_url": "https://altclaim.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

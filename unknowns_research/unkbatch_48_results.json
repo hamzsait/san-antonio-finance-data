@@ -1,0 +1,222 @@
+[
+  {
+    "donor_id": "8123e763-15d8-4a84-aaec-cbc2f76581de",
+    "name": "Hussain, Abrar",
+    "resolved_employer": "Life for Relief and Development (humanitarian relief nonprofit), Community Relations Associate",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "Filer-reported employer Life for Relief and Development is a national Islamic humanitarian/relief nonprofit; role 'Community Relations Associate' fits the nonprofit sector. Could not uniquely confirm this specific individual in 78249 (many same-named people). Industry assigned via employer fallback. No FEC PAC, TEC lobbyist, arena/Project Marvel, or charter-school ties found.",
+    "source_url": "https://www.newleaderscouncil.org/chapter/san-antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "77f43aff-d595-4652-9ebb-bf779d570bea",
+    "name": "Queen, Ashley",
+    "resolved_employer": "AerCap (aircraft leasing / aviation asset finance), Administrative Assistant, Los Angeles office",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Filer-reported employer AerCap is the world's largest aircraft-leasing company (asset finance); LA zip 90017 aligns with AerCap's Los Angeles office. Could not uniquely confirm the individual by name. Industry assigned via employer fallback (aircraft leasing = finance). No PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.aercap.com/investors/about-aercap/leadership-team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "74eb297d-14ee-4417-ac76-4a55d6c8444e",
+    "name": "Duran, Mallory",
+    "resolved_employer": "Albany Engineered Composites (aerospace composite manufacturing), Manufacturing Technician, Boerne TX",
+    "industry": "Engineering",
+    "confidence": "low",
+    "evidence": "Filer-reported employer Albany Engineered Composites operates an aerospace composite-components manufacturing facility in Boerne, TX 78006 (consistent with donor's Boerne location). 'Manufacturing Tech' role fits. Could not uniquely confirm the individual. Industry assigned via employer fallback. No PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.albint.com/engineered-composites/about-aec/locations/boerne/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7296594b-2db4-4c3f-9a2b-2e562acea814",
+    "name": "Johnston, Allyn",
+    "resolved_employer": "US Cloud (Microsoft enterprise support / IT services), Senior Contract Administrator, San Antonio",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "ZoomInfo profile confirms Allyn Mae Johnston as Senior Contract Administrator at US Cloud (a Microsoft enterprise/IT support firm), based in San Antonio, TX — matches filer's occupation, employer, and 78247 zip. No FEC PAC, TEC lobbyist, arena/Project Marvel, or charter-school connections found (prior FEC donation history in metadata is not treated as an ideological affiliation absent a sourced PAC).",
+    "source_url": "https://www.zoominfo.com/p/Allyn-Johnston/1677913651",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "72813df6-602a-47fe-94fa-2ee01f72959d",
+    "name": "Atencio, Christine",
+    "resolved_employer": "PASCO / Personal Assistance Services of Colorado (home health care), Healthcare Worker, Commerce City CO",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Filer-reported employer PASCO is Personal Assistance Services of Colorado, a Colorado home-health-care agency; donor location Commerce City, CO 80023 is within PASCO's Denver-metro service area and 'Healthcare Worker' occupation fits. Could not uniquely confirm the specific individual. Industry assigned via employer fallback. No PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://pascohh.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6dd57d4c-fd5a-4655-a0e5-2c99c62b87d6",
+    "name": "Alfonso, Garcia",
+    "resolved_employer": "TaskUs",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Filer-reported customer service role at TaskUs (a digital-services/BPO tech company) in San Antonio zip 78207. 'Alfonso Garcia'/'Garcia Alfonso' is an extremely common name in San Antonio and no record could be tied specifically to this $10 donor. No FEC/OpenSecrets PAC donations, no Texas Ethics Commission lobbyist registration, no arena/Project Marvel or charter-school connection found. Industry assigned from employer fallback only.",
+    "source_url": "https://www.opensecrets.org/orgs/taskus/summary?id=D000106359",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "69191f59-8cad-44fc-bb8d-3753794af379",
+    "name": "Villagran, Lilanna",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer reported by the filer. Searches for 'Lilanna Villagran' in San Antonio zip 78201 returned only unrelated people and no confirmable match. No FEC PAC donations, no Texas Ethics Commission lobbyist registration, no bio/LinkedIn, no arena/Project Marvel or charter-school connection found. Cannot corroborate identity; industry left null.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "685b0c01-d28a-4eb7-bcdb-1e43970a2665",
+    "name": "Clifford, John",
+    "resolved_employer": "U.S. Treasury Department (Tax Compliance Officer), Torrance CA",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Filer-reported Tax Compliance Officer at the U.S. Treasury Department in Torrance, CA (zip 90504). Occupation and zip corroborate a federal government worker. No ideological/issue PAC (AIPAC/J Street/NRA/energy/defense) donations, no Texas lobbyist registration, and no San Antonio arena/Project Marvel or charter-school connection (out-of-state donor). Industry Government from occupation/employer.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-TORRANCE-CA-20-part20.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "658414fc-a1fa-44c0-b185-3da5f75a2f4b",
+    "name": "Ramon, Megan",
+    "resolved_employer": "Hello World (Austin computer-science education/enrichment program), Operations Manager",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Filer-reported Operations Manager at 'Hello World' in Austin (zip 78704). Hello World is an Austin-based computer-science education/enrichment program. Could not confirm the specific individual 'Megan Ramon'. No FEC PAC donations, no Texas Ethics Commission lobbyist registration, no arena/Project Marvel or charter-school connection found. Industry Education from employer fallback.",
+    "source_url": "https://www.yelp.com/biz/hello-world-austin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "63f51357-99cd-415a-aa19-3fcba58b41eb",
+    "name": "Palmieri, Jennifer",
+    "resolved_employer": "Ally Financial (Project Manager), Troy MI",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Filer-reported Project Manager at 'Ally' (Ally Financial, a bank/consumer-finance company with major operations in the Detroit area) in Troy, MI (zip 48098). This is a distinct person from the well-known Democratic communications advisor Jennifer Palmieri (a common name). No confirmable FEC PAC donations for this individual, no Texas lobbyist registration, and no San Antonio arena/Project Marvel or charter-school connection (out-of-state donor). Industry Finance from employer.",
+    "source_url": "https://www.indeed.com/cmp/Ally-Financial/salaries/Project-Manager/Michigan",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5e3d353f-4503-418f-9d7b-c37e78de6dba",
+    "name": "Luchetti, Patti",
+    "resolved_employer": "Fiore Artisan Olive Oils & Vinegars (Rockland, ME retail shop), Clerk",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Filer-reported occupation 'Clerk' at employer 'Fiore'; Fiore Artisan Olive Oils & Vinegars is a retail tasting-room shop at 503 Main St, Rockland, ME 04841, matching donor's Rockland ME 04841 location. No FEC PAC, TX lobbyist, arena/Project Marvel, or charter-school ties found.",
+    "source_url": "https://camdenrockland.com/businesses/fiore-artisan-olive-oils-vinegars/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5c062b55-41ab-4ac2-b55d-34b5d7d48b10",
+    "name": "Goral, Ian",
+    "resolved_employer": "GuavaTech Inc (IT), Chicago",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "LinkedIn confirms an Ian Goral based in Chicago, Illinois, consistent with filer-reported IT occupation and Chicago 60625 zip. FEC/ActBlue records show only small-dollar contributions via the ActBlue platform (a conduit, not an ideological PAC). No TX lobbyist, arena/Project Marvel, or charter-school ties found.",
+    "source_url": "https://www.linkedin.com/in/ian-goral-5bb65b252",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5bf91e13-e2f6-40ae-bfa6-4fa7d7ed74ef",
+    "name": "Hong, Nicole",
+    "resolved_employer": "Montage Laguna Beach (Meetings & Events / reservations)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "LinkedIn confirms Nicole Hong as a Meetings and Events Coordinator at Montage Laguna Beach in Orange County, CA, consistent with filer-reported 'Reservations agent' at 'Montage Laguna beach' and La Habra CA 90631 (Orange County) location. No FEC PAC, TX lobbyist, arena/Project Marvel, or charter-school ties found.",
+    "source_url": "https://www.linkedin.com/in/nicole-hong-173103298/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5b63d074-461a-4c4d-8049-f27ef3a8379e",
+    "name": "Corinha, Jay",
+    "resolved_employer": "Fidelity Investments (Director, Customer Data Strategy)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Jay Corinha as Director, Customer Data Strategy at Fidelity Investments, matching filer-reported occupation 'Director' and employer 'Fidelity investments'; Fidelity is Boston-area based, consistent with Somerset MA 02726 residence. No FEC PAC, TX lobbyist, arena/Project Marvel, or charter-school ties found.",
+    "source_url": "https://www.linkedin.com/in/jaycorinha",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5abcc058-e44a-46c3-9f46-62190d49dbce",
+    "name": "Oill, Carolyn",
+    "resolved_employer": "Greines, Martin, Stein & Richland LLP (appellate attorney), Beverly Hills CA",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Distinctive surname; biographical record identifies Carolyn Oill as an appellate lawyer at Greines, Martin, Stein & Richland in Beverly Hills, CA and member of the Beverly Hills Bar Association, matching donor's Beverly Hills 90211 location. Filer reported no occupation/employer, so classification rests on name+location match only. No FEC PAC, TX lobbyist, arena/Project Marvel, or charter-school ties found.",
+    "source_url": "https://prabook.com/web/carolyn.oill/2735454",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5784bfbf-53e3-401d-84be-714177b029df",
+    "name": "Wilson, Tamia",
+    "resolved_employer": "Taco Bell (fast food manager), Knoxville TN",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Out-of-state donor (Knoxville, TN 37914); filer-reported occupation 'Fast food, Manager' at Taco Bell. Could not confirm the specific individual online. Industry assigned from employer fallback. No FEC PAC, TX lobbyist, arena/Project Marvel, or charter-school connections found.",
+    "source_url": "https://www.ziprecruiter.com/co/tacala-taco-bell/Jobs/Food-Manager/-in-Knoxville,TN",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "53e0202c-99cc-4ded-9954-3bbc22793e8e",
+    "name": "Casas, Stephanie",
+    "resolved_employer": "Kilmer (administrative)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "West-side San Antonio donor (78207), occupation 'Admin', employer 'Kilmer'. Could not confirm which specific Stephanie Casas (a SA financial advisor by the same name is a different occupation and does not match 'Admin'/'Kilmer'). Employer 'Kilmer' does not clearly map to a taxonomy industry, so industry left null. No FEC PAC, TX lobbyist, arena, or charter connections confirmed.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-SAN-ANTONIO-TX-20-part32.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "53d7fa3c-7021-48fd-bd7c-8decf7546af0",
+    "name": "Briseno, Rhiannon",
+    "resolved_employer": "The Law Office of Kathleen Cassidy Goodman, PLLC (San Antonio estate/probate firm), Intake Specialist",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "Confirmed via LinkedIn/ZoomInfo: Rhiannon Briseno is a legal professional (Intake Specialist, J.D.) at The Law Office of Kathleen Cassidy Goodman, PLLC in San Antonio. Matches filer-reported occupation 'Legal Professional' / 'Law Office' and San Antonio 78210 zip. No FEC PAC, TX lobbyist, arena, or charter connections found.",
+    "source_url": "https://www.linkedin.com/in/rhiannon-briseno-satx/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "527fd520-c7ee-4f13-9b2d-70740df13277",
+    "name": "Bernard, Jill",
+    "resolved_employer": "Real estate agent (New York, NY)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Filer occupation 'RE' and NYC address (200 E 71st St, Upper East Side, 10021) align with Jill Bernard, a Manhattan real estate agent per LinkedIn/Compass profiles. Identity plausible but not definitively tied to this exact address. No FEC PAC (beyond the small gifts noted), TX lobbyist, arena, or charter connections found.",
+    "source_url": "https://www.linkedin.com/in/jill-bernard-nyc/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "51017ffe-e78a-462a-8c34-1711cd15664d",
+    "name": "Farley, Peter",
+    "resolved_employer": "City of San Antonio (IT Business Analyst II)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed via ZoomInfo/The Org: Peter Farley is an IT Business Analyst II at the City of San Antonio (sanantonio.gov email). Matches filer occupation 'City of San Antonio' / 'IT Business Analyst' and SA 78251 zip. Municipal employee. No FEC PAC, TX lobbyist, arena/Project Marvel, or charter-school connections found.",
+    "source_url": "https://www.zoominfo.com/p/Peter-Farley/7720944572",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

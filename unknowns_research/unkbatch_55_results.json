@@ -1,0 +1,222 @@
+[
+ {
+  "donor_id": "8105e214-d249-4e31-8227-bf8ebb7176f5",
+  "name": "McAuley, Jolene",
+  "resolved_employer": "Disney Publishing Worldwide",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "ZoomInfo/profile data confirms Jolene McAuley as Manager, Global Business Affairs at Disney Publishing Worldwide (Brown BA, NY Law School JD); occupation+employer match the record. Brooklyn NY 11213. No PAC/lobbyist/arena/charter footprint.",
+  "source_url": "https://www.zoominfo.com/p/Jolene-Mcauley/559362547",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9a073743-e1e2-41d4-92ff-3c989e0cfbf5",
+  "name": "Keegan, Peter",
+  "resolved_employer": "DCC",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No public footprint for a Peter Keegan janitor in Duluth. Record is internally inconsistent (Duluth street address but zip 55425 is Bloomington/Mall of America). 'DCC' employer unresolved; janitorial occupation maps to no clear taxonomy label. Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4a3c04bd-0659-4bc7-9f4b-4636caaa63ed",
+  "name": "KISHBAUGH, COURTNEY",
+  "resolved_employer": "Cleveland Innovation Project (Greater Cleveland Partnership)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Strongly corroborated: Courtney Kishbaugh was Director of Innovation for GCP's Cleveland Innovation Project (economic-development initiative), Cleveland OH 44102; prior New Localism Associates (Bruce Katz), now Sr Manager Rapid Response Unit at Results for America. LinkedIn/WEF/Results-for-America profiles match zip+role. No PAC/lobbyist/arena/charter ties.",
+  "source_url": "https://www.linkedin.com/in/courtneykishbaugh/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f70677c2-0625-4ba6-bc55-21bc3b2d39f9",
+  "name": "Kellison, Sharyn",
+  "resolved_employer": "Edward Jones",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "No individual public profile found; categorize-by-employer fallback. Edward Jones is a financial-services/brokerage firm with offices in Lake St. Louis, MO (matches zip 63367); recruiter role is plausible internal HR. No PAC/lobbyist/arena/charter footprint. Quiet outcome.",
+  "source_url": "https://www.edwardjones.com/us-en/find-a-financial-advisor/locations/missouri/lake-st-louis",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f56ea577-79bd-4835-ab89-62721a033b18",
+  "name": "Bermudez, Margie",
+  "resolved_employer": "LMI (management consulting)",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "LinkedIn (margie-b-42162a130) references the LMI San Antonio office, consistent with the record's employer/occupation and San Antonio (78244) location. LMI is a federal-government/defense management-consulting firm; donor is a project manager employee, not an exec/lobbyist. No TX lobbyist registration, FEC PAC, arena/Project Marvel, or charter-school connection found.",
+  "source_url": "https://www.linkedin.com/posts/margie-b-42162a130_thank-you-lmi-san-antonio-office-for-inviting-activity-6971098128108175360-bbBO",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f32a45d5-8f25-4690-8f31-b851f0acd167",
+  "name": "Khan, Erica",
+  "resolved_employer": "Total Mortgage Services LLC",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "LinkedIn lists 'Erica Khan - Internal Compliance Auditor - Total Mortgage'; Total Mortgage Services is a Milford, CT (06460) mortgage lender, matching occupation, employer, and zip. No PAC, lobbyist, arena, or charter footprint found.",
+  "source_url": "https://www.linkedin.com/in/erica-khan-b27a1052",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cf33d336-d3af-4106-90ee-4aba820de9d9",
+  "name": "Brown, T",
+  "resolved_employer": "PG&E (Pacific Gas & Electric)",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "Name too generic (single initial) to corroborate an individual identity; employer PG&E is a California electric/gas utility serving the Hayward, CA (94540) area. Categorized by employer. No PAC, lobbyist, arena, or charter footprint found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c4a05bcc-5f67-496f-b1bb-38d3c3c3d78b",
+  "name": "Urias, Ruben",
+  "resolved_employer": "Eataly (Boston)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "No public profile located; Eataly operates an Italian food market/butcher counter at Boston's Prudential Center, consistent with a butcher role and Brighton, MA (02135) residence. Categorized by employer (grocery/food retail). No PAC, lobbyist, arena, or charter footprint found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b710dd6c-4621-4cf2-bfde-840e0770f573",
+  "name": "Koenig, Jaclyn",
+  "resolved_employer": "Myotronics",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "No individual profile confirmed, but Myotronics is a Seattle-area medical/dental device maker (neuromuscular dentistry/TENS equipment), consistent with a Seattle 98122 marketing role. Categorized by employer (medical device). No PAC, lobbyist, arena, or charter footprint found.",
+  "source_url": "https://www.myotronics.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aafa0645-1677-4ce5-b0a0-8e0a7a342f06",
+  "name": "Cole, Nigeria",
+  "resolved_employer": "Family Support Services",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "No public profile located for this individual in Cotati, CA (94931); 'Family Support Services' is a social-services organization type, and an executive assistant role fits a nonprofit human-services employer. Categorized by employer. No PAC, lobbyist, arena, or charter footprint found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9d84eaec-8ff7-41d3-b903-8daf2429e789",
+  "name": "Murphy, Ebony",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer on record. A public 'Ebony Murphy-Root' (educator/activist, middle-school humanities teacher) lives in Long Beach, but the name is very common (100+ Spokeo matches) and zip 90810 could not be corroborated; not forcing a match.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9ab4a623-4e56-4611-9f8d-51a05346a5e7",
+  "name": "Farley, Paige",
+  "resolved_employer": "PHP Agency, Inc.",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Record gives occupation 'Marketing' at PHP Agency; PHP Agency is a national financial-services/life-insurance marketing firm (Orange County office). Anaheim CA 92806. Categorized by employer. No individual public profile, FEC PAC, lobbyist, arena, or charter footprint found.",
+  "source_url": "https://www.linkedin.com/company/php-agency-inc",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8abd0507-d36c-4255-ae51-6d7160038a01",
+  "name": "Reynolds, DAra",
+  "resolved_employer": "Sitel (customer-service / BPO call center)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Record gives 'Customer service' at Sitel, a business-process-outsourcing/call-center operator with Henderson-Las Vegas (89014) locations; no clean taxonomy bucket for BPO call-center work. No individual public profile, FEC PAC, lobbyist, arena, or charter footprint found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6e7e2be9-dfcd-459d-8eea-7bf5a0fef695",
+  "name": "Trott, Josephine",
+  "resolved_employer": "University of California, Davis - Dept. of Animal Science",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Corroborated: Josephine F. Trott, Ph.D., Project Scientist at UC Davis Dept. of Animal Science (prolactin-receptor biology / bovine stem cells), Davis CA matches zip 95618 and occupation 'scientist / uc davis'. No FEC PAC, TX lobbyist, arena, or charter footprint found.",
+  "source_url": "https://animalscience.ucdavis.edu/people/project-scientists/josephine-trott",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6420cbc9-5799-432e-b5ef-86b28371340b",
+  "name": "Brugnone, Andrew",
+  "resolved_employer": "DICK'S Sporting Goods",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Andrew Brugnone at DICK'S Sporting Goods (headquartered near Wexford/Pittsburgh PA, matching zip 15090); occupation 'Planner' consistent with a merchandise/inventory planner at the retailer. No FEC PAC, lobbyist, arena, or charter footprint found.",
+  "source_url": "https://www.linkedin.com/in/andrewbrugnone",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "617ce943-b1c2-4a6d-9a99-415971ef8114",
+  "name": "Sapp, Nasheda",
+  "resolved_employer": "National Institutes of Health (Center for Cellular Engineering, Dept. of Transfusion Medicine, NIH Clinical Center)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Corroborated as an NIH biologist/scientist in the DC-Metro area (Rockville MD 20852); co-authored NIH cellular-therapy manufacturing research. Federal research-agency employee, so categorized Government. No PAC, lobbyist, arena, or charter footprint found.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/31135995/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5f845e34-5b3a-4881-a755-f572d1067bcb",
+  "name": "Ruedi, Gayle",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer in record; address is in Fearrington Village, a 55+ retirement community in Pittsboro NC 27312. No public profile, FEC/PAC record, lobbyist registration, arena, or charter footprint found. Quiet ordinary-resident outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5b82d50f-694d-4c37-a061-25c9ce1b3ecf",
+  "name": "Justus, Courtney",
+  "resolved_employer": "WHQR Public Media (WHQR/UNCW Development Fellow, 2021-2022)",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Identity corroborated: 2021-2022 WHQR/UNCW Development Fellow and MFA-fiction candidate at UNC Wilmington (28411); cum laude Trinity University 2018 grad (Trinity is in San Antonio, explaining the local donation). Public-radio employer, so categorized Media (role is graduate/student fellowship). No PAC, lobbyist, arena, or charter footprint.",
+  "source_url": "https://www.whqr.org/people/courtney-justus",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "59c210a6-9803-4573-b7ce-aa1a21fbefaa",
+  "name": "Crandall, Brian",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer in record. Multiple people named Brian Crandall; a same-name Albany-area LinkedIn profile lists Air Pollution Meteorologist at NY State DEC (Guilderland 12203 is an Albany suburb), but identity is not confirmed and the donor record has no occupation to corroborate. Unconfirmed quiet outcome. No FEC/PAC, lobbyist, arena, or charter footprint.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4ff36a0d-9fc6-4c59-9d32-e6304da9377c",
+  "name": "Imperl, Hal",
+  "resolved_employer": "City of Madison, Wisconsin (Custodian)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation Custodian for the City of Madison (53703); municipal employee, so categorized Government. No distinct public bio confirmed. No FEC/PAC, TX lobbyist, arena, or charter footprint found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

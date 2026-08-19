@@ -1,0 +1,230 @@
+[
+  {
+    "donor_id": "b090c45b-40a2-4089-972d-2acd8189de81",
+    "name": "Vanessa Sánchez",
+    "resolved_employer": "Fundraiser at a San Antonio arts nonprofit",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Stated occupation 'Fundraiser' at an 'Arts nonprofit'; a Vanessa Sanchez in San Antonio is publicly associated with nonprofit/fundraising/development work, consistent with the donor record. No named-org bio verified. Small-dollar ($100) local gift to Teri Castillo; no PAC/lobbyist/arena/charter ties found.",
+    "source_url": "https://www.linkedin.com/in/vanessamsanchez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ab2e79a3-f762-462d-8b16-f46c4be68297",
+    "name": "Grace Borrego",
+    "resolved_employer": "Department of Defense (management)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Stated occupation 'Management' at 'DOD' (Dept of Defense), San Antonio 78207 (a major DoD/military employment hub). No public profile located to confirm identity or role; categorized by generic federal employer. Ordinary $100 gift to Teri Castillo; no PAC/lobbyist/arena/charter ties found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a90745d2-dd51-4c42-a0d0-04b5e53436c7",
+    "name": "Arvinder Goomer",
+    "resolved_employer": "Insurance agent, Singh Brokerage (Mount Airy, MD)",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Stated occupation 'Insurance Agent' at 'Singh Brokerage', Mount Airy, Maryland (out-of-state donor to Sukh Kaur). No public profile found to confirm the individual; categorized by generic occupation. $100 gift; no PAC/lobbyist/arena/charter ties found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a66797fe-dd33-43b9-93b4-fb4df78b6cf8",
+    "name": "Helen Torres",
+    "resolved_employer": "Self-employed (sales)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Stated occupation 'Sales', 'Self employed', San Bernardino, CA (out-of-state donor to Ivalis Gonzalez). Common name; multiple Helen Torres profiles exist but none uniquely matched to this donor. Categorized by self-employment status. $100 gift; no PAC/lobbyist/arena/charter ties found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9fb13ea5-80b7-47de-ab6b-9fea78a6300d",
+    "name": "Meher Masood",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Occupation and employer both recorded as 'Nn' (no data). San Antonio 78240. No public profile could be located; cannot be identified. Ordinary $100 gift to Sakib Shaikh; no PAC/lobbyist/arena/charter ties found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9b30a513-50ad-4fed-8a8e-c800169640d3",
+    "name": "Naseen Akhtar",
+    "resolved_employer": "Cashier at TJ Maxx",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Ordinary small-dollar resident (San Antonio 78238); self-reported occupation retail cashier at TJ Maxx. No public profile confirms identity. Donor to Sakib Shaikh; no FEC, lobbyist, arena, or charter connections found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "913d9d11-5027-401f-aad7-26075b684a9d",
+    "name": "Kelly Hubler",
+    "resolved_employer": "Medical field (employer not specified)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'Medical' in west-side zip 78207. Multiple unrelated Kelly Hublers appear online and none can be corroborated to this SA zip. Categorized by stated occupation only. Donor to Teri Castillo; no FEC, lobbyist, arena, or charter connections found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8d1b32ef-5c61-431c-a594-0ea8cf60c1b7",
+    "name": "Rebecca Ehrlich",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer on file and no public profile identifiable for a Rebecca Ehrlich at zip 78259. Appears to be an ordinary resident; cannot be identified. Donor to Marc Whyte; no FEC, lobbyist, arena, or charter connections found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8641510b-80e1-4bd5-8d5a-e169641e2de6",
+    "name": "Lorraine Guzman",
+    "resolved_employer": "NatureSweet (VP, Marketing/Communications)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Likely matches Lori Guzman-Castillo, a San Antonio native and VP of Marketing/Communications at SA-based branded-produce company NatureSweet; 'Guzman' is her family/maiden name, corroborating the donor's stated VP Marketing / NatureSweet occupation. Donor to Sukh Kaur; no FEC, lobbyist, arena, or charter connections found.",
+    "source_url": "https://fisher.osu.edu/news/you-reap-what-you-sow-lori-guzman-castillo-mba-09",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "NatureSweet", "role": "Vice President, Marketing/Communications", "category": "business", "source_url": "https://fisher.osu.edu/news/you-reap-what-you-sow-lori-guzman-castillo-mba-09", "snippet": "Lori Guzman-Castillo (MBA '09) is vice president for marketing at NatureSweet, applying consumer-goods lessons to the company's branded, packaged tomatoes."}
+    ]
+  },
+  {
+    "donor_id": "852b8b44-f3d6-4017-bcfb-94396a5784e8",
+    "name": "Yvonne Marks",
+    "resolved_employer": "Self-employed (nature of business unknown)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Public-records entries place a Yvonne Marks at a Churchill Estates address in SA 78248, but the filing lists only 'Self' as employer with no occupation and no identifiable public profile establishing what she does. Cannot classify industry. Donor to Marc Whyte; no FEC, lobbyist, arena, or charter connections found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8498afa8-95ba-4721-9b11-a10fb49d3e47",
+    "name": "Laura Rodriguez",
+    "resolved_employer": "Northside ISD (school secretary)",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Occupation/employer match a Laura Rodriguez listed as a secretary at Northside ISD, but 'Laura Rodriguez' is an extremely common name and the 78223 (Southside) residence could not be corroborated to the specific NISD staffer. Ordinary $100 donor to Ric Galvan; no lobbyist, PAC, arena, or charter tie found. (ISD non-teaching staff with no advocacy role is Education-industry, not public_school_advocacy.)",
+    "source_url": "https://www.nisd.net/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "82f7266a-bf85-4ddd-aad1-245cf7ef31e9",
+    "name": "Denisce Palacios",
+    "resolved_employer": "Climate Cabinet (Texas State Lead / Organizer)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Denisce Palacios is a Brownsville-based community organizer and 2024-2025 Obama Foundation USA Leader who serves as Texas State Lead for Climate Cabinet, building support for clean-energy/climate action in the Texas Legislature. 107 FEC donations, fully Democratic lean. Donor to Ric Galvan.",
+    "source_url": "https://www.obama.org/programs/leaders/usa/2024-2025/denisce-palacios/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Climate Cabinet", "role": "Texas State Lead / Organizer", "category": "political", "source_url": "https://www.obama.org/programs/leaders/usa/2024-2025/denisce-palacios/", "snippet": "Community Organizer in Rio Grande Valley, Texas ... works with the Climate Cabinet to build support for clean energy and climate action in the Texas Legislature; serves as Texas State Lead."}
+    ]
+  },
+  {
+    "donor_id": "7e7c6c2d-5031-4606-9da5-26cfd110c72b",
+    "name": "Angelina Osteguin",
+    "resolved_employer": "To Care Enough CPR (Training Center Administrator / CPR instructor)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Angelina Osteguin is Training Center Administrator/instructor at To Care Enough CPR, a family-operated American Heart Association-affiliated CPR training business at 2203 S Hackberry St, San Antonio 78210 — matching her donor address exactly. Ordinary small-business donor to Edward Mungia; no PAC, lobbyist, arena, or charter tie.",
+    "source_url": "https://www.zoominfo.com/p/Angelina-Osteguin/1975314155",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7b8924b5-5daa-4b86-96e0-3a836a272f66",
+    "name": "Ruben Espinoza",
+    "resolved_employer": "Swedish Health / Providence Swedish (supply chain management)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Stated occupation is supply-chain management at Swedish Health, a Seattle nonprofit hospital system. No public bio for this specific Ruben Espinoza could be located; common name. 53 FEC donations indicate a habitual small-dollar donor, but no PAC affiliation, lobbyist registration, or arena/charter tie found. Donor to Jalen McKee-Rodriguez.",
+    "source_url": "https://www.swedish.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7b034802-7835-4f85-8192-40353a5aafcc",
+    "name": "Haitham Mustafa",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Occupation ('Haitham') and employer ('Mustafa') fields are mis-filled with his own first/last name, so no real employer is recorded. Public-records databases show a Haitham Mustafa in San Antonio 78240 as a private individual with no corroborated occupation. Ordinary $100 donor to Sakib Shaikh; no lobbyist, PAC, arena, or charter tie found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "78e13cf5-eeea-4c09-86bf-d052ff3386a7",
+    "name": "George Lamborn",
+    "resolved_employer": "Retired CIA officer and U.S. Army Reserve colonel; president, North Central Thousand Oaks Neighborhood Association (former career, retired)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "George 'G.L./Larry' Lamborn of San Antonio's North Side, a retired CIA analyst/operations officer and retired Army Reserve colonel; president of the North Central Thousand Oaks Neighborhood Association and a 2024 Bexar Appraisal District Place 3 candidate. 78232 Thousand Oaks area matches address. Donor to Teri Castillo.",
+    "source_url": "https://sanantonioreport.org/meet-the-candidates-running-for-bexar-county-appraisal-board/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "North Central Thousand Oaks Neighborhood Association", "role": "President", "category": "civic", "source_url": "https://sanantonioreport.org/meet-the-candidates-running-for-bexar-county-appraisal-board/", "snippet": "G.L. 'Larry' Lamborn is a retired CIA and Army Reserve officer who serves as president of the North Central Thousand Oaks Neighborhood Association on San Antonio's North Side; ran for Bexar Appraisal District Place 3 in 2024."}
+    ]
+  },
+  {
+    "donor_id": "727a853c-e851-4bf6-8fa7-e5a91281b5fd",
+    "name": "Leticia Ocampo",
+    "resolved_employer": "Gold's Gym (yoga instructor)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Per filing, a yoga instructor at Gold's Gym in Rancho Viejo, TX (far South Texas near Brownsville). No matching public profile found; LinkedIn 'Leticia Ocampo' results are an unrelated LA-area marketer. Donor to Marina Gavito; no PAC/lobbyist/arena/charter tie found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "70edec0a-c983-409d-80cb-a5ad1ea9604d",
+    "name": "Gary Jones",
+    "resolved_employer": "Green Dot Event Creations (owner/executive director; event planner)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Gary Jones, CSEP, owner/executive director of Green Dot Event Creations (est. 2005), a San Antonio/Austin corporate and social event-planning firm; matches filing occupation 'event planner, self.' No corroborated family tie to Mayor Gina Ortiz Jones despite shared surname.",
+    "source_url": "https://www.fabgreendot.com/site/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Green Dot Event Creations", "role": "Owner / Executive Director", "category": "business", "source_url": "https://www.fabgreendot.com/site/about/", "snippet": "Gary Jones is the owner and executive director of Green Dot Event Creations, which he established in 2005; a Certified Special Event Professional serving Austin and San Antonio, Texas."}
+    ]
+  },
+  {
+    "donor_id": "66276170-4a3c-4c9a-9106-2944506a8150",
+    "name": "William Heilner II",
+    "resolved_employer": "Self-employed (per filing; nature of work not identified)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Lists occupation/employer as 'Self' at a PO Box in Rio Frio, TX (rural Real County Hill Country). No public profile located to identify the business or field. Donor to Jalen McKee-Rodriguez; no PAC/lobbyist/arena/charter tie found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6488aafc-56a0-4ed8-87ed-e4188b194bc1",
+    "name": "Matteo Hinojosa",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation/employer on filing; address 3711 Medical Dr is in the SA Medical Center area (78229). No matching public profile found; other San Antonio 'Hinojosa' results are different people. Donor to Teri Castillo; no PAC/lobbyist/arena/charter tie found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

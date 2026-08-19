@@ -1,0 +1,233 @@
+[
+  {
+    "donor_id": "f73180f1-c107-4df4-ad2a-494d2563c373",
+    "name": "Bellinger, Gina",
+    "resolved_employer": "Food Safety Net Services, Ltd. (President/founder) — nationwide food-safety & consumer-products testing laboratory",
+    "industry": null,
+    "confidence": "high",
+    "evidence": "Confirmed: Gina Bellinger, founder/president of Food Safety Net Services (San Antonio, ~20 North American lab locations), Texas A&M microbiology BS; reappointed by Gov. Abbott to the Governor's Commission for Women (Jan 2024). Zip 78216 and 'President' occupation match. Employer is a commercial food/consumer-product testing lab, which does not map cleanly to the taxonomy, hence industry null.",
+    "source_url": "https://gov.texas.gov/organization/women/commissioners",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Governor's Commission for Women (Texas)", "role": "Commissioner (Gov. Greg Abbott appointee, reappointed Jan 2024, term to Dec 2025)", "category": "civic", "source_url": "https://gov.texas.gov/organization/women/commissioners", "snippet": "In January 2024 Governor Greg Abbott reappointed Gina Bellinger to the Governor's Commission for Women for a term set to expire December 31, 2025."}
+    ]
+  },
+  {
+    "donor_id": "f6f0cb1f-2749-47fa-9345-c7d5839d67d6",
+    "name": "Puri, Rajeev",
+    "resolved_employer": "Athena Domain, Inc. (Partner & President/Owner) — San Antonio commercial/residential real-estate development firm",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Confirmed: Rajeev Puri, Partner/President of Athena Domain, Inc. (6002 Camp Bullis Rd — matches donor address), real-estate investment/development (land, retail, medical, multifamily). Co-developer with James Schuepbach of a $56.1M, 292-unit mixed-use project in the Lone Star District that received a full property-tax exemption via a San Antonio Housing Trust public-facility structure. No documented Project Marvel/arena or charter-school tie.",
+    "source_url": "https://www.sacurrent.com/news/developers-rajeev-puri-james-schuepbach-to-receive-full-property-tax-exemption-for-soflo-apartments-23564335/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f5511203-768c-4e98-a193-38608bcc6f15",
+    "name": "Kustoff, Allison",
+    "resolved_employer": "Not employed for pay — community volunteer (self); active with Impact San Antonio (women's collective-giving nonprofit)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "Likely Allison Kustoff, San Antonio zip 78230 (donor address 2 Westelm Cir), a community volunteer, matching donor occupation 'Volunteer'/employer 'self.' Appears on an Impact San Antonio volunteer team page. No FEC PAC, lobbyist, arena, or charter findings.",
+    "source_url": "https://www.impactsanantonio.org/teams/allison-kustoff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Impact San Antonio", "role": "Volunteer / team member", "category": "civic", "source_url": "https://www.impactsanantonio.org/teams/allison-kustoff/", "snippet": "Allison Kustoff listed on an Impact San Antonio (women's collective-giving nonprofit) team page."}
+    ]
+  },
+  {
+    "donor_id": "f40c1956-b580-4ca6-86e3-8962f846e35a",
+    "name": "Serna, Deborah Jean",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Identity corroborated by address: Deborah Jean Serna, 20403 Terrabianca, San Antonio 78258 (public records; also recorded as Deborah J. Campos). Spouse of San Antonio attorney Baltazar R. Serna Jr. (Serna & Serna, PLLC). No occupation/employer listed for her and no independent professional profile found; her husband's legal career is not attributed to her. No FEC PAC, lobbyist, arena, or charter findings.",
+    "source_url": "https://www.bexar.org/2085/Mr-Baltazar-Serna-Jr",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f1dd5644-d96e-4d5e-93a5-33f88ad0c3d9",
+    "name": "Malik, Farooq",
+    "resolved_employer": "\"Financial coach\" per filing (employer field 'Signify') — specific individual not confirmable via public sources",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Same-name ambiguity — could not confirm the specific McLean, VA person. Filing lists occupation 'Signify' and employer 'Financial coach' (fields appear transposed). Industry classified as Finance solely from the 'Financial coach' string, per fallback; identity unverified. No PAC/lobbyist/arena/charter findings.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eedc9360-96a1-47d1-8600-770c35fef828",
+    "name": "Rodriguez, Cristal",
+    "resolved_employer": "Morgan Stanley (financial advisory / wealth management), San Antonio",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "A Cristal Rodriguez is listed at Morgan Stanley in San Antonio, TX (Business Service Officer, prior roles at Merrill Lynch/UBS), consistent with donor's employer 'Morgan Stanley' and San Antonio 78253 address; donor record occupation is 'Broker.' No public political/advocacy profile found.",
+    "source_url": "https://rocketreach.co/cristal-rodriguez-email_848145640",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ea79ff0b-1be0-4b95-8573-91a6ab2d3f48",
+    "name": "Malas, Mohannad",
+    "resolved_employer": "President/CEO, Dana Investment Corp (real estate operating company, est. 1984); co-founder & principal, IRA Capital, Laguna Beach CA",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Exact match: Mohannad S. Malas, President of Dana Investment Corp and co-founder of IRA Capital, based in Laguna Beach/Irvine CA; real estate developer with $3B+ in transactions; trustee at Claremont Graduate University. Documented federal donor giving heavily to Democratic and Arab/Muslim-American candidates. Gave to San Antonio D8 candidate Sakib Shaikh.",
+    "source_url": "https://www.danainvestments.com/team",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Federal campaign contributions (FEC)", "role": "individual donor", "category": "political", "source_url": "https://www.campaignmoney.com/political/contributions/mohannad-malas.asp?cycle=20", "snippet": "2020 cycle ~$45,425 total, ~94% Democratic: Rashida Tlaib, Ilhan Omar, Ammar Campa-Najjar, Rush Darwish, Biden for President, ActBlue — pattern concentrated on Arab/Muslim-American and progressive candidates."},
+      {"org": "Claremont Graduate University", "role": "Board of Trustees", "category": "civic", "source_url": "https://www.cgu.edu/about/board-of-trustees/mohannad-s-malas/", "snippet": "Mohannad S. Malas listed as a member of the CGU Board of Trustees."}
+    ]
+  },
+  {
+    "donor_id": "e4a5e181-3d1d-4c51-adca-1da161d06f68",
+    "name": "Soni, Puneet",
+    "resolved_employer": "CTC Global (Irvine CA HQ) — manufacturer of ACCC advanced composite-core power-transmission conductors; donor listed as 'MPE Manager', Bakersfield CA",
+    "industry": "Energy / Environment",
+    "confidence": "low",
+    "evidence": "Could not individually confirm this specific Puneet Soni on zip+occupation (multiple people by that name; none clearly matched Bakersfield/CTC Global). Classified by employer string: CTC Global is a power-grid transmission-conductor manufacturer. No political/advocacy profile found.",
+    "source_url": "https://ctcglobal.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e06bb6e8-93ba-4ef0-8b2b-73c6df2f1e7f",
+    "name": "March, Investments",
+    "resolved_employer": "March Investments LLC — investment holding entity at PO Box 782257, Wichita KS 67278 (not a person)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Entity, not an individual. Donor PO box in Wichita KS is shared with several 'March'-named entities including March Oil Company (a Wichita petroleum/oil producer), suggesting a family/holding-company office with a possible oil & gas nexus. Shared-address linkage only (not a verified primary filing), so no oil_gas affiliation asserted. A separate marchinvestments.net owned by 'Abraham Sheikh' does not match this address and appears unrelated.",
+    "source_url": "https://www.dnb.com/business-directory/company-profiles.march_oil_company_llc.edad033bb5475a3cca8f6eedbf1253fc.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dcaa79af-632c-4fa0-a103-3f258b92ad50",
+    "name": "Johnson, Jerry",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Unresolvable: extremely common name with no occupation or employer on the donor record, at 12940 Country Pkwy, San Antonio 78216. Directory/obituary/permit results for 'Jerry Johnson' in San Antonio could not be corroborated to this address or to any profession. No political/advocacy profile found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dbdc0f8e-13a3-4f2e-8125-5786b78cc8e5",
+    "name": "Cohen, Kenneth",
+    "resolved_employer": "Atlantic | Pacific Companies (real estate development/management firm, South Florida) — CFO and Managing Partner",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Kenneth Cohen is CFO/managing partner of family-owned Atlantic | Pacific Companies (Boca Raton/Miami); FEC individual records show a Kenneth Cohen on Windjammer Way, Hollywood FL 33019, employer 'Atlantic Pacific Companies', occupation 'Development', a prolific Democratic donor. Street number differs slightly from donor record (1585 vs 1556 Windjammer Way) but same street/zip/firm, so medium confidence.",
+    "source_url": "https://apcompanies.com/team/kenneth-cohen/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Democratic federal candidates (FEC individual contributions)", "role": "individual donor", "category": "political", "source_url": "https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Kenneth+Cohen&contributor_state=FL", "snippet": "FEC schedule A shows Kenneth Cohen, Hollywood FL 33019, employer Atlantic Pacific Companies, giving to Democratic U.S. House candidates in FL (Oliver Gilbert; Ken Russell)."}
+    ]
+  },
+  {
+    "donor_id": "d9131ef8-815e-450b-abab-3d11334dce88",
+    "name": "Teeter, Scott",
+    "resolved_employer": "Teeter's Courier Service (owner/self-employed), Austin TX area — tentative",
+    "industry": "Transportation",
+    "confidence": "low",
+    "evidence": "Best public match is a Scott Teeter listed as small-business owner of Teeter's Courier Service in the Austin area, consistent with donor's self-reported 'Business Owner / Self' in SW Austin zip 78736. Multiple same-name people exist (a Bitterblue Investments exec, a Heartwood land developer), so identity not fully corroborated.",
+    "source_url": "https://www.linkedin.com/in/scott-teeter-334161117",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d7c7aeec-6051-40be-9c58-568b0c419ae4",
+    "name": "Syed, Rubab",
+    "resolved_employer": "Self-reported physician at Methodist (Methodist Healthcare, San Antonio) — not independently confirmed",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Donor self-reports as physician at Methodist in San Antonio 78255 (Stone Oak). No independent confirmation found: NPI registry returns no Rubab Syed in TX, and matching profiles are California-based. Industry classified from the self-reported occupation/employer only; specific person not verified.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d6497f53-6cd8-4a7d-83c4-30b2ee41227f",
+    "name": "Alghadban, Houssam",
+    "resolved_employer": "Advanced Periodontics & Dental Implants (owner/CEO), San Antonio & Schertz; adjunct professor, UT Health San Antonio School of Dentistry",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Houssam E. Alghadban, DDS, board-certified periodontist practicing in San Antonio (Stone Oak) and Schertz for 20+ years; owner of Advanced Periodontics & Dental Implants and adjunct faculty at UT Health SA. Matches donor's 'Periodontist / Self employed' in 78255. Memberships are professional dental societies (AAP, ABP, ADA, TSP), not policy-advocacy orgs.",
+    "source_url": "https://www.healthgrades.com/dentist/dr-houssam-alghadban-3xjch",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d5c2809d-06e9-4c52-a569-7525076108a4",
+    "name": "Langdon, Ryan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm the specific individual. Donor record lists occupation/employer as 'Information Requested' and zip 94188, a San Francisco general mail-facility/PO-box ZIP, not a residential identifier. Multiple Ryan Langdons exist with no corroborating tie to this donation. No affiliation forced per fallback rule.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d52c4cb9-420c-4df0-a36f-d41b3d3b9519",
+    "name": "Garcia Garibay, Veronica",
+    "resolved_employer": "Retail/convenience stores (retail manager) — specific person not confirmed",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Self-reported retail manager for retail/convenience stores in 78249. No LinkedIn, firm page, or news profile could be matched to this exact person on zip+occupation; multiple unrelated matches exist. Classifying by employer string only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d1834b24-549a-4fe7-bb64-cc92cbc3f201",
+    "name": "Malik, Nirmaljeet",
+    "resolved_employer": "Self-reported 'Partner' at 'Papillon' — Papillon business not identifiable. Confirmed resident of 5175 Princess Anne Rd, La Canada Flintridge, CA 91011; address shared with family entities Malik Bros LLC, Malik Enterprises LLC, Malik Consultation Inc.",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Identity confirmed on the exact La Canada Flintridge address via public records; a Sikh-surnamed out-of-state donor to Sukh Kaur (San Antonio's first Sikh council member). Occupation/employer 'Papillon' could not be resolved to any known business, so industry left null.",
+    "source_url": "https://www.bizprofile.net/ca/la-canada-flintridge/malik-enterprises-llc",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d12af747-5eda-469d-bae6-b106c8c85d67",
+    "name": "Hebdon, Elizabeth",
+    "resolved_employer": "Hebdon Reblin Designs — self-employed handmade gold-wire jewelry designer, San Antonio",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Elizabeth Hebdon Reblin, jewelry maker (@hebdonreblindesigns, 'gold wired jewelry handmade in San Antonio'); address 8102 Nufy Ridge, 78209 matches public records. Granddaughter of the late Jack Hebdon, prominent San Antonio trial attorney. No PAC/lobbyist/arena/charter findings.",
+    "source_url": "https://www.instagram.com/hebdonreblindesigns/?hl=en",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d09cdb4d-b3d3-433d-8971-051f2bef5c19",
+    "name": "Agrawala, Jahid",
+    "resolved_employer": "Self-employed investor; principal of Fiza Investments Inc (San Antonio); director of Islamic Peace Foundation and (previously) US-Suffa Academy Inc",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Jahid S. Agrawala, listed investor via Fiza Investments Inc, San Antonio; corporate records tie him to Islamic Peace Foundation and US-Suffa (Suffah) Academy (a private Islamic school, NOT a charter school). Address 1802 Enero Park, 78230 corroborated. Donor to D8 candidate Sakib Shaikh.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/jahid-s-agrawala/37732786.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Islamic Peace Foundation / US-Suffa Academy Inc", "role": "Director", "category": "civic", "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/jahid-s-agrawala/37732786.aspx", "snippet": "Jahid Agrawala listed as agent/director for Islamic Peace Foundation and previous director for US-Suffa Academy Inc (a private Islamic school, not a charter school)."}
+    ]
+  },
+  {
+    "donor_id": "cff03045-183d-4e13-a191-990c95a80fbb",
+    "name": "Farias, Jessica",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Occupation and employer both filed as 'NA'. Common name with many unrelated matches; no profile could be confirmed on zip 78218 plus occupation. Donor to Sukh Kaur. No PAC/lobbyist/arena/charter findings.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

@@ -1,0 +1,238 @@
+[
+ {
+  "donor_id": "734560cc-df73-428c-8b9a-b7dde87f80e4",
+  "name": "Smith, Andrea",
+  "resolved_employer": "Medaille College",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Listed as an instructor at Medaille College in Williamsville, NY (14221). Medaille is a real degree-granting college in Williamsville; the specific individual could not be uniquely verified given the very common name, but occupation+employer are consistent with higher-education instruction.",
+  "source_url": "https://www.idealist.org/en/nonprofit/358a30df6e6f4677b39636d0487052c4-medaille-college-williamsville",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6a0528c0-d62e-4ccc-a3f8-942c0fa67974",
+  "name": "Herrera, Daniel",
+  "resolved_employer": "Results for America",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed: Daniel Herrera, Director of Local Practice (formerly Director of Partnerships & Community Impact) at Results for America, a national government-innovation nonprofit; based in San Antonio, TX. Prior roles at Harvard Kennedy School Government Performance Lab and NYC Administration for Children's Services.",
+  "source_url": "https://results4america.org/people/daniel-herrera/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5acf0f7b-b62d-4ea9-9997-d60655543005",
+  "name": "TreviÃ±o, Matteo",
+  "resolved_employer": "City of San Antonio",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Matteo Treviño works for the City of San Antonio; donor record lists him as a Council Aide (City Council LGC) and public business-data listing shows him as Director, Policy at the City of San Antonio. Municipal government staffer.",
+  "source_url": "https://www.zoominfo.com/p/Matteo-Trevin%CC%83o/2380948492",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "589abdaf-2559-49e9-96a3-9c8812636ff8",
+  "name": "Cox, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer provided; address in San Antonio's 78209 (Alamo Heights/Terrell Hills area). 'Michael Cox' is a very common name and no distinguishing public profile could be corroborated on zip + occupation. No public affiliations found.",
+  "source_url": "https://tx.postcodebase.com/zipcode5/78209",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "56ec737c-1cb4-489e-8369-1052ea719045",
+  "name": "Garcia, Cesario",
+  "resolved_employer": "Self-employed (video/film production)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Cesario Garcia is a self-employed San Antonio video/film producer (~20 yrs; owner of ZFP/Zform, credits on IMDb/ProductionHUB) who ran for San Antonio City Council District 8 in 2025 as a conservative activist and former TV journalist. Matches donor's 78249 (District 8) address and 'Film Production / Self' occupation.",
+  "source_url": "https://votecesario.com/meet-cesario/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {
+    "org": "San Antonio City Council District 8 (candidate)",
+    "role": "2025 City Council candidate / conservative activist",
+    "category": "political",
+    "source_url": "https://ballotpedia.org/Cesario_Garcia",
+    "snippet": "Ballotpedia and San Antonio Report list Cesario Garcia as a 2025 candidate for San Antonio City Council District 8, described as a conservative activist and former TV journalist."
+   }
+  ]
+ },
+ {
+  "donor_id": "51231c8b-81c5-4e59-abbc-af526cd553c5",
+  "name": "Macias, Janet",
+  "resolved_employer": "Northside Independent School District (NISD)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Janet Macias is an Instructional Assistant (IA SE) at Brauchle Elementary in NISD, San Antonio (email janet.macias@nisd.net), matching the stated occupation and NISD employer; zip 78253 is in NISD's Northside/far-west area. No FEC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.nisd.net/brauchle/about/directory",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "50cd1fd1-d9e2-489f-913e-5bc72977d652",
+  "name": "Gonzalez, Michelle",
+  "resolved_employer": "SAISF (likely SAISD Foundation, unconfirmed)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Common name; could not corroborate a specific Michelle Gonzalez in a program-evaluator role at SAISF/SAISD Foundation. Employer string points to a school-support nonprofit (SAISD Foundation), so industry classified by employer at low confidence. No FEC, lobbyist, arena, or charter-advocacy ties found.",
+  "source_url": "https://saisdfoundation.com/about/who-we-are/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5061c4b5-3f6c-422e-b796-a3f9e643b5fa",
+  "name": "Atamosa, Laura",
+  "resolved_employer": "Archdiocese of San Antonio",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Laura Atamosa is Manager of Parish Operations at the Archdiocese of San Antonio (Master of Healthcare Administration, Texas State 2019-2021), matching the 'Business Manager / Archdiocese of San Antonio' record; religious nonprofit. No FEC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://theorg.com/org/archdiocese-of-san-antonio/teams/office-and-operations-management",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "424d1536-cca3-44d3-ad1c-38bbf5666f6b",
+  "name": "E Hernandez, Janie",
+  "resolved_employer": "PeopleFund",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Janie Hernandez is listed on PeopleFund's staff page as SVP of Employee Relations and HR, an HR executive with 25+ years in the nonprofit sector (prior HR leadership at LiftFund); matches 'Sup Human Resource / People Fund'. PeopleFund is a Texas nonprofit CDFI microlender. No FEC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://peoplefund.org/about-us-small-business-loans/staff/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3e57f2b9-5b5e-4c73-836f-ec8096de0e32",
+  "name": "Gaera, Jesus",
+  "resolved_employer": "Amron Pumping Services",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "Amron Pumping Services is confirmed as a locally owned septic and grease-trap pumping / waste-services company at 6721 FM 743, Kenedy, TX 78119 (matches donor address); could not independently corroborate Jesus Gaera as its admin assistant, so classified by employer (environmental/waste services) at low confidence. No FEC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.amronpumpingservices.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1ec8f5ff-9ec3-4dc2-886b-e9ae75b66281",
+  "name": "Barajas, Josephine",
+  "resolved_employer": "Visionworks",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Optician at Visionworks (national optical retail/eyecare chain with multiple San Antonio locations). No distinct public profile beyond self-reported employer; ordinary resident, no advocacy footprint found.",
+  "source_url": "https://locations.visionworks.com/ll/US/TX/San-Antonio/270-E-Basse-Rd",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1c9a7a81-87be-4a8d-be66-5c2384664889",
+  "name": "Hall, Laken",
+  "resolved_employer": "City of San Antonio (council office)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Self-reported occupation 'City Council' / employer 'City.' No elected official named Laken Hall exists on San Antonio City Council, so she is a council-office staffer/aide (e.g., constituent service rep), not an elected member. No individual public profile located.",
+  "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/About/Staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "159af4f6-8768-4b26-8291-f05c3fda8511",
+  "name": "Ytuarte, Krysta",
+  "resolved_employer": "WMIC (insurance carrier)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Insurance adjuster at WMIC (an insurance carrier). A Krysta Ytuarte is also listed as an insurance agent on InsureHopper in the San Antonio area, corroborating the insurance-industry classification. No advocacy or PAC footprint found.",
+  "source_url": "https://www.insurehopper.com/agent-profile?agent_id=MjY1NzQz",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0286b3b7-817f-4c43-b842-902843e829db",
+  "name": "Moreno, Ricardo",
+  "resolved_employer": "Southside ISD",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Assistant Principal at Southside ISD (public school district on far south side of San Antonio). Common name; not conflated with the separate Ricardo Moreno who is a Harlandale ISD board candidate/Northside ISD teacher, nor the KSAT photojournalist. No advocacy role beyond ISD employment.",
+  "source_url": "https://southsideisd.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "024ac98d-1039-46a6-9578-4de0f59c8993",
+  "name": "Watts, Mireya",
+  "resolved_employer": "Orangetheory Fitness",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Studio Manager at an Orangetheory Fitness location (Missouri City/Houston-area franchise), a boutique fitness/wellness service business. No distinct public profile; not connected to Mikal Watts or any political/advocacy activity.",
+  "source_url": "https://www.orangetheory.com/en-us/locations",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f23e746c-4cc4-48f2-af07-165c97adf7d4",
+  "name": "Lindig Lovett, Dianne",
+  "resolved_employer": "Hill Country Equestrian Lodge (self/owner)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Co-owner/operator of Hill Country Equestrian Lodge near Bandera, TX (equestrian guest lodge/trail-riding tourism business), established 1999; address 1580 Hay Holler Rd matches donor address (Bandera 78003). Self-employed ranch/hospitality operator. No documented tie to the Central Texas 'Lindig' excavation/land family found; not asserted.",
+  "source_url": "https://www.becauseofhorses.com/episode-22-dianne-lindig-and-the-hill-country-lodge",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3ffb53fb-f737-4ec2-a319-0a560531522f",
+  "name": "Boghs, Maribel",
+  "resolved_employer": "Cantex Continuing Care Network",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Maribel (Linda) Boghs is a licensed Physical Therapist Assistant (Texas PTA license, San Antonio) employed by Cantex Continuing Care Network, a skilled-nursing/rehabilitation therapy provider. Matches donor occupation (physical therapy) and employer (Cantex) in San Antonio.",
+  "source_url": "https://www.findhelp.org/provider/cantex-continuing-care-network--san-antonio-tx/5280159601000448?postal=78201",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "355d0be3-d4a1-4e12-aa96-01312ccd0768",
+  "name": "Borchers, Sarah",
+  "resolved_employer": null,
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Sarah E. Borchers, 1512 Tamarack Dr, Long Lake MN 55356 (exact address match). Elected member of the Orono (MN) Independent School District 278 board since 2014, currently Board Chair. No paid employer listed; public role is local public-school governance. Donor record has blank occupation/employer.",
+  "source_url": "https://ballotpedia.org/Sarah_Borchers_(Orono_School_Board,_Minnesota,_candidate_2022)",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {
+    "org": "Orono Public Schools (ISD 278), Minnesota",
+    "role": "School Board Chair / Director (elected, since 2014)",
+    "category": "civic",
+    "source_url": "https://ballotpedia.org/Sarah_Borchers_(Orono_School_Board,_Minnesota,_candidate_2022)",
+    "snippet": "Ballotpedia lists Sarah Borchers as Orono School Board Chair/Director, an elected public-school-board seat held since 2014."
+   }
+  ]
+ },
+ {
+  "donor_id": "d5436113-f6a7-4eab-9e17-b5bc14d38822",
+  "name": "Moreno, Robert",
+  "resolved_employer": "Boyd Caton Group, Inc.",
+  "industry": "Transportation",
+  "confidence": "high",
+  "evidence": "Robert (Lee) Moreno is a Transit Safety Analyst & Training Developer at Boyd Caton Group, Inc., a public-transit/rail safety and security consulting firm, based in San Antonio. Matches donor occupation and employer. (A loose secondary result associating him with San Antonians for Rail Transit could not be confirmed for this individual and is not asserted.)",
+  "source_url": "https://theorg.com/org/boyd-caton-group-inc/org-chart/robert-moreno",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8b75b890-f1c8-4aa1-b5cc-71f37dce542e",
+  "name": "Barrera, Randy",
+  "resolved_employer": "Meta Platforms, Inc.",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Randy Barrera is an Administrative Specialist / Executive Assistant at Meta Platforms (verified via LinkedIn and ZoomInfo, fb.com email domain), previously an Administrative Associate at UT Austin; located in Buda, TX. Confirms donor employer 'Meta' = Meta Platforms (tech).",
+  "source_url": "https://www.linkedin.com/in/randy-barrera-272441137/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

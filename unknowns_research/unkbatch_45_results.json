@@ -1,0 +1,230 @@
+[
+  {
+    "donor_id": "0edb2eb3-9f10-4d90-b3d2-35a930de0c71",
+    "name": "Kressin, Matthew",
+    "resolved_employer": "Sawtooth Designs of Austin (self-employed furniture maker/woodworker)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Matthew David Kressin owns Sawtooth Designs of Austin, a custom hardwood furniture business registered at 5600 Shoalwood Ave, Austin, TX 78756 — an exact match to the filer's address and to 'Craftsman/Self'. No PAC, lobbyist, arena, or charter ties surfaced.",
+    "source_url": "https://opengovus.com/texas-taxpayer/32053918564",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0bb32073-95d9-469d-9042-b98cfbcac074",
+    "name": "Maloney, Jordyn",
+    "resolved_employer": "CG Wax Studio (self-employed esthetician, Sola Salons Galleria Oaks, San Antonio)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Jordyn Maloney is a solo esthetician operating CG Wax Studio out of Sola Salons San Antonio-Galleria Oaks; matches 'Esthetician/Myself' and San Antonio location. Ordinary small-business owner; no PAC, lobbyist, arena, or charter footprint found (the 'Gary Maloney' GOP-operative result is an unrelated person).",
+    "source_url": "https://www.solasalonstudios.com/salon-professional/jordyn-maloney1",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "03638431-fd49-44d3-a0d6-cc90a7810e7e",
+    "name": "Schneider, Michele",
+    "resolved_employer": "Self-employed designer (unconfirmed)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Filer reports 'Designer/Self' in Sherman Oaks, CA 91423. Could not distinguish a specific Michele Schneider among many same-named individuals in the Sherman Oaks/LA design scene; no confirming zip/occupation match. Industry set by employer-fallback only. No PAC, lobbyist, AIPAC, arena, or charter ties found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0040238b-a014-46ad-8c39-5cb207de10b1",
+    "name": "Garcia, Julian",
+    "resolved_employer": "Salon Julian (owner/stylist/colorist, San Antonio)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Julian Garcia is owner/stylist/colorist of Salon Julian at 7811 Bowens Crossing, San Antonio, TX 78250 — an exact address match to the filing and to 'Hairdresser/Self'. Ordinary small-business owner; no PAC, lobbyist, arena, or charter ties surfaced.",
+    "source_url": "https://www.linkedin.com/in/julian-garcia-ab9bbb96/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "03e175ef-32f4-4261-a3c2-84135d65a387",
+    "name": "Lamm, Dorothy",
+    "resolved_employer": "Retired (former career unidentified)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Retired donor at 5401 E Dakota Ave Unit 20, Denver, CO 80246. Explicitly NOT the well-known Dottie/Dorothy Vennard Lamm (former Colorado First Lady), whose Denver public-record address is 400 E 8th Ave, 80203 — a different address, so the two are not conflated. No former career could be confirmed for this Dorothy Lamm; no PAC, lobbyist, arena, or charter footprint found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e54ac368-db61-4975-99ce-2da5b2b6b7ae",
+    "name": "Elkins, Sandra",
+    "resolved_employer": "Self-employed art instructor (unconfirmed)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Filer reports 'Art Instructor/Self' in Plano, TX 75025. Could not confirm a specific Sandra Elkins among several same-named Texans; no corroborating public profile on zip/occupation. Industry set by employer-fallback only. No PAC, lobbyist, arena, or charter ties found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dd4dd173-14bb-489f-a382-b0a6e037ff5e",
+    "name": "Sims, La-Tieka",
+    "resolved_employer": "City of San Antonio — council office staff (Chief of Staff, District 7; formerly aide to CMs Bravo/District 1 and Andrews-Sullivan/District 2)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "La-Tieka Sims is a distinctively-named City of San Antonio council staffer (TAMUSA alum, IGNITE SA Fellow) who rose from constituent-services/policy roles under CMs Jada Andrews-Sullivan (D2) and Mario Bravo (D1) to Chief of Staff for District 7 in 2025; San Antonio location and 'Director' role match the filing. Council-insider donating to council candidate Marina Gavito. No FEC PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.linkedin.com/in/la-tieka-sims/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "City of San Antonio (City Council staff)",
+        "role": "Chief of Staff, Council District 7 (previously constituent-services/policy aide to CM Mario Bravo, D1, and CM Jada Andrews-Sullivan, D2)",
+        "category": "political",
+        "source_url": "https://ignitenational.org/blog/meet-la-tieka-sims-ignites-san-antonio-fellow",
+        "snippet": "Sims began as an intern for District 2 Councilwoman Jada Andrews-Sullivan, became deputy director of policy, then constituent-services rep for District 1 Councilman Mario Bravo; reported in 2025 as Chief of Staff for City Council District 7."
+      }
+    ]
+  },
+  {
+    "donor_id": "46725f05-6549-4b17-ac84-5e98c50e7b9b",
+    "name": "MUSE, JUDITH",
+    "resolved_employer": "Imperial Distributors Inc. (wholesale/grocery distributor), talent-acquisition recruiter/sourcer",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Talent-acquisition/sourcing professional in central Massachusetts; filer-reported employer Imperial Distributors (a wholesale distributor) matches public ZoomInfo/LinkedIn profiles for a Judith Muse recruiter in the Lunenburg/Worcester-area distribution sector. Ordinary individual donor, no policy footprint.",
+    "source_url": "https://www.zoominfo.com/p/Judith-Muse/1883587470",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b89d9977-ede7-42f8-a1cb-2c02c140b43a",
+    "name": "Rohlf, Gerard",
+    "resolved_employer": "Pittsburgh-area traditional/folk musician (The NewLanders); no occupation reported on filing",
+    "industry": "Entertainment",
+    "confidence": "low",
+    "evidence": "Name+city match to a Pittsburgh folk musician active in local music/community projects (Neighborhood Voices, AllMusic) and politically active online; FEC shows small 2016 Democratic contributions from a Gerard Rohlf in Pittsburgh. No occupation/employer anchor in the filing, so identity is only name+city corroborated.",
+    "source_url": "https://neighborhoodvoices.org/paula-purnell-gerard-rohlf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e07f7ef1-7443-4246-8f10-ba79e8680d07",
+    "name": "Gannon, John",
+    "resolved_employer": "Willis Towers Watson (WTW), Boston — insurance broker/associate director",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Insurance broker at Willis/WTW in Boston; filer-reported occupation (insurance broker) and employer (Willis) match a public LinkedIn profile for a John Gannon, Associate Director at Willis Towers Watson, Boston. No lobbyist/PAC or arena/charter footprint.",
+    "source_url": "https://www.linkedin.com/in/john-gannon-932a1912/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "da3d1537-e478-45a2-abf7-130b9f9b4eba",
+    "name": "Matheny, Shelagh",
+    "resolved_employer": "Marsh & McLennan Agency, Roanoke, VA — account manager (insurance)",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Filer-reported occupation (account manager) and employer (Marsh & McLennan) fit the Marsh & McLennan Agency insurance office in Roanoke, VA, matching the donor's Roanoke address; no individual public profile located to corroborate beyond the employer/occupation match.",
+    "source_url": "https://www.marshmma.com/us/locations/virginia/roanoke.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bd324f86-3aa6-4c48-b82d-4b3c0228a4ae",
+    "name": "Perez, Alexandra",
+    "resolved_employer": "Progressive (auto insurance), San Antonio — claims",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Claims worker at Progressive in San Antonio; a public LinkedIn profile exists for an Alexandra Perez in San Antonio, TX, consistent with the filer-reported occupation/employer and the donor's local San Antonio address. Ordinary local donor, no policy footprint.",
+    "source_url": "https://www.linkedin.com/in/alexandralperez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7215d650-ed60-4ea7-829b-38d2e39f2c9e",
+    "name": "Engonidis, Peter",
+    "resolved_employer": "Owner, Georgio's Famous Pizza, North Myrtle Beach, SC",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Owner of Georgio's Famous Pizza (est. 1975) in North Myrtle Beach, SC; ZoomInfo and LinkedIn both confirm Peter Engonidis as owner, matching the filer-reported occupation (restaurateur) and employer. Small-business restaurant owner, no political/advocacy footprint.",
+    "source_url": "https://www.linkedin.com/in/peter-engonidis-b088b971/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "688d2c43-c6ad-4645-b6c9-52ec345f6904",
+    "name": "Carbonell, Joaquin",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer reported on the filing. Several public individuals named Joaquin Carbonell exist (including a Harvard Kennedy School Government Performance Lab project leader), but none can be corroborated to this specific Washington, DC donor on occupation or address, so identity is unresolved.",
+    "source_url": "https://www.linkedin.com/pub/dir/Joaquin/Carbonell",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6426bde8-bc9f-44a0-8172-e2f16f126c7d",
+    "name": "Boeskin, Tania",
+    "resolved_employer": "Flagstaff Medical Center (Certified Physical Therapist Assistant)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Tania Boeskin as a Certified Physical Therapist Assistant; matches filer-reported occupation (Physical Therapy Assistant) and employer (Flagstaff Medical Center). Flagstaff, AZ resident.",
+    "source_url": "https://www.linkedin.com/in/tania-boeskin-15bba6341",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "487bebee-48e1-407a-85a2-b82f262b1785",
+    "name": "Poynor, Joe",
+    "resolved_employer": "Hirschbach Motor Lines (truck driver)",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Filer-reported occupation (Driver) and employer (Hirschbach) are consistent with Hirschbach Motor Lines' documented OTR trucking operations out of the Galesburg/East Galesburg, IL area. No unique public profile beyond generic occupation/employer; employer-fallback classification.",
+    "source_url": "https://www.hiremaster.com/truck-driving-jobs/job/hirschbach-motor-lines/east-galesburg-illinois-otr-truck-drivers/1024980/6479/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3811683e-0132-4a42-9c31-3a699256975e",
+    "name": "Weilenmann, Amanda",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "West Lake Hills, TX (Austin area) donor to Jalen McKee-Rodriguez. No occupation/employer reported by the filer and no confirmable public profile for an 'Amanda Weilenmann' at that address; the surname appears in TX/AZ but identity could not be corroborated. Unidentifiable after searches.",
+    "source_url": "https://en.wikipedia.org/wiki/West_Lake_Hills,_Texas",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "13f45f83-3eae-4fa0-8fa7-ab632aa86e4f",
+    "name": "Ferrick, Frieda",
+    "resolved_employer": "Self-employed licensed counselor / marriage & family therapist (Frieda L. Ferrick, MFT)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "LinkedIn and practice listings confirm Frieda L. Ferrick, MFT, a self-employed licensed counselor in Santa Rosa, CA (private practice since 1991, grief/loss and trauma counseling). Matches filer-reported occupation (counselor) and 'self employed'.",
+    "source_url": "https://www.linkedin.com/in/friedaferrickmft/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3444b39f-e0ef-4a35-be42-74ea5ca070d1",
+    "name": "Lambert, Paul R",
+    "resolved_employer": "NAPCO Security Technologies (Technical Services Specialist)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "LinkedIn and ZoomInfo confirm Paul Lambert as a Technical Services Technician/Specialist at NAPCO Security Technologies covering CT/MA/RI/southern NH; matches filer-reported occupation and employer. Canaan, NH resident.",
+    "source_url": "https://www.linkedin.com/in/paul-lambert-308b24b1/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "31f19434-05d6-4c78-abb0-3309c5e7c0f4",
+    "name": "Rodríguez-Mora, Hiram Alfredo",
+    "resolved_employer": "Self (independent visual artist / painter-sculptor)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Auction listing shows an acrylic painting 'Daydreaming...' by Hiram Rodriguez-Mora auctioned in Astoria, NY, consistent with the filer-reported occupation (Painter/Sculptor) and employer ('Self') and the New York, NY address. Independent visual artist.",
+    "source_url": "https://hibid.com/lot/257295417/hiram-rodriguez-mora--daydreaming-----acrylic",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

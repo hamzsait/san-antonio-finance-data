@@ -1,0 +1,114 @@
+[
+ {
+  "donor_id": "8540cb2d-7633-4648-9126-a55ba7de06af",
+  "name": "Griffith, JR",
+  "resolved_employer": "Webweaver Creation (small web-design business, Waterford, MI)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Out-of-state ($1) donor to McKee-Rodriguez listing a solo web-design business 'Webweaver Creation' in Waterford, MI. No public footprint for the business or individual could be confirmed; classified by the filer-reported occupation.",
+  "source_url": "https://web7marketing.com/locations/michigan/waterford-web-designers/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "71e0a636-946a-4218-9eeb-93415358a18a",
+  "name": "Perilli, Justin",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state ($1) donor to McKee-Rodriguez in Hyde Park (Boston), MA with no filer-reported occupation or employer. Searches returned only neighborhood/real-estate results; the specific individual could not be identified.",
+  "source_url": "https://en.wikipedia.org/wiki/Hyde_Park,_Boston",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7074e2be-80c9-4962-bc2a-85c06c2bf1ee",
+  "name": "Buss, Rojoane",
+  "resolved_employer": "Global Financial (Due Diligence Coordinator), Thousand Oaks, CA",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Distinctive-named ($1) donor to Gina Ortiz Jones; filer-reported as a Due Diligence Coordinator at 'Global Financial' in Thousand Oaks, CA (zip 91360 corroborates the occupation/location). A back-office finance role with no advocacy footprint; no PAC, lobbyist, arena or charter tie found.",
+  "source_url": "https://www.city-data.com/elec2/20/elec-THOUSAND-OAKS-CA-20-part24.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6110adc6-e9c8-4d8a-b3b9-84084ba2228f",
+  "name": "Weigle, Michael",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state ($1) donor to McKee-Rodriguez in Fairfax, VA with no filer-reported occupation or employer (the '10855' zip field is a street-number artifact; address resolves to Fairfax VA 22030). Common name; no specific individual could be confirmed.",
+  "source_url": "https://www.spokeo.com/Michael-Cunningham/Virginia/6",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5fd0a2f0-6b9d-4c91-9609-0f3ce31fb0b9",
+  "name": "Rivas, Meadow",
+  "resolved_employer": "U.S. Department of the Navy (Contract Specialist, federal civilian employee)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Out-of-state ($1) donor to McKee-Rodriguez; filer-reported as a Contract Specialist for the Dept of Navy. This is a federal civilian acquisition role, not a defense-contractor principal, so no military_defense affiliation applies. Specific individual not independently confirmed; classified by occupation.",
+  "source_url": "https://www.usajobs.gov/job/870256300",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "52e13c92-a09a-4f17-b1e0-db2274b18462",
+  "name": "Stedman, Barbara",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state ($1) donor to McKee-Rodriguez in Portland, OR with no filer-reported occupation. A Barbara Stedman appears at the same SW Eagles Nest Ln address in Multnomah County records, but with multiple same-named individuals and no occupation the specific person/industry cannot be confirmed. No PAC, lobbyist, arena or charter tie found.",
+  "source_url": "https://multco.us/file/democratic_party_pcp_filings/download",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2d1975e5-d10b-488c-8803-f5a0c131b700",
+  "name": "Fritz, Hogan",
+  "resolved_employer": "Reality Check Games / independent media producer, New York, NY (from Portland, OR)",
+  "industry": "Entertainment",
+  "confidence": "medium",
+  "evidence": "Distinctive-named ($1) donor to McKee-Rodriguez; a Hogan Fritz in NYC is a young entertainment/media producer (Reality Check Games; prior arts/film-festival profile), originally from Portland, OR. Name + NYC location match the filing. No policy-advocacy, PAC, lobbyist, arena or charter tie found.",
+  "source_url": "https://www.linkedin.com/in/hogan-fritz-a45537109/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "299d4bbd-a272-47cc-a538-4a628247028a",
+  "name": "Godes, Jared",
+  "resolved_employer": "JG Impact LLC (political/nonprofit fundraiser & event manager), Los Angeles, CA",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Donor ($1) to Gina Ortiz Jones; a professional political fundraiser/event manager (JG Impact LLC, Los Angeles) who sits on the LGBTQ+ Victory Fund's Victory Campaign Board (Western Caucus). Name, LA location and 'Fundraiser / JG Impact LLC' filing all corroborate. No arena, charter, lobbyist or Israel/Palestine tie found.",
+  "source_url": "https://victoryfund.org/about/victory-campaign-board/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "LGBTQ+ Victory Fund", "role": "Victory Campaign Board member (Western Caucus)", "category": "political", "source_url": "https://victoryfund.org/about/victory-campaign-board/", "snippet": "Jared Godes is listed on the Victory Campaign Board, Western Caucus, from Los Angeles, CA; the board supports electing LGBTQ+ candidates nationally."}
+  ]
+ },
+ {
+  "donor_id": "17c4d5e6-2344-4ca7-988b-9a7cc8d8e5c9",
+  "name": "cunningham, lynda",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state ($1) donor to McKee-Rodriguez in Seaside, CA with no filer-reported occupation or employer. Common name; no matching individual could be confirmed. No PAC, lobbyist, arena or charter tie found.",
+  "source_url": "https://www.spokeo.com/Michael-Cunningham/Virginia/6",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0eaf416a-ebee-4be6-80ee-39deb3be238f",
+  "name": "ANDERSON, GAIL FOLTZ",
+  "resolved_employer": "Museum (merchandising role), Saint Petersburg, FL",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Out-of-state ($1) donor to McKee-Rodriguez in St. Petersburg, FL; filer-reported occupation 'Merchandising' at a 'Museum' (i.e., a museum-store/retail role). The specific individual could not be independently confirmed; classified by the filer-reported occupation. No PAC, lobbyist, arena or charter tie found.",
+  "source_url": "https://spmoh.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

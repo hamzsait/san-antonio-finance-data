@@ -1,0 +1,238 @@
+[
+  {
+    "donor_id": "fdb756a3-1cb0-4d8f-a081-ee94ea145ec4",
+    "name": "Harris Salazar, Amanda",
+    "resolved_employer": "Licensing analyst; employer self-reported as her own name (not independently identified)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm this specific individual in public records. Multiple 'Amanda Salazar' profiles exist in TX but none match a San Antonio licensing analyst at 78253. Employer field is self-name, suggesting no separate employer given.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fca15014-2bfd-47b6-a28c-1ace9cd18150",
+    "name": "Gleason, Padric",
+    "resolved_employer": "human-I-T (nonprofit social enterprise, Long Beach CA) — Executive Assistant to CEO (later SVP of Operations)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed: Padric Gleason, Executive Assistant to CEO at human-I-T, a Long Beach nonprofit providing devices/internet to low-income residents. Name, employer, and Long Beach location all match donor record exactly.",
+    "source_url": "https://theorg.com/org/human-i-t/org-chart/padric-gleason",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fc4399c9-55c8-404c-8016-7ad4c813d986",
+    "name": "Smith, Lacie",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name; multiple 'Lacie Smith' profiles in Villa Rica GA (teacher, insurance broker, trainer) but none confirmable as a 'Supervisor'. Employer string truncated ('Smi'). Cannot confirm specific person.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fbc5eb5f-3856-4c05-8675-67d48bdc6dc3",
+    "name": "Lee, Alexandra",
+    "resolved_employer": "Lee Michaels Fine Jewelry (jewelry retailer with San Antonio store) — Operations Manager",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Lee Michaels Fine Jewelry confirmed as a real multi-location jewelry retailer with a San Antonio presence; occupation (Operations Manager) and SA 78263 location are consistent, though the specific individual was not independently found.",
+    "source_url": "https://www.bbb.org/us/la/baton-rouge/profile/jewelry-stores/lee-michaels-fine-jewelry-0835-24000047",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fa3334a4-5d9d-4998-8806-54ac018ef892",
+    "name": "Stringer, Courtney",
+    "resolved_employer": "Sooner Answer Service (telephone answering service, Oklahoma City metro) — Operator",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Sooner Answer Service confirmed as a real Oklahoma City-area telephone answering service; occupation ('Operator') and Midwest City OK 73130 location are consistent. No taxonomy label cleanly fits a telephone-answering/call-center service.",
+    "source_url": "http://www.sooneranswer.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f7c8a1ac-1f42-4a9b-8b3e-cf5226302911",
+    "name": "Saldivar, Isabel",
+    "resolved_employer": "Terros Health (Phoenix behavioral-health nonprofit) — case manager",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Terros Health is a Phoenix, AZ behavioral-health/primary-care nonprofit that employs case managers; donor zip 85035 and occupation match. Could not confirm the specific individual 'Isabel Saldivar' by name, but employer/role/location are consistent.",
+    "source_url": "https://jobsearcher.com/j/clinical-case-manager-at-terros-health-in-phoenix-az-ZeqrGxj",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f5ace479-e09e-466d-8e25-21283d0f8422",
+    "name": "Hartley, R Scott",
+    "resolved_employer": "5D Robotics, Inc. (Carlsbad, CA defense/military robotics firm) — VP of Operations",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "R. Scott Hartley is a named inventor on 5D Robotics patents (autonomous vehicle movement/fuel optimization) and is publicly linked to Idaho Falls, ID, matching donor address 83404. 5D Robotics was a DoD/Army/Navy/Air Force/Marines robotics and ultra-wideband contractor.",
+    "source_url": "https://patents.justia.com/inventor/r-scott-hartley",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "5D Robotics, Inc.",
+        "role": "Vice President of Operations (employee)",
+        "category": "military_defense",
+        "source_url": "https://militaryembedded.com/company/5d-robotics",
+        "snippet": "5D Robotics was formed to accelerate robotic solutions for the Department of Defense; it works with the Army, Navy, Air Force and Marines to develop unmanned system behaviors, with UWB tech originally developed for landmine detection and tracking soldiers."
+      }
+    ]
+  },
+  {
+    "donor_id": "f48ac491-42ba-45b6-96f4-4d9f917875f1",
+    "name": "McCarty, Kelsie",
+    "resolved_employer": "Triple Tap Ventures LLC (Houston hospitality/entertainment group — Alamo Drafthouse Cinema, restaurants) — executive assistant",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Triple Tap Ventures LLC is a Houston-based hospitality/entertainment operator (Alamo Drafthouse, The Stand, Loop 9 BBQ); donor lives in Willis, TX (Houston metro). Ordinary hospitality-sector staffer, no political affiliations found.",
+    "source_url": "http://tripletapventures.com/people-opportunity",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f3fa5f4f-409b-498a-b082-9e7b29197df4",
+    "name": "Wholihan, Kathryn",
+    "resolved_employer": "Eisenhower Health (Rancho Mirage/Palm Desert, CA hospital system) — marketing",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Eisenhower Health is a major Coachella Valley hospital system with a marketing department. Kathryn Wholihan's marketing role and Palm Desert 92260 location are consistent; ordinary healthcare-marketing donor. Specific individual not independently confirmed.",
+    "source_url": "https://www.eisenhowerhealth.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f3a809a9-553b-4d2d-b9e4-ef7458eb07d2",
+    "name": "Young, August",
+    "resolved_employer": "Carl Zipf Lock Shop, Inc. (Columbus, OH family-owned locksmith, est. 1911) — locksmith",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Carl Zipf Lock Shop is a confirmed family-owned locksmith at 161 E 5th Ave, Columbus, OH 43201, near donor address (2638 N 4th St, 43202); occupation 'locksmith' and employer string 'Carl Zipf' match. Individual not confirmed by name; small service/retail business, no political affiliations found.",
+    "source_url": "https://carlzipflockshop.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f10a4bb4-3b2e-499e-b628-f12cd40e305e",
+    "name": "Cargill, Elena",
+    "resolved_employer": "Open Road Auto Group (NJ/NY auto dealership group) — Warranty Administrator",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Open Road Auto Group is a real, large tri-state new/pre-owned auto dealer network based in NJ; donor is an out-of-state small-dollar giver working an administrative dealership role. No public profile surfaced for the individual.",
+    "source_url": "https://www.openroad.com/about-us.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f07951a4-85cd-4ef7-955b-58eb66499477",
+    "name": "Busenbark, Jennifer",
+    "resolved_employer": "ActiveCampaign (SaaS marketing-automation) — VP Product Management",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Jennifer Busenbark is documented VP of Product Management at ActiveCampaign, based in the Greater Chicago area; matches occupation 'Product', employer, and Chicago zip 60646.",
+    "source_url": "https://www.comparably.com/companies/activecampaign/jennifer-busenbark",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ef71855d-beb7-41ca-a5c7-d2797fd5cba3",
+    "name": "Reaser, Monica",
+    "resolved_employer": "EA (likely Electronic Arts) — assistant role; individual not corroborated",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Occupation 'Assist' at 'EA' plausibly Electronic Arts assistant, but no public record confirms a Monica Reaser in Olathe, KS at EA; surname/identity unverified, so industry not assigned.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e4942a12-528e-4cb4-be2d-e0490c825af7",
+    "name": "Balderas, Leslie",
+    "resolved_employer": "City of San Antonio — violence prevention / violence interrupter",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Leslie Balderas is documented as a San Antonio violence-interruption outreach worker (motivated by her sister's 2015 killing); listed employer City of San Antonio aligns with the city's Violence Prevention program. Local SA resident (78237).",
+    "source_url": "https://www.ksat.com/news/local/2021/06/08/a-group-of-local-women-look-to-stop-violent-crimes-across-san-antonio-by-intervening-providing-resources/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e352e195-e36f-4648-b00f-ca59a7ae1669",
+    "name": "Gutierrez, Ashlie",
+    "resolved_employer": "Catholic Charities of the Archdiocese of Galveston-Houston — Administrative Assistant",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Employer is the Houston Catholic Charities nonprofit; donor holds an administrative-assistant support role. Individual not separately profiled, but employer and Houston zip 77003 are consistent.",
+    "source_url": "https://catholiccharities.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e274ae9d-b6ce-471a-9d7c-f442894b12af",
+    "name": "Wharram, Dawn",
+    "resolved_employer": "Lake-Sumter State College (adjunct Spanish instructor)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Confirmed adjunct in the Languages dept at Lake-Sumter State College teaching Spanish (SPN1120/SPN1121) via Rate My Professors; matches occupation/employer on record. Lives in Perry, OH (44081), consistent with a remote/online adjunct role.",
+    "source_url": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2017157",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e0b380dc-77bf-405c-9f18-5d871980d015",
+    "name": "Jean-Baptiste, Hillary",
+    "resolved_employer": "Faro Wealth (client associate) — wealth-management firm",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Faro Wealth is a confirmed independent investment-management firm (HQ Laredo, TX; serves South/Central Texas); client-associate role and San Antonio 78253 residence match record, but the specific individual is not on the firm's public bios and could not be independently confirmed.",
+    "source_url": "https://farowealth.com/biographies",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dd6522f7-820c-4a0a-9d29-cfa42ec36457",
+    "name": "Naylor, Bryan",
+    "resolved_employer": "City of San Antonio — City Council aide (Office of Councilman John Courage, D9)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed via San Antonio news (KSAT): Bryan Naylor worked as a City Council aide for District 9 Councilman John Courage until Courage was term-limited out in June 2025; later briefly worked for a D8 office. Matches occupation='John Courage'/employer='City Council Aide' and SA 78240 residence.",
+    "source_url": "https://www.ksat.com/news/local/2025/12/16/former-san-antonio-city-council-staffer-arrested-for-threats-toward-district-9-office-affidavit-says/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "Office of Councilman John Courage, San Antonio City Council District 9",
+        "role": "City Council Aide",
+        "category": "political",
+        "source_url": "https://www.ksat.com/news/local/2025/12/16/former-san-antonio-city-council-staffer-arrested-for-threats-toward-district-9-office-affidavit-says/",
+        "snippet": "Naylor worked for Courage before the North Side councilman was forced out by term limits in June and replaced by Spears."
+      }
+    ]
+  },
+  {
+    "donor_id": "dd78fd79-d888-4bb7-863e-fc0b4f9a0952",
+    "name": "Pearce, Bonnie",
+    "resolved_employer": "OnPoint Community Credit Union (assistant branch manager)",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "OnPoint Community Credit Union is a confirmed Oregon credit union with a branch in Bend, OR, consistent with the record's employer, occupation, and Bend 97702 residence; the specific individual could not be independently verified.",
+    "source_url": "https://www.onpointcu.com/locations-atms/onpoint-bend-downtown-branch/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dcb94168-82b7-4014-8eae-1cb48c6f4d7b",
+    "name": "Colby, Lisa",
+    "resolved_employer": "Self-employed studio jeweler/metalsmith (Asheville, NC)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Confirmed self-employed metalsmith/jeweler running a jewelry studio in Asheville, NC (~40 years, BFA metalsmithing); sells via own site, Etsy, and NC galleries. Matches occupation='Jeweler'/employer='Self' and Asheville 28806 residence.",
+    "source_url": "https://www.lisacolby.com/about-lisa-colby/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

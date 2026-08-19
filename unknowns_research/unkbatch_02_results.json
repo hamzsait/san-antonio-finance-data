@@ -1,0 +1,231 @@
+[
+  {
+    "donor_id": "60d0af24-e7c2-4c9e-ad57-dadc5f5647fe",
+    "name": "Linebarger Goggan Blair & Sampson, LLP",
+    "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP (entity, not a person)",
+    "industry": "Legal",
+    "confidence": "high",
+    "evidence": "National law firm specializing in government delinquent-tax/receivables collection; SA office at 112 E. Pecan St, Ste 2200, 78205, matching the donor address. This is an entity, not an individual.",
+    "source_url": "https://www.lgbs.com/office/san-antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Linebarger Goggan Blair & Sampson, LLP", "role": "law firm (delinquent-tax collection)", "category": "business", "source_url": "https://www.lgbs.com/office/san-antonio/", "snippet": "Firm is a national leader in collection of government receivables (taxes, court fines, tolls); SA office at 112 E. Pecan St."}
+    ]
+  },
+  {
+    "donor_id": "598b3d30-0e13-4e79-92c8-1137247496ce",
+    "name": "Gurram, Venkatsairam",
+    "resolved_employer": "Gurram Properties (real estate developer)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Listed occupation 'Developer' at his own firm 'Gurram Properties' in Houston (77006, Montrose). No FEC/TEC/arena/charter records found; identity rests on the self-reported employer string. Categorize-by-employer fallback.",
+    "source_url": "https://www.showcase.com/p/venkat-gurram/123093701/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "543222e7-5da1-4ee9-b802-29bb7a21283a",
+    "name": "McDavid, Kennith",
+    "resolved_employer": "Southern Glazer's Wine & Spirits (delivery driver)",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "'Seven Glazers' resolves to Southern/Glazer's Wine & Spirits distribution; occupation 'Driver.' 78219 matches Glazer's local P&D driver postings in that ZIP. Ordinary resident; no FEC/TEC/arena/charter records.",
+    "source_url": "https://www.indeed.com/viewjob?jk=ba477981a8653fcf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4e6ef70e-212a-453c-9fd0-c36b407d6d43",
+    "name": "Schendel, Mark",
+    "resolved_employer": "VersaTerra Development (Executive Vice President)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "VersaTerra 'About' page confirms Mark Schendel as EVP, a 16-year land acquisition/development professional (prior VP Land at Perry Homes; Managing Member of Schendel Realty LLC). SA 78209 matches donor ZIP. VersaTerra is a residential land developer, not on the Project Marvel team; no FEC/TEC/charter records.",
+    "source_url": "https://vtdevco.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4e359cc4-fd5c-4cb1-973c-1759d77eb991",
+    "name": "Gottesman, Sara",
+    "resolved_employer": "The Eleemosynary Group / self-employed nonprofit consultant",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "FEC data (via CampaignMoney) show Sara Gottesman, New York NY 10024, self-employed nonprofit consultant (owner, The Eleemosynary Group) and consultant to Israel Policy Forum. ZIP 10024 and 'Self' occupation both match. 2014 giving heavily to J Street PAC ($6,000).",
+    "source_url": "https://www.campaignmoney.com/political/contributions/sara-gottesman.asp?cycle=14",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "J Street PAC", "role": "individual donor", "category": "liberal_zionist", "source_url": "https://www.campaignmoney.com/political/contributions/sara-gottesman.asp?cycle=14", "snippet": "Gave $6,000 across 5 contributions to J Street PAC (liberal pro-Israel PAC) in the 2014 cycle from NY 10024."},
+      {"org": "Israel Policy Forum", "role": "consultant", "category": "liberal_zionist", "source_url": "https://www.campaignmoney.com/political/contributions/sara-gottesman.asp?cycle=14", "snippet": "FEC employer field lists 'Israel Policy Forum/Consultant' — a liberal Zionist advocacy organization."}
+    ]
+  },
+  {
+    "donor_id": "4207e056-c2d2-4626-8eca-f68efe6e62b7",
+    "name": "Riley, Erika",
+    "resolved_employer": "Self (business owner)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-employed business owner, San Antonio 78213. No FEC/OpenSecrets records, no TEC lobbyist registration, no arena/Project Marvel or charter-school ties, and no bio/LinkedIn located. Ordinary self-described business owner; specific business unidentifiable.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "40305a5e-9e6f-48eb-b9f3-37ca47516a71",
+    "name": "Ortega, Petra Mary",
+    "resolved_employer": "Gomez Law Firm (San Antonio-area; likely 'Gomez Law Firm' typo)",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Administrative assistant at a Gomez law firm; Converse/78109 resident. Multiple San Antonio 'Gomez' firms exist (Law Offices of Gomez, Law Office of Juan Angel Gomez) and the specific employer could not be confirmed. No FEC, TEC lobbyist, arena, or charter records. Categorize-by-employer: legal support staff.",
+    "source_url": "https://www.yellowpages.com/san-antonio-tx/gomez-law-firm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "36bcbdd5-7c38-4e46-bf23-e9b3f742faf7",
+    "name": "Gutirrez, Elsa",
+    "resolved_employer": "Southern California Edison (Project Manager) — employer/occupation fields swapped",
+    "industry": "Energy / Environment",
+    "confidence": "low",
+    "evidence": "Record indicates Project Manager at Southern California Edison but lists a San Antonio 78205 residence. A LinkedIn/RocketReach Elsa Gutierrez is an SCE Portfolio Manager/Senior Advisor, but she is based in Rosemead, CA, not San Antonio — could be a remote worker or a namesake; SA-based identity not corroborated. No FEC, TEC lobbyist, arena, or charter ties. Classified by stated utility employer.",
+    "source_url": "https://www.linkedin.com/in/elsa-gutierrez-6718b463/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2f8041a6-cf8d-460e-8bd6-84b220101897",
+    "name": "Marshall, John",
+    "resolved_employer": "City of San Antonio Police Department (SAPD), Police Officer",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Self-described SAPD police officer; municipal (City of San Antonio) employer. 'John Marshall' is extremely common — a San Antonio FEC donor 'John Marshall, physician' appears at 78230, a different zip, so likely a different person. No specific public record confirms this individual as an SAPD officer, and no SAPOA-PAC, arena, or charter ties found for him. Classified by stated employer.",
+    "source_url": "https://www.sa.gov/Directory/Departments/SAPD",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "95e2f68d-a94d-4fc4-9c64-cb9c6024daa1",
+    "name": "Walker, Jack",
+    "resolved_employer": "Self-employed consultant (per FEC), Boulder CO",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Out-of-state donor (Boulder, CO 80302) with no occupation/employer in the SA record. A Community Foundation Boulder County profile describes a Boulder philanthropist Jack Walker (donor-advised fund holder, Legacy Society, Social Venture Partners member since ~1993); an FEC record 'Jack J Walker, Self/Consultant, 80302' gave $500 to Jared Polis in 2016. Zip matches but identity across sources is not fully confirmed. No TEC lobbyist, arena, or charter ties.",
+    "source_url": "https://www.commfound.org/blog/community-partner-profile-sophie-and-jack-walker/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Community Foundation Boulder County", "role": "Donor-advised fund holder / Legacy Society member", "category": "civic", "source_url": "https://www.commfound.org/blog/community-partner-profile-sophie-and-jack-walker/", "snippet": "Profile of Boulder philanthropists Sophie and Jack Walker describing their donor-advised fund, Legacy Society membership, and Social Venture Partners involvement since 1993. Identity matched on Boulder/80302 location; treat as tentative."}
+    ]
+  },
+  {
+    "donor_id": "cc30fafa-aca7-4c0a-a61d-7fc2a1bfb749",
+    "name": "McGee, Matilyn",
+    "resolved_employer": "Various / early-career worker-student (X-ray tech at Ben Taub Hospital, Houston; OrangeTheory Fitness instructor; periods listed as student/unemployed)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Patchwork occupations point to a young worker/student in Webster (Houston metro, 77598), not San Antonio; most concrete skilled role is X-ray tech at Ben Taub (a Houston hospital). No individual public record, FEC PAC, lobbyist, arena, or charter tie found. Quiet result.",
+    "source_url": "https://www.orangetheory.com/en-us/locations/webster-texas-0754",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fda42e3f-479a-420b-a9d8-8e97e9c687fc",
+    "name": "Knight, Robert",
+    "resolved_employer": "ARC Automotive (Global VP, Sales & Marketing)",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Exact name + title match: Robert 'Bob' Knight is Global VP Sales & Marketing at ARC Automotive (automotive-safety/airbag-inflator manufacturer). Company HQ is Knoxville TN, so a San Antonio-based exec is plausible but geography not confirmed. FEC lean 1.0 (3 donations) reflects partisan lean only, no org PAC tie. No lobbyist/arena/charter connection.",
+    "source_url": "https://www.zoominfo.com/p/Robert-Knight/3861344488",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "01386900-422b-430a-8bf9-6f5aeed70b42",
+    "name": "Guzman, Edward",
+    "resolved_employer": "KB Home (new-home sales)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Donor's own filing lists Sales at KB Home (national homebuilder), i.e. new-home sales counselor. Distinct from the SAWS Chief Legal/Ethics Officer of the same name (an attorney, not KB Home). 207 federal donations at lean 0.98 indicate a committed small-dollar Democratic donor (recurring ActBlue-style giving), but no specific org PAC with a citable source. No lobbyist/arena/charter tie.",
+    "source_url": "https://www.kbhome.com/new-homes-san-antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "53523df0-6085-4e6d-b9aa-16d66fe320d3",
+    "name": "Navarro, Maximilian",
+    "resolved_employer": "Operational Technologies Corporation (OpTech), San Antonio — owner/founder (Chairman)",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "'Operation Technology' = Operational Technologies Corporation (OpTech), founded 1986 in San Antonio by Max Navarro; self-described international supply-chain management & logistics firm and Tier-1 automotive supplier, also diversified into DoD/government contracting, biotech, and IT. 'Owner' occupation matches founder/Chairman Max Navarro (son Maximiliano III is President). No arena/charter tie.",
+    "source_url": "https://otcorp.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Congressional Hispanic Caucus Institute", "role": "National Board member (per firm bio)", "category": "civic", "source_url": "https://otcorp.com/about-us/", "snippet": "OpTech About page states founder Max Navarro served in civic roles including appointments to the NOAA Commission, IPAC trade committee, and the Congressional Hispanic Caucus Institute National Board."}
+    ]
+  },
+  {
+    "donor_id": "5e6b1193-f4f2-46d2-a20a-016eb06bb36f",
+    "name": "Dunn, Frank",
+    "resolved_employer": "Retired (former career unidentified)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Occupation 'Retired/Self' at 6511 Kings Crown W matches a long-time resident, but multiple San Antonio Frank Dunns exist (insurance agent at a different 78218 address, a Keller Williams realtor, one retired from an auto dealership) and none can be corroborated to this zip/occupation. No FEC PAC, lobbyist, arena, or charter tie. Quiet result.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ac88e2e8-8b4b-4da1-888e-7d3a8593ed82",
+    "name": "Carol Wiley, Kimberley",
+    "resolved_employer": "Gomez Law Firm (San Antonio)",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Donor-reported occupation 'Litigation' at 'Gomez Law Firm' (typo for Gomez Law Firm). No Texas State Bar license found under Kimberley Wiley, so likely litigation-support/paralegal staff rather than a licensed attorney; classified by employer as Legal. Zip 78230 consistent with 21 Westelm Gdns.",
+    "source_url": "https://gomezlawfirm.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "792f6330-58e6-4cf3-b8ec-a667f4f0707e",
+    "name": "Avellar, Michael",
+    "resolved_employer": "Performance Management Ltd. (COO)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "LinkedIn and CorporationWiki confirm Michael Avellar as COO of Performance Management Ltd., a San Antonio business-support/management-services firm at 153 Treeline Park, zip 78209 (matches donor record). Federal giving includes a 2020 donation to Jaime Harrison (D-SC); partisan-only, no ideological-PAC affiliation. Business-support services mapped to Consulting/PR bucket.",
+    "source_url": "https://www.linkedin.com/in/michael-avellar-026444352/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "14a45c5a-7aeb-4728-81d6-d724bd6cdc91",
+    "name": "Siddiqui, Nazli",
+    "resolved_employer": "Progressive Staffing Services (owner/president, self-employed)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "D&B, Buzzfile, and LinkedIn confirm Nazli A. Siddiqui as president/owner of Progressive Staffing Services, a minority- and woman-owned employment/staffing agency operated from her home at 4662 Sparrows Nest, San Antonio 78250 (matches donor record). Corroborates 'self employed / employment services' occupation. Federal giving is partisan-only; no ideological affiliation found.",
+    "source_url": "https://www.linkedin.com/in/nazli-siddiqui-84a2302b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fcf61c5e-9529-4722-8ce8-1ddad94f617b",
+    "name": "Puri, Sharu",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer in donor record. Public listings place a Sharu Puri (~52) at 16 Camden Oaks, San Antonio 78248 (matches record); a data-broker aggregator loosely associates the household with SA real-estate developer Rajeev Puri, but this is unverified and cannot be used to classify Sharu Puri's own employment. Quiet result. No PAC/lobbyist/arena/charter footprint.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f8c80046-6c9b-420f-a28f-49daa7f9b356",
+    "name": "Cruz, Anthony",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer in donor record; 'Anthony Cruz' is a very common name and could not be uniquely resolved at 1844 Fredericksburg Rd, 78201. Federal giving (124 donations, lean 1.0) is partisan-only and not tied to any identifiable ideological PAC. No lobbyist/arena/charter connection found. Identity uncorroborated.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

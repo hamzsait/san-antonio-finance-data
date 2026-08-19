@@ -1,0 +1,246 @@
+[
+  {
+    "donor_id": "4114ccc5-38b9-49d7-bf53-3a20616e9cfd",
+    "name": "Shakil, Sohail",
+    "resolved_employer": "Self-employed (business owner)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Filer-reported self-employed business owner at 25834 Vista Bella, San Antonio 78260 (far-north SA). No public profile could be confirmed for this specific Sohail Shakil at zip 78260; LinkedIn/other Sohail Shakil results are unrelated people in construction/jewelry and do not corroborate on zip or occupation. Employer-fallback classification only.",
+    "source_url": "https://www.linkedin.com/in/sohail-shakil-39984b98/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "40031217-e804-4e64-91cb-791310f49983",
+    "name": "Rodriguez, David",
+    "resolved_employer": "Bill Miller Bar-B-Q (manager)",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Filer-reported manager at Bill Miller (Bill Miller Bar-B-Q, a San Antonio food-service chain), 303 Covington Rd, San Antonio 78220; gave to District 2 council member Jalen McKee-Rodriguez. 'David Rodriguez' is a very common SA name and no public record confirms this specific restaurant manager beyond the filer string. Employer-fallback classification; no FEC PAC, lobbyist, arena, or charter tie found.",
+    "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D2",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3fae75fa-d844-44e9-9ea4-27129a5fbaf6",
+    "name": "AFT COPE, Northside",
+    "resolved_employer": "Northside AFT Committee on Political Education (teacher-union PAC)",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "Northside AFT (American Federation of Teachers Local #3216, Northside ISD, San Antonio) Committee on Political Education — the union's political-action committee. Affiliated with Texas AFT and AFL-CIO; COPE funds and directs the local's electoral work. Registered committee address 6800 Park Ten Blvd, 78213 matches PAC filing. Gave to Ric Galvan.",
+    "source_url": "https://www.texasaft.org/topics/membership/locals/northside/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "Northside AFT (American Federation of Teachers Local #3216) Committee on Political Education",
+        "role": "teacher-union political action committee (donor entity itself)",
+        "category": "public_school_advocacy",
+        "source_url": "https://www.northsideaft.org/",
+        "snippet": "Northside AFT is a local teachers' union representing Northside ISD staff, affiliated with Texas AFT and AFL-CIO; its COPE committee 'coordinates all the political and electoral work for the union,' and the local has organized to address 'unchecked charter school expansion' and strengthen public-school enrollment."
+      }
+    ]
+  },
+  {
+    "donor_id": "3e5fc1f5-13a6-4ab1-879f-e5c1c1a6d955",
+    "name": "Starr, David",
+    "resolved_employer": "Clermont, LLC / Vantage Communities / American Opportunity for Housing (multifamily housing developer, president/principal)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Address 102 Rustlers Butte is in affluent Shavano Park 78231; the prominent San Antonio 'David Starr' is president/principal of Clermont LLC and the visionary behind Vantage Communities (Class-A multifamily), and since 1999 president of nonprofit American Opportunity for Housing (15,000+ affordable-housing units); former Secretary/Treasurer of the Alamo Regional Mobility Authority board. High-volume political donor (128 FEC donations, mild-Republican lean 0.393) donating to Republican District 10 council member Marc Whyte is consistent with this real-estate principal, though the common name leaves residual identity uncertainty.",
+    "source_url": "https://www.vantagecommunities.com/david-starr",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3a80228a-f739-49d7-8613-d3fcdc57cc8b",
+    "name": "Garza, Julio",
+    "resolved_employer": "Self-employed (business owner)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Filer-reported self-employed business owner at 2730 Holly Hill, San Antonio 78222 (east-side SA); gave to District 3 council member Phyllis Viagran. 'Julio Garza' is a common name; Ballotpedia/FEC hits are unrelated (South Texas congressional candidates in districts 15/29) and do not corroborate on zip or occupation. Employer-fallback classification; no PAC, lobbyist, arena, or charter tie found.",
+    "source_url": "https://www.spokeo.com/Julio-Garza",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "39c9d0dc-7c42-4130-a837-60270fff9e1c",
+    "name": "Biglari, Shawn",
+    "resolved_employer": "Steak n Shake (Biglari Holdings) - Senior Vice President, Franchise Partnerships",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Shawn Biglari is Senior Vice President of Franchise Partnerships for Steak n Shake, a subsidiary of San Antonio-based Biglari Holdings (founded by Sardar Biglari); occupation 'Sr. Vice-President' and employer 'SB' (Steak n Shake / Biglari) match, and the company is headquartered in San Antonio consistent with the 78248 residence.",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1726173/000172617325000012/bh-20250320.htm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "36b04a65-9665-4a3a-8704-b2204ef16933",
+    "name": "Mejia, Jacob",
+    "resolved_employer": "Brass Monkey (nightclub/bar, 2702 N Saint Mary's St, San Antonio)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Donor's reported employer 'Brass Monkey' and home address (2702 N Saint Marys St) are identical to the Brass Monkey nightclub's business address, indicating he owns or works at the venue; exact role not confirmed in public records. No other public footprint.",
+    "source_url": "https://www.yelp.com/biz/brass-monkey-san-antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "32d8d312-60d1-4eb9-aa7f-cdefba10f822",
+    "name": "Mills, Jacob",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer reported by the filer and no discoverable public profile for a Jacob Mills at 28546 Tristant Ridge, San Antonio 78260. Frequent federal donor (108 FEC records) who gave to Marc Whyte, but identity could not be corroborated on zip/occupation, so no industry assigned. FEC API lookup was rate-limited.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2eb27196-0eef-4190-b7a1-af8fdfcb7f7b",
+    "name": "Rahim, Sania",
+    "resolved_employer": "Diagnostic radiologist (Houston area); reported employer 'RP' (likely Radiology Partners, unverified)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Reported occupation 'Rad' = radiologist and 77030 address (Texas Medical Center) match Dr. Sania Rahim (Rahim-Gilani), a Baylor College of Medicine-trained diagnostic radiologist practicing in the Houston area. Employer 'RP' likely Radiology Partners but not confirmed. Democratic-leaning donor (fec_partisan_lean 1.0, 179 records) who gave to Sakib Shaikh; no specific PAC affiliation documented.",
+    "source_url": "https://www.doximity.com/pub/sania-rahim-gilani-md",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2a9101b6-c693-405f-8ce9-d9b65390319c",
+    "name": "Gavito, Kristin",
+    "resolved_employer": "Not employed (stay-at-home, Boerne TX)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Filer reports occupation 'Stay at home' at a Boerne, TX address; no public footprint found. Shares surname with candidate Marina Alderete Gavito, but Marina's husband is publicly identified as George Gavito and no public source ties Kristin to that family, so no relationship is asserted.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2a5988ac-2283-4999-8b07-871b77abe5c5",
+    "name": "Petch Wohlfarth, Brittany",
+    "resolved_employer": "Homemaker; wife of Mark Wohlfarth, founder/owner of The Sabinal Group (general contracting/construction firm) headquartered at 237 W Travis St",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Donor's listed address (237 W Travis St, 78205) is the exact HQ of The Sabinal Group, and her married surname matches owner Mark Wohlfarth; she donates as 'Homemaker/Self' from the family construction firm's address. Identity corroborated by address + surname match.",
+    "source_url": "https://sabinal-group.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "The Sabinal Group / Mark Wohlfarth (arena funding booster)",
+        "role": "Household member (wife of owner Mark Wohlfarth), who publicly campaigned for the Spurs arena/Project Marvel venue-tax",
+        "category": "arena_venue",
+        "source_url": "https://www.ksat.com/news/local/2025/10/21/spurs-still-wont-say-if-relocation-on-the-line-as-early-voting-for-arena-funding-begins/",
+        "snippet": "Mark Wohlfarth, founder and owner of Sabinal Group, spoke Monday at the Spurs' practice facility urging voters to vote 'yes' on the arena funding proposition."
+      }
+    ]
+  },
+  {
+    "donor_id": "28667f90-b2fc-4974-90cf-bfc7f58d1820",
+    "name": "Spencer, Annette",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor at Buck Lane, Bulverde, TX 78163 (input zip 30804 appears to be a data artifact) who gave to Marc Whyte. No occupation/employer reported and no public record could be matched to a specific person; multiple same-named individuals with no corroborating detail.",
+    "source_url": "https://ballotpedia.org/Bulverde,_Texas",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "27e5d422-cb41-464c-bdee-456b6774561f",
+    "name": "Djeto, Maurice",
+    "resolved_employer": "Self-employed home help provider (in-home care)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Distinctive-named San Antonio resident (419 Hub Ave, 78220) reporting occupation 'Home Help Provider / Self'; a Maurice Djeto LinkedIn profile places him in the San Antonio/Texas area. Ordinary small-dollar donor with no policy-advocacy footprint.",
+    "source_url": "https://www.linkedin.com/in/maurice-djeto-686bab7b",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "272b3675-b692-4d33-b58b-ee0f86c3b8e5",
+    "name": "Athar, Anas",
+    "resolved_employer": "Dr. Anas Athar, DDS — orthodontist (Smile Brands / DFW-area orthodontic practices incl. Hebron Smiles, Smilebliss, emBrace Orthodontics)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Anas Athar is a well-documented dual-trained orthodontist and oral/maxillofacial radiologist practicing in the Dallas-Fort Worth metroplex (Carrollton/Parker TX 75002 area), matching the reported occupation 'Orthodontist / Smile Brands.' FEC partisan lean is Democratic; small out-of-town donor to SA candidate Sakib Shaikh, but no specific ideological-PAC or advocacy-org tie is documented.",
+    "source_url": "https://texasortho.org/directory/dr-anas-athar",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "25dfc262-e60c-407b-82ce-321f91b5c602",
+    "name": "Rocha, Pedro",
+    "resolved_employer": "Self-employed (cyber security professional), San Antonio",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "San Antonio resident (8515 Romney, 78254) reporting occupation 'Cyber Security / Pedro Rocha (self).' San Antonio has a large cybersecurity workforce and several LinkedIn 'Pedro Rocha' security professionals exist locally, but none could be uniquely confirmed to this address; classified by reported occupation. No PAC/lobbyist/arena/charter tie found.",
+    "source_url": "https://www.linkedin.com/in/pedrohrocha1/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "253a4b1a-8a43-45c4-99ae-3561bd954f13",
+    "name": "Cabinet PAC, Climate",
+    "resolved_employer": "Climate Cabinet Action / Climate Cabinet PAC — climate-focused political action committee, 150 Sutter Street #695, San Francisco, CA 94104",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "The donor is Climate Cabinet Action (Climate Cabinet PAC), a national climate-focused political organization that funds and supports down-ballot state and local candidates via its scorecard and accountability campaigns; address (150 Sutter St, SF 94104) matches the org.",
+    "source_url": "https://climatecabinet.org/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "Climate Cabinet Action / Climate Cabinet PAC",
+        "role": "Environmental-advocacy political action committee (the donor entity itself)",
+        "category": "political",
+        "source_url": "https://justfacts.votesmart.org/interest-group/3308/climate-cabinet-action",
+        "snippet": "Climate Cabinet Action promotes climate policy and holds state/local legislators accountable via the Climate Cabinet Scorecard, funding down-ballot candidates to prioritize a clean-energy transition."
+      }
+    ]
+  },
+  {
+    "donor_id": "25327860-f489-4426-baa0-5ea42abf8a6d",
+    "name": "Teeter, B. Scott",
+    "resolved_employer": "Bitterblue Investments / Bitterblue, Inc. — President & Managing Partner (San Antonio commercial/residential land development firm)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "B. Scott Teeter is President & Managing Partner of Bitterblue, one of San Antonio's largest full-service land development firms; 25+ yrs in land acquisition/entitlement/development, responsible for 15,000+ lots. Employer string 'Bitterblue Investments' and occupation 'President' match exactly; Austin 78735 residence consistent with a firm principal.",
+    "source_url": "https://www.bitterblueinvestments.com/team/scott-teeter",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "25172743-08ce-4f72-8585-fdfbd5077b71",
+    "name": "Gunn, Christie",
+    "resolved_employer": "Self-employed business owner (Boerne, TX) — no discoverable public profile",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Filer-reported as 'Business Owner / Self-employed' in the Boerne area. No public footprint (LinkedIn, news, FEC, lobbyist registry) could be located to confirm the specific individual or business. No tie to Gunn Automotive Group established (shared surname only; employer is 'Self-employed'). Quiet outcome.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "223cc2f2-5523-4ba3-894e-c92ba57be2e3",
+    "name": "Benavidez, Sobia",
+    "resolved_employer": "GBG Ranch, Ltd. — Rancher (Laredo/Webb County; ~20,680-acre Benavides family ranching & land partnership)",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Employer 'GBG Ranch Ltd.' corroborated as GBG Ranch, LTD, a Texas limited partnership created 2006 to own/manage ~20,680 acres of Benavides family ranch land near Laredo (documented in Webb County litigation and bankruptcy filings); Laredo 78041 address consistent. Classified Real Estate because large land-holding is documented; occupation is 'Rancher' (agriculture) and court/bankruptcy records also note mineral/energy revenue arrangements (Laredo Energy), but no individual oil & gas advocacy role is documented. Specific individual 'Sobia Benavidez' not independently confirmed beyond the family-entity association, hence medium.",
+    "source_url": "https://law.justia.com/cases/texas/fourth-court-of-appeals/2014/04-13-00453-cv.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1336eff2-2f96-470c-945e-521b07e2a822",
+    "name": "HNB Investment, LLC",
+    "resolved_employer": "HNB Investment, LLC — San Antonio real-estate investment/development company (residential subdivision development; represented by Abida Parveen)",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "H N B Investment LLC is a Texas domestic LLC (filed Feb 17, 2009) based in San Antonio 78249. City of San Antonio Legistar record shows HNB Investment LLC, represented by Abida Parveen, requesting a replat to establish the Chase Hill Village Subdivision — confirming it is a real-estate development entity. Barsan Rd / 78249 address matches.",
+    "source_url": "https://sanantonio.legistar.com/LegislationDetail.aspx?From=RSS&ID=4068059&GUID=BE69C9DA-1A8F-4480-AC49-C1755C2E4CBA",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

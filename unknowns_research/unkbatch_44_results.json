@@ -1,0 +1,222 @@
+[
+ {
+  "donor_id": "75403ea3-e4dc-47d1-a00f-42b0cc25c4f2",
+  "name": "Weaver, Rodney",
+  "resolved_employer": "PCRM",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Filer-reported computer data manager at 'PCRM' in Mill Hall, PA. Could not confirm which PCRM or verify the specific individual among several same-named PA residents.",
+  "source_url": "https://www.pcrm.org/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "74d0a0e4-dcd9-44c8-bda7-bd150f89f58b",
+  "name": "Thomas, Jerry",
+  "resolved_employer": "Decision Analyst, Inc.",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Jerry W. Thomas, founder (1978), President & CEO of Decision Analyst, a marketing research/consulting firm in Arlington, TX; matches filer employer and 'Marketing Research' occupation exactly. No FEC PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "http://www.decisionanalyst.com/aboutus/executiveteam/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "74b81baa-3a98-47ae-bb21-68cab1ca0d12",
+  "name": "Lizarraga, Daniel",
+  "resolved_employer": "SBDigital",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Danny (Daniel) Lizarraga, Associate Graphic Designer at SBDigital (a progressive digital fundraising/advertising agency); UT Austin Communication Studies grad, Laredo home address matches. Confirmed via LinkedIn/ZoomInfo. No PAC/lobbyist/arena/charter ties.",
+  "source_url": "https://www.linkedin.com/in/dannynotdaniel/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "70f655d7-466b-4ef5-80ae-8e17c4190e48",
+  "name": "Whitton, Marsha",
+  "resolved_employer": "Whitton & Whitton Architects & Interior Designers (self)",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Marsha Waters Whitton, ASID, interior designer/owner of Whitton & Whitton Architects & Interior Designers at 1700 Cresthaven Dr, Austin 78704 - exact address match to filer. Listed on ASID Design Finder and BBB. No PAC/lobbyist/arena/charter ties.",
+  "source_url": "https://designfinder.asid.org/listing/marsha-whitton",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6eed8de5-a4f6-4d77-8ce6-b56300dadd12",
+  "name": "Escalona, Ashleigh",
+  "resolved_employer": "Brain Balance of Sugar Land",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Filer-reported Center Director at Brain Balance of Sugar Land, an after-school cognitive/learning-skills program for children; Houston-area (77041) resident. Brain Balance and the Center Director role are verified as real (a for-profit learning center, not a charter school). No PAC/lobbyist/arena/charter ties.",
+  "source_url": "https://www.brainbalancecenters.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5b47d89d-04c7-4bde-a859-d3933e33a04d",
+  "name": "Allen, Tony",
+  "resolved_employer": "Trademark Engine",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "ZoomInfo lists Tony/Anthony Allen as Manager, Contact Center at Trademark Engine (online trademark-filing legal service) — matches filer-reported occupation 'Call Center Manager' and employer exactly. No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.zoominfo.com/p/Tony-Allen/-1870069757",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "58068560-4441-4706-b442-0ff2ba196a5d",
+  "name": "Baird, Lauren",
+  "resolved_employer": "Self-employed (independent college admissions counselor)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "LinkedIn shows Lauren Baird as self-employed Independent College Admissions Counselor with San Antonio-area teaching/instructor background; Radaris places a Lauren E Baird in 78230, matching zip and 'education/self-employed' filing. No charter or public-school advocacy role surfaced — quiet.",
+  "source_url": "https://www.linkedin.com/in/lauren-baird-96480085/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "566dc502-3738-4016-b626-e4a28d707c9b",
+  "name": "Perez, Santana",
+  "resolved_employer": "Shell Oil",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "Filer-reported Shell Oil finance advisor in Houston; a Santana Perez LinkedIn (Houston) exists but could not be corroborated to zip/occupation. Rank-and-file employee, not exec/board/lobbyist — no oil_gas advocacy affiliation. No PAC or other ties found.",
+  "source_url": "https://www.shell.us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "504de1a0-6208-44f2-959c-dda6c893d732",
+  "name": "Valdivia-Kuchle, Rosa",
+  "resolved_employer": "Laurel Ridge Treatment Center",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Laurel Ridge is a San Antonio behavioral-health hospital that employs Mental Health Technicians (MHT), consistent with filer-reported occupation/employer; distinctive surname, no adverse or advocacy findings. Quiet outcome.",
+  "source_url": "https://laurelridgetc.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4d713356-4723-4d84-8e40-e2979161daa3",
+  "name": "Lopez, Adrian",
+  "resolved_employer": "Self Employed (flooring)",
+  "industry": "Construction",
+  "confidence": "low",
+  "evidence": "Filer-reported self-employed flooring specialist in 78204; 'Adrian G Lopez - Self-Employed' LinkedIn exists but common name prevents firm zip/occupation corroboration. No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.linkedin.com/in/adrianglopez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4cbdc3f9-da4a-434a-ade0-ee274f1df84f",
+  "name": "Chen, Andrew",
+  "resolved_employer": "PwC",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Developer at PwC, Dallas 75252. 'Andrew Chen' is a very common name; no FEC/lobbyist/arena/charter hits and could not corroborate this specific individual. PwC is a professional-services/consulting firm.",
+  "source_url": "https://www.pwc.com/us/en/careers.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4bcc7866-bcbf-4c74-b8fb-d9f8832137c2",
+  "name": "Uribe, Carlos",
+  "resolved_employer": "Conviva Care Solutions",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Occupation 'Healthcare' at Conviva Care Solutions, a San Antonio senior primary-care provider (Humana-affiliated). Employer clearly healthcare; specific individual not independently verified but occupation and employer align.",
+  "source_url": "https://www.convivacarecenters.com/en/texas/san-antonio/conviva-medical-center",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "374f9f10-fd87-41c0-be4e-1646d0f03513",
+  "name": "Rodriguez, Hector",
+  "resolved_employer": "Victory Salon",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "Hairstylist at Victory Salon (4745 Fredericksburg Rd, San Antonio). Yelp and Nextdoor reviews name 'Hector' as a stylist doing color work there, corroborating occupation and employer. No political/civic ties found.",
+  "source_url": "https://www.yelp.com/biz/victory-salon-san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2bce40bd-bf32-4e57-b9ed-50ad523eb72e",
+  "name": "Fountain, Emma",
+  "resolved_employer": "Texas Instruments",
+  "industry": "Technology",
+  "confidence": "medium",
+  "evidence": "Product engineering at Texas Instruments, Plano 75074 (adjacent to TI's Dallas/Richardson operations). TI is a semiconductor/technology firm; occupation and employer align. Specific individual not independently verified.",
+  "source_url": "https://careers.ti.com/engineering/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "27ed59f2-d5cb-4c32-84bb-5268a8ef0bf6",
+  "name": "Smith, Allison",
+  "resolved_employer": "Geneus Health",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Molecular biologist at Geneus Health, a San Antonio genetic-testing/clinical medical lab; UTSA graduate per ZoomInfo/LinkedIn profile. Occupation, employer, and city corroborate. No civic/political ties found.",
+  "source_url": "https://www.zoominfo.com/pic/geneus-health-llc/447053326",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "238cb070-3d18-4f4a-baa7-19988ea115f8",
+  "name": "Rivarde, Michael",
+  "resolved_employer": "Miniso",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Assistant manager at Miniso (retail variety-store chain) in Las Vegas, NV; no specific individual record found. Out-of-state small donor, no political/civic footprint.",
+  "source_url": "https://www.indeed.com/cmp/Miniso/locations/NV/Las%20Vegas",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1baa26b5-3132-4976-b94b-4b0d8e69a01d",
+  "name": "Smith, Maddie",
+  "resolved_employer": "Maverick Land Surveying Company",
+  "industry": "Construction",
+  "confidence": "low",
+  "evidence": "Administrative assistant at Maverick Land Surveying Co. (confirmed real firm, 1856 Lockhill Selma Rd, San Antonio 78213), a boundary/construction-staking survey company; admin support role, no arena/Project Marvel project-team tie found.",
+  "source_url": "https://www.mavericklsco.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1796f503-d6a9-4c37-8f98-67da411dee1f",
+  "name": "Dickerson, Phelan",
+  "resolved_employer": "West Oaks Hospital",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Distinctive-name match: mental health technician at West Oaks Hospital (Houston psychiatric hospital); a Phelan Dickerson is now a Licensed Professional Counselor (MA, Sam Houston State), consistent behavioral-health career track. No political/civic footprint.",
+  "source_url": "https://www.psychologytoday.com/us/therapists/phelan-dickerson-denton-tx/1635733",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "165e8aaf-35d5-466b-bf6b-84a36beea812",
+  "name": "Ybarra, Jay",
+  "resolved_employer": null,
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Self-reported occupation/employer both 'Legal'; no Jay Ybarra attorney or legal-field individual resolved in San Antonio 78213 (Joseph/Xavier Ybarra are unrelated distinct attorneys). Specific person unconfirmed.",
+  "source_url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "13ec562e-f98d-4f3b-9ea3-5be1665a72b9",
+  "name": "Sanchez, Shayla",
+  "resolved_employer": "La Europa Academy",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Direct care staff at La Europa (La Europa Academy, a Utah residential treatment center for adolescents), Salt Lake City; behavioral-health direct-care role. Out-of-state small donor, specific individual not corroborated.",
+  "source_url": "https://laeuropa.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

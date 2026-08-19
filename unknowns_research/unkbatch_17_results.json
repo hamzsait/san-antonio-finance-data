@@ -1,0 +1,228 @@
+[
+  {
+    "donor_id": "ac392375-bc68-4996-aae0-c9a1ef3c835b",
+    "name": "Baloch, Khair",
+    "resolved_employer": "Northside ISD (NISD)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Employer NISD is Northside Independent School District, a San Antonio public school district; bus driver is a non-teaching support role. Could not isolate the individual in any public profile, PAC, lobbyist, arena, or charter record — a quiet local donor classified by employer.",
+    "source_url": "https://www.nisd.net/schools/buses",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "92217e45-8049-4705-bf57-707ecef7cac5",
+    "name": "Hernandez, Abigail",
+    "resolved_employer": "Ad Leverage",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Identity corroborated: Abigail Hernandez, Camarillo/Thousand Oaks CA, Account Coordinator (now Social Media Manager) at Ad Leverage, an advertising/marketing agency; Texas Tech grad. FEC history (27 gifts, Democratic lean) appears to be ActBlue small-dollar giving with no ideological/issue PAC identified.",
+    "source_url": "https://www.zoominfo.com/p/Abigail-Hernandez/2885687073",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8ba61eb3-6669-4b19-979e-a08ea91f2da0",
+    "name": "Ratliffe, Christy",
+    "resolved_employer": "Haven for Hope",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Identity corroborated: Christy Ratliffe was Development Support Coordinator & Database Specialist at Haven for Hope, a Bexar County homeless-services nonprofit (now Sr. Development Coordinator at American Heart Association). No arena, charter, PAC, or lobbyist ties found.",
+    "source_url": "https://www.zoominfo.com/p/Christy-Ratliffe/6054326104",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "587d1412-506b-4789-aa7e-9bc569f4c4e9",
+    "name": "Gallon, Danielle",
+    "resolved_employer": "U.S. Army",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Occupation 'Soldier'/employer 'Army' indicates active-duty U.S. Army (San Antonio has Joint Base San Antonio). No public profile, PAC, lobbyist, arena, or charter record found; classified by employer only.",
+    "source_url": "https://www.arsouth.army.mil/Community/San-Antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5298713a-a89b-47a8-b8c1-9becc9257f33",
+    "name": "Mitchell, Kimani",
+    "resolved_employer": "KIPP Texas Public Schools",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Public payroll records show Kimani Mitchell as Assistant Principal at KIPP Texas Public Schools (~$73,140 in 2023); zip 78252 is consistent with KIPP Texas-San Antonio. KIPP Texas is an open-enrollment charter network of 45+ schools. Employment is the documented charter tie.",
+    "source_url": "https://openpayrolls.com/employee/kimani-mitchell-19953",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "KIPP Texas Public Schools", "role": "assistant principal", "category": "charter_school", "source_url": "https://kipptexas.org/our-schools/san-antonio/", "snippet": "KIPP Texas is an open-enrollment charter network (45+ schools, 5 in San Antonio); Kimani Mitchell listed as Assistant Principal at KIPP Texas in public payroll data."}
+    ]
+  },
+  {
+    "donor_id": "4fa475ed-780e-48f3-9c9d-a2936cb436c5",
+    "name": "Ramirez, Cesar",
+    "resolved_employer": "Napa Wine Company",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Enologist (winemaker/wine chemist) at Napa Wine Company, an established custom-crush winery in the Napa Valley (Oakville); PO Box in adjacent Yountville CA 94599 is consistent. No individual public profile found; 'Cesar Ramirez' is a common name and the FEC candidate record (H2FL15258) is a Florida congressional candidate, not this donor. No PAC, lobbyist, arena, or charter ties found. Wine/food-beverage production has no exact taxonomy label; bucketed under Hospitality/Events as the food-and-beverage catch-all.",
+    "source_url": "https://www.napawineco.com/our-story/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3092267f-45d4-4cba-b424-f66578a3e109",
+    "name": "Hubbard, Yasmeen",
+    "resolved_employer": "CHRISTUS VNA (Visiting Nurse Association)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Employer 'VNA' resolves to CHRISTUS VNA home health/hospice in San Antonio; the garbled occupation 'Crustus' appears to be a misparse of 'CHRISTUS'. Address 3400 Magic Dr (78229) is in the San Antonio Medical Center district, consistent with a healthcare employer. No individual public profile, PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://lhcgroup.com/locations/christus-vna-homecare-san-antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "1cbb2919-0e4d-45dc-ae94-eaf0e21d8bfc",
+    "name": "Cruz, Anthony",
+    "resolved_employer": "Hotel Emma",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Concierge at Hotel Emma, a luxury hotel at Pearl in San Antonio. The doubled 'Not Employed,Concierge' / 'Not Employed,Hotel Emma' fields reflect merged filing records (one blank, one with employer). Hospitality classification is solid on the employer; identity itself is low-confidence as 'Anthony Cruz' is a very common name and the high fec_count (124) is almost certainly name-match noise. No specific PAC, lobbyist, arena, or charter affiliation documented for this individual.",
+    "source_url": "https://thehotelemma.com/culinary/culinary-concierge-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0bc68512-71e3-4cb2-8cb9-cd3d9aa8ba79",
+    "name": "Miranda, Edward",
+    "resolved_employer": "City of San Antonio",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Event Coordinator for the City of San Antonio (employer 'City of San Antonio, Center' — likely the Henry B. Gonzalez Convention Center or a city community center). Municipal employment classifies as Government. No individual public profile confirmed (name matches unrelated persons such as a local nursing instructor); no PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.sanantonio.gov/Convention-Facilities",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "040e1881-e956-4554-8447-a5d1e4894f67",
+    "name": "Korie, Blessing",
+    "resolved_employer": "Hulu",
+    "industry": "Media",
+    "confidence": "medium",
+    "evidence": "Customer Service at Hulu; Hulu operates a San Antonio office/customer-support center (confirmed via SA Chamber directory and Glassdoor SA office listing), consistent with the donor's 78249 address. Hulu is a streaming-media company; classified Media. No individual public profile, PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.glassdoor.com/Location/Hulu-San-Antonio-Location-EI_IE43242.0,4_IL.5,16_IC1140494.htm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aa4a77c5-3443-45d3-87aa-6adcdf1e6b8b",
+    "name": "Delpit, DVaughn",
+    "resolved_employer": "Gary Job Corps Center (San Marcos, TX)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Unique name D'Vaughn Delpit corroborated via RocketReach professional profile listing prior role at Gary Job Corps Center (federal DOL vocational/workforce-training center in San Marcos) plus Con Safos Counseling and Capital Area Private Defender Service; now a Mental Health Court Case Manager. Donor occupation 'Career counselor' at 'Gary Job Corps' matches the career-counseling/workforce-education role. Classified Education (vocational/career counseling). No FEC PAC, TX lobbyist, arena, or charter/public-school advocacy ties found.",
+    "source_url": "https://rocketreach.co/dvaughn-delpit-email_237837978",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6a666c5d-68fb-44ca-8a01-ba35c09a1dc4",
+    "name": "Ceja, ZuLeika",
+    "resolved_employer": "Baptist M&S Imaging (Baptist Health System / Tenet Healthcare), San Antonio",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "LinkedIn and ZoomInfo confirm ZuLeika Ceja is a Radiology Assistant at Baptist M&S Imaging in San Antonio (AA Palo Alto College, AS St. Philip's College — both SA). Baptist M&S Imaging is part of Baptist Health System, owned by Tenet Healthcare, reconciling stated employer 'Tenet Health' and occupation 'Radiology.' Identity corroborated on San Antonio location + radiology occupation. No FEC PAC, TX lobbyist, arena, or charter/education-advocacy ties found.",
+    "source_url": "https://www.linkedin.com/in/zuleika-ceja-134a4a18a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "34125ee4-7d15-4e2f-be6c-b9acb6dbf36f",
+    "name": "Nikolson, Jessica",
+    "resolved_employer": null,
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "No public profile found for a Jessica Nikolson (or common variant spellings Nicholson/Nikolsen) in San Antonio 78212. The listed 'Project Democracy' appears to be an employer/organization rather than an occupation, and gave_to is Teri Castillo (progressive SA council). Could not confirm a specific San Antonio entity named 'Project Democracy'; nearest candidates are national pro-democracy advocacy groups (e.g., Protect Democracy) and SA civic orgs (SVREP, League of Women Voters), none confirmably tied to this donor. Tentatively classified Nonprofit / Advocacy based on the org-like employer name; identity not corroborated, hence low. No FEC, lobbyist, arena, or charter ties found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "95b58ae1-b598-4b65-9b07-d8cae511c99d",
+    "name": "Rabroker, Timothy",
+    "resolved_employer": "City of Killeen Fire Department (Fire Captain)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "KCEN-TV news feature confirms Timothy (Tim) Rabroker as a Captain with the Killeen Fire Department, matching donor occupation 'Firefighter' / employer 'City of Killeen' / Killeen 76542 location. Municipal firefighter classified Government. Provided FEC metadata (fec_count 1433, lean 1.0) indicates an unusually high volume of Democratic-leaning small-dollar federal contributions — consistent with recurring ActBlue-style giving; PAC search surfaced no specific ideological PAC (no AIPAC/J Street/oil & gas/defense/NRA). No TX lobbyist registration; no arena or charter ties found.",
+    "source_url": "https://www.kcentv.com/article/news/this-is-the-silent-killer-affecting-firefighters/500-0b791127-8dd3-4a05-bda6-fa5d2a082a63",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ff34921b-5b4c-4ecc-97b5-5cc039d6fff0",
+    "name": "Carlisle, Patricia",
+    "resolved_employer": "Avantiqor (San Antonio)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "LinkedIn (Patricia L. Carlisle - Avantiqor; UT Health Science Center San Antonio) and avantiqor.com confirm employment at Avantiqor, a woman-owned small business providing 'scientific, engineering, and technical expertise' to government, industry, and academia (a SETA/technical-services contractor, incl. ARPA-H health-research support). Matches donor occupation 'Scientist' / employer 'Avantiqor' / SA 78209. No 'science/R&D' taxonomy bucket exists; classified Consulting / PR as the professional/technical-services fit. FEC metadata (fec_count 13, lean 1.0) indicates a modest Democratic-leaning individual donor history; PAC search found no specific ideological PAC. No TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.linkedin.com/in/patricia-l-carlisle-56a96971/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fc7f79a2-f91c-4c05-a628-7e9839d6e604",
+    "name": "Walden, Lisa",
+    "resolved_employer": "Inspire-Community Fine Art Center for San Antonio (donor filings list 'Self'/self-employed)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Donor record lists occupation/employer 'Self' at zip 78212. Public contribution records for a 'Lisa Walden' at 78212 list employer as Inspire Community Fine Art Center; Lisa Cortez Walden Ph.D. is the documented Executive Director of Inspire-Community Fine Art Center for San Antonio, an arts-education nonprofit. Zip + arts-community identity align; the 'Self' label is likely a self-employed-artist entry. Heavy small-dollar ActBlue donor consistent with fec_count 262 / lean 1.0. No ideological PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.guidestar.org/profile/20-2879857",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Inspire-Community Fine Art Center for San Antonio", "role": "Executive Director", "category": "civic", "source_url": "https://projects.propublica.org/nonprofits/organizations/202879857", "snippet": "Lisa Cortez Walden Ph.D. is Executive Director of Inspire-Community Fine Art Center, an arts education/healing nonprofit in San Antonio (zip 78212)."}
+    ]
+  },
+  {
+    "donor_id": "fbc89424-17a7-4df2-8b67-e4e621327181",
+    "name": "Gonzalez-Cid, MariaElena",
+    "resolved_employer": "Centro Cultural Aztlan",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Occupation 'Arts Administrator' at Centro Cultural Aztlan corroborated: MariaElena Gonzalez-Cid is the long-serving Executive Director (~30 years) of Centro Cultural Aztlan, a San Antonio Chicano/Latino arts-and-culture nonprofit (EIN 74-2203515). Community arts nonprofit = Nonprofit/Advocacy. No PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://saafdn.org/centro-cultural-aztlan/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Centro Cultural Aztlan", "role": "Executive Director", "category": "civic", "source_url": "https://www.arts.gov/stories/magazine/2017/2/national-endowment-arts-and-state-arts-agencies-bringing-arts-people/preserving-future-texas", "snippet": "MariaElena Gonzalez-Cid has been executive director of Centro Cultural Aztlan for roughly 30 years, leading a Chicano/Latino community arts nonprofit."}
+    ]
+  },
+  {
+    "donor_id": "fb313131-da04-4c8c-921f-725821004093",
+    "name": "Neumann, Esmeralda",
+    "resolved_employer": "Self-employed (insurance agent)",
+    "industry": "Finance",
+    "confidence": "low",
+    "evidence": "Occupation 'Insurance Agent', self-employed, zip 78212. No public profile (LinkedIn/agency listing) found tying this specific name to an agency; classified by stated occupation. Insurance producer = Finance. No PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.trustedchoice.com/agent/tx/san-antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fb2b0f90-867b-4e67-a007-f1c398d7551e",
+    "name": "Doria, Diana",
+    "resolved_employer": "Retired (prior career not documented)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Occupation 'N/A', employer 'Retired', zip 78212. Multiple distinct 'Diana Doria' individuals in San Antonio (an IT/Lenel administrator, a nonprofit staffer) with no way to confirm which prior career applies to this retiree at 1502 Howard St. Nothing classifiable. No PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.sanantonio.gov/EmployeeInformation/RetiredEmployees/RECOSA",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fa390142-d687-4981-b87c-6aa69daf1ed4",
+    "name": "Renteria, Anita",
+    "resolved_employer": "Barrios Technology",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Occupation 'Director Business Development' at Barrios Technology corroborated: Anita F. Renteria is Chief Growth Officer / business-development leader at Barrios Technology, a woman-owned Houston aerospace firm providing engineering, software, and technology-integration services and a NASA prime contractor (Texas A&M BBA; prior aerospace roles at Lockheed Martin Space Operations, MacDonald Dettwiler). Barrios is a civil-space/NASA contractor, NOT a defense contractor, so no military_defense affiliation is recorded; no ideological PAC contributions found for her (fec_count 76 / lean 1.0 consistent with small-dollar Democratic giving). Aerospace tech-services firm classified as Technology. No lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.barrios.com/anita-f-renteria/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

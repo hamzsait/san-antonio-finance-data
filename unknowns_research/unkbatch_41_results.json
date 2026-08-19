@@ -1,0 +1,227 @@
+[
+  {
+    "donor_id": "09d61dc2-831b-4966-b29a-128e656d63cd",
+    "name": "Hidalgo, Celestina",
+    "resolved_employer": "Transcend (Partner); Relay Lab Schools (Instructional Superintendent)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Donor is Celestina De La Garza-Hidalgo, a Partner at Transcend (national school-redesign nonprofit) and Instructional Superintendent at Relay Lab Schools. Identity link confirmed via Pinterest handle 'cdelagarzahidal' (Celestina De La Garza-Hidalgo) plus LinkedIn/Transcend team listing; matches SA zip 78258.",
+    "source_url": "https://www.linkedin.com/in/celestina-de-la-garza-b6b224a/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Transcend", "role": "Partner", "category": "charter_school", "source_url": "https://transcendeducation.org/who-we-are/our-team/", "snippet": "Listed on Transcend's team page; LinkedIn title 'Partner - Transcend.' Transcend is a national school-redesign nonprofit in the charter/education-reform sector."},
+      {"org": "Relay Lab Schools / Relay GSE", "role": "Instructional Superintendent", "category": "charter_school", "source_url": "https://www.relay.edu/leadership", "snippet": "Self-reported role 'Instructional Superintendent' at Relay Lab Schools; Relay Graduate School of Education is a charter-sector-aligned educator-training organization."}
+    ]
+  },
+  {
+    "donor_id": "937695e4-e656-4f29-9f3e-589343b5f0a9",
+    "name": "Cavazos, Jose",
+    "resolved_employer": "Raising Cane's",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Self-reported as a crew member at Raising Cane's (fast-food). 'Jose Cavazos' is a common name; no online profile could independently corroborate this specific SA resident (zip 78229). Small $18.75 donor, ordinary-resident/quiet outcome. The only TEC 'Cavazos' lobbyist found is Sergio M. Cavazos (American Federation for Children) — a different person.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7a10a42a-69c1-45e0-828e-51982eeb27f6",
+    "name": "Lynch, Daniel",
+    "resolved_employer": "ConsenSys",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Daniel Lynch works in sales/strategy at ConsenSys (blockchain/crypto software; MetaMask Card Strategy / Strategic Sales Director), confirmed via The Org org-chart profile. Out-of-state small donor (Queens, NY 11104). No FEC PAC, pro-Israel/AIPAC, TX lobbyist, arena, or charter ties found (VPAP 'Daniel J Lynch' is an unrelated Virginia lobbyist).",
+    "source_url": "https://theorg.com/org/consensys/org-chart/daniel-lynch",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bdaa8a29-a271-41c5-b828-c03367d41932",
+    "name": "Wong, Carolina",
+    "resolved_employer": "Amco Security Systems",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'Security Systems' at Amco Security Systems, a real SA burglar-alarm/surveillance firm (78229). Could not independently corroborate Carolina Wong at the firm (Amco's listed management are Mendoza/Reyes; no online presence for this donor). Security-systems trade has no clean taxonomy label, so industry left null per do-not-guess rule. No FEC, lobbyist, arena, or charter ties.",
+    "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/burglar-alarm-systems/amco-security-systems-llc-0825-1000168339",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9bf9fce4-6e5f-4a69-8d53-367bf023d680",
+    "name": "Cramer, Gina",
+    "resolved_employer": "META Consultants",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Self-reported data analyst at META Consultants, a San Antonio evaluation/consulting firm (program evaluation, grant writing, behavioral-health/HIV services). Firm confirmed real; Gina Cramer not listed on the public team page and could not be independently corroborated. No FEC, lobbyist, arena, or charter ties.",
+    "source_url": "https://metaconsultants.net/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "693c6f91-c065-4499-9c24-37a2652c0ac9",
+    "name": "de la Cruz, Luis",
+    "resolved_employer": "Georgetown Fire Department",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Record lists firefighter at Georgetown Fire Department (Schertz TX 78232); no public record independently confirms this specific individual by zip+occupation. Firefighter = Government/Labor; mere employment is not an affiliation.",
+    "source_url": "https://georgetowntexas.gov/public_safety/fire/georgetown_fire_department_careers/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3366e429-d588-4987-90d3-6b8091617477",
+    "name": "Briseno, Martha",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name (100+ Martha Briseno matches in TX); a Martha Briseno is a sales manager at Sport Supply Group in Dallas, but cannot corroborate this is the same person at employer 'Pts' in Farmers Branch 75235. No PAC/lobbyist/arena/charter ties.",
+    "source_url": "https://www.zoominfo.com/p/Martha-Briseno/11607467989",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "214419e8-1b01-4ff1-824a-833cbb385c52",
+    "name": "Perretta, Andrew",
+    "resolved_employer": "State of Texas (health inspector)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Record lists a state health inspector (Schertz TX 78108); no public source independently confirms this specific individual. State health inspector = Government. No PAC/lobbyist/arena/charter ties found.",
+    "source_url": "https://www.dshs.texas.gov/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fce4fd63-1153-4aa5-bc27-3ce075465f13",
+    "name": "Moscoso, Nicole",
+    "resolved_employer": "Texas Roadhouse",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Record lists a server at Texas Roadhouse in Brighton, CO 80601; ordinary out-of-state small-dollar donor, no public profile confirming the specific individual. No PAC/lobbyist/arena/charter ties.",
+    "source_url": "https://www.texasroadhouse.com/locations/618-brightonco",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "839151e7-da71-480d-b9b6-d7da4e54b87f",
+    "name": "Lam, Tiffany",
+    "resolved_employer": "Sony Pictures Animation",
+    "industry": "Entertainment",
+    "confidence": "medium",
+    "evidence": "Identity match: Tiffany Lam is a visual development artist/illustrator at Sony Pictures Animation in the LA metro area (zip 90043), credited on Spider-Man: Across the Spider-Verse and Mitchells vs. the Machines; also an Animation Guild member. Corroborates illustrator + Sony Animation + LA. No PAC/lobbyist/arena/charter ties.",
+    "source_url": "https://animationguild.org/members/tiffany-lam/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "59b7cb2c-48ad-4b16-b48c-07b48bd390e7",
+    "name": "Perkins, Sarah",
+    "resolved_employer": "Purple Innovation, LLC",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "LinkedIn/TheOrg confirm Sarah Perkins joined Purple (Utah-based mattress/consumer-products company) as a Content Specialist in Sept 2020, later Learning Experience Designer; Orem-area location matches zip 84058.",
+    "source_url": "https://theorg.com/org/purple/org-chart/sarah-perkins",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2e4f8157-45ba-44f8-80d5-83b14b054c43",
+    "name": "Garland, Kirby",
+    "resolved_employer": "Harmony Integration, LLC",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Dun & Bradstreet lists Kirby Garland as President of Harmony Integration LLC, an Ashburn/Brambleton VA information-services (data integration) firm; matches occupation 'Data Science' and NoVA zip.",
+    "source_url": "https://www.dnb.com/contact-directory/contact-profile.kirby_garland.1e2d49c16242e056a92d92d6dba0900e.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "38a0d340-c273-48dd-adc9-b7d63110c067",
+    "name": "Cervantes, Esther",
+    "resolved_employer": "Twin Cities Co-op Partners (TCCP)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "TCCP resolves to Twin Cities Co-op Partners, a Minneapolis grocery co-op (not a charter school). ZoomInfo lists Esther Cervantes as Accounting Assistant/Manager there; she is also a self-described nonprofit/co-op bookkeeper. Zip 55407 matches Minneapolis.",
+    "source_url": "https://www.zoominfo.com/p/Esther-Cervantes/5250034864",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "13dcda0b-cd94-48fd-bacf-2fe51cea9c93",
+    "name": "Podoll, Heather",
+    "resolved_employer": "Fibershed",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "LinkedIn and Fibershed team/GuideStar pages confirm Heather Podoll works for Fibershed, a San Geronimo CA nonprofit (regional fiber-systems advocacy); M.S. Agricultural Ecology, UC Davis. Zip 94963 matches Fibershed HQ.",
+    "source_url": "https://www.causeiq.com/organizations/fibershed,453055196/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fe9372b2-40c4-4aa8-beed-62fb6834da59",
+    "name": "Mandujano, Naomi",
+    "resolved_employer": "Project QUEST, Inc.",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "LinkedIn and questsa.org confirm Naomi C. Mandujano as Workforce Planning Analyst at Project QUEST, a San Antonio workforce-development nonprofit (founded 1992 by COPS Metro/business/government partners). Zip 78218 matches SA; n***@questsa.org email.",
+    "source_url": "https://questsa.org/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f9033639-0fbb-4ea5-85f3-89ed4a7b05dd",
+    "name": "Prendiz, Nick",
+    "resolved_employer": null,
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'Commercial building manager' (employer 'Lnx') on the SA filing maps to commercial property management; no independent public record (LinkedIn, firm bio, news) found to corroborate the specific person at zip 78251. Small $15 SA-only donor.",
+    "source_url": "https://www.homelabpm.com/san-antonio-commercial-management",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f83a350e-0990-4a43-8e7c-1c17e6ff21e9",
+    "name": "Escalona, Ashleigh",
+    "resolved_employer": "Clock Spring Company LP",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "Employer string 'Clockspring' resolves to Clock Spring Company LP, a Houston-based manufacturer of composite repair sleeves for oil & gas transmission pipelines; occupation 'Accounts payable' and Houston zip 77064 cohere. Clerical role, no PAC/lobbyist ties found.",
+    "source_url": "https://www.cossd.com/biz/9746/clock-spring-company-lp",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f2a780b3-dce0-4f71-9804-17ec969399de",
+    "name": "Naylor, Bryan",
+    "resolved_employer": "Office of Councilmember John Courage (San Antonio City Council District 9)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Occupation 'City Council Aide', employer 'John Kenneth Courage' — John Courage was the elected San Antonio City Council member for District 9 (2017-2025). Documented government/political staff role.",
+    "source_url": "https://ballotpedia.org/John_Courage",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "San Antonio City Council, District 9 (Office of John Courage)", "role": "City Council Aide", "category": "political", "source_url": "https://ballotpedia.org/John_Courage", "snippet": "John Courage served as the elected Councilmember for San Antonio District 9 from 2017 to 2025; Naylor is a staff aide in that office."}
+    ]
+  },
+  {
+    "donor_id": "f299f4ec-2674-412a-8494-3b530869c8c8",
+    "name": "McPherson, Cheryl",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Out-of-state ($15) donor in Tacoma, WA (98405) with no occupation/employer reported. Common name; no specific individual could be corroborated on zip + occupation. Quiet outcome / ordinary resident.",
+    "source_url": "https://www.spokeo.com/Cheryl-Mcpherson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e4c5005d-cf36-48e3-80ea-8d00af266842",
+    "name": "Hiller, Jay",
+    "resolved_employer": "Lake Austin Spa Resort",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Occupation 'Yoga Instructor' and employer 'LASR' match Jay Hiller, an RYT-200 yoga teacher who teaches at Lake Austin Spa Resort in Austin (zip 78726); confirmed via YogaTrail/Yoga Alliance profiles and Lake Austin Spa Resort event listing.",
+    "source_url": "https://www.yogatrail.com/teacher/jay-hiller-936722",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

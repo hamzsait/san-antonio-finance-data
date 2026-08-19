@@ -1,0 +1,236 @@
+[
+  {
+    "donor_id": "f71b9daa-6f6f-4648-abdf-bb952cd3692f",
+    "name": "Morin, Evita",
+    "resolved_employer": "Rise Recovery",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Evita Morin, LMSW, is CEO/Executive Director of Rise Recovery, a San Antonio nonprofit helping teens/young adults/families overcome substance abuse; led its $8.5M capital campaign. Matches SA 78230 and CEO/Rise Recovery record.",
+    "source_url": "https://www.ksat.com/news/local/2020/07/14/san-antonio-substance-abuse-recovery-program-changes-how-it-provides-services-during-pandemic/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Rise Recovery", "role": "CEO / Executive Director", "category": "civic", "source_url": "https://riserecovery.org/rise-recovery-unveils-san-antonios-first-naloxone-vending-machine-to-combat-opioid-overdoses/", "snippet": "Evita Morin, CEO of Rise Recovery, said the naloxone vending machine is 'a lifeline for our community's youth.'"}
+    ]
+  },
+  {
+    "donor_id": "eed32289-8f51-492a-8d9f-a17fe3d9ec46",
+    "name": "DeLeon, Beto",
+    "resolved_employer": "Thrive Youth Center",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Beto DeLeon is Program Support Manager / development & grant writer at Thrive Youth Center, a San Antonio LGBTQ+ youth homelessness nonprofit; a 25-year community organizer working on environmental justice, housing rights, and food access in South Texas. Matches Development Director/Thrive record.",
+    "source_url": "https://thriveyouthcenter.org/about-us/our-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Thrive Youth Center", "role": "Program Support Manager / Development", "category": "civic", "source_url": "https://thriveyouthcenter.org/about-us/our-team/", "snippet": "Community organizer whose work is focused on supporting projects rooted in collective healing; 25 years in education, training, and community organizing addressing environmental justice, housing rights, food access, and youth leadership."}
+    ]
+  },
+  {
+    "donor_id": "ee9cb943-64ff-436a-94cb-25cb6074246b",
+    "name": "Dupré, Priscilla",
+    "resolved_employer": "LiftFund",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Priscilla Dupré is Director of Executive Services / Chief of Staff at LiftFund, a San Antonio nonprofit CDFI small-business microlender. Confirmed via LinkedIn/ZoomInfo matching the Sr Executive Assistant/LiftFund record and the 78209 area.",
+    "source_url": "https://www.linkedin.com/in/priscilla-dupre-0b1a35295",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ea52f3b4-150f-4921-b11c-eb24cfb4100a",
+    "name": "Abad, Jennte",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Occupation ('Constant') and employer ('Gua') fields are garbled/truncated; name 'Jennte Abad' returns no reliable public match. King William area (78204). Not verifiable.",
+    "source_url": "",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false, "arena_marvel": false, "charter_school": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e9ec1c56-2d3b-4c0b-9509-149c22bb6af0",
+    "name": "Tuloenzky, Derek",
+    "resolved_employer": "City of San Antonio (COSA) — per self-reported field, unverified",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Both occupation and employer fields read 'Cosa' (City of San Antonio) and the address (100 Santa Rosa, 78207) is a downtown city/civic block. Name 'Derek Tuloenzky' (likely misspelled) returns no public match; industry rests only on the self-reported COSA employer.",
+    "source_url": "",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false, "arena_marvel": false, "charter_school": false},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e483dfd8-67f8-4cf9-9ba7-3708ec5ba963",
+    "name": "Esnaola, Stefany",
+    "resolved_employer": "CheckpointID",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Steffany Esnaola is Director of Business Development at CheckpointID (identity-verification / fraud-and-risk software for multifamily housing), based in San Antonio; matches Director of Business Development/Checkpoint ID record and 78249. Later moved to Apogee/MRI Software.",
+    "source_url": "https://wiza.co/d/checkpointid/76d7/steffany-esnaola",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e38439b4-a4ea-4e36-bda7-5047121d901a",
+    "name": "Randolph, Kaylyn",
+    "resolved_employer": "Build San Antonio Green (nonprofit)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "LinkedIn profile for a Kaylyn Randolph is associated with Build San Antonio Green, an environmental nonprofit in the SA metro; matches self-reported 'Program admin' at a 'Nonprofit' and Cibolo (78108) SA-area location. No political/PAC affiliations found.",
+    "source_url": "https://www.linkedin.com/in/kaylyn-randolph-a68a10286",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e3492e0c-53f0-4d53-9fd5-b66afe92879e",
+    "name": "Gonzalez, Bethany",
+    "resolved_employer": "Game Over Videogames",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Employee at Game Over Videogames, a retro video-game retail chain with multiple San Antonio stores; matches self-reported employer and 78253 SA location. Common name, but occupation+employer corroborate. No FEC/PAC or advocacy affiliations found.",
+    "source_url": "https://www.linkedin.com/company/game-over-video-games",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e2453caa-3b24-487d-9361-e6dd49540bae",
+    "name": "Sokoloff, Kerry",
+    "resolved_employer": "Methodist Healthcare (San Antonio)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Self-reported healthcare worker at Methodist (Methodist Healthcare System is SA's largest hospital network). No public profile located to corroborate the specific individual; classified per generic occupation/employer only.",
+    "source_url": "https://www.sahealth.com/locations",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e0c66686-f9f7-4853-95f7-6955f676379f",
+    "name": "Lurin, Joe",
+    "resolved_employer": "EmblemHealth",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Joe Lurin, CHC, CIPP is VP of Corporate Compliance and Privacy Officer at EmblemHealth (NY health insurer), based in Brewster, NY. Occupation (Compliance), employer, and 10509 Brewster location all match exactly. No political/PAC affiliations found.",
+    "source_url": "https://theorg.com/org/emblemhealth/org-chart/joe-lurin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dc8342e7-52e5-4468-a845-7355f49dfaee",
+    "name": "Gery, Garza",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Self-reported temp worker at 'Capital Group'; could not confirm the specific individual (no public profile match for 'Gery Garza' in San Antonio). Unable to corroborate identity on zip/occupation, so left unclassified per fallback rule.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "da63a029-9f4b-4b0e-be3e-f61c3e8f6d98",
+    "name": "Sohail, Marrium",
+    "resolved_employer": "Marrium Insurance Agency (owner/CEO)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Marrium Sohail is CEO/owner of Marrium Insurance Agency in San Antonio, a commercial insurance agency serving the hospitality industry; matches self-reported 'Business owner' and 78255 SA location. No political/PAC, lobbyist, arena, or charter affiliations found.",
+    "source_url": "https://www.linkedin.com/in/marrium-sohail-a83255223/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d7f09962-57f3-4e1f-bd48-b1723d9bb8d7",
+    "name": "Colak, Betullah",
+    "resolved_employer": "Respect Graduate School (Islamic graduate school), Bethlehem/Allentown PA",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Imam Beytullah Colak, Director of Institutional Outreach at Respect Graduate School (Islamic grad school) in the Lehigh Valley; matches occupation 'Imam' and employer 'Respect Islamic Grad School' and Allentown-area location. Interfaith/intrafaith peace-builder; no documented Israel/Palestine, arena, or charter policy advocacy.",
+    "source_url": "https://www.respectgs.us/teacher/imam-beytullah-colak/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d3288cf3-6b36-4009-9c48-78258f28fe76",
+    "name": "Rodriguez, Andrea",
+    "resolved_employer": "Centro San Antonio",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Andi (Andrea) Rodriguez, VP of Cultural Placemaking at Centro San Antonio (downtown-booster nonprofit); MS in Architecture/Urban Planning, former City Planning Commissioner, ULI Leadership Council, founding chair of Hemisfair Conservancy. Occupation 'Cultural Placemaking' + employer 'Centro SA' + 78205 downtown address all corroborate.",
+    "source_url": "https://centrosanantonio.org/about/staff",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Centro San Antonio", "role": "VP, Cultural Placemaking", "category": "civic", "source_url": "https://centrosanantonio.org/about/staff", "snippet": "VP of Cultural Placemaking leading Centro's 'people projects' (Art Everywhere, Zona Cultural); long-time downtown urban champion."},
+      {"org": "Centro San Antonio (employer stance)", "role": "Senior staff of downtown-booster org backing arena", "category": "arena_venue", "source_url": "https://centrosanantonio.org/release/project-marvel-moves-forward-city-council-clears-path-for-voter-approval-of-downtown-spurs-arena", "snippet": "Her employer Centro San Antonio publicly champions the downtown Spurs arena ('Project Marvel'). Affiliation is via employer, not a documented personal advocacy role."}
+    ]
+  },
+  {
+    "donor_id": "d1207093-1efd-4ea9-b8a3-293bcf1b7c30",
+    "name": "Muniz, Lyndee",
+    "resolved_employer": "Hair by Lyndee (self-employed booth-renting hairstylist)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Lyndee Muniz, independent hairstylist operating 'Hair by Lyndee' (DBA), booth renter; San Antonio/Schertz area. Matches occupation 'Hairdresser' / employer 'Self'. No public policy, PAC, arena, or charter affiliations found.",
+    "source_url": "https://voyagesanantonio.com/interview/inspiring-conversations-with-lyndee-muniz-of-hair-by-lyndee/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d0955fa7-de37-4507-b776-7ee6f208c719",
+    "name": "Osteguin, Angelina",
+    "resolved_employer": "To Care Enough CPR (Training Center Administrator / CPR instructor)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Angelina Osteguin, Training Center Administrator/instructor at To Care Enough CPR (AHA training center, South San Antonio). Also a former South San Antonio ISD trustee and board president for District 1. Occupation, employer, and South Side location (78211) all corroborate.",
+    "source_url": "https://ballotpedia.org/Angelina_Osteguin",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "South San Antonio ISD (traditional public school district)", "role": "Former Trustee / Board President, District 1", "category": "public_school_advocacy", "source_url": "https://sanantonioreport.org/november-school-board-races-could-signal-turning-point-for-south-san-edgewood-isds/", "snippet": "Served as elected trustee and board president for District 1 of South San Antonio ISD, a traditional public school district."}
+    ]
+  },
+  {
+    "donor_id": "cf2d9f89-a775-47da-895c-2f42fc25b720",
+    "name": "Markson, Gail and David",
+    "resolved_employer": "Eleanor Kolitz Hebrew Language Academy (Gail: PEIMS Coordinator / administrator)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Gail Markson is PEIMS Coordinator (administrator) at Eleanor Kolitz Hebrew Language Academy, a Jewish day school in San Antonio (NW side, 78249); matches occupation 'Administrator' + employer string. Joint donation with spouse David. Employment at a Jewish day school is not policy advocacy, so jewish_civic is out of scope per instructions. No FEC/lobbyist/arena/charter policy advocacy found.",
+    "source_url": "http://www.ekhla.org/about-us/teachers-staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ccfb787f-2d72-4920-a861-4a34157b2a88",
+    "name": "Uy, Gabriel",
+    "resolved_employer": "U.S. Army / Nevada Army National Guard (finance officer)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Capt. Gabriel Uy, Nevada Army National Guard finance officer and Las Vegas native; reconciled $33M in obligations at SETAF-Africa. Also a Democratic political operative (Harry Reid staff, Kamala Harris NV political director, Biden WH Office of Intergovernmental Affairs). Finance-officer + Army + Las Vegas 89141 corroborate identity. Active-duty government military service is Government industry (not the defense-contractor 'military_defense' category).",
+    "source_url": "https://www.dvidshub.net/news/399183/nevada-army-guard-officer-lands-dream-job-white-house",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Democratic campaigns / Biden White House", "role": "Sen. Harry Reid staff (2013-2016), Kamala Harris NV political director, WH Office of Intergovernmental Affairs Associate Director (2021)", "category": "political", "source_url": "https://www.dvidshub.net/news/399183/nevada-army-guard-officer-lands-dream-job-white-house", "snippet": "Served on Sen. Harry Reid's staff (2013-2016), VP Kamala Harris's Nevada political director, appointed Associate Director of the White House Office of Intergovernmental Affairs in 2021."}
+    ]
+  },
+  {
+    "donor_id": "c769a546-7982-40eb-8b7e-e4632cba4f78",
+    "name": "Giuliano, Neil",
+    "resolved_employer": "Greater Phoenix Leadership (President/CEO)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Neil Giuliano, former mayor of Tempe, AZ (1994-2004, first directly elected openly gay U.S. mayor), former GLAAD president (2005-2009), former SF AIDS Foundation CEO, since 2016 President/CEO of Greater Phoenix Leadership. Tempe 85282 residence matches; notable public figure who gave to openly gay SA councilmember Jalen McKee-Rodriguez.",
+    "source_url": "https://en.wikipedia.org/wiki/Neil_Giuliano",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "GLAAD (Gay & Lesbian Alliance Against Defamation)", "role": "President (2005-2009)", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Neil_Giuliano", "snippet": "Served as president of GLAAD from 2005 to 2009; longtime LGBTQ advocate and first directly elected openly gay mayor in the U.S."},
+      {"org": "Greater Phoenix Leadership", "role": "President/CEO (since 2016)", "category": "civic", "source_url": "https://azpei.org/employees/neil-giuliano", "snippet": "Since January 2016 has served as President/CEO of Greater Phoenix Leadership, a civic/business leadership organization."}
+    ]
+  },
+  {
+    "donor_id": "c750a627-7da4-4d12-9681-b81b063397da",
+    "name": "Taylor, Susan",
+    "resolved_employer": "University of Nevada Cooperative Extension (Community Based Instructor)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Occupation 'Community Based Instructor' with employer 'UNCE' matches a University of Nevada Cooperative Extension job title (e.g., 'Community Based Instructor - Clark County 4H'). Las Vegas 89119 aligns with UNCE's Clark County office. No adverse PAC/lobbyist/arena/charter records found; quiet outcome. Could not pin the exact staff profile, hence medium confidence.",
+    "source_url": "https://extension.unr.edu/county-personnel.aspx?CountyID=3",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

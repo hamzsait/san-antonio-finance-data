@@ -1,0 +1,236 @@
+[
+  {
+    "donor_id": "ce470906-52e3-48ad-b2d2-80376a5acb1c",
+    "name": "Belmares, Ed",
+    "resolved_employer": "COO at CAPITAL, a division of HJD Capital Electric, Inc. (San Antonio general/electrical construction contractor; gift address 5424 US 90 is HJD Capital's business address)",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "LinkedIn lists 'Ed Belmares - CAPITAL - A Division of HJD Capital Electric, Inc.', matching the donor's COO/CAPITAL occupation and the HJD business address on US 90. A separate public figure of the same name (former SA assistant city manager, SAWS board) also exists, hence medium confidence. No PAC, lobbyist, arena, or charter-school ties surfaced.",
+    "source_url": "https://www.linkedin.com/in/ed-belmares-1935a897/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c5009a14-adba-4e8a-8c58-454a7a0c60c0",
+    "name": "Davila, Roland",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "215 N Center St (78202) is a downtown condo/loft building; a Roland A. Davila previously owned a unit there. Candidate identities include a Roland Davila who is president of RCO Construction LLC (San Antonio) and a Roland Davila who is a Univision production manager; occupation is blank on the record and no source ties a specific occupation to this donor, so identity cannot be confirmed. All five searches run; no PAC/lobbyist/arena/charter ties.",
+    "source_url": "https://www.corporationwiki.com/Texas/San-Antonio/roland-davila/96413051.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c40bf7b7-6f95-4fd3-b4f5-cb67a584abdf",
+    "name": "DeLaHoussaye, Jeremy",
+    "resolved_employer": "President of PJS of San Antonio (Professional Janitorial Services / PJS of Texas), a locally-owned commercial janitorial and building-services company; per a late-2025 LinkedIn post, promoted to CEO of PJS of Texas. Prior insurance-broker roles at Lockton, Berkshire Hathaway Specialty, AIG.",
+    "industry": null,
+    "confidence": "high",
+    "evidence": "Multiple sources (LinkedIn, RocketReach, ZoomInfo) confirm Jeremy DeLaHoussaye as President of PJS of San Antonio, matching the donor's occupation/employer. Industry left null because commercial janitorial/building-services has no clean fit in the taxonomy. No FEC PAC, Texas lobbyist, arena/Project Marvel, or charter-school ties found.",
+    "source_url": "https://www.linkedin.com/in/jeremy-delahoussaye-604b5840",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c311ee51-57a1-4c8b-80c3-24f4a7aef4ca",
+    "name": "Clark, Angela",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Common name with several San Antonio matches (e.g., attorney Angela Miranda-Clark near Trinity University in 78212; a project accountant at Mission Restaurant Supply; a teacher). None could be tied to the donor's 505 E Mandalay Dr address; occupation is blank, so the specific person cannot be confirmed. All five searches run; no PAC/lobbyist/arena/charter ties.",
+    "source_url": "https://www.linkedin.com/in/angela-clark-387241254/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c164d077-7e55-45bd-b2ab-4341bfbd0cd9",
+    "name": "Hawkins, Barton",
+    "resolved_employer": "Barton Kip Hawkins; public records tie his exact address (13319 Teagarden Ln, 78232) to two closely-held companies registered there, MTH Realty LLC and STG Synergies, Inc., alongside Theresa M. Hawkins (likely spouse). Appears to be a small-business owner with a real-estate holding entity.",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Spokeo record for Barton Kip Hawkins at the exact donor address (13319 Teagarden Ln, 78232) lists MTH Realty LLC and STG Synergies Inc at that address; identity match on address is strong but the record's occupation is 'n/a', so the Real Estate tag is inferred from the household-registered realty LLC. No FEC PAC, Texas lobbyist, arena, or charter-school ties found.",
+    "source_url": "https://www.spokeo.com/Barton-Hawkins/Texas/San-Antonio/p1815438021",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c15e3aa6-96cd-408b-a34d-fe8133d3e6a6",
+    "name": "Khan, Israr",
+    "resolved_employer": "Alamo Laboratories Inc (Alamo Labs), President/founder; San Antonio life-sciences research company (custom antibodies, biomedical AI, NIH/DOD work)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Public corporate records (CorporationWiki) list Israr A. Khan as President of Alamo Laboratories Inc, a privately owned San Antonio life-sciences research company founded 2003; the company's About Us page confirms life-sciences research services. This matches the donor's employer 'Alamo Labs' and occupation 'Scientist,' and the northwest-side location is consistent with donor zip 78249. No FEC PAC, Texas lobbyist, Project Marvel/arena, or charter-school affiliations found; ordinary local business owner/scientist.",
+    "source_url": "https://www.corporationwiki.com/p/34o6j9/israr-khan",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c0a4ca49-e987-41dd-8f30-29710444e852",
+    "name": "Malik, Farooq",
+    "resolved_employer": "Signify Holdings (as recorded; ambiguous entity, could not confirm which: Signify N.V. lighting, Signify Health, or Signify Holdings Inc. NYC specialty pharma. The only prominent same-named public figure is a NYC specialty-pharma CEO, not a San Antonio 'Manager', so the overlap is likely coincidental)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not corroborate the specific individual on BOTH zip (78230) and occupation (Manager). Multiple distinct 'Farooq Malik' individuals exist in San Antonio and nationally. All five mandatory searches run: no confirmable FEC PAC records, no Texas lobbyist registration, no board/advocacy roles, no Project Marvel/arena involvement, and no charter/public-school ties for this person. Consistent with a quiet ordinary-resident outcome.",
+    "source_url": "https://www.privco.com/company/signify",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bd9ea851-dbaf-4a6b-b2ff-cb88611f0914",
+    "name": "Local 67, San Antonio Alliance",
+    "resolved_employer": "San Antonio Alliance of Teachers and Support Personnel PAC (Local 67 teacher-union PAC; the elected employee union in SAISD)",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "The donor is the political committee of the San Antonio Alliance of Teachers and Support Personnel, Local 67, affiliated with AFT, Texas AFT, AFL-CIO, NEA, and TSTA. A registered PAC appears in Texas Ethics Commission / Transparency USA filings. The union advocates for public schools, has opposed charter expansion (sought an injunction against an in-district charter conversion), and its president publicly pressed for community-benefit commitments over Project Marvel arena public funding. Teacher-union PAC: industry Labor; category public_school_advocacy.",
+    "source_url": "https://www.sanantonioalliance.org/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "American Federation of Teachers (AFT) / Texas AFT / AFL-CIO", "role": "Local affiliate (Local 67 teacher-support-personnel union)", "category": "public_school_advocacy", "source_url": "https://www.sanantonioalliance.org/about", "snippet": "The organization maintains membership in several labor confederations: NEA, TSTA, American Federation of Teachers (AFT), Texas AFT, and AFL-CIO."},
+      {"org": "San Antonio Alliance of Teachers and Support Personnel PAC", "role": "Registered Texas political committee (the donor entity)", "category": "public_school_advocacy", "source_url": "https://www.transparencyusa.org/tx/committee/san-antonio-alliance-of-teachers-and-support-personnel-pac-16203-gpac", "snippet": "San Antonio Alliance of Teachers and Support Personnel PAC listed as a Texas committee on Transparency USA."},
+      {"org": "SAISD anti-charter advocacy", "role": "Union advocating against charter expansion", "category": "public_school_advocacy", "source_url": "https://sanantonioreport.org/san-antonio-alliance-seeks-injunction-to-stop-charter-takeover/", "snippet": "The San Antonio Alliance sought an injunction to halt an agreement that would convert Stewart Elementary to an in-district charter, advocating against privatization and charter expansion."},
+      {"org": "Project Marvel / Spurs arena public-funding opposition", "role": "Labor coalition seeking community benefits over arena subsidy", "category": "arena_opposition", "source_url": "https://www.ksat.com/news/local/2025/09/01/education-labor-groups-to-hold-press-conference-in-opposition-to-project-marvel/", "snippet": "Alejandra Lopez, president of the San Antonio Alliance, called for a community benefits agreement for Project Marvel and 'a commitment to public investment... in the working people,' citing underfunded schools."}
+    ]
+  },
+  {
+    "donor_id": "b97f7e43-789c-461c-919d-d8f6f67e9dbc",
+    "name": "Bhurgri, Avais",
+    "resolved_employer": "Berg Companies (self-reported to FEC as CEO/Owner; industry unverified. Not the Spokane WA defense contractor of the same name, whose CEO is Don Myers. State records show only small, now-inactive Texas entities, e.g., Bhurgri Unlimited, Inc.)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Identity corroborated on address and occupation: FEC Schedule A records for Avais Bhurgri of San Antonio list employer 'Berg Companies' and occupation CEO/Owner, matching the donor, and directories place him at 3019 Spider Lily, 78258. But no public source ties him to any identifiable 'Berg Companies' with a knowable industry. FEC giving was mixed (Harris Victory Fund and WinRed), with no pro-Israel/oil&gas/defense/NRA PAC pattern. No Texas lobbyist registration, no arena, no charter/public-school role.",
+    "source_url": "https://www.fastbackgroundcheck.com/people/avais-bhurgri/id/f-6531874618589385579",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b84411a7-e5a5-4b55-b689-e952e8bb8be1",
+    "name": "Barton, Edward",
+    "resolved_employer": "Self-employed (business owner; no specific business identifiable in public records)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Filing lists occupation 'Business Owner' / employer 'Self-employed' at 30829 Man O War, Fair Oaks Ranch TX 78013. FEC federal records return only unrelated Edward Bartons (Austin, Abilene, Kingsville), none matching this zip or occupation. No Texas lobbyist registration, no LinkedIn/firm/bio, no arena/Project Marvel or charter/public-school ties. 'Edward Barton' is a common name and identity could not be corroborated on both zip and occupation; industry defaults to Self-Employed per fallback.",
+    "source_url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=Edward+Barton&contributor_state=TX",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b654d5ee-ad6e-4bfc-8dc1-9e087548e1e7",
+    "name": "Yantis, Thomas",
+    "resolved_employer": "Mosaic Land Development, LLC (CEO / founding partner); San Antonio full-service land-development company. 40+ years in land development; former President/Co-Chair of the Yantis Company.",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Tom/Thomas Yantis is confirmed as CEO and founding partner of Mosaic Land Development, a San Antonio land-development company, matching the donor's employer, occupation (CEO), and location. Corroborated across LinkedIn, ZoomInfo, D&B, and CorporationWiki. His public bio lists board service at the Greater San Antonio Chamber of Commerce, Frost Bank, and Northside ISD, plus original Rackspace investor. No AIPAC/DMFI/J Street/oil&gas/defense/NRA PAC ties, no Texas lobbyist registration, no Project Marvel/arena or charter-school role found.",
+    "source_url": "https://www.zoominfo.com/p/Thomas-Yantis/3931232847",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Northside Independent School District", "role": "former board member", "category": "civic", "source_url": "https://www.linkedin.com/in/tom-yantis-2aa9b581/", "snippet": "Tom has served as a board member at The Greater San Antonio Chamber of Commerce, Frost Bank and Northside Independent School District."}
+    ]
+  },
+  {
+    "donor_id": "b4b67066-5b5a-4873-8d87-a8c5c24fb6a4",
+    "name": "Gutierrez, Mrs,",
+    "resolved_employer": "Homemaker (not employed)",
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor self-reports occupation and employer as 'Home maker' at 1618 Greystone Ridge, San Antonio 78258 (a residential address). No first name provided. All five searches returned no public footprint tying this specific individual to any employer, PAC, lobbying, arena, or education organization. A separate registered lobbyist named Hugo Gutierrez exists but there is no basis to link him to this donor and surname alone is not evidence. Treated as an ordinary resident; quiet outcome.",
+    "source_url": "https://www.har.com/homedetail/1618-greystone-ridge/8200422",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aef61965-06dd-416b-9537-29c87f4bdaae",
+    "name": "Marquez, Nicholas",
+    "resolved_employer": "Self-employed real estate agent (Black Label RE Advisors, LLC), listing properties in the Schertz 78154 market",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Donor reports occupation/employer as 'Self' at 555 Ginsberg Dr, Schertz TX 78154. A licensed Texas real estate agent named Nicholas Marquez (HAR.com agent SA-636976, Black Label RE Advisors, LLC) actively lists properties in the same 78154 zip, consistent with a self-employed real estate agent. Identity match is by name, market area, and self-employed status but not independently confirmed by a bio naming this exact person, hence medium. No FEC PAC ties, no Texas lobbyist registration, no arena or charter-school role.",
+    "source_url": "https://www.har.com/nicholas-marquez/agent_SA-636976",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ae1561ba-f33d-4808-8b49-ad1a58576339",
+    "name": "People, AFSCME",
+    "resolved_employer": "AFSCME PEOPLE, the political action fund of the American Federation of State, County and Municipal Employees (AFSCME), AFL-CIO",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "Donor 'People, AFSCME' at 1625 L Street NW, Washington DC 20036 is AFSCME PEOPLE, the political action fund of AFSCME, the nation's largest public-employee labor union (AFL-CIO). Address matches exactly. This is a union PAC that supports candidates and discloses via IRS and U.S. Department of Labor filings. Industry Labor; the $500 to Ric Galvan is standard union-PAC political activity.",
+    "source_url": "https://www.afscme.org/afscme-people",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "AFSCME PEOPLE", "role": "Political action fund of the AFSCME public-employee union (the donor entity)", "category": "political", "source_url": "https://www.afscme.org/afscme-people", "snippet": "AFSCME PEOPLE - AFSCME's political action fund supporting candidates aligned with public-service workers, disclosed through IRS and U.S. Department of Labor filings."}
+    ]
+  },
+  {
+    "donor_id": "abb2a95d-12a7-4b19-a6bf-9b4db72e8a6d",
+    "name": "Parral, Araceli",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor listed no occupation or employer; address 215 Coca Cola Pl, San Antonio 78219 corresponds to 'The Andy' live/work loft residential building. All five searches returned no confirmable public records for this specific individual. Treated as an ordinary resident; identity/occupation uncorroborated, so industry null and confidence low.",
+    "source_url": "https://www.redfin.com/TX/San-Antonio/215-Coca-Cola-Pl-San-Antonio-TX-78219/building/85019",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aa71da30-e2a9-43af-9337-19dde5795f08",
+    "name": "Hilliard, Paula",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Ordinary resident in San Antonio TX 78260; contribution record lists no occupation or employer (Na/None). Public records confirm a Paula C. Hilliard in San Antonio 78260, but no employer, professional bio, or advocacy role is documented. No FEC PAC giving, Texas lobbyist registration, Project Marvel/arena, or charter-school connections found. Quiet outcome for an ordinary resident.",
+    "source_url": "https://www.mylife.com/paula-hilliard/e2169516462",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a9f26437-1c66-4bd9-b339-792e4e9538bd",
+    "name": "Campaign Account, Jose Garza",
+    "resolved_employer": "Jose Garza campaign committee (Travis County District Attorney)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "This is a political committee/candidate campaign account, not an individual: the 'Campaign Account, Jose Garza' at an Austin PO Box (78703) making a $500 transfer to Ric Galvan. Jose Garza is the Travis County (Austin) District Attorney, a Democratic/progressive elected official associated with the reform-prosecutor movement. Classified as a political committee/candidate account.",
+    "source_url": "https://ballotpedia.org/Jos%C3%A9_Garza_(Travis_County,_Texas)",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Jose Garza campaign committee", "role": "Candidate / officeholder committee (Travis County District Attorney)", "category": "political", "source_url": "https://ballotpedia.org/Jos%C3%A9_Garza_(Travis_County,_Texas)", "snippet": "Jose Garza is the Democratic District Attorney of Travis County, Texas, serving since January 2021; the donor is his campaign account making a committee transfer."}
+    ]
+  },
+  {
+    "donor_id": "a90225a8-937e-4846-9c52-ca1bf0841505",
+    "name": "Bagby, Lindsay",
+    "resolved_employer": "Bagby Injury Law (personal-injury firm led by attorney Tom Bagby, with offices in Colorado Springs, CO and San Antonio, TX); donor listed as 'Admin'",
+    "industry": "Legal",
+    "confidence": "medium",
+    "evidence": "Occupation 'Admin' / employer 'Bagby Law' at a Colorado Springs CO 80906 address. Bagby Injury Law is a personal-injury firm led by Tom (J. Thomas) Bagby with offices in Colorado Springs and San Antonio (2101 NW Military Hwy), explaining the Colorado address on a donation to San Antonio council member Marc Whyte. Surname and admin role are consistent with an administrative employee/family member of the firm. No FEC PAC, Texas lobbyist, arena, or charter-school ties found.",
+    "source_url": "https://bagbyinjurylaw.com/locations/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a8bb41b8-63d3-4458-9314-5f0d10abfc4c",
+    "name": "Little, Nikki",
+    "resolved_employer": "Self-employed (no specific business, bio, or advocacy role confirmable)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Contribution lists occupation 'Self' / employer 'Self Employed' at 214 Tuttle Rd, San Antonio TX 78209 (Alamo Heights area). No specific business, professional bio, or advocacy role could be confirmed via public sources. No FEC PAC giving, Texas lobbyist registration, Project Marvel/arena, or charter-school connections found. Identity not independently corroborated beyond the filing.",
+    "source_url": "https://www.linkedin.com/in/nicole-nikki-nix-4b139980/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a64bac96-77dc-47aa-aee0-64921b73e7e8",
+    "name": "Falic, Simon",
+    "resolved_employer": "Duty Free Americas (owner; one of three Falic brothers who own the Hollywood, FL-based duty-free retail chain of 180+ airport shops). Bal Harbour FL 33154 matches the family's South Florida base.",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Simon Falic is one of three brothers (Simon, Jerome, Leon) who own Duty Free Americas. Extensively documented (Haaretz, Times of Israel, Al Jazeera, Tampa Bay Times) as among the largest pro-Israel political donors in the US: the Falics have given more than $1.7 million since 2000 to pro-Israel politicians of both parties and at least $5.6 million to West Bank/East Jerusalem settler groups; Simon Falic is directly quoted defending the giving. Occupation 'Owner' / employer 'Duty Free' corroborates identity.",
+    "source_url": "https://www.timesofisrael.com/us-duty-free-owners-give-millions-to-israeli-settlements/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Pro-Israel political giving (documented FEC contributions to pro-Israel candidates/PACs of both parties)", "role": "Major individual donor (Falic family)", "category": "pro_israel", "source_url": "https://www.timesofisrael.com/us-duty-free-owners-give-millions-to-israeli-settlements/", "snippet": "Since 2000 the Falics have contributed over $1.7 million to pro-Israel politicians across both parties; Simon Falic: 'We are proud to support organizations that help promote Jewish life all over the Land of Israel.'"},
+      {"org": "West Bank / East Jerusalem settler organizations (incl. Ateret Cohanim, Third Temple groups)", "role": "Major funder (Falic family)", "category": "pro_israel", "source_url": "https://www.haaretz.com/israel-news/2019-07-01/ty-article/the-u-s-duty-free-empire-that-funds-israeli-settlements/0000017f-efd0-d497-a1ff-efd01c690000", "snippet": "The Falic family of Florida has donated at least $5.6 million to settler groups in the West Bank and east Jerusalem over the past decade, funding synagogues, schools and social services along with far-right causes."}
+    ]
+  }
+]

@@ -1,0 +1,230 @@
+[
+ {
+  "donor_id": "d1716c92-05f5-44b1-8678-c3c3e6436895",
+  "name": "Kemp, SACHA",
+  "resolved_employer": "Self-employed (beauty industry; possibly 'Sacha K brows', Atlanta)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Occupation 'Beauty industry' / employer 'Self' at Atlanta midtown zip 30309. A Facebook business page 'Sacha K brows' (Atlanta beauty) plausibly matches but identity not firmly confirmed. Ordinary out-of-state small donor to McKee-Rodriguez/Castillo (2021).",
+  "source_url": "https://www.facebook.com/SachaKbrows/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ccbd9fd0-c3c7-46ad-bc74-99eff5081a3a",
+  "name": "Quiroga, Carol",
+  "resolved_employer": "Self (education)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Occupation 'education', employer 'self', Delray Beach FL 33484. No web footprint located to confirm the specific individual; common name. Ordinary out-of-state small donor to McKee-Rodriguez/Castillo (2021).",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8fea2665-bafc-4448-9ec3-9aa31b818e8b",
+  "name": "Herzog, Emily",
+  "resolved_employer": "OM Juice (juice bar, New York, NY)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Occupation 'Juice bar', employer 'Om juice' at 22 St. Marks, NYC 10003. OM Juice is a confirmed NYC cold-pressed juice bar; Herzog is an owner/employee, though the specific person is not independently confirmed. Ordinary out-of-state small donor (2021).",
+  "source_url": "https://www.instagram.com/omjuicenyc/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "589834e5-601a-4739-ac84-193e00aa1216",
+  "name": "McFarlane, Julie",
+  "resolved_employer": "Trader Joe's (Minneapolis, MN)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Occupation 'CS' (customer service), employer 'Trader Joe's', Minneapolis 55405. Employer is a real grocery retailer; specific person not independently confirmed (common name). Ordinary out-of-state small donor (2021).",
+  "source_url": "https://locations.traderjoes.com/mn/minneapolis/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1d3e6142-9151-41dc-a83e-79a593e1a483",
+  "name": "Fitch, Tyler",
+  "resolved_employer": "Vote Solar (Regulatory Director, Southeast)",
+  "industry": "Energy / Environment",
+  "confidence": "high",
+  "evidence": "Confirmed via Vote Solar team bio: Tyler Fitch, Regulatory Director for the Southeast at Vote Solar, doing economic/regulatory research for clean-energy policy; prior EDF Climate Corps, ICF, UMich MS Environmental Policy. Matches occupation 'Regulatory Director' / employer 'Vote Solar', DC zip 20009.",
+  "source_url": "https://votesolar.org/team/tyler-fitch/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Vote Solar", "role": "Regulatory Director (Southeast)", "category": "civic", "source_url": "https://votesolar.org/team/tyler-fitch/", "snippet": "Tyler Fitch is Regulatory Director for the Southeast at Vote Solar, a clean-energy/solar policy advocacy nonprofit."}
+  ]
+ },
+ {
+  "donor_id": "13d9e519-32d3-4530-8cb6-5a93162a1f72",
+  "name": "Powell, Devyn",
+  "resolved_employer": "Evergreen Action (clean-energy policy)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed via Evergreen Action people page and PNNL bio: Devyn Powell worked on clean-energy policy at Evergreen Action (and Solar United Neighbors, 350.org, Power Shift Network); MPP Georgetown, BA Tufts; later energy research analyst at PNNL. Matches occupation 'Policy Fellow' / employer 'Evergreen Action', DC zip 20009.",
+  "source_url": "https://www.evergreenaction.com/people/devyn-powell/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Evergreen Action", "role": "Policy Fellow", "category": "civic", "source_url": "https://www.evergreenaction.com/people/devyn-powell/", "snippet": "Devyn Powell worked on clean-energy transition policy at Evergreen Action, a climate-policy advocacy nonprofit."}
+  ]
+ },
+ {
+  "donor_id": "52598739-d255-4892-b9c2-80a4353057d0",
+  "name": "ESTRADA, ERIK",
+  "resolved_employer": "Labcorp (Key Account Executive)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Occupation 'Key Account Executive' / employer 'LabCorp' at San Antonio zip 78249. LinkedIn shows an 'Erik Estrada - Key Account Executive' matching the title; Labcorp is a clinical-diagnostics company with a San Antonio presence. Prolific small Democratic donor per FEC metadata (count ~139, lean ~0.99 D), but no ideological-PAC, lobbyist, arena, or charter tie found.",
+  "source_url": "https://www.linkedin.com/in/erik-estrada-40ba298b",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "22cc8d99-511b-4f18-99fc-928e745d0c08",
+  "name": "gattis, loria",
+  "resolved_employer": "Hyatt Corporation (Administrative Assistant)",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Administrative Assistant at Hyatt Corporation, Fort Smith AR (zip 72903). No public bio confirming this specific individual; occupation/employer taken from filing. Ordinary out-of-state small donor.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "11ca50e3-f721-4833-b906-5a211059a7ed",
+  "name": "Armstead, Steven",
+  "resolved_employer": "FCB Chicago (advertising agency)",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Steven Armstead was a Production Business Manager at FCB Chicago (advertising) before moving to Highdive Advertising; matches Chicago 60640 zip and 'Production Manager' occupation. Ordinary donor in advertising.",
+  "source_url": "https://www.linkedin.com/in/steven-armstead/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ffe329da-7a17-4bd5-bd70-058960d1f017",
+  "name": "Mendoza, Sulema",
+  "resolved_employer": "CentroMed (El Centro del Barrio, FQHC)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Community health worker at CentroMed, a San Antonio Federally Qualified Health Center; consistent with 78203 zip and CHW occupation. Specific individual not independently profiled, but employer and role are coherent and local.",
+  "source_url": "https://centromedsa.com/about-us/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e918efad-b23c-4739-b828-8f70d0dfccb0",
+  "name": "Victor, Douglas",
+  "resolved_employer": "CALIBRE Systems, Inc. (Vice President)",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Doug Victor is a Vice President at CALIBRE Systems, an employee-owned management-consulting/technology-services firm serving the federal government; matches VP occupation and Springfield VA area (22152). CALIBRE is a defense contractor (Army TACOM IDIQ prime; ~$375M federal obligations).",
+  "source_url": "https://www.calibresys.com/about/leadership.shtml",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "CALIBRE Systems, Inc.", "role": "Vice President", "category": "military_defense", "source_url": "https://militaryembedded.com/company/calibre-systems", "snippet": "CALIBRE Systems is a defense/government contractor, prime on a ~$1.8B five-year IDIQ for U.S. Army TACOM with ~$375M in federal contract obligations; Douglas Victor is a Vice President there."}
+  ]
+ },
+ {
+  "donor_id": "dd811d3e-3cda-4aca-b7e9-5bc91b30d7d2",
+  "name": "Bridgemohan, Dwina",
+  "resolved_employer": "Texas Veterans Commission / State of Texas (Program Specialist); filing lists 'NARA'",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "LinkedIn and Texas state records identify Dwina D. Bridgemohan as a Program Specialist for the Texas Veterans Commission in Austin (zip 78754), member of the TX Women Veterans Professional Network. Filing lists employer 'NARA' but corroborated records point to a Texas state government role. High FEC count (213) indicates a frequent small recurring donor, not a PAC/industry tie.",
+  "source_url": "https://www.linkedin.com/in/dwina-bridgemohan-40790a155/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d9790841-8393-404d-b923-e16628c45168",
+  "name": "Donaldson, Simone",
+  "resolved_employer": "Advanced Veterinary Care of Plano (veterinary assistant)",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Listed as a veterinary assistant at Advanced Veterinary Care of Plano (Dallas 75229). No public profile confirming this specific individual; occupation/employer from filing place her in the veterinary/healthcare sector.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bced625c-6805-4101-bb67-0fd5d6cc2c08",
+  "name": "aebersold, wilton",
+  "resolved_employer": "Self-employed (mail order)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-employed 'mail order', PO Box in New Albany, IN 47151. Could not confirm this specific individual (the prominent local Aebersold is jazz educator Jamey Aebersold, a different person). No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b5703128-0eac-44c3-b843-0e986f12f047",
+  "name": "Shapiro, Jed",
+  "resolved_employer": "NMI Industrial Holdings Inc. (Sacramento-area general contractor; Marketing Manager)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "LinkedIn confirms Jed Shapiro in Carmichael, CA (ASU W.P. Carey grad) as Marketing Manager at NMI Industrial, a general contractor serving industrial/public-works/food-and-beverage markets (not the 'NMI' payments company). Matches zip 95608, occupation 'Marketing', and employer. Searches returned only unrelated 'Josh Shapiro'/AIPAC noise.",
+  "source_url": "https://www.linkedin.com/in/jedshapiro/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b274164b-a551-4bb1-a00c-f6c95c0ede83",
+  "name": "Hanc, Jocelyn",
+  "resolved_employer": "XYZ (Generation.XYZ LLC) — .xyz domain registry (VP Operations)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "LinkedIn, Crunchbase, and RocketReach confirm Jocelyn Hanc, Los Angeles, as VP of Operations at XYZ, the 'Generation.XYZ'/.xyz domain registry. Matches zip 90036, occupation 'Operations', and employer 'Generation.XYZ LLC'. Out-of-state tech-operations professional.",
+  "source_url": "https://www.linkedin.com/in/jocelynhanc/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ab3b61ae-b85c-4583-91bc-e0531b877d2f",
+  "name": "Trevino, Steve",
+  "resolved_employer": "San Antonio Independent School District (SAISD) — architecture/facilities role",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Donor record shows occupation 'Architecture' with employer SAISD at 143 Zilla St, 78212 — a public-school-district employee. Could not independently verify this specific individual; several unrelated San Antonio 'Steve/Steven Trevino' architects exist. Per guidance, mere district employment is NOT public-school advocacy, so no advocacy affiliation is assigned.",
+  "source_url": "https://www.saisd.net/page/dis-board",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a80b4089-7aef-4c8d-9fbe-6867a755fc12",
+  "name": "howell, Danielle",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm the specific individual. Occupation 'Quality Control', blank employer, 607 Broadway, San Antonio 78215 (Pearl-district area). Searches surfaced only unrelated Howells, none corroborated on zip + occupation. Insufficient corroboration to classify; industry left null.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a7a6d33d-ba57-43d2-bba8-646484e2f5dc",
+  "name": "Maurice, Roland",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Could not confirm the specific individual. Occupation 'Work for a Charity', employer 'Self Employed', Sandy, OR 97055. Only online match is a local Sandy OR musician, which does not corroborate the stated occupation. Identity unconfirmed; industry left null per guidance.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a71d904c-4355-4365-94f8-11f0f0643fc9",
+  "name": "Lee Martinez, Bryan",
+  "resolved_employer": "Influex (self-owned social-media marketing business), Brownsville, TX; also City of Brownsville District 1 Commissioner",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "Strong match to Bryan L. Martinez of Brownsville, TX: owner of Influex, a social-media marketing business, corroborating occupation 'Marketing' / employer 'Self' at zip 78521. Also the elected City of Brownsville District 1 Commissioner (elected 2023). No PAC, TEC lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.brownsvilletx.gov/2563/District-1",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "City of Brownsville", "role": "District 1 City Commissioner (elected 2023)", "category": "political", "source_url": "https://www.brownsvilletx.gov/2563/District-1", "snippet": "Bryan L. Martinez serves as City Commissioner for District 1 in Brownsville, Texas; owner of the Influex marketing business."}
+  ]
+ }
+]

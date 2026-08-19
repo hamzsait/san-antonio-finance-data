@@ -1,0 +1,230 @@
+[
+  {
+    "donor_id": "0b9deeec-baba-4541-b636-5492e20025f0",
+    "name": "Garza, Ray",
+    "resolved_employer": "On Par Golf / Rockin' G Grill (Mission del Lago)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Ray Garza, Jr., PGA golf professional; founded On Par Golf (2018) and opened Rockin' G Grill (2020) at Mission del Lago Golf Course, 1250 Mission Grande, 78221 — exact address match. Also founded Flamingo Club youth-golf 501(c)(3).",
+    "source_url": "https://onpargolf.net/?page_id=99",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c94c8dab-ff45-43d4-b15f-5b7c82616cc5",
+    "name": "Barker, John",
+    "resolved_employer": "GSA (U.S. General Services Administration)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Common name; could not corroborate the specific individual at 78213 beyond the self-reported federal employer (GSA, admin). Industry assigned by generic-employer fallback (GSA = federal government). No FEC/lobbyist/arena/charter ties found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "42394df1-7d8f-4f3c-b6f8-aa4dd0797798",
+    "name": "Morrell, Maria",
+    "resolved_employer": "St. Anthony Catholic School",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "School nurse at St. Anthony Catholic School, San Antonio; registered nurse (BSN, Abilene Christian) who previously worked in hospital settings (matches 'University Health' occupation string). Bio on school faculty page matches donor occupation. No advocacy/PAC roles.",
+    "source_url": "http://stanthonysa.org/faculty-staff",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e96ee24b-5ffe-4509-afa1-78c6914b9c7c",
+    "name": "Rico, Joanna",
+    "resolved_employer": "Caduceus Health (medical revenue-cycle/financial services)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Self-reported medical financial services at Caduceus Health, resident of 78228 (west side). A same-named 'Joanna Rico' is a philanthropist/lawyer tied to Brackenridge Foundation and KIPP charter expansion, but that profile does not match this donor's occupation or neighborhood — treated as a different person, so no charter classification.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ddb45a9f-6e8b-4045-abcf-51bb49b56796",
+    "name": "Martinez, Martha",
+    "resolved_employer": "MM Creative (owner/creative director)",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Martha Martinez-Flores, owner/creative director of MM Creative (founded 2011), a San Antonio creative consulting studio (Southtown/78204). Mayoral appointee to the Hemisfair Park Area Redevelopment Corp board (2023-2025) and city HDRC/Charter Review commissions.",
+    "source_url": "https://www.sahcc.org/profile/martha-martinez-flores/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "Hemisfair Park Area Redevelopment Corporation (HPARC)",
+        "role": "Board of Directors (mayoral appointee, 2023-2025)",
+        "category": "arena_venue",
+        "source_url": "https://www.facebook.com/Hemisfair/posts/were-ecstatic-to-welcome-martha-martinez-flores-to-the-hemisfair-park-area-redev/4359612440715727/",
+        "snippet": "'We're ecstatic to welcome Martha Martinez-Flores to the Hemisfair Park Area Redevelopment' board; Hemisfair is a downtown-development beneficiary entity in the Project Marvel ecosystem."
+      }
+    ]
+  },
+  {
+    "donor_id": "b7cf5f4a-0b3e-4fd5-b49a-d4abe6dc44bf",
+    "name": "Hartley, Diane",
+    "resolved_employer": "McKissock (likely McKissock Learning, professional/real-estate continuing education)",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Dallas 75209 donor, occupation 'GM', employer 'McKissock' — most consistent with McKissock Learning (real estate/appraisal/professional continuing-ed company). Could not confirm the specific individual; multiple Diane Hartleys exist in DFW. No lobbyist registration, board seats, or arena/charter ties found. Industry assigned by employer fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b59dfbff-53f1-47ed-a8c8-a8755bd75d24",
+    "name": "Ibrahim, Wajiha",
+    "resolved_employer": "Self (freelance photographer); also urban planner, City of Los Angeles",
+    "industry": "Media",
+    "confidence": "medium",
+    "evidence": "Wajiha Ibrahim-Shaikh, LA-area fashion/architecture photographer (occupation 'Photographer'/'Self' matches) and City of LA urban planner; Burbank 90038 is LA metro. Married name Shaikh aligns with gift to candidate Sakib Shaikh. Identity confirmed via wajihaibrahim.com and Instagram. No FEC, lobbyist, arena, or charter ties in public records.",
+    "source_url": "https://www.instagram.com/wajihaibrahim/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b4105d0f-a3a8-4923-9d01-576d50c19788",
+    "name": "Gonzalez, Carlos",
+    "resolved_employer": "Oxbow Development Group (real estate developer, San Antonio)",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Employer 'Oxbow Development' is a San Antonio real-estate developer (Southtown Aldea / Hemisfair-area residential). Note: Oxbow's publicly named Director of Development is Omar Gonzalez, not Carlos — likely a data conflation or a different employee. Same surname as recipient candidate Ivalis Gonzalez. Oxbow is NOT among the Project Marvel arena project-team firms; no lobbyist or charter ties found. Industry by employer fallback.",
+    "source_url": "https://oxbowdevelopment.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a97c9426-45bb-4cfb-aae0-00cb0cfd2c1f",
+    "name": "Cortez, Cruz",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer in the donation record; Stone Oak 78258 address. Searches surfaced only an unrelated deceased namesake and an out-of-state 'Cruz Cortez' at Morgan Stanley (not San Antonio); no LinkedIn/bio match for the specific individual. Could not identify or corroborate. Whyte donor.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9aa2b197-704e-40f1-8cfc-b2fdb71d1e04",
+    "name": "Crowell, Mathew",
+    "resolved_employer": "Elder Bray & Bankler PC (tentative)",
+    "industry": "Legal",
+    "confidence": "low",
+    "evidence": "Donation record has no occupation/employer; Alamo Heights 78209. Best circumstantial match is Matthew Lane Crowell, oil, gas & energy attorney at Elder Bray & Bankler, board-certified in Oil, Gas & Mineral Law (admitted 2009; age ~45 aligns with a public-record Matthew L. Crowell in 78209). A separate USAA help-desk 'Matthew Crowell' also exists in SA, so identity is not confirmed. No arena, lobbyist, or charter ties found; oil-and-gas link is client representation, not advocacy, so no affiliation forced. Whyte donor.",
+    "source_url": "http://elderbray.com/our-attorneys/matthew-crowell/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "99acc7bb-6014-406b-84c6-32105273cdba",
+    "name": "Jose Torres, Rafael",
+    "resolved_employer": "Hudson Energy Services",
+    "industry": "Energy / Environment",
+    "confidence": "low",
+    "evidence": "Listed as a Systems Developer at Hudson Energy Services (a retail electricity/natural gas provider), San Antonio TX. Could not corroborate the specific individual — 'Rafael Torres' is a very common name and no profile matched the employer + occupation. Industry assigned by employer fallback (energy retailer).",
+    "source_url": "https://hudsonenergy.net/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7dd9dc01-1faf-41b4-b78d-0e4940538145",
+    "name": "Bocanegra, Edward",
+    "resolved_employer": "Edgewood ISD (John F. Kennedy HS)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Edward Bocanegra is a High School Social Studies teacher and athletic coach at John F. Kennedy HS, Edgewood ISD, San Antonio (~14 years in education per LinkedIn). ISD classroom teacher/coach with no advocacy or school-choice role — Education industry only, no affiliation. Donor record had blank occupation/employer, matched on name + San Antonio.",
+    "source_url": "https://www.linkedin.com/in/edward-bocanegra-41843414b/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "74eb5a9d-12ea-41ff-8368-3298feb569dc",
+    "name": "Aguilar, Mabel",
+    "resolved_employer": "Self-Employed (Marketing / Retired)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Donor record lists Retired / Marketing, Self Employed, San Antonio 78228. Could not confirm the specific individual (common name; no matching public profile found). Industry assigned from self-reported self-employed marketing occupation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6ef436c4-25ba-459a-bcde-1ecc64a3afb6",
+    "name": "Torres, George",
+    "resolved_employer": "G&A Management Inc",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed as Sales at 'G&A Management Inc', San Antonio 78258. Could not confirm the specific person or the exact company (distinct from the HR firm G&A Partners; several unrelated George Torres profiles exist in San Antonio). No basis to assign an industry with confidence.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6a656ec5-6b03-42a0-8123-3c8b1c5aa5c0",
+    "name": "Guitron, Isac",
+    "resolved_employer": "El Ojo (bar, N St Mary's Strip, San Antonio)",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Occupation/employer field 'El Ojo' matches El Ojo, a bar/music venue at 3000 N St Mary's St in San Antonio's St Mary's Strip. Donor likely works at or operates the bar. Could not independently confirm Isac Guitron's specific role; industry assigned by employer (hospitality/nightlife venue).",
+    "source_url": "https://www.instagram.com/elojosananto/?hl=en",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "690f7ed2-a985-451a-8440-ceebfd938e70",
+    "name": "Kowalski, Rosemary",
+    "resolved_employer": "The RK Group (Rosemary's Catering)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Iconic San Antonio businesswoman, founder of Rosemary's Catering/The RK Group (caters the Henry B. Gonzalez Convention Center; ~800 employees). Distinctive name + downtown 78296 PO box match. Note: the well-known Rosemary Kowalski died Dec 2024 at 100, so a 2025-dated gift could be estate/family or a late-2024 gift; identity as the RK Group figure is strong but timing adds slight uncertainty.",
+    "source_url": "https://sanantonioreport.org/san-antonio-catering-legend-rosemary-kowalski-dies-at-100/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "660705b9-a726-4046-820a-055b17cc1583",
+    "name": "Waterhouse, Charles",
+    "resolved_employer": "Senior Quality Lifestyles Corporation (SQLC)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Charles 'Stan' Waterhouse, El Paso 79912. Former president/CEO of SQLC (Senior Quality Lifestyles Corp., a senior-living/CCRC operator), ex-COO of El Paso Housing Authority and ex-Ritz-Carlton VP; now runs CSW Advisory. FEC/city-data shows a 'Charles Waterhouse, El Paso 79912' ActBlue contributor, confirming the zip and Democratic-leaning giving consistent with a gift to Gina Jones.",
+    "source_url": "https://seniorshousingbusiness.com/sqlc-names-stan-waterhouse-president-ceo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5a43647c-aaf0-4a7a-b64b-4b1970d4363a",
+    "name": "Loos, Curtis",
+    "resolved_employer": "CorePath Laboratories",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Curtis Loos, Executive VP of Business Operations at CorePath Laboratories, a San Antonio oncology reference lab (leads national sales/marketing, 16 yrs in healthcare). Occupation 'Healthcare Executive' + employer 'Corepath' + Helotes/SA-area location all match.",
+    "source_url": "https://www.corepath.us/management/curtis-loos",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "55d65864-c48a-4fa2-8d3b-0e9a0939f747",
+    "name": "Rivas, Criselda",
+    "resolved_employer": "Dave Sims Media",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "Criselda 'Crissy' Rivas, President & Producer at Dave Sims Media (San Antonio video production). Former sociologist/activist who produced a UFW/Cesar Chavez documentary; UT Austin/UTSA grad. Occupation 'President' + employer + 78201 SA location all match. Activist background but no tracked-category affiliation found.",
+    "source_url": "https://davesimsmedia.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4e19bd55-bcfa-4cb0-9fdb-f02f525df097",
+    "name": "Syed, Raiyan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Walnut Creek, CA 94596 donor, VP at 'Ern'. Multiple people named Raiyan Syed exist (Bay Area media strategist, Louisville strategic-comms staffer, others), but none could be confirmed as a Walnut Creek VP at a company 'Ern'. Employer string too ambiguous to expand; specific person not verified. Spurs/Project Marvel and charter-school searches returned no connection.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]
