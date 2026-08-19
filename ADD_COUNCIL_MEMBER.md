@@ -205,6 +205,22 @@ protections are load-bearing:
   for surviving donor_ids. A rebuild once silently wiped hours of FEC quota
   before this existed.
 
+After it, run the fragmentation repair:
+
+```bash
+python sa_identity_merge.py            # --dry-run to preview
+```
+
+Blocking historically skipped any (last, zip5) block over 50 members, so a
+recurring small-dollar donor's own records overflowed their block and the
+donor shattered into one donor_id per record (Salazar/74 ids, MacGuire/58 as
+of 2026-08 — Castillo's unique-donor count ran ~8% hot). build_identities.py
+now collapses exact-duplicate records before blocking, but the merge pass is
+the safety net for existing DBs: it joins donor_ids sharing (last name,
+nickname-normalized first, normalized street address), remaps every
+donor_id-keyed table, and records the mapping in `identity_merges`.
+Idempotent; never splits an existing cluster.
+
 Scope: only `donor_type IN ('INDIVIDUAL','Individual')`, names containing a
 comma, and `txn_type='contribution'`. Expenditure payees (vendors) are
 deliberately not donors.
@@ -1071,6 +1087,7 @@ this checkout. Where a plan doc disagrees, the entry here is authoritative.
 | `sa_normalize.py` | `python sa_normalize.py` | `--db`, `--dry-run` |
 | `sa_employer_seed.py` | `python sa_employer_seed.py` | `--db`, `--export`, `--austin-db` |
 | `build_identities.py` | `python build_identities.py` | **none** (no argparse) |
+| `sa_identity_merge.py` | `python sa_identity_merge.py` | `--db`, `--dry-run` |
 | `sa_tec_crosswalk.py` | `python sa_tec_crosswalk.py --link-only` | `--link-only` only (raw `sys.argv` check); shard dir via `$TEC_DIR` |
 | `fec_enrich.py` | `python fec_enrich.py --workers 8 --limit <N>` | `--dry-run`, `--limit` (def 2000), `--reset`, `--workers` (def 8); needs `.env` |
 | `sa_industry_rules.py` | `python sa_industry_rules.py` | `--db`, `--dry-run`; needs `.env` (imports `fec_enrich`) |
