@@ -21,8 +21,10 @@ import re
 import unicodedata
 import uuid
 from collections import defaultdict
-from rapidfuzz import fuzz
-from jellyfish import soundex
+
+# rapidfuzz/jellyfish are needed only by the scoring pipeline itself; importing
+# them lazily keeps normalize_name/NICKNAMES importable from environments
+# without those wheels (sa_identity_merge.py reuses the normalization).
 
 DB = str(pathlib.Path(__file__).parent / "san_antonio_finance.db")
 
@@ -39,7 +41,7 @@ NICKNAMES = {
     "sue": "susan", "susie": "susan", "suzy": "susan",
     "liz": "elizabeth", "beth": "elizabeth", "betty": "elizabeth",
     "kate": "katherine", "kathy": "katherine", "kat": "katherine",
-    "katie": "kathryn",
+    "katie": "kathryn", "katy": "kathryn",
     "chris": "christopher",
     "dan": "daniel", "danny": "daniel",
     "pat": "patricia", "patty": "patricia",
@@ -178,6 +180,7 @@ class UnionFind:
 FLOOR = 0.78
 
 def score_pair(a, b):
+    from rapidfuzz import fuzz
     last_score  = fuzz.token_sort_ratio(a["last"],  b["last"])  / 100.0
     first_score = fuzz.token_sort_ratio(a["first"], b["first"]) / 100.0
 
@@ -234,11 +237,32 @@ def main():
 
     # ── 2. Blocking ───────────────────────────────────────────────────────────
     print("Blocking...")
+    from jellyfish import soundex
+
+    # Records sharing an exact (last, first, zip5) are the same person by this
+    # pipeline's own standard (such a pair always scores >= 0.83), so union
+    # them up front and block over ONE representative per key. Without this, a
+    # recurring small-dollar donor's records fill a whole (last, zip) block by
+    # themselves, the block trips max_block and is skipped, and the donor
+    # shatters into one identity per record — Salazar/73 ids, MacGuire/58,
+    # Cramer/52, Bravenec/40 as of 2026-08 (see sa_identity_merge.py, which
+    # repairs existing DBs without a full re-run).
+    uf = UnionFind()
+    exact_key = defaultdict(list)
+    for i, r in enumerate(records):
+        exact_key[(r["last"], r["first"], r["zip5"])].append(i)
+    for members in exact_key.values():
+        for j in members[1:]:
+            uf.union(members[0], j)
+    rep = {i: members[0] for members in exact_key.values() for i in members}
+    print(f"  Exact-key collapse:     {len(records) - len(exact_key):,} duplicate records unioned")
+
     seen_pairs = set()
     candidate_pairs = []
 
     def add_block(block_dict, max_block=50):
         for members in block_dict.values():
+            members = sorted(members)
             if len(members) < 2 or len(members) > max_block:
                 continue
             for i in range(len(members)):
@@ -250,23 +274,23 @@ def main():
                         candidate_pairs.append(key)
 
     # Block A: exact last_name + zip5
-    block_a = defaultdict(list)
+    block_a = defaultdict(set)
     for i, r in enumerate(records):
         if r["last"] and r["zip5"]:
-            block_a[(r["last"], r["zip5"])].append(i)
+            block_a[(r["last"], r["zip5"])].add(rep[i])
     add_block(block_a)
     print(f"  Block A (last+zip):     {len(candidate_pairs):,} pairs")
 
     # Block B: soundex(last) + zip5  — catches spelling variants
     count_before = len(candidate_pairs)
-    block_b = defaultdict(list)
+    block_b = defaultdict(set)
     for i, r in enumerate(records):
         if r["last"] and r["zip5"]:
             try:
                 sdx = soundex(r["last"])
             except Exception:
                 continue
-            block_b[(sdx, r["zip5"])].append(i)
+            block_b[(sdx, r["zip5"])].add(rep[i])
     add_block(block_b)
     print(f"  Block B (soundex+zip):  {len(candidate_pairs):,} pairs (+{len(candidate_pairs)-count_before:,})")
 
@@ -274,7 +298,6 @@ def main():
 
     # ── 3. Score all pairs ────────────────────────────────────────────────────
     print("Scoring...")
-    uf           = UnionFind()
     review_rows  = []
     auto_count   = 0
     review_count = 0
