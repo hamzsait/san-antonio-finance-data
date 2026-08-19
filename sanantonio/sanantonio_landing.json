@@ -8,8 +8,8 @@
    "district": "Mayor",
    "race": "Elected June 2025",
    "href": "/sanantonio/jones/",
-   "raised": "$632K",
-   "donors": "3,038",
+   "raised": "$631K",
+   "donors": "3,036",
    "empPct": "57.1%",
    "topGroups": [
     {
@@ -24,7 +24,7 @@
     },
     {
      "label": "Consulting / PR",
-     "amt": "$54K",
+     "amt": "$53K",
      "w": 29
     },
     {
@@ -83,7 +83,7 @@
    "seat": "District 1",
    "status": "current",
    "href": "/sanantonio/kaur/",
-   "raised": "$403K",
+   "raised": "$402K",
    "donors": "829",
    "empPct": "71.0%",
    "topGroups": [
@@ -155,9 +155,9 @@
    "seat": "District 3",
    "status": "current",
    "href": "/sanantonio/viagran/",
-   "raised": "$212K",
+   "raised": "$210K",
    "donors": "361",
-   "empPct": "56.1%",
+   "empPct": "56.7%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -166,8 +166,8 @@
     },
     {
      "label": "Not Employed",
-     "amt": "$24K",
-     "w": 79
+     "amt": "$23K",
+     "w": 78
     },
     {
      "label": "Legal",
@@ -177,7 +177,7 @@
     {
      "label": "Self-Employed",
      "amt": "$19K",
-     "w": 64
+     "w": 63
     }
    ]
   },
@@ -191,9 +191,9 @@
    "seat": "District 4",
    "status": "current",
    "href": "/sanantonio/mungia/",
-   "raised": "$62K",
-   "donors": "307",
-   "empPct": "71.4%",
+   "raised": "$61K",
+   "donors": "304",
+   "empPct": "71.7%",
    "topGroups": [
     {
      "label": "Real Estate",
@@ -213,7 +213,7 @@
     {
      "label": "Consulting / PR",
      "amt": "$5K",
-     "w": 58
+     "w": 56
     }
    ]
   },
@@ -229,7 +229,7 @@
    "href": "/sanantonio/castillo/",
    "raised": "$135K",
    "donors": "1,292",
-   "empPct": "60.2%",
+   "empPct": "60.1%",
    "topGroups": [
     {
      "label": "Not Employed",
@@ -239,7 +239,7 @@
     {
      "label": "Education",
      "amt": "$18K",
-     "w": 94
+     "w": 91
     },
     {
      "label": "Nonprofit / Advocacy",
@@ -263,9 +263,9 @@
    "seat": "District 7",
    "status": "current",
    "href": "/sanantonio/gavito/",
-   "raised": "$321K",
+   "raised": "$320K",
    "donors": "647",
-   "empPct": "68.4%",
+   "empPct": "68.5%",
    "topGroups": [
     {
      "label": "Not Employed",
@@ -299,8 +299,8 @@
    "seat": "District 8",
    "status": "current",
    "href": "/sanantonio/gonzalez/",
-   "raised": "$229K",
-   "donors": "546",
+   "raised": "$226K",
+   "donors": "544",
    "empPct": "64.2%",
    "topGroups": [
     {
@@ -316,7 +316,7 @@
     {
      "label": "Self-Employed",
      "amt": "$21K",
-     "w": 66
+     "w": 64
     },
     {
      "label": "Consulting / PR",
@@ -336,8 +336,8 @@
    "status": "current",
    "href": "/sanantonio/spears/",
    "raised": "$157K",
-   "donors": "318",
-   "empPct": "72.4%",
+   "donors": "316",
+   "empPct": "72.3%",
    "topGroups": [
     {
      "label": "Not Employed",
