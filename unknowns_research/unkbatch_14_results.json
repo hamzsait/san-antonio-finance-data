@@ -1,0 +1,226 @@
+[
+ {
+  "donor_id": "62297aef-cc9d-4e7c-9930-640a94bef6a8",
+  "name": "Johnson, Edie",
+  "resolved_employer": "LOL Liquors",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Listed as a bookkeeper for LOL Liquors, a confirmed San Antonio beer/wine/spirits retail chain. No personal public profile found for Edie Johnson beyond the employer; a quiet $100 donor to Edward Mungia.",
+  "source_url": "https://www.yelp.com/biz/lol-liquors-san-antonio-4",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5c537028-4736-4892-bb97-437c87051669",
+  "name": "Castillo, Lori",
+  "resolved_employer": "NatureSweet Tomatoes (NS Brands)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "VP of Marketing/Communications at San Antonio-based NatureSweet, a greenhouse-produce grower. MBA (Ohio State), prior brand roles at P&G (CoverGirl) and JPMorgan Chase. Documented consumer-goods marketing executive; gave $100 to Phyllis Viagran.",
+  "source_url": "https://sawoman.com/2024/05/lori-castillo/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Texas Public Radio", "role": "Board Chair", "category": "civic", "source_url": "https://naturesweet.com/naturesweet-vice-president-texas-public-radio/", "snippet": "NatureSweet Vice President chosen to chair Board of Directors for Texas Public Radio; also served on San Antonio Hispanic Chamber of Commerce and Texas A&M University-San Antonio Foundation boards. No political/arena/charter lean documented."}
+  ]
+ },
+ {
+  "donor_id": "4bdd7987-f28e-4a4a-8731-e8c15c2dcf5c",
+  "name": "Alsadoon, Khaled",
+  "resolved_employer": "Hala Cafe",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Owner/President of Hala Cafe, a Middle Eastern/Mediterranean restaurant at 10865 Shaenfield Rd, San Antonio 78254 (matches donor address; '10865' in the zip field is the street number). Gave $100 to Sakib Shaikh. No political/lobbyist/arena/charter ties found.",
+  "source_url": "https://www.yelp.com/biz/hala-cafe-san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "48bf7b59-52ae-427b-b561-cb77d16070b3",
+  "name": "SEFCOVIC, CHRISTOPHER",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state donor (Pueblo, CO 81006) with no occupation or employer provided. No public profile located for a Christopher Sefcovic in Pueblo. Small $100 donor to Jalen McKee-Rodriguez, likely an online/ActBlue contribution. Not identifiable.",
+  "source_url": "https://ballotpedia.org/Jalen_McKee-Rodriguez",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "48567d62-a6d4-4a90-92a1-15c45e932c76",
+  "name": "Hilario, Benny",
+  "resolved_employer": "Fredericks AC (HVAC company, San Antonio)",
+  "industry": "Construction",
+  "confidence": "low",
+  "evidence": "Listed as a Supervisor at 'Fredericks AC,' an air-conditioning/HVAC company in San Antonio (name ambiguous). No personal public profile found for Benny Hilario. HVAC trade classified under Construction. Quiet $100 donor to Ivalis Gonzalez.",
+  "source_url": "https://www.yelp.com/biz/friedrich-air-conditioning-san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "469eb846-4479-47da-85ff-f5be98f094aa",
+  "name": "Leffler, Benjamin",
+  "resolved_employer": "City of Austin (content designer; former Austin City Council D9 candidate)",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Ben Leffler of Austin (78722, 'web content designer') — career content/UX designer (CivicActions, Fjord, Chaotic Moon), later Chief of Staff at City of Austin; ran for Austin City Council District 9 in 2022. Zip + occupation match; 191 small-dollar ActBlue FEC gifts = habitual Democratic small-dollar donor. Government is a defensible alternate given City of Austin employment.",
+  "source_url": "https://www.linkedin.com/in/benleffler/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "44d2c34b-40ef-4d5e-bd5b-96a5995faddf",
+  "name": "Perez, Ricardo",
+  "resolved_employer": null,
+  "industry": "Transportation",
+  "confidence": "low",
+  "evidence": "Self-reported occupation 'Truck Driver' in Converse, TX (78109); gave $100 to Teri Castillo. Extremely common name with no individually corroborating public record. Industry inferred from stated occupation only. Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "44632704-4e31-4a92-98b6-e903e67e6f2c",
+  "name": "Stout, Patricia",
+  "resolved_employer": "The Alamo Travel Group (President/CEO/founder)",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Patricia Pliego Stout, founder/President-CEO of The Alamo Travel Group (SA travel agency founded 1990). Prominent SA businesswoman: former Chair of SA Hispanic Chamber of Commerce, former NAWBO-SA president, former SAEDF board member; ran for SA City Council District 8 in 2017. Corroborated by employer string, SA address (78231) and occupation. No ideological PAC/lobbyist/arena/charter ties found.",
+  "source_url": "https://ballotpedia.org/Patricia_Pliego_Stout",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "36e80938-ee6f-47bb-83ed-dbb7e4c458de",
+  "name": "Mir, Faraaz",
+  "resolved_employer": "Noblex Holdings (per filing; not publicly verifiable)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Filing lists occupation 'Car sales,' employer 'Noblex Holdings,' San Antonio 78258; gave $100 to Sakib Shaikh. 'Noblex Holdings' returns no verifiable SA company and identity is not firmly corroborated; industry inferred from stated 'car sales' occupation only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "30342459-18ad-4f85-8151-49480d1ad2dc",
+  "name": "M, Amar",
+  "resolved_employer": "Self (independent contractor)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Name truncated to 'Amar M'; occupation 'IC' (independent contractor), employer 'Self,' Chicago, IL (60661) — out-of-state $100 donor to Sukh Kaur. No identifiable public profile given the truncated surname. Industry inferred from self-reported role. Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2d626784-00b7-4c4c-bcc4-fa8def502e33",
+  "name": "S., Trey",
+  "resolved_employer": null,
+  "industry": "Legal",
+  "confidence": "low",
+  "evidence": "Last name truncated to initial 'S.' — not identifiable to a specific person. Employer field states 'Lawyer'; NW San Antonio (78249) address is a commercial/office location. Multiple 'Trey' attorneys exist in San Antonio but none corroborated to this record. Classified Legal solely on the stated 'Lawyer' occupation.",
+  "source_url": "https://www.mcfirm.com/lawyers/trey-martin/",
+  "searches_run": {"fec_pac": false, "tx_lobbyist": false, "bio_full_read": true, "arena_marvel": false, "charter_school": false},
+  "affiliations": []
+ },
+ {
+  "donor_id": "26507db1-63b4-4c82-9682-3b454bbe6174",
+  "name": "Husaini, Syed",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Address 67 Olmsted, Stanford CA 94305 is Stanford University graduate residential housing; occupation 'Manager', employer field 'Procurement' (a business function, not a resolvable employer). No public profile matched this individual. Unidentifiable beyond generic procurement-manager role; gave $100 to Sakib Shaikh.",
+  "source_url": "https://www.zoominfo.com/p/Syed-Husaini/5736518643",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1dadd8e1-1c22-4a49-8697-ba5f15ad5567",
+  "name": "Lopez, Joe",
+  "resolved_employer": "Angel's Boxing Club / Joe's Boxing Gym (135 Bowdoin St, San Antonio)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Joe Lopez is the owner/trainer of a west-side San Antonio boxing gym at 135 Bowdoin St (exact address match) — the gym produced San Antonio's first world boxing champion, Robert 'Pikin' Quiroga. Small-business gym owner and coach; gave $100 to Teri Castillo.",
+  "source_url": "https://sanantonioreport.org/san-antonio-names-rosedale-park-pavilion-after-late-boxing-champ-robert-pikin-quiroga/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0eba542e-8369-4569-a167-abc9897e5fb7",
+  "name": "gallegos, christopher",
+  "resolved_employer": "University of the Incarnate Word (UIW)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Christopher Gallegos is a UIW development/university-relations administrator (announced as VP for Development & University Relations in 2018; email domain uiwtx.edu). Employer field 'UIW' + occupation 'Education' match. Gave $100 to Ric Galvan.",
+  "source_url": "https://www.uiw.edu/news/2018/uiw-welcomes-new-vice-president-for-development-university-relations.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "04e3278c-7153-4285-ab32-a7a9dc2112db",
+  "name": "Conger, Jeanne",
+  "resolved_employer": "On3 Inc.",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Jeanne A. Conger, San Antonio 78255, is Chief Client Officer at On3 Inc. (on3.ai), an online-learning/training company serving the homebuilding industry. Long prior career as a homebuilder sales & marketing executive (Rausch Coleman, Legend Homes SA). Employer field 'On3' matches; gave to Misty Spears and Marc Whyte.",
+  "source_url": "https://www.signalhire.com/profiles/jeanne-conger's-email/16743918",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "479783be-eea0-4f9a-8b57-067f5eadff82",
+  "name": "Velazquez, Jacob",
+  "resolved_employer": "Fort Worth ISD (FWISD)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Self-reported as a Fort Worth ISD teacher (employer 'FWISD', occupation 'Teacher'); Fort Worth 76133 address consistent with FWISD service area. An ISD classroom teacher = Education, not public_school_advocacy. Could not pin the exact individual online. Gave $99 to Jalen McKee-Rodriguez.",
+  "source_url": "https://www.fwisd.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a03eb0a2-6d50-41e0-8abc-b63b96f6458c",
+  "name": "Galloway, Drew",
+  "resolved_employer": "MOVE Texas / MOVE San Antonio (civic-engagement nonprofit)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Almost certainly H. Drew Galloway, longtime Executive Director of MOVE Texas (formerly MOVE San Antonio), a nonpartisan youth civic-engagement/voter-registration nonprofit; well-known SA progressive figure. Gave to Edward Mungia. Distinctive name + SA location strongly match; exact address (78242) not independently confirmed.",
+  "source_url": "https://sanantonioreport.org/accelerating-change-progressive-leader-drew-galloway-looks-to-nurture-fund-grassroots-groups/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "MOVE Texas / MOVE San Antonio", "role": "Executive Director", "category": "civic", "source_url": "https://www.linkedin.com/in/hdrewgalloway/", "snippet": "H. Drew Galloway, MPA — steered development of MOVE from its roots in San Antonio as a student-led voter registration nonprofit to an influential statewide youth civic engagement organization; registered 120,000+ new young voters. Nonpartisan civic engagement, no ideological-PAC lean documented."}
+  ]
+ },
+ {
+  "donor_id": "c41f02fe-155c-48d7-9655-cd528a890b09",
+  "name": "Falcone, Beth",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Beth W. Falcone, Austin 78701 (downtown high-rise), self-reported retired. Prolific small-dollar political donor (108 FEC contributions) consistent with recurring ActBlue-style giving, but no specific ideological PAC, employer, or prior career identifiable. No lobbyist, arena, or charter ties found. Gave to Gina Jones.",
+  "source_url": "https://veripages.com/name/Beth/Falcone/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6cf0a39c-5fb2-4efc-8a20-3963e49cb3b5",
+  "name": "Wilson, Tobi",
+  "resolved_employer": "GC Services Limited Partnership",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Tobi Wilson, HR Manager at GC Services Limited Partnership (a nationwide business-process-outsourcing / collections / customer-care firm), Knoxville, TN area. Employer corroborated via professional listings. Industry left null (BPO/collections maps poorly to taxonomy). No FEC-PAC, lobbyist, arena, or charter ties found. Gave to Jalen McKee-Rodriguez.",
+  "source_url": "https://rocketreach.co/tobi-wilson-email_5618038",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d0972600-0564-4a5b-923d-c5bd31176709",
+  "name": "Vance, Kelly",
+  "resolved_employer": "TI Hernandez Agency (insurance)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Self-reported insurance agent at the TI Hernandez Agency, San Antonio 78247; occupation/employer strings internally consistent (insurance = Finance). No distinct public bio confirmed. No FEC-PAC, lobbyist, arena, or charter ties found. Gave to Gina Jones.",
+  "source_url": "https://www.linkedin.com/in/kelley-vance-78b92039",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

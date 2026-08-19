@@ -1,0 +1,237 @@
+[
+ {
+  "donor_id": "e7ec202c-6f51-46c6-bcd9-5022b52b43a2",
+  "name": "Linebarger Goggan Blair & Sampson, LLP",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP — national government-receivables/delinquent property-tax & fine collection law firm (the firm itself is the donor)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Austin-headquartered government-debt-collection law firm with a San Antonio office; holds City of San Antonio contracts for delinquent ad valorem tax and citation collection and is a registered Texas lobby firm. Entity donor to Councilmember Phyllis Viagran.",
+  "source_url": "https://www.lgbs.com/office/san-antonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "City of San Antonio (municipal contractor)", "role": "Delinquent property-tax and court/parking citation collection contractor", "category": "political", "source_url": "https://www.ksat.com/news/local/2026/04/10/no-way-im-paying-homeowners-respond-to-law-firms-demand-for-overdue-citation-payments/", "snippet": "The San Antonio Municipal Court entered into an agreement with Linebarger, Goggan, Blair & Sampson, LLP in August 2025 to assist in addressing delinquent criminal, parking and civil code citations; the firm also holds a contract for collection of ad valorem taxes for the City."},
+   {"org": "Texas Ethics Commission — registered lobby firm", "role": "Registered lobbyist (firm) / longtime bipartisan political donor in Texas", "category": "political", "source_url": "https://www.transparencyusa.org/tx/lobbying/client/linebarger-goggan-blair-and-sampson-llp-1", "snippet": "Linebarger Goggan Blair & Sampson has registered as a lobbying firm with the Texas Ethics Commission with registrations active through 2026; since 2000 the firm has made more than $4M in Texas campaign contributions."}
+  ]
+ },
+ {
+  "donor_id": "a95dc699-5a40-4b78-a919-7a802de5d0ca",
+  "name": "Avelar, Elizabeth",
+  "resolved_employer": "Livetech LLC / self-employed project manager & instructor (unconfirmed)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Somerset, TX (PO Box 483) donor to Sukh Kaur; filer-reported as a self-employed project manager/instructor associated with Livetech LLC. Could not confirm the specific individual among several same-named people; no public profile, PAC, lobbyist, arena, or charter tie found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "97276215-d329-48aa-8d6a-b287d8817b0f",
+  "name": "Aneja, Amrit",
+  "resolved_employer": "Oakland Unified School District / Golestan Education teacher; also listed with Zscaler (tech) — out-of-state, unconfirmed",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Alameda, CA out-of-state donor to Sukh Kaur (District 1); filer records list a teacher role (Oakland USD / Golestan Persian-immersion private school) alongside a Zscaler tech employer, suggesting a personal/cultural-network gift. Identity not confirmable to a single public profile; no PAC, lobbyist, arena, or charter-advocacy tie. Golestan is a private immersion school (not a charter) and OUSD employment carries no documented advocacy role.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5d26379a-1549-479a-be28-5d211e2f2ecb",
+  "name": "Garza, Emily",
+  "resolved_employer": "Holy Spirit Catholic School, San Antonio — Assistant Principal / administrator",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Assistant Principal at Holy Spirit Catholic School (HSCS) in San Antonio; zip 78258 and 'Admin/Administrator' occupation match filer records. Gave small amounts to several council candidates (Jones, Viagran, Castillo, Gavito). Parochial (private Catholic) school, not a charter; no advocacy, PAC, lobbyist, or arena tie.",
+  "source_url": "https://www.hscssa.org/facultyandstaff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dbd477c5-fd92-49c4-95e9-ffe32e773d1c",
+  "name": "Salinas, Sandra",
+  "resolved_employer": "Law Offices of George Salinas, PLLC (San Antonio personal-injury firm) — Human Resources / HR consultant",
+  "industry": "Legal",
+  "confidence": "medium",
+  "evidence": "Sandra Chavarria Salinas works in HR at the Law Offices of George Salinas, a San Antonio plaintiff's personal-injury firm; Shavano Park 78230 address and HR occupation match filer records, and LinkedIn confirms firm and role. Household tied to personal-injury attorney George Salinas. Gave to Marina Gavito; no PAC, lobbyist, arena, or charter tie found.",
+  "source_url": "https://www.linkedin.com/in/sandracsalinas/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Law Offices of George Salinas, PLLC", "role": "Human Resources", "category": "business", "source_url": "https://www.linkedin.com/in/sandracsalinas/", "snippet": "Sandra Chavarria Salinas – Law Offices of George Salinas (San Antonio personal-injury firm); LinkedIn lists her HR role at the firm."}
+  ]
+ },
+ {
+  "donor_id": "b63f1636-8ee2-4491-8798-f9554ddd04bb",
+  "name": "Newman, Steve",
+  "resolved_employer": "Co-owner, The Friendly Spot (Southtown icehouse/bar); also owns Hills & Dales and B&D Ice House",
+  "industry": "Hospitality / Events",
+  "confidence": "high",
+  "evidence": "Steve Newman and wife Jody Bailey Newman own The Friendly Spot icehouse in the Southtown area of 78210; matches filer employer 'The Friendly Spot' and Barrera St address. Former insurance workers who opened the bar in 2009.",
+  "source_url": "https://www.sacurrent.com/food-drink/owners-of-san-antonios-the-friendly-spot-will-open-a-new-dive-bar-across-the-street-25954820/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Project Marvel / Hemisfair small-business panel", "role": "Co-owner of Hemisfair-adjacent Friendly Spot; publicly voiced conditional support and 'deep distrust' of the city's role in arena-district construction", "category": "civic", "source_url": "https://sanantonioreport.org/city-manager-business-owners-envision-downtown-spurs-arena-district/", "snippet": "Jody Bailey Newman, Friendly Spot owner, on a panel with City Manager Erik Walsh: small-business owners back Project Marvel only if the city Public Works Dept. is not involved in surrounding infrastructure — 'It's not just mistrust anymore, it's a deep distrust.'"}
+  ]
+ },
+ {
+  "donor_id": "2011e762-7107-4599-a04f-909e7a6524f9",
+  "name": "Walia, Gurvinder",
+  "resolved_employer": "Divano Designs / Seasons & Reasons Enterprises USA Inc (fine-furniture retail), Columbia, MD",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Out-of-state (Columbia, MD 21044) furniture-retail businessman associated with Divano Designs and 'Seasons & Reasons Enterprises'; occupation 'Partner/Retail sales' matches. Gave only to Sukh Kaur (San Antonio's first Sikh/Punjabi councilmember). No FEC PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.yelp.com/biz/divano-designs-columbia-3",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "16252aa8-3f5e-47e8-bbe0-660adadc7544",
+  "name": "Cortez-Haass, Jasmin",
+  "resolved_employer": "Licensed San Antonio real estate agent (SABOR/HAR); owner of Mexi-Modern LLC (self-employed)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Jasmin Cortez Haass is a San Antonio Board of Realtors agent (HAR.com agent_sabortx-762545) and self-employed owner of Mexi-Modern LLC; name and 78212 area corroborate. No FEC PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.har.com/jasmin-cortez-haass/agent_sabortx-762545",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "71641b03-e293-4411-8ac8-31bdb87bb373",
+  "name": "Willoughby, Vickie",
+  "resolved_employer": "Vice President, Sawillos Corp (convenience store), 421 S General McMullen Dr, San Antonio 78237",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "BBB lists Vickie A. Willoughby as VP of Sawillos Corp., a San Antonio convenience-store business at the exact filer address (421 S General McMullen Dr, 78237); matches 'self-employed, Sawillos' occupation. No FEC PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/convenience-store/sawillos-corp-0825-1000111885",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e6a6a421-26b9-4dc1-aec2-6c720da845e6",
+  "name": "Whyte, Lawrence",
+  "resolved_employer": "Nitrade Inc (company president, retired), Las Vegas, NV",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Lawrence R. Whyte, company president of Nitrade Inc at 2215 Alcova Ridge Dr, Las Vegas 89135, now retired; public associate records (OfficialUSA) link him to San Antonio D10 Councilmember Marc Whyte, whom he donated to, indicating a likely family relation (not explicitly documented as a specific relationship). Could not confirm Nitrade's industry.",
+  "source_url": "https://opencorporates.com/companies/us_tx/0124607200",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Marc Whyte (San Antonio City Council, District 10)", "role": "Documented associate / likely family relation and campaign donor to the councilmember", "category": "political", "source_url": "https://www.officialusa.com/names/Marc-Whyte/", "snippet": "OfficialUSA records list Lawrence R Whyte among Marc Whyte's associates/resident history; Lawrence Whyte of Las Vegas appears as a contributor in Marc Whyte's campaign filings."}
+  ]
+ },
+ {
+  "donor_id": "8e931369-7076-4bb6-838b-5481b1690d9d",
+  "name": "T Duka, Love",
+  "resolved_employer": "Self-employed caregiver",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Filer-reported occupation 'Caregiver' with employer string matching her own name ('Love Duka'), indicating a self-employed home caregiver at a San Antonio apartment (78216). No public professional profile found; ordinary small-dollar donor to Gina Jones.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fb8f8d9a-bb4c-42af-b564-73f0f7936367",
+  "name": "Thomas, Amber",
+  "resolved_employer": "Fidelity National Financial / Fidelity National Title (title insurance)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Filer-reported occupation 'Fnf' corroborates work at Fidelity National Financial/Title, a title-insurance provider with a San Antonio office; Alamo Heights-area zip (78209). Specific individual could not be independently confirmed beyond the occupation anchor. Gave to Marc Whyte.",
+  "source_url": "https://sanantonio.fntic.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d80c6536-f2c6-432a-8253-0d48b92e0bf7",
+  "name": "Malik, Shahid",
+  "resolved_employer": "Perez & Malik, PLLC (immigration law firm)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Shahid I. Malik is managing member of Perez & Malik, PLLC, a San Antonio immigration law firm, board-certified in immigration/nationality law; occupation 'Atty' and employer 'Perez and Malik' match, residence in SA 78256. Gave to Sakib Shaikh. No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://perezmalik.com/attorney-profiles/shahid-i-malik/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "beb9e54b-c205-417d-9951-a95e663276f6",
+  "name": "Ahluwalia, Jaskeerat",
+  "resolved_employer": "Student (Doctor of Physical Therapy program, George Washington University); athletic trainer",
+  "industry": "Student",
+  "confidence": "high",
+  "evidence": "Jaskeerat Ahluwalia is a student physical therapist (DPT candidate at GW) and licensed athletic trainer in the DC-Baltimore/Columbia MD area, corroborating filer occupation 'Student / soon to be PT DR'; the 'Divano Designs' social-media side role also matches. Part of the Columbia MD household giving to Sukh Kaur. No influence affiliations.",
+  "source_url": "https://physicaltherapy.smhs.gwu.edu/author/jaskeerat-ahluwalia",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8c845aa4-3ab8-4438-8468-671f4684a865",
+  "name": "Linebarger Goggan Blair & Sampson, LLP",
+  "resolved_employer": "Linebarger Goggan Blair & Sampson, LLP (municipal-collections law firm)",
+  "industry": "Legal",
+  "confidence": "high",
+  "evidence": "Firm contribution from the large Texas municipal delinquent-tax/collections law firm headquartered at 2700 Via Fortuna, Austin (matches address); it holds government-collections contracts including in San Antonio and is a registered Texas lobbying entity. Gave to Ivalis Gonzalez. No documented Project Marvel/arena or charter-school stake found.",
+  "source_url": "https://www.lgbs.com/office/san-antonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Linebarger Goggan Blair & Sampson, LLP (Texas registered lobby entity)", "role": "registered lobbying firm / client", "category": "political", "source_url": "https://www.transparencyusa.org/tx/lobbying/client/linebarger-goggan-blair-and-sampson-llp-1", "snippet": "Linebarger Goggan Blair & Sampson LLP appears in Texas Ethics Commission lobbying records as a registered lobbying entity."},
+   {"org": "City of San Antonio municipal collections", "role": "outside collections counsel", "category": "business", "source_url": "https://www.ksat.com/news/local/2026/04/10/no-way-im-paying-homeowners-respond-to-law-firms-demand-for-overdue-citation-payments/", "snippet": "News coverage documents the firm demanding overdue citation payments on behalf of local government, reflecting its San Antonio-area municipal collections role."}
+  ]
+ },
+ {
+  "donor_id": "85039753-a0b7-4508-9a80-0e9228d5f7ca",
+  "name": "Mills, James",
+  "resolved_employer": "Ajax Mgt. (member-manager); 735 Broad St is the James Building, a commercial office tower in downtown Chattanooga",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state (Chattanooga TN) donor to SA mayor Gina Ortiz Jones, self-reported member-manager of 'Ajax Mgt.' at the James Building. Could not confirm which Ajax Management entity or identify this specific James Mills (a very common name); no public bio, PAC, lobbyist, arena, or charter tie found.",
+  "source_url": "https://www.loopnet.com/Listing/735-Broad-St-Chattanooga-TN/11020056/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "83c67846-5a7a-43d8-9581-bd3fae0bc354",
+  "name": "Falic, Jana",
+  "resolved_employer": "Duty Free Americas (owner family / business owner)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Jana Falic is the wife of Simon Falic, chairman of Duty Free Americas; her donor address 176 Bal Bay Dr, Bal Harbour matches a documented Simon & Jana Falic property, and employer Duty Free Americas matches. The Falic family is nationally documented as major pro-Israel political donors and West Bank settlement funders. Gave to Phyllis Viagran and Ivalis Gonzalez.",
+  "source_url": "https://www.timesofisrael.com/us-duty-free-owners-give-millions-to-israeli-settlements/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Falic Family / Duty Free Americas pro-Israel donor network", "role": "family member (wife of chairman Simon Falic); business owner", "category": "pro_israel", "source_url": "https://www.timesofisrael.com/us-duty-free-owners-give-millions-to-israeli-settlements/", "snippet": "The Falic family, owners of Duty Free Americas, have donated more than $1.7 million to pro-Israel politicians in the US since 2000 and at least $5.6 million to West Bank settler organizations; among the largest single donors to Netanyahu."},
+   {"org": "Women's International Zionist Organization (WIZO)", "role": "President / Co-President", "category": "pro_israel", "source_url": "https://www.aljazeera.com/news/2019/7/1/israel-settlements-funded-by-us-duty-free-tycoons", "snippet": "Jana Falic, wife of Simon Falic, serves as president of the Women's International Zionist Organization."}
+  ]
+ },
+ {
+  "donor_id": "6f8ce8f8-222b-414e-805b-acb75169aa89",
+  "name": "Garza, Jaime",
+  "resolved_employer": "TEMPLAR, INC (President/owner)",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Donor address 7664 Burshard Rd, San Antonio 78263 exactly matches the registered address of TEMPLAR, INC, of which Jaime Garza is President, corroborating the self-reported 'Business Owner/Self' occupation. Dun & Bradstreet lists the firm under water transportation. Not a registered TX lobbyist; no arena or charter tie found. (Distinct from the same-named SA plastic surgeon.)",
+  "source_url": "https://www.dnb.com/business-directory/company-profiles.templar_inc.2bd56f8e90ffa12eef21dafcd06c411e.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6e21ab3d-069a-4a2c-a58c-2d17a9eabc3b",
+  "name": "Gonzales, John",
+  "resolved_employer": "Otima Investments, LLC (San Antonio real estate investment firm)",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Self-reported 'Partner' at Otima Investments, LLC, a San Antonio real estate investment firm (managing member of record is Enrique Agurcia). Could not independently confirm this specific John Gonzales's role or identity beyond the filer-reported employer; no PAC, lobbyist, arena, or charter tie found. Industry assigned via employer fallback.",
+  "source_url": "https://www.dnb.com/business-directory/company-profiles.otima_investments_llc.2192ef50b9a1ace5ccf836e242a6a249.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "626e9c0a-31ac-43a4-a3c0-8f15ef117ebb",
+  "name": "Walker, Jack",
+  "resolved_employer": "Self / self-employed (unspecified)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Out-of-state (Boulder, CO 80303) self-employed donor to SA council member Phyllis Viagran. 'Jack Walker' is a very common name; no public bio, business, PAC, lobbyist, arena, or charter tie could be confirmed. Quiet outcome.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "donor_id": "d640e72d-bd5b-495d-afff-7751c38d76c7",
+    "name": "Garcia, Fernndo",
+    "resolved_employer": "Target Corp. (warehouse operations, Portage MI)",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Out-of-state ($10) small-dollar donor to Jalen McKee-Rodriguez; occupation/employer strings list warehouse operations at Target Corp in Portage, MI. 'Fernando Garcia' is an extremely common name and no specific individual could be confirmed at this address; classified by employer string only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cfa13e76-5e6b-4ca4-9862-18245c275c82",
+    "name": "Sawyer, Jeanette",
+    "resolved_employer": "Casaquest (custom home builder, Canyon Lake TX) — part-time design assistant",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Name, Canyon Lake TX location, and employer 'Casaquest' are internally consistent; Casaquest (casaquesttx.com) is a custom Hill Country home builder in Canyon Lake. Active small-dollar ActBlue-style donor (78 FEC records) but no tracked PAC/advocacy affiliations documented. No arena, charter, or issue-PAC ties found.",
+    "source_url": "https://www.har.com/homedetail/136-jeanette-cir-canyon-lake-tx-78133/1189646",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c999ddba-66fc-4df5-9eef-32faac1e6ff9",
+    "name": "Blick, Suzanne",
+    "resolved_employer": "Self-employed truck driver",
+    "industry": "Transportation",
+    "confidence": "low",
+    "evidence": "Out-of-state ($10) small-dollar donor to Gina Ortiz Jones. Occupation 'truck driver / self.' The Sioux Falls SD address (3916 N Potsdam Ave #unit) is a well-known commercial mail-forwarding/domicile service used by full-time RVers, so it does not localize the person. No specific individual could be confirmed; classified by occupation only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "be5f4561-2cc7-4ca4-acd7-79c7c6c394ea",
+    "name": "Falk, Benjamin",
+    "resolved_employer": "Urban Institute (Washington DC think tank) — development/foundation relations",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Ben Falk is a development manager at the Urban Institute supporting foundation relations and fundraising with an equity focus; also served on the Urban Institute Employees Union bargaining committee. DC location, occupation 'Development,' and employer 'Urban Institute' all match. Out-of-state donor to Gina Ortiz Jones.",
+    "source_url": "https://www.urban.org/author/ben-falk",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bb1ff9a4-6fe2-4db8-8e5c-0261a9545045",
+    "name": "Pyo, Elise",
+    "resolved_employer": "Way to Win (progressive donor network) — Senior Director & Chief of Design",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Elise Pyo is Senior Director & Chief of Design at Way to Win, based in Hawaii (matches Ewa Beach HI); prior work with Solidaire/Emergent Fund and The Public Society. Occupation 'Graphic Designer,' employer 'Way to Win,' and HI location all match. Way to Win is a Democratic/progressive funding network but her donation reflects employment there, not a separately tracked issue affiliation.",
+    "source_url": "https://www.linkedin.com/in/elisepyo/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ba2971d0-4a46-4f69-88a7-ab3b24c108b5",
+    "name": "Pegues, Sarah",
+    "resolved_employer": "HGP (likely HGP Hospitality, San Antonio) — unconfirmed",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Could not positively identify. San Antonio (78261/Timberwood Park area) has several Sarah Pegues (yoga instructor, LMT, Schwab trader). Employer string 'HGP' matches HGP Hospitality's SA office; occupation 'DDOS' is a cryptic/likely-truncated title. Industry set by employer-string fallback only.",
+    "source_url": "https://www.glassdoor.com/Location/All-HGP-Hospitality-San-Antonio-TX-Office-Locations-EI_IE1182486.4,19_IL.20,34_IC1140494.htm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b8dedd83-8e95-493f-b26a-7865e0a5f810",
+    "name": "Pineda-Santos, Angela",
+    "resolved_employer": "JCB (construction/agricultural equipment manufacturer) — HR role, San Antonio",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Angela Pineda-Santos of San Antonio, member of 'Team JCB' working for JCB Company per 2025 SA Heart & Stroke Walk page — matches employer 'Jcb', 'Hr' occupation, and San Antonio residence. JCB is building a large Southside SA manufacturing plant. No lobbyist/PAC/arena/charter ties found.",
+    "source_url": "https://www2.heart.org/site/TR/HeartWalk/SWA-SouthWestAffiliate",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b89d593e-171e-4fb8-b3d5-40a8c79737a3",
+    "name": "Moore, Ellen",
+    "resolved_employer": "Seeking employment (former Proposals Group Manager, Oceaneering International, Houston)",
+    "industry": "Not Employed",
+    "confidence": "medium",
+    "evidence": "An Ellen Moore in Houston 77079 appears in FEC records as Proposals Group Manager at Oceaneering International giving small ActBlue amounts; donation record lists occupation 'Seeking employment.' With 5,118 FEC donations she is a prolific national small-dollar ActBlue/Democratic donor. No AIPAC/J Street, oil&gas PAC, gun, arena, or charter-specific affiliations documented.",
+    "source_url": "https://www.city-data.com/elec2/20/elec-HOUSTON-TX-20-part69.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b140873b-8d51-4464-a79d-4ff68780d60f",
+    "name": "Khandwalla, Yaseen",
+    "resolved_employer": "Business Analyst, Army & Air Force Exchange Service (AAFES/'The Exchange'); later EFA Consultant at Deloitte",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Yaseen Khandwalla, of Katy TX (UT Dallas BA + MS), Business Analyst at Army & Air Force Exchange Service — matches employer string and Katy 77450 address; LinkedIn/ZoomInfo confirm (now Deloitte). AAFES is a Dept. of Defense retail entity. Gave to SA candidate Sakib Shaikh. No lobbyist/PAC/arena/charter ties.",
+    "source_url": "https://www.linkedin.com/in/yaseen-khandwalla",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aeee73fb-2ae3-4804-801b-a6ba0f28185a",
+    "name": "Syed, Meena",
+    "resolved_employer": "Certified Anesthesiologist Assistant, Ambient Anesthesia PA (Houston-area practice, Conroe)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Occupation 'Anesthesia Assistant' and employer 'Ambient Anesthesia' match Ambient Anesthesia PA, a Houston-area (Conroe) practice using certified anesthesiologist assistants; donor lives in Cypress 77429 (Houston metro). A Meena Syed also appears as an anesthesiology assistant in TX healthcare directories. Gave to SA candidate Sakib Shaikh. No lobbyist/PAC/arena/charter ties.",
+    "source_url": "https://ambientanesthesia.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "adf913a8-b73e-4664-9a16-5127c602a37b",
+    "name": "Ballmann, Elisabeth",
+    "resolved_employer": "Desert Moon Rising (project manager) — small business, nature unconfirmed",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Out-of-state ActBlue small-dollar donor ($10) to Gina Ortiz Jones. A 'Beth Ballmann' of Cave Creek, AZ 85331 appears in a public regulations.gov filing, matching the location, but the specific employer 'Desert Moon Rising' could not be confirmed (the only 'Desert Moon Rising' found is a California-based life-coaching blog, not clearly hers). Identity not firmly corroborated on occupation.",
+    "source_url": "https://downloads.regulations.gov/GSA-GSAR-2023-0028-0027/attachment_2.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "adbb74c3-a5ea-46c6-ba8a-3b9f3c68cbf5",
+    "name": "Cameron White, James",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Local San Antonio (78254) small-dollar donor ($10) to progressive council members Jalen McKee-Rodriguez and Teri Castillo. Occupation ('Doing thangs') and employer ('That place') are joke/placeholder entries, so no real employer can be determined. 'Cameron White' is a common name with no confirmable match to this individual.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "994a50cb-9dc8-42db-ae74-698530e6fa3c",
+    "name": "Doles, Davie",
+    "resolved_employer": "A-AAAKey Mini Storage (Assistant Manager); LinkedIn shows same-named person as account manager at Gold's Gym, San Antonio area",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Distinctive name 'Davie Doles' matches a San Antonio-area LinkedIn profile (fitness/account-management career at Gold's Gym), corroborating the San Antonio location. Donation-record employer is A-AAAKey Mini Storage (self-storage), classified as Real Estate. $10 donor to Jalen McKee-Rodriguez. No political affiliations found.",
+    "source_url": "https://www.linkedin.com/in/davie-doles-22175a17/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "980978aa-0cec-46a5-b26a-c664204fd05f",
+    "name": "Badraun, Nichole",
+    "resolved_employer": "City of Schertz (Library Assistant, Schertz Public Library)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Donor lists a specific municipal role (Library Assistant, City of Schertz) with a Schertz, TX 78154 address consistent with that employer; $10 donor to Gina Ortiz Jones. Municipal library employee = Government. Could not find an independent named record confirming her, but occupation/location are internally consistent. No political affiliations found.",
+    "source_url": "https://www.schertz.com/2184/Library",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "96656333-d89e-4909-9c52-b4393a6c664a",
+    "name": "Strachman, William",
+    "resolved_employer": "Allston Custom Garage (self-employed auto body / antique car restorer), 88 Plympton St, Waltham, MA",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Exact address match: 'Bill Strachman' operates Allston Custom Garage at 88 Plympton St, Waltham, MA 02451 — identical to the donor's address — specializing in automotive body/interior work, consistent with the listed occupation 'Antique car restorer / Self.' Out-of-state $10 donor to Gina Ortiz Jones. No political/PAC affiliations found.",
+    "source_url": "https://autorepairme.com/massachusetts/45140-bill-strachman-allston-custom-garage-waltham-ma",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8f31a9b5-afc0-4298-9043-5b188a5c154f",
+    "name": "Harvey, Limya",
+    "resolved_employer": "Healthy Futures of Texas (Team Lead); also founder/Executive Director of Black Book Sex Ed",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Reproductive/sexual-health nonprofit worker in San Antonio; LinkedIn lists her as Exec. Director of Black Book Sex Ed and describes HFTX work (TeensDay SA summit, free reproductive-health kits). Employer string and San Antonio location match. No FEC PAC, lobbyist, arena, or charter records found.",
+    "source_url": "https://www.linkedin.com/in/limya-harvey-266930248/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8dadf9a9-ad6a-4e86-b5c2-8a2395e5b4fb",
+    "name": "Perez, Felipe",
+    "resolved_employer": "Self-employed maintenance worker (per filing)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Common name; occupation 'Maintenance / Self' at a San Antonio 78250 address. Could not confirm a specific public individual. No FEC PAC, Texas lobbyist, arena, or charter records match. Industry inferred from occupation string only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8cc33c7c-0db4-4583-b857-0be600e6cf4c",
+    "name": "Wettemann, Martha",
+    "resolved_employer": "State of Tennessee — Statistical Analyst Supervisor",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Out-of-state ActBlue donor (Pleasant View, TN). LinkedIn 'Statistical Supervisor'; authored a 2019 Tennessee State University dissertation on social equity/child support arrears; listed as a TSEA (state employees association) District 5 director. Occupation and employer match filing. No tracked-category PAC/advocacy money found.",
+    "source_url": "https://www.linkedin.com/in/martha-wettemann-8b081225",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "871cc7e1-7c43-4b77-81a0-ab8d56331103",
+    "name": "Rodriguez, Jenni",
+    "resolved_employer": "RedEye Lending — mortgage loan officer/broker",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "RedEye Lending is a real Texas-based (2024) mortgage brokerage in San Antonio; a 'Jenni,' described as San Antonio-born and helping families with homeownership, is featured on the firm's site. Occupation (Mortgage Broker) and employer match. Same-name ambiguity remains. No FEC PAC, lobbyist, arena, or charter records found.",
+    "source_url": "https://redeyelending.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "86944b3e-2ea8-4d11-be34-a298211ebd04",
+    "name": "Lecuona, Arturo",
+    "resolved_employer": "University Health (UHS) San Antonio — lab technician",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Occupation 'Lab tech' at 'Uhs' matches University Health, a large San Antonio public hospital system with clinical labs; donor address is San Antonio 78223. Could not positively corroborate the specific individual beyond generic public-records listings. Industry inferred from occupation/employer. No PAC, lobbyist, arena, or charter records found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

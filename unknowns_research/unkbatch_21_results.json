@@ -1,0 +1,261 @@
+[
+  {
+    "donor_id": "5da0a790-a080-4206-9c07-7ab119820e5a",
+    "name": "Cherry, Marco",
+    "resolved_employer": "Cherry Street Bicycle Co-op",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Marco (Carmona) is founder/operator of the Cherry Street Bicycle Co-op, a community bike nonprofit at 132 S. Cherry St, San Antonio 78203 — an exact match to the donor's address, occupation 'Bicycle', and employer 'CHERRY st'.",
+    "source_url": "https://sanantonioreport.org/cherry-street-bike-co-op-gives-cycling-a-new-flair-on-the-eastside/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "Cherry Street Bicycle Co-op",
+        "role": "Founder/operator",
+        "category": "civic",
+        "source_url": "https://sanantonioreport.org/cherry-street-bike-co-op-gives-cycling-a-new-flair-on-the-eastside/",
+        "snippet": "Just a few blocks from the Alamodome in a renovated house on Cherry Street, Marco and Judy Carmona are looking to boost the community spirit in their Eastside neighborhood while providing a sustainable transportation option... low-cost bikes to locals and visitors of all ages."
+      }
+    ]
+  },
+  {
+    "donor_id": "5ccead2a-aa1f-4fb4-a81b-e71e82a0e23e",
+    "name": "Ramos, Crystal",
+    "resolved_employer": "BHS (Baptist Health System / Behavioral Health, San Antonio)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Common name; 'PSR' (patient service rep / psychosocial rehab) at 'BHS' in San Antonio 78228 points to a healthcare employer, but the specific individual could not be uniquely confirmed in public records.",
+    "source_url": "https://www.sanantoniobehavioral.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5c3c5b61-4ee9-48f4-8f17-b583b65bc80e",
+    "name": "Cruz, Carlos",
+    "resolved_employer": "Nine Energy Service",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "LinkedIn and ZoomInfo confirm a Carlos Cruz in Corporate Sales (Coil Tubing) at Nine Energy Service, an onshore oil & gas completion/production services company — matches the donor's occupation and employer string; Beeville TX 78102 is consistent with a South Texas oilfield sales base.",
+    "source_url": "https://www.linkedin.com/in/carlos-cruz-34377658/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5ad5db76-9104-4f3c-8b61-904567ada89f",
+    "name": "Aguilar, Hilda",
+    "resolved_employer": "Catto & Catto (now HUB International / HUB San Antonio)",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "LinkedIn shows Hilda Aguilar as a Senior/Large Account Manager in insurance at HUB San Antonio, formerly Catto & Catto (acquired by HUB in 2021) — matches donor's occupation 'Account Manager', employer 'Catto & Catto', and San Antonio location.",
+    "source_url": "https://www.linkedin.com/in/hilda-aguilar-02449117/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "57b8db5f-27df-4103-9413-3d765c9d4519",
+    "name": "Garcia, Jeniffer",
+    "resolved_employer": "Southwest Key Programs",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "Southwest Key Programs is a nonprofit operating immigrant-youth shelter/case-management programs, with an Avondale, AZ office matching the donor's location and 'Case manager' occupation; the specific individual (a very common name) could not be uniquely confirmed.",
+    "source_url": "https://www.linkedin.com/jobs/view/case-manager-at-southwest-key-programs-3699505139",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "565338e5-3a5c-46cc-bf40-87ae4ebb6d2e",
+    "name": "Montanez, Cecile",
+    "resolved_employer": "Special Olympics Texas (SOTX) / nonprofit development",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Cecile Montanez, MBA is a San Antonio nonprofit development/fundraising professional (occupation 'Development' matches). Public record shows VP Development & Events at South Texas Business Partnership, formerly Texas A&M-SA and Archdiocese of San Antonio development; 78214 south-SA zip consistent. 'SOTX' = Special Olympics Texas. No political/PAC ties found.",
+    "source_url": "https://southtexaspartnership.org/team/cecile-montanez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "55fb494b-9455-4194-8749-2aebcc792db8",
+    "name": "Poonsap, Adcharaporn",
+    "resolved_employer": "U.S. Department of Defense",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Adcharaporn Poonsap is a Malware Analyst / cybersecurity analyst for the U.S. DoD (prior US Army Cyber Command, DHS, Deloitte SAP); occupation 'Cybersecurity' and employer 'DOD' match, 78245 far-west SA near Lackland/cyber hub. No political/PAC ties found.",
+    "source_url": "https://www.linkedin.com/in/adcharaporn-poonsap/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "521d82e0-d019-4676-85f4-04b836d6dff9",
+    "name": "Rother, Linda Rose",
+    "resolved_employer": "Self-employed (sign language interpreter)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "No public web presence located for a San Antonio ASL/sign language interpreter named Linda Rose Rother; occupation self-reported as self-employed sign language interpreter. Ordinary-resident quiet outcome; identity not independently corroborated. No political/PAC ties found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4e42c657-963d-46d9-8f4b-f9c34d407fff",
+    "name": "Martinez), (Alexander",
+    "resolved_employer": "City of San Antonio Fire Department (SAFD EMS)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Alex(ander) Martinez is a paramedic with San Antonio Fire Department and a USMC veteran; occupation 'Paramedic'/employer 'COSA' (City of San Antonio) match. Publicly noted as spouse of District Judge candidate Elizabeth Martinez. Common name, but occupation corroborates. No personal PAC/lobbyist ties found.",
+    "source_url": "https://chooseelizabeth.com/meet-elizabeth/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4c688bc0-70af-4484-af24-f9ca32a3789e",
+    "name": "Aneja, Prabhleen",
+    "resolved_employer": "Corewell Health William Beaumont University Hospital (Royal Oak, MI)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Dr. Prabhleen Kaur Aneja, MD is an OB-GYN affiliated with Beaumont/Corewell Health, Royal Oak MI (also practices Rochester NY); occupation 'Doctor' and employer 'Beaumont Royal Oak' + Madison Heights/Royal Oak MI location match exactly. No political/PAC ties found.",
+    "source_url": "https://www.healthgrades.com/physician/dr-prabhleen-aneja-rnzuehm975",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "417b5dda-d5b6-4e43-a515-dd2d170c02ee",
+    "name": "Zimmerman, Sarah",
+    "resolved_employer": "San Antonio ISD (SAISD)",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "SAISD teacher; quoted in San Antonio press as an SAISD educator aligned with the San Antonio Alliance (teachers union) opposing in-person reopening. Occupation matches donor record; Brighton Ave address corroborates San Antonio south-side residency (nearby Brighton Ave address returned, slight discrepancy so identity not fully confirmed).",
+    "source_url": "https://news4sanantonio.com/news/local/not-until-its-safe-san-antonio-alliance-opposes-districts-back-to-school-plans",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "San Antonio Alliance of Teachers and Support Personnel (Local 67)",
+        "role": "SAISD teacher publicly aligned with union position",
+        "category": "public_school_advocacy",
+        "source_url": "https://news4sanantonio.com/news/local/not-until-its-safe-san-antonio-alliance-opposes-districts-back-to-school-plans",
+        "snippet": "SAISD teacher Sarah Zimmerman featured in coverage of the San Antonio Alliance opposing the district's back-to-school reopening plans, saying she felt safer teaching virtually."
+      }
+    ]
+  },
+  {
+    "donor_id": "40c48d02-c8d2-425f-9855-bcaf3fac8659",
+    "name": "KEELER, RYAN",
+    "resolved_employer": "APP (unconfirmed)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "IT Support worker in Brooklyn, NY (zip 11207). Multiple same-named people surfaced (an Intel employee, an IT consultant, a basketball coach); none could be tied to this Brooklyn address/employer 'APP'. Industry assigned per stated IT occupation.",
+    "source_url": "https://www.linkedin.com/in/ryankeeler/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3cc0f04d-4adc-4eac-b6ec-9a0a3a66687a",
+    "name": "Baumann, Linda",
+    "resolved_employer": "CCC Intelligent Solutions",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "Executive Assistant to the CEO at CCC Intelligent Solutions (a SaaS platform for the P&C insurance economy). LinkedIn confirms employer and role matching donor's occupation and employer string; Naperville, IL is a Chicago-area suburb consistent with CCC's Chicago HQ.",
+    "source_url": "https://www.linkedin.com/in/lindabaumann/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3b15ff59-63dc-4f2a-bb39-5daf8fe6cd48",
+    "name": "Chavez, Isabella",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Listed occupation 'Design' at 5803 UTSA Drive, San Antonio 78249 (adjacent to the UTSA main campus, likely student/young-professional housing). Common name; no specific individual could be corroborated on zip + occupation. No FEC, lobbyist, arena, or charter records found.",
+    "source_url": "https://www.spokeo.com/Isabel-Chavez/Texas/San-Antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3afa4deb-7710-45bb-a666-a580fa60941b",
+    "name": "Zuniga, Mariah",
+    "resolved_employer": "Self-employed (health & fitness)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-employed in health and fitness, San Antonio 78202 (employer string 'Mariah Zuniga'). Several same-named people surfaced (an LA Fitness instructor with a UTSA degree, a holistic healing practitioner); none could be conclusively tied to this specific address. No FEC, lobbyist, arena, or charter records found.",
+    "source_url": "https://www.linkedin.com/in/mariah-zuniga-68a540319/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "377ffa23-342d-418f-97e5-ad5a2e1195c2",
+    "name": "Williams, Paul",
+    "resolved_employer": "ASCAP (American Society of Composers, Authors and Publishers)",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Confirmed as Paul Williams, Oscar/Grammy-winning Hall of Fame songwriter ('Rainbow Connection', 'We've Only Just Begun') who serves as President & Chairman of the Board of ASCAP and The ASCAP Foundation. Occupation 'Songwriter/president & chairman' and employer 'ASCAP' match exactly.",
+    "source_url": "https://www.ascap.com/about-us/leadership",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "ASCAP",
+        "role": "President & Chairman of the Board",
+        "category": "business",
+        "source_url": "https://www.songhall.org/profiles/paul-williams",
+        "snippet": "Paul Williams is an Oscar, Grammy and Golden Globe winning Hall of Fame songwriter and President & Chairman of the Board of ASCAP and The ASCAP Foundation."
+      }
+    ]
+  },
+  {
+    "donor_id": "36920805-2b0f-4e62-93eb-4ce2aa46afa2",
+    "name": "McClellan, Matthew",
+    "resolved_employer": "JMM Strategy Group",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Confirmed as Matthew Lee-McClellan, President of JMM Strategy Group, a boutique consulting firm serving progressive nonprofits, foundations and campaigns (org development, fundraising, strategic planning). 20+ yrs political experience (Dean, Kerry, Obama 2008 campaigns). Address 1203 Trinidad Ave NE, DC 20002 matches firm location.",
+    "source_url": "https://www.jmmstrategygroup.com/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "National LGBTQ+ Victory Fund",
+        "role": "Campaign Board member",
+        "category": "political",
+        "source_url": "https://www.jmmstrategygroup.com/about",
+        "snippet": "Board Seats & Advisory Roles: National LGBTQ+ Victory Fund Campaign Board member; DNC LGBTQ Advisory Committee member."
+      },
+      {
+        "org": "Democratic National Committee",
+        "role": "LGBTQ Advisory Committee member",
+        "category": "political",
+        "source_url": "https://www.jmmstrategygroup.com/about",
+        "snippet": "DNC LGBTQ Advisory Committee member; previously Director of Development for Equality Federation and founded the NCLR Action Fund."
+      }
+    ]
+  },
+  {
+    "donor_id": "3361d909-b4cd-4f39-a7ce-f3990b89bac6",
+    "name": "Yap, Anna",
+    "resolved_employer": "AYap (apparent self-employed cyber)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Could not confirm the specific person. Occupation 'Cyber' with self-referential employer 'AYap' suggests a self-employed cybersecurity professional in San Antonio (78245), consistent with SA's large cyber sector, but no public profile matched name+zip+occupation. Shares the 3315 Just Because address with donor Adcharaporn Poonsap (DoD cyber). Industry per occupation fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "32142369-e56e-4e57-81d9-3d7d8a44745a",
+    "name": "Carnahan, Samantha",
+    "resolved_employer": "Vibrant Works (formerly San Antonio Lighthouse for the Blind)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed as Samantha Carnahan, business development / federal sales specialist at Vibrant Works, a San Antonio 501(c)(3) (formerly SA Lighthouse for the Blind) that is an AbilityOne nonprofit manufacturer of U.S. military apparel. LinkedIn and org social media confirm her role; employer matches.",
+    "source_url": "https://www.linkedin.com/in/samantha-carnahan",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "30362033-d660-4b07-bf0b-8b2c060ca6be",
+    "name": "Dolorico, Maria",
+    "resolved_employer": "Maria Dolorico Counseling & Coaching (self)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Confirmed as Maria Dolorico, M.Ed., PMH-C, BCC, a perinatal mental health counselor / psychotherapist in Boston's Back Bay (self-employed practice). Occupation 'Psychotherapist' and employer 'Self' match; Boston MA 02118 location consistent (practice in Back Bay).",
+    "source_url": "https://www.mariadolorico.com/about.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

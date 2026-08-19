@@ -1,0 +1,241 @@
+[
+  {
+    "donor_id": "6ba989ec-035a-4641-b17c-5a8827def525",
+    "name": "Ahsan, Sheikh",
+    "resolved_employer": "IVI Rugs Inc",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Owner/operator of IVI Rugs Inc, a handmade oriental rug store at 126 S Main St, Boerne (zip 78006 matches). Family rug business; occupation 'Business' consistent with store owner.",
+    "source_url": "https://www.ci.boerne.tx.us/1938/IVI-Rugs",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6ba1ceb8-db6c-4e9e-8090-1c4174232caa",
+    "name": "Hausman, Laura",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Address 9364 Canyon Mist, Helotes/San Antonio 78023 matches a Laura Hausman, but donor record lists no occupation/employer and no public employment could be confirmed. Cannot classify industry despite high FEC donation count (47). No lobbyist/PAC record under this name.",
+    "source_url": "https://www.spokeo.com/Laura-Hausman/Texas/San-Antonio/p40153913848",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6b5a04aa-d947-4976-a47b-6dc96fba7ad7",
+    "name": "Pearsall, Brian",
+    "resolved_employer": "Lowe's",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Public-records match places a Brian Pearsall at 1318 W Craig Place, San Antonio 78201 (exact address/zip). Donor-provided occupation SALES at Lowe's is consistent with a retail sales associate; no notable public footprint. No lobbyist/PAC/arena/charter ties.",
+    "source_url": "https://unmask.com/Brian-Pearsall/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "663c14b6-73c8-4b48-9c1e-e69fffc53fa4",
+    "name": "Sanchez, Juan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Very common name; donor occupation/employer both 'Information Requested'. Could not confirm the specific individual at 8455 Sierra Hermosa, San Antonio 78255. No corroborating occupation, so industry left null. No lobbyist/PAC/arena/charter ties.",
+    "source_url": "https://www.spokeo.com/Juan-Sanchez/Texas",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "60339b5c-0df5-40d3-942d-1838c4f77754",
+    "name": "Mavrakis, Nadia",
+    "resolved_employer": "Culturingua",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Nadia Samir Mavrakis registered at 8920 John Barrett Dr, San Antonio 78240 (exact address match) is Co-Founder / Co-Executive Director of Culturingua, a San Antonio community/economic-development nonprofit (Silk Road Cultural Heritage District). No lobbyist/PAC/arena/charter ties.",
+    "source_url": "https://www.culturingua.com/about-us/leadership-board",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {
+        "org": "Culturingua",
+        "role": "Co-Founder & Co-Executive Director",
+        "category": "civic",
+        "source_url": "https://www.culturingua.com/about-us/leadership-board",
+        "snippet": "Nadia Mavrakis serves as Co-Executive Director of Culturingua, a nonprofit supporting community and economic development in San Antonio's Silk Road Cultural Heritage District, helping support small business owners, affordable homeownership, and the arts."
+      }
+    ]
+  },
+  {
+    "donor_id": "600b84b0-c831-42d4-977e-7f492c1d893b",
+    "name": "Robinson, Brendon",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No confirmable match for a Brendon Robinson at 1803 S Presa, San Antonio 78210; donor record has blank occupation/employer. Public-record hits are for other Robinsons in different zips/states. Identity unconfirmed; industry null. No lobbyist/PAC/arena/charter ties.",
+    "source_url": "https://www.spokeo.com/Brendon-Robinson",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5ffa5839-828f-4aec-892d-5a7927526e1d",
+    "name": "Hass, Carino",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No public records located for a person named Carino Hass/Haas at 204 E Melrose, San Antonio 78212; donor record has blank occupation/employer. Searches returned only unrelated businesses. Identity unconfirmed; industry null. No lobbyist/PAC/arena/charter ties.",
+    "source_url": "https://www.spokeo.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5e3098f7-6148-4513-bac2-82a737fa47a2",
+    "name": "Rodriguez, Ruben",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Extremely common name; no public record could be tied to 2021 Santiago St, 78207 as a self-employed individual. Multiple unrelated Ruben Rodriguez results in San Antonio. Identity not corroborable on zip + occupation. Self-reported occupation/employer 'Self'.",
+    "source_url": "https://www.spokeo.com/Ruben-Rodriguez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5e211065-906e-443f-9c4b-c30bf1a8caad",
+    "name": "Garza, Erika",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Self-reported 'Medical Field' worker in Floresville (78114). Erika Garza medical professionals found online are in the Rio Grande Valley, not Floresville, so none is a confirmed match. Identity not corroborated on zip + occupation; industry left null.",
+    "source_url": "https://www.doximity.com/pub/erika-garza-np",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5af517f9-561b-4f40-8239-67e54ad90111",
+    "name": "Beldon, Brad",
+    "resolved_employer": "BELDON Roofing Company (The BELDON Group of Companies)",
+    "industry": "Construction",
+    "confidence": "high",
+    "evidence": "Bradford D. 'Brad' Beldon, third-generation owner and CEO/Chief Culture Officer of BELDON Roofing Company, San Antonio. UT-Austin BBA 1986; named Outstanding CEO by Express-News Reader's Choice 2024. FEC record (171 donations, lean 0.56) consistent with a prolific SA business donor. No arena/Project Marvel, lobbyist, or charter ties found.",
+    "source_url": "https://www.beldon.com/about-us/bradford-d-beldon/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "University of Texas McCombs School of Business (BBA Board of Directors)", "role": "Board of Directors member", "category": "business", "source_url": "https://www.beldon.com/about-us/bradford-d-beldon/", "snippet": "He serves on the University of Texas McCombs BBA Board of Directors."},
+      {"org": "Roofers Insurance, Ltd.", "role": "Risk Control Chair", "category": "business", "source_url": "https://www.beldon.com/about-us/bradford-d-beldon/", "snippet": "...and is the Risk Control Chair for Roofers Insurance, Ltd."}
+    ]
+  },
+  {
+    "donor_id": "51fe64d3-b21e-4055-879d-e671525cecd2",
+    "name": "Mejia, Emily",
+    "resolved_employer": "Brass Monkey (bar/nightclub, 2702 N St Mary's St, San Antonio 78212)",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Self-reported employer Brass Monkey confirmed as a long-standing nightclub/bar on the St Mary's Strip (address matches donor's listed location). No public profile ties this specific Emily Mejia to the venue beyond the self-report; industry inferred from confirmed employer type only. No PAC/lobbyist/arena/charter ties.",
+    "source_url": "https://brassmonkeytx.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4e84ae97-180d-4490-90c1-b2601a5e3187",
+    "name": "Gunn, Ethan",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Self-reported 'Business Owner / Self-employed' in the Boerne area (record has inconsistent zips 31317/79015). No public record confirms a specific Ethan Gunn business owner in Boerne. Identity/industry not corroborated. No PAC/lobbyist/arena/charter ties.",
+    "source_url": "https://www.spokeo.com/Ethan-Gunn",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4d453821-8faf-46d4-a7f0-ca72164746a2",
+    "name": "roby, tyler",
+    "resolved_employer": "San Antonio Education Partnership (SAEP) — self-reported accounting role",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'SAEP' with employer 'Accounting' points to an accounting/finance role at the San Antonio Education Partnership, a real SA education nonprofit. Tyler Roby is not listed on SAEP's public team page and the specific individual could not be independently corroborated on zip + occupation. No PAC/lobbyist/arena/charter-advocacy ties.",
+    "source_url": "https://saedpartnership.org/our-team/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4ab47bbe-550e-4c1c-aae2-f0e993be247d",
+    "name": "Koob, Christopher",
+    "resolved_employer": "MBA Consulting Group",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Christopher Koob is a San Antonio-based Democratic political-compliance consultant, Principal at MBA Consulting Group and co-founder of Capitol Compliance Associates. Career includes DNC, DSCC (compliance director), HUD senior advisor, and senior advisor to former SA Mayor Julian Castro. Strong SA/Castro tie plus the record's high Democratic FEC lean (0.99, 51 donations) corroborate identity, though donor occupation/employer fields were blank. No lobbyist/arena/charter ties.",
+    "source_url": "https://www.influencewatch.org/person/christopher-koob/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Democratic Party political operations (DNC, DSCC) / MBA Consulting Group", "role": "Democratic political-compliance consultant; PAC treasurer ('Retire Career Politicians', 'Civic Truth Action')", "category": "political", "source_url": "https://www.influencewatch.org/person/christopher-koob/", "snippet": "Left-of-center Democratic Party operative; Principal at MBA Consulting Group; former DNC and DSCC staff and senior advisor to Mayor Julian Castro; treasurer of political committees 'Retire Career Politicians' and 'Civic Truth Action'."}
+    ]
+  },
+  {
+    "donor_id": "49e5ca21-8ed3-426b-9d09-ad304dafa2a3",
+    "name": "Lopez, Markus",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Record has blank occupation and employer, so identity cannot be corroborated on zip + occupation. Multiple 'Mark/Markus Lopez' individuals exist in San Antonio; a LinkedIn 'Markus Lopez' in land acquisitions appears in the area but cannot be confirmed as the 20 Campden Cir, 78218 donor. No FEC/lobbyist/arena/charter ties found. Treated as ordinary resident.",
+    "source_url": "https://www.linkedin.com/in/markus-lopez/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4936f62e-ebb7-4ae9-a306-eef9fb32b589",
+    "name": "Texas Forward, Forever",
+    "resolved_employer": null,
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "A Texas political committee, not an individual. The name closely matches 'Texas Forever Forward,' the PAC launched in 2019 by former Texas House Speaker (and San Antonio's) Joe Straus using $2.5M in old campaign funds. San Antonio PO Box (78209) is consistent with Straus's SA base; it gave $500 to Marc Whyte, a Straus-aligned moderate. Name ordering on the record is slightly scrambled, hence medium confidence.",
+    "source_url": "https://www.texasforeverforward.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Texas Forever Forward (Joe Straus PAC)", "role": "Contributing political committee", "category": "political", "source_url": "https://www.texastribune.org/2019/06/26/joe-straus-new-political-action-committee/", "snippet": "Former Texas House Speaker Joe Straus launched a PAC, Texas Forever Forward, contributing $2.5 million from his old campaign account; it supports candidates aligned with his moderate, pro-public-education leadership style."}
+    ]
+  },
+  {
+    "donor_id": "4922ebc3-0ca5-4875-833f-b22b7bf9f6b1",
+    "name": "COPE, CWA",
+    "resolved_employer": null,
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "CWA-COPE, the Communications Workers of America Committee on Political Education (FEC committee C00002089), a national labor-union PAC. The record's address (501 3rd Street NW, Washington, DC 20001) exactly matches the FEC-registered committee address. It gave $500 to Ric Galvan. Not an individual or lobbyist registrant; no arena/charter activity.",
+    "source_url": "https://www.fec.gov/data/committee/C00002089/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "CWA-COPE (Communications Workers of America, Committee on Political Education)", "role": "National labor-union political action committee", "category": "political", "source_url": "https://cwa-union.org/CWACOPE", "snippet": "COPE stands for the Committee on Political Education and is CWA's grassroots vehicle for making members' voices heard in political campaigns; the COPE Political Contributions Committee (FEC C00002089) is at 501 3rd Street NW, Washington, DC 20001."}
+    ]
+  },
+  {
+    "donor_id": "4629fcda-3d3b-40d8-9ae5-3ed940351461",
+    "name": "Lopez, Sarah",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Occupation/employer both 'n/a'; identity cannot be corroborated. 'Sarah Lopez' is an extremely common San Antonio name with multiple individuals in 78201. The record's fec_partisan_lean 0.95 (36 donations) indicates an active Democratic-leaning small-dollar donor, consistent with a $500 gift to Sukh Kaur, but the specific individual cannot be pinned to 934 W Lynwood Ave. Industry left null; no political affiliation asserted absent identity confirmation.",
+    "source_url": "https://www.spokeo.com/Sarah-Lopez/Texas/San-Antonio/p40373673890",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "45c6e9d2-3738-48b4-84ba-c2b2a9ceb1b4",
+    "name": "Berridge, Jennifer",
+    "resolved_employer": "Berridge Steel (Berridge Manufacturing Co., San Antonio metal roofing/steel)",
+    "industry": "Construction",
+    "confidence": "low",
+    "evidence": "Self-reported occupation 'President' at 'Berridge Steel.' Berridge Manufacturing Co. is a well-known San Antonio family-owned metal-roofing/steel manufacturer. No public source confirms a 'Jennifer Berridge' as company president (company materials list Joel Jesse as President & CEO), so the title is unverified and could reflect a family owner/officer of a related entity; hence low confidence. Address 2 Elmcourt St, 78209 is the affluent Alamo Heights/Terrell Hills area. No FEC/lobbyist/arena/charter ties found.",
+    "source_url": "https://www.berridge.com/about-berridge/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Berridge Manufacturing Co. / Berridge Steel", "role": "Self-reported President (unverified)", "category": "business", "source_url": "https://www.berridge.com/about-berridge/", "snippet": "Berridge Manufacturing Co. is a San Antonio-based metal roofing and steel building-products manufacturer; donor self-reports as President of 'Berridge Steel,' though company materials list Joel Jesse as President & CEO."}
+    ]
+  },
+  {
+    "donor_id": "452a731d-a0f0-435e-8a73-605b819cc68d",
+    "name": "Vexlet, Mary",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Blank occupation/employer; identity not corroborated. No direct web presence for 'Mary Vexlet.' Address 305 W Kings Hwy, 78212 is the historic Monte Vista neighborhood. Surname may be a misspelling of 'Vexler,' but that spelling-variant lead cannot be tied to a 'Mary' with blank occupation, so no identity or industry is asserted. No FEC/lobbyist/arena/charter ties.",
+    "source_url": "https://webapp1.sanantonio.gov/LobbyistSearch/Search.aspx",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

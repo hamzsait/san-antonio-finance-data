@@ -1,0 +1,222 @@
+[
+ {
+  "donor_id": "909be778-efc8-4da0-b655-aac7ec9c43d0",
+  "name": "Lazzaro, Christine",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "New Orleans, LA (70124) $5 donor to Jalen McKee-Rodriguez (2021), no occupation/employer reported. Multiple distinct people named Christine Lazzaro in the New Orleans area (data analyst/baker, and a financial analyst at Ochsner); with no occupation anchor in the record, cannot confirm which one. No PAC, lobbyist, arena, or charter footprint found.",
+  "source_url": "https://www.nochi.org/blog/from-data-analyst-to-bread-baker-how-christine-lazzaro-found-her-next-chapter-at-nochi",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8698f2c9-2b90-4830-91a1-5c16842d87b2",
+  "name": "Wilson, John",
+  "resolved_employer": "Lifeline Homecare, Inc. (Somerset, KY home health company) – CFO",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "CFO of Lifeline Homecare, Inc., a ~$18M non-medical home care company in Somerset, KY; UVA graduate, prior roles at Wilson & Company PSC. Employer string and occupation both match. Ordinary out-of-state $5 donor to Gina Ortiz Jones (2025). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://rocketreach.co/john-wilson-email_9528312",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7f77fa57-7cfc-4315-992f-e3ead1ded2d6",
+  "name": "Voorhees, Jennifer",
+  "resolved_employer": "Facilities Design Group (West Des Moines, IA) – Registered Interior Designer / Principal, LEED AP",
+  "industry": "Architecture",
+  "confidence": "high",
+  "evidence": "Registered Interior Designer and principal at Facilities Design Group, specializing in sustainable commercial/healthcare interior design; occupation and employer both match. Out-of-state $5 donor to McKee-Rodriguez (2021). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://www.linkedin.com/in/jennifer-voorhees-77bab2b1",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "772aac75-81dc-45e9-9c48-17b23157bf04",
+  "name": "Rodriguez, Ana",
+  "resolved_employer": "Alberto's Incorporated (Las Vegas, NV food business) – Administrative Assistant",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "LinkedIn confirms an Ana Rodriguez at Alberto's Incorporated, matching the reported employer; administrative assistant. Extremely common name so specific-person confidence is moderate, but employer anchor corroborates. Out-of-state $5 donor to McKee-Rodriguez and Castillo (2021). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://www.linkedin.com/in/ana-rodriguez-95285b183",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "750fa719-edfd-4b7c-9595-c3b241c0ad70",
+  "name": "Fitzpatrick, Anne",
+  "resolved_employer": "Cambia Health Solutions (Portland, OR health insurer) – Senior/Technical Program Manager (IT)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Senior/Technical Program Manager leading IT teams at Cambia Health Solutions in Portland; occupation and employer match. Ordinary Democratic-leaning small donor (7 FEC gifts) to Gina Ortiz Jones (2025). No PAC-leadership, lobbyist, arena, or charter tie.",
+  "source_url": "https://www.linkedin.com/in/annefitzpatrickpdx/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "71de5602-1bb6-44ae-a906-53c92bdd0613",
+  "name": "Anakalea, Kawaiohawaiki",
+  "resolved_employer": "Self-employed massage therapist; owner, Luana Day Spa (Hawaiian Lomilomi/deep-tissue)",
+  "industry": "Self-Employed",
+  "confidence": "high",
+  "evidence": "Distinctive name confirms a Kanaka Maoli massage therapist (~20 yrs experience, practiced in Manhattan) who owns Luana Day Spa; matches reported 'massage therapy / Self.' Out-of-state $5 donor to McKee-Rodriguez and Castillo (2021). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://www.luanadayspa.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6b4d3cd6-2791-4f02-b643-755236000758",
+  "name": "Krezminski, Allan",
+  "resolved_employer": "Boys & Girls Clubs of Greater Milwaukee – IT Network Administrator",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "IT Network Administrator at Boys & Girls Clubs of Greater Milwaukee (UW-Madison grad); occupation and employer match exactly. Ordinary out-of-state $5 donor to Gina Ortiz Jones (2025). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://rocketreach.co/allan-krezminski-email_36272232",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "6412747b-4581-4add-97b0-1098b33748fe",
+  "name": "Rodriguez-Rosales, Gabriela",
+  "resolved_employer": "Credit Human (San Antonio credit union) – MSR (Member Service Representative)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "San Antonio (78212) resident; reported as MSR at Credit Human, a local credit union — an entry-level member-service/teller role. Could not isolate a distinct public profile among several Gabriela Rodriguezes, but zip + employer corroborate an ordinary local bank employee. $5 donor to McKee-Rodriguez (2023). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://www.credithuman.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "620d8e34-2e77-45bf-800f-c8468f1ca2a2",
+  "name": "Kovacevic, Nicole",
+  "resolved_employer": "REMPREX LLC (Downers Grove, IL; rail/intermodal terminal operations & tech) – Implementation Coordinator",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "Reported as Implementation Coordinator at REMPREX LLC, an intermodal/rail terminal operations and logistics-tech firm; the located AMAROK Security 'Nicole Kovacevic' appears to be a different person, so identity rests on the employer anchor. Out-of-state $5 donor to McKee-Rodriguez and Castillo (2021). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://www.remprex.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5ae226d5-0401-4554-80d2-8e1905c396a5",
+  "name": "Woods, Gladys",
+  "resolved_employer": "\"Northside\" (reported) – X-ray technician",
+  "industry": "Healthcare",
+  "confidence": "low",
+  "evidence": "Reported as an X-ray tech at 'Northside' (address fields inconsistent: PO Box 17556 with an Atlanta, GA line). Could not confirm a specific person; occupation places her in healthcare/radiology but employer is ambiguous. $5 donor to McKee-Rodriguez and Castillo (2021). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://www.northside.com/services/imaging",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "48f4e7f5-163f-4665-b17f-effca605c0f5",
+  "name": "ODonnell, Neil",
+  "resolved_employer": "Self-employed clinical psychologist, Neil F. O'Donnell PhD PC (Traverse City, MI)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Licensed clinical psychologist in Traverse City, MI (NPI 1720384415, ~30 yrs experience); matches reported 'psychologist / self.' Out-of-state $5 donor to Gina Ortiz Jones (2025). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://npiprofile.com/npi/1720384415",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "476b2cb6-e8d2-4458-b308-49aa08507d4b",
+  "name": "Weese, Matthew",
+  "resolved_employer": "Colorado Department of Military and Veterans Affairs (DMVA) – Environmental & Hazmat Inspector/Trainer",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Environmental and Hazmat Inspector & Trainer for the Colorado Dept. of Military and Veterans Affairs (state civil servant, not a defense contractor); occupation ('Environmental') and employer ('DMVA') match. Out-of-state $5 donor to Gina Ortiz Jones (2025). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://dmva.colorado.gov/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "46df56c0-9d69-419d-8e0c-e141ade18872",
+  "name": "Barker, Krizia",
+  "resolved_employer": "\"Prime fox\" (reported) – Executive Assistant, Los Angeles",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Reported executive assistant at 'Prime fox,' Los Angeles. A Los Angeles-area 'Krizia' executive assistant appears on LinkedIn but could not be conclusively matched to this donor or to the named employer. $5 donor to McKee-Rodriguez (2021). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://www.linkedin.com/in/krizia-e-82a66162/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "46588f84-8463-4fe2-b8f9-52f0351c508b",
+  "name": "Heron, Damion",
+  "resolved_employer": "JPMorgan Chase (Chicago) – VP, Midwest Region Community & Stakeholder Engagement (Corporate Responsibility)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "JPMorgan Chase corporate-responsibility executive (VP) leading community/stakeholder engagement across a 14-state Midwest region; oversees a $6M community-development grant portfolio and CRA services. Reported 'Community Relations Officer / JPMC' matches. Chicago civic board seats (Civic Federation, Leadership Greater Chicago) are local civic roles unrelated to any tracked SA policy spectrum. Out-of-state $5 donor to McKee-Rodriguez and Castillo (2021). No arena/charter/PAC/lobbyist tie relevant to this pipeline.",
+  "source_url": "https://www.chicagobusiness.com/awards/damion-heron",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "45c655a6-69bc-4831-9aa7-cdb4f194084f",
+  "name": "POINTDUJOUR, EDITH",
+  "resolved_employer": "Trinity Christian Center (church, NJ) – Administrative Assistant",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Reported administrative assistant at Trinity Christian Center (a NJ church; employment is at a religious nonprofit). No distinct public profile found, but occupation + employer corroborate an ordinary church-office worker. Out-of-state $5 donor to McKee-Rodriguez and Castillo (2021). No PAC/lobbyist/arena/charter tie; private church employment carries no policy-advocacy component in scope for this pipeline.",
+  "source_url": "https://www.tcc-nj.org/about",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "41ea2561-e635-4e8a-b4ad-c12a6ca58eaf",
+  "name": "Thayer, Darryl",
+  "resolved_employer": "Self-employed solar designer (Watkins, MN)",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Reported solar designer, self-employed, in rural Minnesota. A prominent Minneapolis IBEW Local 292 solar-training instructor named Darryl Thayer exists, but the geographic/self-employed mismatch means I cannot confirm they are the same person, so no Labor affiliation is recorded. Out-of-state $5 donor to Gina Ortiz Jones (2025). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://www.linkedin.com/in/darryl-thayer-a20b306",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "41970a3e-e3ee-4174-8da3-8394490b60b7",
+  "name": "Jasso, Issiah",
+  "resolved_employer": "Self-employed DJ (San Antonio); a same-named SA LinkedIn lists an accountant at GFR Development Services (unconfirmed match)",
+  "industry": "Entertainment",
+  "confidence": "low",
+  "evidence": "San Antonio (78240) resident reported as 'DJ / Self Employed.' A San Antonio LinkedIn 'Issiah Jasso' lists an accountant role at GFR Development Services, but the occupation mismatch (DJ vs accountant) prevents confident identification of the same person; classifying by the filer-reported occupation. $5 donor to McKee-Rodriguez (2022). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://www.linkedin.com/in/issiah-jasso-690743a8/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3f13f215-0b24-4cea-9040-bfae1beb405c",
+  "name": "Litwak, Taina",
+  "resolved_employer": "USDA Agricultural Research Service, Systematic Entomology Laboratory (at the Smithsonian NMNH) – scientific illustrator",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Distinctive name confirms the USDA-ARS scientific illustrator (Systematic Entomology Laboratory, based at the Smithsonian); UConn biology/printmaking grad, runs Litwak Illustration Studio. Matches reported 'scientific illustrator / US Dept. of Agriculture.' $5 donor to Gina Ortiz Jones (2025). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://agresearchmag.ars.usda.gov/2014/sep/insect",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2b7f049a-45fe-4841-b782-74d08836fea2",
+  "name": "Bearden, Robert",
+  "resolved_employer": "FCGA Architecture (Bay Area) – Project Manager / Contract Administrator / Specification Writer",
+  "industry": "Architecture",
+  "confidence": "medium",
+  "evidence": "Reported 'Manager / FCGA'; FCGA is FCGA Architecture, where a Robert Bearden works as project manager/spec writer in the Bay Area — consistent with the Oakland, CA address. Out-of-state $5 donor to Gina Ortiz Jones (2025). No PAC/lobbyist/arena/charter tie.",
+  "source_url": "https://www.linkedin.com/in/robert-bearden-b6437a13",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2b3b2dc8-d036-4038-a614-502c48a220ba",
+  "name": "Cruz, Maricella",
+  "resolved_employer": "Bunzl SW (Bunzl Distribution, wholesale/distribution) – Customer Service",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Converse, TX (78109) resident reported as customer service at 'Bunzl sw' (Bunzl Distribution, a wholesale/distribution company). A prolific small-dollar donor (125 FEC gifts, Dem lean) but no leadership, PAC-officer, lobbyist, arena, or charter role — an ordinary high-frequency ActBlue-style giver. $5 donor to Gina Ortiz Jones (2025).",
+  "source_url": "https://www.bunzldistribution.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

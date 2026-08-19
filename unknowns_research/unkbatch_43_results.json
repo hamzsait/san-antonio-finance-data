@@ -1,0 +1,231 @@
+[
+ {
+  "donor_id": "bebe7dd9-9e80-4f8c-99a6-1ce70f49dd0d",
+  "name": "Darby, Jared",
+  "resolved_employer": "Markforged",
+  "industry": "Technology",
+  "confidence": "high",
+  "evidence": "Senior Manager, Customer Experience/Support at Markforged, a Waltham, MA-based 3D-printing/additive-manufacturing company; West Newton (02465) is adjacent to HQ. LinkedIn confirms ~5.5 years at Markforged.",
+  "source_url": "https://www.linkedin.com/in/jaredmdarby/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "bc8825b7-cf90-4367-9a09-8639e43345da",
+  "name": "Mousseau, Alicia",
+  "resolved_employer": "National Native Children's Trauma Center (University of Montana)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Dr. Alicia Mousseau, clinical psychologist and training/technical-assistance specialist at the National Native Children's Trauma Center, from Porcupine, SD (Pine Ridge Reservation); also elected Vice President of the Oglala Sioux Tribe and first out LGBTQ member of its executive council.",
+  "source_url": "https://en.wikipedia.org/wiki/Alicia_Mousseau",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Oglala Sioux Tribe", "role": "Vice President (elected)", "category": "political", "source_url": "https://www.lgbtqnation.com/2020/12/vice-president-alicia-mousseau-first-lgbtq-person-oglala-sioux-tribes-executive-council/", "snippet": "Dr. Alicia Mousseau is the first out person on the Oglala Sioux Tribe's executive council, serving as Vice President."}
+  ]
+ },
+ {
+  "donor_id": "ba3bdb68-85d9-48c1-8e13-f52e7ca36055",
+  "name": "Nash, Richard",
+  "resolved_employer": "Self-employed (public speaking / startup pitch coach)",
+  "industry": "Self-Employed",
+  "confidence": "medium",
+  "evidence": "San Antonio-based self-employed public-speaking and startup pitch coach, UTSA graduate; matches occupation and 12903 Pronghorn Oak (78253). High FEC count (158) reflects a prolific small-dollar ActBlue-style donor; no ideological PAC, arena, or charter ties surfaced.",
+  "source_url": "https://txweddingministers.com/officiants/minister-richard-nash/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b678965d-4cbe-4f9d-9ea1-cafc5d26d865",
+  "name": "Ballance, Dennis",
+  "resolved_employer": "CertainTeed / Saint-Gobain (purchasing)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "LinkedIn lists Dennis Ballance as an experienced purchasing professional at Saint-Gobain (CertainTeed's parent), a building-materials manufacturer, in the Atlanta area; Roswell is an Atlanta suburb, matching zip 30076.",
+  "source_url": "https://www.linkedin.com/in/dennisballance/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ad4f29cc-6004-4402-890f-70c90f355bb9",
+  "name": "Rodriguez, Asurca",
+  "resolved_employer": "Advanced Resources (Chicago staffing/recruitment firm)",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Chicago-area analyst; Advanced Resources is a Chicago-headquartered staffing/consulting/workforce-solutions firm matching zip 60613. A LinkedIn for an Asurca Rodriguez shows a later move to The Resource Group (spend management); consistent identity but employer-at-time only weakly corroborated.",
+  "source_url": "https://www.linkedin.com/in/asurcarodriguez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a8256d0f-88c2-4470-96cf-b4c5dbda25f3",
+  "name": "Gutierrez, Ivania",
+  "resolved_employer": "The Lilith Fund for Reproductive Equity",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Communications Coordinator at the Lilith Fund, a Texas reproductive-justice abortion fund; San Antonio-based communications/social-media strategist and reproductive-rights advocate. LinkedIn and org pages confirm role.",
+  "source_url": "https://www.linkedin.com/in/ivaniagtz/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "The Lilith Fund for Reproductive Equity", "role": "Communications Coordinator", "category": "civic", "source_url": "https://www.lilithfund.org/weve-grown-welcoming-the-newest-members-of-the-lilith-fund-team/", "snippet": "Lilith Fund welcomed new team members including Ivania Gutierrez; she works in communications for the reproductive-equity abortion fund serving Austin, Houston, and San Antonio."}
+  ]
+ },
+ {
+  "donor_id": "a8076c6b-17c4-461f-a174-00ba0bed5a70",
+  "name": "sohn, juliana",
+  "resolved_employer": "Self-employed (photographer)",
+  "industry": "Media",
+  "confidence": "high",
+  "evidence": "Juliana Sohn is a New York-based Korean American professional/fine-art and portrait photographer (published in Time, New York Magazine, Martha Stewart Living); self-employed, matching NYC zip 10003 and 'photographer / self'.",
+  "source_url": "https://www.julianasohn.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a73c8dd9-c769-4ba3-b297-e32f2d3c595c",
+  "name": "Coronado, Michele",
+  "resolved_employer": "Bexar County Sheriff's Office (accounting clerk)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Accounting clerk at the Bexar County Sheriff's Office (BCSO), a county law-enforcement agency in San Antonio. No public profile beyond employer; classified by employer. No PAC, lobbyist, arena, or charter connections found.",
+  "source_url": "https://www.bexar.org/600/Sheriffs-Office",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a1817dfe-dd2a-4286-8df7-e4573ebf1d80",
+  "name": "Perez, Ashley",
+  "resolved_employer": "SAY Sí (Director of Visual Arts Program)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "San Antonio artist and longtime educator; SAY Sí alumna who now directs its Visual Arts Program and serves as Art Ambassador at the San Antonio River Foundation (UTSA BFA 2010). 77 small FEC gifts consistent with recurring ActBlue-style giving; no ideological PAC, lobbyist, arena, or charter-network role found.",
+  "source_url": "https://sariverfound.org/ashley-perez/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9dde7369-7081-4880-8cec-3d255eb168f0",
+  "name": "Murphy, Leland",
+  "resolved_employer": "University of Texas at Austin (Resident Assistant)",
+  "industry": "Student",
+  "confidence": "high",
+  "evidence": "UT Austin Government undergraduate (Liberal Arts Honors) who worked as a Resident Assistant, Orientation Advisor and Peer Mentor; also interned for TX Rep. Jasmine Crockett. RA is a student-staff role. No PAC, lobbyist, arena, or charter affiliations found.",
+  "source_url": "https://www.linkedin.com/in/lelandmurphy",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9c6ea991-5118-4019-8ed0-cc381f568fdf",
+  "name": "Bergin, Kristin",
+  "resolved_employer": "St. Joseph, Husband of Mary Roman Catholic Church (communications coordinator)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Las Vegas resident (zip 89117 matches the parish at 7260 W Sahara Ave). Handled communications/social media for St. Joseph, Husband of Mary parish; later Senior Educator at The Mob Museum (Winona State grad). Employer at donation time is a religious nonprofit. No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://theorg.com/org/the-mob-museum/org-chart/kristin-bergin",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9b63c79d-2ecb-4ac2-bef3-ff6feb03ec1f",
+  "name": "Ytuarte, Krysta",
+  "resolved_employer": "Waste Management (WM), claims adjuster",
+  "industry": "Energy / Environment",
+  "confidence": "low",
+  "evidence": "San Antonio resident (zip 78223), listed as an adjuster at Waste Management. A 'Krysta Ytuarte' also appears as a San Antonio insurance agent, plausibly the same person given the claims/insurance function, but identity not fully confirmed. Classified by stated employer WM (waste/environmental services). No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.insurehopper.com/agent-profile?agent_id=MjY1NzQz",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9ae84ef4-8700-40ba-b980-38c225a354f0",
+  "name": "Franklin, Christan",
+  "resolved_employer": "Optum (Optum Technology) - Principal/Lead Business Systems Analyst",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "San Antonio-area analyst at Optum (UnitedHealth Group's health-services/tech arm); LinkedIn shows a CBAP-certified Principal Business Systems Analyst / Lead Tech Product Manager (UTSA BA), with prior roles at Whataburger and Clear Channel. 198 small FEC gifts consistent with recurring small-dollar giving; no ideological PAC, lobbyist, arena, or charter role found.",
+  "source_url": "https://www.linkedin.com/in/christan-franklin-92885723/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "99602bda-40b9-498b-8f6b-680f6962b814",
+  "name": "Cerecedes, Christian",
+  "resolved_employer": "Centene (LVN)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "San Antonio resident (zip 78252), Licensed Vocational Nurse at Centene, a managed-care/health-insurance company with LVN roles in San Antonio. No distinct public profile; classified by occupation and employer. No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://jobs.centene.com/us/en/jobs/1546642/lvn-coordinator/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "973f879b-f64f-42f7-bd47-a27fc7882acb",
+  "name": "Hinojosa, Ashley",
+  "resolved_employer": "American Campus Communities",
+  "industry": "Real Estate",
+  "confidence": "low",
+  "evidence": "Bookkeeper at American Campus Communities, a student-housing REIT; occupation/employer match the donor record. No public profile firmly tied to zip 78258; identity only partially corroborated. No ideological PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.wayup.com/i-Human-Resources-j-American-Campus-Communities-637907653532734/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8e4b11ac-b2df-4f8c-b280-e9e144918ae4",
+  "name": "Hutchinson, George",
+  "resolved_employer": "Invictus Medical, Inc. (CEO)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "CEO (formerly CTO, appointed 2014) of Invictus Medical, a San Antonio pediatric medical-device company; PhD, 16+ patents, prior roles at KCI and GE Healthcare. Corroborated by LinkedIn, PRWeb and company PR. High FEC count (107) appears to be small-dollar giving; no ideological PAC, TX lobbyist, arena, or charter ties found.",
+  "source_url": "http://www.invictusmed.com/wp-content/uploads/PR-6-23-14.pdf",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Invictus Medical, Inc.", "role": "Chief Executive Officer", "category": "business", "source_url": "https://www.linkedin.com/in/george-hutchinson-3406024/", "snippet": "George Hutchinson - Chief Executive Officer at Invictus Medical, a San Antonio TX medical-device company."}
+  ]
+ },
+ {
+  "donor_id": "8b14055c-b999-4b57-8e8e-46039831a459",
+  "name": "Morales, Juan",
+  "resolved_employer": "Cisco Systems (financial analyst)",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Financial analyst at Cisco Systems, Seattle WA. Very common name; no LinkedIn/public profile could be uniquely matched to zip 98125. Categorized by stated employer (Cisco = Technology). No ideological PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.careerbliss.com/cisco-systems/salaries/financial-analyst/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "894dc165-9825-4704-99db-5d97e7965df6",
+  "name": "Conroy, Michael",
+  "resolved_employer": "Martha's Vineyard Savings Bank (Martha's Vineyard Bank)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "System Administrator at Martha's Vineyard Savings Bank (now Martha's Vineyard Bank), Vineyard Haven MA. No individual public profile found to corroborate identity at zip 02568; categorized by stated employer (community bank = Finance). No ideological PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.mvbank.com/marthas-vineyard-banks-history",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "890a1a00-cfd5-4aa6-bcf5-adf048ec8276",
+  "name": "Flores, Cristina",
+  "resolved_employer": "Self-employed (soprano/performing artist)",
+  "industry": "Entertainment",
+  "confidence": "high",
+  "evidence": "Mexican-American soprano and actress based in San Antonio (originally Laredo); self-employed solo performer. Board President of One Ounce Opera and a committee member on the San Antonio Arts Commission advising the Mayor and City Council on arts funding. Corroborated by her own site and getcreativesanantonio.com. FEC count (26) consistent with small-dollar giving; no ideological PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://events.getcreativesanantonio.com/artist/cristina-flores/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "One Ounce Opera", "role": "Board President", "category": "civic", "source_url": "https://www.cristinaflores.me/", "snippet": "Currently sits on the board (Board President) of One Ounce Opera, a nonprofit arts producer presenting accessible musical events."},
+   {"org": "San Antonio Arts Commission", "role": "Committee member", "category": "civic", "source_url": "https://events.getcreativesanantonio.com/artist/cristina-flores/", "snippet": "Serves as a committee member under the San Antonio Arts Commission, advising the Mayor and City Council on arts funding and public art initiatives."}
+  ]
+ },
+ {
+  "donor_id": "883cbf07-9ef7-4ed7-9abb-b9a43c7c3660",
+  "name": "Ferrier, Elliott",
+  "resolved_employer": "WebMD (sales)",
+  "industry": "Media",
+  "confidence": "low",
+  "evidence": "Sales role at WebMD (online health-information publisher). A LinkedIn profile for Elliott Ferrier lists a sales strategist/business-development background, but current listing shows a different firm, so WebMD tenure is per the donor record and not fully corroborated. WebMD categorized as health media/publishing. No ideological PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.linkedin.com/in/elliottferrier/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

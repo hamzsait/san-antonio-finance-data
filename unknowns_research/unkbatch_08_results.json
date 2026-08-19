@@ -1,0 +1,222 @@
+[
+ {
+  "donor_id": "1064c0c6-833e-404a-94e9-8be35e64db7c",
+  "name": "DeLaGarza, Raul",
+  "resolved_employer": "Delmar Construction Group, LLC (San Antonio sidewalk/curb contractor at 12322 Pecos Vly)",
+  "industry": "Construction",
+  "confidence": "medium",
+  "evidence": "Address 12322 Pecos Vly, San Antonio matches the listed business address of Delmar Construction Group, LLC, a City-of-SA sidewalk & curb contractor; a Raul Delagarza is listed as personnel of that firm. Gave $500 to Marc Whyte. The input 'zip' 12322 is actually the street number; residence 78254. Occupation field was blank, so the construction tie rests on address match rather than filer-reported occupation.",
+  "source_url": "https://www.buildzoom.com/contractor/delmar-construction-group-llc",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "104b80ee-fcf3-4410-88bf-48534eee3892",
+  "name": "Newman, John",
+  "resolved_employer": "Self-employed business analyst (per filer-reported occupation)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Filer-reported as self-employed business analyst at 203 Bushnell Ave, San Antonio 78212; input notes 3 FEC donations with a 0.79 Democratic partisan lean. No distinct public professional profile confirmable beyond the self-reported occupation; no PAC/lobbyist/arena/charter ties found. Gave $500 to Sukh Kaur.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0eae2398-d911-4aa7-87d3-f65a77464c47",
+  "name": "Quintanilla, Jean",
+  "resolved_employer": "Self-employed (per filer-reported occupation)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Houston-area donor, filer-reported occupation/employer 'SELF'; address 1401 Fairview, Houston with an inconsistent/erroneous zip. No FEC donation history (fec_donation_count 0) and no identifiable public profile; no PAC/lobbyist/arena/charter ties found. Gave $500 to Teri Castillo.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0aebb8f8-ad41-4265-8d01-4b1c81befd03",
+  "name": "Rodriguez, Ruben",
+  "resolved_employer": "Owner, Ruben's Food Truck (San Antonio mobile food vendor)",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Filer-reported as owner of Ruben's Food Truck, 303 Covington Rd, San Antonio 78220; a San Antonio-area food truck of that name operates publicly. Small food-service business owner with no other public footprint; no PAC/lobbyist/arena/charter ties found. Gave $500 to Jalen McKee-Rodriguez.",
+  "source_url": "https://www.rubensfoodtruck.com/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0a72f348-0b49-490a-b39b-5fc88681dd38",
+  "name": "Castillo Campaign, Teri",
+  "resolved_employer": "Teri Castillo campaign committee (San Antonio City Council District 5)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Filer fields 'D5'/'Cosa' identify this as the campaign committee of Teri Castillo, City Council District 5 councilmember, making a candidate-to-candidate transfer of $500 to Ric Galvan (D6). Castillo publicly endorsed Galvan, who worked in her D5 office; this is a political committee, not a private individual.",
+  "source_url": "https://sanantonioreport.org/profile/ric-galvan-2025-san-antonio-city-council-district-6-candidate/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [{"org": "Teri Castillo for City Council (District 5)", "role": "candidate campaign committee (contributor)", "category": "political", "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/City-Council/D5/Biography", "snippet": "Teri Castillo is the City of San Antonio District 5 councilmember; her campaign committee made a candidate-to-candidate transfer to Ric Galvan, whom she endorsed and who worked in her D5 office."}]
+ },
+ {
+  "donor_id": "0a05a29a-7d52-4239-94d8-4e5235db9347",
+  "name": "Here Tip, Unite",
+  "resolved_employer": "UNITE HERE TIP State and Local Fund (hospitality/hotel workers' union political fund)",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Not an individual: this is the UNITE HERE TIP State and Local Fund, the political fund of the UNITE HERE hospitality workers' union. Filer address 275 7th Ave, 16th Floor, NY 10001 matches UNITE HERE HQ / the fund's registered address in FEC and state 527 filings. Gave $500 to Ric Galvan.",
+  "source_url": "https://docquery.fec.gov/cgi-bin/forms/C90013376/1244328",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [{"org": "UNITE HERE TIP State and Local Fund", "role": "labor union political fund (contributor entity)", "category": "political", "source_url": "https://eap.ethics.la.gov/cfsearch/LA-99640.pdf", "snippet": "UNITE HERE TIP State and Local Fund, 275 Seventh Avenue, 16th Floor, New York NY 10001 — the hospitality workers' union's state/local political fund, filing as a 527/PAC that contributes to Democratic candidates."}]
+ },
+ {
+  "donor_id": "09940a8a-7549-4291-8dd2-1d5025a2a947",
+  "name": "Castillo, Victoria",
+  "resolved_employer": "Saks Fifth Avenue (personal shopper)",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Filer-reported occupation 'Personal Shopper' and employer 'SAKS' point to a Saks Fifth Avenue retail associate at the San Antonio store; zip 78248 is a north-side SA residential area. No independent public profile beyond the filer record; 51 small FEC donations (lean 0.67) are consistent with routine small-dollar retail-donor giving, not PAC influence. Gave $500 to Marina Gavito.",
+  "source_url": "https://www.saksfifthavenue.com/locations/sanantonio/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "063142de-4330-4047-b4ca-bb3ba8e06610",
+  "name": "York, Evan",
+  "resolved_employer": "The Gathering Place (San Antonio public charter school; closed May 2025)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Filer-reported employer 'The Gathering Place' is a San Antonio arts/social-justice public charter school (co-founded by Ryan York and Asia Klekowicz; opened 2020, closed May 2025); occupation 'Education'. Could not independently confirm the specific individual 'Evan York' (public record shows co-founder Ryan York, possibly a relative), so identity confidence is low; the charter-employer tie rests on the candidate's own schedule filing. Gave $500 to Sukh Kaur.",
+  "source_url": "https://sachartermoms.com/school/thegathering-place/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [{"org": "The Gathering Place", "role": "education staff (per candidate schedule filing)", "category": "charter_school", "source_url": "https://sanantonioreport.org/two-applicants-look-to-open-new-charter-schools-in-san-antonio/", "snippet": "The Gathering Place is a free public charter school in San Antonio; the filer-reported employer places this donor as staff of a charter-sector school (charter employment is the documented tie)."}]
+ },
+ {
+  "donor_id": "03b36ef5-a38c-43e7-b3d1-efb621eeb449",
+  "name": "Mante, Kelly",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation/employer reported (NA). Zip 78249 is a far-northwest SA area within Northside ISD; a possible but unconfirmed name-variant match exists (Kelly Mantle), but the surname differs and no FEC/lobbyist record corroborates identity. Insufficient evidence to classify an industry. Gave $500 to Sukh Kaur.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "03ab9cd7-85ca-46ae-857f-cd189ef7fd4f",
+  "name": "Valdez-Hernandez, Mary",
+  "resolved_employer": "Not working (per filer-reported occupation)",
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Filer-reported occupation 'Not Working' and employer 'N/A'; zip 78258 is a far-north SA residential area. No FEC PAC, lobbyist, arena, or charter-sector record found; no public profile beyond common-name directory hits. Ordinary non-working resident with no discoverable political footprint. Gave $500 to Teri Castillo.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "03a49158-adc4-44ad-a97c-eb34d2302a76",
+  "name": "Kelly, Tom",
+  "resolved_employer": "Falcon Aviation (pilot)",
+  "industry": "Transportation",
+  "confidence": "low",
+  "evidence": "Filer-reported as a pilot at 'Falcon Aviation' living at 1110 99th St, San Antonio 78234 (Fort Sam Houston area). No public profile could confirm the specific individual; searches returned only unrelated San Antonio aviation firms. No PAC/lobbyist/arena/charter ties found. Gave $500 to Phyllis Viagran.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "038fbeb9-ba7a-4c38-849d-77fea12e4d1f",
+  "name": "Blackburn, Kimberly",
+  "resolved_employer": "Blackburn Properties (San Antonio real estate firm)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Donor's listed address, 8100 Broadway St, San Antonio 78209, matches the business address (Suite 205) of Blackburn Properties, a San Antonio real-estate/development firm (est. 1995, owner Paul Blackburn / PKB Development). Kimberly Blackburn appears at that address, indicating affiliation with the family real-estate business rather than an ordinary resident. Gave $500 to Phyllis Viagran.",
+  "source_url": "https://us.centralindex.com/company/470509808627712/blackburn-properties/san-antonio",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [{"org": "Blackburn Properties", "role": "affiliated (address/business)", "category": "business", "source_url": "https://www.manta.com/c/mm052q2/blackburn-properties", "snippet": "Blackburn Properties, established 1995, is a full-service San Antonio real estate firm at 8100 Broadway Suite 205; Texas records list construction projects under owner Paul Blackburn."}]
+ },
+ {
+  "donor_id": "2ce74e1a-3f36-4ffd-84a6-7d0cebed1640",
+  "name": "Viagran, Crystal",
+  "resolved_employer": "University of Texas at Austin (director-level staff; Hogg Foundation for Mental Health)",
+  "industry": "Education",
+  "confidence": "medium",
+  "evidence": "Crystal Viagran is an Austin-based Texas public-university staffer associated with UT Austin's Hogg Foundation for Mental Health; filer occupation 'Director' and employer 'UT Austin' match, address 603 Allen St, Austin 78702. Surname and giving to D3 Councilmember Phyllis Viagran suggest a possible family tie, but no public source documents a relationship, so none is asserted. No PAC/lobbyist/arena/charter ties found.",
+  "source_url": "https://hogg.utexas.edu/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f1f011a9-eeab-4bc0-a9e2-962d520f5897",
+  "name": "Padilla, Patricia",
+  "resolved_employer": "San Antonio Metropolitan Health District (retired healthcare worker)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Filer-reported as a retired healthcare worker for 'MetroHealth' = San Antonio Metropolitan Health District (city public-health department), living at 254 E Quill, San Antonio 78228. Common name; no other public political/advocacy footprint surfaced. Ordinary retired public-health worker. Gave $400 total to Marina Gavito.",
+  "source_url": "https://www.sa.gov/Directory/Departments/SAMHD",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a9cadd68-5ebc-444f-8930-944f3aa2b30e",
+  "name": "Roberts, Jacqueline",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "medium",
+  "evidence": "Jacqueline Roberts at 818 N Olive St, San Antonio 78202 is listed as Treasurer of the Dignowity Hill Neighborhood Association (Dignowity Hill is the East-side historic district in 78202; she gave to D2 Councilmember Jalen McKee-Rodriguez, whose district covers the area). No occupation/employer reported; identity anchored by neighborhood + civic role. No PAC/lobbyist/arena/charter ties found.",
+  "source_url": "https://www.dignowityhill.org/board",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [{"org": "Dignowity Hill Neighborhood Association", "role": "Treasurer", "category": "civic", "source_url": "https://www.zoominfo.com/p/Jacqueline-Roberts/17658885152", "snippet": "Jacqueline Roberts is listed as Treasurer at Dignowity Hill Neighborhood Association, the East-side (78202) historic neighborhood association."}]
+ },
+ {
+  "donor_id": "89d7dac7-7fbc-4513-917c-f80432301073",
+  "name": "Block, Robinson",
+  "resolved_employer": "Houston Fire Department (firefighter)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Robinson Block, a Houston firefighter (77009), whose small-dollar giving went to three progressive/DSA-aligned San Antonio council candidates (Galvan, McKee-Rodriguez, Castillo); occupation/employer match the filer schedule. A KeyWiki page lists his name in connection with Houston DSA; that single partisan-wiki source is weak, so the DSA tie is recorded at medium confidence with the source noted.",
+  "source_url": "https://www.keywiki.org/Houston_Democratic_Socialists_of_America",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [{"org": "Houston Democratic Socialists of America (DSA)", "role": "listed member/participant (single-source)", "category": "political", "source_url": "https://www.keywiki.org/Houston_Democratic_Socialists_of_America", "snippet": "Robinson Block is listed among members/participants associated with Houston Democratic Socialists of America; SA giving concentrated on DSA-aligned progressive candidates. Source is a partisan wiki; treat as weak."}]
+ },
+ {
+  "donor_id": "a4567021-e8a5-4e8d-9937-746251dd0235",
+  "name": "Rodriguez, Tanya",
+  "resolved_employer": "Hormel Foods (Senior Cultural Anthropologist / consumer insights)",
+  "industry": "Retail",
+  "confidence": "high",
+  "evidence": "Dr. Tanya Rodriguez, senior cultural anthropologist at Hormel Foods, originally from San Antonio, PhD in cultural anthropology from UW-Madison. Occupation ('Cultural Anthropologist') and employer ('Hormel Foods') match the filing exactly; SA origin corroborates the 78250 address. No PAC/lobbyist/arena/charter ties found. Gave $300 to Ric Galvan.",
+  "source_url": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-senior-cultural-anthropologist-dr-tanya-rodriguez-my-job-is-to-question-everything/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "92745afa-2ff3-444d-b1a6-461774b9ef02",
+  "name": "Denoncour, Andrew",
+  "resolved_employer": "Firstmark Credit Union (VP of Innovation)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Andrew Denoncour, VP of Innovation at Firstmark Credit Union, San Antonio; UTSA political science graduate. Occupation, employer and San Antonio location all match the filing. No arena/charter/lobbyist/PAC ties surfaced. Gave $300 to 2025 D8 candidate Sakib Shaikh.",
+  "source_url": "https://theorg.com/org/firstmark-credit-union/org-chart/andrew-denoncour",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "8f38e678-4ed3-47cf-8cb3-d664a92541d8",
+  "name": "Figueroa Jones, Brenda",
+  "resolved_employer": "Southwest ISD (coordinator)",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Filer schedule reports Brenda Figueroa Jones as a coordinator at Southwest ISD, a public school district, near Saint Hedwig (78152). No independent public profile, lobbyist registration, charter/advocacy role, or PAC tie found; district employment alone maps to Education industry, not public-school advocacy. Gave $300 to Phyllis Viagran.",
+  "source_url": "https://www.swisd.net/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "7e60b704-1c33-4efe-8f28-05e93b0ab7cd",
+  "name": "COPE, ATU",
+  "resolved_employer": "Amalgamated Transit Union - Committee on Political Education (federal labor union PAC)",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "ATU COPE is the Amalgamated Transit Union's federal PAC (FEC ID C00032995, a labor-organization separate segregated fund), HQ at 10000 New Hampshire Ave, Silver Spring MD, which matches the filing. It is an institutional labor PAC, not a private individual. Gave $300 to Ric Galvan.",
+  "source_url": "https://www.fec.gov/data/committee/C00032995/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [{"org": "Amalgamated Transit Union - COPE", "role": "federal labor union political action committee", "category": "political", "source_url": "https://www.fec.gov/data/committee/C00032995/", "snippet": "ATU-COPE is a separate segregated fund of the Amalgamated Transit Union used to elect pro-labor, pro-transit candidates; FEC ID C00032995."}]
+ }
+]

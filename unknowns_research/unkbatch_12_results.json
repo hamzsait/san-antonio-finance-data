@@ -1,0 +1,230 @@
+[
+ {
+  "donor_id": "f08fe42a-8d1d-4595-aa4b-7399c8ff2e4a",
+  "name": "Hill, Amanda",
+  "resolved_employer": "AVTS (per filing; unverified)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Small San Antonio (78251) donor listing occupation 'Project coordinator' at 'AVTS.' No public record ties this specific person to the employer; common name returns unrelated San Antonio Amanda Hills (St. Mary's professor, sonographer). Could not confirm.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ff8a1e53-fad6-48b0-bcdc-27ca6e2d6307",
+  "name": "Salinas, David",
+  "resolved_employer": "In-N-Out Burger",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Dallas (75240) donor, occupation 'Sanitation Technician' at In-N-Out Burger per filing. Common name with no confirmable public footprint; industry assigned from employer (fast-food restaurant) as fallback. No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fdfcce82-7044-4838-9c83-fabc5179221f",
+  "name": "Rasoul, Sam",
+  "resolved_employer": "Virginia House of Delegates (State of Virginia)",
+  "industry": "Government",
+  "confidence": "high",
+  "evidence": "Sam Rasoul is the Democratic member of the Virginia House of Delegates for District 38 (Roanoke), first elected 2014, chair of the House Education Committee, and the first Palestinian-American / one of few Muslim members of the VA General Assembly. Filing occupation 'State'/'Virginia' matches. He publicly declines PAC and lobbyist money. Donated to fellow Muslim-American candidate Sakib Shaikh.",
+  "source_url": "https://en.wikipedia.org/wiki/Sam_Rasoul",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+    {"org": "Virginia House of Delegates", "role": "Member (Democrat), District 38; Chair, House Education Committee", "category": "political", "source_url": "https://house.vga.virginia.gov/members/H0266", "snippet": "Sam Rasoul serves as a member of the Virginia House of Delegates from the 38th district; chairman of the House Education Committee, one of the Muslim members of the Virginia General Assembly."}
+  ]
+ },
+ {
+  "donor_id": "f8de07d4-813f-4905-bc8c-1d0123d40522",
+  "name": "Jaweed, Mohammed",
+  "resolved_employer": "Galaxy Food Mart (per filing)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "San Antonio (78230) donor to Muslim-American D8 candidate Sakib Shaikh; occupation 'Manager' at a food mart (convenience store) per filing. Common name; no confirmable public record for this specific individual. Industry assigned from employer type as fallback.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f2977535-65db-45be-a9a3-ef0faf9d0f36",
+  "name": "Siddiqui, Asad",
+  "resolved_employer": "Self-employed (employment services)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "San Antonio (78250) donor to Muslim-American D8 candidate Sakib Shaikh; self-employed in 'employment services' per filing. Common name; no confirmable public footprint, no FEC PAC or TX lobbyist record found. Industry from self-employed status.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f1249077-9821-48f6-8301-ffe7fa133f22",
+  "name": "Ruenes, Theresa",
+  "resolved_employer": "Diocese of Dallas (Catholic Diocese of Dallas)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Donor record lists employer Diocese of Dallas with occupation 'Development' (i.e., a fundraising/development role at the Catholic diocese); address in Frisco/Parker TX metro. Catholic Diocese of Dallas confirmed as a real employer via TSHA/diocesan pages. Could not individually confirm her specific bio online. No FEC PAC, TX/SA lobbyist, arena/Project Marvel, or charter-school activity found.",
+  "source_url": "https://www.tshaonline.org/handbook/entries/dallas-catholic-diocese-of",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f037f167-f9b3-492a-aa0d-07cb6714ec52",
+  "name": "Awan, Ahsan",
+  "resolved_employer": "PPD (Pharmaceutical Product Development, a clinical research organization)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Donor record: occupation 'ClinOps' (clinical operations) at PPD, a global contract research organization; San Antonio 78257 resident who gave to San Antonio D8 candidate Sakib Shaikh. PPD is a documented CRO. Could not pin down this exact individual's LinkedIn/bio conclusively (multiple 'Ahsan Awan' profiles exist). No FEC PAC, lobbyist, arena, or charter-school activity found.",
+  "source_url": "https://ballotpedia.org/Sakib_Shaikh",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "eabf3dfe-a8e6-4b6c-8bf4-33e6a96582b2",
+  "name": "Payne, Melissa",
+  "resolved_employer": null,
+  "industry": "Not Employed",
+  "confidence": "low",
+  "evidence": "Donor self-reported both occupation and employer as 'Mom' (homemaker/not employed for pay); Parker, TX 75002. No distinguishing employer to resolve. Gave to progressive SA council members Jalen McKee-Rodriguez (D2) and Teri Castillo (D5). No FEC PAC, lobbyist, arena/Project Marvel, or charter-school activity identifiable for this common name.",
+  "source_url": "https://organizetexas.org/2023/06/top-congratulates-progressives-jalen-mckee-rodriguez-teri-castillo-on-re-election-to-san-antonio-city-council/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e787caf0-6b48-4399-9229-e8bec16e9137",
+  "name": "Horstmann, Tyler",
+  "resolved_employer": "REV Mortgage ('The Horstmann Group' is his mortgage-origination team)",
+  "industry": "Finance",
+  "confidence": "high",
+  "evidence": "Tyler Horstmann is a licensed mortgage loan officer / Senior Loan Originator at REV Mortgage, San Antonio 78229 (NMLS #1858401). 'The Horstmann Group' is his branded mortgage-lending team, NOT a real-estate-development firm and NOT arena/Project Marvel-adjacent. Full REV Mortgage bio contains no board seats, advocacy, or development/arena roles. He gave to Republican-aligned council candidates Misty Spears and Marc Whyte (D10), but no documented PAC, lobbyist, arena, or charter affiliation found.",
+  "source_url": "https://www.gorevmortgage.com/team-member/tyler-horstmann/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e50f0d27-4ebf-4f44-8489-ddc67cf50c76",
+  "name": "Ferrer, Joseph",
+  "resolved_employer": "Syneos Health",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Donor record: Pharmaceutical Sales Manager at Syneos Health (a biopharma solutions/contract sales organization), San Antonio 78230; gave to Ivalis Gonzalez (D8). Syneos Health confirmed as a real employer; could not individually verify this exact Joseph Ferrer's profile (a 'Jerry Ferrer' also works at Syneos in SA, likely different). No FEC PAC, lobbyist, arena/Project Marvel, or charter-school activity found.",
+  "source_url": "https://en.wikipedia.org/wiki/Syneos_Health",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e43da90f-8551-4ed8-9a6a-aa0e4f80895a",
+  "name": "Garcia, Erika",
+  "resolved_employer": "TxDOT / Texas A&M University",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Donor data lists occupations 'State agency / Diversity education' with employers TxDOT and Texas A&M, both public/state entities based in College Station (77845). Web searches could not confirm the specific individual (common name; closest matches were unrelated 'Erica Garcia' faculty). No FEC PAC, TX lobbyist, arena, or charter ties found. Industry assigned on state-agency employer fallback.",
+  "source_url": "https://www.texastribune.org/2023/09/18/texas-am-dei-guidance/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e3a1e634-d113-4c77-90d1-f4399b74bb32",
+  "name": "Humayun, Jaffer",
+  "resolved_employer": "Pure Storage",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Donor data lists occupation 'Customer Success' at Pure Storage (enterprise data-storage tech company), Allen TX. A 'Jaffer Humayun' appears in a North Texas Cricket Association roster but no confirmatory employer/bio match. No FEC PAC contributions, TX lobbyist registration, arena, or charter ties found. Industry assigned on employer (technology company) fallback.",
+  "source_url": "https://cricclubs.com/NTCA/viewPlayer.do?playerId=292074&clubId=343",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dc034252-2320-4d70-b5e6-25ca4262c918",
+  "name": "Hussain, Syed Amjad",
+  "resolved_employer": "ASM Research",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Donor data lists occupation 'Batch ops & interface support analyst' at ASM Research, a federal IT contractor (Accenture Federal Services subsidiary, provides IT for the Military Health System), San Antonio 78249. Could not confirm the specific person among many 'Syed Hussain'/'Syed Amjad Hussain' profiles. No FEC PAC, TX lobbyist, arena, or charter ties found. IT-contractor employer = Technology fallback; employment at a federal/defense IT contractor is not documented advocacy, so no military_defense affiliation recorded.",
+  "source_url": "https://www.linkedin.com/in/syed-hussain-645234254/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d19df3c7-c13d-4093-a571-6fb2454cfc11",
+  "name": "Massiatte, Jason",
+  "resolved_employer": "Ma Hila's Heart Project (Hope at Heart Foundation)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed as President & CEO of Ma Hila's Heart Project, a San Antonio (Bexar County) nonprofit founded 2017 supporting families affected by childhood cancer (financial aid, counseling, grief support). Also listed as President & CEO of Hope at Heart Foundation. Featured by Social Venture Partners San Antonio. No FEC PAC, TX lobbyist, arena/Spurs, or charter-school ties found.",
+  "source_url": "https://www.zoominfo.com/p/Jason-Massiatte/1116585363",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+    {"org": "Ma Hila's Heart Project", "role": "President & CEO", "category": "civic", "source_url": "https://www.zoominfo.com/p/Jason-Massiatte/1116585363", "snippet": "Jason Massiatte is the President & Chief Executive Officer at Ma Hila's Heart Project, a San Antonio nonprofit supporting families dealing with childhood cancer."}
+  ]
+ },
+ {
+  "donor_id": "cd075330-cdf3-4740-be33-21b67c58a7bf",
+  "name": "Ray, Benjamin",
+  "resolved_employer": "SCDP (unresolved acronym)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Donor data lists 'Department Director' at 'SCDP', Washington DC (643 5th St NE, 20002); gave to mayoral candidate Gina Ortiz Jones. Could not confirm the acronym or identify the specific person. DC address plus donation to a Democratic candidate suggests a political/advocacy org, but no public record confirms employer, so industry left null. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cd004d66-8ed8-40c2-ab51-8d0227372365",
+  "name": "Pena, Ramon",
+  "resolved_employer": "Self-employed (business owner)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reported as self-employed business owner at 514 W Commerce, San Antonio 78207; gave $100 to Phyllis Viagran. No specific matching individual confirmable in public records (FEC/OpenSecrets, TX Ethics lobbyist registry, news, arena/Project Marvel, charter-school). Common name; unable to pin to a specific business. No documented political/advocacy affiliations.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c6a2b26d-0369-4f2c-a720-3524e21776d9",
+  "name": "Jackson, Ty",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Listed occupation 'Translator', San Antonio 78238; gave $100 to Jalen McKee-Rodriguez. Employer string 'Check defense CRP' appears to be a researcher note (check defense-industry giving via CRP/OpenSecrets), not an actual employer. No matching individual found in FEC/OpenSecrets, TX Ethics lobbyist registry, defense-industry PAC records, news, arena/Project Marvel, or charter-school searches. No documented affiliations.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c21fe0e6-c0f0-4108-92b6-c8a213a0dc46",
+  "name": "Rakes, Wade",
+  "resolved_employer": "Peach State Health Plan (Centene Corporation subsidiary)",
+  "industry": "Healthcare",
+  "confidence": "high",
+  "evidence": "Confirmed: Wade Rakes was President & CEO of Peach State Health Plan (a Georgia-based Centene Medicaid/Medicare subsidiary, 1.3M members) at time of donation; later Centene Chief Growth Officer and, as of 2025, CEO of CareQuest Institute for Oral Health. Matches donor's self-reported 'President and CEO / Peach State Health.' Full bio documents board/advocacy roles. No arena/Project Marvel, charter-school, or pro-Israel/pro-Palestine affiliations found; no itemized federal PAC giving surfaced via OpenSecrets/FEC web search.",
+  "source_url": "https://theleveragenetworkinc.com/team/wade-a-rakes/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+    {"org": "LGBTQ Victory Fund", "role": "Vice Chair", "category": "political", "source_url": "https://theleveragenetworkinc.com/team/wade-a-rakes/", "snippet": "Vice Chair of the LGBTQ Victory Fund"},
+    {"org": "Democratic National Convention", "role": "2016 delegate from Georgia", "category": "political", "source_url": "https://theleveragenetworkinc.com/team/wade-a-rakes/", "snippet": "2016 Democratic National Convention delegate from Georgia"},
+    {"org": "Beyond Differences", "role": "Secretary of the Board", "category": "civic", "source_url": "https://theleveragenetworkinc.com/team/wade-a-rakes/", "snippet": "Secretary of Board of Beyond Differences (California nonprofit)"}
+  ]
+ },
+ {
+  "donor_id": "c171fed1-6a15-4494-b217-63c58aea39de",
+  "name": "Hall, Jon",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "No occupation or employer provided; address 3036 Nichols Canyon Road, Los Angeles 90046; gave $100 to Jalen McKee-Rodriguez. 'Jon Hall' is a very common name with no distinguishing occupation/employer to disambiguate. No matching individual confirmable in FEC/OpenSecrets, AIPAC/J Street records, or any mandatory search. No documented affiliations.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b7adbdf7-d719-444f-9a46-ee3c4bd38576",
+  "name": "Ricardo, Perez",
+  "resolved_employer": "Matheson",
+  "industry": "Transportation",
+  "confidence": "low",
+  "evidence": "Likely 'Perez, Ricardo' (name reversed). Self-reported occupation 'Truck Driver' at employer 'Matheson' (Matheson Trucking/Gas), Converse/San Antonio 78202; gave $100 to Teri Castillo. Occupation+employer support Transportation industry, but the specific individual could not be uniquely confirmed among many 'Ricardo Perez' matches in public records. No FEC/OpenSecrets, TX Ethics lobbyist, arena/Project Marvel, or charter-school affiliations found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

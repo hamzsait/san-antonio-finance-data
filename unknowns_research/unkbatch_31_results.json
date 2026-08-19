@@ -1,0 +1,225 @@
+[
+  {
+    "donor_id": "fcb1edeb-b54d-44d0-aee7-04754963c1b2",
+    "name": "Penno, Tina",
+    "resolved_employer": "Methodist Hospital Stone Oak",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Hospital administration employee at Methodist Stone Oak, 78248 San Antonio; small ($25) donor confirmed at 18 Park Deville address. No public political/advocacy profile; ordinary healthcare-admin resident.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003432_20250530_115102.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f9706259-aea9-4fd0-9f5b-8abe78908c99",
+    "name": "Kattiyaman, Alyssa",
+    "resolved_employer": "thyssenkrupp",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Finance professional at thyssenkrupp (industrial conglomerate's North America HQ in Chicago), Greater Chicago Area per LinkedIn; matches Chicago 60608 address. Out-of-state donor, no political/advocacy footprint.",
+    "source_url": "https://www.linkedin.com/in/alyssa-kattiyaman-144a21/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f7807022-627b-4c89-9d4b-f79349f0d876",
+    "name": "Villarreal, Hugo",
+    "resolved_employer": "AutoZone",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Retail worker at AutoZone (a 78250 store sits at 7680 Bandera Rd), San Antonio. Very common name; a same-named City of San Antonio economic-development staffer is a different person (different employer). Identity not specifically confirmed beyond generic retail employer.",
+    "source_url": "https://www.autozone.com/locations/tx/san-antonio/7680-bandera-rd-ste-102.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f676a142-ec80-436b-b319-3160b1711585",
+    "name": "Biffle, Kimberly",
+    "resolved_employer": "Biffle Event Productions, LLC",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Owner of Biffle Event Productions (300 E Basse Rd #1110, 78209 — matches address); event-management firm for nonprofit fundraisers and corporate events. Also longtime Witte Museum leader (VP External Affairs / Chief Experience Officer) and former CEO of Alamo Angels investor network. Civic/business figure, no partisan-advocacy money found.",
+    "source_url": "https://www.linkedin.com/in/kim-biffle-a0152521/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Alamo Angels", "role": "former CEO", "category": "business", "source_url": "https://www.linkedin.com/in/kim-biffle-a0152521/", "snippet": "Kim served as Chief Executive Officer at Alamo Angels, contributing to local business growth and empowering entrepreneurs within the venture capital and private equity sector."},
+      {"org": "Witte Museum", "role": "Chief Experience Officer / former VP External Affairs", "category": "civic", "source_url": "https://rocketreach.co/kim-biffle-email_22807953", "snippet": "Kim Biffle is currently Chief Experience Officer at Witte Museum; previously director of Annual Fund, VP of external affairs and chief of engagement at the Witte Museum."}
+    ]
+  },
+  {
+    "donor_id": "f4ea9a72-cf2d-477f-a79f-52e768035112",
+    "name": "Smith, Matthew",
+    "resolved_employer": "VCAL Donuts (Dunkin' franchise)",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Team member at VCAL Donuts, a Dunkin' franchise at 3310 Calumet Ave, Valparaiso, IN 46383; matches Valparaiso address. Very common name, out-of-state food-service worker with no public profile; ordinary resident.",
+    "source_url": "https://www.workstream.us/j/d1bbcb57/dunkin/valparaiso-49161?locale=en",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f43c29fa-e788-4cc6-bb2d-27092a767017",
+    "name": "Winston, Daqavise",
+    "resolved_employer": "GNC",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Daqavise Winston of Indianapolis (very rare name) worked at GNC per his professional profile; now an educator (MSD Warren Township) and former candidate for Indianapolis City-County Council and IPS school board. GNC supervisor role corroborates the donor record's occupation/employer.",
+    "source_url": "https://rocketreach.co/daqavise-winston-email_731133503",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [{"org": "Run for Something / LGBTQ Victory Fund", "role": "Endorsed candidate for Indianapolis City-County Council & IPS Board", "category": "political", "source_url": "https://ballotpedia.org/Daqavise_Winston", "snippet": "Daqavise Winston ran for the Indianapolis Public Schools school board (District 2) and was a Run for Something / LGBTQ Victory-endorsed Democratic candidate."}]
+  },
+  {
+    "donor_id": "f3b7e120-d23c-4727-a094-e5c085017000",
+    "name": "Hernandez, Angelique",
+    "resolved_employer": "No. 9 Floral (San Antonio)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "No. 9 Floral is a real San Antonio retail florist/chocolate shop (Blanco Rd / W. Summit); donor's employer string and florist occupation match. Reviews reference an 'Angel' on staff; specific identity of Angelique Hernandez plausible but not fully confirmed.",
+    "source_url": "https://no9floralandgifts.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f1fedcd5-2a99-4850-90c6-e84807777a78",
+    "name": "Stevens, Samuel",
+    "resolved_employer": null,
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Employer listed as his own name with occupation 'Consulting' indicates a self-employed consultant. Common name; could not corroborate the specific individual at 223 Florida St, 78210 (a San Antonio pain-management MD named Samuel H. Stevens is a different person in 78209).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f1429e7e-0ba3-45fd-96ea-b0f0948a84a8",
+    "name": "Searfino, Jennifer",
+    "resolved_employer": "Eros Holdings (Cindie's)",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Jennifer Searfino as Area Manager at Cindie's/Eros Holdings; rare surname and exact employer match. Cindie's is a Texas lingerie/adult retail chain; donor's 'GM' occupation matches area-manager role.",
+    "source_url": "https://www.linkedin.com/in/jennifer-searfino-32591276/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f0ec4eb0-d07f-42e3-b58c-7869e1f8b916",
+    "name": "Gonzalez, Henry",
+    "resolved_employer": "Spectrum (Charter Communications)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Donor is a sales agent at Spectrum (Charter Communications telecom) in San Antonio 78201. 'Henry Gonzalez' is an extremely common San Antonio name (congressman, attorney Henry B. Gonzalez III, etc.); the specific individual could not be corroborated. Industry inferred from telecom employer only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "efad67fd-1c4f-4724-8887-38106c2a717d",
+    "name": "Martinez, Abel",
+    "resolved_employer": "Haven for Hope",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "Listed as a case worker at Haven for Hope, a San Antonio homeless-services nonprofit. 'Abel Martinez' is very common (a South San ISD school-board member of the same name exists but is a different person/occupation); cannot confirm this specific individual. No PAC, lobbyist, arena, or charter ties found. Industry assigned via employer fallback.",
+    "source_url": "https://havenforhope.org/FAQs",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eee3c2a2-d28a-4a92-859d-a82fb7b9e7e4",
+    "name": "Linares, Joshua",
+    "resolved_employer": "The Tobin Center for the Performing Arts",
+    "industry": "Entertainment",
+    "confidence": "high",
+    "evidence": "Confirmed graphic designer/marketing coordinator at the Tobin Center for the Performing Arts (San Antonio), per his own portfolio and ZoomInfo; previously graphic designer for the City of San Antonio, now a digital marketing specialist at venue-manager Oak View Group. No FEC, lobbyist, arena-team, or charter connections found.",
+    "source_url": "https://joshualinares.myportfolio.com/about-me",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ec415be8-2c97-4100-b9af-3c2ad9c10978",
+    "name": "Dean, Lee",
+    "resolved_employer": "St. John's Church (Bronx, NY)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "low",
+    "evidence": "Out-of-state donor (Bronx, NY 10471) listed as director of children and youth ministry at a St. John's church. Common name; no specific individual confirmed and no PAC, lobbyist, arena, or charter ties found. Industry assigned via religious-org employer fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ea112db4-a9d1-4d47-be75-e581426c39a0",
+    "name": "Finster, Virginia",
+    "resolved_employer": "San Antonio College (Alamo Colleges District)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Confirmed Marketing Content Creator at San Antonio College / Alamo Colleges District (since 2023), corroborated by LinkedIn and ZoomInfo (alamo.edu email); also serves as Treasurer on the Goodwill Industries of San Antonio board. No FEC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.linkedin.com/in/virginia-finster-30532b73/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [{"org": "Goodwill Industries of San Antonio", "role": "Board Member / Treasurer", "category": "civic", "source_url": "https://theorg.com/org/goodwill-san-antonio/org-chart/virginia-finster", "snippet": "Virginia Finster - Board Member at Goodwill Industries of San Antonio; serves as Treasurer and member of the Finance and Real Estate Committee."}]
+  },
+  {
+    "donor_id": "e9ec9bcb-e09e-42b3-89fe-0d7a7267559d",
+    "name": "Briter, Kay",
+    "resolved_employer": null,
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Out-of-state donor (Morganton, NC 28655) self-describing occupation as healthcare with no employer listed. No matching individual, PAC, lobbyist, arena, or charter records found. Industry assigned via stated-occupation fallback.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e99f6804-5f83-47a3-a4e1-2aee32a6c4de",
+    "name": "Martinez, George",
+    "resolved_employer": "SBDigital",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Employer SBDigital confirmed as a progressive digital fundraising/advertising agency (works for Democratic candidates/advocacy groups); donor's title 'Senior Digital Fundraising Associate' matches firm roles. Could not isolate this specific George Martinez in FEC/lobbyist/arena/charter records (very common San Antonio name).",
+    "source_url": "https://sbdigital.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e9996745-16cb-4848-9379-af8f80279feb",
+    "name": "Baumann, Linda",
+    "resolved_employer": "CCC Intelligent Solutions",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Linda Baumann is Executive Assistant to the CEO at CCC Intelligent Solutions, a Chicago-headquartered SaaS platform for the insurance/auto economy. Out-of-state (Chicago) donor; no political affiliations found.",
+    "source_url": "https://www.linkedin.com/in/lindabaumann/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e2c1188c-edf1-4821-b014-eb4679e59e06",
+    "name": "Martinez, Reyna",
+    "resolved_employer": "Girl Scouts of Southwest Texas",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Stated employer is Girl Scouts (Southwest Texas council serves San Antonio) with title 'Membership manager'; a nonprofit youth org. Could not confirm the exact individual in staff/leadership listings (common name), and no FEC/lobbyist/arena/charter records found.",
+    "source_url": "https://www.girlscouts-swtx.org/en/discover/our-council/our-leadership.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e2b3b83f-e274-4e0d-a1d0-5ba9072e4473",
+    "name": "Castro, Luisa",
+    "resolved_employer": "Medtronic",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Stated employer Medtronic (medical device maker) with 'Sales Rep' title; a San Antonio LinkedIn profile for a Luisa Castro shows a medical-device sales career (later Abbott structural heart) and San Antonio ties, consistent with the donor. No political affiliations found.",
+    "source_url": "https://www.linkedin.com/in/luisa-castro-50a63779/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e16644fd-c4c7-4552-82e8-48fa65c9afdf",
+    "name": "Roark, Robin",
+    "resolved_employer": "U.S. Department of Commerce",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "A Robin Roark is confirmed at the U.S. Department of Commerce (LinkedIn / Commerce directory), consistent with donor's 'International trade specialist' title. Out-of-state (Derwood, MD) federal employee; no political/advocacy affiliations found.",
+    "source_url": "https://www.linkedin.com/in/robin-roark-8b51967/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

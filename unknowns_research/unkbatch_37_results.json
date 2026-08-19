@@ -1,0 +1,222 @@
+[
+  {
+    "donor_id": "46d6b182-3df2-43e8-9d29-b090f812ed80",
+    "name": "Escamilla, Noah",
+    "resolved_employer": "Marketing at \"Paloma IG\" (per filer report; no public profile found)",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Filer reports a marketing role at 'Paloma IG', Bulverde/San Antonio area. No public profile, news, FEC, or lobbyist record confirms the specific person; identity unverified (note: zip 31660 is a Georgia zip and appears to mirror the street number '31660 Etched', not the TX 78316 city zip).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "281279e8-cf44-4a5c-8ba3-c331c8cdd6eb",
+    "name": "BLANCO-CERDA, Julian",
+    "resolved_employer": "Case Manager at Yes I Can Inc — San Antonio disability-services/supports-brokerage & home-health nonprofit (10807 Perrin Beitel Rd)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Employer 'Yes I Can Inc' corroborated as a real San Antonio disability-services/supports-brokerage and home-health provider; a case-manager role there is consistent. Donor home zip 78212 (West Euclid Ave) is a valid SA zip. Specific individual not independently found; no PAC/lobbyist/arena/charter ties.",
+    "source_url": "https://www.yellowpages.com/san-antonio-tx/mip/yes-i-can-inc-467286073",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "25feafd7-b24e-4beb-b6bd-790d638a8d59",
+    "name": "Boudreaux, Kaeden",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Not identifiable. Filer-reported occupation 'tester' and employer 'beat aids' plus a zip (11959) that mirrors the street number rather than a real SA zip (78254) read as placeholder/test-style data. No public profile, FEC, lobbyist, arena, or charter record found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "92f50644-8b64-4bf3-b88e-c96b195d863f",
+    "name": "Follman, Sofia",
+    "resolved_employer": "Imaging Clerk at RCI (River City Imaging), San Antonio outpatient radiology",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Employer 'RCI' corroborated as River City Imaging, a San Antonio-area outpatient diagnostic imaging provider; an imaging-clerk role is consistent. Address (Vance Jackson Rd, 78230) is a valid SA location. Specific individual not independently found; no PAC/lobbyist/arena/charter ties.",
+    "source_url": "https://www.rcicenters.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "01183fda-cabc-4582-9c4f-fd263b058010",
+    "name": "Stoaks, Karen",
+    "resolved_employer": "Air traffic controller (ATC) with the FAA — Denver ARTCC (ZDV), Longmont, CO",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Occupation 'Atc'/employer 'FAA' plus Longmont, CO 80503 address are internally consistent: the FAA's Denver Air Route Traffic Control Center (ZDV) is located in Longmont. Federal ATC employee. Specific individual not independently found; no PAC/lobbyist/arena/charter ties.",
+    "source_url": "https://en.wikipedia.org/wiki/Denver_Air_Route_Traffic_Control_Center",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "abf68d70-6db3-4adb-966e-9d7e22d34168",
+    "name": "Lancharic, Desiree",
+    "resolved_employer": "Go Rio San Antonio Cruises (Sales & Events Manager); formerly sales at City Wide Facility Solutions - San Antonio",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Desirée Lancharic of San Antonio (zip 78230 area) was a sales associate/executive at City Wide Facility Solutions (2020-2021), the filer-reported employer, then moved to Go Rio San Antonio Cruises as sales/events manager; LinkedIn corroborates name, city, and employer.",
+    "source_url": "https://www.linkedin.com/in/desiree-lancharic/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eb272cf7-e428-464c-a917-b6dcb21bb62d",
+    "name": "Platt, Brian",
+    "resolved_employer": "Everett Community College - Associate Faculty, Precision Machining (AMTEC)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Brian Platt is precision-machining faculty at Everett Community College in Shoreline, WA (zip 98155); holds a Texas Tech BA and worked 10+ years as an aerospace machinist before teaching. Faculty page and bio match filer occupation/employer/location.",
+    "source_url": "https://www.everettcc.edu/directory/faculty/index.cfm?eid=1978",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ff92c107-17ba-43dc-9015-337201dad0dc",
+    "name": "Chinchilla, Daniel",
+    "resolved_employer": "C.H. Robinson - Senior Analytical Consultant / Data Analyst",
+    "industry": "Transportation",
+    "confidence": "high",
+    "evidence": "Daniel Chinchilla is a data analyst / senior analytical consultant at freight-logistics firm C.H. Robinson in Oklahoma City (zip 73139); University of Oklahoma grad. ZoomInfo profile corroborates employer, role, and OKC location.",
+    "source_url": "https://www.zoominfo.com/p/Daniel-Chinchilla/2155357156",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fd68756a-c7e5-4d10-9aed-052491a5a1b1",
+    "name": "Rodriguez, Ricardo",
+    "resolved_employer": "San Antonio Alternative Housing Corporation - Asset Management Director",
+    "industry": "Real Estate",
+    "confidence": "high",
+    "evidence": "Rick (Ricardo) Rodriguez has been Asset Management Director at San Antonio Alternative Housing Corporation, a nonprofit affordable-housing developer, since 2004 (San Antonio, zip 78247). SAAHC staff page confirms exact title, tenure, and role; no arena/charter tie found.",
+    "source_url": "https://saahc.org/about/staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f357bf94-79e8-473a-bec9-eab559f61e72",
+    "name": "Dudzinski, Amy",
+    "resolved_employer": "Retail manager (filer-reported: Crocs); LinkedIn shows retail store-management career, most recently GM at Paw Oasis Pet Resort",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Amy Dudzinski of the DFW/The Colony, TX area (zip 75056) has a documented retail store-management career; filer lists her as a Crocs retail manager, and her LinkedIn shows retail GM/store-manager roles. Identity consistent but exact Crocs tenure not independently confirmed.",
+    "source_url": "https://www.linkedin.com/in/amy-dudzinski-6b397917/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f16f12bb-2f3d-4180-ac91-0d720453e4cc",
+    "name": "Payne, Morgan",
+    "resolved_employer": "Personal care assistant (PCA) at Friendly Faces Senior Care, a Texas in-home senior care provider",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Filer-reported PCA at Friendly Faces Senior Care, a confirmed Southeast-Texas in-home senior/disability care company; donor lives in La Marque (77568). No independent personal public footprint beyond the filing; employer corroborated.",
+    "source_url": "https://friendlyfaces.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eb3f5fd1-4afd-4c9c-9f37-67d7f8324cd2",
+    "name": "Quintanilla, Lotus",
+    "resolved_employer": "Self-employed hairstylist, San Antonio",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Public people-search records confirm Lotus Quintanilla, ~49, of San Antonio; filer-reported occupation is hairstylist. Ordinary small-dollar donor with no political/advocacy footprint.",
+    "source_url": "https://www.instantcheckmate.com/people/lotus-quintanilla/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "eac32494-0152-4961-a09f-9ea994ee29b2",
+    "name": "Cook, Doug",
+    "resolved_employer": "General Manager, Alpen Rose RV Park (campground), Durango, CO",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "TripAdvisor management responses confirm Doug Cook as general manager of Alpen Rose RV Park at 27847 Hwy 550, Durango, CO; matches filer address. Out-of-state small-dollar donor, no advocacy footprint.",
+    "source_url": "https://www.tripadvisor.com/Hotel_Review-g33397-d1549652-Reviews-or55-Alpen_Rose_RV_Park-Durango_Colorado.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e4cbe79f-4638-4786-baed-ab24d57fd28c",
+    "name": "Martinez, Cole",
+    "resolved_employer": "Teacher/coach, North East ISD (Madison High School), San Antonio",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "NEISD staff directory confirms Cole Martinez, a San Antonio native (Central Catholic '11, basketball scholarship to Texas A&M-Corpus Christi) teaching/coaching at Madison HS in the public North East ISD; zip 78232 matches. Public-ISD classroom employee with no advocacy role.",
+    "source_url": "https://www.neisd.net/domain/10924",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dbbc6682-7c94-4661-b6ec-50a9189ab102",
+    "name": "Nolan, Kirsten",
+    "resolved_employer": "Communications professional, San Rafael, CA (employer 'Mcl' not definitively resolved)",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "San Rafael (94903) communications professional; LinkedIn profiles for a Kirsten Nolan in Marin show communications/outreach work, consistent with filer occupation 'Coms', but employer string 'Mcl' could not be confirmed to a specific entity. Out-of-state small-dollar donor, no advocacy footprint documented.",
+    "source_url": "https://www.linkedin.com/in/kirsten-nolan-08024240/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dba6787e-5991-4c41-b7ff-aed3f1f7f4a9",
+    "name": "Christopher, Ochoa",
+    "resolved_employer": "Thompson Print & Mailing Solutions (small San Antonio commercial print/mail shop); machinist/press operator",
+    "industry": "Media",
+    "confidence": "medium",
+    "evidence": "Employer string exactly matches Thompson Print & Mailing Solutions, a ~60-year-old San Antonio commercial printing/mailing shop; a 'Christopher Ochoa' LinkedIn profile lists that same employer, and 'Machinist' fits a print-press operator. Industry label reflects commercial printing production (NOT journalism). Ordinary small-dollar local donor; no lobbyist, PAC, arena, or charter ties found. Other Christopher Ochoas (Valor charter headmaster in Austin; Innocence Project exoneree) are different people.",
+    "source_url": "https://www.linkedin.com/in/christopher-ochoa-3b2374164/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "da158d9d-b661-41b9-a5ca-0252cbd6b90a",
+    "name": "McCrary, Deborah",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Public-records aggregators confirm a Deborah J. McCrary (~age 72, graduate school) residing at 5134 Galahad Dr, San Antonio TX 78218, matching the filing address exactly; no occupation/employer was reported on the contribution and the filing lists none. Candidate LinkedIn matches exist (a retired bank VP/branch manager; a restaurant owner) but neither can be confirmed to this address, so a specific career cannot be corroborated. Likely a retiree/ordinary resident; no lobbyist, PAC, arena, or charter ties found.",
+    "source_url": "https://clustrmaps.com/persons/Deborah-Mccrary",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d16c9eab-6609-4aad-b854-a4abd2adee05",
+    "name": "Lebedeva, Masha",
+    "resolved_employer": "EatStreet (food-delivery driver); a same-named Masha Lebedeva in Ames is a materials-science graduate/research assistant at Ames National Laboratory (Iowa State), likely the same person doing gig-delivery work",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Out-of-state ($20) online donor from Ames, IA (zip 50010 matches address). Occupation 'Driver'/employer 'Eatstreet' fits gig food delivery; the same distinctive name in the same small college town appears on LinkedIn as a materials-science grad/research assistant at Ames National Lab, consistent with a student/early-career person driving for EatStreet on the side. No lobbyist, PAC, arena, or charter ties; ordinary small-dollar out-of-state donor to progressive SA council candidates.",
+    "source_url": "https://www.linkedin.com/in/masha-lebedeva-925140217/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "cafab196-7687-4c17-9ee1-0a0ed9fce0a5",
+    "name": "Mernin, Todd Patrick",
+    "resolved_employer": "Conduent (business-process services; Payment Services customer-service supervisor at the San Antonio operation)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "ZoomInfo confirms a Todd Mernin as a Supervisory Management Team / Payment Services Customer Service Representative at Conduent, matching the filing's occupation ('Customer Srvc Rep. Supervisor') and employer exactly; Conduent operates a San Antonio site (2822 General Hudnell Dr) and the Mernin family is tied to the San Antonio/Bulverde area. Prior role was a Pearson educational-assessment scorer (not an advocacy role). Ordinary small-dollar local donor; no lobbyist, PAC, arena, or charter ties found.",
+    "source_url": "https://www.zoominfo.com/p/Todd-Mernin/1436427635",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "caec11ef-c65d-4498-bdab-b71603821403",
+    "name": "Schlenk, Abby",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Out-of-state ($20) online donor from Oceanside, CA. An Abigail Schlenk in Oceanside appears on LinkedIn tied to the San Elijo Joint Powers Authority (a public wastewater/environmental agency), which conflicts with the filer-reported employer 'Veritas Group'/'Manager'; 'Veritas Group' does not resolve to a single confirmable Oceanside firm. Because employer/occupation could not be corroborated to one entity, career/industry is left unresolved. No lobbyist, PAC, arena, or charter ties found; ordinary small-dollar out-of-state donor to a progressive SA council candidate.",
+    "source_url": "https://www.linkedin.com/in/abigail-schlenk-a3a38b166/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

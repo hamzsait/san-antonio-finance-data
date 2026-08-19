@@ -1,0 +1,232 @@
+[
+  {
+    "donor_id": "025d531a-1572-43a3-82f2-a5ce6b85f730",
+    "name": "Powell, Colton",
+    "resolved_employer": "NALCAB (National Association for Latino Community Asset Builders)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "NALCAB staff bio confirms Colton Powell as Sr. Director of Programs (donor-reported 'Sr Program Director'), supporting Neighborhood Development, Rural Capacity Building and Community Compass programs on affordable housing and federal funding. Formerly Manager of Grants at City of San Antonio Neighborhood & Housing Services. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://nalcab.org/team_member/colton-powell/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "NALCAB (National Association for Latino Community Asset Builders)", "role": "Sr. Director of Programs", "category": "civic", "source_url": "https://nalcab.org/team_member/colton-powell/", "snippet": "Colton supports NALCAB's Neighborhood Development, Rural Capacity Building, and Community Compass programs to expand access to affordable housing and improve efficacy of federal funding."}
+    ]
+  },
+  {
+    "donor_id": "0105f177-f681-414b-b814-253fc3c88ad5",
+    "name": "Puente, Jesus",
+    "resolved_employer": "Airtron Heating & Air Conditioning",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Donor-reported HVAC technician at Airtron, a San Antonio residential HVAC installation/repair company. No individual public profile found for Jesus Puente beyond the generic occupation/employer. No FEC PAC, TX lobbyist, arena, or charter ties found. Industry classified from HVAC trade employer.",
+    "source_url": "https://airtron.com/san-antonio/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "06bb6546-adbb-46d0-8e7a-3d996674293b",
+    "name": "Negrete, Lisa",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer reported on the filing. Searches on 'Lisa Negrete' in San Antonio 78216 returned only generic directory listings with no confirmable occupation, employer, or public profile. No FEC PAC, TX lobbyist, arena, or charter ties found. Insufficient basis to classify an industry.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "faa56bb1-612b-4c7e-9bf2-c35329476970",
+    "name": "Martinez, Michael",
+    "resolved_employer": "SIMPLLC (property management)",
+    "industry": "Real Estate",
+    "confidence": "low",
+    "evidence": "Donor-reported occupation 'Property management' at employer 'SIMPLLC'. 'Michael Martinez' is a very common name; could not corroborate this specific individual beyond the self-reported property-management occupation, and no SIMPLLC business profile was locatable. No FEC PAC, TX lobbyist, arena, or charter ties found. Industry classified from stated occupation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a22d0c8d-76ce-425e-8401-6739b7bf9e42",
+    "name": "Alvarez, John",
+    "resolved_employer": "Zachry Group",
+    "industry": "Construction",
+    "confidence": "low",
+    "evidence": "Donor-reported coordinator at Zachry Group, a San Antonio construction/engineering firm. 'John Alvarez' is a common name; identity could not be firmly corroborated on occupation. Classified from the self-reported Zachry Group employer. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a1803fde-0c3b-4ceb-ab97-3c4e8d723db8",
+    "name": "Orduna, Julia",
+    "resolved_employer": "Texas Housers (Texas Low Income Housing Information Service)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Julia Orduna is documented staff at Texas Housers (low-income housing advocacy nonprofit); joined 2019 as Community Navigator (donor-reported title) and later named Southeast Texas Regional Director. Authors Texas Housers posts on San Antonio housing/source-of-income ordinance work. No FEC PAC, TX lobbyist, arena, or charter ties found; her work is housing-affordability advocacy.",
+    "source_url": "https://texashousers.org/2021/08/26/texas-housers-southeast-texas-regional-director-julia-orduna/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Texas Housers (Texas Low Income Housing Information Service)", "role": "Community Navigator / Southeast Texas Regional Director", "category": "civic", "source_url": "https://texashousers.org/2021/08/26/texas-housers-southeast-texas-regional-director-julia-orduna/", "snippet": "Texas Housers named Julia Orduna Southeast Texas Regional Director; she joined in 2019 and worked alongside resident leaders on housing affordability and access to safe, dignified housing."}
+    ]
+  },
+  {
+    "donor_id": "ebb61786-59a9-4b8d-9bdd-3d7a7e4774a7",
+    "name": "Smock, Amanda",
+    "resolved_employer": "Hadassah",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Self-reported as Program Coordinator at Hadassah (Women's Zionist Organization of America); Brooklyn address is within Hadassah's Brooklyn region footprint. No FEC PAC, TX lobbyist, arena, or charter ties found. Per guidance, a program-coordinator role at Hadassah is not policy-advocacy-relevant, so no jewish_civic affiliation recorded.",
+    "source_url": "https://www.hadassah.org/region/brooklyn",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d5ec9ae5-2ec4-4e11-a9a5-f997c950c6bf",
+    "name": "Watson, Ben",
+    "resolved_employer": "Happy Chicks (Austin restaurant)",
+    "industry": "Hospitality / Events",
+    "confidence": "medium",
+    "evidence": "Self-reported as Manager at Happy Chicks, a fried-chicken restaurant in Austin, TX; Austin (Riverside Dr) residence consistent. Could not independently confirm this individual in Happy Chicks management listings. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://happychicks.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b2d850ad-57af-4f13-8e55-c8939382e760",
+    "name": "Rosario, Ambrose",
+    "resolved_employer": "US Army Installation Management Command (IMCOM) HQ",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Self-reported DoD civilian at Army IMCOM HQ, headquartered at JBSA-Fort Sam Houston, San Antonio; residence in San Antonio 78251 consistent. Military/DoD civilian employment. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://home.army.mil/imcom/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9cf1b716-97c6-4887-acf6-bc18a6075fb8",
+    "name": "Jimenez Nafarrate, Lisa",
+    "resolved_employer": "Citibank",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Self-reported as Officer at Citibank; San Antonio 78253 residence. Citibank has a significant San Antonio presence. Could not independently confirm this individual's specific role. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://citibank.banklocationmaps.com/en/usa/texas/san-antonio",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9773875d-2f94-483a-80f0-fba793ed7958",
+    "name": "Watkins, Hayden",
+    "resolved_employer": "US Military (Fort Sam Houston area)",
+    "industry": "Government",
+    "confidence": "medium",
+    "evidence": "Self-reported as general labor for 'Military'; residence at Corporal Johnson Rd, 78234, within the JBSA-Fort Sam Houston area. Military employment. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.jbsa.mil/Information/JBSA-History-Fact-Sheets/Article-View/Article/2664951/jbsa-fort-sam-houston/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9026d689-5fc7-4632-ae87-1003dea260c5",
+    "name": "Alvarez, Juan",
+    "resolved_employer": "Target",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Self-reported as Guest Service at Target; San Antonio 78230 residence. Front-line retail employee. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.target.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "89bce673-fc78-46aa-8cba-c71e0963bc89",
+    "name": "Miller, Elizabeth",
+    "resolved_employer": "Eli Miller Design LLC (self-employed)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Elizabeth 'Eli' Miller is a freelance graphic designer and owner of Eli Miller Design LLC, a San Antonio brand/design studio registered to 153 Kaine St, San Antonio, TX 78214 (exact match to donor address; Texas Comptroller permit start July 24, 2019). No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://opengovus.com/texas-taxpayer/32071435930",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7a407aa7-685d-4340-ab54-08fdc6304a26",
+    "name": "Jimenez, Cindy",
+    "resolved_employer": "Allen Tharp LLC (food service management)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Cynthia (Cindy) Jimenez is Head Cashier at Allen Tharp LLC, a San Antonio food-service management/restaurant company (Allen Tharp is a San Antonio restaurateur/bar owner). Donor is a cashier there. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.zoominfo.com/p/Cynthia-Jimenez/5968340137",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7456ebe5-7c48-42cd-a05f-f843b03f2d31",
+    "name": "Gonzalez, Reena",
+    "resolved_employer": "City of College Station (municipal government)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Reena L. Gonzalez served as Business Service Manager for the City of College Station (municipal government; donor zip 77840 is College Station), matching stated occupation/employer; she later became an Executive Assistant at the City of San Antonio. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.zoominfo.com/p/Reena-Gonzalez/3023353297",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6bcfc0da-5736-4160-b1f6-10d93a1f9d99",
+    "name": "Garza, Melany",
+    "resolved_employer": "Texas Brine Company, LLC (industrial brine/chemical)",
+    "industry": "Energy / Environment",
+    "confidence": "high",
+    "evidence": "Melany Garza is an Administrative Assistant at Texas Brine Company, LLC, a Houston industrial brine/chemical (energy-adjacent) company, matching stated occupation/employer and Houston 77075 location. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.linkedin.com/in/melany-garza-83a607128/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6147747f-1eb9-4151-b113-2cab9e5ba4c8",
+    "name": "Herrera, Emilie",
+    "resolved_employer": "Folklores Coffee House (co-owner/founder)",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Emilie Herrera is co-owner and founder (with husband Tatu Herrera) of Folklores Coffee House, a South Side San Antonio coffee shop opened March 2018, and CheeseMe. Southside 78214 resident matching donor address. Documented civic roles: Board Director of Fundraising for Poderosa Rising and Member Chair Assistant for HWNT-San Antonio. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://hwntsa.org/emilie-herrera",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Folklores Coffee House", "role": "Co-owner / Founder", "category": "business", "source_url": "https://www.livevida.com/news/community/southside-makers-shakers-emilie-herrera/", "snippet": "Emilie Herrera is the co-owner and founder of Folklores Coffee House and CheeseMe, opened on San Antonio's South Side in March 2018."},
+      {"org": "Poderosa Rising", "role": "Board Director of Fundraising", "category": "civic", "source_url": "https://hwntsa.org/emilie-herrera", "snippet": "Emilie also serves as Board Director of Fundraising for Poderosa Rising."},
+      {"org": "HWNT-San Antonio (Hispanic Women's Network of Texas)", "role": "Member Chair Assistant", "category": "civic", "source_url": "https://hwntsa.org/emilie-herrera", "snippet": "Member Chair Assistant for HWNT-San Antonio Chapter."}
+    ]
+  },
+  {
+    "donor_id": "5196f0a3-3061-4020-b047-b8a71bbc0b8a",
+    "name": "Conyngham, Karen",
+    "resolved_employer": "Self-employed (researcher)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Self-described 'researcher' in Austin 78746. Her extraordinarily high fec_donation_count (15,939) with partisan_lean 1.0 is consistent with a prolific small-dollar ActBlue/Democratic donor; public records confirm giving to Beto for Texas ($25, 2018) and Powered by People ($50). Also a long-time camelid/llama enthusiast (RMLA member since 1994). No TX lobbyist, arena, charter, or AIPAC/J Street/oil-gas/defense/NRA PAC ties surfaced.",
+    "source_url": "https://elpasostandard.com/stories/543864515-powered-by-people-receives-50-from-karen-conyngham-of-austin-on-march-5",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Democratic candidates/committees (Beto for Texas; Powered by People)", "role": "Prolific small-dollar individual donor", "category": "political", "source_url": "https://elpasostandard.com/stories/543864515-powered-by-people-receives-50-from-karen-conyngham-of-austin-on-march-5", "snippet": "Powered by People (Beto O'Rourke's org) reported a $50 contribution from Karen Conyngham of Austin; separately she gave $25 to Beto for Texas in 2018, consistent with her 15,939 FEC-record donation count and 1.0 Democratic partisan lean."}
+    ]
+  },
+  {
+    "donor_id": "48ae75a3-a9ec-4759-a06e-814d828d73e4",
+    "name": "Maynes, Vanessa",
+    "resolved_employer": "Outside the Box Productions (event planning firm), San Antonio",
+    "industry": "Hospitality / Events",
+    "confidence": "high",
+    "evidence": "Vanessa Maynes worked as a Production Coordinator at Outside the Box Productions, a full-service San Antonio event-planning firm; she later became Events Manager at the Alamo Heights School Foundation. BBA in Sport, Event and Tourism Management from UTSA. Occupation and employer confirm event-production work. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.ahschoolfoundation.org/about/board-and-staff/bio/vanessa-maynes",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "48734263-fb9d-434b-adb4-5de34ed2016b",
+    "name": "Clinton Jr, Stanford",
+    "resolved_employer": "Self-employed rancher, Cody, Wyoming",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Out-of-state donor to Gina Jones; occupation 'Rancher,' employer listed as his own name in Cody, WY 82414. No public profile beyond the generic rancher occupation. Checked FEC/web for oil/gas, ranching-industry, or ideological PAC giving: no additional FEC contributions or PAC ties surfaced. No TX lobbyist, arena, or charter connection. Taxonomy has no Agriculture label; classified Self-Employed based on self-owned ranching occupation.",
+    "source_url": "https://www.city-data.com/elec2/16/elec-CODY-WY-16.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

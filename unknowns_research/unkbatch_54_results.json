@@ -1,0 +1,222 @@
+[
+ {
+  "donor_id": "3918f13c-26c0-4b18-ba89-7a2cf27c7f9c",
+  "name": "Disney, Andrew",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Out-of-state small-dollar donor (Portland, OR) to Jalen McKee-Rodriguez 2021; no occupation or employer reported on the filing. Multiple 'Andrew Disney' profiles exist in the Portland metro but none could be corroborated to the 1341 SE 31st Ave address without an occupation to match on. No FEC PAC, lobbyist, arena, or charter ties found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cde88511-5bf8-4429-9042-d3eb55b57148",
+  "name": "Lazrov-Odess, Diana",
+  "resolved_employer": "University of Texas at Arlington (OIT student technician)",
+  "industry": "Student",
+  "confidence": "medium",
+  "evidence": "LinkedIn identifies Diana Lazrov-Odess as a UT-Arlington Office of Information Technology student technical worker; Denton residence is consistent with the UTA student catchment. The 89-contribution FEC count reflects a prolific recurring small-dollar (ActBlue-style) Democratic donor rather than any single large stake. No lobbyist registration, arena, or charter role found.",
+  "source_url": "https://www.linkedin.com/in/diana-lazrov-odess-b42680380",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e4173354-cc9b-4a24-b869-58ccad8415f2",
+  "name": "Beal, Barbara",
+  "resolved_employer": "Self (property management)",
+  "industry": "Real Estate",
+  "confidence": "medium",
+  "evidence": "Lake Dallas, TX resident listing occupation as property management, self-employed. Heavy federal small-dollar donor (FEC count 1315), consistent with recurring ActBlue-style giving. No specific PAC, lobbyist, arena, or charter-school affiliation corroborated.",
+  "source_url": "https://www.linkedin.com/in/barbara-beal-78a535104/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "5b966b2c-adaf-4104-865a-6fe29c57a937",
+  "name": "Muse, Audrey",
+  "resolved_employer": "Food Bank of South Jersey",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Audrey L. Muse is a Development Coordinator at the Food Bank of South Jersey (Burlington, NJ), confirmed via LinkedIn/ZoomInfo; background in nonprofit operations and arts administration. No political/advocacy affiliations found.",
+  "source_url": "https://www.linkedin.com/in/audreylmuseprofile/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9dca0d7a-8184-4f41-8afb-32d43702923a",
+  "name": "Bowling, Kamryn",
+  "resolved_employer": "Converse Animal Shelter Inc.",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "medium",
+  "evidence": "Kennel technician at Converse Animal Shelter Inc., a confirmed nonprofit/501(c)(3) animal shelter in Converse, TX (San Antonio metro). No personal public profile or affiliations found beyond the employer.",
+  "source_url": "https://www.guidestar.org/profile/74-2197306",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "517e03d6-a7b8-46cb-bcc0-dfd2e91d96d6",
+  "name": "Juin, Rich",
+  "resolved_employer": "U.S. Army (cadet)",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Listed as an Army cadet in Queen Creek, AZ. No distinct public profile located; classified from occupation/employer (military/government). No affiliations found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f39d39cc-dc7c-4207-80bf-4c1cfadfe72c",
+  "name": "Green, Marlee",
+  "resolved_employer": "Unite Us",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Personnel/HR role at Unite Us, a health-and-social-care coordination technology (SaaS) company; resident of Suffolk, VA. No individual public profile confirmed; classified from employer. No affiliations found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cc374c85-b486-4738-807d-560c18eeeeb4",
+  "name": "Syed, Insiya",
+  "resolved_employer": "Alight Solutions",
+  "industry": "Consulting / PR",
+  "confidence": "low",
+  "evidence": "Health Client Specialist at Alight Solutions, a benefits-administration / HR services firm (Hoffman Estates, IL). No individual public profile confirmed; classified from employer. No affiliations found.",
+  "source_url": "https://en.wikipedia.org/wiki/Alight_Solutions",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aab297fb-0549-47bf-a872-0abd3a4dc4f6",
+  "name": "Stone, Molly",
+  "resolved_employer": "IPG Media, LLC",
+  "industry": "Media",
+  "confidence": "medium",
+  "evidence": "Sales role at 'IPG' in Austin, TX matches IPG Media, LLC, an Austin-based local advertising/media company (founded 2021, later expanded to San Antonio and Nashville). Heavier federal donor (FEC count 275) but no specific PAC, lobbyist, arena, or charter affiliation corroborated.",
+  "source_url": "https://www.austinbusinesswoman.com/ipg-media-llc",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3edc6bce-af8d-464f-b9a5-2844ef154c4c",
+  "name": "Ortega, Natalie",
+  "resolved_employer": "Not employed (stated occupation: Finance)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "West Covina, CA resident who lists occupation 'Finance' but employer 'Not employed'; no distinctive public profile confirmable on zip+occupation (very common name). No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0718bf38-fba5-4fd0-87a4-eb7d1f21a8cd",
+  "name": "Davenport, Jill",
+  "resolved_employer": "Self-employed - Luminary Healing (holistic wellness / life coaching)",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Confirmed on zip+occupation: Santa Monica/Mar Vista-area holistic health practitioner and reiki/life-business coach (Luminary Healing), former actor, IIN-certified; profiled in VoyageLA. Her bio shows only wellness/personal-empowerment values, no political, religious, or advocacy affiliations.",
+  "source_url": "https://www.jilldavenport.com/about/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "eff6aaac-032a-45e7-9947-4af9e3aca375",
+  "name": "Mendoza, Oliver",
+  "resolved_employer": "DGA-Producer Pension and Health Plans (dga-pphp)",
+  "industry": "Finance",
+  "confidence": "medium",
+  "evidence": "Employer 'dga-pphp' resolves to the DGA-Producer Pension and Health Plans, the Taft-Hartley benefits/pension trust fund for the Directors Guild (Studio City/Van Nuys area); donor works there as an analyst. Ordinary employee of a pension/health benefits fund; no PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.dga.org/resources/pensionhealth",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e2aedac9-f87a-4cad-bbf9-be146e5c72ca",
+  "name": "Krehbiel, Lisa",
+  "resolved_employer": "CFKrehbiel (self-employed / family entity)",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Williamsburg, VA resident; occupation 'Attendant', employer 'CFKrehbiel' (a personal/family entity). No distinctive public profile corroborated to this specific person. Ordinary resident; no PAC, lobbyist, arena, or charter ties found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b29a84e8-62e9-400e-ba6d-7bc629b57429",
+  "name": "Salinas, Andrew",
+  "resolved_employer": "Whataburger",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "San Antonio (78229) Whataburger team member. The high FEC donation count (174) is consistent with a recurring ActBlue/WinRed small-dollar donation pattern, not PAC/bundler activity. Ordinary resident; no lobbyist, arena/Project Marvel, or charter-school role found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2858777f-041c-46ad-851a-f500c908987a",
+  "name": "Foster, George",
+  "resolved_employer": "Westlake Chemical (Westlake Corp.), Lake Charles LA",
+  "industry": "Energy / Environment",
+  "confidence": "medium",
+  "evidence": "Lake Charles, LA process operator at Westlake Chemical's petrochemical complex. Generic industrial employer confirmed; no distinctive individual public profile (common name). No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.westlake.com/lake-charles",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "0f5f0b7c-b3f0-40e2-a77c-70407d3f1a99",
+  "name": "GLASPIE, Lori",
+  "resolved_employer": "U.S. Department of the Treasury (likely IRS)",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Windcrest/San Antonio-area (78239) customer service rep for the U.S. Treasury Dept (Treasury/IRS has a large San Antonio presence). The very high FEC count (1146) reflects a recurring ActBlue/WinRed small-dollar donation pattern, not PAC activity. Ordinary federal employee; no lobbyist, arena/Project Marvel, or charter-school role found.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ecd30804-5a40-4592-9357-e92835e91ea5",
+  "name": "Patey, Gretchen",
+  "resolved_employer": "Monona Catering",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Reported as waitstaff for Monona Catering, the exclusive caterer at Monona Terrace Community and Convention Center in Madison, WI. Ordinary service-industry worker; no FEC PAC, lobbyist, arena, or charter affiliations found.",
+  "source_url": "https://www.mononaterrace.com/meetings-conventions/catering/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d763268c-c138-45ed-9420-b89e354da782",
+  "name": "Bruns, Ellery",
+  "resolved_employer": null,
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Reported occupation 'Barista' with employer 'Na' (none given), Minnetonka, MN. No public profile could be matched to a Minnetonka barista. Classified from occupation only. No PAC, lobbyist, arena, or charter ties.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "9f596228-4286-47a0-a40a-714d1be47309",
+  "name": "Herman, Andrew",
+  "resolved_employer": "GCS (cleaning/janitorial services)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Reported as a cleaner for 'GCS' in the Seattle/Shoreline area; the specific employer could not be uniquely identified. Ordinary service worker with no distinctive public profile. No PAC, lobbyist, arena, or charter ties.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": false, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "99b20ee4-0bab-443f-901b-123cd354144a",
+  "name": "Leung, Nami",
+  "resolved_employer": "Uber",
+  "industry": "Transportation",
+  "confidence": "medium",
+  "evidence": "San Antonio (78254) resident reported as an Uber driver. Despite a targeted Project Marvel/Spurs-arena and charter-school search, no documented stake, advocacy role, or lobbyist registration was found. Ordinary rideshare driver.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": false, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

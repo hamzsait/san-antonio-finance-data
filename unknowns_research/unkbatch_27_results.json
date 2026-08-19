@@ -1,0 +1,222 @@
+[
+  {
+    "donor_id": "e0aa2a5c-a665-4747-b141-1868478832b4",
+    "name": "Campos, Jose",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "'Developer' at 'YP' in San Antonio 78209; 269 FEC donations suggests a habitual small-dollar donor, but 'Jose Campos' is a very common name and 'YP' is ambiguous (Yellow Pages/YP.com vs. a local firm). No specific match confirmable by zip/occupation.",
+    "source_url": "https://www.ethics.state.tx.us/data/search/lobby/2026/2026RegisteredLobbyists.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "de465bd7-5fc8-4b96-a38c-fd963281b459",
+    "name": "Garcia, Stephanie",
+    "resolved_employer": "Dufresne Spencer Group (Ashley Furniture HomeStore operator), Operations Manager",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Self-reported Operations Manager at Dufresne Spencer Group, the parent operator of Ashley Furniture HomeStore (Retail). Located in San Elizario/El Paso area (79849). Could not confirm the specific individual; industry assigned by employer fallback.",
+    "source_url": "https://rocketreach.co/dufresne-spencer-group-llc-management_b5f4e664f42d2bfb",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dd137192-49c1-4a9b-8f9d-7f48c31ac121",
+    "name": "Perez, Autumn",
+    "resolved_employer": "Home health care provider (employer 'CMS' generic)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Self-reported home health care provider in far-south San Antonio (78264). 'CMS' is a generic employer string; the specific individual is not confirmable in public records. Industry by occupation fallback (home health = Healthcare).",
+    "source_url": "https://www.linkedin.com/in/autumn-perez-33b739115/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "dbee60cf-3908-4f4f-9c93-dffd05c09fb2",
+    "name": "Flores, Antoinette Flores",
+    "resolved_employer": "Northside ISD (NISD), Support Specialist",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Self-reported Support Specialist at Northside ISD, a San Antonio public school district (Education). Located in NE San Antonio (78239). No public record confirming the specific individual or any union/advocacy role; industry by employer fallback.",
+    "source_url": "https://www.nisd.net/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "db5777e1-ade4-44ae-9d1f-51c66083ffc1",
+    "name": "Perez, Jacob",
+    "resolved_employer": "Pappadeaux (Pappas Restaurants), Server",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Self-reported server at Pappadeaux (a Pappas Restaurants brand) in Houston (77080). 'Jacob Perez' is a common name; no specific individual confirmable. Industry by occupation/employer fallback (restaurant server = Hospitality / Events).",
+    "source_url": "https://en.wikipedia.org/wiki/Pappas_Restaurants",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d9dfd58a-dfd6-48af-98f7-353025a67416",
+    "name": "Smith, Ryan",
+    "resolved_employer": "Target (retail employee)",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Extremely common name ('Ryan Smith') with a generic retail employer (Target) in Arlington, TX. No public record uniquely identifies this specific individual. Industry assigned per employer-fallback only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "be83b22b-41fd-4f3b-b4d3-5c1dcf4d3685",
+    "name": "Franz, Holly",
+    "resolved_employer": "HTI Catalysts (facilitation / leadership-development consultancy) — tentative",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Filed occupation 'Facilitator' and employer 'HTI' align with HTI Catalysts, a facilitation/leadership-development consultancy. Alexandria VA public records confirm a Holly D. Franz at the 7209 Parsons Ct address, but no bio directly ties that resident to HTI Catalysts, so the specific-person/employer match is unconfirmed.",
+    "source_url": "https://hticatalysts.net/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bcb85527-044b-49a2-b60d-7c9601d95ff0",
+    "name": "Malhotr, Sanjay",
+    "resolved_employer": "FNI — likely Freese and Nichols Inc (Texas engineering firm), Houston; unconfirmed for this individual",
+    "industry": "Engineering",
+    "confidence": "low",
+    "evidence": "Filed as Manager at 'FNI', Houston (Montrose). 'FNI' most plausibly = Freese and Nichols Inc, a large TX engineering firm with a Houston office, but no bio/LinkedIn/roster ties this specific common-named Sanjay Malhotra to the firm. No ideological-PAC, lobbyist, arena, or charter ties found. Industry is employer-fallback only.",
+    "source_url": "https://www.freese.com/locations/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bb421f61-7d13-4394-b84b-49f7ea4a3d06",
+    "name": "Griffin, Jeremaih",
+    "resolved_employer": "Frito-Lay (merchandiser), Lawrenceville, GA",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Filed occupation 'Merchandiser' at Frito-Lay in Lawrenceville, GA. Occupation/employer/location are internally consistent, but the individual is not uniquely identifiable in public records. Industry assigned per employer-fallback (in-store product merchandising).",
+    "source_url": "https://www.indeed.com/cmp/Frito--lay/locations/GA/Lawrenceville",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b466e001-6e4e-4478-8351-778532b8233b",
+    "name": "lotto, kristen",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Public records confirm a Kristen/Krista Lotto at 224 E 11th St Unit 24, New York, NY 10003, matching the donation address. Filed occupation 'rt' / employer 'gls' are unresolvable abbreviations; no bio, PAC, lobbyist, arena, or charter tie found. Location corroborated but occupation/industry cannot be determined.",
+    "source_url": "https://radaris.com/p/Krista/Lotto/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b266cd7e-9aec-4b3a-901a-0ebd7fdf4732",
+    "name": "Belo, Rome",
+    "resolved_employer": "Works in logistics, San Antonio TX (self-reported)",
+    "industry": "Transportation",
+    "confidence": "low",
+    "evidence": "Ordinary San Antonio resident (78233) working in logistics. No specific individual named 'Rome Belo' could be confirmed in public records; industry by occupation fallback.",
+    "source_url": "https://loadwrap.com/company/4445528-rome-s-delivery-moving-services-llc",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b179be62-6de4-4203-a028-9c7ea1d67764",
+    "name": "Acevedo, Elizabeth",
+    "resolved_employer": "Veterinary assistant, VCA Animal Hospitals",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Vet assistant at VCA living at Fort Belvoir, VA (military housing, 22060). Could not confirm the specific individual; the notable 'Elizabeth Acevedo' online is an unrelated poet/author. Industry set per employer (veterinary = Healthcare).",
+    "source_url": "https://en.wikipedia.org/wiki/Elizabeth_Acevedo",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b014b9e9-6368-4fa6-ade4-af0a7ad7add6",
+    "name": "Bartolo, Natan",
+    "resolved_employer": "Sales clerk, Fred Meyer (Seattle, WA)",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Sales clerk at Fred Meyer grocery/department store in Seattle (98109). Ordinary out-of-state retail worker; no public records identify this specific person. Industry per employer (Retail).",
+    "source_url": "https://www.yelp.com/biz/fred-meyer-seattle",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a430302e-82dc-41b5-978f-80ad94e9aff0",
+    "name": "Vela, Savannah",
+    "resolved_employer": "Admissions supervisor, University of North Texas (Denton)",
+    "industry": "Education",
+    "confidence": "low",
+    "evidence": "Self-reported admissions supervisor at UNT; an about.me profile for a Savannah Vela in Denton, TX corroborates the Denton location but describes her as a filmmaker/designer/student rather than confirming the admissions role. Location matches; specific role unconfirmed.",
+    "source_url": "https://about.me/savannahvela",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a0ea2d3d-d279-48af-be9b-977e7312fffe",
+    "name": "Reyna Casanova, Jake",
+    "resolved_employer": "Grants & Patient Advocacy Manager, CommuniCare Health Centers (San Antonio FQHC)",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Jake Reyna-Casanova, MPH — Grants and Patient Advocacy Manager at CommuniCare Health Centers, an FQHC in San Antonio; 8+ years in community health centers focused on grants and Medicare enrollment. SA 78245 address matches. No ideological-PAC/lobbyist/arena/charter ties found (employment is Healthcare industry, not a policy affiliation).",
+    "source_url": "https://www.linkedin.com/in/jakepcasanova/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a09afc52-5ab4-41f4-a0e0-6d6c45784b05",
+    "name": "Saunders, Claudia",
+    "resolved_employer": "The Beauty Lounge (hair stylist / salon owner, San Antonio)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Claudia Saunders is a San Antonio hair stylist who owns/operates The Beauty Lounge; featured in a Voyage San Antonio 'Rising Stars' profile and specializes in hair-loss clients and extensions. Matches occupation and employer exactly.",
+    "source_url": "https://voyagesanantonio.com/interview/rising-stars-meet-claudia-saunders-of-the-beauty-lounge/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9f73e356-a48e-435f-8229-8add87d55927",
+    "name": "Arenas, Pedro",
+    "resolved_employer": "Polo Ralph Lauren Factory Store, Woodburn, OR (retail sales)",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Out-of-state ordinary donor; sales associate at the Polo Ralph Lauren outlet in Woodburn, OR (matches address/employer). No public records, PAC activity, or affiliations found for the specific person. Industry per employer-fallback.",
+    "source_url": "https://www.premiumoutlets.com/outlet/woodburn/stores/polo-ralph-lauren-factory-store",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9aa7c528-1d30-4e5b-9cd7-83eeea3b162f",
+    "name": "Alcoser, Rafael",
+    "resolved_employer": "Rafael Alcoser Insurance Agency LLC (self-employed insurance broker), San Antonio",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Rafael Alcoser is a self-employed insurance broker (Rafael Alcoser Insurance Agency LLC) in the San Antonio area, consistent with the donor's 'Financial Services / Self' occupation and SA 78210 location. A separately named 'Rafael Alcoser III' congressional candidate exists but could not be confirmed as the same person; not asserted.",
+    "source_url": "https://www.linkedin.com/in/rafael-alcoser-421ab123/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9a77b0df-9e5f-44c5-9815-5a391312bfca",
+    "name": "Cole, Dawn",
+    "resolved_employer": "Whataburger (Group Manager, Internal Communication & Engagement), San Antonio",
+    "industry": "Consulting / PR",
+    "confidence": "high",
+    "evidence": "Dawn Cole is a corporate communications professional at Whataburger HQ in San Antonio (Group Manager, Internal Communication & Engagement); former TV producer at News4SA/KSAT and board chair of San Pedro Playhouse. Occupation 'Communications' and SA 78247 location match. No ideological-PAC/lobbyist/arena/charter policy affiliations found; Whataburger employment and San Pedro Playhouse (private arts board, no policy-advocacy component) are out of scope as affiliations.",
+    "source_url": "https://www.linkedin.com/in/dawn-cole-22225822/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9a1e8d0f-d2fa-4c3f-9496-a40a69e60c5b",
+    "name": "Goodsaid, Jasmine",
+    "resolved_employer": "Insignia Nexus (Austin digital-marketing agency), social media / marketing",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Jasmine Goodsaid is an Austin-based marketing/social-media professional (graphic design, social media strategy, Facebook ads), formerly at UTSA. Uncommon surname, Austin location, and social-media role corroborate the Insignia Nexus (Austin digital marketing firm) employer. No ideological-PAC activity found under the surname.",
+    "source_url": "https://www.behance.net/jagoodsaid/info",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

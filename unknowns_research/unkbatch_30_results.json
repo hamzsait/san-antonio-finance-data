@@ -1,0 +1,211 @@
+[
+  {
+    "donor_id": "167238e8-877f-44c1-9a1a-4d388c500cbb",
+    "name": "Meza, Lizbeth",
+    "resolved_employer": "Providence (health system), Vancouver, WA",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Listed occupation 'Rehab aide' at 'Providence' with a Vancouver, WA 98682 address corroborates employment at Providence's rehabilitation clinics in Vancouver, WA. Could not confirm this specific individual by name; employer/sector resolve but identity does not. Out-of-state small-dollar ($30) donor to McKee-Rodriguez.",
+    "source_url": "https://oregon.providence.org/location-directory/p/vancouver-rehab/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "132642d8-3e8e-4b62-b003-d1a941167a83",
+    "name": "Perez, Alex",
+    "resolved_employer": "Bel Brands USA (food/dairy manufacturer), Appleton area, WI",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Occupation 'Forklift operator' at 'Bel brands usa' with Appleton, WI 54913 address is consistent with Bel Brands USA's cheese operations in the Appleton/Little Chute, WI area. Employer sector (consumer food manufacturing) resolves; nearest taxonomy label is Retail. Specific individual not confirmable in public records.",
+    "source_url": "https://www.wisconsincheese.com/wi-cheese-companies/44/bel-brands-usa",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "0a659388-092b-4359-9b9e-41496625c15b",
+    "name": "Price, Georganna",
+    "resolved_employer": "Ohio State University Physicians, Inc. (OSU Physicians)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "LinkedIn profile 'Georganna Price - Director Revenue Cycle' matches the listed occupation 'Revenue cycle manager' at 'OSU physicians'; Canal Winchester, OH 43110 is a Columbus-area suburb near OSU Physicians. Name + occupation + employer + geography corroborate. No PAC, lobbyist, arena, or charter affiliations found (Texas-specific checks N/A to an Ohio resident).",
+    "source_url": "https://www.linkedin.com/in/georganna-price-mha",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "048c5597-1068-4dd8-882b-fa815c81af81",
+    "name": "Ortega, Lisa",
+    "resolved_employer": "Community health worker (CHW); 'THC' employer abbreviation unresolved (likely a San Antonio community-health / Texas HHSC-related org)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Occupation 'CHW' (community health worker) in San Antonio 78229 (medical district) is consistent with SA's health sector CHW roles; could not confirm the specific employer abbreviation 'THC' or identify the individual. Sector (Healthcare) resolves generically; identity does not. Gave to Mayor Gina Ortiz Jones.",
+    "source_url": "https://www.sa.gov/Directory/Departments/SAMHD/Health-Professionals/CHW-Hub",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "04363f0f-1de7-41dc-bc7f-e0de3003a7ff",
+    "name": "Ruiz, Chris",
+    "resolved_employer": "Bill Miller Bar-B-Q (Bill Miller's Bar-B-Que Enterprises, Ltd.)",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Occupation 'Manager' at 'Bill millers' with San Antonio 78229 address maps to Bill Miller Bar-B-Q, the San Antonio restaurant chain. Employer resolves; the specific manager named Chris Ruiz could not be individually confirmed in public records.",
+    "source_url": "https://www.billmillerbbq.com/careers/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7de5882c-3f7e-4b70-9a5e-41d151bac082",
+    "name": "Pelkey, Tommy",
+    "resolved_employer": "The SYGMA Network (Sysco food distribution), Converse, TX",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Self-reported as Warehouse Associate at Sygma Network, Converse TX 78109. The SYGMA Network is Sysco's food-distribution subsidiary with a Converse-area warehouse; occupation and employer are internally consistent. No web/news footprint for the specific individual; ordinary resident. No ideological PAC, lobbyist, arena, or charter connection surfaced.",
+    "source_url": "https://www.sygmanetwork.com/Contact.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8f7468e5-8f7f-41f8-832c-0d714b8ba0ef",
+    "name": "Jimenez, Jr, Homer",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer reported by donor. Common name; no public records could be tied to this specific San Antonio 78224 individual to resolve even a generic employer. No FEC PAC, lobbyist, arena, or charter connection found. Ordinary resident; unresolvable. Gave to Edward Mungia (D4).",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e1cc26af-ec44-4b02-a88c-f849183aa2c8",
+    "name": "Salazar, Zachary",
+    "resolved_employer": "Watertight Pool & Spa (pool/spa service contractor, McKinney/Dallas area)",
+    "industry": "Construction",
+    "confidence": "medium",
+    "evidence": "Self-reported as Pool technician at Watertight Pool & Spa. The firm is a confirmed pool/spa service contractor in McKinney, TX (Collin/Dallas area), geographically consistent with the donor's 75243 (NE Dallas) zip. Pool/spa service classified under Construction (contractor trade). Individual name not separately confirmed but occupation/employer corroborate. No PAC, lobbyist, arena, or charter connection.",
+    "source_url": "https://www.buildzoom.com/contractor/watertight-pool-and-spa",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d503a325-28e7-47f9-ae12-36de1b0ab3bb",
+    "name": "Frank, Lujano",
+    "resolved_employer": "Church's Chicken (fast food), San Antonio",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Self-reported as Cashier at Church's Chicken, 2919 Owasso, San Antonio; $27 to Teri Castillo. Fast-food cashier classified as Hospitality/Events. Name common; no public record confirms this specific person. NOTE: likely the same person as separate record 'Lujano, Frank' (donor_id bb99130c, name reversed, same Owasso address) — flagged per instructions, not merged; donor_id retained. No PAC, lobbyist, arena, or charter connection.",
+    "source_url": "https://en.wikipedia.org/wiki/Church%27s_Texas_Chicken",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c154f741-ee90-4fed-82cf-d45104e591cd",
+    "name": "Walker, Leonora",
+    "resolved_employer": "Self-employed (business unverified)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Self-reported as CEO / Self employed. A people-search record confirms a Leonora Walker at the 1938 S. Zarzamora #9104, San Antonio 78207 address, but no business entity, registered company, or professional profile substantiates a CEO role. Industry recorded as Self-Employed on the self-reported basis only. No ideological PAC, lobbyist, arena, or charter connection.",
+    "source_url": "https://www.ussearch.com/people-search/leonora-walker/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "bb99130c-4670-46fc-a85e-d874a95e9629",
+    "name": "Lujano, Frank",
+    "resolved_employer": "Church's Chicken (fast food), San Antonio",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Filing lists Frank Lujano, cashier at Church's Chicken, 2919 Owasso, San Antonio; $27 to Teri Castillo. Web searches surfaced only unrelated people; no match to a fast-food cashier at this address. Likely the same individual as separate record 'Frank, Lujano' (donor_id d503a325, name reversed, same Owasso address); noted per instructions, not merged, donor_id retained. No ideological PAC, lobbyist, arena, or charter connection.",
+    "source_url": "https://www.legacy.com/us/obituaries/sanantonio/name/frank-lujan-obituary?id=7734850",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9773fb4c-aa53-4c18-a1be-971ad8d91e82",
+    "name": "Resendez, Jason",
+    "resolved_employer": "Guerra Underground (underground utility construction firm)",
+    "industry": "Construction",
+    "confidence": "low",
+    "evidence": "Filing lists Jason Resendez, Estimator at Guerra Underground, San Antonio; $27 to Teri Castillo. Guerra Underground confirmed as an underground utility construction firm; occupation 'Estimator' fits Construction. Multiple 'Jason Resendez' profiles exist in San Antonio but none confirmed as this specific estimator; identity unverified. No PAC, lobbyist, arena, or charter connection.",
+    "source_url": "https://projects.constructconnect.com/companies/1840135-guerra-underground",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "550678cc-f7c4-40ef-a6c8-326e61842077",
+    "name": "Morgans, Gareth",
+    "resolved_employer": "Office of a Houston City Council Member (municipal staff)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Public LinkedIn and City of Houston records confirm Gareth Morgans works in the office of a Houston City Council Member (UH grad; prior service in the office of CM David W. Robinson, District C) on constituent service, scheduling, and policy — consistent with the filing's 'Deputy Chief of Staff, Houston City Council' listing; appeared in the public record registering to speak at a Feb 2025 council meeting. Public-facing municipal political staff role = Government. No FEC/OpenSecrets match, no TX lobbyist registration, no arena or charter ties.",
+    "source_url": "https://www.linkedin.com/in/gareth-morgans-9110b035/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4a6c06a4-5f25-495b-a396-460d7bc13c0b",
+    "name": "Valdez, Eugene",
+    "resolved_employer": "Rounders Card Club (San Antonio poker/card club)",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Filing lists Eugene Valdez, Gaming Dealer at Rounders, 1511 Larkspur, San Antonio 78213; $27 to Jalen McKee-Rodriguez. 'Rounders' confirmed as Rounders Card Club, a membership poker/card club in San Antonio; poker dealer classified as Hospitality/Events. No individual named Eugene Valdez could be matched to this address/role, so identity unverified. No PAC, lobbyist, arena, or charter connection.",
+    "source_url": "https://www.bbb.org/us/tx/san-antonio/profile/game-tables/rounders-card-club-0825-1000163665",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2f5d80fd-6978-41fb-8de0-a00d28f1b44f",
+    "name": "Stephanie, Morales",
+    "resolved_employer": "MTC Inc. (San Antonio restaurant company)",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Name field reversed — likely Morales, Stephanie. Filing lists Waitress at 'MTC INC.', 2903 Edison Crest, San Antonio 78210; $27 to Teri Castillo. MTC Inc. is a San Antonio restaurant company (directory listings associate it with Mi Tierra Café); waitress = Hospitality/Events. Many unrelated 'Stephanie Morales' individuals surfaced but none corroborated by zip 78210 + waitress occupation; identity unverified. No PAC, lobbyist, arena, or charter connection.",
+    "source_url": "https://www.fyple.com/company/mtc-inc-qjfwq3n/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "2726a6ef-ecd8-4cbc-bf6a-3041671f807a",
+    "name": "Garcia, Brandon",
+    "resolved_employer": "EGLPASS LLC (hotel, front desk clerk), Eagle Pass, TX",
+    "industry": "Hospitality / Events",
+    "confidence": "low",
+    "evidence": "Donation record lists occupation 'Hotel Front Desk Clerk' and employer 'EGLPASS LLC' in Eagle Pass, TX; $27 to Teri Castillo. Very common name; no public web, FEC, lobbyist, arena, or charter records could be tied to this specific individual. Industry assigned from the record's own occupation (hotel front desk = hospitality). Ordinary resident with a quiet outcome.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "d04630d6-f15a-4133-a2cd-2c99ab035833",
+    "name": "Retiz, Sarita",
+    "resolved_employer": "City Year (AmeriCorps education nonprofit), Somerville/Boston, MA",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Donation record lists 'Project Leader' at 'City Year' at a Somerville, MA address. City Year is a documented AmeriCorps national-service education nonprofit; 'Project Leader' is a City Year staff role, consistent with the record. Employment at an education nonprofit is not an ideological affiliation. No FEC/PAC, TX lobbyist, arena, or charter/union advocacy records tied to her. Quiet outcome.",
+    "source_url": "https://www.cityyear.org/about/americorps/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fce7dad8-5a58-466f-95e3-94f25868523c",
+    "name": "Levron, Kevin",
+    "resolved_employer": "MSI (Sr DevOps), Bowie, MD — likely MSI Universal / Management Solutions Inc., a DC-area IT/defense-support contractor",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Donation record lists 'Sr DevOps' at 'MSI' in Bowie, MD; $25 to Mayor Gina Ortiz Jones. 'MSI' is ambiguous; the DC-metro match is MSI Universal (Management Solutions Inc.), an IT-services firm supporting USAF/DoD — a Sr DevOps role fits IT services. Specific individual not confirmed (only same-name LinkedIn hit is in Carrollton, TX, no corroboration). Industry (Technology) assigned from the DevOps/IT occupation. No PAC, lobbyist, arena, or charter connection.",
+    "source_url": "https://msiuniversal.com/about-us/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fce4ab4b-bc3f-477b-95fa-9a575ba30752",
+    "name": "Bulls, Haley",
+    "resolved_employer": "Apex Systems (national IT staffing firm), Alamo Heights / San Antonio, TX",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Donation record lists 'Account Manager' at 'Apex Systems' at an Alamo Heights (78209) address; $25 to Jalen McKee-Rodriguez. A LinkedIn profile for a 'Haley (Bulls)' in San Antonio exists but lists other employers (USAA / a restaurant), so occupation does not corroborate and identity is unconfirmed. Industry (Technology) assigned from the record's employer (IT staffing). No PAC, lobbyist, arena, or charter connection.",
+    "source_url": "https://www.linkedin.com/in/haleybulls",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

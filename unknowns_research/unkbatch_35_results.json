@@ -1,0 +1,222 @@
+[
+  {
+    "donor_id": "6c9f0ab0-4855-45e6-99b5-604afc5860c8",
+    "name": "Garcia, Sara",
+    "resolved_employer": null,
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Common name; could not confirm the specific individual in zip 78258. A different Sara Garcia (tech/marketing, zip 78254) appears in FEC small-donor records, not a match. Industry inferred only from filer-reported occupation 'Tech'.",
+    "source_url": "",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6acd97a3-4cde-4d84-9547-3892695aaf1f",
+    "name": "Garcia, Sergio",
+    "resolved_employer": "Catholic Charities Housing Services (Diocese of Yakima) / WA State Human Rights Commission",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Yakima WA location matches. Publicly documented as a housing developer for Catholic Charities Housing Services (CCHS), Diocese of Yakima, quoted describing a 73-unit affordable housing project; filer also lists WSHRC (WA State Human Rights Commission) investigator role, consistent with employer field 'Wshrc,CCHS'.",
+    "source_url": "https://kimatv.com/news/local/catholic-charities-to-launch-affordable-housing-project-in-yakima",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "675c25e6-7bca-47dc-a642-a62333370b47",
+    "name": "Rodriguez, Jackelyn",
+    "resolved_employer": "YWCA San Antonio",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed Marketing Coordinator at YWCA San Antonio (ZoomInfo profile + LinkedIn jackelyn-rodriguez-utsa), matching filer occupation 'Marketing Coordinator' and employer 'ywca SA'. Prior City of San Antonio constituent-services role. San Antonio resident.",
+    "source_url": "https://www.zoominfo.com/p/Jackelyn-Rodriguez/10475324477",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "66998363-3496-4999-b307-ab4df220f6cf",
+    "name": "Hayden, Carlisha",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Could not confirm the specific individual (zip 78252, customer service). Employer field 'Carlisha' appears to be a self-reference. No public professional footprint found; searches surfaced unrelated San Antonio 'Hayden' businesses/realtors.",
+    "source_url": "",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6522fc10-b283-4e12-a4a5-ba1cf3bce151",
+    "name": "Covill, Nick",
+    "resolved_employer": "TimeClock Plus (TCP Software), San Angelo TX",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Nickolus Covill's LinkedIn confirms a QA Analyst role at TimeClock Plus in the San Angelo TX area (later QA Engineer at Stellantis). Matches filer occupation 'QA Specialist', employer 'TimeClock Plus', and San Angelo 76904 location. TimeClock Plus is a workforce-management software firm.",
+    "source_url": "https://www.linkedin.com/in/nickolus-covill/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "642f0d49-6dd0-46ae-859a-95940c649043",
+    "name": "Silhavy, Wayne",
+    "resolved_employer": "LMI (Logistics Management Institute)",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Could not locate a bio for this specific individual, but the surname is uncommon and LMI (a federal-government management/IT consultancy) is confirmed to employ Scrum Masters in San Antonio (Glassdoor), consistent with filer occupation 'Scrum Master' and employer 'LMI'. Industry is an employer-fallback inference.",
+    "source_url": "https://www.glassdoor.com/Salary/LMI-Scrum-Master-San-Antonio-Salaries-EJI_IE21939.0,3_KO4,16_IL.17,28_IM757.htm",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5fc1499a-3f74-4f16-8a3b-cf676b3668ed",
+    "name": "Bajer, Suzanne",
+    "resolved_employer": "Texas Housers (Texas Low Income Housing Information Service)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Distinctive surname; not listed on the current Texas Housers staff page (possibly former staff), but filer-reported employer 'TX Housers' clearly identifies Texas Housers, a housing-justice advocacy nonprofit, consistent with occupation 'Equity Analyst'. San Antonio (78220) resident.",
+    "source_url": "https://texashousers.org/members/staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5b5359d5-75e0-4f66-be20-c7899058352b",
+    "name": "Doby, Meredith",
+    "resolved_employer": "The DoSeum",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Meredith Doby is Chief Creative Officer at The DoSeum, San Antonio's children's museum; rose from Exhibits Director to VP of Exhibits. Confirmed via LinkedIn and official DoSeum leadership/team bio page matching filer-reported title and employer.",
+    "source_url": "https://www.thedoseum.org/leadership-new/team+members/meredith-doby",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "5afec1f9-01f0-4944-a911-e84f8878d880",
+    "name": "Beesley, Sara",
+    "resolved_employer": "Mitchell Lake Audubon Center (National Audubon Society)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Sara Pruneda Beesley is Director of the Mitchell Lake Audubon Center in San Antonio (conservation/birding nonprofit); Trinity University BA, OLLU MS in Nonprofit Management. Confirmed via Audubon staff page and multiple SA media profiles matching 'Audubon'/'Director'.",
+    "source_url": "https://mitchelllake.audubon.org/about/staff-and-advisory-board",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4f137610-9f38-4ad5-baf5-4bd4c3cda38b",
+    "name": "Wallace, Jennifer",
+    "resolved_employer": "Wallace (self)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "A Jennifer Wallace is associated with the filer-reported address 1548 W Huisache Ave, San Antonio TX 78201, but no public source corroborates the 'Agriculture' occupation; employer listed as own surname implies self-employment. Could not confirm specific individual's work.",
+    "source_url": "",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4e14c7f6-0107-42a6-a7d0-9d27304cdeb1",
+    "name": "Hill, Scott",
+    "resolved_employer": "State of Texas (agency unconfirmed)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Filer reports 'Safety manager' for 'State' at a San Antonio (78202) address. A possible LinkedIn match (Scott Hill, EHS Section Chief, Texas Division of Emergency Management) fits the safety+state profile but is Austin-based and unconfirmed against this zip. Industry inferred from filer-reported 'State' employer.",
+    "source_url": "https://www.linkedin.com/in/scott-hill-0b648284/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4d335e64-a5a3-42bd-a8e2-31dd967f2038",
+    "name": "Burenko, Marco",
+    "resolved_employer": "Brevard Pathology Services, P.A.",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Marco Burenko, MD, is a pathologist and Vice President at Brevard Pathology Services, P.A. (Merritt Island/Cocoa Beach, FL), matching filer-reported occupation, employer, and Florida location. Confirmed via LinkedIn and business directories.",
+    "source_url": "https://www.linkedin.com/in/marco-burenko-b7873513/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4ba87f75-5e01-4911-8c72-2c6a78b4447a",
+    "name": "mendo, meneto",
+    "resolved_employer": "The Center for Health Care Services (CHCS)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Name is garbled/unresolvable; filer data (occupation/employer fields swapped) indicates an Early Childhood Intervention Specialist at The Center for Health Care Services, San Antonio's public mental-health/ECI provider. Employer confirmed as a real SA healthcare org, but the specific individual could not be identified.",
+    "source_url": "https://chcsbc.org/get-help/children/early-childhood-intervention/early-childhood-adolescent-mental-health-services/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4b43bf1d-f0cf-4d04-a188-0d96c72c036b",
+    "name": "Schwieger, Matthew",
+    "resolved_employer": "PartsMarket",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Matthew Schwieger is VP of Business Development at PartsMarket, associated with the filer-reported Waterloo, IA address (810 Sheridan Rd, 50701). Confirmed via LinkedIn and sales-database listings matching title and location; out-of-state donor to Jalen McKee-Rodriguez.",
+    "source_url": "https://www.salesgear.io/p/matthew-schwieger-email-phone",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "48b9929f-fbd1-48c9-9765-658e3c9680bd",
+    "name": "Smith, Allison",
+    "resolved_employer": "Texas Biomedical Research Institute (filer-reported; unconfirmed)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Common name; could not confirm the specific Dickinson TX individual. A lab-science 'Allison Smith' with Texas Biomedical Research Institute history appears in ZoomInfo but cannot be tied to the Dickinson 77539 donor. Industry inferred from filer-reported biomedical research employer.",
+    "source_url": "https://www.zoominfo.com/p/Allison-Smith/3999203157",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "4766e22f-8285-4a95-8707-28e65162c975",
+    "name": "Wadkins, Richard",
+    "resolved_employer": "Military Sealift Command (U.S. Navy federal civilian mariner)",
+    "industry": "Government",
+    "confidence": "low",
+    "evidence": "Merchant mariner (CIVMAR) with Military Sealift Command, a federal government employer. No specific-person records found for the Winter Park FL individual; classified by filer-reported federal employer. Not a defense-contractor tie.",
+    "source_url": "https://www.msc.usff.navy.mil/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "463f2a1c-11ac-40a3-bca9-e9a292bc0155",
+    "name": "Kelley, Brant",
+    "resolved_employer": "Defense Health Agency (U.S. DoD federal civilian)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Brant Kelley, MHA, LSSGB, Health System Specialist at Defense Health Agency in San Antonio — matches filer occupation and 78229 location. Federal-government health administrator, not a defense-contractor tie.",
+    "source_url": "https://www.linkedin.com/in/brant-kelley-mha-lssgb-113280145/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "45437c2e-861c-439f-a8af-3b7f612b56f5",
+    "name": "Williams, Adam",
+    "resolved_employer": "Rivian (Volkswagen Group Technologies) — Lead Technical Recruiter",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "RocketReach/LinkedIn identify an Adam Williams as Lead Technical Recruiter at Rivian & Volkswagen Group Technologies based in San Antonio, consistent with filer 'HR' occupation and Rivian employer. Common name; identity probable but not fully corroborated on the 78232 address.",
+    "source_url": "https://rocketreach.co/adam-williams-email_74606871",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "453ce756-6dd9-42b7-a8a5-18bc10600468",
+    "name": "M Connell, Sheena",
+    "resolved_employer": "University of the Incarnate Word — Assistant Director, International Student & Scholar Services",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "Filer 'M Connell, Sheena' = Sheena Maria Connell, Assistant Director of International Student & Scholar Services at University of the Incarnate Word, San Antonio, since 2012; matches Administrator/UIW and 78209 area. Professional (NAFSA) involvement only, no political affiliations.",
+    "source_url": "https://theorg.com/org/university-of-the-incarnate-word/org-chart/sheena-maria-connell",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "43b66aaf-9309-450e-bd54-1c999a36a669",
+    "name": "Obinyan, Bianca",
+    "resolved_employer": "University of Texas Medical Branch (UTMB) — Health Policy Research Coordinator / MD-MPH candidate",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Bianca Obinyan, UTSA biology grad and UTMB MD-MPH, served as Health Policy Research Coordinator at UTMB Galveston (now a psychiatry resident); matches filer occupation, employer and Galveston 77550. Authored student policy work on school discipline disparities but no charter-school or lobbying role found.",
+    "source_url": "https://www.utmb.edu/cvp/healthpolicyresearch/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

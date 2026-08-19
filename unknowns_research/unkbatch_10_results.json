@@ -1,0 +1,236 @@
+[
+  {
+    "donor_id": "2c388d2b-52be-4f46-a4be-875df6b72efd",
+    "name": "Gonzales, Roland",
+    "resolved_employer": null,
+    "industry": "Not Employed",
+    "confidence": "low",
+    "evidence": "Donor listed occupation 'Un-employed' with no employer. Contribution to Marc Whyte appears in City of San Antonio campaign-finance records. Name is common in San Antonio (multiple Roland/Rolando Gonzales/Gonzalez records); could not confirm a specific individual by zip 78229 + occupation, and the donor self-reports as unemployed, so no industry beyond 'Not Employed' is supportable. All five searches run; no PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000003167_20240715_120451.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "206cf31c-aab7-475b-85e9-e8f191bb93a4",
+    "name": "AFLCIO, San Antonio",
+    "resolved_employer": "San Antonio AFL-CIO Central Labor Council",
+    "industry": "Labor",
+    "confidence": "high",
+    "evidence": "Not an individual. The address 9502 Computer Drive #201, San Antonio TX 78229 matches the San Antonio AFL-CIO Central Labor Council, a democratically elected body of the AFL-CIO representing organized labor at the state/local level. It is an organized-labor federation, and its contribution to Ric Galvan is an institutional labor political donation. All five searches run.",
+    "source_url": "https://texasaflcio.org/sanantonio/about-us",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "San Antonio AFL-CIO Central Labor Council", "role": "the donor entity itself; central labor council of the AFL-CIO", "category": "civic", "source_url": "https://texasaflcio.org/sanantonio/about-us", "snippet": "One of nearly 500 state and local labor councils of the AFL-CIO, a democratically elected body dedicated to represent the interests of working people at the state and local level."}
+    ]
+  },
+  {
+    "donor_id": "3cd9af10-6f95-4609-9b3a-f15ab272dc91",
+    "name": "French, Emily",
+    "resolved_employer": "Common Cause Texas",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Resolved to Emily Eby French (full name Emily Elizabeth Eby French, licensed TX attorney). She is Policy Director at Common Cause Texas, a nonprofit democracy/voting-rights advocacy org, and is a voting-rights attorney; previously Voting Rights Staff Attorney at Texas Civil Rights Project and an associate at education-law firm Walsh Gallegos. Occupation 'Lawyer/Policy Director' and employers 'Walsh Gallegos, Common Cause' match exactly. No lobbyist registration, PAC, arena, or charter donations found. Her advocacy is on voting/democracy, not the tracked spectrums.",
+    "source_url": "https://www.commoncause.org/texas/people/emily/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Common Cause Texas", "role": "Policy Director", "category": "civic", "source_url": "https://www.linkedin.com/in/emily-eby-french-a46485111/", "snippet": "Policy Director at Common Cause Texas; voting rights attorney specializing in county voting reforms and election protection (nonpartisan democracy-reform nonprofit)."}
+    ]
+  },
+  {
+    "donor_id": "f8459d1c-6f93-46f7-91d5-b42c8cf74e5e",
+    "name": "Hussain, Faraaz",
+    "resolved_employer": "Applied Insight",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Resolved to Faraaz Hussain, Senior Systems Administrator at Applied Insight (an IT/cleared-solutions government contractor); has a personal professional site (faraazhussain.com) and ZoomInfo profile confirming the systems-administrator role at Applied Insight. Occupation 'System Administrator' and employer 'Applied Insight' match. Role is IT/systems administration -> Technology. No PAC, lobbyist, arena, or charter ties found; declined to infer a military_defense affiliation from employer alone.",
+    "source_url": "https://faraazhussain.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e65ebd15-5b93-47b8-b2c9-c1cd3cbbba34",
+    "name": "Othon, Joanne",
+    "resolved_employer": null,
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Donor listed occupation 'self' with no employer; contribution to Teri Castillo confirmed in Texas Ethics Commission / City of San Antonio records at 939 S Frio St, 78207. Only public records found are address/relative listings (a Joanne/JoAnn Othon connected to the Othon family in San Antonio); no professional profile, business, or specific occupation could be confirmed. Self-reported 'self' supports only a Self-Employed label, not a specific industry. All five searches run; no PAC, lobbyist, arena, or charter ties found.",
+    "source_url": "https://webapp5.sanantonio.gov/CampFinHistoricPDFFiles/rpt0000002913_20230118_074540.pdf",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ca149ce8-d285-4f82-9406-b923547f2455",
+    "name": "Phelps, Richard",
+    "resolved_employer": "Phelps Industries LLC (Watertown, MA) - consumer/household & pet products manufacturer; founder & chairman",
+    "industry": null,
+    "confidence": "medium",
+    "evidence": "Richard J. Phelps of Watertown MA (02472) is confirmed founder/chairman of Phelps Industries LLC, a pet/household products manufacturer (name, zip, occupation 'Chairman', employer all match). FEC/aggregator records show him giving to Democratic congressional candidates (Spanberger $500 2018; Colin Allred $1,000 2018), consistent with a $200 gift to mayoral candidate Gina Jones. No pro-Israel/pro-Palestine, oil & gas, defense, gun, arena, or charter-school PAC activity found. No Texas lobbyist registration. Industry left null because the taxonomy has no consumer-products/manufacturing category and forcing 'Retail' would misrepresent a manufacturer.",
+    "source_url": "https://www.city-data.com/elec2/18/elec-WATERTOWN-MA-18-part4.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Democratic congressional candidates (Spanberger, Colin Allred)", "role": "individual donor", "category": "political", "source_url": "https://www.city-data.com/elec2/18/elec-WATERTOWN-MA-18-part4.html", "snippet": "Richard J. Phelps, Phelps Industries, Watertown 02472: $500 to Spanberger for Congress (2018) and $1,000 to Colin Allred for Congress (2018)."}
+    ]
+  },
+  {
+    "donor_id": "c66ec12a-5191-43a9-9b8f-bbbc64a4effc",
+    "name": "Hasan, Jawaad",
+    "resolved_employer": "Snap Inc. (Snapchat), Santa Monica CA - Senior Client Partner (ad sales)",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Jawaad Hasan as Senior Client Partner at Snap Inc. in Santa Monica (matches occupation 'Sales', employer 'Snapchat', zip 90401); role is advertising sales at a technology company. Out-of-state small donor ($200) to Sakib Shaikh. No FEC PAC contributions, pro-Israel/pro-Palestine advocacy, Texas lobbyist registration, arena, or charter-school activity found - employer-fallback classification.",
+    "source_url": "https://www.linkedin.com/in/jawaadhasan/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "c0abd36a-3c41-482f-9366-c01e9ff7c847",
+    "name": "Mohammad, Rafsunjani",
+    "resolved_employer": "UHS / University Health (San Antonio public hospital system) - Physician Assistant (per donation record)",
+    "industry": "Healthcare",
+    "confidence": "low",
+    "evidence": "Could not confirm this specific individual online by name/zip/occupation; no public profile, FEC, lobbyist, arena, or charter-school records located. Industry assigned as Healthcare on employer-fallback basis only: the donation record's occupation 'PA' (physician assistant) and employer 'UHS' (University Health System, San Antonio) unambiguously indicate a healthcare setting. $200 gift to Sakib Shaikh.",
+    "source_url": "https://www.universityhealth.com/providers",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "aca16e50-ce96-4029-8517-dbb16456ab2f",
+    "name": "Mehdawi, Nader",
+    "resolved_employer": "Culturingua (San Antonio nonprofit) - Co-Executive Director / COO",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed via Culturingua leadership page and LinkedIn: Nader Mehdawi, PE, is Co-Executive Director/COO of Culturingua, a San Antonio nonprofit serving the Silk Road Cultural Heritage District (small-business programming, affordable homeownership/community land trust, arts & culture). Former civil engineer (Corpus Christi Harbor Bridge project); Social Venture Partners San Antonio fellow; frequent speaker on immigrant/refugee economic empowerment. Matches occupation 'COO', employer 'Culturingua', SA zip 78240. No FEC PAC, Texas lobbyist, arena, or charter-school records found. $200 gift to Sakib Shaikh.",
+    "source_url": "https://www.culturingua.com/about-us/leadership-board",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Culturingua", "role": "Co-Executive Director / COO", "category": "civic", "source_url": "https://www.culturingua.com/about-us/leadership-board", "snippet": "Nader serves as Co-Executive Director at Culturingua, overseeing small-business programming and leading development of the Silk Road Community Land Trust; a Social Venture Partners San Antonio fellow who speaks on economic empowerment for immigrants and refugees."}
+    ]
+  },
+  {
+    "donor_id": "a35586cc-71d3-4035-b58f-5c839c6684be",
+    "name": "Muhammad Butt, Irfan",
+    "resolved_employer": "Self-employed / business owner (per donation record); unconfirmed online",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Could not confirm this specific individual by zip 78249 + occupation; 'Irfan Butt' is a common name with multiple LinkedIn profiles (one lists 'Chief Executive Officer - Self-employed' but cannot be tied to the 78249 address). Industry 'Self-Employed' maps directly from the donation record's stated occupation 'Business Owner' / employer 'Self-employed', not an inference. No FEC PAC, Texas lobbyist, arena, or charter-school activity found. $200 gift to Ivalis Gonzalez.",
+    "source_url": "https://www.linkedin.com/in/irfan-butt-03569b250/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "93d8e401-2eee-49a0-8755-bc26363af8fa",
+    "name": "Alvarado, Vanessa",
+    "resolved_employer": "Rova Property Management / La Grande",
+    "industry": "Real Estate",
+    "confidence": "medium",
+    "evidence": "Listed occupations 'Managing Member / General Manager' at Rova Property Management (a San Antonio property-management firm) place her in property management / real estate. No distinct public profile (LinkedIn hits for 'Vanessa Alvarado' in San Antonio map to a City sanitarian, a different person). Despite the special real-estate/arena/downtown check, no FEC PAC contributions, no TX lobbyist registration, and no arena (Project Marvel/Spurs) or charter-school ties were found; address 8058 Broadway is in Alamo Heights, not the downtown arena footprint.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "59d06def-eeb9-4e53-b5b8-ffa857f28a8a",
+    "name": "Pretty, Cecily",
+    "resolved_employer": "City of Sweet Home, Oregon",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Cecily Hope Pretty is a municipal government administrator for the City of Sweet Home, Oregon (Interim/Assistant City Manager, later Deputy City Manager; previously held administrative posts with the City of San Antonio). No FEC PAC contributions, no TX lobbyist registration, and no arena or charter-school affiliations found. Donation to Sakib Shaikh appears to reflect a former-San-Antonio-colleague relationship.",
+    "source_url": "https://www.sweethomeor.gov/citycouncil/page/press-release-city-council-sweet-home-appoints-new-city-manager-dual-role",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "599dbe49-2e21-4872-8d06-9532235bd49b",
+    "name": "Bhatia, Shawn",
+    "resolved_employer": "Stand Together",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "LinkedIn (Cypress/Houston TX) identifies Shawn Bhatia as Research Manager at Stand Together, the Charles Koch-network advocacy/philanthropy organization; prior role listed as Development Associate at Stand Together. Employment is at an advocacy nonprofit, so industry is Nonprofit / Advocacy. No FEC PAC contributions under his name, no TX lobbyist registration, and no arena or charter-school ties found.",
+    "source_url": "https://www.linkedin.com/in/shawnbhatia/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Stand Together", "role": "Research Manager (employee)", "category": "political", "source_url": "https://www.linkedin.com/in/shawnbhatia/", "snippet": "LinkedIn: 'Shawn - Research Manager @ Stand Together' — Stand Together is the Koch-network political/advocacy organization; the role is employment, not documented independent advocacy."}
+    ]
+  },
+  {
+    "donor_id": "551729bb-c135-4eac-a47d-3ee59da11931",
+    "name": "Baghdadi, Amjed",
+    "resolved_employer": "U.S. Department of Veterans Affairs / Veterans Health Administration",
+    "industry": "Healthcare",
+    "confidence": "high",
+    "evidence": "Amjed S. Baghdadi, FACHE, CPHQ, is a veteran healthcare executive with the Veterans Health Administration ('DVA' = Dept. of Veterans Affairs); roles include Associate Director for High Reliability Infrastructure (VHA Hi-RES), and prior Chief of Quality Management at South Texas VA and Assistant Director for Operations at Central Texas VA (Austin). Profile via the American College of Healthcare Executives. No FEC PAC contributions, no TX lobbyist registration, and no arena or charter-school ties found.",
+    "source_url": "https://www.ache.org/people/Amjed-Baghdadi-Web",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "American College of Healthcare Executives (ACHE)", "role": "Fellow (FACHE)", "category": "business", "source_url": "https://www.ache.org/people/Amjed-Baghdadi-Web", "snippet": "Listed as 'Amjed S. Baghdadi, FACHE, CPHQ, CLSSBB' on ACHE — professional healthcare-executive credential/membership."}
+    ]
+  },
+  {
+    "donor_id": "48b7535f-6598-4eea-856c-b5556aef25e1",
+    "name": "Dean, Worth",
+    "resolved_employer": "Okcoin",
+    "industry": "Finance",
+    "confidence": "medium",
+    "evidence": "Occupation 'AML' (anti-money-laundering / compliance) at Okcoin, a cryptocurrency exchange, places the role in financial-compliance; classified Finance (crypto-exchange compliance) rather than Technology. No distinct public profile for 'Worth Dean' was located; no FEC PAC contributions, no TX lobbyist registration, and no arena or charter-school ties found. Classification is by stated employer/occupation.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "3e4449d4-dfbc-482a-8e69-0c79c2c5e85a",
+    "name": "Iqbal, Uzair",
+    "resolved_employer": "Ecompex, Inc. (federal government-contracting professional-services firm, San Antonio)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "TEC/city campaign-finance filing lists Uzair Iqbal, Analyst at Ecompex, 13114 Aurora Crst, San Antonio 78249, matching donor record. Ecompex is an ISO/CMMI Gov-Con providing program/acquisition management, engineering, financial analysis & consulting, records/document management and IT support to federal/state/local agencies. No FEC PAC contributions, no Texas lobbyist registration, no arena/Project Marvel or charter-school ties found.",
+    "source_url": "https://clutch.co/profile/ecompex",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "23207f7f-a0cb-416d-89ec-98ee8b92fa74",
+    "name": "Moya, Steven",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Donor record has blank occupation/employer; address 423 Blue Star is the Blue Star Arts Complex (arts/mixed-use, Southtown). A same-named San Antonio music professional, DJ Steven Lee Moya, appears in local arts listings, but identity cannot be confirmed by zip+occupation, so no industry is assigned. No FEC PAC contributions, no Texas lobbyist registration, no arena/Project Marvel political ties, and no charter-school ties found.",
+    "source_url": "https://events.getcreativesanantonio.com/artist/steven-moya/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e399a687-52da-4483-9700-d62d74cf589f",
+    "name": "Prather, Savannah",
+    "resolved_employer": "CVS Health / CVS Caremark (Supervisor/Manager)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Classified by employer per fallback: donor record lists roles Supervisor/Manager at CVS/Caremark / CVS Health, a pharmacy-benefit-management and pharmacy health-services company. No public individual profile beyond the employer. No FEC PAC contributions, no Texas lobbyist registration, no arena/Project Marvel ties, and no charter-school ties found.",
+    "source_url": "https://en.wikipedia.org/wiki/CVS_Caremark",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "b73559d0-ad5d-4283-b2ba-fb3b03551e64",
+    "name": "Babajanian, Armen",
+    "resolved_employer": "World Affairs Council of San Antonio (Chief Executive Officer)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Confirmed CEO of the World Affairs Council of San Antonio, a nonpartisan educational foreign-policy civic forum founded 1982; previously COO of Big Brothers Big Sisters of South Texas. WACOFSA is explicitly nonpartisan/educational, not a policy-advocacy body. No FEC PAC contributions (including pro-Israel/AIPAC or other PACs), no Texas lobbyist registration, no arena/Project Marvel ties, and no charter-school ties found.",
+    "source_url": "https://www.linkedin.com/in/armen-babajanian-abb9995/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "World Affairs Council of San Antonio", "role": "Chief Executive Officer", "category": "civic", "source_url": "https://www.ksat.com/news/local/2024/02/18/leading-sa-the-impact-of-the-world-affairs-council-of-san-antonio/", "snippet": "Armen Babajanian is CEO of the World Affairs Council of San Antonio, a nonpartisan educational forum (founded 1982) that promotes public understanding of U.S. foreign policy and global affairs; no advocacy/policy-position role documented."}
+    ]
+  },
+  {
+    "donor_id": "ced76933-2ad5-4c18-a305-345d66a86071",
+    "name": "Miranda, Brianna",
+    "resolved_employer": "New Day Resiliency Center / Sunny Glen Children's Home (Purchasing Clerk)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "medium",
+    "evidence": "Classified by employer per fallback: donor record lists Purchasing Clerk at New Day Resiliency Center (Raymondville/Rio Grande Valley, TX), a youth behavioral-health facility affiliated with Sunny Glen Children's Home, a nonprofit children's home. No public individual profile found. No FEC PAC contributions, no Texas lobbyist registration, no arena/Project Marvel ties, and no charter-school ties found.",
+    "source_url": "https://www.indeed.com/cmp/Sunny-Glen-Children's-Home-New-Day-Resiliency-Center",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

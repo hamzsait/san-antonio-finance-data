@@ -1,0 +1,222 @@
+[
+  {
+    "donor_id": "a11f581a-a1f2-4c47-889e-fde536b76d5f",
+    "name": "Spann, Helen",
+    "resolved_employer": "RIVA Solutions Inc. (federal IT/management consulting contractor)",
+    "industry": "Consulting / PR",
+    "confidence": "medium",
+    "evidence": "Filer-reported as Portfolio Manager at RIVA Solutions Inc., a McLean-VA-based SBA 8(a) federal IT/management-consulting contractor; zip 77003 matches the Houston, TX address on file. No independent personal profile located to corroborate beyond the candidate's own schedule filing.",
+    "source_url": "https://rivasolutionsinc.com/about/leadership/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9db00c13-1aae-4add-bfab-2aab98871198",
+    "name": "Brite, Kay",
+    "resolved_employer": "AMN Healthcare (healthcare staffing)",
+    "industry": "Healthcare",
+    "confidence": "medium",
+    "evidence": "Filer-reported occupation 'Health' with employer 'Amn' (AMN Healthcare, a national healthcare/travel-staffing firm); zip 40422 matches the Danville, KY address on file. Out-of-state small-dollar donor to Misty Spears; no personal public profile found.",
+    "source_url": "https://www.amnhealthcare.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "9b8f495d-1354-41a7-adb5-1b06db603df7",
+    "name": "Latiolais, Jeanette",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation/employer on file. A Jeannette Maitre Latiolais obituary places a same-named woman in the San Antonio/Universal City area (military spouse, died Dec 2025, age 79, Friends of the Library volunteer), consistent with the 78239 address, but identity/occupation cannot be corroborated and the donor could be a household relative. No career to classify.",
+    "source_url": "https://www.dignitymemorial.com/obituaries/universal-city-tx/jeannette-latiolais-12653975",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "98aacf3d-9bdf-406c-8782-1efdda26cb2d",
+    "name": "Dominguez, Ronnie",
+    "resolved_employer": "Clearwater (employer unresolved)",
+    "industry": null,
+    "confidence": "low",
+    "evidence": "Filer-reported as 'Site Manager' at 'Clearwater' in San Antonio 78242; the generic role and ambiguous single-word employer ('Clearwater' could be any of several firms) could not be resolved to a specific company, and no matching public profile was found. Industry left null rather than guess.",
+    "source_url": "https://www.fec.gov/data/receipts/individual-contributions/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "96c38e5f-c5fd-4a8e-ac04-33745469aa5c",
+    "name": "Mead, Mark",
+    "resolved_employer": null,
+    "industry": null,
+    "confidence": "low",
+    "evidence": "No occupation or employer on file; common name in Winter Park, FL 32789 with no distinguishing public footprint located. Out-of-state $50 donor to Jalen McKee-Rodriguez; not identifiable to a specific person.",
+    "source_url": "https://www.city-data.com/elec/elec-WINTER-PARK-FL.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8d72b087-791d-4388-8b66-f010bfd2a664",
+    "name": "Martinez, David",
+    "resolved_employer": "VIA Metropolitan Transit",
+    "industry": "Transportation",
+    "confidence": "medium",
+    "evidence": "Occupation 'Manager' + employer 'VIA' match a David Martinez who is Manager of Safety at VIA Metropolitan Transit (San Antonio public transit agency). Common name; SA zip 78245 not independently confirmable, but occupation+employer corroborate.",
+    "source_url": "https://www.linkedin.com/in/david-martinez-24a79613/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "8799e969-df32-405b-a9e7-857549bfd9fe",
+    "name": "Vincent, Patti",
+    "resolved_employer": "Capistrano (retail; possibly Capistrano Soap Company, San Antonio)",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Filer-reported occupation 'Retail' and employer 'Capistrano'; likely Capistrano Soap Company, a small San Antonio retail/cosmetics shop. No public profile found tying Patti Vincent (78210) specifically to the business. Quiet retail-fallback outcome.",
+    "source_url": "https://centrosanantonio.org/go/capistrano-soap-company",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7eb20814-9a33-4d09-a163-2902dfdb8154",
+    "name": "Beltran, Ryan",
+    "resolved_employer": "MakeWater / Elequa Inc",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Founder & Executive Director of MakeWater (operated by nonprofit Elequa Inc), a STEM/water-science education nonprofit; organization's public address 314 W Glenview Dr, San Antonio 78228 exactly matches donor address. Award-winning filmmaker/innovator.",
+    "source_url": "https://www.makewater.org/about",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7b24ca44-5aa3-4361-9e05-cc5916c2d939",
+    "name": "Hickman, Kylee",
+    "resolved_employer": "Tom James Company (San Antonio)",
+    "industry": "Retail",
+    "confidence": "high",
+    "evidence": "Professional clothier/stylist and Account Manager at Tom James of San Antonio (custom suits/clothing); confirmed via firm's own clothier bio page and ZoomInfo. Also Membership Chair of Texas Women in Business SA (business networking, not policy).",
+    "source_url": "https://www.tomjames.com/kyleehickman/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "79a3ee9a-fcd3-4b87-bd6f-b3fe159da16b",
+    "name": "A Baig, Asad",
+    "resolved_employer": "Collectors (PSA / Professional Sports Authenticator)",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "Occupation 'HR' + employer 'PSA' match Asad A. Baig, Human Resources Director at Collectors (parent of PSA/Professional Sports Authenticator, the collectibles authentication & grading company), based in the Dallas-Plano metro (donor address Plano 75074).",
+    "source_url": "https://www.linkedin.com/in/asadabaig/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "78ea4819-047b-42ea-8747-7d16b7bb2b42",
+    "name": "Gutierrez, Claudia",
+    "resolved_employer": "New American Funding (mortgage loan consultant)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Claudia Gutierrez, NMLS #739607, is a mortgage loan consultant/officer at New American Funding's San Antonio branch (18585 Sigma Rd), matching the filer-reported occupation and employer.",
+    "source_url": "https://www.newamericanfunding.com/mortgage-loans/claudiagutierrez",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "75acb2ab-35ad-4b3f-aa49-b5c283d15e68",
+    "name": "Ahmed, Rafae",
+    "resolved_employer": "KinderCare (financial/IT analyst)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Rafae Ahmed of San Antonio (LinkedIn: information systems/technology, later IT auditor) worked as an analyst at KinderCare, the early-childhood education company, matching the filer-reported occupation and employer.",
+    "source_url": "https://www.linkedin.com/in/rafae-ahmed-671489125",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "7471b25c-f912-4716-9095-5e5f25357150",
+    "name": "Watson, Charisse",
+    "resolved_employer": "Conduent (business analyst)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "No distinct public profile found for this individual; employer-fallback classification. Conduent is a technology-enabled business process services firm with a San Antonio presence, consistent with the filer-reported occupation 'Business analyst' and employer.",
+    "source_url": "https://en.wikipedia.org/wiki/Conduent",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "738e09bd-5cf1-423b-bb3a-fd3fd0191a79",
+    "name": "Woodworth, Venus",
+    "resolved_employer": "Fair Shot Texas PAC",
+    "industry": "Labor",
+    "confidence": "medium",
+    "evidence": "Filer-reported occupation names 'Fair Shot Texas PAC,' a pro-worker political action committee affiliated with the Texas AFL-CIO labor movement (treasurer Leonard Aguilar); donor gave to progressive council candidate Teri Castillo. Individual name not independently corroborated beyond the self-reported PAC affiliation.",
+    "source_url": "https://fairshottexaspac.org/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [{"org": "Fair Shot Texas PAC", "role": "staff/affiliate (self-reported occupation)", "category": "political", "source_url": "https://fairshottexaspac.org/", "snippet": "Pro-worker PAC affiliated with the Texas AFL-CIO focused on 'electing pro-worker candidates to the Texas legislature'; labor-movement political committee."}]
+  },
+  {
+    "donor_id": "710973b1-8c54-470d-9723-95c0d446403c",
+    "name": "Shanmugam, Sivaprakash",
+    "resolved_employer": "Apex Sign Group, Inc. (EVP Finance & Accounting)",
+    "industry": "Finance",
+    "confidence": "high",
+    "evidence": "Sivaprakash 'Siva' Shanmugam, San Antonio-based, is EVP of Finance & Accounting at Apex Sign Group (a commercial signage firm); prior finance roles at Rackspace and Xenex, Kellogg MBA. Matches filer-reported 'Manager'/'Apex signs'.",
+    "source_url": "https://theorg.com/org/apex-sign-group/org-chart/siva-shanmugam",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "706fe0f2-50c6-4e74-a1ef-8c9fe68013f5",
+    "name": "Alexander, Mark",
+    "resolved_employer": "San Antonio College / St. Mary's University (music professor)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Mark Alexander, D.M.A., is a music (piano) professor at San Antonio College and St. Mary's University; the SAC campus and Craig Pl address are both in 78212, consistent with the filer-reported 'education'/'college'. Common name, so identity is probable rather than certain.",
+    "source_url": "https://www.ratemyprofessors.com/professor/458054",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6b85c261-41a9-471c-9fec-3469fdb1431e",
+    "name": "Martinez, Lisa",
+    "resolved_employer": "RevUnit (digital strategy & product studio)",
+    "industry": "Technology",
+    "confidence": "low",
+    "evidence": "Filer-reported as a Designer at RevUnit, a Bentonville-AR-based digital-product/software studio with an Austin-San Antonio corridor office. 'Lisa Martinez' is an extremely common name and no specific LinkedIn/profile could be confirmed for this individual at zip 78212; industry assigned by employer/occupation fallback only.",
+    "source_url": "https://www.revunit.com/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6f8bc9f1-e35a-4d14-8b3f-a28e5e244fc6",
+    "name": "Trejo-Rivera, Uel",
+    "resolved_employer": "City of San Antonio (Special Assistant / Council Aide, District 5 - Councilwoman Teri Castillo)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "LinkedIn and San Antonio Report confirm Uel Trejo-Rivera is a City of San Antonio council aide (Special Assistant to Councilwoman Teri Castillo) and a local housing/environment grassroots advocate; 2021 Congressional Hispanic Caucus Institute intern. Matches filer occupation 'City Council Aide' and employer 'COSA'. Housing advocacy is general civic, not a tracked policy-spectrum org.",
+    "source_url": "https://www.linkedin.com/in/ueltrejo",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "6be6dcf5-a922-44ec-bdbf-3bc858da2bd0",
+    "name": "E Cochran, Karen",
+    "resolved_employer": "Self-employed petroleum landman (oil & gas land/mineral services)",
+    "industry": "Energy / Environment",
+    "confidence": "medium",
+    "evidence": "Filer-reported as a self-employed 'Petroleum landman' at zip 78209 (Alamo Heights area); pipeline shows a prolific individual federal-donor pattern (266 FEC gifts, partisan lean fully Republican) consistent with an active oil-and-gas Republican donor. No external profile for this specific individual could be located online, so identity rests on the filer occupation plus the FEC donor pattern. A petroleum landman is directly in the oil & gas sector, but no public source documents this specific person as an owner/executive, so no formal oil_gas affiliation is recorded without a corroborating URL.",
+    "source_url": "https://www.saapl.org/what-we-do",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "673e3b1e-4618-49f6-8d75-d59c7929b564",
+    "name": "Babajanian, Armen",
+    "resolved_employer": "World Affairs Council of San Antonio (Chief Executive Officer)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Armen Babajanian is CEO of the World Affairs Council of San Antonio, a nonpartisan foreign-policy education nonprofit; previously COO/Executive Director of Big Brothers Big Sisters of South Texas and President-Elect of the Rotary Club of San Antonio. Name, title, and employer match the filing exactly. World Affairs Council is educational/nonpartisan (not an Israel/Palestine or other tracked advocacy org).",
+    "source_url": "https://www.linkedin.com/in/armen-babajanian-abb9995/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [{"org": "Rotary Club of San Antonio", "role": "President-Elect", "category": "civic", "source_url": "https://www.zoominfo.com/p/Armen-Babajanian/17691330727", "snippet": "Listed as President-Elect at Rotary Club of San Antonio; a civic-service organization leadership role."}]
+  }
+]

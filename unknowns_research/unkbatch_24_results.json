@@ -1,0 +1,226 @@
+[
+ {
+  "donor_id": "3bdad266-936b-4d1e-8ccd-2cd91acbc580",
+  "name": "Moore, Austin",
+  "resolved_employer": "Mosaic Multiplex",
+  "industry": "Hospitality / Events",
+  "confidence": "low",
+  "evidence": "Could not individually confirm this Austin Moore, but filer-reported employer Mosaic Multiplex is a verified San Antonio arts/event venue; occupation 'Leasing / Event Manager' fits venue operations. No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.facebook.com/p/Mosaic-Multiplex-San-Antonio-100091628709049/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2cf9347f-a7c0-4764-ada3-9714236cb24d",
+  "name": "Magana, Isaac",
+  "resolved_employer": "Virginia Tech",
+  "industry": "Education",
+  "confidence": "low",
+  "evidence": "Out-of-state donor (Christiansburg, VA), IT staff at Virginia Tech per filing. Could not isolate a specific public profile; employer (a public university) is clear, so industry falls back to Education. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+  "source_url": "https://cs.vt.edu/people.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "16f1c460-3e8d-40ed-8f2e-d1ebded078e9",
+  "name": "Valko, Jennifer",
+  "resolved_employer": "Venminder",
+  "industry": "Technology",
+  "confidence": "low",
+  "evidence": "Chicago donor; filer-reported employer Venminder is a third-party-risk-management SaaS company. Multiple 'Jennifer Valko' profiles exist but none clearly matched Venminder/Chicago, so identity unconfirmed; employer clear, so industry = Technology. No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.linkedin.com/company/venminder",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "62e6c4c6-dead-40c4-ae58-df3c61fc1369",
+  "name": "Feinberg, Howard",
+  "resolved_employer": "Hebrew Free Loan Association of San Antonio",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Identity confirmed: Howard S. Feinberg is CEO of the Hebrew Free Loan Association of San Antonio (LinkedIn + org site), an interest-free-loan communal charity; zip/city/employer all match. HFLA is a communal charity with no documented policy-advocacy activity, so classified Nonprofit / Advocacy; jewish_civic NOT recorded.",
+  "source_url": "https://www.linkedin.com/in/howardsfeinberg/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "e63b465a-fe1c-4e21-812c-d4abd1d7d37b",
+  "name": "debont, jan",
+  "resolved_employer": "self",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "501 S Beverly Dr is a Beverly Hills commercial office building, not a residence; occupation 'director', employer 'self'. Cannot confirm whether this is filmmaker Jan de Bont versus a corporate/board director sharing the name — no public source links either to this donation. Self-Employed fallback only. No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.propertyshark.com/mason/Property/15157356/501-S-Beverly-Dr-Beverly-Hills-CA-90212/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f3ccb102-040e-4a53-9086-d515740db768",
+  "name": "Garcia, Sergio",
+  "resolved_employer": "Office of Rural and Farmworker Housing / Catholic Charities Housing Services (Yakima, WA)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Housing developer for ORFH/CCHS in Yakima, WA (zip 98902 matches); documented on a 72-unit affordable/farmworker housing project. Filer employer 'ORFH,Cchs' matches exactly.",
+  "source_url": "https://kimatv.com/news/local/catholic-charities-to-launch-affordable-housing-project-in-yakima",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Washington Economic Development Finance Authority", "role": "Board member (gubernatorial appointment)", "category": "civic", "source_url": "https://www.yakimaherald.com/news/local/business/in_basket/in-basket-garcia-appointed-to-state-economic-development-agency/article_8da8316c-c68c-5bc6-80e2-34787e4e5136.html", "snippet": "Sergio Garcia, housing developer with ORFH, appointed by the governor to a four-year term on the Washington Economic Development Finance Authority."}
+  ]
+ },
+ {
+  "donor_id": "f9e1fdec-bd20-4bef-8c78-77cfb6f08abc",
+  "name": "Meyer, Gena",
+  "resolved_employer": "Parenting Plus (San Antonio, TX)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Founding Executive Director/CEO of Parenting Plus, a San Antonio nonprofit serving parents and incarcerated parents; LinkedIn and org about page confirm. Filer occ 'Exec Director'/employer 'Parenting Plus' and SA zip 78207 match.",
+  "source_url": "https://parentingplus.net/about-us",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f899f00b-0b4c-410e-8b39-4fe10d4e05ea",
+  "name": "Ashton, Montresor",
+  "resolved_employer": "Maximus",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Distinctive name matches a San Antonio public-records listing (zip 78247). Filer employer 'Maximus' is a government health/human-services program administrator with a large SA presence; industry assigned from clear filer-reported employer's dominant sector. No independent bio located, hence medium.",
+  "source_url": "https://clustrmaps.com/person/Ashton-dhcb0f",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "f0bca86b-7c79-43a2-8f1b-a8248125c162",
+  "name": "Navarrete, Osbeyda",
+  "resolved_employer": "Chicago Children's Advocacy Center",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "LinkedIn confirms Osbeyda Navarrete as social worker/child-life staff at Chicago Children's Advocacy Center; filer occ 'Child Life Assistant'/employer and Chicago zip 60629 match.",
+  "source_url": "https://www.linkedin.com/in/osbeyda-navarrete/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "eb8711ab-b151-47e1-b841-b3822b4205fb",
+  "name": "Gomez-Tom, Caroline",
+  "resolved_employer": "UW-Madison (Covering Wisconsin, Sandra Rosenbaum School of Social Work)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "Caroline Gomez-Tom is an enrollment/program manager at UW-Madison's Covering Wisconsin and an elected Milwaukee County Board Supervisor, District 14. Filer occ 'Program Manager'/employer 'UW-Madison' and Milwaukee zip 53221 match. Industry from primary university employer.",
+  "source_url": "https://socwork.wisc.edu/staff/gomez-tom-caroline/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Milwaukee County Board of Supervisors", "role": "Supervisor, District 14 (elected 2023)", "category": "political", "source_url": "https://county.milwaukee.gov/EN/Board-of-Supervisors/Board-Members/Caroline-Gomez-Tom-14th-District", "snippet": "Caroline Gomez-Tom serves as the 14th District Supervisor on the Milwaukee County Board."}
+  ]
+ },
+ {
+  "donor_id": "dc561545-aaef-43a2-b6ef-3fe4c59162ef",
+  "name": "Mckinnon, Laura",
+  "resolved_employer": "Coca-Cola (Coca-Cola Southwest Beverages, San Antonio)",
+  "industry": "Retail",
+  "confidence": "low",
+  "evidence": "Filer-reported employer Coca-Cola is clear (SA has Coca-Cola Southwest Beverages bottling/distribution ops), but no public record confirms a Laura McKinnon there; occupation 'SMO' ambiguous. Common name.",
+  "source_url": "https://cocacolaswb.com/underthecap/san-antonio-tx/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "dc253174-723a-49cf-bcfa-2c295d2ac7e8",
+  "name": "Morton, Rhonda",
+  "resolved_employer": "The Alera Group Inc.",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Self-reported employer (Alera Group, an insurance/financial-services brokerage with a Salinas CA office) and occupation 'Insurance' are consistent, but no public listing confirms Rhonda Morton specifically. Out-of-state donor (Salinas, CA 93907).",
+  "source_url": "https://aleragroup.com/locations/salinas-ca",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "da8d6f83-c4c6-4c50-8a98-1f50f60ff335",
+  "name": "Artalejo, Eduardo",
+  "resolved_employer": "San Antonio Food Bank",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "low",
+  "evidence": "Filer-reported employer/occupation both 'San Antonio Food Bank' (a nonprofit); no public bio, LinkedIn, or staff listing confirms Eduardo Artalejo at the org. Employer clear so industry assigned by fallback.",
+  "source_url": "https://safoodbank.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "d43b6a67-dce5-425a-9e8e-fd61e21bc887",
+  "name": "Garza, Debra",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Employer recorded as 'U' (unclear); occupation 'claims examiner' suggests insurance but no verifiable employer. 'Debra Garza' is very common in San Antonio; none confirmed as this donor. Cannot corroborate on zip+occupation.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "cef92746-8365-4da5-9939-28ff05a11de0",
+  "name": "Maldonado, Steven",
+  "resolved_employer": "National Association for Latino Community Asset Builders (NALCAB)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Confirmed: NALCAB team page lists Steven-Alfonso Maldonado as Associate Director of Special Projects (prior role Program Manager, Neighborhood Development), based in San Antonio - matches filer occupation 'Manager of Programs' and employer NALCAB. No PAC/lobbyist/arena/charter ties found.",
+  "source_url": "https://nalcab.org/team/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c0202804-0a39-40ff-8279-f650e4885c85",
+  "name": "Leal, Andrea",
+  "resolved_employer": "Herospace",
+  "industry": "Consulting / PR",
+  "confidence": "high",
+  "evidence": "Andrea Leal is co-founder/creative director of Herospace, a San Antonio digital consulting & web agency; occupation 'Co owner' and employer match. Prior roles include Spurs Sports & Entertainment (past employment only, not an advocacy tie); no PAC, lobbyist, or charter activity found.",
+  "source_url": "https://herospace.com/about-herospace/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "b028fc98-6aa7-4c5c-8786-bae7f03da0e2",
+  "name": "Nungaray, David",
+  "resolved_employer": "San Antonio ISD (Bonham Academy)",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "David Nungaray was principal of Bonham Academy dual-language school in SAISD (78204 area), a TFA-San Antonio founding corps member, later TNTP consulting partner; matches occ 'Principal'/employer 'SAISD'. ISD administrator = Education industry; no documented union/advocacy PAC role, no arena or charter-PAC ties.",
+  "source_url": "https://tntp.org/staff/david-nungaray/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "ac583fdc-dd25-4d9f-9f74-e9ab8177d57f",
+  "name": "Alipio, Mark J",
+  "resolved_employer": "Burlingame Quality Homes, Inc.",
+  "industry": "Real Estate",
+  "confidence": "high",
+  "evidence": "Mark John M. Alipio is director/registered agent of Burlingame Quality Homes Inc and CEO of Killarney Quality Homes Inc, Garden Grove CA home builders; donor street (Killarney Ave) corroborates. No lobbyist, arena, charter, or PAC activity found.",
+  "source_url": "https://www.bizprofile.net/ca/garden-grove/burlingame-quality-homes-inc",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a0227a6c-53ed-4b75-a311-dffb18dba669",
+  "name": "Berry, Chynell",
+  "resolved_employer": "Alabama One Credit Union (filer-reported, unconfirmed)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Could not independently corroborate the individual (no LinkedIn/bio located); industry assigned via employer fallback only. Alabama One Credit Union is a Tuscaloosa, AL credit union (Finance). No PAC, lobbyist, arena, or charter ties found.",
+  "source_url": "https://www.alabamaone.org/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "893417c4-4a90-43eb-aa7e-ac086c5588d0",
+  "name": "Martinez, Daniel",
+  "resolved_employer": "American Red Cross (Greater San Antonio Chapter)",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Dr. Daniel P. Martinez is Executive Director of the Greater San Antonio Chapter of the American Red Cross; matches occ 'Executive Director, Humanitarian'/employer 'Red Cross'. SA Business Journal 40 Under 40. No PAC, lobbyist, arena, or charter activity documented.",
+  "source_url": "https://www.redcross.org/local/texas/central-and-south-texas/about-us/news-and-events/news/dr-daniel-p-martinez-40-under-40-san-antonio-business-journal.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

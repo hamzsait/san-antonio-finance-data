@@ -1,0 +1,232 @@
+[
+  {
+    "donor_id": "658d89ab-7115-4421-9c93-d9ad0c73c6ad",
+    "name": "Chandler, William",
+    "resolved_employer": "Mississippi Immigrants Rights Alliance (MIRA)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "William 'Bill' Chandler is the founding Executive Director (now Emeritus) of MIRA; org PO Box matches donor address (Jackson, MS 39215). MIRA is an immigrant-rights policy-advocacy organization. No FEC PAC, TX lobbyist, arena, or charter ties found.",
+    "source_url": "https://yourmira.org/staff/bill-chandler/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Mississippi Immigrants Rights Alliance (MIRA)", "role": "Founding Executive Director (Emeritus)", "category": "civic", "source_url": "https://yourmira.org/staff/bill-chandler/", "snippet": "Bill Chandler brought immigrants, labor, civil rights, religious and human rights activists together to form MIRA in November 2000; now serves as Executive Director Emeritus."}
+    ]
+  },
+  {
+    "donor_id": "22544b42-55f3-4f03-b299-79215faadb71",
+    "name": "Estella m, Saenz",
+    "resolved_employer": "San Antonio ISD (SAISD)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Self-reported SAISD instructional assistant in San Antonio (78229); could not independently confirm the specific individual by name, but employer/occupation consistent. Ordinary public-school employee. No FEC PAC, TX lobbyist, arena, or charter/education-money ties found.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ed1d938d-0227-4e94-880c-1197d2ac3040",
+    "name": "Webb, Joe",
+    "resolved_employer": "City of New Braunfels (Assistant Planner, Landscaping and Tree Preservation)",
+    "industry": "Government",
+    "confidence": "high",
+    "evidence": "Confirmed as Assistant Planner (Landscaping/Tree Preservation) at City of New Braunfels, prior intern at Texas Parks & Wildlife; UTSA/SAC background matches ecologist/planner occupations. NOT the late Councilman Joe Webb Sr. No FEC PAC, TX/SA lobbyist, arena, or charter ties found.",
+    "source_url": "https://www.zoominfo.com/p/Joe-Webb/3660472716",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "818a476a-4a83-495c-83c7-54a2709c2455",
+    "name": "Kaufman, Jason",
+    "resolved_employer": "Beth El Hebrew Congregation (Cantor)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Cantor Jason Kaufman, Beth El Hebrew Congregation, Alexandria VA since 2013; address/employer match. Per instructions, private religious/communal role is out of scope (no jewish_civic recorded). Holds internal Reform-movement social-action committee roles (ACC/RAC) but no external policy-advocacy PAC, TX lobbyist, arena, or charter ties. Spouse is Alexandria City Councilman Kirk McPike.",
+    "source_url": "https://www.bethelhebrew.org/about/clergy-staff/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "81614b01-5a1a-400f-a0e2-00f02debe840",
+    "name": "Bonsaint, Thomas",
+    "resolved_employer": "Northrop Grumman (Senior Director, Enterprise Campaigns)",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Tom/Thomas Bonsaint is Senior Director for Enterprise Campaigns (defense business development/capture) at Northrop Grumman, DC area; distinctive surname + employer + DC location match donor. Self-reported 'Sales' aligns with the BD role. Director-level leadership at a defense contractor, so military_defense affiliation recorded. No TX lobbyist, arena, or charter ties.",
+    "source_url": "https://www.vpap.org/donors/464574-thomas-bonsaint/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Northrop Grumman", "role": "Senior Director, Enterprise Campaigns (defense business development)", "category": "military_defense", "source_url": "https://following-the-gong-a-podcast-of-the-schreyer-honorsryr.castos.com/episodes/ftg-0023-strategic-business-leadership-with-northrup-leader-tom-bonsaint-3902", "snippet": "Tom Bonsaint is senior director for enterprise campaigns at Northrop Grumman, focused on above-plan growth across the company's strategic enterprise campaigns; prior 11 years at Raytheon in defense/cyber business development."}
+    ]
+  },
+  {
+    "donor_id": "7a23a281-07a5-44e2-931a-e033d7ac0ddb",
+    "name": "Mian, Faiz",
+    "resolved_employer": "Education Service Center, Region 20 (ESC-20)",
+    "industry": "Education",
+    "confidence": "high",
+    "evidence": "LinkedIn and staff records confirm Faiz Mian is Software Delivery/Development Manager ('SDM') at ESC-20 in San Antonio; matches occupation, employer, and 78249 location.",
+    "source_url": "https://www.linkedin.com/in/faizmian/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "190a8c8c-d1bb-46df-b262-3461e3f61a13",
+    "name": "Ezell, Chilaeya",
+    "resolved_employer": "Goodwill San Antonio (Training & Development); as of 2026 Program Manager at San Antonio for Growth on the Eastside (SAGE)",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Public records tie Chilaeya L. Ezell to 1435 E Crockett St, 78202; SAGE San Antonio (July 2026) identifies her as Program Manager, consistent with a workforce/training career move from Goodwill. No political affiliations found.",
+    "source_url": "https://www.facebook.com/SAGESanAntonio/posts/1481571387330583/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "a2e155c3-6207-4eec-916f-b667e19a6441",
+    "name": "A Stuart, Jessica",
+    "resolved_employer": "Self-employed / Freelance (market research)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "RocketReach lists a Jessica Stuart as a freelance market researcher based in San Antonio (prior roles at Ipsos, The Quantery), matching occupation 'Market research / Self'; exact 78210 address not independently confirmed. No lobbyist, PAC, arena, or charter ties found.",
+    "source_url": "https://rocketreach.co/jessica-stuart-email_23195746",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "97112f66-8396-44a2-9508-fac6bdbfb849",
+    "name": "Semexant, Angela",
+    "resolved_employer": "Pearl Suite Boutique",
+    "industry": "Retail",
+    "confidence": "low",
+    "evidence": "Out-of-state small-dollar donor (Winter Garden, FL) to San Antonio council candidates; self-reported boutique owner. No independent web confirmation of the business or person; classification is employer-fallback only.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "67a40d33-ca27-4183-a751-751b8f920570",
+    "name": "Forest, Lauren",
+    "resolved_employer": "Slack (Salesforce), Customer Success",
+    "industry": "Technology",
+    "confidence": "medium",
+    "evidence": "Out-of-state small-dollar donor (Chicago, IL). A Chicago-area Lauren Forest appears on LinkedIn in GTM/enablement roles consistent with a Slack customer-success background; identity plausible but not fully pinned to the specific address. No local political affiliations.",
+    "source_url": "https://www.linkedin.com/in/forestlauren/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "082a76a5-fbd6-4e78-97e2-33d6e9a61682",
+    "name": "Ramirez, Nicollette",
+    "resolved_employer": "Beez And Honey (self-employed)",
+    "industry": "Self-Employed",
+    "confidence": "medium",
+    "evidence": "Nicollette Ramirez is a NYC-based art dealer/writer/producer and events/marketing organizer running her own venture 'Beez And Honey'; filing lists occupation 'Marketing', employer 'Self', at 10013 (Hudson Square/SoHo, near Vandam St). Consistent match.",
+    "source_url": "https://whitehotmagazine.com/contributors/nicollette-ramirez/251",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "fcdffc6b-8280-4cb0-8572-eb6c5d45bb4e",
+    "name": "Tucker, Deborah",
+    "resolved_employer": "National Center on Domestic and Sexual Violence",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Deborah D. Tucker is co-founder and executive director of the Austin-based National Center on Domestic and Sexual Violence; name, Austin location (78756), and employer string match exactly. Longtime domestic-violence advocate (410 FEC donations consistent with an active national donor). No arena, charter, or TX lobbyist ties.",
+    "source_url": "https://www.ncdsv.org/board-president.html",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "National Center on Domestic and Sexual Violence", "role": "Co-founder & Executive Director", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Deborah_Tucker_(executive)", "snippet": "Co-founded the National Center on Domestic and Sexual Violence in 1998; current executive director."},
+      {"org": "National Network to End Domestic Violence", "role": "Founding Chair", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Deborah_Tucker_(executive)", "snippet": "Founding chair, instrumental in passing the Violence Against Women Act."}
+    ]
+  },
+  {
+    "donor_id": "02d7b78a-9ce6-45c7-bf13-7ebde58cf322",
+    "name": "Lucero, Vickie",
+    "resolved_employer": "MPN Incorporated",
+    "industry": "Consulting / PR",
+    "confidence": "low",
+    "evidence": "Employer string 'MPN inc' matches MPN Incorporated, a real San Antonio business-consulting/exit-planning firm; donor is at SA 78218 in 'Sales'. Employer-fallback classification — could not independently corroborate this specific Vickie Lucero (a same-named 'Propaganda Media' owner in San Marcos appears unrelated).",
+    "source_url": "https://mpninc.com/about/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "ffec8047-0b1d-4026-a311-cabf743410b3",
+    "name": "Jackson, Othell",
+    "resolved_employer": "Self-employed (photographer)",
+    "industry": "Self-Employed",
+    "confidence": "low",
+    "evidence": "Only public trace is a background-check listing for an Othell Jackson in Arlington, TX (76001); no photography portfolio, business page, board seat, or affiliation found. Ordinary self-employed photographer, no documented affiliations.",
+    "source_url": "https://www.fastbackgroundcheck.com/people/othell-jackson/id/f0671145354475738317",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f9a85603-1857-476a-9fa1-a720a8fd086e",
+    "name": "Weldon, Jessica",
+    "resolved_employer": "Arena (arena.run) — progressive campaign-training organization",
+    "industry": "Nonprofit / Advocacy",
+    "confidence": "high",
+    "evidence": "Jess(ica) Weldon is Director of Training at Arena (arena.run), a progressive campaign-staff training organization — NOT the Spurs/Project Marvel arena. Name, Round Rock location (78681), and 'Training Director' role match exactly. Formerly Programs Director at Battleground Texas.",
+    "source_url": "https://arena.run/team/jess-weldon",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": [
+      {"org": "Arena (arena.run)", "role": "Director of Training", "category": "political", "source_url": "https://www.linkedin.com/in/jess-weldon-12a26361/", "snippet": "Jess Weldon leads Arena's Training team; Arena trains staff for progressive campaigns."},
+      {"org": "Battleground Texas", "role": "Programs Director (former)", "category": "political", "source_url": "https://arena.run/team/jess-weldon", "snippet": "Prior to Arena, Jess was Programs Director at Battleground Texas, a progressive grassroots organization."}
+    ]
+  },
+  {
+    "donor_id": "f749d407-25a5-4712-9026-832600b5878f",
+    "name": "Suttin, Jacqueline",
+    "resolved_employer": "Walkingspree",
+    "industry": "Technology",
+    "confidence": "high",
+    "evidence": "LinkedIn confirms Jacqueline Suttin was Product Manager (Member Growth & Engagement) at Walkingspree, a San Antonio digital corporate-wellness SaaS company; UIW/Gies grad, product leader in health tech. No lobbyist, arena, or charter ties.",
+    "source_url": "https://www.linkedin.com/in/jacquelinesuttin/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f55733e6-2ef8-4c5c-bc70-c07ffd29cb85",
+    "name": "Hernandez, Angel",
+    "resolved_employer": "Natural Grocers",
+    "industry": "Retail",
+    "confidence": "medium",
+    "evidence": "ContactOut lists an Angel Hernandez at Natural Grocers (Vitamin Cottage); occupation 'crew member' matches a grocery-retail role at the Tucson AZ store (85713). Common name so identity not certain, but employer+occupation align. No advocacy/lobbyist/arena/charter records.",
+    "source_url": "https://contactout.com/angel-hernandez-71909",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f1c3599b-ce52-42d7-870e-86e60842638c",
+    "name": "Espindola, Prometheus",
+    "resolved_employer": "Self-employed (cosmetologist)",
+    "industry": "Self-Employed",
+    "confidence": "high",
+    "evidence": "Distinctive name; San Antonio Facebook profile and Booksy barber/grooming listing (P.J. Espindola) confirm a self-employed cosmetologist/barber at 78244. Employer string 'Myself' consistent. No lobbyist, FEC PAC, arena, or charter ties.",
+    "source_url": "https://www.facebook.com/prometheus.espindola/",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "f07d98bc-e440-4cf7-aace-d67b2d149cef",
+    "name": "Moncevais, Aaron",
+    "resolved_employer": "Hidalgo ISD (school psychology intern)",
+    "industry": "Education",
+    "confidence": "medium",
+    "evidence": "Self-reported school psychology intern at Hidalgo ISD (public school district), McAllen TX (78501). Public-district employee = Education per guidance; no documented union/advocacy role, so no advocacy category. A same-name Texas A&M multicultural-services staffer appears but is a separate/uncorroborated match. No lobbyist/arena/charter records.",
+    "source_url": null,
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  },
+  {
+    "donor_id": "e6217d87-0ed5-4433-80e3-c25b6f2de042",
+    "name": "Elsunni, Sammir",
+    "resolved_employer": "Vericast",
+    "industry": "Media",
+    "confidence": "high",
+    "evidence": "ZoomInfo confirms Sammir Elsunni in Sales and Service at Vericast, the San Antonio-headquartered marketing/advertising and media-delivery company; matches donor occupation 'Cust. Sev. Spc.' and 78247 location. Distinctive name. No lobbyist, FEC PAC, arena, or charter ties.",
+    "source_url": "https://www.zoominfo.com/p/Sammir-Elsunni/11374344466",
+    "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+    "affiliations": []
+  }
+]

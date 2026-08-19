@@ -1,0 +1,231 @@
+[
+ {
+  "donor_id": "a6454ed6-daae-4486-9b30-80b2f51a3b62",
+  "name": "Villanueva, Ronnie",
+  "resolved_employer": null,
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Private San Antonio resident tied to the 1906 Olimito St, 78224 address in public-records databases; no occupation, employer, or public profile beyond residential records.",
+  "source_url": "https://clustrmaps.com/person/Villanueva-8c4lau",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4bf28bf7-a217-4ee9-9083-31868dfd555a",
+  "name": "Tyler, Davila",
+  "resolved_employer": "Garage Cell (San Antonio cell-phone repair/refurbisher) - technician",
+  "industry": "Retail",
+  "confidence": "medium",
+  "evidence": "Listed occupation 'Technician' at 'Garage Cell,' a San Antonio LLC selling refurbished/pre-owned phones and electronics; no public individual profile or advocacy record found.",
+  "source_url": "https://www.manta.com/c/mhxm8hs/garage-cell",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "4b6f56f6-827f-4651-9cd4-6703a4c66360",
+  "name": "Naranjo, Paula",
+  "resolved_employer": "Reported 'Constituent Services' role (San Antonio) per self-reported occupation; also lists 'Not Employed' - current status unclear, now residing in Aurora, IL",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Self-reported occupation string cites constituent-services work in San Antonio but also 'Not Employed'; donor address is Aurora, IL 60505. No corroborating public profile confirming the specific role could be found.",
+  "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/About/Staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "2a2cbc2d-9ca8-4d20-8be4-80bb67b04a70",
+  "name": "Stewart, Hamilton",
+  "resolved_employer": "'Me Myself and I LLC' (self-owned entity); self-reported occupation 'Boss' - self-employed, Austin TX 78744",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "Self-reported as owner/'Boss' of 'Me Myself and I LLC'; no public business profile, bio, or advocacy record located under this name in Austin/San Antonio.",
+  "source_url": "https://data.texas.gov/views/uahw-xts9/rows.csv?accessType=DOWNLOAD",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "1f9a2697-807e-4123-8090-4e263a697841",
+  "name": "Candelario, Joe",
+  "resolved_employer": "Retired (former career not identifiable from public records)",
+  "industry": null,
+  "confidence": "low",
+  "evidence": "Self-reported retired; multiple 'Joe/Joseph Candelario' records exist in San Antonio (78229 area) but none could be corroborated to a specific prior career or public affiliation. (retired)",
+  "source_url": "https://www.spokeo.com/Joe-Candelario",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "180966d0-f7b4-4c09-972b-8083394d2003",
+  "name": "Chaudoir, Bridie",
+  "resolved_employer": "College/career counselor at Great Hearts Monte Vista (Great Hearts Texas charter network), San Antonio",
+  "industry": "Education",
+  "confidence": "high",
+  "evidence": "College counselor at Great Hearts Monte Vista (charter school); listed on school faculty page with @greatheartstxschools.org email. 'GHTX' = Great Hearts Texas confirmed.",
+  "source_url": "https://montevista.greatheartsamerica.org/academics/college-counseling/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Great Hearts Texas", "role": "College/career counselor, Monte Vista campus", "category": "charter_school", "source_url": "https://montevista.greatheartsamerica.org/faculty-staff/", "snippet": "Bridie Chaudoir is a college counselor at Great Hearts Monte Vista in San Antonio (Bridie.Chaudoir@greatheartstxschools.org); Great Hearts is a public charter network."}
+  ]
+ },
+ {
+  "donor_id": "14dc4e2b-9cba-4f98-a6ce-2bc6479ec870",
+  "name": "Wilson, Harriet",
+  "resolved_employer": "Self-employed childcare provider, Knoxville, TN",
+  "industry": "Self-Employed",
+  "confidence": "low",
+  "evidence": "No distinguishing public profile found; common name in Knoxville, TN. Filing lists self-employed childcare work. Classified by stated occupation/employer only.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "13e02337-89d3-436e-9ead-11c31c81d82a",
+  "name": "Schelling, Emmett",
+  "resolved_employer": "Executive Director, Transgender Education Network of Texas (TENT), Houston",
+  "industry": "Nonprofit / Advocacy",
+  "confidence": "high",
+  "evidence": "Emmett Schelling is the Executive Director of the Transgender Education Network of Texas (TENT) since 2017, the largest statewide trans-led advocacy nonprofit in Texas; named to TIME 100 in 2022. Houston zip (77025) and Executive Director occupation match filing.",
+  "source_url": "https://en.wikipedia.org/wiki/Emmett_Schelling",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Transgender Education Network of Texas (TENT)", "role": "Executive Director", "category": "civic", "source_url": "https://www.aclutx.org/en/biographies/emmett-schelling", "snippet": "Emmett Schelling has served as Executive Director of the Transgender Education Network of Texas since 2017, advocating for transgender/gender non-conforming Texans on municipal and statewide policy."},
+   {"org": "Deeds Not Words / House of Tulip", "role": "Board member", "category": "civic", "source_url": "https://en.wikipedia.org/wiki/Emmett_Schelling", "snippet": "In addition to leading TENT, Schelling serves as a board member of Deeds Not Words and House of Tulip and is part of the Transgender Law Center's T4All national cohort."}
+  ]
+ },
+ {
+  "donor_id": "c4b5e83e-ec15-4cd7-855e-db16ae4033d4",
+  "name": "Gomez Garcia, Angela",
+  "resolved_employer": "Administrator, Eutopia Hospice & Palliative Care, Inc., San Antonio",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "Employer Eutopia Hospice & Palliative Care, Inc. confirmed as a licensed San Antonio hospice provider. Stated occupation Administrator. No independent bio located beyond the filing; classified by confirmed employer.",
+  "source_url": "https://seniorcarefinder.com/providers/63658/tx/san-antonio/eutopia-hospice-and-palliative-care-inc",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "745ca4a5-c3c3-4418-a461-189c35763dcc",
+  "name": "Miranda, Edward",
+  "resolved_employer": "Event Services Coordinator, City of San Antonio",
+  "industry": "Government",
+  "confidence": "medium",
+  "evidence": "Filing lists employer City of San Antonio, occupation event coordinator; City of San Antonio has an 'Event Services Coordinator' municipal role. No distinguishing public profile located; classified by stated municipal employer.",
+  "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "27542a46-bf90-45bd-a181-46f91afe59be",
+  "name": "Stewart, Chris",
+  "resolved_employer": "San Antonio City Council (staff aide); also listed as student",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Young council staff aide / student in far-north SA (78248). Common name; no distinguishing public profile found beyond the City Council employer string. Only a 'Clayton K. Stewart' appears in the TEC lobbyist registry (different person).",
+  "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council/About/Staff",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "27433831-3998-4465-b3e1-0614eaf8d03b",
+  "name": "Pacheco, Daniel",
+  "resolved_employer": "BD (Becton Dickinson) - Sr. Manager Quality / Customer Success Executive",
+  "industry": "Healthcare",
+  "confidence": "medium",
+  "evidence": "LinkedIn (in/pachecod) confirms Daniel Pacheco, San Antonio, at Becton Dickinson (medical-device maker) as Customer Success Executive; recipient of 2019 Henry P. Becton Volunteer Impact Program Award. Matches employer string and 78247 area. Federal small-dollar donor with Democratic lean per source data, but no specific issue-PAC contributions surfaced (OpenSecrets donor page returned 403).",
+  "source_url": "https://www.linkedin.com/in/pachecod/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "aac0430b-a4f2-4cd1-ab07-43c77c868129",
+  "name": "Lurin, Aaron",
+  "resolved_employer": "Democratic campaign operative - VAN/voter-file manager; Texas Democratic Party and Sen. Nathan Johnson for Texas AG campaign",
+  "industry": "Consulting / PR",
+  "confidence": "medium",
+  "evidence": "LinkedIn (in/aaron-lurin-936234187) lists him with 'Senator Nathan Johnson for Texas Attorney General' campaign and prior civic-engagement work at UT Austin; consistent with employer strings 'Texas Democratic Party' / 'Nathan Johnson Campaign' and VAN/voter-file roles. Registered in Brewster, NY (10509).",
+  "source_url": "https://www.linkedin.com/in/aaron-lurin-936234187/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "Texas Democratic Party / Sen. Nathan Johnson for Texas AG campaign", "role": "VAN Assistant / Voter File Manager / campaign staff", "category": "political", "source_url": "https://www.linkedin.com/in/aaron-lurin-936234187/", "snippet": "LinkedIn profile: 'Aaron Lurin - Senator Nathan Johnson for Texas Attorney General'; employer strings 'Texas Democratic Party, Nathan Johnson Campaign' with VAN/voter-file management roles."}
+  ]
+ },
+ {
+  "donor_id": "7a23de08-356a-44cc-9011-96aa4f0fafd2",
+  "name": "Luckey, Lori",
+  "resolved_employer": "Capital Group (The Capital Group Companies / American Funds) - client services representative",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Employer string 'Capital Group' plus 'Client services' occupation matches Capital Group's San Antonio service center (client-services reps), near Universal City (78148). No distinguishing individual public profile found.",
+  "source_url": "https://www.themuse.com/jobs/capitalgroup/client-services-representative-i-316348",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "c5016812-46b3-46e7-8e6f-ddff735a7ab0",
+  "name": "Pilar Trevino, Mary",
+  "resolved_employer": "City of San Antonio - Safety Traffic Enforcement",
+  "industry": "Government",
+  "confidence": "low",
+  "evidence": "Municipal employee in a safety/traffic enforcement role for the City of San Antonio (west-side 78228). Ordinary city worker; no public profile, PAC contributions, lobbyist registration, or advocacy roles found.",
+  "source_url": "https://www.sa.gov/Directory/Departments/Mayor-Council",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "a770a84b-8cc5-400c-bd67-8a8fe52fc759",
+  "name": "D. Melendes, Rachel",
+  "resolved_employer": "UNITE HERE (hospitality-workers labor union) - Researcher/Organizer, San Antonio",
+  "industry": "Labor",
+  "confidence": "high",
+  "evidence": "Rachel Melendes is a San Antonio-based staffer for UNITE HERE, the hospitality/hotel workers labor union; LinkedIn and Union Facts list her employed by UNITE HERE. Matches employer string and Researcher occupation.",
+  "source_url": "https://www.linkedin.com/in/rachel-melendes-b8a09b4a/",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": [
+   {"org": "UNITE HERE", "role": "Researcher/Organizer", "category": "civic", "source_url": "https://www.unionfacts.com/employee/UNITE_HERE/RACHEL/MELENDES", "snippet": "Union Facts lists Rachel Melendes as an employee of UNITE HERE, the hospitality-workers labor union; she is based in San Antonio, TX and works on building worker power."}
+  ]
+ },
+ {
+  "donor_id": "639314e3-a840-4726-8698-aeb223db0b92",
+  "name": "Moore, Brian",
+  "resolved_employer": "The Dodging Duck Brewhaus (brewpub/restaurant, Boerne, TX) - support staff",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Employer is The Dodging Duck Brewhaus, a Hill Country brewpub/restaurant in Boerne near Fair Oaks Ranch; donor listed as 'Support' staff. Common name with no distinguishing public profile found.",
+  "source_url": "https://www.tripadvisor.com/Restaurant_Review-g55505-d541427-Reviews-The_Dodging_Duck_Brewhaus-Boerne_Texas.html",
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "960534da-7672-4eab-8dab-a3eb9913c505",
+  "name": "Gonzales, Manuel",
+  "resolved_employer": "Chick-fil-A - Assistant Manager",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Donor is an assistant manager at a Chick-fil-A (quick-service restaurant) in San Antonio; common name, no distinguishing public profile beyond the stated employer.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "fbb14844-9e50-4453-8710-62817999a5fa",
+  "name": "Khan, Muhammad Hisham",
+  "resolved_employer": "Accountant (no employer listed)",
+  "industry": "Finance",
+  "confidence": "low",
+  "evidence": "Self-reported accountant/employee in NW San Antonio (78249); no specific employer given and no public profile could be corroborated to this individual (multiple similarly-named people). Industry inferred from stated occupation.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ },
+ {
+  "donor_id": "3c033108-e4a9-4e82-a49f-aa1a28e64723",
+  "name": "Gamez, Linda",
+  "resolved_employer": "Chipotle - Cashier",
+  "industry": "Hospitality / Events",
+  "confidence": "medium",
+  "evidence": "Donor is a cashier at Chipotle (quick-service restaurant) in San Antonio (78238); common name, no distinguishing public profile found beyond the stated employer.",
+  "source_url": null,
+  "searches_run": {"fec_pac": true, "tx_lobbyist": true, "bio_full_read": true, "arena_marvel": true, "charter_school": true},
+  "affiliations": []
+ }
+]

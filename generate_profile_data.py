@@ -212,6 +212,18 @@ AFFILIATION_BUCKETS = [
      "categories": ["military_defense"], "card": "policy"},
     {"key": "healthcare", "label": "Healthcare institutions",
      "categories": ["healthcare"], "card": "policy"},
+    # v4 unknowns re-scrub additions: downtown arena district & charter money.
+    {"key": "arena_venue", "label": "Arena & Project Marvel interests",
+     "categories": ["arena_venue", "arena_marvel", "spurs_arena"], "card": "policy",
+     "spectrum": "arena"},
+    {"key": "arena_opposition", "label": "Arena opposition",
+     "categories": ["arena_opposition"], "card": "policy", "spectrum": "arena"},
+    {"key": "charter_school", "label": "Charter-school sector",
+     "categories": ["charter_school", "school_choice"], "card": "policy",
+     "spectrum": "schools"},
+    {"key": "public_school_advocacy", "label": "Public-school advocacy",
+     "categories": ["public_school_advocacy", "public_education_advocacy"],
+     "card": "policy", "spectrum": "schools"},
     # ── Later phases: emitted now, rendered when their card ships ────────────
     {"key": "business", "label": "Business ownership & leadership",
      "categories": ["business", "industry"], "card": "business"},
