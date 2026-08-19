@@ -8,6 +8,11 @@ code reads (raw portal-text columns are kept as provenance, never as API):
     txn_type      TEXT   from contribution_type    kind -> contribution|expenditure|report
     superseded_by TEXT   row_hash of the kept twin when this row is a
                          cross-report restatement (see mark_restatements)
+    refunded_amount REAL portion of a contribution the campaign later returned
+                         to the donor (see mark_refunds); balanced_amount is
+                         set to amount_real - refunded_amount so published
+                         queries net refunds out via their existing
+                         COALESCE(balanced_amount, amount_real) reads
 
 Safe to re-run any time: adds columns if missing, then (re)derives every row
 whose derived value is NULL or stale relative to its raw value. Unknown
@@ -52,6 +57,7 @@ DERIVED_COLS = {
     "date_iso": "TEXT",
     "txn_type": "TEXT",
     "superseded_by": "TEXT",
+    "refunded_amount": "REAL",
 }
 
 DATE_RE = re.compile(r"\s*(\d{1,2})/(\d{1,2})/(\d{4})")
@@ -174,6 +180,140 @@ def mark_restatements(conn: sqlite3.Connection, filer_slug: str | None = None) -
     return len(marks)
 
 
+# Refund expenditures that cannot be matched to contributions by exact payee
+# name. Each entry was adjudicated by hand against the filings; keys are
+# (filer_slug, payee, date_iso, amount_real) of the refund row, values list the
+# (donor, date_iso, amount) contribution rows the refund reverses.
+# Kaur 2024-11-15: one $1,000 check to "Farias, Gabe & Katie" jointly reversing
+# the couple's second $500 gifts of 2023-05-09 (each had already given $500 on
+# 2023-04-11 — the SA $500/cycle cap makes the second pair the excess).
+MANUAL_REFUND_MATCHES = {
+    ("kaur", "Farias, Gabe & Katie", "2024-11-15", 1000.0): [
+        ("Farias, Gabe", "2023-05-09", 500.0),
+        ("Farias, Katie", "2023-05-09", 500.0),
+    ],
+}
+
+
+def mark_refunds(conn: sqlite3.Connection, filer_slug: str | None = None) -> int:
+    """(Re)net refunded contributions via refunded_amount / balanced_amount.
+
+    Campaigns return contributions (over-cap gifts, donor requests, bounced
+    checks) as Schedule-F expenditure rows whose payee is the original donor
+    and whose category/description says refund/return. This pass matches each
+    such refund to the payee's own prior contributions (same filer, exact
+    donor string, contribution date on or before the refund date), preferring
+    an untouched contribution of exactly the refund amount, then latest-first
+    partial allocation. Matched contributions get refunded_amount set and
+    balanced_amount = amount_real - refunded_amount, which every published
+    query already reads via COALESCE(balanced_amount, amount_real); a fully
+    refunded gift nets to 0 and drops out of totals, donor counts, and the
+    donations table, same as a superseded restatement.
+
+    Recomputed from scratch on every call (balanced_amount in this repo is
+    written by no other pass, so the blanket reset is safe — revisit if joint
+    splitting ever ports over from Austin). Refund rows whose payee never
+    contributed (bank fees, vendor check reversals, processor items) match
+    nothing and are reported, not guessed at. Returns contributions netted.
+    """
+    scope_sql = ""
+    params: tuple = ()
+    if filer_slug:
+        scope_sql = " AND filer_slug = ?"
+        params = (filer_slug,)
+
+    conn.execute(
+        f"UPDATE campaign_finance SET refunded_amount = NULL, balanced_amount = NULL "
+        f"WHERE refunded_amount IS NOT NULL{scope_sql}", params)
+
+    refunds = conn.execute(f"""
+        SELECT COALESCE(filer_slug,''), donor, amount_real, date_iso,
+               COALESCE(expense_category,''), COALESCE(expense_description,'')
+        FROM campaign_finance
+        WHERE txn_type='expenditure' AND superseded_by IS NULL
+          AND amount_real IS NOT NULL AND date_iso IS NOT NULL
+          AND (LOWER(expense_category)   LIKE '%refund%'
+            OR LOWER(expense_category)   LIKE '%return%'
+            OR LOWER(expense_description) LIKE '%refund%'
+            OR LOWER(expense_description) LIKE '%return%')
+          AND LOWER(COALESCE(expense_category,''))    NOT LIKE '%fee%'
+          AND LOWER(COALESCE(expense_description,'')) NOT LIKE '%fee%'
+          {scope_sql}
+        ORDER BY date_iso, donor
+    """, params).fetchall()
+
+    allocated: dict[int, float] = {}    # contribution rowid -> refunded so far
+    contrib_cache: dict[tuple, list] = {}
+    matched_refunds = unmatched = 0
+    netted_total = 0.0
+
+    def contribs_for(slug: str, donor: str) -> list:
+        key = (slug, donor)
+        if key not in contrib_cache:
+            contrib_cache[key] = conn.execute(
+                """SELECT rowid, amount_real, date_iso FROM campaign_finance
+                   WHERE filer_slug=? AND donor=? AND txn_type='contribution'
+                     AND superseded_by IS NULL AND amount_real IS NOT NULL
+                     AND date_iso IS NOT NULL
+                   ORDER BY date_iso DESC, rowid""", (slug, donor)).fetchall()
+        return contrib_cache[key]
+
+    def allocate(candidates: list, amount: float) -> float:
+        """Greedy allocation, exact-amount match first; returns un-allocated."""
+        remaining = amount
+        open_slots = [(rid, amt - allocated.get(rid, 0.0), d)
+                      for rid, amt, d in candidates
+                      if amt - allocated.get(rid, 0.0) > 0.005]
+        for rid, cap, _ in open_slots:          # exact-amount pass, latest first
+            if abs(cap - remaining) < 0.005:
+                allocated[rid] = allocated.get(rid, 0.0) + remaining
+                return 0.0
+        for rid, cap, _ in open_slots:          # partial, latest first
+            take = min(cap, remaining)
+            allocated[rid] = allocated.get(rid, 0.0) + take
+            remaining -= take
+            if remaining < 0.005:
+                break
+        return remaining
+
+    for slug, payee, amt, diso, cat, desc in refunds:
+        manual = MANUAL_REFUND_MATCHES.get((slug, payee, diso, amt))
+        if manual:
+            leftover = 0.0
+            for m_donor, m_date, m_amt in manual:
+                leftover += allocate(
+                    [c for c in contribs_for(slug, m_donor) if c[2] == m_date],
+                    m_amt)
+        else:
+            candidates = [c for c in contribs_for(slug, payee) if c[2] <= diso]
+            if not candidates:
+                unmatched += 1
+                print(f"[normalize] refunds: no contribution match for "
+                      f"{slug}/{payee!r} ${amt:,.2f} {diso} ({cat!r} / {desc!r})"
+                      f" — not netted")
+                continue
+            leftover = allocate(candidates, amt)
+        matched_refunds += 1
+        netted_total += amt - leftover
+        if leftover > 0.005:
+            print(f"[normalize] refunds: WARNING {slug}/{payee!r} ${amt:,.2f} "
+                  f"{diso}: ${leftover:,.2f} exceeds the payee's prior "
+                  f"contributions and was left un-netted")
+
+    writes = [(rid, round(amt, 2)) for rid, amt in allocated.items()]
+    conn.executemany(
+        """UPDATE campaign_finance
+           SET refunded_amount = ?2,
+               balanced_amount = ROUND(MAX(amount_real - ?2, 0), 2)
+           WHERE rowid = ?1""",
+        writes)
+    conn.commit()
+    print(f"[normalize] refunds: {matched_refunds} refund expenditures netted "
+          f"against {len(writes)} contributions (${netted_total:,.2f}); "
+          f"{unmatched} refund-like rows had no matching contribution")
+    return len(writes)
+
+
 def main() -> int:
     p = argparse.ArgumentParser(description=__doc__.splitlines()[1])
     p.add_argument("--db", default=str(DEFAULT_DB))
@@ -223,6 +363,7 @@ def main() -> int:
     conn.commit()
 
     mark_restatements(conn)
+    mark_refunds(conn)
 
     for txn, n, total in conn.execute(
         """SELECT txn_type, COUNT(*), ROUND(SUM(amount_real), 2)

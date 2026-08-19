@@ -581,10 +581,10 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
     # transaction the portal lists on more than one report (pre-election
     # reports overlap the semi-annuals) — refuse rather than inflate totals.
     cols = {r[1] for r in cur.execute("PRAGMA table_info(campaign_finance)")}
-    if "superseded_by" not in cols:
-        print("ERROR: campaign_finance.superseded_by missing — run "
-              "`python sa_normalize.py` to mark cross-report restatements "
-              "before building profiles")
+    if "superseded_by" not in cols or "refunded_amount" not in cols:
+        print("ERROR: campaign_finance.superseded_by / refunded_amount missing "
+              "— run `python sa_normalize.py` to mark cross-report "
+              "restatements and net refunds before building profiles")
         conn.close()
         return
 
@@ -833,7 +833,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
                COALESCE(di.tec_total_rep, 0)   AS tec_rep,
                COALESCE(di.tec_total_other, 0) AS tec_other,
                COALESCE(di.tec_total_donations, 0) AS tec_n,
-               SUM(cf.amount_real) as local_total
+               SUM(COALESCE(cf.balanced_amount, cf.amount_real)) as local_total
         FROM donor_identities di
         JOIN campaign_finance cf ON cf.donor_id = di.donor_id
         LEFT JOIN employer_identities ei ON cf.employer_id = ei.employer_id
@@ -1013,7 +1013,7 @@ def generate(candidate_fragment: str, output_dir: str = ".", slug_override: str 
     ip_rows = cur.execute(f"""
         SELECT di.donor_id, di.canonical_name, di.ip_spectrum, di.ip_tier,
                di.ip_total, di.ip_committees,
-               SUM(cf.amount_real) as local_total,
+               SUM(COALESCE(cf.balanced_amount, cf.amount_real)) as local_total,
                di.fec_partisan_lean
         FROM donor_identities di
         JOIN campaign_finance cf ON cf.donor_id = di.donor_id
