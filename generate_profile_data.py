@@ -1499,8 +1499,9 @@ def main():
                         "Pass an exact recipient string to disambiguate (e.g. 'Alter, Ryan').")
     parser.add_argument("--slug", default=None, help="Override the output slug (e.g. 'alter'). "
                         "Defaults to a slugified candidate fragment.")
-    parser.add_argument("--output-dir", default=_REPO_ROOT,
-                        help="Output directory for JSON files")
+    parser.add_argument("--output-dir", default=os.path.join(_REPO_ROOT, "sanantonio"),
+                        help="Output directory for JSON files (defaults to the sanantonio/ "
+                        "site build dir; writing to the repo root leaves stray artifacts)")
     args = parser.parse_args()
 
     generate(args.candidate, args.output_dir, slug_override=args.slug)
