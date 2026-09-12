@@ -555,7 +555,7 @@ Going live = **drop `soon`, add `href` + `raised` + `donors` + `empPct` +
 
 `sanantonio/assets/photos/sa-<slug>.webp` plus a provenance entry in
 `sanantonio/assets/photos/sa_manifest.json`, plus the slug's photo key in the
-`PHOTOS` set at `sanantonio/index.html:289`:
+`PHOTOS` set at `sanantonio/index.html:226`:
 
 ```js
 const PHOTOS = new Set(['sa-jones','sa-kaur','sa-mckeerodriguez','sa-viagran','sa-mungia','sa-castillo','sa-galvan','sa-gavito','sa-gonzalez','sa-spears','sa-whyte']);
@@ -923,7 +923,7 @@ the cross-dir coverage glob (`../*_research/*batch_*.json`) doesn't care.
 CANDIDATE_CYCLES and the landing JSON. `OFFICE_OVERRIDE` in
 `generate_profile_data.py` is equally required (Viagran's registration commit
 `e2ff5ed` touched exactly `CANDIDATE_CYCLES` + `OFFICE_OVERRIDE` + ROSTER),
-and `PHOTOS` in `sanantonio/index.html:289` plus
+and `PHOTOS` in `sanantonio/index.html:226` plus
 `sanantonio/assets/photos/sa_manifest.json` are two more (already populated for
 all 11 sitting members).
 
@@ -1108,6 +1108,6 @@ this checkout. Where a plan doc disagrees, the entry here is authoritative.
 | 3 | `generate_profile_data.py` | `OFFICE_OVERRIDE[slug]` | **yes** — hero badge falls back to a district-less string |
 | 4 | `generate_profile_data.py` | `CANDIDATE_CYCLES[slug]` | only for multi-campaign members |
 | 5 | `sanantonio/sanantonio_landing.json` | `candidates[]` entry: drop `soon`, add `href`/`raised`/`donors`/`empPct`/`topGroups` | **yes** — via `_update_landing.py <slug>` |
-| 6 | `sanantonio/index.html` | `PHOTOS` set (line ~289) | already covers all 11 seats; needed for any new filer |
+| 6 | `sanantonio/index.html` | `PHOTOS` set (line ~226) | already covers all 11 seats; needed for any new filer |
 | 7 | `sanantonio/assets/photos/` | `sa-<slug>.webp` + `sa_manifest.json` provenance entry | same as above |
 | 8 | `build_candidate.py` | `CANDIDATE_SLUGS` / `UNLISTED_SLUGS` | only for non-officeholders / unlisted pages |
